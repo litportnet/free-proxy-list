@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "83.56.15.57",
+    "port": 5678,
+    "url": "socks4://83.56.15.57:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 708,
+    "latency_median_ms": 1234.5,
+    "uptime_24h": 63.2,
+    "uptime_7d": 65.7,
+    "checks_7d": 562,
+    "exit_ip": "83.56.15.57",
+    "exit_shared": 1,
+    "country": "es",
+    "region": "Madrid",
+    "city": "Madrid",
+    "timezone": "Europe/Madrid",
+    "asn": 3352,
+    "asn_org": "TELEFONICA DE ESPANA S.A.U.",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:48:54.216Z",
+    "last_checked": "2026-09-15T19:34:25.157Z"
+  }
+]

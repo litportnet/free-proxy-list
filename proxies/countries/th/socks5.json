@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "66.59.197.61",
+    "port": 4000,
+    "url": "socks5://66.59.197.61:4000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1219,
+    "latency_median_ms": 1311,
+    "uptime_24h": 41.1,
+    "uptime_7d": 40.5,
+    "checks_7d": 153,
+    "exit_ip": "186.247.190.42",
+    "exit_shared": 1,
+    "country": "th",
+    "region": "Bangkok",
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 11,
+    "first_seen": "2026-08-15T21:37:09.934Z",
+    "last_checked": "2026-09-15T19:32:51.689Z"
+  }
+]

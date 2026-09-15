@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.184.92.221",
+    "port": 80,
+    "url": "http://41.184.92.221:80",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 1918,
+    "latency_median_ms": 1045,
+    "uptime_24h": 30.9,
+    "uptime_7d": 48.3,
+    "checks_7d": 572,
+    "exit_ip": "41.73.242.219",
+    "exit_shared": 1,
+    "country": "ng",
+    "region": "Lagos",
+    "city": "Lagos",
+    "timezone": "Africa/Lagos",
+    "asn": 16284,
+    "asn_org": "Inq. Digital Nigeria",
+    "sources_count": 12,
+    "first_seen": "2026-08-28T02:30:34.573Z",
+    "last_checked": "2026-09-15T19:29:37.713Z"
+  }
+]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,212.39.114.139,5678,socks4://212.39.114.139:5678,elite,false,1719,1214.5,25.3,41.2,522,212.39.114.139,1,ba,Federation of B&H,Mostar,Europe/Sarajevo,20875,JP HT d.d. Mostar,13,2025-09-04T23:48:53.450Z,2026-09-15T19:30:16.707Z

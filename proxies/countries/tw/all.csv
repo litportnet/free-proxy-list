@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,202.160.76.167,1080,socks5://202.160.76.167:1080,elite,true,3008,2172,98.1,86.7,60,202.160.76.167,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,6,2026-09-07T08:23:05.627Z,2026-09-15T19:32:42.040Z
+socks5,202.160.76.221,1080,socks5://202.160.76.221:1080,elite,true,3461,3246.5,96.2,85,60,202.160.76.221,1,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,8,2026-09-07T08:23:05.732Z,2026-09-15T19:34:17.343Z
+socks4,202.160.76.167,1080,socks4://202.160.76.167:1080,elite,false,3317,1357,97.8,84.6,52,202.160.76.167,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,6,2026-09-07T08:23:09.605Z,2026-09-15T19:26:03.166Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,2809,7005,10.5,45,451,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,12,2025-09-10T19:35:10.419Z,2026-09-15T19:32:31.683Z

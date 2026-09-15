@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,130.162.192.208,8080,http://130.162.192.208:8080,elite,false,1862,2393.5,26.3,23.5,251,130.162.192.208,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,16,2026-09-02T19:45:06.799Z,2026-09-15T19:27:03.911Z

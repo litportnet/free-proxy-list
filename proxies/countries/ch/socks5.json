@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "185.195.71.218",
+    "port": 18080,
+    "url": "socks5://185.195.71.218:18080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 737,
+    "latency_median_ms": 736.5,
+    "uptime_24h": 97.6,
+    "uptime_7d": 71.1,
+    "checks_7d": 187,
+    "exit_ip": "185.195.71.218",
+    "exit_shared": 2,
+    "country": "ch",
+    "region": "Lucerne",
+    "city": "Luzern",
+    "timezone": "Europe/Zurich",
+    "asn": 56803,
+    "asn_org": "Datasource AG",
+    "sources_count": 11,
+    "first_seen": "2025-11-22T16:10:15.367Z",
+    "last_checked": "2026-09-15T19:33:15.296Z"
+  }
+]

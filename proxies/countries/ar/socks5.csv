@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10808,socks5://65.21.252.66:10808,elite,true,1834,2713.5,53.7,58,495,181.119.160.58,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,18747,IFX Corporation,11,2026-08-17T06:52:34.557Z,2026-09-15T19:28:24.336Z

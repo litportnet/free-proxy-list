@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,81.236.184.63,1080,socks5://81.236.184.63:1080,elite,false,834,847.5,59.9,49.6,496,81.236.184.63,1,se,Stockholm,Tumba,Europe/Stockholm,3301,Telia Company AB,12,2026-09-09T12:52:48.285Z,2026-09-15T19:33:34.352Z
+socks5,132.243.168.30,9150,socks5://132.243.168.30:9150,elite,false,2482,1506,68.2,39.2,316,45.84.107.74,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,12,2026-08-31T03:06:52.990Z,2026-09-15T19:30:40.098Z
+socks5,57.128.231.218,1001,socks5://57.128.231.218:1001,elite,true,3908,2890.5,42.6,34.9,255,193.138.218.203,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,13,2026-09-10T22:54:11.022Z,2026-09-15T19:33:06.504Z

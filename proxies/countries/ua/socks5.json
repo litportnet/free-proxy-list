@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "178.150.77.204",
+    "port": 10801,
+    "url": "socks5://178.150.77.204:10801",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 855,
+    "latency_median_ms": 1830,
+    "uptime_24h": 57.7,
+    "uptime_7d": 54.1,
+    "checks_7d": 618,
+    "exit_ip": "178.150.77.204",
+    "exit_shared": 1,
+    "country": "ua",
+    "region": "Kyiv City",
+    "city": "Kyiv",
+    "timezone": "Europe/Kyiv",
+    "asn": 13188,
+    "asn_org": "CONTENT DELIVERY NETWORK LTD",
+    "sources_count": 13,
+    "first_seen": "2026-06-29T22:34:41.837Z",
+    "last_checked": "2026-09-15T19:34:29.268Z"
+  }
+]

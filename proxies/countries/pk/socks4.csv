@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,false,1173,1699.5,80.1,74.3,635,160.30.104.170,1,pk,Punjab,Rajanpur,Asia/Karachi,134489,S. B Link Network,9,2026-08-09T01:08:58.379Z,2026-09-15T19:33:39.904Z
+socks4,103.225.221.18,5678,socks4://103.225.221.18:5678,elite,false,1181,2864,65.2,67.9,652,103.225.221.18,1,pk,Punjab,Lahore,Asia/Karachi,55501,141-143 Maulana Shaukat Ali Road,9,2025-09-05T20:06:23.424Z,2026-09-15T19:27:38.392Z
+socks4,58.65.167.165,4145,socks4://58.65.167.165:4145,elite,false,2322,1768.5,36,39.2,561,124.109.44.126,1,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,9,2025-09-04T23:48:58.453Z,2026-09-15T19:25:24.992Z

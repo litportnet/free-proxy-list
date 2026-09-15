@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "77.242.21.165",
+    "port": 8080,
+    "url": "http://77.242.21.165:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4269,
+    "latency_median_ms": 2941.5,
+    "uptime_24h": 19.2,
+    "uptime_7d": 19.4,
+    "checks_7d": 134,
+    "exit_ip": "77.242.21.165",
+    "exit_shared": 1,
+    "country": "al",
+    "region": "Tirana",
+    "city": "Tirana",
+    "timezone": "Europe/Tirane",
+    "asn": 35047,
+    "asn_org": "Abissnet sh.a.",
+    "sources_count": 13,
+    "first_seen": "2026-09-13T05:22:51.670Z",
+    "last_checked": "2026-09-15T19:27:12.313Z"
+  }
+]

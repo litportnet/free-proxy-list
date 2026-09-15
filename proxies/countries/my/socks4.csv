@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.1.105.10,4153,socks4://103.1.105.10:4153,elite,false,8479,2296,49.2,44.2,566,219.93.248.80,1,my,Perak,Bidur,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,9,2025-09-05T20:06:27.398Z,2026-09-15T19:27:36.787Z
+socks4,103.58.16.106,4145,socks4://103.58.16.106:4145,elite,false,4180,4180.5,50,43.7,542,103.58.16.106,2,my,Selangor,Sepang,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,9,2025-09-04T23:02:04.839Z,2026-09-15T19:28:25.489Z
+socks4,45.117.228.97,4145,socks4://45.117.228.97:4145,elite,false,8980,3170.5,48.8,40.2,575,103.58.16.106,2,my,Selangor,Sepang,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,9,2025-09-05T20:06:24.532Z,2026-09-15T19:35:02.582Z
+socks4,60.54.19.46,1080,socks4://60.54.19.46:1080,elite,false,1258,1302.5,14.3,14.7,150,60.54.19.45,1,my,Selangor,Kampung Baru Balakong,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,5,2026-03-10T04:47:34.369Z,2026-09-15T19:32:37.414Z

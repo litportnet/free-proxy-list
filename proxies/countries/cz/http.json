@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "95.129.101.73",
+    "port": 80,
+    "url": "http://95.129.101.73:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9869,
+    "latency_median_ms": 8743.5,
+    "uptime_24h": 53.1,
+    "uptime_7d": 47.5,
+    "checks_7d": 438,
+    "exit_ip": "95.129.101.73",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "South Moravian",
+    "city": "Brno",
+    "timezone": "Europe/Prague",
+    "asn": 24641,
+    "asn_org": "FASTER CZ spol. s r.o.",
+    "sources_count": 13,
+    "first_seen": "2025-09-08T03:28:25.725Z",
+    "last_checked": "2026-09-15T19:30:57.782Z"
+  }
+]

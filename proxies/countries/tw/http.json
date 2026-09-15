@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "34.81.160.132",
+    "port": 80,
+    "url": "http://34.81.160.132:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2809,
+    "latency_median_ms": 7005,
+    "uptime_24h": 10.5,
+    "uptime_7d": 45,
+    "checks_7d": 451,
+    "exit_ip": "34.81.160.132",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taipei",
+    "timezone": "Asia/Taipei",
+    "asn": 396982,
+    "asn_org": "Google LLC",
+    "sources_count": 12,
+    "first_seen": "2025-09-10T19:35:10.419Z",
+    "last_checked": "2026-09-15T19:32:31.683Z"
+  }
+]

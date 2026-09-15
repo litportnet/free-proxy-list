@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.216.50.210,1080,socks4://103.216.50.210:1080,elite,false,1194,2213.5,56.3,67,634,103.216.50.210,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",12,2026-08-09T22:19:45.551Z,2026-09-15T19:32:24.105Z
+socks4,203.189.159.241,1080,socks4://203.189.159.241:1080,elite,false,8276,3441.5,55.9,54.9,594,203.189.159.241,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",1,2026-03-17T17:23:30.518Z,2026-09-15T19:25:15.566Z
+socks4,124.248.164.36,1080,socks4://124.248.164.36:1080,elite,false,4169,3837,26.9,38.3,570,124.248.164.36,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",11,2026-03-07T20:17:31.362Z,2026-09-15T19:33:58.909Z

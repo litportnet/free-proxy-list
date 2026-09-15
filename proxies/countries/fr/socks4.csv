@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,false,3778,1713,96.5,92.4,694,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,7,2026-02-25T16:07:34.843Z,2026-09-15T19:28:28.652Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,false,1062,1255.5,90.4,90.4,52,157.173.115.35,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,8,2026-09-15T10:50:54.475Z,2026-09-15T19:30:59.867Z
+socks4,158.220.99.85,4545,socks4://158.220.99.85:4545,elite,false,2980,5077.5,63,60.2,113,158.220.99.85,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,10,2026-08-25T00:50:18.878Z,2026-09-15T19:34:17.386Z
+socks4,109.172.55.177,1082,socks4://109.172.55.177:1082,elite,false,503,1017,52.7,53.3,629,109.172.55.177,2,fr,Île-de-France,Paris,Europe/Paris,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,12,2026-07-30T11:05:17.984Z,2026-09-15T19:27:25.896Z

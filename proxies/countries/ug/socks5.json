@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 15948,
+    "url": "socks5://45.74.31.42:15948",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3025,
+    "latency_median_ms": 4689.5,
+    "uptime_24h": 21.4,
+    "uptime_7d": 25.4,
+    "checks_7d": 59,
+    "exit_ip": "102.34.160.119",
+    "exit_shared": 1,
+    "country": "ug",
+    "region": "Central Region",
+    "city": "Kampala",
+    "timezone": "Africa/Kampala",
+    "asn": 327687,
+    "asn_org": "Research and Education Network for Uganda",
+    "sources_count": 8,
+    "first_seen": "2026-09-11T23:07:06.596Z",
+    "last_checked": "2026-09-15T19:35:22.670Z"
+  }
+]

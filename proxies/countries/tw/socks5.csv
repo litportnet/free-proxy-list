@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,202.160.76.167,1080,socks5://202.160.76.167:1080,elite,true,3008,2172,98.1,86.7,60,202.160.76.167,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,6,2026-09-07T08:23:05.627Z,2026-09-15T19:32:42.040Z
+socks5,202.160.76.221,1080,socks5://202.160.76.221:1080,elite,true,3461,3246.5,96.2,85,60,202.160.76.221,1,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,8,2026-09-07T08:23:05.732Z,2026-09-15T19:34:17.343Z

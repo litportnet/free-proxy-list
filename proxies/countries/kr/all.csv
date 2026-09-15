@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,817,790.5,100,100,714,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,12,2026-09-06T11:13:08.921Z,2026-09-15T19:27:34.123Z
+http,1.231.81.166,3128,http://1.231.81.166:3128,transparent,true,764,732,99.3,99.7,714,1.231.81.166,1,kr,Seoul,Seoul,Asia/Seoul,9318,SK Broadband Co Ltd,16,2026-03-06T12:01:05.611Z,2026-09-15T19:34:29.774Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,643,886.5,100,99.4,708,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-09-15T19:28:21.755Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1969,4603.5,67.7,66.8,671,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,14,2025-09-04T23:50:06.749Z,2026-09-15T19:27:57.486Z
+socks4,175.203.138.160,5678,socks4://175.203.138.160:5678,elite,false,2014,1919,65.9,65.7,653,175.203.138.160,1,kr,Chungcheongnam-do,Yesan,Asia/Seoul,4766,Korea Telecom,9,2025-09-04T23:49:12.526Z,2026-09-15T19:28:08.627Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,3873,1838,61.9,65.3,651,183.110.216.129,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,12,2025-11-24T23:07:07.917Z,2026-09-15T19:27:52.084Z
+http,112.216.54.226,12121,http://112.216.54.226:12121,elite,false,1854,822.5,41.3,45.4,570,112.216.54.226,1,kr,Gyeonggi-do,Yangp'yŏng,Asia/Seoul,3786,LG DACOM Corporation,16,2026-08-13T08:04:48.871Z,2026-09-15T19:32:51.690Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,2020,2959.5,41.4,45.3,590,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,15,2025-09-04T23:49:05.991Z,2026-09-15T19:30:30.248Z

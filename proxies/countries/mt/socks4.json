@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "213.165.185.211",
+    "port": 4153,
+    "url": "socks4://213.165.185.211:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 813,
+    "latency_median_ms": 1291,
+    "uptime_24h": 32.1,
+    "uptime_7d": 43.8,
+    "checks_7d": 571,
+    "exit_ip": "213.165.185.211",
+    "exit_shared": 1,
+    "country": "mt",
+    "region": "In-Naxxar",
+    "city": "Naxxar",
+    "timezone": "Europe/Malta",
+    "asn": 12709,
+    "asn_org": "Melita Limited",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:02:08.138Z",
+    "last_checked": "2026-09-15T19:34:38.070Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "38.7.195.49",
+    "port": 999,
+    "url": "http://38.7.195.49:999",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 5919,
+    "latency_median_ms": 4221,
+    "uptime_24h": 44.3,
+    "uptime_7d": 37.4,
+    "checks_7d": 573,
+    "exit_ip": "151.241.85.26",
+    "exit_shared": 1,
+    "country": "cl",
+    "region": "O'Higgins Region",
+    "city": "San Vicente de Tagua Tagua",
+    "timezone": "America/Santiago",
+    "asn": 274099,
+    "asn_org": "VALLENET SPA",
+    "sources_count": 15,
+    "first_seen": "2026-02-10T13:55:01.662Z",
+    "last_checked": "2026-09-15T19:28:25.459Z"
+  }
+]

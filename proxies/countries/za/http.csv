@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.57.63.1,8104,http://41.57.63.1:8104,transparent,false,5351,5254.5,36,26.4,292,41.57.63.1,1,za,Gauteng,Johannesburg,Africa/Johannesburg,327688,Screamer Telecommunications,10,2026-05-10T21:59:44.038Z,2026-09-15T19:24:47.732Z

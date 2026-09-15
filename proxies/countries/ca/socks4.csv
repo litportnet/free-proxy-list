@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,7359,7158,74.3,74.5,513,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,11,2026-09-12T00:07:29.017Z,2026-09-15T19:27:31.967Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,115,1144,79.4,72.9,665,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,9,2025-09-04T23:49:01.331Z,2026-09-15T19:28:56.356Z
+socks4,45.73.0.118,5678,socks4://45.73.0.118:5678,elite,false,1272,760.5,48.9,59.1,628,45.73.0.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,13,2025-09-04T23:49:06.050Z,2026-09-15T19:31:42.739Z
+socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,305,3241.5,47.1,50.2,604,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-04T23:49:11.832Z,2026-09-15T19:26:05.228Z

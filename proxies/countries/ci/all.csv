@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.155.90.26,1080,socks4://160.155.90.26:1080,elite,false,1524,2253.5,56.8,65.2,603,160.155.90.26,1,ci,Savanes District,Korhogo,Africa/Abidjan,29571,Orange Côte d'Ivoire,9,2026-07-05T17:50:49.617Z,2026-09-15T19:28:02.998Z

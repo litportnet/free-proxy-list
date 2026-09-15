@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,158,328,87.1,92.4,697,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,16,2026-08-28T17:37:16.156Z,2026-09-15T19:33:18.907Z
+http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,845,546.5,52.2,63,662,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,10,2026-07-14T02:36:12.791Z,2026-09-15T19:27:20.138Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,734,769.5,34.1,34.3,321,149.22.81.219,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,14,2026-09-12T17:16:29.342Z,2026-09-15T19:28:57.914Z
+http,147.182.156.27,8080,http://147.182.156.27:8080,elite,true,113,114.5,100,,4,147.182.156.27,1,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",8,2026-09-15T18:55:11.028Z,2026-09-15T19:26:46.646Z

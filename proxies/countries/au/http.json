@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "130.162.192.208",
+    "port": 8080,
+    "url": "http://130.162.192.208:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1862,
+    "latency_median_ms": 2393.5,
+    "uptime_24h": 26.3,
+    "uptime_7d": 23.5,
+    "checks_7d": 251,
+    "exit_ip": "130.162.192.208",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "Victoria",
+    "city": "Melbourne",
+    "timezone": "Australia/Melbourne",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 16,
+    "first_seen": "2026-09-02T19:45:06.799Z",
+    "last_checked": "2026-09-15T19:27:03.911Z"
+  }
+]

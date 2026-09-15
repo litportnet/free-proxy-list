@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.242.21.165,8080,http://77.242.21.165:8080,transparent,false,4269,2941.5,19.2,19.4,134,77.242.21.165,1,al,Tirana,Tirana,Europe/Tirane,35047,Abissnet sh.a.,13,2026-09-13T05:22:51.670Z,2026-09-15T19:27:12.313Z

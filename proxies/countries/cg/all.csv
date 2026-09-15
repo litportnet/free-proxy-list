@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,102.64.116.1,4145,socks4://102.64.116.1:4145,elite,false,2095,2095.5,30.7,23.1,186,102.129.89.170,1,cg,Brazzaville,Brazzaville,Africa/Brazzaville,37451,CONGO TELECOM,8,2025-09-04T23:49:01.314Z,2026-09-15T19:35:02.575Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,178.48.13.177,80,socks4://178.48.13.177:80,elite,false,757,809.5,33.9,31.4,299,178.48.13.177,1,hu,Veszprém,Herend,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,9,2026-07-05T01:42:54.951Z,2026-09-15T19:34:17.358Z

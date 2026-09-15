@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,1872,1844.5,45.2,41.3,288,85.117.32.166,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,13,2026-07-04T18:38:41.976Z,2026-09-15T19:28:36.756Z

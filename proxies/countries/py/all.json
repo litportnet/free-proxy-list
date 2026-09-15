@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "179.189.219.98",
+    "port": 4145,
+    "url": "socks4://179.189.219.98:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1789,
+    "latency_median_ms": 1780,
+    "uptime_24h": 69.6,
+    "uptime_7d": 60.3,
+    "checks_7d": 624,
+    "exit_ip": "179.189.219.98",
+    "exit_shared": 1,
+    "country": "py",
+    "region": "Asuncion",
+    "city": "Asunción",
+    "timezone": "America/Asuncion",
+    "asn": 28103,
+    "asn_org": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
+    "sources_count": 9,
+    "first_seen": "2025-09-04T23:48:58.729Z",
+    "last_checked": "2026-09-15T19:33:24.596Z"
+  }
+]
