@@ -1,0 +1,65 @@
+name: Stale check
+
+# Freshness must not depend on a successful publish: if the 5-minute server-side job
+# (jobs/routine/publishFreeProxiesGithub.js) stops running or starts failing, `live/proxies/stats.json`
+# stops advancing and its `expires_at` falls into the past. This workflow notices that and flips
+# `proxies/badges/status.json` on `main` to red, independently of the publish job.
+on:
+  schedule:
+    - cron: '17 * * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  stale-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check live/proxies/stats.json freshness
+        run: |
+          set -euo pipefail
+          if ! curl --max-time 10 -fsSL 'https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/stats.json' -o /tmp/stats.json; then
+            printf '{"error":"live stats unavailable"}\n' > /tmp/stats.json
+          fi
+
+          node --input-type=module -e '
+            import fs from "node:fs"
+            const badgePath = "proxies/badges/status.json"
+            let badge = { schemaVersion: 1, label: "status", message: "live stats unavailable or malformed", color: "red" }
+            try {
+              const stats = JSON.parse(fs.readFileSync("/tmp/stats.json", "utf8"))
+              const generatedAt = new Date(stats.generated_at)
+              const expiresAt = new Date(stats.expires_at)
+              if (!Number.isFinite(generatedAt.getTime()) || !Number.isFinite(expiresAt.getTime())) throw new Error("invalid dates")
+              if (generatedAt.getTime() > Date.now() + 5000) throw new Error("future generated_at")
+              if (Date.now() - expiresAt.getTime() > 60 * 60 * 1000) {
+                badge = { schemaVersion: 1, label: "status", message: `stale since ${expiresAt.toISOString()}`, color: "red" }
+              } else badge = { schemaVersion: 1, label: "status", message: "live feed fresh", color: "brightgreen" }
+            } catch (_) {}
+
+            const before = fs.existsSync(badgePath) ? fs.readFileSync(badgePath, "utf8") : ""
+            const after = JSON.stringify(badge, null, 2) + "\n"
+            if (before === after) {
+              console.log("status badge unchanged, nothing to commit")
+              process.exit(0)
+            }
+            fs.mkdirSync("proxies/badges", { recursive: true })
+            fs.writeFileSync(badgePath, after)
+            fs.writeFileSync(process.env.GITHUB_ENV, `BADGE_CHANGED=1\n`, { flag: "a" })
+          '
+
+      - name: Commit status badge if it changed
+        if: env.BADGE_CHANGED == '1'
+        run: |
+          set -euo pipefail
+          git config user.name 'litport-bot[bot]'
+          git config user.email 'litport-bot[bot]@users.noreply.github.com'
+          git add proxies/badges/status.json
+          git commit -m "Stale check: update status badge"
+          git push origin HEAD:main
