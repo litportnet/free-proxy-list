@@ -15,6 +15,12 @@ Free HTTP, SOCKS4 and SOCKS5 proxies, re-checked every few minutes, with latency
 ![stars](https://img.shields.io/github/stars/litportnet/free-proxy-list)
 ![license](https://img.shields.io/badge/license-MIT%20%2F%20CC0-blue)
 
+## For developers and coding agents
+
+Use the [snapshot API](https://litport.net/api/free-proxy/snapshot?checkedWithinMin=30) for a machine-readable JSON envelope with `generatedAt`, `count`, `totalCount`, `truncated`, and `proxies`. Reject truncated snapshots when you need a complete list, and check each proxy’s timestamp before use. The [API contract](https://litport.net/docs/free-proxy-api) and [repository schema](SCHEMA.md) describe their respective field names.
+
+For application integration, the [JavaScript, TypeScript and Python SDK](https://github.com/litportnet/free-proxy-sdk) provides filtering and selection plus a CLI with JSON, CSV and TXT output. These lists supply proxy addresses; your HTTP client or browser must be configured to use the selected proxy.
+
 ## Download
 
 <!-- DOWNLOADS:START -->
