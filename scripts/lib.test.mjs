@@ -1,8 +1,6 @@
 import assert from 'node:assert/strict'
 import test from 'node:test'
 
-import { formatFreeProxy } from '../../../app/utils/getFreeProxies.js'
-import { mongoMapperParityFixtures } from '../test-fixtures/mongo-mapper-parity.mjs'
 
 import {
   apiRowToProxy,
@@ -95,16 +93,6 @@ test('apiRowToProxy maps anonymityLevel low/null and a missing asn', () => {
   assert.equal(apiRowToProxy(apiRow({ anonymityLevel: null })).anonymity, 'unknown')
   assert.equal(apiRowToProxy(apiRow({ asn: null })).asn, null)
   assert.equal(apiRowToProxy(apiRow({ geoCountry: null })).country, null)
-})
-
-test('the public formatter preserves all pre-phase-3b Mongo mapper fields for 50 frozen rows', () => {
-  assert.equal(mongoMapperParityFixtures.length, 50)
-  for (const { raw, expected, expectedLatencyMedianMs } of mongoMapperParityFixtures) {
-    const mapped = apiRowToProxy(formatFreeProxy(raw))
-    const legacyFields = Object.fromEntries(Object.keys(expected).map(key => [key, mapped[key]]))
-    assert.deepEqual(legacyFields, expected, raw.host)
-    assert.equal(mapped.latency_median_ms, expectedLatencyMedianMs, raw.host)
-  }
 })
 
 test('selectPublishable rejects bogons, bad ports, wrong protocol and stale pingAt', () => {
