@@ -1,5 +1,7 @@
 # Free proxy list by litport
 
+[Browse the live Litport free proxy list](https://litport.net/free-proxy).
+
 Free HTTP, SOCKS4 and SOCKS5 proxies, re-checked every few minutes, with latency, uptime, anonymity and country for every proxy. The lists in this repository refresh every 5 minutes and mirror the litport.net free proxy list and API.
 
 <!-- STATS:START -->
