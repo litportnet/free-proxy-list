@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,31.77.131.173,8080,http://31.77.131.173:8080,elite,true,1423,1961.5,96.9,96.9,64,31.77.131.173,1,nl,Limburg,Kerkrade,Europe/Amsterdam,215439,PLAY2GO INTERNATIONAL LIMITED,16,2026-09-15T08:49:52.699Z,2026-09-15T19:25:55.842Z
+http,195.26.224.135,80,http://195.26.224.135:80,elite,false,9612,2685,78.5,86.6,684,195.26.224.135,1,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,11,2025-12-06T19:02:41.256Z,2026-09-15T19:25:56.365Z
+http,213.111.146.36,18080,http://213.111.146.36:18080,elite,true,532,2274.5,98.9,83.2,220,213.111.146.36,3,nl,North Holland,Haarlem,Europe/Amsterdam,43641,SOLLUTIUM EU Sp z.o.o.,9,2026-02-05T23:57:25.438Z,2026-09-15T19:29:23.223Z
+http,153.80.240.2,8080,http://153.80.240.2:8080,elite,true,3552,1522.5,65.2,76,434,153.80.240.2,1,nl,Limburg,Kerkrade,Europe/Amsterdam,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,17,2026-09-12T16:16:04.541Z,2026-09-15T19:28:13.062Z
+http,144.31.30.222,1080,http://144.31.30.222:1080,elite,true,2950,2899.5,54.2,37.6,468,144.31.30.222,3,nl,Limburg,Kerkrade,Europe/Amsterdam,215439,PLAY2GO INTERNATIONAL LIMITED,13,2026-09-09T03:48:15.801Z,2026-09-15T19:25:42.289Z
+http,83.166.247.254,10808,http://83.166.247.254:10808,elite,true,704,591.5,80,,5,169.40.136.13,2,nl,North Holland,Amsterdam,Europe/Amsterdam,30058,FDCservers.net,6,2026-09-15T18:55:11.028Z,2026-09-15T19:35:38.069Z

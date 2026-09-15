@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.146.163.31,80,http://45.146.163.31:80,elite,false,658,612.5,100,99.9,713,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,12,2025-09-06T05:34:51.856Z,2026-09-15T19:34:45.681Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,667,681.5,98.6,96.6,705,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",13,2025-09-06T12:38:44.906Z,2026-09-15T19:32:31.663Z
+http,54.65.147.118,80,http://54.65.147.118:80,transparent,false,2696,2700.5,87.1,85.9,71,54.65.147.118,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",2,2026-06-11T21:47:10.639Z,2026-09-15T19:33:44.077Z
+http,111.119.162.248,10938,http://111.119.162.248:10938,elite,true,7246,4829.5,11.8,,21,8.216.119.64,3,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",10,2026-08-15T15:31:48.369Z,2026-09-15T19:32:01.883Z

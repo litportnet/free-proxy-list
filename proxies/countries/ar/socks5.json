@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10808,
+    "url": "socks5://65.21.252.66:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1834,
+    "latency_median_ms": 2713.5,
+    "uptime_24h": 53.7,
+    "uptime_7d": 58,
+    "checks_7d": 495,
+    "exit_ip": "181.119.160.58",
+    "exit_shared": 1,
+    "country": "ar",
+    "region": "Buenos Aires F.D.",
+    "city": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "asn": 18747,
+    "asn_org": "IFX Corporation",
+    "sources_count": 11,
+    "first_seen": "2026-08-17T06:52:34.557Z",
+    "last_checked": "2026-09-15T19:28:24.336Z"
+  }
+]

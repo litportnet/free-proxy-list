@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "130.193.123.34",
+    "port": 5678,
+    "url": "socks4://130.193.123.34:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1939,
+    "latency_median_ms": 3903,
+    "uptime_24h": 58.5,
+    "uptime_7d": 56.8,
+    "checks_7d": 220,
+    "exit_ip": "130.193.123.34",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 49800,
+    "asn_org": "GNC-Alfa CJSC",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:02:26.237Z",
+    "last_checked": "2026-09-15T19:26:05.757Z"
+  }
+]

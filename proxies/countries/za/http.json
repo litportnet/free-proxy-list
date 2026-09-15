@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.57.63.1",
+    "port": 8104,
+    "url": "http://41.57.63.1:8104",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 5351,
+    "latency_median_ms": 5254.5,
+    "uptime_24h": 36,
+    "uptime_7d": 26.4,
+    "checks_7d": 292,
+    "exit_ip": "41.57.63.1",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Gauteng",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "asn": 327688,
+    "asn_org": "Screamer Telecommunications",
+    "sources_count": 10,
+    "first_seen": "2026-05-10T21:59:44.038Z",
+    "last_checked": "2026-09-15T19:24:47.732Z"
+  }
+]

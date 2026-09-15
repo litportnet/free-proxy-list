@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "195.114.209.50",
+    "port": 80,
+    "url": "http://195.114.209.50:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4257,
+    "latency_median_ms": 4120,
+    "uptime_24h": 81.2,
+    "uptime_7d": 87.2,
+    "checks_7d": 681,
+    "exit_ip": "195.114.209.50",
+    "exit_shared": 1,
+    "country": "es",
+    "region": "Madrid",
+    "city": "Madrid",
+    "timezone": "Europe/Madrid",
+    "asn": 57286,
+    "asn_org": "GIGAS HOSTING S.A.",
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:33.237Z",
+    "last_checked": "2026-09-15T19:34:32.344Z"
+  }
+]

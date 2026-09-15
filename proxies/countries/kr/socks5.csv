@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1969,4603.5,67.7,66.8,671,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,14,2025-09-04T23:50:06.749Z,2026-09-15T19:27:57.486Z

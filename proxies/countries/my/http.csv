@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,219.93.101.62,80,http://219.93.101.62:80,anonymous,false,1141,1140,100,99.4,711,60.53.60.240,3,my,Kuala Lumpur,Wangsa Maju,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,11,2025-09-04T23:49:22.285Z,2026-09-15T19:35:12.972Z
+http,219.93.101.63,80,http://219.93.101.63:80,anonymous,false,1183,1191,100,99.3,697,60.53.60.240,3,my,Kuala Lumpur,Wangsa Maju,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,13,2025-09-10T21:05:05.517Z,2026-09-15T19:28:03.037Z
+http,219.93.101.60,80,http://219.93.101.60:80,anonymous,false,1177,1138,100,99.2,709,60.53.60.240,3,my,Kuala Lumpur,Wangsa Maju,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,1,2026-03-17T17:23:33.505Z,2026-09-15T19:35:21.053Z
+http,103.95.34.186,3128,http://103.95.34.186:3128,elite,false,2078,1309,100,99,710,103.95.34.186,1,my,Selangor,Shah Alam,Asia/Kuala_Lumpur,136749,KS IT SOLUTIONS SDN BHD,8,2026-08-09T07:10:59.385Z,2026-09-15T19:35:37.023Z

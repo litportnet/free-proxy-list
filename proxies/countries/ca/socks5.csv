@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,161.35.90.93,1081,socks5://161.35.90.93:1081,elite,false,6841,4608,75.2,75.8,669,146.70.137.34,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,13,2026-08-07T23:55:23.891Z,2026-09-15T19:31:36.479Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,7058,6327,72.8,74.1,398,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,10,2026-09-11T21:05:56.215Z,2026-09-15T19:26:53.454Z
+socks5,45.74.31.42,12914,socks5://45.74.31.42:12914,elite,false,1693,2638.5,42.3,,26,51.79.43.5,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,7,2026-09-15T14:53:03.618Z,2026-09-15T19:34:20.023Z

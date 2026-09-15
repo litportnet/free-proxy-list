@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.177.118.145,8118,http://103.177.118.145:8118,transparent,true,2840,1820,95.8,92.7,698,203.76.117.226,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,12,2026-08-19T22:46:45.613Z,2026-09-15T19:34:20.529Z
+http,203.96.224.198,8080,http://203.96.224.198:8080,transparent,false,2182,5934.5,16.7,16,169,203.96.224.199,1,bd,Rangpur Division,Pirganj,Asia/Dhaka,147314,IP Communications Limited,12,2026-05-20T23:21:26.516Z,2026-09-15T19:28:58.433Z
+http,103.113.152.73,14158,http://103.113.152.73:14158,elite,false,2223,4315.5,13.6,12.6,198,103.113.152.73,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,45766,Triangle Services Limited.,16,2026-05-18T15:43:15.451Z,2026-09-15T19:33:07.023Z

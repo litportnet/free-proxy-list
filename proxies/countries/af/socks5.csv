@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.96.233.10,1080,socks5://103.96.233.10:1080,elite,false,2481,4297,41.2,34.9,476,103.96.233.10,1,af,Nangarhar,Jalālābād,Asia/Kabul,133894,Easy Connect- ISP,12,2026-06-12T04:50:44.329Z,2026-09-15T19:27:38.918Z

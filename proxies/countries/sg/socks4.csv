@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,152.69.211.50,40001,socks4://152.69.211.50:40001,elite,false,3154,1409.5,77.1,77.2,675,104.28.222.47,2,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",12,2026-08-18T06:24:04.482Z,2026-09-15T19:35:21.068Z
+socks4,43.160.255.142,7890,socks4://43.160.255.142:7890,elite,false,919,1719,85,72.8,651,43.160.255.142,3,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",12,2026-07-10T04:49:24.904Z,2026-09-15T19:31:55.852Z
+socks4,172.237.90.118,1080,socks4://172.237.90.118:1080,elite,false,1184,3176.5,62.8,,43,172.237.90.118,1,sg,Singapore,Singapore,Asia/Singapore,63949,Akamai Connected Cloud,7,2026-09-15T09:50:25.933Z,2026-09-15T19:33:39.890Z

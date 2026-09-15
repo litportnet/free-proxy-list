@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,193.104.179.115,3128,http://193.104.179.115:3128,transparent,true,930,1082.5,93.7,94.4,693,193.104.179.115,1,uz,Tashkent,Tashkent,Asia/Tashkent,212444,Bross Telecom,11,2025-11-05T21:28:52.776Z,2026-09-15T19:34:34.470Z
+http,195.158.22.212,3128,http://195.158.22.212:3128,elite,false,6188,2495.5,89.2,93.5,689,195.158.22.212,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,12,2026-08-28T17:37:15.197Z,2026-09-15T19:33:26.656Z
+http,195.158.8.123,3128,http://195.158.8.123:3128,elite,true,1832,1632,85.5,91.5,678,195.158.8.123,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,1,2026-03-17T17:23:33.167Z,2026-09-15T19:33:24.075Z

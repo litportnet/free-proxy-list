@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,166.111.189.38,29290,socks5://166.111.189.38:29290,elite,false,6865,3703,81.2,81.2,85,140.235.11.234,2,sg,Singapore,Singapore,Asia/Singapore,49304,SAKURA LINK LIMITED,11,2026-09-15T04:47:53.412Z,2026-09-15T19:26:07.833Z
+socks5,152.69.211.50,40001,socks5://152.69.211.50:40001,elite,true,3600,1843.5,83,78,682,104.28.222.47,2,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",12,2026-08-18T07:25:16.396Z,2026-09-15T19:29:45.916Z
+socks5,43.160.255.142,7890,socks5://43.160.255.142:7890,elite,false,1156,1901,45.8,32.3,368,43.160.255.142,3,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-07-10T04:49:25.101Z,2026-09-15T19:32:53.242Z
+socks5,111.119.162.248,10915,socks5://111.119.162.248:10915,elite,true,7209,3630,23.9,20,115,47.237.48.65,2,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",12,2026-08-15T21:37:08.542Z,2026-09-15T19:25:36.511Z
