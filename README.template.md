@@ -116,8 +116,8 @@ Full reference: [litport.net/docs/free-proxy-api](https://litport.net/docs/free-
 
 The [litportnet/free-proxy-sdk](https://github.com/litportnet/free-proxy-sdk) client libraries
 provide cached snapshot fetching, filtering, and proxy URL helpers. Install JavaScript with
-[`npm i @litport/free-proxy-sdk`](https://www.npmjs.com/package/@litport/free-proxy-sdk) or
-Python with [`pip install litport-free-proxy-sdk`](https://pypi.org/project/litport-free-proxy-sdk/).
+[`npm i @litportnet/free-proxy-sdk`](https://www.npmjs.com/package/@litportnet/free-proxy-sdk) or
+Python with [`pip install litportnet-free-proxy-sdk`](https://pypi.org/project/litportnet-free-proxy-sdk/).
 
 ## When a free proxy is not enough
 
