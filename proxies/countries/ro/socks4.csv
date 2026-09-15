@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,false,1817,1434,71.3,68.5,632,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,9,2025-09-04T23:49:00.753Z,2026-09-15T19:26:12.643Z

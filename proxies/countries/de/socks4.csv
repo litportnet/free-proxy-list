@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,152.53.183.107,8081,socks4://152.53.183.107:8081,elite,false,2376,1910.5,98.6,94.7,697,152.53.183.107,3,de,Bavaria,Nuremberg,Europe/Berlin,197540,netcup GmbH,14,2026-09-03T16:38:11.524Z,2026-09-15T19:27:31.973Z
+socks4,57.128.231.218,1004,socks4://57.128.231.218:1004,elite,false,3488,4423,71.2,66.5,245,185.209.196.163,1,de,Hesse,Frankfurt am Main,Europe/Berlin,39351,31173 Services AB,11,2026-09-12T22:19:07.276Z,2026-09-15T19:33:58.394Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,false,599,637.5,51.5,49,104,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2026-08-09T00:08:37.800Z,2026-09-15T19:25:11.335Z
+socks4,109.120.138.241,1080,socks4://109.120.138.241:1080,elite,false,4082,3852.5,46.8,37,544,109.120.138.241,1,de,Hesse,Frankfurt am Main,Europe/Berlin,210644,AEZA GROUP LLC,9,2026-06-16T20:47:58.750Z,2026-09-15T19:25:10.823Z

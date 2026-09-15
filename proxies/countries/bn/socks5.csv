@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10811,socks5://49.13.22.249:10811,elite,false,5210,4060,81.4,76.3,595,62.197.158.40,1,bn,Brunei-Muara District,Bandar Seri Begawan,Asia/Brunei,209854,Cyberzone S.A.,12,2026-08-23T21:34:27.912Z,2026-09-15T19:34:55.994Z

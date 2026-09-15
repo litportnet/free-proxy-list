@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "38.75.82.214",
+    "port": 999,
+    "url": "http://38.75.82.214:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 2729,
+    "latency_median_ms": 2822.5,
+    "uptime_24h": 18.2,
+    "uptime_7d": 18.8,
+    "checks_7d": 160,
+    "exit_ip": "38.75.82.210",
+    "exit_shared": 1,
+    "country": "do",
+    "region": "Nacional",
+    "city": "Santo Domingo",
+    "timezone": "America/Santo_Domingo",
+    "asn": 273217,
+    "asn_org": "ACOLME TECH, SRL",
+    "sources_count": 7,
+    "first_seen": "2026-05-16T16:09:15.582Z",
+    "last_checked": "2026-09-15T19:26:05.754Z"
+  }
+]

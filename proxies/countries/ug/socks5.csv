@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.42,15948,socks5://45.74.31.42:15948,elite,true,3025,4689.5,21.4,25.4,59,102.34.160.119,1,ug,Central Region,Kampala,Africa/Kampala,327687,Research and Education Network for Uganda,8,2026-09-11T23:07:06.596Z,2026-09-15T19:35:22.670Z

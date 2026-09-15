@@ -1,0 +1,11 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,57.129.134.10,8086,socks5://57.129.134.10:8086,elite,true,3859,3646,97.1,97.1,105,57.129.134.10,4,gb,England,Bexley,Europe/London,16276,OVH SAS,3,2026-09-15T01:46:09.306Z,2026-09-15T19:27:52.096Z
+socks4,57.129.134.10,8086,socks4://57.129.134.10:8086,elite,false,2764,2198.5,90.5,89.6,106,57.129.134.10,4,gb,England,Bexley,Europe/London,16276,OVH SAS,2,2026-07-21T11:09:56.981Z,2026-09-15T19:30:12.978Z
+http,57.129.134.10,8082,http://57.129.134.10:8082,elite,true,487,547,81.9,85.1,174,57.129.134.10,4,gb,England,Bexley,Europe/London,16276,OVH SAS,10,2026-07-21T18:16:22.211Z,2026-09-15T19:28:03.059Z
+socks5,57.129.134.10,8082,socks5://57.129.134.10:8082,elite,true,1620,2781.5,83.6,83.6,146,57.129.134.10,4,gb,England,Bexley,Europe/London,16276,OVH SAS,9,2026-07-21T19:17:01.180Z,2026-09-15T19:31:32.266Z
+socks5,144.126.197.184,1088,socks5://144.126.197.184:1088,elite,false,1573,2591,78.4,75.5,670,144.126.197.184,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",12,2026-09-01T23:30:32.827Z,2026-09-15T19:32:36.899Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,1874,1873,40.8,38.4,461,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,10,2025-09-05T20:05:56.736Z,2026-09-15T19:32:33.259Z
+http,195.154.191.26,1093,http://195.154.191.26:1093,elite,false,6262,6160,32.7,17.1,146,82.108.39.159,1,gb,England,London,Europe/London,2856,British Telecommunications Limited,9,2026-08-15T04:28:13.569Z,2026-09-15T19:32:36.892Z
+http,195.154.191.26,1086,http://195.154.191.26:1086,elite,true,939,1331,23.1,9.7,72,82.108.7.219,1,gb,England,Colchester,Europe/London,2856,British Telecommunications Limited,8,2026-07-29T06:52:09.362Z,2026-09-15T19:26:25.192Z
+http,195.154.191.26,1090,http://195.154.191.26:1090,elite,true,1242,3513,80,,8,82.108.6.66,1,gb,England,Thetford,Europe/London,2856,British Telecommunications Limited,3,2026-07-26T16:16:42.950Z,2026-09-15T19:35:33.898Z
+socks5,45.74.31.40,12853,socks5://45.74.31.40:12853,elite,true,2683,2345.5,33.3,,33,217.154.51.5,1,gb,England,London,Europe/London,8560,IONOS SE,11,2026-09-15T04:47:53.412Z,2026-09-15T19:27:24.853Z

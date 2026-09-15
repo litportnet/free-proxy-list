@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.50,10478,socks5://45.74.31.50:10478,elite,true,5097,2639.5,49.1,49.1,55,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,8,2026-09-15T03:47:12.852Z,2026-09-15T19:26:31.490Z
+socks5,45.74.31.42,12720,socks5://45.74.31.42:12720,elite,false,6463,5763.5,39.2,39.2,79,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,9,2026-09-15T03:47:12.852Z,2026-09-15T19:30:20.866Z
+socks5,45.74.31.41,12725,socks5://45.74.31.41:12725,elite,false,7245,5274.5,33.9,33.9,62,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,10,2026-09-15T03:47:12.852Z,2026-09-15T19:28:24.382Z
+socks5,45.74.31.30,10650,socks5://45.74.31.30:10650,elite,true,4568,4548,7.7,21.3,136,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,9,2026-08-28T09:32:44.897Z,2026-09-15T19:34:17.915Z
+socks5,45.74.31.41,11844,socks5://45.74.31.41:11844,elite,false,2331,3870.5,68.2,,22,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,8,2026-09-15T15:53:37.000Z,2026-09-15T19:26:36.207Z
+socks5,45.74.31.50,11540,socks5://45.74.31.50:11540,elite,true,4541,3911,37.8,,45,154.0.172.222,6,za,Gauteng,Johannesburg,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,10,2026-09-15T05:48:19.633Z,2026-09-15T19:24:57.092Z

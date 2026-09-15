@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,88.245.138.87,1080,socks4://88.245.138.87:1080,elite,false,3956,3672,72.9,61.2,608,88.245.138.87,1,tr,Uşak,Uşak,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,1,2026-03-17T17:23:30.403Z,2026-09-15T19:30:40.100Z
+socks4,85.105.194.113,4153,socks4://85.105.194.113:4153,elite,false,1434,1075,74.6,57.8,606,85.105.194.113,1,tr,İzmir Province,İzmir,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,9,2025-09-05T20:06:33.520Z,2026-09-15T19:35:31.323Z
+socks4,176.235.182.84,1080,socks4://176.235.182.84:1080,elite,false,822,1820,64.1,51.8,477,176.235.182.84,1,tr,Sakarya,Adapazarı,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,7,2025-09-05T20:06:35.489Z,2026-09-15T19:33:57.828Z
+socks4,176.235.182.90,1080,socks4://176.235.182.90:1080,elite,false,832,846,90,,11,176.235.182.90,1,tr,Kilis,Elbeyli,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,1,2025-09-05T20:06:15.400Z,2026-09-15T19:26:26.222Z

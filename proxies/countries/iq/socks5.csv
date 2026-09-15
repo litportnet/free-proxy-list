@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,130.255.94.32,5080,socks5://130.255.94.32:5080,elite,false,8387,1618,53.5,48.3,602,130.255.94.32,1,iq,Duhok,Zaxo,Asia/Baghdad,197882,Tarin General Trading and Setting Up Internet Device LTD,13,2026-08-25T00:49:11.335Z,2026-09-15T19:30:11.437Z

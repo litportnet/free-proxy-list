@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,1676,1683.5,49.6,44.6,560,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,9,2025-09-05T20:05:42.438Z,2026-09-15T19:34:33.419Z
+socks4,171.22.182.164,1080,socks4://171.22.182.164:1080,elite,false,9035,3290,62.5,40.4,218,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,6,2026-08-21T13:04:25.074Z,2026-09-15T19:25:45.914Z
+socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,false,5631,4555,50.8,39.1,412,91.192.25.37,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,10,2026-08-28T21:39:30.441Z,2026-09-15T19:26:17.924Z
+socks4,94.198.213.252,5678,socks4://94.198.213.252:5678,elite,false,617,1630.5,19.5,30.3,393,109.70.206.178,1,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,9,2025-09-04T23:49:07.766Z,2026-09-15T19:29:49.041Z
