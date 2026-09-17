@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,1171,1025.5,99.3,95.2,618,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,11,2026-05-21T20:26:35.754Z,2026-09-15T19:33:42.528Z
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,492,501,94.8,77.1,188,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,9,2025-11-22T22:38:16.432Z,2026-09-15T19:26:06.802Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,470,501,98.6,89.9,487,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,11,2025-11-22T22:38:16.432Z,2026-09-17T22:34:36.859Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,7757,7713,33.7,31.7,454,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,17,2025-12-06T18:03:11.604Z,2026-09-17T22:36:19.282Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,632,646,97.4,,38,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,3,2025-12-07T12:46:43.973Z,2026-09-17T22:34:54.071Z

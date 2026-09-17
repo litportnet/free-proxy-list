@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "102.222.145.8",
+    "port": 1080,
+    "url": "socks4://102.222.145.8:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1082,
+    "latency_median_ms": 1120,
+    "uptime_24h": 55.8,
+    "uptime_7d": 39.6,
+    "checks_7d": 278,
+    "exit_ip": "102.222.145.8",
+    "exit_shared": 1,
+    "country": "ke",
+    "region": "Mombasa County",
+    "city": "Mombasa",
+    "timezone": "Africa/Nairobi",
+    "asn": 328734,
+    "asn_org": "Blue Streak Horizons Net Limited",
+    "sources_count": 18,
+    "first_seen": "2026-08-11T14:41:12.217Z",
+    "last_checked": "2026-09-17T22:36:48.690Z"
+  }
+]

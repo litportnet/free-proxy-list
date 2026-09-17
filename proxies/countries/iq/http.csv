@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.135.69.34,80,http://185.135.69.34:80,transparent,false,383,362,89,95.8,691,185.135.69.34,1,iq,Baghdad,Baghdad,Asia/Baghdad,205889,Giga Nineveh for internet services Ltd,11,2025-12-06T17:01:45.042Z,2026-09-15T19:34:17.342Z
-http,31.24.252.97,8080,http://31.24.252.97:8080,transparent,false,2888,2741.5,58.7,40.3,392,93.180.217.18,1,iq,Baghdad,Baghdad,Asia/Baghdad,203217,Horizon Scope Mobile Telecom WLL,14,2026-09-04T20:53:07.282Z,2026-09-15T19:26:59.186Z
+http,185.95.186.140,8080,http://185.95.186.140:8080,transparent,true,5531,1072,33.3,,40,185.95.186.140,1,iq,Sulaymaniyah,Sulaymaniyah,Asia/Baghdad,34515,Next Net for Internet and IT Services LTD,4,2026-09-14T21:44:09.155Z,2026-09-17T22:32:38.529Z

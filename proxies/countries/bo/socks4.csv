@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.192.6,5678,socks4://200.105.192.6:5678,elite,false,7806,1777.5,66.2,59.7,616,200.105.192.6,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,9,2025-09-05T00:23:06.350Z,2026-09-15T19:28:42.422Z
-socks4,181.115.207.114,1080,socks4://181.115.207.114:1080,elite,false,3796,3750,36.8,31.4,459,181.115.207.114,1,bo,La Paz Department,La Paz,America/La_Paz,6568,EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA,12,2025-09-04T23:02:47.971Z,2026-09-15T19:26:39.342Z

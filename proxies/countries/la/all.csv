@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,202.123.183.66,5678,socks4://202.123.183.66:5678,elite,false,8606,4635.5,8.7,44,373,202.123.183.66,1,la,Vientiane Prefecture,Vientiane,Asia/Vientiane,24337,"Skytelecom , Transit provider and ISP in Vientiene.",1,2026-03-17T17:23:30.714Z,2026-09-15T19:30:18.787Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "2.56.108.184",
+    "port": 1080,
+    "url": "socks5://2.56.108.184:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 988,
+    "latency_median_ms": 1480.5,
+    "uptime_24h": 60.3,
+    "uptime_7d": 38.9,
+    "checks_7d": 581,
+    "exit_ip": "2.56.108.184",
+    "exit_shared": 1,
+    "country": "tr",
+    "region": "Istanbul",
+    "city": "Istanbul",
+    "timezone": "Europe/Istanbul",
+    "asn": 205463,
+    "asn_org": "Pembe Gul Isguzar Karagoz",
+    "sources_count": 16,
+    "first_seen": "2026-09-07T06:23:41.121Z",
+    "last_checked": "2026-09-17T22:31:43.243Z"
+  }
+]

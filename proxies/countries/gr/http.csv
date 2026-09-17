@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,150.140.148.235,80,http://150.140.148.235:80,elite,false,4369,4559,56.6,50.4,800,150.140.148.235,1,gr,Attica,Athens,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,17,2026-07-09T22:46:02.146Z,2026-09-17T22:29:49.148Z

@@ -6,11 +6,11 @@
     "url": "http://5.45.126.128:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 608,
-    "latency_median_ms": 599.5,
-    "uptime_24h": 68.6,
-    "uptime_7d": 65.6,
-    "checks_7d": 660,
+    "latency_ms": 568,
+    "latency_median_ms": 607,
+    "uptime_24h": 66.7,
+    "uptime_7d": 66.5,
+    "checks_7d": 912,
     "exit_ip": "5.45.126.128",
     "exit_shared": 1,
     "country": "ee",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Tallinn",
     "asn": 198068,
     "asn_org": "P.A.G.M. OU",
-    "sources_count": 13,
+    "sources_count": 18,
     "first_seen": "2025-09-10T19:34:46.751Z",
-    "last_checked": "2026-09-15T19:34:18.426Z"
+    "last_checked": "2026-09-17T22:37:22.726Z"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "154.88.189.22",
+    "port": 5678,
+    "url": "socks4://154.88.189.22:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 395,
+    "latency_median_ms": 411,
+    "uptime_24h": 32.1,
+    "uptime_7d": 22.7,
+    "checks_7d": 207,
+    "exit_ip": "154.88.189.18",
+    "exit_shared": 1,
+    "country": "do",
+    "region": "Santiago Province",
+    "city": "Santiago de los Caballeros",
+    "timezone": "America/Santo_Domingo",
+    "asn": 272011,
+    "asn_org": "TELEMARCH S.R.L",
+    "sources_count": 11,
+    "first_seen": "2026-07-04T19:37:15.894Z",
+    "last_checked": "2026-09-17T22:28:24.695Z"
+  }
+]

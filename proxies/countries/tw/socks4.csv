@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,202.160.76.167,1080,socks4://202.160.76.167:1080,elite,false,3317,1357,97.8,84.6,52,202.160.76.167,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,6,2026-09-07T08:23:09.605Z,2026-09-15T19:26:03.166Z

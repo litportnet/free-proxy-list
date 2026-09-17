@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "95.214.123.143",
+    "port": 8080,
+    "url": "http://95.214.123.143:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1429,
+    "latency_median_ms": 1838,
+    "uptime_24h": 77.3,
+    "uptime_7d": null,
+    "checks_7d": 44,
+    "exit_ip": "95.214.123.143",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Bács-Kiskun",
+    "city": "Kecskemét",
+    "timezone": "Europe/Budapest",
+    "asn": 209001,
+    "asn_org": "DELTAKON KFT.",
+    "sources_count": 3,
+    "first_seen": "2026-06-21T01:44:07.335Z",
+    "last_checked": "2026-09-17T22:33:23.437Z"
+  }
+]

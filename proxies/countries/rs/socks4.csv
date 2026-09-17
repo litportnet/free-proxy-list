@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,false,3742,1818.5,55.7,47.9,749,109.245.110.145,1,rs,Vojvodina,Vojka,Europe/Belgrade,15958,CETINdoo-NET,21,2026-07-05T16:48:25.730Z,2026-09-17T22:37:19.101Z

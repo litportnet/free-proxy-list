@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,89.43.135.181,1080,socks4://89.43.135.181:1080,elite,false,3880,857,58.8,52.7,833,89.43.135.181,1,sy,Aleppo,Manbij,Asia/Damascus,216472,High Speed For Internet Services L.L.C,18,2026-08-29T00:40:02.356Z,2026-09-17T22:34:47.756Z

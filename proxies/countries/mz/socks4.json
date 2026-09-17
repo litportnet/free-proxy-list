@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "160.119.159.98",
+    "port": 1080,
+    "url": "socks4://160.119.159.98:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1285,
+    "latency_median_ms": 1775,
+    "uptime_24h": 66.7,
+    "uptime_7d": null,
+    "checks_7d": 39,
+    "exit_ip": "160.119.159.98",
+    "exit_shared": 1,
+    "country": "mz",
+    "region": "Maputo City",
+    "city": "Maputo",
+    "timezone": "Africa/Maputo",
+    "asn": 328223,
+    "asn_org": "VOIPTECH LIMITADA",
+    "sources_count": 15,
+    "first_seen": "2026-09-17T12:35:37.101Z",
+    "last_checked": "2026-09-17T22:29:44.357Z"
+  }
+]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,1918,1045,30.9,48.3,572,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,12,2026-08-28T02:30:34.573Z,2026-09-15T19:29:37.713Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1038,924,65.6,49,594,41.184.92.218,1,ng,FCT,Abuja,Africa/Lagos,29091,ipNX Nigeria Limited,10,2026-04-12T22:59:20.773Z,2026-09-17T22:31:24.804Z

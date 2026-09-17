@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.119.19.36,1080,socks5://103.119.19.36:1080,elite,true,774,1000,35.1,30.3,409,103.119.19.36,1,cz,South Moravian,Veselí nad Moravou,Europe/Prague,215305,Mastersoft S.R.L.,12,2026-09-07T07:23:54.044Z,2026-09-15T19:27:33.601Z

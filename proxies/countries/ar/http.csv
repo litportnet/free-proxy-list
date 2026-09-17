@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,200.110.218.11,999,http://200.110.218.11:999,transparent,false,4632,3953,22.2,20.3,350,45.172.19.154,1,ar,Buenos Aires,Burzaco,America/Argentina/Buenos_Aires,264619,Wireless Provider,20,2026-07-17T01:18:20.867Z,2026-09-17T22:36:04.430Z
+http,138.117.13.129,999,http://138.117.13.129:999,transparent,false,8475,4403,26.7,16.8,250,179.40.47.197,1,ar,Santa Cruz,28 de Noviembre,America/Argentina/Rio_Gallegos,22927,Telefonica de Argentina,9,2025-09-05T20:06:37.890Z,2026-09-17T22:37:05.706Z
+http,168.196.227.203,999,http://168.196.227.203:999,transparent,false,4882,5156,35.3,,23,168.196.227.203,1,ar,Buenos Aires,General Pacheco,America/Argentina/Buenos_Aires,264765,VANET TELECOMUNICACIONES S.R.L.,6,2025-09-06T05:34:50.732Z,2026-09-17T22:37:31.010Z

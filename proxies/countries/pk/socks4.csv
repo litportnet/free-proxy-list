@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,false,1173,1699.5,80.1,74.3,635,160.30.104.170,1,pk,Punjab,Rajanpur,Asia/Karachi,134489,S. B Link Network,9,2026-08-09T01:08:58.379Z,2026-09-15T19:33:39.904Z
-socks4,103.225.221.18,5678,socks4://103.225.221.18:5678,elite,false,1181,2864,65.2,67.9,652,103.225.221.18,1,pk,Punjab,Lahore,Asia/Karachi,55501,141-143 Maulana Shaukat Ali Road,9,2025-09-05T20:06:23.424Z,2026-09-15T19:27:38.392Z
-socks4,58.65.167.165,4145,socks4://58.65.167.165:4145,elite,false,2322,1768.5,36,39.2,561,124.109.44.126,1,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,9,2025-09-04T23:48:58.453Z,2026-09-15T19:25:24.992Z
+socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,false,2216,3208.5,74.6,76.6,888,160.30.104.170,1,pk,Punjab,Rajanpur,Asia/Karachi,134489,S. B Link Network,12,2026-08-09T01:08:58.379Z,2026-09-17T22:29:16.358Z
+socks4,103.115.198.39,5678,socks4://103.115.198.39:5678,elite,false,1235,1280,78.6,57.5,800,103.115.198.39,1,pk,Punjab,Lahore,Asia/Karachi,152605,Z COM NETWORKS,12,2026-07-05T01:42:54.125Z,2026-09-17T22:35:45.247Z
+socks4,119.73.125.55,1080,socks4://119.73.125.55:1080,elite,false,1317,1194,90,,13,119.73.125.55,2,pk,Punjab,Lahore,Asia/Karachi,138655,Trans World Enterprise Services (Private) Limited,5,2026-08-11T09:39:13.924Z,2026-09-17T22:30:51.521Z

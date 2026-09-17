@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,false,919,914,95.1,95.4,696,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",6,2026-02-28T21:48:48.843Z,2026-09-15T19:30:56.710Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,7992,1812.5,48.1,55.7,632,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",10,2025-09-04T23:48:53.699Z,2026-09-15T19:35:23.723Z
-socks4,108.61.160.231,1080,socks4://108.61.160.231:1080,elite,false,3841,3805.5,46.7,45.2,62,108.61.160.231,1,jp,Tokyo,Ebara,Asia/Tokyo,20473,"The Constant Company, LLC",5,2026-09-14T08:37:06.988Z,2026-09-15T19:32:39.489Z
-socks4,111.119.162.248,10938,socks4://111.119.162.248:10938,elite,false,6680,3836,29.4,24.8,105,8.216.119.64,3,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",11,2026-08-16T12:43:12.600Z,2026-09-15T19:30:30.240Z
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,false,1423,2926.5,96.4,95.7,979,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",1,2026-03-17T17:23:30.803Z,2026-09-17T22:34:54.081Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,792,1785.5,65,58.5,880,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",13,2025-09-04T23:48:53.699Z,2026-09-17T22:34:31.592Z

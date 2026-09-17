@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.129.134.10,8086,socks4://57.129.134.10:8086,elite,false,2764,2198.5,90.5,89.6,106,57.129.134.10,4,gb,England,Bexley,Europe/London,16276,OVH SAS,2,2026-07-21T11:09:56.981Z,2026-09-15T19:30:12.978Z
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,1874,1873,40.8,38.4,461,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,10,2025-09-05T20:05:56.736Z,2026-09-15T19:32:33.259Z

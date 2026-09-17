@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,178.150.77.204,10801,socks5://178.150.77.204:10801,elite,false,855,1830,57.7,54.1,618,178.150.77.204,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,13,2026-06-29T22:34:41.837Z,2026-09-15T19:34:29.268Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,4549,2929.5,47.2,49.9,842,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,17,2026-06-29T21:35:38.005Z,2026-09-17T22:34:29.999Z
+socks5,195.114.7.6,1080,socks5://195.114.7.6:1080,elite,true,1566,6619,27.7,32.6,629,195.114.7.6,1,ua,Crimea,Simferopol,Europe/Simferopol,41161,Artem Zubkov,19,2026-04-07T02:43:59.656Z,2026-09-17T22:32:35.874Z
+socks5,185.151.86.86,3699,socks5://185.151.86.86:3699,elite,true,2271,2202.5,23.5,23.1,542,31.128.249.254,1,ua,Cherkasy,Cherkasy,Europe/Kyiv,208139,FOP Avator Myhaylo Mykolayovych,16,2025-09-05T00:24:32.171Z,2026-09-17T22:36:35.804Z

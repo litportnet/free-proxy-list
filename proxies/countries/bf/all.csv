@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,41.223.234.116,37259,socks4://41.223.234.116:37259,elite,false,4121,3872,35.2,49.9,547,41.223.234.116,1,bf,Centre,Ouagadougou,Africa/Ouagadougou,37008,Sancfis Faso SA,8,2025-09-04T23:48:59.587Z,2026-09-15T19:31:34.376Z
+socks4,41.223.234.116,37259,socks4://41.223.234.116:37259,elite,false,2613,2066.5,69,54.3,781,41.223.234.116,1,bf,Centre,Ouagadougou,Africa/Ouagadougou,37008,Sancfis Faso SA,11,2025-09-04T23:48:59.587Z,2026-09-17T22:28:16.440Z

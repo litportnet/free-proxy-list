@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "109.245.110.145",
+    "port": 4145,
+    "url": "socks4://109.245.110.145:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3742,
+    "latency_median_ms": 1818.5,
+    "uptime_24h": 55.7,
+    "uptime_7d": 47.9,
+    "checks_7d": 749,
+    "exit_ip": "109.245.110.145",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Vojvodina",
+    "city": "Vojka",
+    "timezone": "Europe/Belgrade",
+    "asn": 15958,
+    "asn_org": "CETINdoo-NET",
+    "sources_count": 21,
+    "first_seen": "2026-07-05T16:48:25.730Z",
+    "last_checked": "2026-09-17T22:37:19.101Z"
+  }
+]

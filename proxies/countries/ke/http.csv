@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.0.21.22,8080,http://102.0.21.22:8080,transparent,false,6698,1477.5,43.8,11.9,177,102.0.21.22,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,9,2026-04-20T00:45:46.992Z,2026-09-17T22:37:05.718Z

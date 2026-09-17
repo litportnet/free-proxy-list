@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "185.239.51.58",
+    "port": 10808,
+    "url": "socks5://185.239.51.58:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1201,
+    "latency_median_ms": 1175.5,
+    "uptime_24h": 86.7,
+    "uptime_7d": 92.7,
+    "checks_7d": 219,
+    "exit_ip": "193.233.128.240",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Upper Austria",
+    "city": "Linz",
+    "timezone": "Europe/Vienna",
+    "asn": 210644,
+    "asn_org": "AEZA GROUP LLC",
+    "sources_count": 18,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-09-17T22:32:34.755Z"
+  }
+]

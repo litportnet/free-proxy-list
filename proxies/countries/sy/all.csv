@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.235.16.12,80,http://185.235.16.12:80,unknown,false,745,750.5,99.3,99.7,711,185.235.16.12,1,sy,Aleppo,Aleppo,Asia/Damascus,29256,STE PDN Internal AS,4,2025-09-10T20:03:32.461Z,2026-09-15T19:29:30.001Z
-http,205.209.64.196,8080,http://205.209.64.196:8080,elite,false,860,989,16.7,16.7,221,205.209.64.196,1,sy,Al-Hasakah,Al Qāmishlī,Asia/Damascus,214707,RCell LLC,11,2026-05-31T20:31:19.496Z,2026-09-15T19:26:12.633Z
+http,185.235.16.12,80,http://185.235.16.12:80,unknown,false,738,735.5,100,99.9,1002,185.235.16.12,1,sy,Aleppo,Aleppo,Asia/Damascus,29256,STE PDN Internal AS,10,2025-09-10T20:03:32.461Z,2026-09-17T22:36:56.966Z
+socks4,89.43.135.181,1080,socks4://89.43.135.181:1080,elite,false,3880,857,58.8,52.7,833,89.43.135.181,1,sy,Aleppo,Manbij,Asia/Damascus,216472,High Speed For Internet Services L.L.C,18,2026-08-29T00:40:02.356Z,2026-09-17T22:34:47.756Z
+http,193.43.145.248,8080,http://193.43.145.248:8080,transparent,false,5435,4140,17.4,13.1,260,193.43.145.248,1,sy,Homs,Homs,Asia/Damascus,29256,STE PDN Internal AS,22,2026-08-14T08:17:51.630Z,2026-09-17T22:28:05.665Z
+http,89.43.134.35,8080,http://89.43.134.35:8080,transparent,true,3491,3325,12.2,12.8,86,89.43.134.35,1,sy,Aleppo,Aleppo,Asia/Damascus,216472,High Speed For Internet Services L.L.C,18,2026-05-09T22:50:56.724Z,2026-09-17T22:34:18.021Z
+http,89.43.134.34,8080,http://89.43.134.34:8080,transparent,true,722,2507.5,41.9,,34,89.43.134.34,1,sy,Aleppo,Aleppo,Asia/Damascus,216472,High Speed For Internet Services L.L.C,7,2026-04-09T18:18:47.226Z,2026-09-17T22:32:43.193Z

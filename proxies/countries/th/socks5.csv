@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.59.197.61,4000,socks5://66.59.197.61:4000,elite,false,1219,1311,41.1,40.5,153,186.247.190.42,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,11,2026-08-15T21:37:09.934Z,2026-09-15T19:32:51.689Z
+socks5,66.59.197.62,4000,socks5://66.59.197.62:4000,elite,false,1224,1240,45.8,42.9,245,186.247.190.48,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,17,2026-08-05T03:18:48.553Z,2026-09-17T22:37:23.760Z

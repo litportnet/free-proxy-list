@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,170.83.242.76,999,http://170.83.242.76:999,transparent,false,7618,3960.5,15,12.6,214,170.83.242.76,1,py,Asuncion,Asunción,America/Asuncion,52468,UFINET PANAMA S.A.,10,2026-05-14T03:48:55.152Z,2026-09-17T22:31:41.615Z

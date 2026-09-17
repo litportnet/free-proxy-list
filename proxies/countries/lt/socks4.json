@@ -6,11 +6,11 @@
     "url": "socks4://213.197.136.218:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3711,
-    "latency_median_ms": 3687,
-    "uptime_24h": 48.8,
-    "uptime_7d": 51.7,
-    "checks_7d": 615,
+    "latency_ms": 3689,
+    "latency_median_ms": 670,
+    "uptime_24h": 72.7,
+    "uptime_7d": 57.7,
+    "checks_7d": 862,
     "exit_ip": "213.197.136.218",
     "exit_shared": 1,
     "country": "lt",
@@ -19,9 +19,9 @@
     "timezone": "Europe/Vilnius",
     "asn": 15440,
     "asn_org": "UAB Baltnetos komunikacijos",
-    "sources_count": 9,
+    "sources_count": 12,
     "first_seen": "2025-09-04T23:49:00.045Z",
-    "last_checked": "2026-09-15T19:32:20.507Z"
+    "last_checked": "2026-09-17T22:28:24.595Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://93.93.61.153:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3698,
-    "latency_median_ms": 1707,
-    "uptime_24h": 57.4,
-    "uptime_7d": 49.8,
-    "checks_7d": 592,
+    "latency_ms": 3805,
+    "latency_median_ms": 2700,
+    "uptime_24h": 66.7,
+    "uptime_7d": 53.7,
+    "checks_7d": 832,
     "exit_ip": "93.93.61.153",
     "exit_shared": 1,
     "country": "lt",
@@ -43,8 +43,8 @@
     "timezone": "Europe/Vilnius",
     "asn": 44613,
     "asn_org": "Ogmios centras AS number",
-    "sources_count": 14,
+    "sources_count": 20,
     "first_seen": "2026-07-05T07:46:21.191Z",
-    "last_checked": "2026-09-15T19:26:44.562Z"
+    "last_checked": "2026-09-17T22:30:51.532Z"
   }
 ]

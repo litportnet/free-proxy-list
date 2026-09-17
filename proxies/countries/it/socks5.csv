@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,1325,1525.5,84.2,82.4,612,84.17.58.201,1,it,Lombardy,Milan,Europe/Rome,60068,Datacamp Limited,13,2026-08-24T21:47:23.618Z,2026-09-15T19:34:38.587Z
-socks5,171.22.182.164,1080,socks5://171.22.182.164:1080,elite,true,2399,2718.5,53.6,42.2,154,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,11,2026-08-21T11:03:27.042Z,2026-09-15T19:32:57.873Z

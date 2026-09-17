@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,737,736.5,97.6,71.1,187,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,11,2025-11-22T16:10:15.367Z,2026-09-15T19:33:15.296Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,713,739,97.9,87.9,488,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,19,2025-11-22T16:10:15.367Z,2026-09-17T22:37:32.601Z

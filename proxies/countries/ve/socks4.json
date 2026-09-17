@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "200.8.235.10",
+    "port": 4145,
+    "url": "socks4://200.8.235.10:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 603,
+    "latency_median_ms": 483.5,
+    "uptime_24h": 51.9,
+    "uptime_7d": 37.5,
+    "checks_7d": 549,
+    "exit_ip": "200.8.235.10",
+    "exit_shared": 1,
+    "country": "ve",
+    "region": "Aragua",
+    "city": "Maracay",
+    "timezone": "America/Caracas",
+    "asn": 21826,
+    "asn_org": "Corporación Telemic C.A.",
+    "sources_count": 17,
+    "first_seen": "2026-07-08T04:22:20.090Z",
+    "last_checked": "2026-09-17T22:28:05.573Z"
+  }
+]
