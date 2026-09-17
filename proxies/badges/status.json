@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
   "label": "status",
-  "message": "stale since 2026-09-15T20:27:49.123Z",
-  "color": "red"
+  "message": "live feed fresh",
+  "color": "brightgreen"
 }
