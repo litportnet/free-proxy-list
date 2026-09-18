@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "49.156.44.115",
+    "port": 8080,
+    "url": "http://49.156.44.115:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2795,
+    "latency_median_ms": 3427,
+    "uptime_24h": 77.4,
+    "uptime_7d": 40.9,
+    "checks_7d": 198,
+    "exit_ip": "49.156.44.115",
+    "exit_shared": 1,
+    "country": "kh",
+    "region": "Phnom Penh",
+    "city": "Phnom Penh",
+    "timezone": "Asia/Phnom_Penh",
+    "asn": 24492,
+    "asn_org": "WiCAM Corporation Ltd.",
+    "sources_count": 11,
+    "first_seen": "2025-09-15T10:27:03.073Z",
+    "last_checked": "2026-09-18T04:26:18.627Z"
+  }
+]

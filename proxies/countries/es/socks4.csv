@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,1755,1528,78.4,68.5,815,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,22,2025-09-04T23:48:54.216Z,2026-09-17T22:30:08.785Z
-socks4,185.130.219.11,4153,socks4://185.130.219.11:4153,elite,false,700,2699,52.8,33,621,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,9,2025-09-05T20:06:26.508Z,2026-09-17T22:36:50.235Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,1723,1737,74.8,69.2,883,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-09-18T04:27:34.542Z

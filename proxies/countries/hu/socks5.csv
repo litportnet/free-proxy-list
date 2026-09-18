@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10812,socks5://65.21.252.66:10812,elite,true,3384,2453,67.9,70.9,141,37.120.144.98,1,hu,Budapest,Budapest,Europe/Budapest,9009,M247 Europe SRL,14,2026-09-16T22:28:10.717Z,2026-09-18T04:24:53.625Z

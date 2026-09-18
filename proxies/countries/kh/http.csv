@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,2795,3427,77.4,40.9,198,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,11,2025-09-15T10:27:03.073Z,2026-09-18T04:26:18.627Z

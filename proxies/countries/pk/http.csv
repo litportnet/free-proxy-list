@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,119.73.125.55,8080,http://119.73.125.55:8080,transparent,true,2119,1096.5,44.2,40.1,162,119.73.125.55,2,pk,Punjab,Lahore,Asia/Karachi,138655,Trans World Enterprise Services (Private) Limited,10,2026-06-18T10:11:53.195Z,2026-09-17T22:28:24.588Z

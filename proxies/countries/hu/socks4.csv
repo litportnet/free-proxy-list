@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,false,766,775,55.2,43.6,711,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,13,2025-09-04T23:48:59.215Z,2026-09-17T22:34:36.856Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,false,1496,1159,62.6,55.9,828,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,12,2025-09-17T00:22:38.251Z,2026-09-17T22:30:51.604Z
+socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,false,441,1039,61.5,56.1,851,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,1,2026-03-17T17:23:29.573Z,2026-09-18T04:28:15.869Z

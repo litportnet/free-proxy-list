@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,202.141.161.52,10808,socks4://202.141.161.52:10808,elite,false,1343,1411,88.8,74,281,134.185.103.14,3,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,10,2026-09-14T10:38:27.620Z,2026-09-17T22:37:48.594Z
-socks4,175.203.138.160,5678,socks4://175.203.138.160:5678,elite,false,2012,1505.5,69.8,65.6,896,175.203.138.160,1,kr,Chungcheongnam-do,Yesan,Asia/Seoul,4766,Korea Telecom,12,2025-09-04T23:49:12.526Z,2026-09-17T22:30:54.226Z
-socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,892,903,97.4,,38,150.109.247.86,3,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",8,2026-08-21T10:02:58.834Z,2026-09-17T22:36:28.541Z
+socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,971,949,98.6,98.6,73,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",8,2026-08-21T10:02:58.834Z,2026-09-18T04:26:03.605Z
+socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,false,937,948.5,53,49.7,845,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,18,2025-09-04T23:48:54.923Z,2026-09-18T04:21:49.483Z
+socks4,43.155.215.149,20000,socks4://43.155.215.149:20000,elite,false,886,1000,35.5,36.8,750,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-07-17T05:21:19.618Z,2026-09-18T04:29:14.117Z
+socks4,193.122.105.251,65535,socks4://193.122.105.251:65535,elite,false,891,800,27.3,17.8,163,193.122.105.251,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,7,2025-09-04T23:48:53.822Z,2026-09-18T04:27:13.713Z

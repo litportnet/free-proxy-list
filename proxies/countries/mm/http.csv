@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.153.202.0,8181,http://103.153.202.0:8181,transparent,false,1030,2113,37,39,700,103.148.104.10,1,mm,Shan State,Tangyan,Asia/Yangon,140091,SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED,7,2026-04-13T18:14:23.688Z,2026-09-17T22:34:25.307Z
-http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,true,2073,4636.5,23.5,27.4,416,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",19,2026-01-11T19:16:30.748Z,2026-09-17T22:33:13.050Z

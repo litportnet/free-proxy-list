@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,652,3718,50,45.5,763,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,11,2025-09-05T20:05:42.438Z,2026-09-17T22:33:06.747Z

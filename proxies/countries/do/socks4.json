@@ -6,11 +6,11 @@
     "url": "socks4://154.88.189.22:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 395,
-    "latency_median_ms": 411,
-    "uptime_24h": 32.1,
-    "uptime_7d": 22.7,
-    "checks_7d": 207,
+    "latency_ms": 635,
+    "latency_median_ms": 519.5,
+    "uptime_24h": 31.9,
+    "uptime_7d": 23.7,
+    "checks_7d": 219,
     "exit_ip": "154.88.189.18",
     "exit_shared": 1,
     "country": "do",
@@ -21,6 +21,6 @@
     "asn_org": "TELEMARCH S.R.L",
     "sources_count": 11,
     "first_seen": "2026-07-04T19:37:15.894Z",
-    "last_checked": "2026-09-17T22:28:24.695Z"
+    "last_checked": "2026-09-18T04:25:41.155Z"
   }
 ]

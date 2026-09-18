@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.239.51.58,10808,socks5://185.239.51.58:10808,elite,true,1201,1175.5,86.7,92.7,219,193.233.128.240,1,at,Upper Austria,Linz,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-16T03:18:05.440Z,2026-09-17T22:32:34.755Z
+socks5,185.239.51.58,10808,socks5://185.239.51.58:10808,elite,true,1115,1190.5,85.6,93.3,252,193.233.128.240,1,at,Upper Austria,Linz,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-16T03:18:05.440Z,2026-09-18T04:23:16.520Z

@@ -6,11 +6,11 @@
     "url": "socks4://185.114.89.74:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8034,
-    "latency_median_ms": 802,
+    "latency_ms": 877,
+    "latency_median_ms": 1332,
     "uptime_24h": 56.4,
-    "uptime_7d": 52.2,
-    "checks_7d": 761,
+    "uptime_7d": 52.6,
+    "checks_7d": 774,
     "exit_ip": "185.114.89.74",
     "exit_shared": 1,
     "country": "lb",
@@ -21,6 +21,6 @@
     "asn_org": "BITAR NET SARL",
     "sources_count": 12,
     "first_seen": "2025-12-18T07:04:07.164Z",
-    "last_checked": "2026-09-17T22:36:58.005Z"
+    "last_checked": "2026-09-18T04:29:46.430Z"
   }
 ]

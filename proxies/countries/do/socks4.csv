@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,154.88.189.22,5678,socks4://154.88.189.22:5678,elite,false,395,411,32.1,22.7,207,154.88.189.18,1,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,272011,TELEMARCH S.R.L,11,2026-07-04T19:37:15.894Z,2026-09-17T22:28:24.695Z
+socks4,154.88.189.22,5678,socks4://154.88.189.22:5678,elite,false,635,519.5,31.9,23.7,219,154.88.189.18,1,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,272011,TELEMARCH S.R.L,11,2026-07-04T19:37:15.894Z,2026-09-18T04:25:41.155Z

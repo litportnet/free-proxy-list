@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.222.145.8,1080,socks4://102.222.145.8:1080,elite,false,1082,1120,55.8,39.6,278,102.222.145.8,1,ke,Mombasa County,Mombasa,Africa/Nairobi,328734,Blue Streak Horizons Net Limited,18,2026-08-11T14:41:12.217Z,2026-09-17T22:36:48.690Z

@@ -6,11 +6,11 @@
     "url": "socks5://65.21.252.66:10814",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1822,
-    "latency_median_ms": 3122,
-    "uptime_24h": 70,
-    "uptime_7d": 70,
-    "checks_7d": 80,
+    "latency_ms": 3195,
+    "latency_median_ms": 1853.5,
+    "uptime_24h": 76.5,
+    "uptime_7d": 78.1,
+    "checks_7d": 114,
     "exit_ip": "130.195.250.38",
     "exit_shared": 1,
     "country": "es",
@@ -21,6 +21,6 @@
     "asn_org": "M247 Europe SRL",
     "sources_count": 12,
     "first_seen": "2026-09-17T02:30:16.285Z",
-    "last_checked": "2026-09-17T22:31:12.463Z"
+    "last_checked": "2026-09-18T04:29:02.620Z"
   }
 ]

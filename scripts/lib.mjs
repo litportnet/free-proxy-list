@@ -347,8 +347,15 @@ const replaceMarkerBlock = (template, marker, content) => {
   return `${before}\n${content}\n${after}`
 }
 
-const renderStatsBlock = stats => {
+// The same README is rendered for the live branch and for the daily snapshot on the default
+// branch. The snapshot copy is only rewritten once a day, so it must not present its counts as
+// current: the banner and badges beside it are read from the live branch and would disagree with
+// it for the rest of the day.
+const renderStatsBlock = (stats, { snapshot = false } = {}) => {
   const timestamp = stats.generated_at.replace('T', ' ').slice(0, 16)
+  if (snapshot) {
+    return `**Daily snapshot ${timestamp} UTC: ${stats.totals.all} working proxies from ${stats.countries_count} countries, each checked within the ${stats.max_age_min} minutes before it was taken.** The banner and badges above show the live count, refreshed every ${Math.round(stats.interval_sec / 60)} minutes; the figures on this page are from the snapshot and do not change until the next one.`
+  }
   return `**${stats.totals.all} working proxies from ${stats.countries_count} countries, each checked within the ${stats.max_age_min} minutes before this snapshot (${timestamp} UTC). Lists refresh every ${Math.round(stats.interval_sec / 60)} minutes.**`
 }
 
@@ -409,9 +416,9 @@ const renderCountriesBlock = stats => {
  * Renders README.md from README.template.md by replacing the content of each
  * `<!-- X:START --> … <!-- X:END -->` marker pair, leaving everything else untouched.
  */
-export function renderReadme(template, stats) {
+export function renderReadme(template, stats, options = {}) {
   let readme = template
-  readme = replaceMarkerBlock(readme, 'STATS', renderStatsBlock(stats))
+  readme = replaceMarkerBlock(readme, 'STATS', renderStatsBlock(stats, options))
   readme = replaceMarkerBlock(readme, 'DOWNLOADS', renderDownloadsBlock(stats))
   readme = replaceMarkerBlock(readme, 'VERIFICATION', renderVerificationBlock(stats))
   readme = replaceMarkerBlock(readme, 'COUNTRIES', renderCountriesBlock(stats))

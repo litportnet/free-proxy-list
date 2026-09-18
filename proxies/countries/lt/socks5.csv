@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,872,1923,64.1,74.5,204,81.16.239.165,1,lt,Vilnius,Vilnius,Europe/Vilnius,201201,UAB Delska Lithuania,17,2026-09-16T10:21:51.712Z,2026-09-18T04:27:44.720Z

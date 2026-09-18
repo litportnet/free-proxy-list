@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,142.93.21.46,61616,socks5://142.93.21.46:61616,elite,false,4390,2525,52,46,113,45.84.107.74,2,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,16,2026-07-02T03:04:46.856Z,2026-09-18T04:31:22.332Z

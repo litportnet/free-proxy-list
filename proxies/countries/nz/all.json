@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.40",
+    "port": 10844,
+    "url": "socks5://45.74.31.40:10844",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5358,
+    "latency_median_ms": 4988.5,
+    "uptime_24h": 20,
+    "uptime_7d": 34.4,
+    "checks_7d": 64,
+    "exit_ip": "116.206.174.136",
+    "exit_shared": 1,
+    "country": "nz",
+    "region": "Bay of Plenty",
+    "city": "Tauranga",
+    "timezone": "Pacific/Auckland",
+    "asn": 23735,
+    "asn_org": "EOL (Enternet Online Ltd)",
+    "sources_count": 14,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-09-18T04:21:20.337Z"
+  }
+]

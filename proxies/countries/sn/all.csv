@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.1.95.124,80,http://196.1.95.124:80,elite,false,1130,823,56.8,73.3,829,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,8,2025-09-04T23:49:35.054Z,2026-09-17T22:37:19.099Z
-http,196.1.93.10,80,http://196.1.93.10:80,elite,false,1526,2102,83.7,69.7,895,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,10,2025-09-04T23:49:29.089Z,2026-09-17T22:31:44.812Z
-http,196.1.97.198,80,http://196.1.97.198:80,elite,false,790,2138,53.1,65.2,664,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,16,2025-12-06T18:03:11.613Z,2026-09-17T22:31:14.049Z
+http,196.1.95.124,80,http://196.1.95.124:80,elite,false,924,735.5,73,73.4,831,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,8,2025-09-04T23:49:35.054Z,2026-09-18T04:28:35.499Z

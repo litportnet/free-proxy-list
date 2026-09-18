@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.146.163.31,80,http://45.146.163.31:80,elite,false,606,618.5,100,99.9,1003,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-17T22:32:15.063Z
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,682,644.5,100,97.3,986,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-09-17T22:35:31.550Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,1537,2921.5,52.6,56.2,867,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,23,2026-07-23T07:35:31.628Z,2026-09-17T22:29:28.783Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,false,639,3539.5,41.7,52.7,626,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,21,2026-07-05T22:00:26.420Z,2026-09-17T22:31:07.208Z
+http,45.146.163.31,80,http://45.146.163.31:80,elite,false,613,653.5,100,99.9,1005,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-18T04:25:29.358Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,662,652.5,100,97.5,1000,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T12:38:44.906Z,2026-09-18T04:23:45.906Z
+http,172.237.11.129,3128,http://172.237.11.129:3128,elite,false,4804,3155,64.6,76.6,933,172.237.11.129,1,jp,Tokyo,Tokyo,Asia/Tokyo,63949,Akamai Connected Cloud,16,2026-09-07T21:31:39.933Z,2026-09-18T04:30:09.098Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,false,2672,1639.5,42.3,52.1,633,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,21,2026-07-05T22:00:26.420Z,2026-09-18T04:24:42.306Z
+http,160.248.7.177,80,http://160.248.7.177:80,elite,false,7673,2686.5,47.4,44,819,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",18,2025-09-10T22:05:25.259Z,2026-09-18T04:28:40.802Z

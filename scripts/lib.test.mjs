@@ -275,3 +275,31 @@ test('findMissingReadmeLinks flags relative links that do not exist in the outpu
   const files = { 'SCHEMA.md': true, 'proxies/countries/us/all.txt': true }
   assert.deepEqual(findMissingReadmeLinks(readme, files), ['proxies/countries/zz/all.txt'])
 })
+
+test('the snapshot README variant dates its counts and defers to the live badges', () => {
+  const template = [
+    '# Free proxy list by litport',
+    '<!-- STATS:START -->old stats<!-- STATS:END -->',
+    '<!-- DOWNLOADS:START -->old downloads<!-- DOWNLOADS:END -->',
+    '<!-- VERIFICATION:START -->old verification<!-- VERIFICATION:END -->',
+    '<!-- COUNTRIES:START -->old countries<!-- COUNTRIES:END -->',
+  ].join('\n')
+
+  const { stats } = buildFileSet(sampleList(), { generatedAt: '2026-09-09T18:00:00.000Z', intervalSec: 300, maxAgeMin: 30 })
+  const live = renderReadme(template, stats)
+  const snapshot = renderReadme(template, stats, { snapshot: true })
+
+  // The default branch is rewritten once a day, so its copy must date itself and must not read
+  // as a current figure sitting beside live badges.
+  assert.match(snapshot, /\*\*Daily snapshot 2026-09-09 18:00 UTC: 3 working proxies from 2 countries/)
+  assert.match(snapshot, /the figures on this page are from the snapshot and do not change until the next one/)
+  assert.doesNotMatch(snapshot, /^\*\*3 working proxies from 2 countries/m)
+
+  // The live branch keeps the present-tense wording, and everything else is identical.
+  assert.match(live, /\*\*3 working proxies from 2 countries/)
+  assert.doesNotMatch(live, /Daily snapshot/)
+  assert.equal(
+    snapshot.replace(/<!-- STATS:START -->[\s\S]*?<!-- STATS:END -->/, ''),
+    live.replace(/<!-- STATS:START -->[\s\S]*?<!-- STATS:END -->/, ''),
+  )
+})

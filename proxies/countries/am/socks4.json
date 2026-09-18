@@ -6,11 +6,11 @@
     "url": "socks4://130.193.123.34:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 874,
-    "latency_median_ms": 2903.5,
-    "uptime_24h": 45.4,
-    "uptime_7d": 54.1,
-    "checks_7d": 444,
+    "latency_ms": 3891,
+    "latency_median_ms": 3873,
+    "uptime_24h": 44.4,
+    "uptime_7d": 54.5,
+    "checks_7d": 466,
     "exit_ip": "130.193.123.34",
     "exit_shared": 1,
     "country": "am",
@@ -21,6 +21,6 @@
     "asn_org": "GNC-Alfa CJSC",
     "sources_count": 19,
     "first_seen": "2025-09-04T23:02:26.237Z",
-    "last_checked": "2026-09-17T22:35:37.173Z"
+    "last_checked": "2026-09-18T04:23:45.912Z"
   }
 ]

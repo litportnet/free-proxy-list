@@ -6,11 +6,11 @@
     "url": "socks4://41.223.234.116:37259",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2613,
-    "latency_median_ms": 2066.5,
-    "uptime_24h": 69,
-    "uptime_7d": 54.3,
-    "checks_7d": 781,
+    "latency_ms": 1039,
+    "latency_median_ms": 1093,
+    "uptime_24h": 76.3,
+    "uptime_7d": 55.9,
+    "checks_7d": 799,
     "exit_ip": "41.223.234.116",
     "exit_shared": 1,
     "country": "bf",
@@ -21,6 +21,6 @@
     "asn_org": "Sancfis Faso SA",
     "sources_count": 11,
     "first_seen": "2025-09-04T23:48:59.587Z",
-    "last_checked": "2026-09-17T22:28:16.440Z"
+    "last_checked": "2026-09-18T04:27:15.919Z"
   }
 ]

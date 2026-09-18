@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.68.64.5,80,http://154.68.64.5:80,anonymous,false,1295,2244.5,24.3,63.8,791,154.68.64.2,3,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,17,2026-09-06T14:14:48.394Z,2026-09-17T22:31:24.846Z
-http,154.68.64.4,80,http://154.68.64.4:80,anonymous,false,1185,2037.5,24.6,62.9,803,154.68.64.2,3,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,16,2026-08-17T12:56:18.383Z,2026-09-17T22:33:01.520Z
-http,154.68.64.3,80,http://154.68.64.3:80,anonymous,false,2194,2146,32.9,60.7,810,154.68.64.2,3,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,17,2026-08-17T12:56:16.997Z,2026-09-17T22:32:35.857Z

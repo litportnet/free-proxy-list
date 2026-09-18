@@ -6,11 +6,11 @@
     "url": "socks4://213.197.136.218:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3689,
-    "latency_median_ms": 670,
-    "uptime_24h": 72.7,
-    "uptime_7d": 57.7,
-    "checks_7d": 862,
+    "latency_ms": 1680,
+    "latency_median_ms": 1175,
+    "uptime_24h": 71.3,
+    "uptime_7d": 58.5,
+    "checks_7d": 876,
     "exit_ip": "213.197.136.218",
     "exit_shared": 1,
     "country": "lt",
@@ -21,7 +21,7 @@
     "asn_org": "UAB Baltnetos komunikacijos",
     "sources_count": 12,
     "first_seen": "2025-09-04T23:49:00.045Z",
-    "last_checked": "2026-09-17T22:28:24.595Z"
+    "last_checked": "2026-09-18T04:24:06.636Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://93.93.61.153:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3805,
-    "latency_median_ms": 2700,
-    "uptime_24h": 66.7,
-    "uptime_7d": 53.7,
-    "checks_7d": 832,
+    "latency_ms": 7924,
+    "latency_median_ms": 1720.5,
+    "uptime_24h": 71.1,
+    "uptime_7d": 54.8,
+    "checks_7d": 847,
     "exit_ip": "93.93.61.153",
     "exit_shared": 1,
     "country": "lt",
@@ -45,6 +45,6 @@
     "asn_org": "Ogmios centras AS number",
     "sources_count": 20,
     "first_seen": "2026-07-05T07:46:21.191Z",
-    "last_checked": "2026-09-17T22:30:51.532Z"
+    "last_checked": "2026-09-18T04:25:53.940Z"
   }
 ]

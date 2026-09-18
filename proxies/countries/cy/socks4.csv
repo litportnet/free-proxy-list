@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.128.231.218,1000,socks4://57.128.231.218:1000,elite,false,886,928.5,89.2,66.8,585,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,17,2026-09-12T12:13:50.868Z,2026-09-17T22:36:34.770Z
-socks4,87.228.228.101,4145,socks4://87.228.228.101:4145,elite,false,1805,1804.5,53.3,40.8,652,87.228.228.101,1,cy,Pafos,Pégeia,Asia/Nicosia,6866,Cyprus Telecommunications Authority,20,2026-07-06T01:00:13.598Z,2026-09-17T22:32:37.474Z
-socks4,212.31.100.138,4153,socks4://212.31.100.138:4153,elite,false,772,786,51.5,38.3,506,212.31.100.138,1,cy,Ammochostos,Ayia Napa,Asia/Famagusta,6866,Cyprus Telecommunications Authority,10,2025-09-04T23:48:59.836Z,2026-09-17T22:36:07.519Z
+socks4,57.128.231.218,1000,socks4://57.128.231.218:1000,elite,false,897,896.5,93.6,68.7,620,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,17,2026-09-12T12:13:50.868Z,2026-09-18T04:24:42.823Z

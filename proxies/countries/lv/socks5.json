@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10813,
+    "url": "socks5://5.75.133.113:10813",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1014,
+    "latency_median_ms": 2286.5,
+    "uptime_24h": 67.3,
+    "uptime_7d": 73.3,
+    "checks_7d": 187,
+    "exit_ip": "128.90.174.5",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 22363,
+    "asn_org": "Powerhouse Management, Inc.",
+    "sources_count": 18,
+    "first_seen": "2026-09-16T14:24:02.370Z",
+    "last_checked": "2026-09-18T04:22:52.589Z"
+  }
+]

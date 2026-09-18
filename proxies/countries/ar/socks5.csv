@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.22,14883,socks5://45.74.31.22:14883,elite,true,3139,3961.5,17,25.2,107,181.80.150.119,1,ar,Buenos Aires,La Plata,America/Argentina/Buenos_Aires,7303,Telecom Argentina S.A.,11,2026-09-16T03:18:05.440Z,2026-09-17T22:32:51.050Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10812,
+    "url": "socks5://65.21.252.66:10812",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3384,
+    "latency_median_ms": 2453,
+    "uptime_24h": 67.9,
+    "uptime_7d": 70.9,
+    "checks_7d": 141,
+    "exit_ip": "37.120.144.98",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Budapest",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 14,
+    "first_seen": "2026-09-16T22:28:10.717Z",
+    "last_checked": "2026-09-18T04:24:53.625Z"
+  }
+]

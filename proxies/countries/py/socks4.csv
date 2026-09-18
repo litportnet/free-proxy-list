@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,179.189.219.98,4145,socks4://179.189.219.98:4145,elite,false,3847,3806.5,52.8,58.7,847,179.189.219.98,1,py,Asuncion,Asunción,America/Asuncion,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),12,2025-09-04T23:48:58.729Z,2026-09-17T22:31:59.968Z

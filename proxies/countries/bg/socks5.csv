@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,true,8135,2907,58.6,53.7,834,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,19,2025-09-04T23:48:55.053Z,2026-09-17T22:35:06.868Z
-socks5,158.94.216.206,9119,socks5://158.94.216.206:9119,elite,true,1462,1661,11.9,,42,45.9.156.238,1,bg,Sofia-Capital,Sofia,Europe/Sofia,211619,MAXKO d.o.o.,6,2026-09-17T01:29:46.858Z,2026-09-17T22:37:27.385Z

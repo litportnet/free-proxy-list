@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.117.61.74,8080,http://85.117.61.74:8080,transparent,false,7999,3567.5,19.6,15,247,85.117.61.74,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,9,2025-09-05T20:06:33.424Z,2026-09-17T22:36:26.510Z
-http,85.117.63.207,8080,http://85.117.63.207:8080,transparent,true,5983,6363.5,13.8,12.3,130,85.117.63.207,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,16,2025-09-06T05:36:01.084Z,2026-09-17T22:27:34.864Z
-http,45.143.108.11,8080,http://45.143.108.11:8080,transparent,false,8980,5793,10,3.9,78,45.143.109.98,1,ge,Imereti,Zestaponi,Asia/Tbilisi,208320,AIRMAX LLC,10,2025-10-23T20:16:56.065Z,2026-09-17T22:34:31.072Z

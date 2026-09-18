@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "210.77.11.248",
+    "port": 10808,
+    "url": "socks4://210.77.11.248:10808",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1838,
+    "latency_median_ms": 1743,
+    "uptime_24h": 66.7,
+    "uptime_7d": 68.8,
+    "checks_7d": 93,
+    "exit_ip": "60.249.85.31",
+    "exit_shared": 3,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taichung",
+    "timezone": "Asia/Taipei",
+    "asn": 3462,
+    "asn_org": "Data Communication Business Group",
+    "sources_count": 10,
+    "first_seen": "2026-09-17T03:30:47.767Z",
+    "last_checked": "2026-09-18T04:25:30.914Z"
+  }
+]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.151.88.213,8080,http://103.151.88.213:8080,transparent,false,999,3909,17.5,13.1,84,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,9,2026-08-29T22:53:22.195Z,2026-09-17T22:37:29.446Z
+http,165.101.26.18,8080,http://165.101.26.18:8080,transparent,true,3398,1028.5,30.9,22.2,333,165.101.26.18,1,af,Nangarhar,Jalālābād,Asia/Kabul,151081,ARYAN DUNYA ICT,18,2026-09-05T17:03:45.404Z,2026-09-18T04:23:21.215Z

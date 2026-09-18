@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "142.93.21.46",
+    "port": 61616,
+    "url": "socks5://142.93.21.46:61616",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4390,
+    "latency_median_ms": 2525,
+    "uptime_24h": 52,
+    "uptime_7d": 46,
+    "checks_7d": 113,
+    "exit_ip": "45.84.107.74",
+    "exit_shared": 2,
+    "country": "se",
+    "region": "Stockholm",
+    "city": "Stockholm",
+    "timezone": "Europe/Stockholm",
+    "asn": 214503,
+    "asn_org": "QuxLabs AB",
+    "sources_count": 16,
+    "first_seen": "2026-07-02T03:04:46.856Z",
+    "last_checked": "2026-09-18T04:31:22.332Z"
+  }
+]

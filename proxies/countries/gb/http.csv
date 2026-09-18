@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,705,728,98.6,96.8,285,172.69.224.208,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-17T22:34:16.450Z
-http,98.130.11.240,28483,http://98.130.11.240:28483,unknown,false,2540,2638,21.1,5.5,73,98.130.11.240,1,gb,England,London,Europe/London,8560,IONOS SE,6,2026-08-08T07:00:06.551Z,2026-09-17T22:36:52.835Z
-http,174.138.165.214,9589,http://174.138.165.214:9589,elite,false,2911,4639.5,10,3,67,86.191.96.127,1,gb,England,Nuneaton,Europe/London,2856,British Telecommunications Limited,7,2026-09-06T15:15:12.191Z,2026-09-17T22:33:28.138Z
+http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,889,849,98.6,97.2,320,162.158.216.120,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-18T04:29:55.528Z

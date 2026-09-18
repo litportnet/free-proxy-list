@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,203.189.159.241,1080,socks4://203.189.159.241:1080,elite,false,1169,1379.5,41.4,51.2,805,203.189.159.241,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",1,2026-03-17T17:23:30.518Z,2026-09-17T22:37:20.641Z
-socks4,103.197.242.106,1080,socks4://103.197.242.106:1080,elite,false,2316,3090,34,34.8,675,103.197.242.106,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",17,2026-06-11T16:42:03.087Z,2026-09-17T22:37:15.495Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10814,
+    "url": "socks5://5.75.133.113:10814",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 872,
+    "latency_median_ms": 1923,
+    "uptime_24h": 64.1,
+    "uptime_7d": 74.5,
+    "checks_7d": 204,
+    "exit_ip": "81.16.239.165",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Vilnius",
+    "city": "Vilnius",
+    "timezone": "Europe/Vilnius",
+    "asn": 201201,
+    "asn_org": "UAB Delska Lithuania",
+    "sources_count": 17,
+    "first_seen": "2026-09-16T10:21:51.712Z",
+    "last_checked": "2026-09-18T04:27:44.720Z"
+  }
+]

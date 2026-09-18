@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,705,728,98.6,96.8,285,172.69.224.208,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-17T22:34:16.450Z
-socks5,144.126.197.184,1088,socks5://144.126.197.184:1088,elite,true,605,621,89.1,79.2,941,144.126.197.184,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",18,2026-09-01T23:30:32.827Z,2026-09-17T22:32:34.758Z
-socks5,213.171.212.110,8989,socks5://213.171.212.110:8989,elite,false,3708,4263,23.5,23.5,68,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,9,2026-09-17T02:30:16.285Z,2026-09-17T22:35:07.503Z
-http,98.130.11.240,28483,http://98.130.11.240:28483,unknown,false,2540,2638,21.1,5.5,73,98.130.11.240,1,gb,England,London,Europe/London,8560,IONOS SE,6,2026-08-08T07:00:06.551Z,2026-09-17T22:36:52.835Z
-http,174.138.165.214,9589,http://174.138.165.214:9589,elite,false,2911,4639.5,10,3,67,86.191.96.127,1,gb,England,Nuneaton,Europe/London,2856,British Telecommunications Limited,7,2026-09-06T15:15:12.191Z,2026-09-17T22:33:28.138Z
+http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,889,849,98.6,97.2,320,162.158.216.120,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-18T04:29:55.528Z
+socks5,144.126.197.184,1088,socks5://144.126.197.184:1088,elite,true,3612,3622.5,88.9,79.9,956,144.126.197.184,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",18,2026-09-01T23:30:32.827Z,2026-09-18T04:31:19.191Z
+socks5,66.59.197.63,3128,socks5://66.59.197.63:3128,elite,true,923,958.5,47.5,47.5,425,187.40.255.250,1,gb,England,London,Europe/London,136787,PacketHub S.A.,16,2026-08-13T17:09:24.786Z,2026-09-18T04:28:18.524Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,1548,1561.5,56.3,43.1,678,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,13,2025-09-05T20:05:56.736Z,2026-09-18T04:29:15.667Z
+socks5,45.74.31.40,11651,socks5://45.74.31.40:11651,elite,true,687,670.5,21.4,,28,91.204.209.37,1,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,2,2026-09-17T16:37:46.180Z,2026-09-18T04:23:12.306Z

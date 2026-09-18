@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "95.129.101.73",
-    "port": 80,
-    "url": "http://95.129.101.73:80",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 6313,
-    "latency_median_ms": 6568.5,
-    "uptime_24h": 41.9,
-    "uptime_7d": 47.4,
-    "checks_7d": 626,
-    "exit_ip": "95.129.101.73",
-    "exit_shared": 1,
-    "country": "cz",
-    "region": "South Moravian",
-    "city": "Brno",
-    "timezone": "Europe/Prague",
-    "asn": 24641,
-    "asn_org": "FASTER CZ spol. s r.o.",
-    "sources_count": 16,
-    "first_seen": "2025-09-08T03:28:25.725Z",
-    "last_checked": "2026-09-17T22:36:01.285Z"
-  },
-  {
-    "protocol": "http",
     "ip": "217.75.208.181",
     "port": 8080,
     "url": "http://217.75.208.181:8080",
     "anonymity": "transparent",
-    "https": true,
-    "latency_ms": 9531,
-    "latency_median_ms": 9553,
+    "https": false,
+    "latency_ms": 4419,
+    "latency_median_ms": 8529,
     "uptime_24h": 16.7,
     "uptime_7d": null,
-    "checks_7d": 30,
+    "checks_7d": 43,
     "exit_ip": "217.75.208.178",
     "exit_shared": 1,
     "country": "cz",
@@ -45,6 +21,6 @@
     "asn_org": "ISP Alliance a.s.",
     "sources_count": 13,
     "first_seen": "2026-09-03T21:41:17.247Z",
-    "last_checked": "2026-09-17T22:31:33.762Z"
+    "last_checked": "2026-09-18T04:29:55.542Z"
   }
 ]

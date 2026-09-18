@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,3400,976,65.8,60.3,874,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,12,2025-09-04T23:49:14.427Z,2026-09-17T22:31:42.154Z

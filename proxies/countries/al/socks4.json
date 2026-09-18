@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "37.26.86.206",
-    "port": 4145,
-    "url": "socks4://37.26.86.206:4145",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 718,
-    "latency_median_ms": 1220.5,
-    "uptime_24h": 56.9,
-    "uptime_7d": 50.6,
-    "checks_7d": 791,
-    "exit_ip": "37.26.86.206",
-    "exit_shared": 1,
-    "country": "al",
-    "region": "Elbasan County",
-    "city": "Elbasan",
-    "timezone": "Europe/Tirane",
-    "asn": 198279,
-    "asn_org": "Albanian Telecommunications Union SH. P.K.",
-    "sources_count": 11,
-    "first_seen": "2025-09-04T23:02:23.648Z",
-    "last_checked": "2026-09-17T22:36:37.858Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "80.78.74.8",
     "port": 65530,
     "url": "socks4://80.78.74.8:65530",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3737,
-    "latency_median_ms": 1715.5,
-    "uptime_24h": 55.6,
-    "uptime_7d": 45.4,
-    "checks_7d": 760,
+    "latency_ms": 3744,
+    "latency_median_ms": 3714.5,
+    "uptime_24h": 55.7,
+    "uptime_7d": 45.1,
+    "checks_7d": 767,
     "exit_ip": "80.78.74.8",
     "exit_shared": 1,
     "country": "al",
@@ -45,6 +21,6 @@
     "asn_org": "Vodafone Albania Sh.A.",
     "sources_count": 19,
     "first_seen": "2025-09-05T20:06:23.438Z",
-    "last_checked": "2026-09-17T22:27:19.399Z"
+    "last_checked": "2026-09-18T04:31:41.426Z"
   }
 ]
