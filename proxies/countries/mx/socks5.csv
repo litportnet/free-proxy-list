@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.88.234.239,40006,socks5://103.88.234.239:40006,elite,true,693,308,97.1,87.9,340,104.28.225.188,3,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",16,2026-09-17T03:30:48.634Z,2026-09-19T18:21:47.513Z
+socks5,103.88.234.239,40002,socks5://103.88.234.239:40002,elite,true,583,308.5,94.9,86.2,327,104.28.193.190,2,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",19,2026-09-17T04:31:19.103Z,2026-09-19T18:19:13.548Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,true,4678,4542.5,45.1,45.3,740,168.253.92.93,1,za,Gauteng,Pretoria,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,17,2025-11-06T12:07:21.653Z,2026-09-19T18:24:48.548Z

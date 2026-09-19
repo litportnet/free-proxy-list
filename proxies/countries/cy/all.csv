@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,94.78.67.171,80,http://94.78.67.171:80,anonymous,false,539,322,100,100,1007,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,16,2026-07-26T20:20:40.472Z,2026-09-19T18:25:39.393Z
+socks4,57.128.231.218,1000,socks4://57.128.231.218:1000,elite,false,1566,1200,94.9,74.5,792,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,17,2026-09-12T12:13:50.868Z,2026-09-19T18:21:18.912Z
+socks5,57.128.231.218,1000,socks5://57.128.231.218:1000,elite,true,1586,1240,94.1,73.9,789,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,18,2026-09-12T12:13:57.336Z,2026-09-19T18:26:36.906Z

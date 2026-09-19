@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "164.52.11.194",
+    "port": 18080,
+    "url": "http://164.52.11.194:18080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3393,
+    "latency_median_ms": 2549.5,
+    "uptime_24h": 79.5,
+    "uptime_7d": 64.5,
+    "checks_7d": 831,
+    "exit_ip": "164.52.11.194",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taipei",
+    "city": "Banqiao",
+    "timezone": "Asia/Taipei",
+    "asn": 63199,
+    "asn_org": "CDS Global Cloud Co., Ltd",
+    "sources_count": 15,
+    "first_seen": "2026-07-08T04:22:19.839Z",
+    "last_checked": "2026-09-19T18:22:27.614Z"
+  }
+]

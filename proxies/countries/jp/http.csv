@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.146.163.31,80,http://45.146.163.31:80,elite,false,676,642,100,100,1008,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-19T18:25:18.302Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,704,703,100,98.4,988,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-09-19T18:20:55.907Z
+http,172.237.11.129,3128,http://172.237.11.129:3128,elite,false,914,1691,85.6,74.4,890,172.237.11.129,1,jp,Tokyo,Tokyo,Asia/Tokyo,63949,Akamai Connected Cloud,17,2026-09-07T21:31:39.933Z,2026-09-19T18:26:36.912Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,892,768,60.5,52.9,578,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,21,2026-07-05T22:00:26.420Z,2026-09-19T18:25:27.977Z

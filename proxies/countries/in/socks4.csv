@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,202.179.88.233,51951,socks4://202.179.88.233:51951,elite,false,8107,4122.5,49.4,62.6,826,103.167.176.178,1,in,Maharashtra,Mumbai,Asia/Kolkata,138296,Juweriyah Networks Private Limited,11,2025-09-05T20:06:35.358Z,2026-09-19T18:23:17.230Z
+socks4,103.37.82.134,39873,socks4://103.37.82.134:39873,elite,false,1520,3283.5,66,60.5,820,103.37.82.134,1,in,Delhi,Delhi,Asia/Kolkata,133278,Dehradun Enet Solutions Private Ltd,12,2025-09-04T23:48:54.140Z,2026-09-19T18:20:31.960Z

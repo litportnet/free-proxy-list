@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "51.170.133.249",
+    "port": 80,
+    "url": "http://51.170.133.249:80",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 5013,
+    "latency_median_ms": 3616,
+    "uptime_24h": 85.7,
+    "uptime_7d": 89.5,
+    "checks_7d": 190,
+    "exit_ip": "51.170.133.249",
+    "exit_shared": 1,
+    "country": "ma",
+    "region": "Casablanca-Settat",
+    "city": "Zawyat an Nwaçer",
+    "timezone": "Africa/Casablanca",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 23,
+    "first_seen": "2026-09-18T05:44:35.769Z",
+    "last_checked": "2026-09-19T18:22:46.254Z"
+  }
+]

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,62.193.104.26,1981,http://62.193.104.26:1981,transparent,false,3312,2237,73.8,86.3,496,62.193.104.26,1,eg,Asyut,Al Qūşīyah,Africa/Cairo,36992,ETISALAT MISR,13,2025-11-10T13:28:06.125Z,2026-09-19T18:23:54.477Z
+http,41.196.16.230,1976,http://41.196.16.230:1976,transparent,false,880,658.5,77.8,78.5,232,41.196.16.230,1,eg,Giza,Giza,Africa/Cairo,24863,Link Egypt (Link.NET),8,2026-04-10T00:21:45.539Z,2026-09-19T18:23:54.474Z
+http,196.204.3.22,1976,http://196.204.3.22:1976,transparent,false,862,963,42.7,59.1,657,196.204.3.22,1,eg,Asyut,Al Qūşīyah,Africa/Cairo,24835,Vodafone Data,12,2026-08-26T21:14:54.278Z,2026-09-19T18:19:52.328Z
+http,156.200.116.78,8080,http://156.200.116.78:8080,transparent,false,839,934,85.7,,10,156.200.116.78,1,eg,Cairo,Cairo,Africa/Cairo,8452,TE-AS,8,2026-08-09T11:13:52.562Z,2026-09-19T18:25:33.683Z
+http,41.128.90.54,1981,http://41.128.90.54:1981,transparent,false,1019,731.5,75,,16,41.128.90.54,1,eg,North Sinai,Ash Shaykh Zuwayd,Africa/Cairo,24863,Link Egypt (Link.NET),1,2026-08-14T05:15:56.158Z,2026-09-19T18:21:13.087Z

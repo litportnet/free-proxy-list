@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "119.93.123.229",
+    "port": 4145,
+    "url": "socks4://119.93.123.229:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1479,
+    "latency_median_ms": 2208,
+    "uptime_24h": 36.9,
+    "uptime_7d": 55.1,
+    "checks_7d": 721,
+    "exit_ip": "119.93.123.229",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "National Capital Region",
+    "city": "Quezon City",
+    "timezone": "Asia/Manila",
+    "asn": 9299,
+    "asn_org": "Philippine Long Distance Telephone Company",
+    "sources_count": 11,
+    "first_seen": "2025-09-04T23:49:04.477Z",
+    "last_checked": "2026-09-19T18:26:42.661Z"
+  }
+]

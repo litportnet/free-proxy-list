@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,1230,927.5,95.5,97.2,287,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-08-21T10:02:58.834Z,2026-09-19T18:25:08.177Z

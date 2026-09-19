@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.235.16.12,80,http://185.235.16.12:80,unknown,false,1039,807,100,99.9,1004,185.235.16.12,1,sy,Aleppo,Aleppo,Asia/Damascus,29256,STE PDN Internal AS,10,2025-09-10T20:03:32.461Z,2026-09-19T18:28:24.370Z

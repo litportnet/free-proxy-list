@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "57.128.231.218",
+    "port": 1000,
+    "url": "socks4://57.128.231.218:1000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1566,
+    "latency_median_ms": 1200,
+    "uptime_24h": 94.9,
+    "uptime_7d": 74.5,
+    "checks_7d": 792,
+    "exit_ip": "195.47.194.140",
+    "exit_shared": 2,
+    "country": "cy",
+    "region": "Larnaka",
+    "city": "Larnaca",
+    "timezone": "Asia/Nicosia",
+    "asn": 203020,
+    "asn_org": "HostRoyale Technologies Pvt Ltd",
+    "sources_count": 17,
+    "first_seen": "2026-09-12T12:13:50.868Z",
+    "last_checked": "2026-09-19T18:21:18.912Z"
+  }
+]

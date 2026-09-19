@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "31.31.74.185",
+    "port": 9898,
+    "url": "http://31.31.74.185:9898",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1006,
+    "latency_median_ms": 1026,
+    "uptime_24h": 96.5,
+    "uptime_7d": 96.5,
+    "checks_7d": 113,
+    "exit_ip": "31.31.74.185",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "South Bohemian Region",
+    "city": "České Budějovice",
+    "timezone": "Europe/Prague",
+    "asn": 197019,
+    "asn_org": "WEDOS Internet, a.s.",
+    "sources_count": 13,
+    "first_seen": "2026-08-30T01:54:39.839Z",
+    "last_checked": "2026-09-19T18:26:48.362Z"
+  }
+]

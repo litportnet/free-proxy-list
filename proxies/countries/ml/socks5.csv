@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.30,21442,socks5://45.74.31.30:21442,elite,true,1423,1992,66,66,50,197.155.134.251,1,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,1,2026-09-19T04:37:26.707Z,2026-09-19T18:20:20.588Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "194.88.150.90",
+    "port": 1080,
+    "url": "socks5://194.88.150.90:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1518,
+    "latency_median_ms": 1377.5,
+    "uptime_24h": 97.9,
+    "uptime_7d": 97.9,
+    "checks_7d": 93,
+    "exit_ip": "194.88.150.90",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Mazovia",
+    "city": "Warsaw",
+    "timezone": "Europe/Warsaw",
+    "asn": 203273,
+    "asn_org": "NetCrafters OU",
+    "sources_count": 17,
+    "first_seen": "2026-09-19T02:36:27.799Z",
+    "last_checked": "2026-09-19T18:25:51.882Z"
+  }
+]

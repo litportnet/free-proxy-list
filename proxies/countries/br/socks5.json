@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.25",
+    "port": 5582,
+    "url": "socks5://45.74.31.25:5582",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7242,
+    "latency_median_ms": 3449.5,
+    "uptime_24h": 72,
+    "uptime_7d": 72,
+    "checks_7d": 50,
+    "exit_ip": "69.6.214.192",
+    "exit_shared": 1,
+    "country": "br",
+    "region": "São Paulo",
+    "city": "São Paulo",
+    "timezone": "America/Sao_Paulo",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 7,
+    "first_seen": "2026-09-19T06:38:30.511Z",
+    "last_checked": "2026-09-19T18:24:56.367Z"
+  }
+]

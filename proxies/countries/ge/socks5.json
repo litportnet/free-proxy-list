@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10802,
+    "url": "socks5://49.13.22.249:10802",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1917,
+    "latency_median_ms": 2978,
+    "uptime_24h": 83.5,
+    "uptime_7d": 78.7,
+    "checks_7d": 414,
+    "exit_ip": "91.239.206.59",
+    "exit_shared": 1,
+    "country": "ge",
+    "region": "Tbilisi",
+    "city": "Tbilisi",
+    "timezone": "Asia/Tbilisi",
+    "asn": 47810,
+    "asn_org": "Proservice LLC",
+    "sources_count": 17,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-09-19T18:24:41.176Z"
+  }
+]

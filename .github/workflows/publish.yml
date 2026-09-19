@@ -1,0 +1,79 @@
+name: Publish (manual fallback)
+
+# Regenerates `live` straight from the public litport.net API. This is a fallback path only:
+# the normal publish is a 5-minute server-side job (jobs/routine/publishFreeProxiesGithub.js in
+# the litport.net monorepo) that consumes the same public snapshot API. GitHub Actions `schedule` triggers are
+# unreliable under about an hour and get disabled after 60 days of repo inactivity, so this
+# workflow is workflow_dispatch only.
+on:
+  workflow_dispatch:
+    inputs:
+      primary_publisher_stopped:
+        description: Stop the primary jobs-host publisher before this fallback, then confirm here.
+        required: true
+        type: boolean
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish
+  cancel-in-progress: true
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Require the primary publisher to be stopped
+        if: inputs.primary_publisher_stopped != true
+        run: |
+          echo 'Stop jobs-publishFreeProxiesGithub before a manual fallback to avoid a live-branch race.' >&2
+          exit 1
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch from the public API
+        run: >-
+          node scripts/fetch-from-api.mjs --out /tmp/all.json
+          --previous-stats-url https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/stats.json
+
+      - name: Build
+        run: node scripts/build.mjs --input /tmp/all.json --out /tmp/out
+
+      - name: Commit and force-push an orphan commit to live
+        run: |
+          set -euo pipefail
+          git config user.name 'litport-bot[bot]'
+          git config user.email 'litport-bot[bot]@users.noreply.github.com'
+
+          rm -rf /tmp/live-checkout
+          git init -q /tmp/live-checkout
+          cd /tmp/live-checkout
+          git remote add origin "https://github.com/${GITHUB_REPOSITORY}.git"
+          ASKPASS=$(mktemp)
+          trap 'rm -f "$ASKPASS"' EXIT
+          printf '%s\n' '#!/bin/sh' 'case "$1" in *Username*) printf "%s\\n" x-access-token ;; *) printf "%s\\n" "$GITHUB_TOKEN" ;; esac' > "$ASKPASS"
+          chmod 700 "$ASKPASS"
+          export GIT_ASKPASS="$ASKPASS" GIT_TERMINAL_PROMPT=0
+          git config credential.helper ''
+          git checkout --orphan live
+          cp -a /tmp/out/. .
+          git add -A
+          COUNT_ALL=$(node -e "console.log(require('/tmp/out/proxies/stats.json').totals.all)")
+          COUNT_HTTP=$(node -e "console.log(require('/tmp/out/proxies/stats.json').totals.http)")
+          COUNT_SOCKS4=$(node -e "console.log(require('/tmp/out/proxies/stats.json').totals.socks4)")
+          COUNT_SOCKS5=$(node -e "console.log(require('/tmp/out/proxies/stats.json').totals.socks5)")
+          git -c user.name='litport-bot[bot]' -c user.email='litport-bot[bot]@users.noreply.github.com' \
+            commit -q -m "Update $(date -u +%FT%TZ): ${COUNT_ALL} proxies (${COUNT_HTTP} http, ${COUNT_SOCKS4} socks4, ${COUNT_SOCKS5} socks5) [manual dispatch]"
+          LIVE_SHA=$(git ls-remote --heads origin refs/heads/live | awk 'NR==1 {print $1}')
+          git push "--force-with-lease=refs/heads/live:${LIVE_SHA}" origin HEAD:live
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

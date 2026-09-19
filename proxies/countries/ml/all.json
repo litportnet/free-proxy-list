@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.30",
+    "port": 21442,
+    "url": "socks5://45.74.31.30:21442",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1423,
+    "latency_median_ms": 1992,
+    "uptime_24h": 66,
+    "uptime_7d": 66,
+    "checks_7d": 50,
+    "exit_ip": "197.155.134.251",
+    "exit_shared": 1,
+    "country": "ml",
+    "region": "Bamako",
+    "city": "Bamako",
+    "timezone": "Africa/Bamako",
+    "asn": 30985,
+    "asn_org": "Orange Mali SA",
+    "sources_count": 1,
+    "first_seen": "2026-09-19T04:37:26.707Z",
+    "last_checked": "2026-09-19T18:20:20.588Z"
+  }
+]

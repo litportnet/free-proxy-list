@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.199.119.160,80,http://109.199.119.160:80,elite,false,414,235.5,98.6,99.7,1003,109.199.119.160,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-07-29T19:59:31.982Z,2026-09-19T18:20:13.812Z
+http,37.59.125.131,8888,http://37.59.125.131:8888,transparent,true,2029,1401,94.8,94.8,968,82.66.253.58,1,fr,Île-de-France,Paris,Europe/Paris,12322,Free SAS,24,2026-07-10T05:50:05.863Z,2026-09-19T18:24:32.990Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,733,649,92.2,91.8,960,37.187.74.125,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,10,2025-09-05T00:24:28.901Z,2026-09-19T18:25:08.156Z
+http,202.133.88.173,80,http://202.133.88.173:80,elite,false,2277,3001.5,75.5,87.4,889,202.133.88.173,1,fr,Île-de-France,Paris,Europe/Paris,212552,BitCommand LLC,18,2025-12-07T12:12:09.766Z,2026-09-19T18:23:48.799Z
+http,206.245.131.160,80,http://206.245.131.160:80,elite,false,940,887.5,99.3,86.8,934,206.245.131.160,1,fr,Île-de-France,Paris,Europe/Paris,26383,Baxet Group Inc.,10,2026-07-09T13:39:53.205Z,2026-09-19T18:26:26.937Z
+http,163.172.53.142,80,http://163.172.53.142:80,elite,false,4021,5884,82.7,84.8,915,163.172.53.142,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,17,2025-09-06T06:34:26.456Z,2026-09-19T18:27:04.775Z

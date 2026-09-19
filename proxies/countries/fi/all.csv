@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,702,625,98.6,97.8,139,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-19T18:23:43.249Z
+socks5,83.147.216.208,1080,socks5://83.147.216.208:1080,elite,true,1193,841,89.5,94.2,963,83.147.216.208,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,19,2026-07-26T04:12:05.758Z,2026-09-19T18:23:30.742Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,763,577,96.4,92.5,978,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-09-05T06:58:13.976Z,2026-09-19T18:24:48.558Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,false,1909,1869,97.8,89.5,839,85.209.156.148,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,17,2026-08-25T00:50:18.372Z,2026-09-19T18:22:40.545Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,989,4429.5,94,86.1,821,85.209.156.148,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-19T18:22:27.617Z
+socks4,57.128.231.218,1004,socks4://57.128.231.218:1004,elite,false,1162,850.5,95.5,80.7,760,185.204.1.216,1,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-09-12T22:19:07.276Z,2026-09-19T18:29:03.986Z
+http,77.73.68.222,65000,http://77.73.68.222:65000,elite,true,1397,1143.5,68.7,71.5,372,77.91.84.40,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,16,2026-08-04T11:11:17.553Z,2026-09-19T18:21:47.500Z
+socks5,62.60.231.45,10808,socks5://62.60.231.45:10808,elite,true,2211,1093.5,89.5,,19,62.60.231.45,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-07-19T17:51:58.962Z,2026-09-19T18:28:47.475Z

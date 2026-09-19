@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.88.234.239,40006,socks4://103.88.234.239:40006,elite,false,459,258,96.4,88.8,322,104.28.225.188,3,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",15,2026-09-17T06:32:23.007Z,2026-09-19T18:25:17.520Z
+socks4,170.81.141.254,61437,socks4://170.81.141.254:61437,elite,false,475,876.5,44.4,45.1,745,170.81.140.79,1,mx,Aguascalientes,Aguascalientes,America/Mexico_City,28418,NUEVA RED INTERNET DE MEXICO S DE RL DE CV,9,2025-09-04T23:49:08.371Z,2026-09-19T18:25:43.103Z

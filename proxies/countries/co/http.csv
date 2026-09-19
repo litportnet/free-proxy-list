@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,179.1.196.133,999,http://179.1.196.133:999,transparent,false,2813,3167.5,23.6,16.7,335,179.1.196.133,1,co,Bogota D.C.,Bogotá,America/Bogota,18678,INTERNEXA S.A. E.S.P,22,2026-09-03T10:51:14.760Z,2026-09-19T18:25:33.667Z

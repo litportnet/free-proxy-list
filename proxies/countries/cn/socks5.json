@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "113.249.111.67",
+    "port": 1080,
+    "url": "socks5://113.249.111.67:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1706,
+    "latency_median_ms": 2114.5,
+    "uptime_24h": 100,
+    "uptime_7d": 98.2,
+    "checks_7d": 989,
+    "exit_ip": "113.249.111.67",
+    "exit_shared": 1,
+    "country": "cn",
+    "region": "Chongqing",
+    "city": "Chongqing",
+    "timezone": "Asia/Shanghai",
+    "asn": 134420,
+    "asn_org": "Chongqing Telecom",
+    "sources_count": 19,
+    "first_seen": "2026-08-26T20:12:07.501Z",
+    "last_checked": "2026-09-19T18:23:25.052Z"
+  }
+]

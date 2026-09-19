@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,688,635.5,100,96.5,626,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,11,2025-11-22T22:38:16.432Z,2026-09-19T18:23:48.814Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,1031,1035,100,96,620,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,19,2025-11-22T16:10:15.367Z,2026-09-19T18:26:03.895Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,901,653.5,92.3,93.8,275,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,5,2025-12-07T12:46:43.973Z,2026-09-19T18:25:17.506Z
+socks5,45.74.31.30,5160,socks5://45.74.31.30:5160,elite,true,3015,3684,32.7,27.8,194,80.74.142.120,1,ch,Zurich,Zürich,Europe/Zurich,21069,METANET AG,3,2026-09-15T16:54:06.013Z,2026-09-19T18:22:58.023Z

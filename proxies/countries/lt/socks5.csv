@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.30,7038,socks5://45.74.31.30:7038,elite,true,4575,2114,36.7,25.9,116,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,7,2026-09-02T21:42:35.492Z,2026-09-19T18:19:52.343Z
+socks5,45.74.31.25,14196,socks5://45.74.31.25:14196,elite,false,6857,1141.5,59.1,,22,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,5,2026-09-19T11:41:10.363Z,2026-09-19T18:21:24.586Z

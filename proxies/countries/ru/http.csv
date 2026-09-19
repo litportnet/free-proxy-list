@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.19.217.200,3128,http://195.19.217.200:3128,transparent,true,1790,1532.5,100,98.8,482,195.19.217.200,1,ru,Buryatiya Republic,Ulan-Ude,Asia/Irkutsk,8359,MTS PJSC,15,2026-03-31T13:20:13.874Z,2026-09-19T18:21:30.324Z
+http,2.59.43.253,22222,http://2.59.43.253:22222,transparent,true,2629,606,77.1,80.7,296,2.59.43.253,1,ru,St.-Petersburg,Saint Petersburg,Europe/Moscow,9123,JSC TIMEWEB,8,2026-07-14T17:51:58.285Z,2026-09-19T18:23:42.582Z
+http,176.99.134.183,8090,http://176.99.134.183:8090,elite,false,8328,4334.5,67,59.2,671,176.99.134.183,1,ru,Moscow Oblast,Khimki,Europe/Moscow,35598,INETCOM CARRIER LLC,19,2026-06-19T22:27:21.774Z,2026-09-19T18:25:51.878Z

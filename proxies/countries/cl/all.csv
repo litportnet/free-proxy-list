@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,38.7.195.55,999,http://38.7.195.55:999,transparent,false,8465,3934.5,54,41.6,687,151.241.85.26,1,cl,O'Higgins Region,San Vicente de Tagua Tagua,America/Santiago,274099,VALLENET SPA,23,2026-02-10T13:55:01.667Z,2026-09-19T18:25:11.800Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "200.229.76.160",
+    "port": 3128,
+    "url": "http://200.229.76.160:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 857,
+    "latency_median_ms": 756.5,
+    "uptime_24h": 98.9,
+    "uptime_7d": 98.9,
+    "checks_7d": 94,
+    "exit_ip": "200.229.76.160",
+    "exit_shared": 1,
+    "country": "br",
+    "region": "São Paulo",
+    "city": "Vinhedo",
+    "timezone": "America/Sao_Paulo",
+    "asn": 263511,
+    "asn_org": "Saveincloud Hospedagem na Internet Ltda",
+    "sources_count": 17,
+    "first_seen": "2026-09-19T02:36:24.799Z",
+    "last_checked": "2026-09-19T18:27:39.318Z"
+  }
+]

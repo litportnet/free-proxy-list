@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,153.51.201.35,999,http://153.51.201.35:999,transparent,true,893,633.5,100,99.8,538,153.51.201.35,3,ve,Barinas,Ciudad Bolivia,America/Caracas,274849,"GLOBALNET S&P, C.A.",21,2026-09-16T00:16:29.044Z,2026-09-19T18:29:03.976Z
+http,190.97.236.129,999,http://190.97.236.129:999,transparent,true,705,481.5,100,99.7,1003,153.51.201.35,3,ve,Barinas,Ciudad Bolivia,America/Caracas,274849,"GLOBALNET S&P, C.A.",21,2026-08-15T17:35:57.015Z,2026-09-19T18:22:58.027Z
+http,190.97.236.128,999,http://190.97.236.128:999,transparent,true,1930,1502,100,99.7,1001,153.51.201.35,3,ve,Barinas,Ciudad Bolivia,America/Caracas,274849,"GLOBALNET S&P, C.A.",20,2026-08-15T17:35:41.994Z,2026-09-19T18:19:01.184Z
+http,38.51.207.104,8080,http://38.51.207.104:8080,transparent,true,746,541.5,98.6,92.5,935,38.51.207.110,1,ve,Zulia,Maracaibo,America/Caracas,269730,TECNOVEN SERVICES CA,20,2026-09-09T02:45:33.082Z,2026-09-19T18:22:27.624Z
+http,190.97.241.106,999,http://190.97.241.106:999,transparent,true,3024,1265,95.4,89.1,947,190.97.241.106,1,ve,Táchira,San Cristóbal,America/Caracas,263703,VIGINET C.A,24,2026-08-15T17:35:41.991Z,2026-09-19T18:23:17.234Z
+http,154.59.56.76,999,http://154.59.56.76:999,transparent,true,1936,2709.5,84.8,72.9,878,154.59.56.73,1,ve,Distrito Federal,Caracas,America/Caracas,264778,TotalCom Venezuela C.A.,24,2026-08-29T02:42:15.758Z,2026-09-19T18:22:21.907Z

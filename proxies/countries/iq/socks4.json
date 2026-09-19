@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "188.72.16.74",
+    "port": 1080,
+    "url": "socks4://188.72.16.74:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2059,
+    "latency_median_ms": 1954,
+    "uptime_24h": 65.6,
+    "uptime_7d": 66.8,
+    "checks_7d": 836,
+    "exit_ip": "188.72.16.74",
+    "exit_shared": 1,
+    "country": "iq",
+    "region": "Sulaymaniyah",
+    "city": "Sulaymaniyah",
+    "timezone": "Asia/Baghdad",
+    "asn": 49571,
+    "asn_org": "CELLNET Company for Internet Services Ltd.",
+    "sources_count": 19,
+    "first_seen": "2026-07-04T17:38:38.282Z",
+    "last_checked": "2026-09-19T18:28:01.359Z"
+  }
+]

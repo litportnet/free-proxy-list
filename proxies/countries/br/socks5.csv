@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.25,5582,socks5://45.74.31.25:5582,elite,false,7242,3449.5,72,72,50,69.6.214.192,1,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,7,2026-09-19T06:38:30.511Z,2026-09-19T18:24:56.367Z

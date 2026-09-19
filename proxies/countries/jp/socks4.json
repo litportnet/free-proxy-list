@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "103.75.118.84",
+    "port": 1080,
+    "url": "socks4://103.75.118.84:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1242,
+    "latency_median_ms": 1454.5,
+    "uptime_24h": 96.3,
+    "uptime_7d": 95.5,
+    "checks_7d": 975,
+    "exit_ip": "103.75.118.84",
+    "exit_shared": 2,
+    "country": "jp",
+    "region": "Tokyo",
+    "city": "Tokyo",
+    "timezone": "Asia/Tokyo",
+    "asn": 136258,
+    "asn_org": "BrainStorm Network, Inc",
+    "sources_count": 8,
+    "first_seen": "2026-02-28T21:48:48.843Z",
+    "last_checked": "2026-09-19T18:24:05.864Z"
+  }
+]

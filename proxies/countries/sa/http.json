@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "130.110.103.245",
+    "port": 3128,
+    "url": "http://130.110.103.245:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1030,
+    "latency_median_ms": 846,
+    "uptime_24h": 97.1,
+    "uptime_7d": 98.6,
+    "checks_7d": 989,
+    "exit_ip": "130.110.103.245",
+    "exit_shared": 1,
+    "country": "sa",
+    "region": "Mecca Region",
+    "city": "Jeddah",
+    "timezone": "Asia/Riyadh",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 20,
+    "first_seen": "2026-08-06T11:36:30.247Z",
+    "last_checked": "2026-09-19T18:20:26.302Z"
+  }
+]

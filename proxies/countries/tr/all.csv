@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,107.181.155.86,80,http://107.181.155.86:80,elite,false,875,621.5,100,99.8,851,107.181.155.86,1,tr,Istanbul,Istanbul,Europe/Istanbul,213535,YottaSrc,16,2026-09-13T19:32:21.478Z,2026-09-19T18:26:15.362Z
+http,95.3.69.222,8080,http://95.3.69.222:8080,transparent,true,935,711,100,99.8,1001,95.3.69.222,1,tr,Muğla,Marmaris,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,24,2026-06-02T04:44:03.820Z,2026-09-19T18:21:47.510Z
+socks5,147.45.66.116,1082,socks5://147.45.66.116:1082,elite,false,8466,3958.5,49.4,54.3,753,147.45.66.116,1,tr,Istanbul,Istanbul,Europe/Istanbul,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,19,2026-07-14T07:46:06.191Z,2026-09-19T18:19:01.160Z
+http,193.33.157.2,8080,http://193.33.157.2:8080,transparent,false,4146,5504,21.3,17.5,212,193.33.157.2,1,tr,Kilis,Kilis,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,23,2026-09-07T10:26:17.708Z,2026-09-19T18:18:08.106Z

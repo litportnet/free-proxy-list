@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "178.212.144.7",
+    "port": 80,
+    "url": "http://178.212.144.7:80",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 428,
+    "latency_median_ms": 311.5,
+    "uptime_24h": 100,
+    "uptime_7d": 99.9,
+    "checks_7d": 1008,
+    "exit_ip": "178.212.144.7",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Podlasie",
+    "city": "Augustów",
+    "timezone": "Europe/Warsaw",
+    "asn": 51436,
+    "asn_org": "IDEALAN Sp. z o.o.",
+    "sources_count": 16,
+    "first_seen": "2025-12-06T19:03:04.342Z",
+    "last_checked": "2026-09-19T18:24:48.551Z"
+  }
+]

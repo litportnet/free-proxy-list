@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "148.113.202.99",
+    "port": 3128,
+    "url": "http://148.113.202.99:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 1338,
+    "latency_median_ms": 5449,
+    "uptime_24h": 55.6,
+    "uptime_7d": 49.2,
+    "checks_7d": 364,
+    "exit_ip": "148.113.202.99",
+    "exit_shared": 1,
+    "country": "ca",
+    "region": "Quebec",
+    "city": "Montréal",
+    "timezone": "America/Toronto",
+    "asn": 16276,
+    "asn_org": "OVH SAS",
+    "sources_count": 12,
+    "first_seen": "2026-07-06T09:10:05.787Z",
+    "last_checked": "2026-09-19T18:26:30.631Z"
+  }
+]

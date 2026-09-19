@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "58.247.113.130",
+    "port": 5678,
+    "url": "socks4://58.247.113.130:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1634,
+    "latency_median_ms": 1509.5,
+    "uptime_24h": 56.7,
+    "uptime_7d": 65.5,
+    "checks_7d": 832,
+    "exit_ip": "58.247.113.130",
+    "exit_shared": 1,
+    "country": "cn",
+    "region": "Shanghai",
+    "city": "Shanghai",
+    "timezone": "Asia/Shanghai",
+    "asn": 17621,
+    "asn_org": "China Unicom Shanghai network",
+    "sources_count": 11,
+    "first_seen": "2025-09-05T20:06:35.264Z",
+    "last_checked": "2026-09-19T18:24:38.668Z"
+  }
+]

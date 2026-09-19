@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.42,17049,socks5://45.74.31.42:17049,elite,false,7091,3545,38.1,37,181,194.233.71.230,2,sg,Singapore,Singapore,Asia/Singapore,141995,Contabo Asia Private Limited,16,2026-09-16T01:17:01.478Z,2026-09-19T18:22:58.032Z
+socks5,45.74.31.25,4539,socks5://45.74.31.25:4539,elite,true,4578,1383,57.1,,21,194.233.71.230,2,sg,Singapore,Singapore,Asia/Singapore,141995,Contabo Asia Private Limited,1,2026-09-19T11:41:10.363Z,2026-09-19T18:25:17.516Z

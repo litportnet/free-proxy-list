@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,188.72.16.74,1080,socks4://188.72.16.74:1080,elite,false,2059,1954,65.6,66.8,836,188.72.16.74,1,iq,Sulaymaniyah,Sulaymaniyah,Asia/Baghdad,49571,CELLNET Company for Internet Services Ltd.,19,2026-07-04T17:38:38.282Z,2026-09-19T18:28:01.359Z

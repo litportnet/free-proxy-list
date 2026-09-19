@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,58.247.113.130,5678,socks4://58.247.113.130:5678,elite,false,1634,1509.5,56.7,65.5,832,58.247.113.130,1,cn,Shanghai,Shanghai,Asia/Shanghai,17621,China Unicom Shanghai network,11,2025-09-05T20:06:35.264Z,2026-09-19T18:24:38.668Z

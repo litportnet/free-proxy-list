@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,95.181.160.37,1080,socks5://95.181.160.37:1080,elite,true,1530,822,97.9,97.9,93,95.181.160.37,1,de,Hesse,Frankfurt am Main,Europe/Berlin,210644,AEZA GROUP LLC,17,2026-09-19T02:36:27.799Z,2026-09-19T18:27:39.313Z
+socks5,85.93.9.12,1080,socks5://85.93.9.12:1080,elite,true,981,710,93.9,91.9,185,85.93.9.12,2,de,Hesse,Bad Soden am Taunus,Europe/Berlin,214902,Philip Fjaera trading as PFWeb Solutions,17,2026-09-18T08:46:13.621Z,2026-09-19T18:23:15.150Z
+socks5,152.53.183.107,8081,socks5://152.53.183.107:8081,elite,true,1297,983.5,97.8,91.8,963,152.53.183.107,2,de,Bavaria,Nuremberg,Europe/Berlin,197540,netcup GmbH,19,2026-09-03T18:37:59.841Z,2026-09-19T18:28:58.243Z
+socks5,45.74.31.30,16644,socks5://45.74.31.30:16644,elite,true,1673,1345,71.2,71.2,52,178.104.228.156,4,de,Bavaria,Nuremberg,Europe/Berlin,24940,Hetzner Online GmbH,1,2026-09-19T04:37:26.707Z,2026-09-19T18:24:40.570Z
+socks5,45.74.31.42,19255,socks5://45.74.31.42:19255,elite,true,3234,5689,27.8,30.7,283,49.13.144.51,1,de,Bavaria,Nuremberg,Europe/Berlin,24940,Hetzner Online GmbH,15,2026-09-12T22:19:08.072Z,2026-09-19T18:20:07.887Z
+socks5,45.74.31.42,11824,socks5://45.74.31.42:11824,elite,false,4613,4247,40,27.9,233,178.104.228.156,4,de,Bavaria,Nuremberg,Europe/Berlin,24940,Hetzner Online GmbH,16,2026-09-15T02:46:48.164Z,2026-09-19T18:20:38.879Z
+socks5,45.74.31.30,10623,socks5://45.74.31.30:10623,elite,false,5023,5093.5,100,23.3,90,217.160.187.220,1,de,Hesse,Frankfurt am Main,Europe/Berlin,8560,IONOS SE,11,2026-09-13T07:23:53.696Z,2026-09-19T18:20:55.936Z
+socks5,45.74.31.30,10302,socks5://45.74.31.30:10302,elite,true,2859,2901,31.6,21.9,73,178.104.228.156,4,de,Bavaria,Nuremberg,Europe/Berlin,24940,Hetzner Online GmbH,13,2026-09-14T11:38:42.842Z,2026-09-19T18:24:38.685Z
+socks5,45.74.31.42,8490,socks5://45.74.31.42:8490,elite,false,3401,3401,100,,5,178.104.228.156,4,de,Bavaria,Nuremberg,Europe/Berlin,24940,Hetzner Online GmbH,1,2026-09-19T17:44:28.044Z,2026-09-19T18:24:27.432Z

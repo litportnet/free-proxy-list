@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,873,651.5,100,100,94,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,16,2026-09-19T02:36:27.799Z,2026-09-19T18:20:26.278Z
+socks5,45.74.31.25,4250,socks5://45.74.31.25:4250,elite,true,939,817,60.7,,28,209.42.23.128,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,1,2026-09-19T09:40:06.532Z,2026-09-19T18:25:33.673Z
+socks5,45.74.31.23,16018,socks5://45.74.31.23:16018,elite,true,2386,3393,61.5,,26,209.42.23.128,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,10,2026-09-19T11:41:10.363Z,2026-09-19T18:20:38.855Z
+socks5,45.74.31.23,15489,socks5://45.74.31.23:15489,elite,false,2760,2867.5,44.4,,27,209.42.23.128,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,11,2026-09-19T09:40:06.532Z,2026-09-19T18:23:54.485Z
+socks5,45.74.31.23,16174,socks5://45.74.31.23:16174,elite,true,4067,1694,37.5,,16,209.42.23.128,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,9,2026-09-19T11:41:10.363Z,2026-09-19T18:22:04.672Z

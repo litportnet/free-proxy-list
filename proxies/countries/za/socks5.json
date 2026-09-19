@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "168.253.92.93",
+    "port": 10808,
+    "url": "socks5://168.253.92.93:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4678,
+    "latency_median_ms": 4542.5,
+    "uptime_24h": 45.1,
+    "uptime_7d": 45.3,
+    "checks_7d": 740,
+    "exit_ip": "168.253.92.93",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Gauteng",
+    "city": "Pretoria",
+    "timezone": "Africa/Johannesburg",
+    "asn": 37650,
+    "asn_org": "CM Value Added Services (Pty) Ltd",
+    "sources_count": 17,
+    "first_seen": "2025-11-06T12:07:21.653Z",
+    "last_checked": "2026-09-19T18:24:48.548Z"
+  }
+]

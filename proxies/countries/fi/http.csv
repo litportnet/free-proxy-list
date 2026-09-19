@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,702,625,98.6,97.8,139,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-19T18:23:43.249Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,763,577,96.4,92.5,978,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-09-05T06:58:13.976Z,2026-09-19T18:24:48.558Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,989,4429.5,94,86.1,821,85.209.156.148,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-19T18:22:27.617Z
+http,77.73.68.222,65000,http://77.73.68.222:65000,elite,true,1397,1143.5,68.7,71.5,372,77.91.84.40,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,16,2026-08-04T11:11:17.553Z,2026-09-19T18:21:47.500Z

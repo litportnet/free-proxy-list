@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,117.102.101.52,5678,socks4://117.102.101.52:5678,elite,false,1544,1876,63.2,71.8,866,117.102.101.52,1,id,Jakarta,Jakarta,Asia/Jakarta,17451,BIZNET NETWORKS,13,2025-09-05T00:23:10.005Z,2026-09-19T18:29:22.370Z
+socks4,103.26.209.206,1080,socks4://103.26.209.206:1080,elite,false,4334,2364,60.4,69.8,808,103.26.209.206,1,id,Jakarta,Jakarta,Asia/Jakarta,18103,Neuviz Net,12,2026-04-08T09:00:00.676Z,2026-09-19T18:23:03.731Z
+socks4,103.102.141.39,4145,socks4://103.102.141.39:4145,elite,false,4393,3481.5,63.2,54.7,802,103.102.141.39,1,id,Riau Islands,Tanjung Balai,Asia/Jakarta,136854,PT. PALAPA RING BARAT,12,2025-09-04T23:49:06.393Z,2026-09-19T18:24:48.561Z
+socks4,101.255.150.238,1080,socks4://101.255.150.238:1080,elite,false,1450,4246.5,36.5,47.4,690,101.255.150.238,1,id,West Java,Bogor,Asia/Jakarta,38511,PT Remala Abadi,17,2025-10-27T18:03:00.493Z,2026-09-19T18:23:42.589Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "47.91.104.88",
+    "port": 3128,
+    "url": "http://47.91.104.88:3128",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 930,
+    "latency_median_ms": 877,
+    "uptime_24h": 99.3,
+    "uptime_7d": 98.3,
+    "checks_7d": 993,
+    "exit_ip": "47.91.104.88",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Dubai",
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "asn": 45102,
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "sources_count": 19,
+    "first_seen": "2025-09-07T07:15:56.592Z",
+    "last_checked": "2026-09-19T18:24:49.830Z"
+  }
+]

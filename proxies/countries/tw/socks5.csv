@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.25,4234,socks5://45.74.31.25:4234,elite,false,6168,4149.5,40,35.7,84,203.99.146.53,4,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,13,2026-09-16T03:18:05.440Z,2026-09-19T18:26:09.661Z
+socks5,45.74.31.42,10305,socks5://45.74.31.42:10305,elite,true,2544,1739,93.8,,16,203.99.146.53,4,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,1,2026-09-19T15:43:16.405Z,2026-09-19T18:27:55.035Z
+socks5,45.74.31.42,6759,socks5://45.74.31.42:6759,elite,false,2662,1582,46.7,,15,203.99.146.53,4,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,6,2026-09-19T13:42:13.174Z,2026-09-19T18:23:54.480Z
+socks5,45.74.31.42,8691,socks5://45.74.31.42:8691,elite,false,4001,4496,84.6,,13,203.99.146.53,4,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,7,2026-09-19T15:43:16.405Z,2026-09-19T18:19:58.004Z

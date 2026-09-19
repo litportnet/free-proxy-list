@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,125.25.82.207,5678,socks4://125.25.82.207:5678,elite,false,2410,1343,71.2,70.9,858,125.25.82.207,1,th,Surat Thani,Ko Samui,Asia/Bangkok,23969,TOT Public Company Limited,1,2026-03-17T17:23:30.864Z,2026-09-19T18:26:42.668Z
+socks4,118.174.14.65,44336,socks4://118.174.14.65:44336,elite,false,8704,2393,57.1,60,812,101.109.82.66,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,12,2025-09-04T23:49:07.852Z,2026-09-19T18:24:00.168Z

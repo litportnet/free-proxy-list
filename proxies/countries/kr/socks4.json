@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "150.109.247.86",
+    "port": 8443,
+    "url": "socks4://150.109.247.86:8443",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1230,
+    "latency_median_ms": 927.5,
+    "uptime_24h": 95.5,
+    "uptime_7d": 97.2,
+    "checks_7d": 287,
+    "exit_ip": "150.109.247.86",
+    "exit_shared": 2,
+    "country": "kr",
+    "region": "Seoul",
+    "city": "Seoul",
+    "timezone": "Asia/Seoul",
+    "asn": 132203,
+    "asn_org": "Tencent Building, Kejizhongyi Avenue",
+    "sources_count": 11,
+    "first_seen": "2026-08-21T10:02:58.834Z",
+    "last_checked": "2026-09-19T18:25:08.177Z"
+  }
+]

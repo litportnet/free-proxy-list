@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,178.212.144.7,80,http://178.212.144.7:80,transparent,false,428,311.5,100,99.9,1008,178.212.144.7,1,pl,Podlasie,Augustów,Europe/Warsaw,51436,IDEALAN Sp. z o.o.,16,2025-12-06T19:03:04.342Z,2026-09-19T18:24:48.551Z

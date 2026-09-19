@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,197.221.249.199,80,http://197.221.249.199:80,anonymous,false,2066,2063.5,85.2,67.4,838,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,6,2025-12-06T20:03:30.480Z,2026-09-19T18:23:36.446Z
+http,41.220.16.223,80,http://41.220.16.223:80,anonymous,false,8518,2481,76.9,67.3,859,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,6,2026-09-09T21:22:41.910Z,2026-09-19T18:23:54.495Z
+http,41.220.16.210,80,http://41.220.16.210:80,anonymous,false,8403,3108.5,71.6,67.2,833,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:32.865Z,2026-09-19T18:24:05.851Z
+http,197.221.249.198,80,http://197.221.249.198:80,anonymous,false,2320,3198,80.5,66.7,853,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,5,2025-12-06T19:02:41.685Z,2026-09-19T18:26:21.168Z
+http,197.221.249.196,80,http://197.221.249.196:80,anonymous,false,8501,2051,82.3,66.2,836,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,5,2025-12-06T18:02:08.936Z,2026-09-19T18:22:04.675Z
+http,197.221.240.176,80,http://197.221.240.176:80,anonymous,false,2269,3165.5,79.1,64.6,840,41.220.17.62,6,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,7,2025-12-07T15:13:20.738Z,2026-09-19T18:23:03.733Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,213.111.146.36,18080,socks4://213.111.146.36:18080,elite,false,728,632.5,100,100,621,213.111.146.36,3,nl,North Holland,Haarlem,Europe/Amsterdam,43641,SOLLUTIUM EU Sp z.o.o.,9,2026-02-06T01:57:28.536Z,2026-09-19T18:23:25.050Z
+socks4,51.15.253.45,8080,socks4://51.15.253.45:8080,elite,false,1498,4013,67.3,47.3,666,192.42.116.100,1,nl,Flevoland,Lelystad,Europe/Amsterdam,215125,Church of Cyberology,11,2026-07-25T00:58:03.543Z,2026-09-19T18:27:27.862Z

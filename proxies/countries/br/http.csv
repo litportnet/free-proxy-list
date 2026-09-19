@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,200.229.76.160,3128,http://200.229.76.160:3128,transparent,true,857,756.5,98.9,98.9,94,200.229.76.160,1,br,São Paulo,Vinhedo,America/Sao_Paulo,263511,Saveincloud Hospedagem na Internet Ltda,17,2026-09-19T02:36:24.799Z,2026-09-19T18:27:39.318Z

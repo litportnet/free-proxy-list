@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "37.52.13.164",
+    "port": 5678,
+    "url": "socks4://37.52.13.164:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8222,
+    "latency_median_ms": 2792,
+    "uptime_24h": 70.6,
+    "uptime_7d": 70.1,
+    "checks_7d": 853,
+    "exit_ip": "37.52.13.164",
+    "exit_shared": 1,
+    "country": "ua",
+    "region": "Kyiv City",
+    "city": "Kyiv",
+    "timezone": "Europe/Kyiv",
+    "asn": 6849,
+    "asn_org": "JSC Ukrtelecom",
+    "sources_count": 12,
+    "first_seen": "2025-09-05T20:06:12.740Z",
+    "last_checked": "2026-09-19T18:25:11.123Z"
+  }
+]

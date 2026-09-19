@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,1099,795.5,100,100,1008,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,18,2026-09-06T11:13:08.921Z,2026-09-19T18:21:41.766Z
+http,1.231.81.166,3128,http://1.231.81.166:3128,transparent,true,937,738.5,100,99.6,1001,1.231.81.166,1,kr,Seoul,Seoul,Asia/Seoul,9318,SK Broadband Co Ltd,23,2026-03-06T12:01:05.611Z,2026-09-19T18:23:36.408Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,1095,828,100,99,1004,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T14:20:07.319Z,2026-09-19T18:25:58.182Z
+socks5,150.109.247.86,8443,socks5://150.109.247.86:8443,elite,true,1396,1094.5,95.6,97.8,314,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-08-21T09:05:16.715Z,2026-09-19T18:23:03.728Z
+socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,1230,927.5,95.5,97.2,287,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-08-21T10:02:58.834Z,2026-09-19T18:25:08.177Z

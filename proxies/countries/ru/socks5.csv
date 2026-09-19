@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,193.233.223.47,1080,socks5://193.233.223.47:1080,elite,true,4037,914,100,98.3,345,193.233.218.121,1,ru,St.-Petersburg,Saint Petersburg,Europe/Moscow,216246,Aeza Group LLC,18,2026-09-17T07:32:58.542Z,2026-09-19T18:29:33.919Z
+socks5,213.33.186.254,1080,socks5://213.33.186.254:1080,elite,false,1646,1582,60.7,60.7,61,213.33.186.254,1,ru,Moscow,Moscow,Europe/Moscow,3216,PJSC Vimpelcom,13,2026-09-19T02:36:27.799Z,2026-09-19T18:23:18.928Z
+socks5,81.211.116.10,1080,socks5://81.211.116.10:1080,elite,true,2287,2276.5,49.1,49.1,55,81.211.116.10,1,ru,Moscow,Moscow,Europe/Moscow,3216,PJSC Vimpelcom,13,2026-09-19T02:36:27.799Z,2026-09-19T18:26:21.186Z
+socks5,194.186.5.21,1080,socks5://194.186.5.21:1080,elite,true,3371,4940,45.1,45.1,51,194.186.5.21,1,ru,Moscow,Moscow,Europe/Moscow,3216,PJSC Vimpelcom,12,2026-09-19T02:36:27.799Z,2026-09-19T18:28:12.840Z
+socks5,194.186.5.83,1080,socks5://194.186.5.83:1080,elite,false,8619,5645,43.4,43.4,53,194.186.5.83,1,ru,Moscow Oblast,Khimki,Europe/Moscow,3216,PJSC Vimpelcom,14,2026-09-19T02:36:27.799Z,2026-09-19T18:27:04.766Z
+socks5,195.19.50.126,1080,socks5://195.19.50.126:1080,elite,false,2242,3360,29,42.1,309,195.19.50.126,1,ru,Moscow Oblast,Odintsovo,Europe/Moscow,57529,JSC GTNT,16,2026-03-16T04:03:45.847Z,2026-09-19T18:27:40.060Z
+socks5,95.31.19.190,1080,socks5://95.31.19.190:1080,elite,false,1186,2247.5,57.1,,35,95.31.19.190,1,ru,Moscow Oblast,Khimki,Europe/Moscow,8402,PJSC Vimpelcom,13,2026-09-19T08:39:37.571Z,2026-09-19T18:19:59.265Z
+socks5,83.237.214.70,1080,socks5://83.237.214.70:1080,elite,false,4077,2126.5,44.9,,49,83.237.214.70,1,ru,Moscow,Moscow,Europe/Moscow,8359,MTS PJSC,14,2026-09-19T02:36:27.799Z,2026-09-19T18:20:50.223Z

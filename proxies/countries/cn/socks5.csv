@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1706,2114.5,100,98.2,989,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,19,2026-08-26T20:12:07.501Z,2026-09-19T18:23:25.052Z

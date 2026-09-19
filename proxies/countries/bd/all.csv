@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,113.212.111.4,8090,http://113.212.111.4:8090,transparent,false,775,531,100,100,159,113.212.111.1,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,136224,City Online Ltd.,8,2026-02-20T00:55:47.137Z,2026-09-19T18:24:38.695Z
+socks4,103.149.75.82,1080,socks4://103.149.75.82:1080,elite,false,1605,1363,99.3,99.6,1003,103.149.75.82,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,63969,Race Online Limited,11,2026-06-23T21:19:44.945Z,2026-09-19T18:29:28.175Z
+http,124.109.105.44,3128,http://124.109.105.44:3128,anonymous,true,3605,2252,98.9,98.9,93,124.109.105.44,2,bd,Dhaka Division,Dhaka,Asia/Dhaka,55344,Head Office,18,2026-09-19T02:36:24.799Z,2026-09-19T18:24:53.874Z
+http,103.177.118.145,8118,http://103.177.118.145:8118,transparent,false,1330,1744,85.5,88.2,912,203.76.117.226,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,16,2026-08-19T22:46:45.613Z,2026-09-19T18:25:27.963Z
+socks4,123.200.6.58,5678,socks4://123.200.6.58:5678,elite,false,1647,4581,50,56.6,781,123.200.6.58,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,19,2025-09-05T00:23:09.529Z,2026-09-19T18:28:01.367Z
+http,124.109.105.44,80,http://124.109.105.44:80,anonymous,true,3322,3094.5,87.9,,33,124.109.105.44,2,bd,Dhaka Division,Dhaka,Asia/Dhaka,55344,Head Office,16,2026-09-19T11:41:18.842Z,2026-09-19T18:20:38.872Z
