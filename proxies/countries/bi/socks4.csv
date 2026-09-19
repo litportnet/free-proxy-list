@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,197.157.192.168,1080,socks4://197.157.192.168:1080,elite,false,1479,2404,72.9,67,531,197.157.192.168,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37429,SPIDERNET SPRL BURUNDI,11,2026-08-15T04:28:13.653Z,2026-09-19T04:27:54.463Z

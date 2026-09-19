@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "66.186.199.33",
+    "port": 8080,
+    "url": "http://66.186.199.33:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3640,
+    "latency_median_ms": 4140,
+    "uptime_24h": 11.4,
+    "uptime_7d": 8.7,
+    "checks_7d": 172,
+    "exit_ip": "66.186.199.33",
+    "exit_shared": 1,
+    "country": "al",
+    "region": "Tirana",
+    "city": "Paskuqan",
+    "timezone": "Europe/Tirane",
+    "asn": 21183,
+    "asn_org": "Vodafone Albania Sh.A.",
+    "sources_count": 20,
+    "first_seen": "2026-04-12T11:53:22.452Z",
+    "last_checked": "2026-09-19T04:23:58.421Z"
+  }
+]

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,895,1540,71.4,71.9,203,45.84.122.154,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,15,2026-09-16T03:18:05.440Z,2026-09-18T04:28:00.808Z
-socks5,31.47.103.207,1080,socks5://31.47.103.207:1080,elite,false,1975,3481.5,22.9,,35,31.47.103.207,1,cz,Olomouc Region,Mohelnice,Europe/Prague,8251,"FreeTel, s.r.o.",8,2026-09-17T05:31:54.290Z,2026-09-18T04:28:22.708Z

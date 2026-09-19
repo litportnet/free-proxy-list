@@ -6,11 +6,11 @@
     "url": "socks4://83.56.15.57:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1723,
-    "latency_median_ms": 1737,
-    "uptime_24h": 74.8,
-    "uptime_7d": 69.2,
-    "checks_7d": 883,
+    "latency_ms": 7917,
+    "latency_median_ms": 1730.5,
+    "uptime_24h": 75.2,
+    "uptime_7d": 72.4,
+    "checks_7d": 902,
     "exit_ip": "83.56.15.57",
     "exit_shared": 1,
     "country": "es",
@@ -21,6 +21,6 @@
     "asn_org": "TELEFONICA DE ESPANA S.A.U.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:30.560Z",
-    "last_checked": "2026-09-18T04:27:34.542Z"
+    "last_checked": "2026-09-19T04:26:53.419Z"
   }
 ]

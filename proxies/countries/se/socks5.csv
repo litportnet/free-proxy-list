@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,142.93.21.46,61616,socks5://142.93.21.46:61616,elite,false,4390,2525,52,46,113,45.84.107.74,2,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,16,2026-07-02T03:04:46.856Z,2026-09-18T04:31:22.332Z
+socks5,57.128.231.218,1001,socks5://57.128.231.218:1001,elite,true,903,941,81.2,63.1,615,45.129.59.168,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,19,2026-09-10T22:54:11.022Z,2026-09-19T04:21:10.286Z
+socks5,51.15.253.45,8080,socks5://51.15.253.45:8080,elite,true,1077,2632.5,51.1,44,614,45.84.107.128,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,18,2026-07-25T02:56:56.408Z,2026-09-19T04:25:32.350Z
+socks5,138.124.85.83,1081,socks5://138.124.85.83:1081,elite,true,4928,4378.5,19.4,9.5,116,138.124.85.83,1,se,Stockholm,Stockholm,Europe/Stockholm,41745,Baykov Ilya Sergeevich,19,2026-08-31T21:16:33.860Z,2026-09-19T04:29:19.774Z

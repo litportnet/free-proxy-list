@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,80.78.74.8,65530,socks4://80.78.74.8:65530,elite,false,3744,3714.5,55.7,45.1,767,80.78.74.8,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,19,2025-09-05T20:06:23.438Z,2026-09-18T04:31:41.426Z
+socks4,185.190.90.2,4145,socks4://185.190.90.2:4145,elite,false,684,1736.5,52.1,54.5,672,185.190.90.2,1,al,Durrës County,Durrës,Europe/Tirane,212637,LightNet Sh.p.k.,19,2025-09-04T23:49:13.395Z,2026-09-19T04:27:02.884Z
+socks4,80.78.74.8,65530,socks4://80.78.74.8:65530,elite,false,792,1735,63,47.4,762,80.78.74.8,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,19,2025-09-05T20:06:23.438Z,2026-09-19T04:23:34.715Z
+http,66.186.199.33,8080,http://66.186.199.33:8080,transparent,false,3640,4140,11.4,8.7,172,66.186.199.33,1,al,Tirana,Paskuqan,Europe/Tirane,21183,Vodafone Albania Sh.A.,20,2026-04-12T11:53:22.452Z,2026-09-19T04:23:58.421Z

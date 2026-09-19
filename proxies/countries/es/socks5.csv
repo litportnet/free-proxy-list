@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,true,3195,1853.5,76.5,78.1,114,130.195.250.38,1,es,Catalonia,Barcelona,Europe/Madrid,9009,M247 Europe SRL,12,2026-09-17T02:30:16.285Z,2026-09-18T04:29:02.620Z
+socks5,161.35.90.93,1083,socks5://161.35.90.93:1083,elite,true,829,1266,89,83.3,927,192.145.124.230,1,es,Madrid,Madrid,Europe/Madrid,9009,M247 Europe SRL,17,2026-08-11T01:33:25.455Z,2026-09-19T04:28:39.374Z

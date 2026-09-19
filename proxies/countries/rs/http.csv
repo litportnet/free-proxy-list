@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,147.91.22.150,80,http://147.91.22.150:80,elite,false,2136,1160,52.5,44.2,566,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,10,2025-09-10T19:34:49.515Z,2026-09-18T04:22:52.621Z

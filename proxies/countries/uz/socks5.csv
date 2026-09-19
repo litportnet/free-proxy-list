@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,213.230.121.41,1080,socks5://213.230.121.41:1080,elite,false,2801,1666.5,6.7,38.6,485,213.230.121.41,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,14,2026-04-27T23:11:43.611Z,2026-09-18T04:27:29.288Z

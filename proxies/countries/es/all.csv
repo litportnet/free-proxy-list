@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,3201,3215.5,91.6,88.1,963,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-09-18T04:30:03.321Z
-socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,true,3195,1853.5,76.5,78.1,114,130.195.250.38,1,es,Catalonia,Barcelona,Europe/Madrid,9009,M247 Europe SRL,12,2026-09-17T02:30:16.285Z,2026-09-18T04:29:02.620Z
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,1723,1737,74.8,69.2,883,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-09-18T04:27:34.542Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,2506,3906,74.1,86.8,929,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,19,2025-09-10T19:34:46.844Z,2026-09-19T04:24:37.836Z
+socks5,161.35.90.93,1083,socks5://161.35.90.93:1083,elite,true,829,1266,89,83.3,927,192.145.124.230,1,es,Madrid,Madrid,Europe/Madrid,9009,M247 Europe SRL,17,2026-08-11T01:33:25.455Z,2026-09-19T04:28:39.374Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,7917,1730.5,75.2,72.4,902,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-09-19T04:26:53.419Z

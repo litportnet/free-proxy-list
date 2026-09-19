@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,72.255.38.180,1080,socks5://72.255.38.180:1080,elite,true,2564,2289,43.2,42,772,72.255.38.180,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,18,2026-08-02T04:41:37.409Z,2026-09-19T04:29:58.895Z

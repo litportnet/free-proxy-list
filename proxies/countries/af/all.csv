@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,165.101.26.18,8080,http://165.101.26.18:8080,transparent,true,3398,1028.5,30.9,22.2,333,165.101.26.18,1,af,Nangarhar,Jalālābād,Asia/Kabul,151081,ARYAN DUNYA ICT,18,2026-09-05T17:03:45.404Z,2026-09-18T04:23:21.215Z

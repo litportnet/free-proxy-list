@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,139.135.63.90,8080,http://139.135.63.90:8080,transparent,false,5203,2664,9.1,14.3,133,139.135.63.90,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,20,2026-08-27T04:18:02.239Z,2026-09-19T04:25:50.868Z

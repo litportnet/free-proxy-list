@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,8026,1961,70.7,68.8,860,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,12,2026-07-08T00:20:44.106Z,2026-09-18T04:24:24.259Z
-socks4,196.1.182.158,1080,socks4://196.1.182.158:1080,elite,false,3032,3828,50.5,57.6,859,196.1.182.158,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,14,2026-08-09T00:08:38.475Z,2026-09-18T04:31:49.646Z
-socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,1990,2000,56.7,50.6,777,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,18,2026-07-05T00:42:24.200Z,2026-09-18T04:28:48.551Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,961,3974.5,80,72.2,893,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,12,2026-07-08T00:20:44.106Z,2026-09-19T04:21:12.894Z
+socks4,196.1.182.130,1080,socks4://196.1.182.130:1080,elite,false,8377,2016.5,59.2,63.6,845,196.1.182.130,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,13,2026-07-06T20:02:55.749Z,2026-09-19T04:29:32.265Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,1003,2000.5,45.7,51.2,735,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,19,2026-07-05T00:42:24.200Z,2026-09-19T04:22:56.946Z

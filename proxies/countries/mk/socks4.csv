@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,false,532,555.5,85.3,62.6,91,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,6,2026-06-25T08:39:56.195Z,2026-09-19T04:30:46.436Z

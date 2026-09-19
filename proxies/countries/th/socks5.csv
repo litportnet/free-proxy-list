@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.59.197.63,4000,socks5://66.59.197.63:4000,elite,false,1814,1589.5,50,45.8,59,186.247.190.231,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,12,2026-08-13T17:09:24.127Z,2026-09-18T04:32:25.282Z
-socks5,66.59.197.62,4000,socks5://66.59.197.62:4000,elite,false,6389,1567,44.3,43.8,267,186.247.190.73,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,17,2026-08-05T03:18:48.553Z,2026-09-18T04:22:12.374Z
+socks5,66.59.197.62,4000,socks5://66.59.197.62:4000,elite,true,1217,1227.5,36.7,42.3,345,186.247.190.246,3,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,17,2026-08-05T03:18:48.553Z,2026-09-19T04:22:14.365Z
+socks5,66.59.197.63,4000,socks5://66.59.197.63:4000,elite,true,1268,1241,40.2,42.1,145,186.247.190.246,3,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,14,2026-08-13T17:09:24.127Z,2026-09-19T04:27:12.823Z
+socks5,66.59.197.61,4000,socks5://66.59.197.61:4000,elite,false,1241,1244,38.7,41.8,471,186.247.190.246,3,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,18,2026-08-15T21:37:09.934Z,2026-09-19T04:31:23.449Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,false,3633,3620,29.7,40,190,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,18,2026-07-16T04:05:54.735Z,2026-09-18T04:23:30.483Z
+socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,615,1729.5,32.4,31.1,470,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-04T21:40:46.867Z,2026-09-19T04:24:04.655Z

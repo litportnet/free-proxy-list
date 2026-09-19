@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,174.138.165.214,56990,http://174.138.165.214:56990,elite,false,4897,3865,7.1,5.3,75,69.79.197.195,1,jm,Saint Catherine Parish,Passage Fort,America/Jamaica,30689,FLOW,2,2026-09-10T22:54:05.014Z,2026-09-19T04:27:12.847Z

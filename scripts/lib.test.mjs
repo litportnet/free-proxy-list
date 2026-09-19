@@ -276,7 +276,7 @@ test('findMissingReadmeLinks flags relative links that do not exist in the outpu
   assert.deepEqual(findMissingReadmeLinks(readme, files), ['proxies/countries/zz/all.txt'])
 })
 
-test('the snapshot README variant dates its counts and defers to the live badges', () => {
+test('the snapshot README names the live branch and reads its counts from live badges', () => {
   const template = [
     '# Free proxy list by litport',
     '<!-- STATS:START -->old stats<!-- STATS:END -->',
@@ -289,17 +289,39 @@ test('the snapshot README variant dates its counts and defers to the live badges
   const live = renderReadme(template, stats)
   const snapshot = renderReadme(template, stats, { snapshot: true })
 
-  // The default branch is rewritten once a day, so its copy must date itself and must not read
-  // as a current figure sitting beside live badges.
-  assert.match(snapshot, /\*\*Daily snapshot 2026-09-09 18:00 UTC: 3 working proxies from 2 countries/)
-  assert.match(snapshot, /the figures on this page are from the snapshot and do not change until the next one/)
-  assert.doesNotMatch(snapshot, /^\*\*3 working proxies from 2 countries/m)
+  // The default branch is rewritten once a day, so it must point at the branch that is not.
+  assert.match(snapshot, /refresh every 5 minutes on the \[`live`\]\(https:\/\/github\.com\/litportnet\/free-proxy-list\/tree\/live\) branch/)
+  assert.match(snapshot, /every download link on this page points there/)
+  assert.match(snapshot, /daily snapshot taken at 2026-09-09 18:00 UTC: 3 working proxies from 2 countries/)
 
-  // The live branch keeps the present-tense wording, and everything else is identical.
+  // Its counts come from the live badges, so they cannot describe data the links do not serve.
+  assert.match(snapshot, /\| List \| Count \(live\) \|/)
+  assert.match(snapshot, /\| All \| !\[total\]\(https:\/\/img\.shields\.io\/endpoint\?url=[^)]*badges%2Ftotal\.json\)/)
+  assert.match(snapshot, /badges%2Fcountries%2Fus\.json/)
+  assert.doesNotMatch(snapshot, /^\| All \| \d+ \|/m)
+
+  // The live branch keeps plain current numbers and present-tense wording.
   assert.match(live, /\*\*3 working proxies from 2 countries/)
-  assert.doesNotMatch(live, /Daily snapshot/)
-  assert.equal(
-    snapshot.replace(/<!-- STATS:START -->[\s\S]*?<!-- STATS:END -->/, ''),
-    live.replace(/<!-- STATS:START -->[\s\S]*?<!-- STATS:END -->/, ''),
-  )
+  assert.match(live, /^\| All \| 3 \|/m)
+  assert.match(live, /\| List \| Count \|/)
+  assert.doesNotMatch(live, /daily snapshot taken at/)
+  assert.doesNotMatch(live, /img\.shields\.io\/endpoint[^)]*badges%2Ftotal/)
+
+  // Only the two blocks that must differ do differ.
+  const strip = md => md
+    .replace(/<!-- STATS:START -->[\s\S]*?<!-- STATS:END -->/, '')
+    .replace(/<!-- DOWNLOADS:START -->[\s\S]*?<!-- DOWNLOADS:END -->/, '')
+  assert.equal(strip(snapshot), strip(live))
+})
+
+test('every list in the snapshot download table has a live badge emitted by the build', () => {
+  const { files, stats } = buildFileSet(sampleList(), { generatedAt: '2026-09-09T18:00:00.000Z', intervalSec: 300, maxAgeMin: 30 })
+  const template = '<!-- STATS:START --><!-- STATS:END -->\n<!-- DOWNLOADS:START --><!-- DOWNLOADS:END -->\n<!-- VERIFICATION:START --><!-- VERIFICATION:END -->\n<!-- COUNTRIES:START --><!-- COUNTRIES:END -->'
+  const snapshot = renderReadme(template, stats, { snapshot: true })
+
+  const referenced = [...snapshot.matchAll(/badges%2F([A-Za-z0-9%._/-]+?)\.json/g)].map(m => decodeURIComponent(m[1]))
+  assert.ok(referenced.length >= 9, 'expected one badge per download row')
+  for (const name of referenced) {
+    assert.ok(files[`proxies/badges/${name}.json`], `build must emit proxies/badges/${name}.json`)
+  }
 })

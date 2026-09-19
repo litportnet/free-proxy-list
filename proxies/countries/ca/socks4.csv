@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,162.216.185.241,1084,socks4://162.216.185.241:1084,elite,false,367,3610.5,54.5,45.4,834,162.216.185.241,1,ca,British Columbia,Boston Bar,America/Vancouver,46915,Lyttonnet,20,2026-09-10T22:54:24.485Z,2026-09-18T04:31:41.406Z
-socks4,142.112.52.229,8443,socks4://142.112.52.229:8443,elite,false,7241,1315.5,29.4,23.6,488,142.112.52.229,1,ca,Quebec,Montréal,America/Toronto,577,Bell Canada,10,2026-07-04T16:37:32.455Z,2026-09-18T04:28:40.281Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,7823,6412.5,70.1,74.8,888,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,18,2026-09-12T00:07:29.017Z,2026-09-19T04:30:45.908Z
+socks4,45.73.0.118,5678,socks4://45.73.0.118:5678,elite,false,1242,1240,55.7,58.1,842,45.73.0.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,19,2025-09-04T23:49:06.050Z,2026-09-19T04:25:27.552Z
+socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,3320,341.5,36.8,46.7,754,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,19,2025-09-04T23:49:11.832Z,2026-09-19T04:21:29.918Z

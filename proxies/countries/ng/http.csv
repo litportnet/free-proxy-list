@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1075,919,61.1,48.8,599,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,10,2026-04-12T22:59:20.773Z,2026-09-18T04:25:07.522Z
+http,102.134.19.170,8080,http://102.134.19.170:8080,transparent,false,2702,2767,33.3,,12,102.134.19.170,1,ng,Lagos,Lagos,Africa/Lagos,37662,West Indian Ocean Cable Company,12,2026-08-06T11:36:44.728Z,2026-09-19T04:28:35.706Z

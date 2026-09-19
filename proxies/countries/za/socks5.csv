@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,102.36.127.231,1080,socks5://102.36.127.231:1080,elite,true,4716,4526,26.2,34.4,614,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,16,2025-09-05T20:06:32.510Z,2026-09-19T04:30:24.506Z

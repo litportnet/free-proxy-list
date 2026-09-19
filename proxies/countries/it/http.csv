@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.54.119.155,8081,http://79.54.119.155:8081,transparent,false,2831,4062.5,33.3,10.9,175,79.54.119.155,1,it,Tuscany,Prato,Europe/Rome,3269,Telecom Italia S.p.A.,21,2026-08-12T07:50:25.816Z,2026-09-18T04:28:44.434Z
-http,13.246.6.135,33411,http://13.246.6.135:33411,unknown,false,1529,1505,25,,12,13.246.6.135,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,3,2026-06-10T22:32:22.054Z,2026-09-18T04:23:49.622Z
+http,160.25.83.52,1086,http://160.25.83.52:1086,elite,true,2291,1301,100,100,54,45.9.251.182,3,it,Lombardy,Figino,Europe/Rome,9009,M247 Europe SRL,17,2026-09-18T19:35:44.441Z,2026-09-19T04:26:16.134Z
+http,79.54.119.155,8080,http://79.54.119.155:8080,transparent,false,735,2514,12.5,,48,79.54.119.155,1,it,Tuscany,Prato,Europe/Rome,3269,Telecom Italia S.p.A.,13,2026-08-12T05:49:53.801Z,2026-09-19T04:25:56.109Z

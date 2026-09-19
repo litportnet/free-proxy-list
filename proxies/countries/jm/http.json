@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "174.138.165.214",
+    "port": 56990,
+    "url": "http://174.138.165.214:56990",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4897,
+    "latency_median_ms": 3865,
+    "uptime_24h": 7.1,
+    "uptime_7d": 5.3,
+    "checks_7d": 75,
+    "exit_ip": "69.79.197.195",
+    "exit_shared": 1,
+    "country": "jm",
+    "region": "Saint Catherine Parish",
+    "city": "Passage Fort",
+    "timezone": "America/Jamaica",
+    "asn": 30689,
+    "asn_org": "FLOW",
+    "sources_count": 2,
+    "first_seen": "2026-09-10T22:54:05.014Z",
+    "last_checked": "2026-09-19T04:27:12.847Z"
+  }
+]

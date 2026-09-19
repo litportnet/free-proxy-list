@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,181.78.44.63,999,http://181.78.44.63:999,transparent,false,3029,3510.5,53.5,33.5,571,181.78.44.63,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,22,2025-09-17T04:51:36.435Z,2026-09-18T04:22:21.839Z
-http,164.163.74.97,999,http://164.163.74.97:999,transparent,true,5733,5946,26,19.3,379,164.163.75.211,1,hn,Copán Department,Santa Rosa de Copán,America/Tegucigalpa,265767,GRUPO INMA S.A,15,2026-07-19T02:40:11.084Z,2026-09-18T04:24:04.546Z
-http,181.115.65.194,999,http://181.115.65.194:999,transparent,false,4588,4947.5,17.7,10.4,106,186.33.20.138,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,17,2025-09-06T05:36:01.076Z,2026-09-18T04:27:47.974Z
+http,181.78.44.63,999,http://181.78.44.63:999,transparent,true,3823,4747.5,40.5,36.8,579,181.78.44.63,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,22,2025-09-17T04:51:36.435Z,2026-09-19T04:28:55.659Z

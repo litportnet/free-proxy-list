@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,false,3502,1494.5,40.5,56.8,799,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,11,2026-05-31T05:22:35.276Z,2026-09-19T04:23:00.541Z

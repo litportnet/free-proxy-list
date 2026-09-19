@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,82.207.117.120,8080,http://82.207.117.120:8080,elite,false,3266,4768,14.3,8.5,153,82.207.117.120,1,ua,Lviv,Lviv,Europe/Kyiv,6849,JSC Ukrtelecom,20,2026-06-11T00:36:11.110Z,2026-09-19T04:28:45.647Z

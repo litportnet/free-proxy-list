@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,889,849,98.6,97.2,320,162.158.216.120,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-18T04:29:55.528Z

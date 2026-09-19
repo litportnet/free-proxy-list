@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,66.186.199.33,8080,http://66.186.199.33:8080,transparent,false,3640,4140,11.4,8.7,172,66.186.199.33,1,al,Tirana,Paskuqan,Europe/Tirane,21183,Vodafone Albania Sh.A.,20,2026-04-12T11:53:22.452Z,2026-09-19T04:23:58.421Z

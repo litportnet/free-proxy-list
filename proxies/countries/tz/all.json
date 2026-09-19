@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "154.0.157.196",
+    "port": 8080,
+    "url": "http://154.0.157.196:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 3364,
+    "latency_median_ms": 4817.5,
+    "uptime_24h": 20.8,
+    "uptime_7d": 14.2,
+    "checks_7d": 232,
+    "exit_ip": "154.0.157.196",
+    "exit_shared": 1,
+    "country": "tz",
+    "region": "Dar es Salaam Region",
+    "city": "Dar es Salaam",
+    "timezone": "Africa/Dar_es_Salaam",
+    "asn": 36909,
+    "asn_org": "Habari Node Public Limited",
+    "sources_count": 12,
+    "first_seen": "2026-06-30T11:42:55.370Z",
+    "last_checked": "2026-09-19T04:29:05.149Z"
+  }
+]

@@ -6,8 +6,8 @@
     "url": "http://178.212.144.7:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 281,
-    "latency_median_ms": 277,
+    "latency_ms": 260,
+    "latency_median_ms": 268.5,
     "uptime_24h": 100,
     "uptime_7d": 99.9,
     "checks_7d": 1009,
@@ -21,6 +21,30 @@
     "asn_org": "IDEALAN Sp. z o.o.",
     "sources_count": 16,
     "first_seen": "2025-12-06T19:03:04.342Z",
-    "last_checked": "2026-09-18T04:31:34.191Z"
+    "last_checked": "2026-09-19T04:28:54.612Z"
+  },
+  {
+    "protocol": "http",
+    "ip": "185.32.4.210",
+    "port": 8070,
+    "url": "http://185.32.4.210:8070",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3332,
+    "latency_median_ms": 3421,
+    "uptime_24h": 20,
+    "uptime_7d": 17.1,
+    "checks_7d": 210,
+    "exit_ip": "212.127.88.213",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Lower Silesia",
+    "city": "Wrocław",
+    "timezone": "Europe/Warsaw",
+    "asn": 35179,
+    "asn_org": "Korbank S. A.",
+    "sources_count": 25,
+    "first_seen": "2026-09-09T21:28:51.484Z",
+    "last_checked": "2026-09-19T04:28:02.257Z"
   }
 ]

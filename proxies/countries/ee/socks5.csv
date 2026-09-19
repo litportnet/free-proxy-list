@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,921,880.5,67.9,63.9,891,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2026-08-09T14:15:31.168Z,2026-09-18T04:29:46.437Z
-socks5,5.101.181.130,1081,socks5://5.101.181.130:1081,elite,false,2372,974,29.1,35.1,738,5.101.181.130,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,20,2026-07-04T19:39:10.996Z,2026-09-18T04:25:28.842Z
+socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,3242,2225,61.5,70.3,300,95.153.31.75,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,17,2026-09-16T10:21:51.712Z,2026-09-19T04:28:33.604Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,1174,940.5,54.7,62.8,853,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2026-08-09T14:15:31.168Z,2026-09-19T04:28:04.356Z

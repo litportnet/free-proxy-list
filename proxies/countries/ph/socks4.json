@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "180.191.22.50",
+    "port": 4153,
+    "url": "socks4://180.191.22.50:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1038,
+    "latency_median_ms": 2112.5,
+    "uptime_24h": 60.4,
+    "uptime_7d": 55.8,
+    "checks_7d": 841,
+    "exit_ip": "203.177.67.62",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "National Capital Region",
+    "city": "Quezon City",
+    "timezone": "Asia/Manila",
+    "asn": 4775,
+    "asn_org": "Globe Telecoms",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:48:58.112Z",
+    "last_checked": "2026-09-19T04:30:06.316Z"
+  }
+]

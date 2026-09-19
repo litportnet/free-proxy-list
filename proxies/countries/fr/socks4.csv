@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,false,963,931,96.3,93.9,981,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-18T04:23:45.891Z
-socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,false,7479,6143,64.2,79.7,339,157.173.115.35,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,16,2026-09-15T10:50:54.475Z,2026-09-18T04:31:16.455Z
-socks4,158.220.99.85,4545,socks4://158.220.99.85:4545,elite,false,3818,4858,69.2,64.3,384,158.220.99.85,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,16,2026-08-25T00:50:18.878Z,2026-09-18T04:31:03.546Z
+socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,false,681,856,97.1,95.4,983,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-19T04:31:19.263Z
+socks4,158.220.99.85,4545,socks4://158.220.99.85:4545,elite,false,981,1846,82.5,68.7,502,158.220.99.85,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-08-25T00:50:18.878Z,2026-09-19T04:26:05.591Z
+socks4,109.172.55.177,1082,socks4://109.172.55.177:1082,elite,false,517,1011.5,75.9,63.3,867,109.172.55.177,2,fr,Île-de-France,Paris,Europe/Paris,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,18,2026-07-30T11:05:17.984Z,2026-09-19T04:31:15.046Z
+socks4,62.113.112.246,10808,socks4://62.113.112.246:10808,elite,false,769,5908,35.6,48.2,195,51.158.55.77,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,8,2026-09-13T14:27:57.221Z,2026-09-19T04:31:30.124Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,3613,1559.5,50,44.7,732,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,21,2025-09-04T23:02:38.074Z,2026-09-19T04:25:38.687Z

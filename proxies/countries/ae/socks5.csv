@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,false,3364,3402,61.8,54.1,362,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,12,2026-06-14T08:18:53.054Z,2026-09-18T04:31:04.064Z
+socks5,111.119.162.248,10901,socks5://111.119.162.248:10901,elite,true,2261,3688.5,46.7,27.5,142,47.91.104.218,3,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-08-15T18:34:57.249Z,2026-09-19T04:30:21.888Z

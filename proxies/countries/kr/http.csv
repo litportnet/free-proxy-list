@@ -1,5 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,770,799,100,100,1007,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,18,2026-09-06T11:13:08.921Z,2026-09-18T04:23:31.534Z
-http,1.231.81.166,3128,http://1.231.81.166:3128,transparent,true,799,743.5,99.3,99.8,1002,1.231.81.166,1,kr,Seoul,Seoul,Asia/Seoul,9318,SK Broadband Co Ltd,1,2026-03-17T17:23:34.212Z,2026-09-18T04:26:55.692Z
-http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,871,774,100,98.6,1000,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T14:20:07.319Z,2026-09-18T04:28:27.878Z
-http,146.56.110.131,8118,http://146.56.110.131:8118,elite,false,830,910,32.7,22,109,146.56.110.131,1,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,17,2026-04-06T07:34:30.632Z,2026-09-18T04:31:32.615Z
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,789,792.5,100,100,1007,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,18,2026-09-06T11:13:08.921Z,2026-09-19T04:22:04.468Z
+http,1.231.81.166,3128,http://1.231.81.166:3128,transparent,true,757,718,99.3,99.7,997,1.231.81.166,1,kr,Seoul,Seoul,Asia/Seoul,9318,SK Broadband Co Ltd,1,2026-03-17T17:23:34.212Z,2026-09-19T04:30:03.147Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,800,802,99.3,99.6,1003,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-09-19T04:29:02.971Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,736,1663.5,67.3,63.1,839,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-09-19T04:29:58.934Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,3776,1308,70.5,60.6,833,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,17,2025-11-24T23:07:07.917Z,2026-09-19T04:28:11.194Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,1849,2927,61.9,57.8,837,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,15,2025-11-26T06:00:22.182Z,2026-09-19T04:22:27.266Z
+http,150.109.247.86,8890,http://150.109.247.86:8890,elite,false,872,961,49.4,51.8,141,150.109.247.86,3,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",12,2026-08-21T10:03:02.815Z,2026-09-19T04:30:37.366Z
+http,175.194.197.34,3128,http://175.194.197.34:3128,elite,false,4322,895,62.5,,8,175.194.197.34,1,kr,Gyeonggi-do,Uijeongbu-si,Asia/Seoul,4766,Korea Telecom,6,2026-09-19T02:36:24.799Z,2026-09-19T04:25:50.288Z

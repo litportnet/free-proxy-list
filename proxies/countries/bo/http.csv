@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,186.121.244.178,8080,http://186.121.244.178:8080,transparent,true,2256,2256,62.5,,8,186.121.244.178,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,9,2026-09-19T02:36:24.799Z,2026-09-19T04:23:38.031Z

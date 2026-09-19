@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.30,20285,socks5://45.74.31.30:20285,elite,true,1340,3161.5,66.7,,9,217.64.102.75,1,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),1,2026-09-19T02:36:23.629Z,2026-09-19T04:30:40.136Z

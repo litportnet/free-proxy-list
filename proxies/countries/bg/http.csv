@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.110.118.15,8085,http://79.110.118.15:8085,transparent,false,4875,1210,36.4,,36,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,6,2026-05-28T19:52:14.036Z,2026-09-18T04:28:06.063Z
-http,78.142.61.75,3128,http://78.142.61.75:3128,elite,false,8095,6102.5,66.7,,9,78.142.61.75,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200628,BGO Cloud OOD,7,2026-09-04T18:52:11.715Z,2026-09-18T04:31:20.764Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.177.20.243,65535,http://45.177.20.243:65535,transparent,false,6194,2340.5,55,,20,45.177.20.242,1,pe,Huánuco Department,Huánuco,America/Lima,267871,P&P BUSINESS GROUP SAC,5,2026-09-17T22:40:53.638Z,2026-09-18T04:29:53.410Z
+http,186.148.196.60,999,http://186.148.196.60:999,transparent,false,4127,5354.5,66.7,,9,186.148.196.61,1,pe,Tacna,Tacna,America/Lima,270023,TELECOM BOLIVIA S.A.C,11,2026-07-30T22:11:05.917Z,2026-09-19T04:22:52.276Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,79.76.59.115,1080,socks4://79.76.59.115:1080,elite,false,643,2408,62.2,35.9,393,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,15,2026-07-15T05:56:51.407Z,2026-09-18T04:26:59.395Z
-socks4,79.76.52.220,1080,socks4://79.76.52.220:1080,elite,false,662,4706.5,26.5,25.3,470,79.76.52.220,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-12T22:26:35.354Z,2026-09-18T04:30:19.069Z
+socks4,57.128.231.218,1001,socks4://57.128.231.218:1001,elite,false,742,749.5,76.9,63.2,563,45.129.59.168,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,20,2026-09-10T22:54:10.489Z,2026-09-19T04:25:42.373Z

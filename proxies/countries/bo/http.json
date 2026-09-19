@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "186.121.244.178",
+    "port": 8080,
+    "url": "http://186.121.244.178:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2256,
+    "latency_median_ms": 2256,
+    "uptime_24h": 62.5,
+    "uptime_7d": null,
+    "checks_7d": 8,
+    "exit_ip": "186.121.244.178",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "La Paz Department",
+    "city": "La Paz",
+    "timezone": "America/La_Paz",
+    "asn": 26210,
+    "asn_org": "AXS Bolivia S. A.",
+    "sources_count": 9,
+    "first_seen": "2026-09-19T02:36:24.799Z",
+    "last_checked": "2026-09-19T04:23:38.031Z"
+  }
+]

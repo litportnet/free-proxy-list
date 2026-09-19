@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,69.17.8.19,3128,socks5://69.17.8.19:3128,elite,true,4168,1985,100,,6,154.216.249.123,1,ve,Zulia,La Villa del Rosario,America/Caracas,61461,Airtek Solutions C.A.,1,2026-09-19T03:36:59.307Z,2026-09-19T04:26:17.195Z

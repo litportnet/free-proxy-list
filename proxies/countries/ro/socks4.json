@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "46.214.153.223",
-    "port": 5678,
-    "url": "socks4://46.214.153.223:5678",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 7995,
-    "latency_median_ms": 1804,
-    "uptime_24h": 76.9,
-    "uptime_7d": 73.1,
-    "checks_7d": 909,
-    "exit_ip": "46.214.153.223",
-    "exit_shared": 1,
-    "country": "ro",
-    "region": "Suceava",
-    "city": "Suceava",
-    "timezone": "Europe/Bucharest",
-    "asn": 48161,
-    "asn_org": "NEXTGEN COMMUNICATIONS SRL",
-    "sources_count": 12,
-    "first_seen": "2025-09-04T23:49:00.753Z",
-    "last_checked": "2026-09-18T04:24:41.787Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "81.12.157.98",
     "port": 5678,
     "url": "socks4://81.12.157.98:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 721,
-    "latency_median_ms": 2738,
-    "uptime_24h": 70.9,
-    "uptime_7d": 65.2,
-    "checks_7d": 789,
+    "latency_ms": 719,
+    "latency_median_ms": 1239,
+    "uptime_24h": 61,
+    "uptime_7d": 64.8,
+    "checks_7d": 868,
     "exit_ip": "81.12.157.98",
     "exit_shared": 1,
     "country": "ro",
@@ -45,6 +21,6 @@
     "asn_org": "Vodafone Romania S.A.",
     "sources_count": 20,
     "first_seen": "2025-09-04T23:49:01.868Z",
-    "last_checked": "2026-09-18T04:30:35.343Z"
+    "last_checked": "2026-09-19T04:28:14.843Z"
   }
 ]

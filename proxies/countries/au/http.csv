@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.199.83.239,8080,http://103.199.83.239:8080,transparent,true,4001,4721.5,22.5,22.6,186,103.199.83.239,1,au,Victoria,Sale,Australia/Melbourne,140051,Gippsland Wifi Pty Ltd,18,2026-09-16T03:18:00.803Z,2026-09-19T04:31:13.489Z

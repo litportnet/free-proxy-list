@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.22,14861,socks5://45.74.31.22:14861,elite,false,5167,5215.5,17,24.8,145,181.80.150.119,1,ar,Buenos Aires,La Plata,America/Argentina/Buenos_Aires,7303,Telecom Argentina S.A.,13,2026-09-16T03:18:05.440Z,2026-09-19T04:29:34.867Z
+socks5,66.97.37.159,1080,socks5://66.97.37.159:1080,elite,true,1046,1048,80,,5,66.97.37.159,2,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,27823,Dattatec.com,1,2026-09-19T03:37:02.259Z,2026-09-19T04:31:35.902Z

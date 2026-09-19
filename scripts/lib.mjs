@@ -320,6 +320,12 @@ export function buildFileSet(list, { generatedAt, intervalSec, maxAgeMin }) {
   files['proxies/badges/socks4.json'] = badge('socks4', String(totals.socks4), numberColor(totals.socks4))
   files['proxies/badges/socks5.json'] = badge('socks5', String(totals.socks5), numberColor(totals.socks5))
   files['proxies/badges/https.json'] = badge('https', String(totals.https), numberColor(totals.https))
+  files['proxies/badges/fast.json'] = badge('fast', String(totals.fast), numberColor(totals.fast))
+  files['proxies/badges/stable.json'] = badge('stable', String(totals.stable), numberColor(totals.stable))
+  files['proxies/badges/anonymous.json'] = badge('anonymous+elite', String(totals.anonymous), numberColor(totals.anonymous))
+  // The download table on the daily-snapshot branch renders its counts from these badges, so every
+  // row listed there needs one — including the single country row.
+  files['proxies/badges/countries/us.json'] = badge('us', String(stats.countries.us || 0), numberColor(stats.countries.us || 0))
   files['proxies/badges/countries.json'] = badge('countries', String(stats.countries_count), numberColor(stats.countries_count))
   files['proxies/badges/updated.json'] = badge('updated', generatedAtDate.toISOString().replace('T', ' ').slice(0, 16) + ' UTC', 'blue')
   // The stale-check workflow owns this badge on main. Do not stamp a fresh time here: that
@@ -354,10 +360,17 @@ const replaceMarkerBlock = (template, marker, content) => {
 const renderStatsBlock = (stats, { snapshot = false } = {}) => {
   const timestamp = stats.generated_at.replace('T', ' ').slice(0, 16)
   if (snapshot) {
-    return `**Daily snapshot ${timestamp} UTC: ${stats.totals.all} working proxies from ${stats.countries_count} countries, each checked within the ${stats.max_age_min} minutes before it was taken.** The banner and badges above show the live count, refreshed every ${Math.round(stats.interval_sec / 60)} minutes; the figures on this page are from the snapshot and do not change until the next one.`
+    return [
+      `**The proxy files refresh every ${Math.round(stats.interval_sec / 60)} minutes on the [\`live\`](https://github.com/litportnet/free-proxy-list/tree/live) branch, and every download link on this page points there.**`,
+      '',
+      `This page is the daily snapshot taken at ${timestamp} UTC: ${stats.totals.all} working proxies from ${stats.countries_count} countries, each checked within the ${stats.max_age_min} minutes before it was taken. Its prose is fixed until the next daily snapshot, so use the counts in the table below — they are read live from the \`live\` branch and update with the files.`,
+    ].join('\n')
   }
   return `**${stats.totals.all} working proxies from ${stats.countries_count} countries, each checked within the ${stats.max_age_min} minutes before this snapshot (${timestamp} UTC). Lists refresh every ${Math.round(stats.interval_sec / 60)} minutes.**`
 }
+
+const LIVE_BADGE_BASE = 'https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/badges'
+const liveCountBadge = name => `![${name}](https://img.shields.io/endpoint?url=${encodeURIComponent(`${LIVE_BADGE_BASE}/${name}.json`)})`
 
 const downloadRow = (label, file, litportUrl, count) => {
   const raw = `https://raw.githubusercontent.com/litportnet/free-proxy-list/live/${file}`
@@ -367,20 +380,26 @@ const downloadRow = (label, file, litportUrl, count) => {
 
 const UTM = 'utm_source=github&utm_medium=repo&utm_campaign=free-proxy-list'
 
-const renderDownloadsBlock = stats => {
+const renderDownloadsBlock = (stats, { snapshot = false } = {}) => {
   const rows = [
-    ['All', 'proxies/all.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-all&checkedWithinMin=30`, stats.totals.all],
-    ['HTTP', 'proxies/http.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-http&protocol=http&checkedWithinMin=30`, stats.totals.http],
-    ['HTTPS (CONNECT)', 'proxies/https.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-https&list=https&checkedWithinMin=30`, stats.totals.https],
-    ['SOCKS4', 'proxies/socks4.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-socks4&protocol=socks4&checkedWithinMin=30`, stats.totals.socks4],
-    ['SOCKS5', 'proxies/socks5.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-socks5&protocol=socks5&checkedWithinMin=30`, stats.totals.socks5],
-    ['Fast (<1 s)', 'proxies/fast.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-fast&list=fast&checkedWithinMin=30`, stats.totals.fast],
-    ['Stable (7-day uptime ≥ 90%)', 'proxies/stable.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-stable&list=stable&checkedWithinMin=30`, stats.totals.stable],
-    ['Anonymous+Elite', 'proxies/anonymous.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-anonymous&list=anonymous&checkedWithinMin=30`, stats.totals.anonymous],
-    ['United States', 'proxies/countries/us/all.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-us&country=us&checkedWithinMin=30`, stats.countries.us || 0],
+    ['All', 'proxies/all.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-all&checkedWithinMin=30`, stats.totals.all, 'total'],
+    ['HTTP', 'proxies/http.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-http&protocol=http&checkedWithinMin=30`, stats.totals.http, 'http'],
+    ['HTTPS (CONNECT)', 'proxies/https.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-https&list=https&checkedWithinMin=30`, stats.totals.https, 'https'],
+    ['SOCKS4', 'proxies/socks4.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-socks4&protocol=socks4&checkedWithinMin=30`, stats.totals.socks4, 'socks4'],
+    ['SOCKS5', 'proxies/socks5.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-socks5&protocol=socks5&checkedWithinMin=30`, stats.totals.socks5, 'socks5'],
+    ['Fast (<1 s)', 'proxies/fast.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-fast&list=fast&checkedWithinMin=30`, stats.totals.fast, 'fast'],
+    ['Stable (7-day uptime ≥ 90%)', 'proxies/stable.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-stable&list=stable&checkedWithinMin=30`, stats.totals.stable, 'stable'],
+    ['Anonymous+Elite', 'proxies/anonymous.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-anonymous&list=anonymous&checkedWithinMin=30`, stats.totals.anonymous, 'anonymous'],
+    ['United States', 'proxies/countries/us/all.txt', `https://litport.net/free-proxy?${UTM}&utm_content=table-us&country=us&checkedWithinMin=30`, stats.countries.us || 0, 'countries/us'],
   ]
-  const header = '| List | Count | .txt | .json | .csv | Browse online |\n|---|---|---|---|---|---|'
-  return [header, ...rows.map(([label, file, url, count]) => downloadRow(label, file, url, count))].join('\n')
+  // The snapshot branch is rewritten once a day while its links serve the live branch, so a frozen
+  // number would describe data the links do not return. Render those counts from the live badges.
+  const header = snapshot
+    ? '| List | Count (live) | .txt | .json | .csv | Browse online |\n|---|---|---|---|---|---|'
+    : '| List | Count | .txt | .json | .csv | Browse online |\n|---|---|---|---|---|---|'
+  return [header, ...rows.map(([label, file, url, count, badge]) => (
+    downloadRow(label, file, url, snapshot ? liveCountBadge(badge) : count)
+  ))].join('\n')
 }
 
 const renderVerificationBlock = stats => {
@@ -419,7 +438,7 @@ const renderCountriesBlock = stats => {
 export function renderReadme(template, stats, options = {}) {
   let readme = template
   readme = replaceMarkerBlock(readme, 'STATS', renderStatsBlock(stats, options))
-  readme = replaceMarkerBlock(readme, 'DOWNLOADS', renderDownloadsBlock(stats))
+  readme = replaceMarkerBlock(readme, 'DOWNLOADS', renderDownloadsBlock(stats, options))
   readme = replaceMarkerBlock(readme, 'VERIFICATION', renderVerificationBlock(stats))
   readme = replaceMarkerBlock(readme, 'COUNTRIES', renderCountriesBlock(stats))
   return readme

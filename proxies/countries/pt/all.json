@@ -6,11 +6,11 @@
     "url": "http://176.61.151.123:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1891,
-    "latency_median_ms": 521,
-    "uptime_24h": 96.2,
-    "uptime_7d": 94.9,
-    "checks_7d": 977,
+    "latency_ms": 1058,
+    "latency_median_ms": 640,
+    "uptime_24h": 93.2,
+    "uptime_7d": 93.9,
+    "checks_7d": 967,
     "exit_ip": "176.61.151.122",
     "exit_shared": 1,
     "country": "pt",
@@ -21,6 +21,6 @@
     "asn_org": "DMNS - DOMINIOS, S.A.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:31.926Z",
-    "last_checked": "2026-09-18T04:27:26.157Z"
+    "last_checked": "2026-09-19T04:26:26.682Z"
   }
 ]

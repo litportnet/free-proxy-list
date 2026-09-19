@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "62.90.73.225",
+    "port": 3128,
+    "url": "http://62.90.73.225:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 7103,
+    "latency_median_ms": 5931,
+    "uptime_24h": 80,
+    "uptime_7d": null,
+    "checks_7d": 5,
+    "exit_ip": "62.90.73.225",
+    "exit_shared": 1,
+    "country": "il",
+    "region": "Haifa",
+    "city": "Meisir",
+    "timezone": "Asia/Jerusalem",
+    "asn": 1680,
+    "asn_org": "Cellcom Fixed Line Communication L.P",
+    "sources_count": 7,
+    "first_seen": "2026-09-19T03:36:55.103Z",
+    "last_checked": "2026-09-19T04:30:56.181Z"
+  }
+]

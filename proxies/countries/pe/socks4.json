@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "177.91.255.35",
+    "port": 5678,
+    "url": "socks4://177.91.255.35:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1617,
+    "latency_median_ms": 1642.5,
+    "uptime_24h": 34.9,
+    "uptime_7d": 49.2,
+    "checks_7d": 785,
+    "exit_ip": "177.91.255.35",
+    "exit_shared": 1,
+    "country": "pe",
+    "region": "Lima region",
+    "city": "Chosica",
+    "timezone": "America/Lima",
+    "asn": 263224,
+    "asn_org": "EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA",
+    "sources_count": 20,
+    "first_seen": "2025-09-05T20:06:33.454Z",
+    "last_checked": "2026-09-19T04:29:46.438Z"
+  }
+]

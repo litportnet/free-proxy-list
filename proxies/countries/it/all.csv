@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.59.248.134,8081,socks5://5.59.248.134:8081,elite,false,8069,3025,27.3,19.8,172,5.59.248.134,1,it,Lazio,Pomezia,Europe/Rome,212271,Cinzia Tocci trading as Lumanex Srl,15,2026-06-09T03:09:03.748Z,2026-09-18T04:25:57.676Z
-http,79.54.119.155,8081,http://79.54.119.155:8081,transparent,false,2831,4062.5,33.3,10.9,175,79.54.119.155,1,it,Tuscany,Prato,Europe/Rome,3269,Telecom Italia S.p.A.,21,2026-08-12T07:50:25.816Z,2026-09-18T04:28:44.434Z
-http,13.246.6.135,33411,http://13.246.6.135:33411,unknown,false,1529,1505,25,,12,13.246.6.135,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,3,2026-06-10T22:32:22.054Z,2026-09-18T04:23:49.622Z
+socks5,160.25.83.52,1086,socks5://160.25.83.52:1086,elite,true,1711,1719.5,100,100,60,45.9.251.182,3,it,Lombardy,Figino,Europe/Rome,9009,M247 Europe SRL,14,2026-09-18T18:32:12.191Z,2026-09-19T04:24:40.464Z
+http,160.25.83.52,1086,http://160.25.83.52:1086,elite,true,2291,1301,100,100,54,45.9.251.182,3,it,Lombardy,Figino,Europe/Rome,9009,M247 Europe SRL,17,2026-09-18T19:35:44.441Z,2026-09-19T04:26:16.134Z
+socks4,2.115.212.62,48293,socks4://2.115.212.62:48293,elite,false,2474,2246.5,63.7,52.4,821,2.115.212.62,1,it,Sicily,Furnari,Europe/Rome,3269,Telecom Italia S.p.A.,11,2025-09-05T20:06:37.433Z,2026-09-19T04:30:20.330Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,2002,2062,46.7,37.2,729,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,12,2025-09-04T23:02:48.083Z,2026-09-19T04:23:52.028Z
+http,79.54.119.155,8080,http://79.54.119.155:8080,transparent,false,735,2514,12.5,,48,79.54.119.155,1,it,Tuscany,Prato,Europe/Rome,3269,Telecom Italia S.p.A.,13,2026-08-12T05:49:53.801Z,2026-09-19T04:25:56.109Z
+socks4,160.25.83.52,1086,socks4://160.25.83.52:1086,elite,false,1303,1312.5,100,,48,45.9.251.182,3,it,Lombardy,Figino,Europe/Rome,9009,M247 Europe SRL,14,2026-09-18T20:33:16.426Z,2026-09-19T04:23:38.024Z

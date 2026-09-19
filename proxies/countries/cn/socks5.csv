@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,false,2496,1486.5,96.4,97,991,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,19,2026-08-26T20:12:07.501Z,2026-09-18T04:24:19.980Z
-socks5,123.112.120.208,1080,socks5://123.112.120.208:1080,elite,false,1581,3636.5,33.7,38.4,743,123.112.120.208,1,cn,Beijing,Beijing,Asia/Shanghai,4808,China Unicom Beijing Province Network,19,2026-08-22T20:22:11.341Z,2026-09-18T04:25:27.271Z
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,2216,1472.5,97.9,97.4,989,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,19,2026-08-26T20:12:07.501Z,2026-09-19T04:24:59.599Z
+socks5,111.206.4.163,18888,socks5://111.206.4.163:18888,elite,true,3032,4984.5,81.5,82.1,920,111.206.4.163,2,cn,Beijing,Beijing,Asia/Shanghai,4808,China Unicom Beijing Province Network,20,2026-09-01T23:31:29.665Z,2026-09-19T04:25:11.176Z
+socks5,103.210.161.8,1080,socks5://103.210.161.8:1080,elite,true,1194,1346,72,73.9,895,103.210.161.8,1,cn,Guangdong,Shenzhen,Asia/Shanghai,63199,"CDS Global Cloud Co., Ltd",18,2026-08-24T03:38:59.905Z,2026-09-19T04:29:48.018Z
+socks5,180.141.88.241,9009,socks5://180.141.88.241:9009,elite,false,1349,1462.5,18.5,38.8,529,180.141.88.241,1,cn,Guangxi,Nanning,Asia/Shanghai,4134,CHINANET BACKBONE,18,2026-08-18T13:27:16.908Z,2026-09-19T04:25:24.387Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.231.105.158,4145,socks4://103.231.105.158:4145,elite,false,3811,1821.5,49.5,45.7,713,103.231.105.158,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,20,2026-07-06T01:59:45.801Z,2026-09-18T04:25:29.371Z
-http,87.229.14.66,8080,http://87.229.14.66:8080,transparent,false,5577,2557,20,19.8,328,87.229.14.66,1,ps,Gaza Strip,Dayr al Balaḩ,Asia/Gaza,44213,Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade,19,2026-09-04T06:46:34.322Z,2026-09-18T04:31:19.202Z

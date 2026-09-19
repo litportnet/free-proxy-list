@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "176.9.107.170",
+    "port": 1081,
+    "url": "socks5://176.9.107.170:1081",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 681,
+    "latency_median_ms": 667,
+    "uptime_24h": 80.7,
+    "uptime_7d": 40.1,
+    "checks_7d": 157,
+    "exit_ip": "217.9.244.86",
+    "exit_shared": 2,
+    "country": "mk",
+    "region": "Grad Skopje",
+    "city": "Skopje",
+    "timezone": "Europe/Skopje",
+    "asn": 209854,
+    "asn_org": "Cyberzone S.A.",
+    "sources_count": 18,
+    "first_seen": "2026-06-25T09:36:53.359Z",
+    "last_checked": "2026-09-19T04:23:16.100Z"
+  }
+]

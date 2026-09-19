@@ -6,11 +6,11 @@
     "url": "socks4://103.58.16.106:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8265,
-    "latency_median_ms": 2300.5,
-    "uptime_24h": 36.5,
-    "uptime_7d": 43.6,
-    "checks_7d": 761,
+    "latency_ms": 2140,
+    "latency_median_ms": 2234,
+    "uptime_24h": 42.5,
+    "uptime_7d": 41.4,
+    "checks_7d": 729,
     "exit_ip": "103.58.16.106",
     "exit_shared": 1,
     "country": "my",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Kuala_Lumpur",
     "asn": 134202,
     "asn_org": "E-WORLD COMMUNICATION SDN BHD",
-    "sources_count": 12,
-    "first_seen": "2025-09-04T23:02:04.839Z",
-    "last_checked": "2026-09-18T04:28:18.526Z"
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:29.916Z",
+    "last_checked": "2026-09-19T04:24:42.063Z"
   }
 ]

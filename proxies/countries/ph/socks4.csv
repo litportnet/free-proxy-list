@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,180.191.22.50,4153,socks4://180.191.22.50:4153,elite,false,1038,2112.5,60.4,55.8,841,203.177.67.62,1,ph,National Capital Region,Quezon City,Asia/Manila,4775,Globe Telecoms,12,2025-09-04T23:48:58.112Z,2026-09-19T04:30:06.316Z

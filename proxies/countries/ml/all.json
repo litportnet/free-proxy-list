@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.30",
+    "port": 20285,
+    "url": "socks5://45.74.31.30:20285",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1340,
+    "latency_median_ms": 3161.5,
+    "uptime_24h": 66.7,
+    "uptime_7d": null,
+    "checks_7d": 9,
+    "exit_ip": "217.64.102.75",
+    "exit_shared": 1,
+    "country": "ml",
+    "region": "Bamako",
+    "city": "Bamako",
+    "timezone": "Africa/Bamako",
+    "asn": 21271,
+    "asn_org": "Society of Mali's Telecommunications (SOTELMA)",
+    "sources_count": 1,
+    "first_seen": "2026-09-19T02:36:23.629Z",
+    "last_checked": "2026-09-19T04:30:40.136Z"
+  }
+]

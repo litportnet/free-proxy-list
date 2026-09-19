@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "102.36.127.231",
+    "port": 1080,
+    "url": "socks5://102.36.127.231:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4716,
+    "latency_median_ms": 4526,
+    "uptime_24h": 26.2,
+    "uptime_7d": 34.4,
+    "checks_7d": 614,
+    "exit_ip": "102.36.127.7",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Mpumalanga",
+    "city": "Mbombela",
+    "timezone": "Africa/Johannesburg",
+    "asn": 327794,
+    "asn_org": "Clear Access (Pty) Ltd",
+    "sources_count": 16,
+    "first_seen": "2025-09-05T20:06:32.510Z",
+    "last_checked": "2026-09-19T04:30:24.506Z"
+  }
+]
