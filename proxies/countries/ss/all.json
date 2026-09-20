@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "169.255.139.5",
+    "port": 60279,
+    "url": "socks4://169.255.139.5:60279",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2425,
+    "latency_median_ms": 2416,
+    "uptime_24h": 52,
+    "uptime_7d": null,
+    "checks_7d": 28,
+    "exit_ip": "169.255.136.8",
+    "exit_shared": 1,
+    "country": "ss",
+    "region": "Central Equatoria",
+    "city": "Juba",
+    "timezone": "Africa/Juba",
+    "asn": 36892,
+    "asn_org": "IPTEC Limited",
+    "sources_count": 5,
+    "first_seen": "2025-09-04T23:49:03.309Z",
+    "last_checked": "2026-09-20T04:21:12.868Z"
+  }
+]

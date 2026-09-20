@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,178.150.77.204,10801,socks5://178.150.77.204:10801,elite,false,1844,1868,63,55.1,817,178.150.77.204,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,18,2026-06-29T22:34:41.837Z,2026-09-19T04:21:21.747Z
+socks5,178.150.77.204,10801,socks5://178.150.77.204:10801,elite,false,1871,1927,50.7,54.2,766,178.150.77.204,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,18,2026-06-29T22:34:41.837Z,2026-09-20T04:24:52.066Z

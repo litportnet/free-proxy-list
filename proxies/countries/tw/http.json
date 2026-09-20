@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "211.73.79.129",
-    "port": 80,
-    "url": "http://211.73.79.129:80",
-    "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 384,
-    "latency_median_ms": 402.5,
-    "uptime_24h": 63.2,
-    "uptime_7d": 88.1,
-    "checks_7d": 295,
-    "exit_ip": "211.73.79.153",
-    "exit_shared": 1,
-    "country": "tw",
-    "region": "Taiwan",
-    "city": "Taipei",
-    "timezone": "Asia/Taipei",
-    "asn": 7539,
-    "asn_org": "National Center for High-performance Computing",
-    "sources_count": 2,
-    "first_seen": "2026-09-16T19:26:29.403Z",
-    "last_checked": "2026-09-19T04:29:10.400Z"
-  },
-  {
-    "protocol": "http",
     "ip": "164.52.11.194",
     "port": 18080,
     "url": "http://164.52.11.194:18080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4859,
-    "latency_median_ms": 2886,
-    "uptime_24h": 70.8,
-    "uptime_7d": 62.5,
-    "checks_7d": 843,
+    "latency_ms": 4871,
+    "latency_median_ms": 3144,
+    "uptime_24h": 79.6,
+    "uptime_7d": 65.3,
+    "checks_7d": 809,
     "exit_ip": "164.52.11.194",
     "exit_shared": 1,
     "country": "tw",
@@ -45,6 +21,6 @@
     "asn_org": "CDS Global Cloud Co., Ltd",
     "sources_count": 15,
     "first_seen": "2026-07-08T04:22:19.839Z",
-    "last_checked": "2026-09-19T04:21:30.502Z"
+    "last_checked": "2026-09-20T04:27:38.642Z"
   }
 ]

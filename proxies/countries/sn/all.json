@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "196.1.95.124",
-    "port": 80,
-    "url": "http://196.1.95.124:80",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 4739,
-    "latency_median_ms": 4128,
-    "uptime_24h": 68,
-    "uptime_7d": 74.4,
-    "checks_7d": 796,
-    "exit_ip": "196.1.95.124",
-    "exit_shared": 1,
-    "country": "sn",
-    "region": "Dakar",
-    "city": "Dakar",
-    "timezone": "Africa/Dakar",
-    "asn": 329407,
-    "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
-    "sources_count": 8,
-    "first_seen": "2025-09-04T23:49:35.054Z",
-    "last_checked": "2026-09-19T04:26:40.800Z"
-  },
-  {
-    "protocol": "http",
     "ip": "196.1.97.198",
     "port": 80,
     "url": "http://196.1.97.198:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 665,
-    "latency_median_ms": 1123.5,
-    "uptime_24h": 73.7,
-    "uptime_7d": 64.2,
-    "checks_7d": 626,
+    "latency_ms": 659,
+    "latency_median_ms": 3822.5,
+    "uptime_24h": 54.8,
+    "uptime_7d": 63.4,
+    "checks_7d": 573,
     "exit_ip": "196.1.97.198",
     "exit_shared": 1,
     "country": "sn",
@@ -45,6 +21,6 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 17,
     "first_seen": "2025-12-06T18:03:11.613Z",
-    "last_checked": "2026-09-19T04:23:35.337Z"
+    "last_checked": "2026-09-20T04:27:22.912Z"
   }
 ]

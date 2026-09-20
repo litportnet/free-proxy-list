@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10809,socks5://49.13.22.249:10809,elite,true,1005,1825.5,57.9,41.3,588,146.70.129.29,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,18,2026-08-25T02:51:25.845Z,2026-09-20T04:21:19.923Z

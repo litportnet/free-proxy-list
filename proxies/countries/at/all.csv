@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,755,1704,69.2,66,871,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,13,2025-09-04T23:48:59.120Z,2026-09-19T04:30:56.169Z
-socks4,185.196.178.238,60606,socks4://185.196.178.238:60606,elite,false,3599,3607.5,41.5,49.6,678,185.196.178.238,1,at,Tyrol,Längenfeld,Europe/Vienna,206091,Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG,18,2025-09-05T20:06:33.498Z,2026-09-19T04:25:46.595Z
-socks5,213.171.26.67,8008,socks5://213.171.26.67:8008,elite,false,3228,4282.5,23.8,12.5,88,109.70.100.8,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,12,2026-09-11T01:55:52.680Z,2026-09-19T04:29:08.302Z
-socks4,5.189.160.163,9100,socks4://5.189.160.163:9100,elite,false,7323,5860.5,15,5.8,87,109.70.100.7,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,8,2026-05-11T07:00:19.126Z,2026-09-19T04:26:54.974Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,647,972.5,71.4,67.2,829,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,13,2025-09-04T23:48:59.120Z,2026-09-20T04:26:12.650Z

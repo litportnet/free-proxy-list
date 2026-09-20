@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.98.208.98,28000,socks4://185.98.208.98:28000,elite,false,673,847,38.3,50.6,713,185.98.208.98,1,sk,Bratislava Region,Blatné,Europe/Bratislava,30929,GOLEM TECH s.r.o.,12,2026-02-25T19:09:07.562Z,2026-09-20T04:29:29.909Z

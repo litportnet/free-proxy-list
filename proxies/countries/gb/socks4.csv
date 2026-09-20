@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.25.83.52,1084,socks4://160.25.83.52:1084,elite,false,1555,1575.5,100,,40,146.70.83.234,3,gb,England,London,Europe/London,9009,M247 Europe SRL,14,2026-09-19T21:46:39.091Z,2026-09-20T04:25:32.022Z

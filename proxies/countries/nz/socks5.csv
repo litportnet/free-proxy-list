@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.22,9971,socks5://45.74.31.22:9971,elite,true,5725,3434,36.7,27.4,106,116.206.174.136,1,nz,Bay of Plenty,Tauranga,Pacific/Auckland,23735,EOL (Enternet Online Ltd),14,2026-09-17T17:38:15.449Z,2026-09-20T04:24:24.571Z

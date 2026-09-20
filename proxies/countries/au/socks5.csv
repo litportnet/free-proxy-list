@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,false,4926,3295.5,69,73.9,153,45.67.96.81,1,au,New South Wales,Sydney,Australia/Sydney,206092,F.N.S. HOLDINGS LIMITED,15,2026-09-17T17:38:15.449Z,2026-09-19T04:26:38.181Z
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,4855,3808,74.1,73.4,207,91.124.88.44,1,au,South Australia,Adelaide,Australia/Adelaide,137409,GSL Networks Pty LTD,15,2026-09-17T05:31:54.290Z,2026-09-19T04:30:09.976Z

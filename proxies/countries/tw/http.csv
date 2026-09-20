@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,211.73.79.129,80,http://211.73.79.129:80,transparent,false,384,402.5,63.2,88.1,295,211.73.79.153,1,tw,Taiwan,Taipei,Asia/Taipei,7539,National Center for High-performance Computing,2,2026-09-16T19:26:29.403Z,2026-09-19T04:29:10.400Z
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,4859,2886,70.8,62.5,843,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",15,2026-07-08T04:22:19.839Z,2026-09-19T04:21:30.502Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,4871,3144,79.6,65.3,809,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",15,2026-07-08T04:22:19.839Z,2026-09-20T04:27:38.642Z

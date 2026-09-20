@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "91.211.212.6",
+    "port": 32650,
+    "url": "http://91.211.212.6:32650",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 7754,
+    "latency_median_ms": 5962,
+    "uptime_24h": 6.7,
+    "uptime_7d": 6.1,
+    "checks_7d": 99,
+    "exit_ip": "91.211.212.6",
+    "exit_shared": 1,
+    "country": "gr",
+    "region": "Attica",
+    "city": "Athens",
+    "timezone": "Europe/Athens",
+    "asn": 200736,
+    "asn_org": "MEDIANET INVEST AE",
+    "sources_count": 20,
+    "first_seen": "2025-09-05T00:23:21.102Z",
+    "last_checked": "2026-09-20T04:20:03.714Z"
+  }
+]

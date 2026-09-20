@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "154.79.246.102",
+    "port": 1080,
+    "url": "socks4://154.79.246.102:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4450,
+    "latency_median_ms": 1473,
+    "uptime_24h": 81,
+    "uptime_7d": 57.9,
+    "checks_7d": 477,
+    "exit_ip": "154.79.246.102",
+    "exit_shared": 1,
+    "country": "ke",
+    "region": "Nairobi County",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "asn": 36926,
+    "asn_org": "Airtel Networks Kenya Limited",
+    "sources_count": 12,
+    "first_seen": "2026-09-02T18:40:52.852Z",
+    "last_checked": "2026-09-20T04:22:52.498Z"
+  }
+]

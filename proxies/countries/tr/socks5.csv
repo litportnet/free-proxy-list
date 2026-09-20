@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,147.45.66.116,1082,socks5://147.45.66.116:1082,elite,false,1832,1861,45.8,54.6,729,147.45.66.116,2,tr,Istanbul,Istanbul,Europe/Istanbul,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,19,2026-07-14T07:46:06.191Z,2026-09-20T04:28:57.487Z

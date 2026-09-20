@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "200.108.50.254",
+    "port": 4145,
+    "url": "socks4://200.108.50.254:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1529,
+    "latency_median_ms": 1806,
+    "uptime_24h": 62.2,
+    "uptime_7d": 56.9,
+    "checks_7d": 777,
+    "exit_ip": "200.108.50.254",
+    "exit_shared": 1,
+    "country": "pa",
+    "region": "Colón",
+    "city": "Arco Iris",
+    "timezone": "America/Panama",
+    "asn": 18809,
+    "asn_org": "Cable Onda",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:49:13.837Z",
+    "last_checked": "2026-09-20T04:22:18.121Z"
+  }
+]

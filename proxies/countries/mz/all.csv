@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,196.40.117.114,5678,socks4://196.40.117.114:5678,elite,false,4381,3380,16.7,10.2,176,196.40.117.114,1,mz,Maputo City,Maputo,Africa/Maputo,42235,INTRA DATA COMMUNICATION,8,2025-09-04T23:01:39.026Z,2026-09-20T04:26:41.519Z

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,587,598.5,96.4,94.6,56,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-19T04:27:08.642Z
-http,65.109.217.164,3128,http://65.109.217.164:3128,elite,true,540,570,90.8,87.6,764,65.109.217.164,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,22,2026-09-13T13:27:04.939Z,2026-09-19T04:24:34.711Z
-http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,1158,2000,91.7,82.6,826,85.209.156.148,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-19T04:27:00.775Z
-http,77.73.68.222,65000,http://77.73.68.222:65000,elite,true,1888,709.5,64.4,72.5,316,77.91.84.40,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,16,2026-08-04T11:11:17.553Z,2026-09-19T04:25:10.644Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,622,623,99.3,98,197,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-20T04:23:48.360Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,7877,1981,93.8,87.8,816,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-20T04:25:24.848Z
+http,62.60.231.45,10808,http://62.60.231.45:10808,elite,true,670,702.5,81.4,81.4,59,62.60.231.45,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,10,2026-07-19T16:50:49.366Z,2026-09-20T04:20:47.498Z
+http,77.221.158.175,3128,http://77.221.158.175:3128,elite,false,1568,1087,47.1,34.3,568,77.221.158.175,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,19,2026-07-02T13:09:58.931Z,2026-09-20T04:27:00.998Z

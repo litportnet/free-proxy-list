@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "154.66.108.52",
+    "port": 3629,
+    "url": "socks4://154.66.108.52:3629",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1300,
+    "latency_median_ms": 1839.5,
+    "uptime_24h": 66.7,
+    "uptime_7d": 62.3,
+    "checks_7d": 801,
+    "exit_ip": "154.66.108.52",
+    "exit_shared": 1,
+    "country": "ls",
+    "region": "Maseru District",
+    "city": "Maseru",
+    "timezone": "Africa/Maseru",
+    "asn": 37642,
+    "asn_org": "Comnet Pty Ltd",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:49:05.716Z",
+    "last_checked": "2026-09-20T04:29:12.604Z"
+  }
+]

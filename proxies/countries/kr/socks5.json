@@ -6,11 +6,11 @@
     "url": "socks5://150.109.247.86:8443",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1146,
-    "latency_median_ms": 1128,
-    "uptime_24h": 99.3,
-    "uptime_7d": 99.6,
-    "checks_7d": 240,
+    "latency_ms": 1052,
+    "latency_median_ms": 1096.5,
+    "uptime_24h": 95.6,
+    "uptime_7d": 98.1,
+    "checks_7d": 374,
     "exit_ip": "150.109.247.86",
     "exit_shared": 3,
     "country": "kr",
@@ -19,9 +19,9 @@
     "timezone": "Asia/Seoul",
     "asn": 132203,
     "asn_org": "Tencent Building, Kejizhongyi Avenue",
-    "sources_count": 7,
+    "sources_count": 15,
     "first_seen": "2026-08-21T09:05:16.715Z",
-    "last_checked": "2026-09-19T04:26:46.049Z"
+    "last_checked": "2026-09-20T04:19:11.477Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://121.169.46.116:1090",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1528,
-    "latency_median_ms": 1777.5,
-    "uptime_24h": 81.6,
-    "uptime_7d": 75.4,
-    "checks_7d": 920,
+    "latency_ms": 1275,
+    "latency_median_ms": 1503.5,
+    "uptime_24h": 72.9,
+    "uptime_7d": 75.7,
+    "checks_7d": 876,
     "exit_ip": "121.169.46.116",
     "exit_shared": 1,
     "country": "kr",
@@ -45,6 +45,6 @@
     "asn_org": "Korea Telecom",
     "sources_count": 20,
     "first_seen": "2025-09-04T23:50:06.749Z",
-    "last_checked": "2026-09-19T04:26:35.607Z"
+    "last_checked": "2026-09-20T04:20:17.759Z"
   }
 ]

@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,386,113,96.4,92.3,983,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,23,2026-08-28T17:37:16.156Z,2026-09-19T04:24:46.799Z
-http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,162,204,70.4,67.8,901,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,10,2026-07-14T02:36:12.791Z,2026-09-19T04:29:37.504Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,transparent,false,247,3623.5,38.7,45.6,307,148.113.202.99,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,12,2026-07-06T09:10:05.787Z,2026-09-19T04:29:53.311Z
-http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,true,460,3959.5,27.4,21.1,289,184.70.113.34,1,ca,Alberta,High River,America/Edmonton,6327,Shaw Communications,20,2026-08-05T05:21:13.994Z,2026-09-19T04:30:23.458Z
-http,185.204.170.179,1115,http://185.204.170.179:1115,elite,true,2765,3410,21.7,9.7,93,134.195.196.211,1,ca,Ontario,Toronto,America/Toronto,62563,GLOBALTELEHOST Corp.,13,2026-09-07T14:27:20.316Z,2026-09-19T04:25:58.788Z
-http,111.119.162.248,10955,http://111.119.162.248:10955,elite,true,1755,1555.5,57.1,,10,149.22.95.183,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,11,2026-08-16T09:41:36.745Z,2026-09-19T04:22:10.184Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,129,115,91.1,91.4,963,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,23,2026-08-28T17:37:16.156Z,2026-09-20T04:24:38.558Z
+http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,222,224.5,68.2,68,850,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,10,2026-07-14T02:36:12.791Z,2026-09-20T04:22:27.299Z
+http,148.113.202.99,3128,http://148.113.202.99:3128,transparent,false,259,339.5,81.8,55.1,416,148.113.202.99,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,12,2026-07-06T09:10:05.787Z,2026-09-20T04:27:29.774Z

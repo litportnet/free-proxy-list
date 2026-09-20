@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10812,socks5://5.75.133.113:10812,elite,true,1811,2021,76.3,75.9,349,37.235.52.19,2,cl,Valparaiso,Viña del Mar,America/Santiago,28099,iHosting Servicios Internet Ltda.,18,2026-09-16T21:27:40.844Z,2026-09-20T04:23:37.636Z
+socks5,49.13.22.249,10812,socks5://49.13.22.249:10812,elite,true,3152,1784.5,65.4,72.6,380,37.235.52.19,2,cl,Valparaiso,Viña del Mar,America/Santiago,28099,iHosting Servicios Internet Ltda.,17,2026-09-16T03:18:19.836Z,2026-09-20T04:28:50.676Z

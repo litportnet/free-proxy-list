@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,2506,3906,74.1,86.8,929,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,19,2025-09-10T19:34:46.844Z,2026-09-19T04:24:37.836Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,1405,2266,82.9,85.2,898,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-09-20T04:23:59.912Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,false,9788,4085.5,23.7,15.9,220,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,15,2026-08-20T00:46:23.768Z,2026-09-20T04:27:26.583Z

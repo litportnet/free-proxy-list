@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.148.196.60,999,http://186.148.196.60:999,transparent,false,4127,5354.5,66.7,,9,186.148.196.61,1,pe,Tacna,Tacna,America/Lima,270023,TELECOM BOLIVIA S.A.C,11,2026-07-30T22:11:05.917Z,2026-09-19T04:22:52.276Z
+http,45.177.20.243,65535,http://45.177.20.243:65535,transparent,true,3737,3714.5,19.5,23.2,112,45.177.20.242,1,pe,Huánuco Department,Huánuco,America/Lima,267871,P&P BUSINESS GROUP SAC,23,2026-09-17T22:40:53.638Z,2026-09-20T04:26:16.325Z
+http,200.123.27.123,999,http://200.123.27.123:999,transparent,false,2359,2890,31.8,14.9,161,200.123.27.123,1,pe,Lima Province,Lima,America/Lima,22411,GTD PERÚ S.A,23,2026-07-18T23:41:50.232Z,2026-09-20T04:27:41.781Z
+http,200.107.142.39,3128,http://200.107.142.39:3128,transparent,true,1862,1964.5,13.3,14.8,54,200.107.142.255,1,pe,Cajamarca Department,San Ignacio,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,9,2025-09-10T20:05:18.998Z,2026-09-20T04:23:57.812Z
+http,38.172.128.140,999,http://38.172.128.140:999,transparent,false,3415,4570,16.7,9.8,82,38.137.204.190,1,pe,Lima Province,Lima,America/Lima,274131,ANDINATEL S.A.C.,13,2026-04-16T16:46:25.492Z,2026-09-20T04:23:20.542Z

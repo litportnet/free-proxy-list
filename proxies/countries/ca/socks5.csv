@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,9053,5416.5,72.2,74.2,793,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,18,2026-09-11T21:05:56.215Z,2026-09-19T04:28:45.113Z
-socks5,161.35.90.93,1081,socks5://161.35.90.93:1081,elite,true,735,971.5,69.2,73.7,892,146.70.137.34,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,19,2026-08-07T23:55:23.891Z,2026-09-19T04:26:22.952Z
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,5226,301.5,64.4,55.6,826,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",21,2026-06-17T18:01:47.043Z,2026-09-19T04:27:04.968Z
-socks5,45.74.31.41,11524,socks5://45.74.31.41:11524,elite,false,4913,3460.5,48.8,38.1,239,51.79.43.5,3,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-16T03:18:05.440Z,2026-09-19T04:30:12.057Z
-socks5,45.74.31.25,8416,socks5://45.74.31.25:8416,elite,true,8515,4582.5,50,34.2,111,51.79.43.5,3,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-15T12:52:07.163Z,2026-09-19T04:22:38.725Z
-socks5,45.74.31.40,10594,socks5://45.74.31.40:10594,elite,true,3064,7357.5,26.9,29.9,144,51.79.43.5,3,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-16T03:18:05.440Z,2026-09-19T04:30:37.467Z
+socks5,161.35.90.93,1081,socks5://161.35.90.93:1081,elite,true,793,816,75,72.2,853,146.70.137.34,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,19,2026-08-07T23:55:23.891Z,2026-09-20T04:23:47.834Z
+socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,true,1959,5051,32.1,65.2,712,84.20.25.99,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,19,2026-08-16T16:46:45.162Z,2026-09-20T04:23:10.071Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,5245,226,81.8,61.1,833,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",21,2026-06-17T18:01:47.043Z,2026-09-20T04:26:26.796Z

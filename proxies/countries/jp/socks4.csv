@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,false,872,2914,93.9,95.5,980,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",1,2026-03-17T17:23:30.803Z,2026-09-19T04:24:03.596Z
-socks4,111.119.162.248,10942,socks4://111.119.162.248:10942,elite,false,4249,2998,28.8,28.2,117,149.22.87.204,2,jp,Tokyo,Tokyo,Asia/Tokyo,212238,Datacamp Limited,8,2026-08-15T21:35:48.096Z,2026-09-19T04:24:49.453Z
-socks4,166.1.61.57,1080,socks4://166.1.61.57:1080,elite,false,4653,3626,32.5,21.5,302,166.1.61.57,1,jp,Tokyo,Tokyo,Asia/Tokyo,206264,Amarutu Technology Ltd,18,2026-09-07T23:31:05.495Z,2026-09-19T04:25:57.196Z
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,false,918,883,96.2,95.6,969,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",8,2026-02-28T21:48:48.843Z,2026-09-20T04:22:42.968Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,796,1313.5,61.3,60.5,808,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",13,2025-09-04T23:48:53.699Z,2026-09-20T04:22:13.444Z
+socks4,111.119.162.248,10942,socks4://111.119.162.248:10942,elite,false,1351,1514,41.8,32.2,171,149.22.87.204,2,jp,Tokyo,Tokyo,Asia/Tokyo,212238,Datacamp Limited,9,2026-08-15T21:35:48.096Z,2026-09-20T04:20:38.525Z
+socks4,111.119.162.248,10950,socks4://111.119.162.248:10950,elite,false,1146,1473.5,47.2,23.2,95,8.216.119.64,2,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",12,2026-08-15T10:30:42.776Z,2026-09-20T04:23:51.024Z

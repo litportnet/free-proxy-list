@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "196.40.117.114",
+    "port": 5678,
+    "url": "socks4://196.40.117.114:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4381,
+    "latency_median_ms": 3380,
+    "uptime_24h": 16.7,
+    "uptime_7d": 10.2,
+    "checks_7d": 176,
+    "exit_ip": "196.40.117.114",
+    "exit_shared": 1,
+    "country": "mz",
+    "region": "Maputo City",
+    "city": "Maputo",
+    "timezone": "Africa/Maputo",
+    "asn": 42235,
+    "asn_org": "INTRA DATA COMMUNICATION",
+    "sources_count": 8,
+    "first_seen": "2025-09-04T23:01:39.026Z",
+    "last_checked": "2026-09-20T04:26:41.519Z"
+  }
+]

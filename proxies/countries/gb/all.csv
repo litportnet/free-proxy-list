@@ -1,3 +1,12 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,false,3396,3063,77.8,77.8,81,45.150.172.37,1,gb,England,Manchester,Europe/London,62240,Clouvider,13,2026-09-18T09:46:47.006Z,2026-09-19T04:29:40.674Z
-socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,646,644,100,,12,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,5,2026-09-19T02:36:27.799Z,2026-09-19T04:28:32.000Z
+socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,646,656,99.3,99.3,151,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-19T02:36:27.799Z,2026-09-20T04:20:36.451Z
+socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,true,4790,3300.5,83.6,81.1,190,187.13.193.42,1,gb,England,Manchester,Europe/London,136787,PacketHub S.A.,15,2026-09-18T09:46:47.006Z,2026-09-20T04:25:21.713Z
+socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,2258,2546,73.1,73.2,299,185.192.69.27,1,gb,England,London,Europe/London,62240,Clouvider,15,2026-09-17T05:31:54.290Z,2026-09-20T04:28:23.815Z
+socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,827,1033.5,74.2,63.9,746,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,17,2026-07-31T19:22:14.557Z,2026-09-20T04:29:30.955Z
+socks5,45.74.31.30,9461,socks5://45.74.31.30:9461,elite,true,2248,2919,32.4,55.8,77,209.42.23.128,1,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,12,2026-09-18T16:31:05.693Z,2026-09-20T04:24:03.581Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,468,1046,26.5,15.8,146,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,12,2025-10-03T21:41:53.577Z,2026-09-20T04:26:42.599Z
+socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,627,649,100,,11,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,7,2026-09-20T02:49:10.735Z,2026-09-20T04:29:18.897Z
+socks5,45.74.31.30,10028,socks5://45.74.31.30:10028,elite,true,803,803,50,,2,172.236.11.42,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,1,2026-09-20T03:49:39.093Z,2026-09-20T04:26:07.329Z
+socks4,160.25.83.52,1084,socks4://160.25.83.52:1084,elite,false,1555,1575.5,100,,40,146.70.83.234,3,gb,England,London,Europe/London,9009,M247 Europe SRL,14,2026-09-19T21:46:39.091Z,2026-09-20T04:25:32.022Z
+socks5,160.25.83.52,1084,socks5://160.25.83.52:1084,elite,true,2071,3765,92.5,,40,146.70.83.234,3,gb,England,London,Europe/London,9009,M247 Europe SRL,15,2026-09-19T20:46:04.956Z,2026-09-20T04:27:21.274Z
+http,160.25.83.52,1084,http://160.25.83.52:1084,elite,true,6550,5186.5,97.4,,38,146.70.83.234,3,gb,England,London,Europe/London,9009,M247 Europe SRL,16,2026-09-19T21:46:37.947Z,2026-09-20T04:20:08.475Z

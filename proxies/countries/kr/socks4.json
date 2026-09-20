@@ -6,11 +6,11 @@
     "url": "socks4://150.109.247.86:8443",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 936,
-    "latency_median_ms": 942.5,
-    "uptime_24h": 99.3,
-    "uptime_7d": 99.1,
-    "checks_7d": 213,
+    "latency_ms": 933,
+    "latency_median_ms": 928.5,
+    "uptime_24h": 95.6,
+    "uptime_7d": 97.7,
+    "checks_7d": 347,
     "exit_ip": "150.109.247.86",
     "exit_shared": 3,
     "country": "kr",
@@ -21,7 +21,7 @@
     "asn_org": "Tencent Building, Kejizhongyi Avenue",
     "sources_count": 11,
     "first_seen": "2026-08-21T10:02:58.834Z",
-    "last_checked": "2026-09-19T04:27:08.640Z"
+    "last_checked": "2026-09-20T04:25:22.226Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://114.108.177.104:60984",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3915,
-    "latency_median_ms": 1045,
-    "uptime_24h": 44.7,
-    "uptime_7d": 47.8,
-    "checks_7d": 797,
+    "latency_ms": 1956,
+    "latency_median_ms": 1955.5,
+    "uptime_24h": 62,
+    "uptime_7d": 49.9,
+    "checks_7d": 751,
     "exit_ip": "114.108.177.104",
     "exit_shared": 1,
     "country": "kr",
@@ -45,6 +45,6 @@
     "asn_org": "LG DACOM Corporation",
     "sources_count": 18,
     "first_seen": "2025-09-04T23:48:54.923Z",
-    "last_checked": "2026-09-19T04:26:51.862Z"
+    "last_checked": "2026-09-20T04:29:12.077Z"
   }
 ]

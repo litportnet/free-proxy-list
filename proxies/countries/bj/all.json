@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.216.57.75",
+    "port": 8080,
+    "url": "http://41.216.57.75:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 5692,
+    "latency_median_ms": 5238,
+    "uptime_24h": 15,
+    "uptime_7d": 11.7,
+    "checks_7d": 162,
+    "exit_ip": "41.216.57.75",
+    "exit_shared": 1,
+    "country": "bj",
+    "region": "Atlantique",
+    "city": "Abomey-Calavi",
+    "timezone": "Africa/Porto-Novo",
+    "asn": 28683,
+    "asn_org": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
+    "sources_count": 23,
+    "first_seen": "2026-06-30T11:42:54.719Z",
+    "last_checked": "2026-09-20T04:28:11.737Z"
+  }
+]

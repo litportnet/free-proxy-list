@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "78.142.61.74",
+    "port": 3128,
+    "url": "http://78.142.61.74:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1904,
+    "latency_median_ms": 3937,
+    "uptime_24h": 12.5,
+    "uptime_7d": null,
+    "checks_7d": 43,
+    "exit_ip": "78.142.61.74",
+    "exit_shared": 1,
+    "country": "bg",
+    "region": "Sofia-Capital",
+    "city": "Sofia",
+    "timezone": "Europe/Sofia",
+    "asn": 200628,
+    "asn_org": "BGO Cloud OOD",
+    "sources_count": 17,
+    "first_seen": "2026-09-02T05:36:03.505Z",
+    "last_checked": "2026-09-20T04:24:54.186Z"
+  }
+]

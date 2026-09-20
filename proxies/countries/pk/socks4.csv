@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,false,1375,2205.5,81,81.1,914,160.30.104.170,1,pk,Punjab,Rajanpur,Asia/Karachi,134489,S. B Link Network,12,2026-08-09T01:08:58.379Z,2026-09-19T04:30:17.658Z
-socks4,125.209.110.83,1981,socks4://125.209.110.83:1981,elite,false,4233,1801,47.1,30.8,448,125.209.110.83,1,pk,Punjab,Lahore,Asia/Karachi,9260,Multinet Pakistan Pvt. Ltd.,20,2025-09-10T02:55:02.873Z,2026-09-19T04:20:27.977Z
+socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,false,1157,1214.5,81.6,82.3,879,160.30.104.170,1,pk,Punjab,Rajanpur,Asia/Karachi,134489,S. B Link Network,12,2026-08-09T01:08:58.379Z,2026-09-20T04:22:34.698Z

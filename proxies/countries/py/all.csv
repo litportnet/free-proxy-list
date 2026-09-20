@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,181.94.197.37,13049,socks5://181.94.197.37:13049,elite,true,4302,2333,42.5,48.4,283,181.94.197.37,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,20,2026-09-16T07:20:15.450Z,2026-09-19T04:27:53.427Z
-http,170.245.132.81,999,http://170.245.132.81:999,transparent,true,7940,4793,28,22.8,426,170.245.132.81,1,py,Paraguarí,Carapeguá,America/Asuncion,270096,"MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",12,2025-10-05T03:51:09.001Z,2026-09-19T04:25:49.234Z
+http,37.230.57.106,999,http://37.230.57.106:999,transparent,false,9281,4210.5,6.7,8,138,138.59.227.111,1,py,Cordillera Department,Itacurubí de la Cordillera,America/Asuncion,270052,STARTELECOM S.A.,7,2026-07-16T08:08:13.265Z,2026-09-20T04:26:24.689Z

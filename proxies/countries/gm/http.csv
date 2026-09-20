@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.213.223.46,83,http://102.213.223.46:83,transparent,false,9014,4103,14.3,6.9,101,102.213.223.46,1,gm,Western,Brikama,Africa/Banjul,329179,Sky Telecom Company Limited,10,2025-09-06T10:21:36.623Z,2026-09-20T04:22:37.312Z

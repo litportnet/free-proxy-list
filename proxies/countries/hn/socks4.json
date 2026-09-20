@@ -6,11 +6,11 @@
     "url": "socks4://181.115.74.172:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3423,
-    "latency_median_ms": 2086.5,
-    "uptime_24h": 73.6,
-    "uptime_7d": 70.1,
-    "checks_7d": 878,
+    "latency_ms": 7741,
+    "latency_median_ms": 3419.5,
+    "uptime_24h": 73.2,
+    "uptime_7d": 70.2,
+    "checks_7d": 838,
     "exit_ip": "181.115.74.172",
     "exit_shared": 1,
     "country": "hn",
@@ -21,6 +21,6 @@
     "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
     "sources_count": 12,
     "first_seen": "2025-09-04T23:49:05.467Z",
-    "last_checked": "2026-09-19T04:26:21.913Z"
+    "last_checked": "2026-09-20T04:23:10.022Z"
   }
 ]

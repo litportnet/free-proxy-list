@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,216.173.68.250,3128,http://216.173.68.250:3128,elite,true,687,701,50,50,60,216.173.68.250,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,17,2026-09-18T11:47:49.499Z,2026-09-19T04:26:49.703Z
+http,216.173.68.250,3128,http://216.173.68.250:3128,elite,false,3687,740.5,57.7,54.4,138,216.173.68.250,2,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,21,2026-09-18T11:47:49.499Z,2026-09-20T04:27:31.872Z

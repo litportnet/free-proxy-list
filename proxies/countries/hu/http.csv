@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,95.214.123.141,8080,http://95.214.123.141:8080,transparent,false,6756,4703,37,24,125,95.214.123.141,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,21,2026-09-17T11:35:02.452Z,2026-09-20T04:25:59.667Z
+http,84.0.153.71,8080,http://84.0.153.71:8080,transparent,true,1563,2909.5,43.6,,39,84.0.153.71,1,hu,Hajdú-Bihar,Berettyóújfalu,Europe/Budapest,5483,Magyar Telekom Plc.,17,2026-09-19T13:42:14.484Z,2026-09-20T04:24:55.759Z

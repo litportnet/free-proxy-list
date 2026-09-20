@@ -6,11 +6,11 @@
     "url": "socks5://57.128.231.218:1000",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1111,
-    "latency_median_ms": 1116,
-    "uptime_24h": 90.8,
-    "uptime_7d": 71.6,
-    "checks_7d": 744,
+    "latency_ms": 1104,
+    "latency_median_ms": 1118,
+    "uptime_24h": 97.8,
+    "uptime_7d": 78.2,
+    "checks_7d": 806,
     "exit_ip": "195.47.194.140",
     "exit_shared": 2,
     "country": "cy",
@@ -21,6 +21,6 @@
     "asn_org": "HostRoyale Technologies Pvt Ltd",
     "sources_count": 18,
     "first_seen": "2026-09-12T12:13:57.336Z",
-    "last_checked": "2026-09-19T04:25:20.109Z"
+    "last_checked": "2026-09-20T04:27:47.627Z"
   }
 ]

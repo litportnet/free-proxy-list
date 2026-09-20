@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,537,568,100,93.6,723,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,15,2026-05-21T20:26:35.754Z,2026-09-19T04:24:02.050Z
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,528,483,99.3,91.9,568,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,11,2025-11-22T22:38:16.432Z,2026-09-19T04:23:15.024Z
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,701,699.5,98.6,90.1,574,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,19,2025-11-22T16:10:15.367Z,2026-09-19T04:29:53.304Z
-socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,615,1729.5,32.4,31.1,470,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-04T21:40:46.867Z,2026-09-19T04:24:04.655Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,462,493,100,97.2,683,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,11,2025-11-22T22:38:16.432Z,2026-09-20T04:23:12.650Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,741,696.5,100,97.2,673,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,19,2025-11-22T16:10:15.367Z,2026-09-20T04:27:55.333Z
+socks5,45.90.56.234,1080,socks5://45.90.56.234:1080,elite,true,652,699,100,,10,45.90.56.234,1,ch,Geneva,Geneva,Europe/Zurich,204957,ROUTE 95 LLC,4,2026-09-20T02:49:10.735Z,2026-09-20T04:23:45.204Z
+socks5,45.74.31.42,7894,socks5://45.74.31.42:7894,elite,false,736,2770,43.5,,23,80.74.142.120,2,ch,Zurich,Zürich,Europe/Zurich,21069,METANET AG,14,2026-09-19T18:44:52.311Z,2026-09-20T04:29:15.746Z
+socks5,45.74.31.42,6918,socks5://45.74.31.42:6918,elite,true,1332,749.5,100,,4,80.74.142.120,2,ch,Zurich,Zürich,Europe/Zurich,21069,METANET AG,1,2026-09-20T03:49:48.153Z,2026-09-20T04:21:59.645Z

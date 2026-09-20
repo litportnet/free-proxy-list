@@ -6,11 +6,11 @@
     "url": "socks5://178.150.77.204:10801",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1844,
-    "latency_median_ms": 1868,
-    "uptime_24h": 63,
-    "uptime_7d": 55.1,
-    "checks_7d": 817,
+    "latency_ms": 1871,
+    "latency_median_ms": 1927,
+    "uptime_24h": 50.7,
+    "uptime_7d": 54.2,
+    "checks_7d": 766,
     "exit_ip": "178.150.77.204",
     "exit_shared": 1,
     "country": "ua",
@@ -21,6 +21,6 @@
     "asn_org": "CONTENT DELIVERY NETWORK LTD",
     "sources_count": 18,
     "first_seen": "2026-06-29T22:34:41.837Z",
-    "last_checked": "2026-09-19T04:21:21.747Z"
+    "last_checked": "2026-09-20T04:24:52.066Z"
   }
 ]

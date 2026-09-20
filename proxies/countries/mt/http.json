@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "84.255.40.228",
+    "port": 8998,
+    "url": "http://84.255.40.228:8998",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 3357,
+    "latency_median_ms": 4007,
+    "uptime_24h": 37.5,
+    "uptime_7d": 13,
+    "checks_7d": 146,
+    "exit_ip": "84.255.40.228",
+    "exit_shared": 1,
+    "country": "mt",
+    "region": "Valletta",
+    "city": "Valletta",
+    "timezone": "Europe/Malta",
+    "asn": 12709,
+    "asn_org": "Melita Limited",
+    "sources_count": 14,
+    "first_seen": "2025-09-05T00:24:10.314Z",
+    "last_checked": "2026-09-20T04:23:49.423Z"
+  }
+]

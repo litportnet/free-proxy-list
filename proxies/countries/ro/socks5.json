@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10814,
+    "url": "socks5://5.75.133.113:10814",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3267,
+    "latency_median_ms": 2457.5,
+    "uptime_24h": 75,
+    "uptime_7d": 71.3,
+    "checks_7d": 383,
+    "exit_ip": "194.36.109.236",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Bucharest",
+    "city": "Bucharest",
+    "timezone": "Europe/Bucharest",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 18,
+    "first_seen": "2026-09-16T10:21:51.712Z",
+    "last_checked": "2026-09-20T04:22:06.250Z"
+  }
+]

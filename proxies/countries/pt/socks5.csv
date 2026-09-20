@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,1302,1459,86.1,80.3,466,185.228.3.54,1,pt,Lisbon,Lisbon,Europe/Lisbon,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-16T03:18:05.440Z,2026-09-20T04:25:08.129Z

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,false,4926,3295.5,69,73.9,153,45.67.96.81,1,au,New South Wales,Sydney,Australia/Sydney,206092,F.N.S. HOLDINGS LIMITED,15,2026-09-17T17:38:15.449Z,2026-09-19T04:26:38.181Z
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,4855,3808,74.1,73.4,207,91.124.88.44,1,au,South Australia,Adelaide,Australia/Adelaide,137409,GSL Networks Pty LTD,15,2026-09-17T05:31:54.290Z,2026-09-19T04:30:09.976Z
-http,103.199.83.239,8080,http://103.199.83.239:8080,transparent,true,4001,4721.5,22.5,22.6,186,103.199.83.239,1,au,Victoria,Sale,Australia/Melbourne,140051,Gippsland Wifi Pty Ltd,18,2026-09-16T03:18:00.803Z,2026-09-19T04:31:13.489Z
+http,174.138.162.37,22693,http://174.138.162.37:22693,elite,false,7245,7245,50,,2,49.192.15.61,1,au,Western Australia,Perth,Australia/Perth,4804,Microplex PTY LTD,1,2026-09-20T03:49:33.481Z,2026-09-20T04:26:07.369Z
