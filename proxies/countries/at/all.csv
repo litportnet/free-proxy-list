@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,647,972.5,71.4,67.2,829,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,13,2025-09-04T23:48:59.120Z,2026-09-20T04:26:12.650Z
+socks5,185.239.51.58,10808,socks5://185.239.51.58:10808,elite,true,922,953,92,87.5,417,193.233.128.240,1,at,Upper Austria,Linz,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-16T03:18:05.440Z,2026-09-21T04:23:30.504Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,3830,1597.5,63.8,65,756,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-09-21T04:26:59.171Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,677,720.5,36.5,33.2,555,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,12,2026-07-06T13:59:25.623Z,2026-09-21T04:23:50.432Z

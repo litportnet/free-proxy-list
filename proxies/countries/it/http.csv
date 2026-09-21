@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,6039,5663.5,46.7,36.1,357,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,17,2025-09-10T21:05:12.312Z,2026-09-20T04:29:16.271Z
-http,93.187.26.134,58080,http://93.187.26.134:58080,transparent,false,4052,4566.5,100,,8,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,15,2026-06-15T23:43:01.247Z,2026-09-20T04:22:06.217Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,557,1219,91.3,82.4,51,87.121.148.126,1,it,Lombardy,Brescia,Europe/Rome,210218,Open Fiber S.P.A.,7,2025-10-16T01:51:36.355Z,2026-09-21T04:24:34.184Z
+http,87.21.209.230,8081,http://87.21.209.230:8081,transparent,true,2481,2468.5,35.7,25.6,160,87.21.209.230,1,it,Lazio,Rome,Europe/Rome,3269,Telecom Italia S.p.A.,23,2026-09-18T00:42:00.104Z,2026-09-21T04:22:37.766Z
+http,79.59.124.55,8088,http://79.59.124.55:8088,transparent,false,8026,6007,5.9,,46,79.59.124.55,1,it,Lombardy,Brescia,Europe/Rome,3269,Telecom Italia S.p.A.,8,2026-08-27T14:23:32.305Z,2026-09-21T04:22:45.043Z

@@ -6,11 +6,11 @@
     "url": "socks4://170.254.173.6:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 614,
-    "latency_median_ms": 2560.5,
-    "uptime_24h": 52.9,
-    "uptime_7d": 54.4,
-    "checks_7d": 746,
+    "latency_ms": 7798,
+    "latency_median_ms": 540,
+    "uptime_24h": 63.4,
+    "uptime_7d": 56.6,
+    "checks_7d": 695,
     "exit_ip": "170.254.173.6",
     "exit_shared": 1,
     "country": "ve",
@@ -21,7 +21,7 @@
     "asn_org": "TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND)",
     "sources_count": 18,
     "first_seen": "2026-07-05T16:48:25.056Z",
-    "last_checked": "2026-09-20T04:24:32.713Z"
+    "last_checked": "2026-09-21T04:26:09.561Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://200.8.235.10:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 484,
-    "latency_median_ms": 493.5,
-    "uptime_24h": 79.6,
-    "uptime_7d": 50.9,
-    "checks_7d": 689,
+    "latency_ms": 549,
+    "latency_median_ms": 495.5,
+    "uptime_24h": 64.9,
+    "uptime_7d": 54.9,
+    "checks_7d": 674,
     "exit_ip": "200.8.235.10",
     "exit_shared": 1,
     "country": "ve",
@@ -45,6 +45,6 @@
     "asn_org": "Corporación Telemic C.A.",
     "sources_count": 18,
     "first_seen": "2026-07-08T04:22:20.090Z",
-    "last_checked": "2026-09-20T04:25:23.784Z"
+    "last_checked": "2026-09-21T04:29:20.706Z"
   }
 ]

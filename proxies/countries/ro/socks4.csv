@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,false,779,1299.5,76,77.5,865,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,12,2025-09-04T23:49:00.753Z,2026-09-20T04:23:34.505Z
-socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,false,1740,1904,32.7,48,687,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,12,2025-09-04T23:48:59.822Z,2026-09-20T04:20:41.169Z
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,false,7967,1213.5,83.7,78.7,840,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,1,2026-03-17T17:23:30.908Z,2026-09-21T04:25:25.572Z

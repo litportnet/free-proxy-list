@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.190.90.2,4145,socks4://185.190.90.2:4145,elite,false,689,1273.5,68.9,55.6,741,185.190.90.2,1,al,Durrës County,Durrës,Europe/Tirane,212637,LightNet Sh.p.k.,19,2025-09-04T23:49:13.395Z,2026-09-20T04:27:55.912Z
-socks4,37.26.86.206,4145,socks4://37.26.86.206:4145,elite,false,8008,730.5,58.8,54.7,739,37.26.86.206,1,al,Elbasan County,Elbasan,Europe/Tirane,198279,Albanian Telecommunications Union SH. P.K.,11,2025-09-04T23:02:23.648Z,2026-09-20T04:25:36.751Z
+socks4,185.190.90.2,4145,socks4://185.190.90.2:4145,elite,false,1707,778.5,68.4,56.5,685,185.190.90.2,1,al,Durrës County,Durrës,Europe/Tirane,212637,LightNet Sh.p.k.,20,2025-09-04T23:49:13.395Z,2026-09-21T04:24:42.037Z

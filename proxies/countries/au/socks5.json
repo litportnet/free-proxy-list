@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "183.173.214.136",
+    "port": 10808,
+    "url": "socks5://183.173.214.136:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1788,
+    "latency_median_ms": 4466,
+    "uptime_24h": 69.7,
+    "uptime_7d": null,
+    "checks_7d": 33,
+    "exit_ip": "134.199.174.221",
+    "exit_shared": 3,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "asn": 14061,
+    "asn_org": "DigitalOcean, LLC",
+    "sources_count": 7,
+    "first_seen": "2026-09-20T15:56:19.497Z",
+    "last_checked": "2026-09-21T04:26:05.878Z"
+  }
+]

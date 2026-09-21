@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.235.24.145,3129,http://77.235.24.145:3129,elite,true,984,1725.5,20.7,18.9,148,77.235.24.145,1,kg,Chuy Region,Kant,Asia/Bishkek,41750,Mega-Line Ltd.,15,2026-08-28T10:33:35.693Z,2026-09-21T04:26:14.301Z

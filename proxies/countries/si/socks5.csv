@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.87.123,1127,socks5://49.13.87.123:1127,elite,true,886,885,61.5,61.5,65,93.115.0.25,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,203020,HostRoyale Technologies Pvt Ltd,14,2026-09-20T06:51:17.928Z,2026-09-21T04:25:31.826Z

@@ -1,9 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,646,656,99.3,99.3,151,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-19T02:36:27.799Z,2026-09-20T04:20:36.451Z
-socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,true,4790,3300.5,83.6,81.1,190,187.13.193.42,1,gb,England,Manchester,Europe/London,136787,PacketHub S.A.,15,2026-09-18T09:46:47.006Z,2026-09-20T04:25:21.713Z
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,2258,2546,73.1,73.2,299,185.192.69.27,1,gb,England,London,Europe/London,62240,Clouvider,15,2026-09-17T05:31:54.290Z,2026-09-20T04:28:23.815Z
-socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,827,1033.5,74.2,63.9,746,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,17,2026-07-31T19:22:14.557Z,2026-09-20T04:29:30.955Z
-socks5,45.74.31.30,9461,socks5://45.74.31.30:9461,elite,true,2248,2919,32.4,55.8,77,209.42.23.128,1,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,12,2026-09-18T16:31:05.693Z,2026-09-20T04:24:03.581Z
-socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,627,649,100,,11,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,7,2026-09-20T02:49:10.735Z,2026-09-20T04:29:18.897Z
-socks5,45.74.31.30,10028,socks5://45.74.31.30:10028,elite,true,803,803,50,,2,172.236.11.42,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,1,2026-09-20T03:49:39.093Z,2026-09-20T04:26:07.329Z
-socks5,160.25.83.52,1084,socks5://160.25.83.52:1084,elite,true,2071,3765,92.5,,40,146.70.83.234,3,gb,England,London,Europe/London,9009,M247 Europe SRL,15,2026-09-19T20:46:04.956Z,2026-09-20T04:27:21.274Z
+socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,628,634.5,100,100,153,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-20T02:49:10.735Z,2026-09-21T04:29:09.826Z
+socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,642,644,100,99.7,295,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-19T02:36:27.799Z,2026-09-21T04:22:01.194Z
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,true,919,2097.5,59,58.3,324,84.247.42.80,1,gb,Scotland,Glasgow,Europe/London,25369,Hydra Communications Ltd,17,2026-09-16T03:18:14.821Z,2026-09-21T04:26:57.011Z

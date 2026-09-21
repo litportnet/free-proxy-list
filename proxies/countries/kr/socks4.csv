@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,933,928.5,95.6,97.7,347,150.109.247.86,3,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-08-21T10:02:58.834Z,2026-09-20T04:25:22.226Z
-socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,false,1956,1955.5,62,49.9,751,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,18,2025-09-04T23:48:54.923Z,2026-09-20T04:29:12.077Z
+socks4,150.109.247.86,8443,socks4://150.109.247.86:8443,elite,false,902,923.5,100,98.4,491,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-08-21T10:02:58.834Z,2026-09-21T04:29:48.881Z
+socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,false,1075,2788,37.5,32.2,516,104.28.243.30,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",19,2026-03-18T10:32:34.347Z,2026-09-21T04:27:53.210Z

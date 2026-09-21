@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "143.105.108.210",
+    "port": 1080,
+    "url": "socks4://143.105.108.210:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1744,
+    "latency_median_ms": 2210,
+    "uptime_24h": 84.2,
+    "uptime_7d": null,
+    "checks_7d": 19,
+    "exit_ip": "143.105.108.210",
+    "exit_shared": 1,
+    "country": "py",
+    "region": "Asuncion",
+    "city": "Asunción",
+    "timezone": "America/Asuncion",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 9,
+    "first_seen": "2026-09-21T00:00:17.318Z",
+    "last_checked": "2026-09-21T04:21:48.140Z"
+  }
+]

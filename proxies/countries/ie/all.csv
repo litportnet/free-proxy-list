@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.22,17803,socks5://45.74.31.22:17803,elite,false,4401,1715,60,,13,135.236.141.99,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,7,2026-09-17T23:41:24.784Z,2026-09-20T04:19:26.894Z
+socks5,45.74.31.22,21400,socks5://45.74.31.22:21400,elite,false,4600,1831.5,45.5,,33,135.236.141.99,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,7,2026-09-20T12:54:32.445Z,2026-09-21T04:24:54.004Z

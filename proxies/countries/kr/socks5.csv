@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,150.109.247.86,8443,socks5://150.109.247.86:8443,elite,true,1052,1096.5,95.6,98.1,374,150.109.247.86,3,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-08-21T09:05:16.715Z,2026-09-20T04:19:11.477Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1275,1503.5,72.9,75.7,876,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,20,2025-09-04T23:50:06.749Z,2026-09-20T04:20:17.759Z
+socks5,150.109.247.86,8443,socks5://150.109.247.86:8443,elite,true,1144,1137,100,98.7,518,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-08-21T09:05:16.715Z,2026-09-21T04:29:28.953Z
+socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,true,5098,3841.5,46.8,28.1,456,104.28.243.30,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",18,2026-03-18T13:34:09.638Z,2026-09-21T04:23:51.465Z

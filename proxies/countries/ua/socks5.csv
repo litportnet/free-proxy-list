@@ -1,2 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,178.150.77.204,10801,socks5://178.150.77.204:10801,elite,false,1871,1927,50.7,54.2,766,178.150.77.204,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,18,2026-06-29T22:34:41.837Z,2026-09-20T04:24:52.066Z
+socks5,178.150.77.204,10801,socks5://178.150.77.204:10801,elite,false,3867,3873,51.7,54.9,699,178.150.77.204,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,18,2026-06-29T22:34:41.837Z,2026-09-21T04:27:22.031Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,4091,4090,62,54.6,707,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,17,2026-06-29T21:35:38.005Z,2026-09-21T04:23:47.265Z
+socks5,176.37.107.86,11111,socks5://176.37.107.86:11111,elite,false,822,1997.5,50,44.9,632,176.37.107.86,1,ua,Kyiv City,Kyiv,Europe/Kyiv,39608,Lanet Network Ltd,19,2026-08-01T16:35:23.813Z,2026-09-21T04:24:08.120Z
+socks5,193.24.222.150,33500,socks5://193.24.222.150:33500,elite,false,975,2101,14.3,22.7,340,193.107.75.242,1,ua,Zhytomyr Oblast,Zhytomyr,Europe/Kyiv,50633,NET-CITY 2020 LLC,17,2026-05-16T14:14:23.844Z,2026-09-21T04:25:50.685Z
+socks5,5.53.119.134,1080,socks5://5.53.119.134:1080,elite,false,8089,3999.5,18.8,9.6,136,5.53.119.134,1,ua,Vinnytsia,Lypovets,Europe/Kyiv,35297,Dataline LLC,14,2026-06-12T15:57:06.355Z,2026-09-21T04:28:50.885Z
+socks5,178.83.5.83,1080,socks5://178.83.5.83:1080,elite,true,909,1624,61.7,,47,178.83.5.83,1,ua,Kyiv City,Kyiv,Europe/Kyiv,6698,Virtual Systems LLC,14,2026-09-20T12:54:27.246Z,2026-09-21T04:24:10.743Z

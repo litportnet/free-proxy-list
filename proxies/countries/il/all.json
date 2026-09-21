@@ -6,11 +6,11 @@
     "url": "http://62.90.73.225:3128",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 960,
-    "latency_median_ms": 1195.5,
-    "uptime_24h": 87.1,
-    "uptime_7d": 86.6,
-    "checks_7d": 119,
+    "latency_ms": 1624,
+    "latency_median_ms": 1593.5,
+    "uptime_24h": 85.6,
+    "uptime_7d": 86.1,
+    "checks_7d": 223,
     "exit_ip": "62.90.73.225",
     "exit_shared": 1,
     "country": "il",
@@ -19,9 +19,9 @@
     "timezone": "Asia/Jerusalem",
     "asn": 1680,
     "asn_org": "Cellcom Fixed Line Communication L.P",
-    "sources_count": 19,
+    "sources_count": 21,
     "first_seen": "2026-09-19T03:36:55.103Z",
-    "last_checked": "2026-09-20T04:19:06.334Z"
+    "last_checked": "2026-09-21T04:29:48.876Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://31.168.143.90:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1887,
-    "latency_median_ms": 1892.5,
-    "uptime_24h": 80.2,
-    "uptime_7d": 70.6,
-    "checks_7d": 839,
+    "latency_ms": 3860,
+    "latency_median_ms": 3860,
+    "uptime_24h": 77.8,
+    "uptime_7d": 72.7,
+    "checks_7d": 801,
     "exit_ip": "31.168.143.90",
     "exit_shared": 1,
     "country": "il",
@@ -45,6 +45,6 @@
     "asn_org": "Bezeq International Ltd.",
     "sources_count": 12,
     "first_seen": "2026-07-04T23:41:40.294Z",
-    "last_checked": "2026-09-20T04:24:06.206Z"
+    "last_checked": "2026-09-21T04:22:20.466Z"
   }
 ]

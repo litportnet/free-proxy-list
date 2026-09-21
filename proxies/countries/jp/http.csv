@@ -1,7 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.146.163.31,80,http://45.146.163.31:80,elite,false,595,620.5,100,100,1009,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-20T04:28:40.652Z
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,651,650,99.3,99.2,1002,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T12:38:44.906Z,2026-09-20T04:27:38.636Z
-http,172.237.11.129,3128,http://172.237.11.129:3128,elite,false,5705,2258.5,79,73.3,864,172.237.11.129,1,jp,Tokyo,Tokyo,Asia/Tokyo,63949,Akamai Connected Cloud,17,2026-09-07T21:31:39.933Z,2026-09-20T04:26:11.080Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,637,666.5,70,55.4,607,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,21,2026-07-05T22:00:26.420Z,2026-09-20T04:27:03.649Z
-http,34.84.162.206,38080,http://34.84.162.206:38080,elite,true,2904,2903,37.5,34.4,61,34.84.162.206,1,jp,Tokyo,Tokyo,Asia/Tokyo,396982,Google LLC,20,2026-05-18T15:43:13.926Z,2026-09-20T04:21:19.957Z
-http,166.1.61.57,1080,http://166.1.61.57:1080,elite,false,7804,6712.5,21.4,16.4,183,166.1.61.57,1,jp,Tokyo,Tokyo,Asia/Tokyo,206264,Amarutu Technology Ltd,20,2026-09-07T17:29:31.739Z,2026-09-20T04:27:03.652Z
+http,45.146.163.31,80,http://45.146.163.31:80,elite,false,626,624,100,100,1010,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-21T04:29:09.818Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,636,642.5,100,99.4,1002,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T12:38:44.906Z,2026-09-21T04:29:01.865Z
+http,172.237.11.129,3128,http://172.237.11.129:3128,elite,false,3675,3193.5,83.2,73.4,826,172.237.11.129,1,jp,Tokyo,Tokyo,Asia/Tokyo,63949,Akamai Connected Cloud,17,2026-09-07T21:31:39.933Z,2026-09-21T04:29:15.134Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,646,646,79.8,54.7,556,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,21,2026-07-05T22:00:26.420Z,2026-09-21T04:26:11.675Z
+http,160.248.7.177,80,http://160.248.7.177:80,elite,false,1604,1607,72,48.2,695,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",18,2025-09-10T22:05:25.259Z,2026-09-21T04:32:11.935Z
+http,34.84.162.206,38080,http://34.84.162.206:38080,elite,true,770,1143.5,41.8,38.3,115,34.84.162.206,1,jp,Tokyo,Tokyo,Asia/Tokyo,396982,Google LLC,21,2026-05-18T15:43:13.926Z,2026-09-21T04:25:49.096Z
+http,151.243.153.157,8118,http://151.243.153.157:8118,elite,false,7267,1019.5,46.4,29.5,444,151.243.153.157,1,jp,Tokyo,Tokyo,Asia/Tokyo,400506,Black Apple,22,2026-06-06T22:41:19.122Z,2026-09-21T04:29:20.680Z

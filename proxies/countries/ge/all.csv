@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,85.117.61.74,8080,http://85.117.61.74:8080,transparent,true,3767,2678,25,14.5,227,85.117.61.74,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,13,2025-09-05T20:06:33.424Z,2026-09-21T04:25:03.400Z

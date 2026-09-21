@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,2195,2054.5,76,47.8,343,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,12,2025-09-04T23:49:05.823Z,2026-09-21T04:30:02.385Z

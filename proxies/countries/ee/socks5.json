@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "146.19.143.200",
+    "port": 1080,
+    "url": "socks5://146.19.143.200:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8949,
+    "latency_median_ms": 1052.5,
+    "uptime_24h": 82.5,
+    "uptime_7d": 45.9,
+    "checks_7d": 386,
+    "exit_ip": "146.19.143.200",
+    "exit_shared": 2,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "asn": 62005,
+    "asn_org": "BlueVPS OU",
+    "sources_count": 17,
+    "first_seen": "2026-09-08T18:42:16.276Z",
+    "last_checked": "2026-09-21T04:28:58.728Z"
+  }
+]

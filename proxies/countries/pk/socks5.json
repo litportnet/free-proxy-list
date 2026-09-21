@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "72.255.38.180",
+    "port": 1080,
+    "url": "socks5://72.255.38.180:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2775,
+    "latency_median_ms": 3648,
+    "uptime_24h": 34,
+    "uptime_7d": 40.9,
+    "checks_7d": 633,
+    "exit_ip": "72.255.38.180",
+    "exit_shared": 1,
+    "country": "pk",
+    "region": "Punjab",
+    "city": "Lahore",
+    "timezone": "Asia/Karachi",
+    "asn": 9541,
+    "asn_org": "Cyber Internet Services (Pvt) Ltd.",
+    "sources_count": 18,
+    "first_seen": "2026-08-02T04:41:37.409Z",
+    "last_checked": "2026-09-21T04:22:44.518Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "85.117.61.74",
+    "port": 8080,
+    "url": "http://85.117.61.74:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 3767,
+    "latency_median_ms": 2678,
+    "uptime_24h": 25,
+    "uptime_7d": 14.5,
+    "checks_7d": 227,
+    "exit_ip": "85.117.61.74",
+    "exit_shared": 1,
+    "country": "ge",
+    "region": "Tbilisi",
+    "city": "Tbilisi",
+    "timezone": "Asia/Tbilisi",
+    "asn": 20771,
+    "asn_org": "Caucasus Online Ltd.",
+    "sources_count": 13,
+    "first_seen": "2025-09-05T20:06:33.424Z",
+    "last_checked": "2026-09-21T04:25:03.400Z"
+  }
+]

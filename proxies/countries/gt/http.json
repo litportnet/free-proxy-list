@@ -6,11 +6,11 @@
     "url": "http://186.33.7.203:999",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 8484,
-    "latency_median_ms": 4256.5,
-    "uptime_24h": 12.5,
-    "uptime_7d": 16,
-    "checks_7d": 263,
+    "latency_ms": 4810,
+    "latency_median_ms": 3717,
+    "uptime_24h": 27.3,
+    "uptime_7d": 14.4,
+    "checks_7d": 216,
     "exit_ip": "38.52.208.9",
     "exit_shared": 1,
     "country": "gt",
@@ -19,8 +19,8 @@
     "timezone": "America/Guatemala",
     "asn": 272818,
     "asn_org": "CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "sources_count": 21,
+    "sources_count": 22,
     "first_seen": "2026-07-05T22:59:16.424Z",
-    "last_checked": "2026-09-20T04:25:25.944Z"
+    "last_checked": "2026-09-21T04:29:51.524Z"
   }
 ]

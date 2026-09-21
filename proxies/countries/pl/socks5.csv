@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.88.150.90,1080,socks5://194.88.150.90:1080,elite,true,2307,2147,98.6,98.7,151,194.88.150.90,2,pl,Mazovia,Warsaw,Europe/Warsaw,203273,NetCrafters OU,18,2026-09-19T02:36:27.799Z,2026-09-20T04:22:47.279Z
-socks5,151.243.196.252,1080,socks5://151.243.196.252:1080,elite,true,1062,1102.5,100,,10,151.243.196.252,1,pl,Mazovia,Warsaw,Europe/Warsaw,57043,HOSTKEY B.V.,7,2026-09-20T02:49:10.735Z,2026-09-20T04:19:43.983Z
+socks5,104.245.245.218,1080,socks5://104.245.245.218:1080,elite,true,1326,1347,100,100,51,104.245.245.218,1,pl,Mazovia,Warsaw,Europe/Warsaw,201814,MEVSPACE sp. z o.o.,13,2026-09-20T19:58:12.162Z,2026-09-21T04:27:46.801Z
+socks5,151.243.196.252,1080,socks5://151.243.196.252:1080,elite,true,919,972.5,99.3,99.3,150,151.243.196.252,1,pl,Mazovia,Warsaw,Europe/Warsaw,57043,HOSTKEY B.V.,17,2026-09-20T02:49:10.735Z,2026-09-21T04:25:29.239Z
+socks5,194.88.150.90,1080,socks5://194.88.150.90:1080,elite,true,1965,1740.5,96.1,97.5,280,194.88.150.90,2,pl,Mazovia,Warsaw,Europe/Warsaw,203273,NetCrafters OU,19,2026-09-19T02:36:27.799Z,2026-09-21T04:28:03.402Z

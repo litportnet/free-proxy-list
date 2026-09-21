@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,737,2435,77.8,68.1,770,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,18,2026-07-05T16:50:36.728Z,2026-09-20T04:21:39.379Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,730,750,82.7,69.5,732,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,18,2026-07-05T16:50:36.728Z,2026-09-21T04:26:15.851Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,false,690,690,75.8,64.9,786,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,13,2025-09-04T23:49:02.661Z,2026-09-21T04:25:24.512Z
+socks4,85.163.43.208,48293,socks4://85.163.43.208:48293,elite,false,3929,1672,70.4,62.1,771,85.163.43.208,1,cz,Central Bohemia,Mladá Boleslav,Europe/Prague,28725,CETIN a.s.,12,2026-05-06T21:04:02.868Z,2026-09-21T04:25:44.929Z
+socks4,176.98.248.2,4153,socks4://176.98.248.2:4153,elite,false,3663,3645.5,50,44.7,206,176.98.248.2,1,cz,Prague,Prague,Europe/Prague,62099,"JM-Networks, s.r.o.",12,2025-09-04T23:49:06.233Z,2026-09-21T04:24:10.215Z

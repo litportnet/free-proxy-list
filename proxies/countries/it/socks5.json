@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "171.22.182.164",
+    "port": 1080,
+    "url": "socks5://171.22.182.164:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2084,
+    "latency_median_ms": 1980,
+    "uptime_24h": 78.4,
+    "uptime_7d": 54.6,
+    "checks_7d": 273,
+    "exit_ip": "171.22.182.164",
+    "exit_shared": 2,
+    "country": "it",
+    "region": "Sicily",
+    "city": "Palermo",
+    "timezone": "Europe/Rome",
+    "asn": 62005,
+    "asn_org": "BlueVPS OU",
+    "sources_count": 17,
+    "first_seen": "2026-08-21T11:03:27.042Z",
+    "last_checked": "2026-09-21T04:29:06.645Z"
+  }
+]

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.255.40.228,8998,http://84.255.40.228:8998,transparent,true,3357,4007,37.5,13,146,84.255.40.228,1,mt,Valletta,Valletta,Europe/Malta,12709,Melita Limited,14,2025-09-05T00:24:10.314Z,2026-09-20T04:23:49.423Z

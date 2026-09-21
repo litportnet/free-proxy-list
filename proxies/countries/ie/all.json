@@ -2,15 +2,15 @@
   {
     "protocol": "socks5",
     "ip": "45.74.31.22",
-    "port": 17803,
-    "url": "socks5://45.74.31.22:17803",
+    "port": 21400,
+    "url": "socks5://45.74.31.22:21400",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4401,
-    "latency_median_ms": 1715,
-    "uptime_24h": 60,
+    "latency_ms": 4600,
+    "latency_median_ms": 1831.5,
+    "uptime_24h": 45.5,
     "uptime_7d": null,
-    "checks_7d": 13,
+    "checks_7d": 33,
     "exit_ip": "135.236.141.99",
     "exit_shared": 1,
     "country": "ie",
@@ -20,7 +20,7 @@
     "asn": 8075,
     "asn_org": "Microsoft Corporation",
     "sources_count": 7,
-    "first_seen": "2026-09-17T23:41:24.784Z",
-    "last_checked": "2026-09-20T04:19:26.894Z"
+    "first_seen": "2026-09-20T12:54:32.445Z",
+    "last_checked": "2026-09-21T04:24:54.004Z"
   }
 ]

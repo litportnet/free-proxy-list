@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,41.190.92.50,60606,socks4://41.190.92.50:60606,elite,false,3450,1454,34.5,40.3,623,41.190.92.50,1,mw,Southern Region,Blantyre,Africa/Blantyre,37187,Inq. Digital Limited,11,2025-09-04T23:49:14.559Z,2026-09-20T04:22:18.127Z

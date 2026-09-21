@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,130.255.94.32,5080,socks5://130.255.94.32:5080,elite,true,1208,1300.5,66.7,51.6,686,130.255.94.32,1,iq,Duhok,Zaxo,Asia/Baghdad,197882,Tarin General Trading and Setting Up Internet Device LTD,19,2026-08-25T00:49:11.335Z,2026-09-21T04:28:58.731Z
+socks5,212.237.125.216,6969,socks5://212.237.125.216:6969,elite,false,8769,3357,56.1,40.3,585,212.237.125.216,1,iq,Duhok,Dihok,Asia/Baghdad,206206,Kurdistan Net Company for Computer and Internet Ltd.,19,2025-09-05T20:06:16.156Z,2026-09-21T04:32:07.240Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,154.88.189.19,5678,socks4://154.88.189.19:5678,elite,false,379,382.5,39.5,23.8,227,154.88.189.18,1,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,272011,TELEMARCH S.R.L,9,2026-08-28T05:31:34.724Z,2026-09-21T04:26:37.795Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "104.238.220.231",
+    "port": 1080,
+    "url": "socks4://104.238.220.231:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 802,
+    "latency_median_ms": 998,
+    "uptime_24h": 73.3,
+    "uptime_7d": 62.6,
+    "checks_7d": 91,
+    "exit_ip": "89.117.42.92",
+    "exit_shared": 2,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taipei",
+    "timezone": "Asia/Taipei",
+    "asn": 209854,
+    "asn_org": "Cyberzone S.A.",
+    "sources_count": 5,
+    "first_seen": "2026-05-13T14:29:58.520Z",
+    "last_checked": "2026-09-21T04:30:23.052Z"
+  }
+]

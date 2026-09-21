@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,183.173.214.136,10808,socks4://183.173.214.136:10808,elite,false,1626,1764,68.8,,32,134.199.174.221,3,au,New South Wales,Sydney,Australia/Sydney,14061,"DigitalOcean, LLC",12,2026-09-20T15:56:02.227Z,2026-09-21T04:31:48.845Z

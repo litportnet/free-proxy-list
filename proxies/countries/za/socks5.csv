@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,true,2271,4671.5,44.6,43,637,168.253.92.93,1,za,Gauteng,Pretoria,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,17,2025-11-06T12:07:21.653Z,2026-09-21T04:24:08.644Z
+socks5,199.30.90.132,1080,socks5://199.30.90.132:1080,elite,true,901,918,90,,10,199.30.90.132,1,za,Gauteng,Johannesburg,Africa/Johannesburg,219401,Yeah Tech LLC,3,2026-07-25T21:08:35.106Z,2026-09-21T04:26:36.245Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,174.138.162.37,22693,http://174.138.162.37:22693,elite,false,7245,7245,50,,2,49.192.15.61,1,au,Western Australia,Perth,Australia/Perth,4804,Microplex PTY LTD,1,2026-09-20T03:49:33.481Z,2026-09-20T04:26:07.369Z
+http,183.173.214.136,10808,http://183.173.214.136:10808,elite,true,2322,4387.5,55.6,,27,134.199.174.221,3,au,New South Wales,Sydney,Australia/Sydney,14061,"DigitalOcean, LLC",12,2026-09-20T15:56:04.422Z,2026-09-21T04:22:44.521Z

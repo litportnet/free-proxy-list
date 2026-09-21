@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.33.7.203,999,http://186.33.7.203:999,transparent,true,8484,4256.5,12.5,16,263,38.52.208.9,1,gt,Guatemala,Mixco,America/Guatemala,272818,"CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",21,2026-07-05T22:59:16.424Z,2026-09-20T04:25:25.944Z
+http,186.33.7.203,999,http://186.33.7.203:999,transparent,true,4810,3717,27.3,14.4,216,38.52.208.9,1,gt,Guatemala,Mixco,America/Guatemala,272818,"CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",22,2026-07-05T22:59:16.424Z,2026-09-21T04:29:51.524Z

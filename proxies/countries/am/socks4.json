@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "81.16.9.222",
+    "port": 3629,
+    "url": "socks4://81.16.9.222:3629",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2195,
+    "latency_median_ms": 2054.5,
+    "uptime_24h": 76,
+    "uptime_7d": 47.8,
+    "checks_7d": 343,
+    "exit_ip": "81.16.9.222",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 44395,
+    "asn_org": "Ucom CJSC",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:49:05.823Z",
+    "last_checked": "2026-09-21T04:30:02.385Z"
+  }
+]
