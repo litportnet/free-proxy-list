@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,104.238.220.231,1080,socks4://104.238.220.231:1080,elite,false,802,998,73.3,62.6,91,89.117.42.92,2,tw,Taiwan,Taipei,Asia/Taipei,209854,Cyberzone S.A.,5,2026-05-13T14:29:58.520Z,2026-09-21T04:30:23.052Z
+socks4,104.238.220.231,1080,socks4://104.238.220.231:1080,elite,false,701,750,91.1,79.3,212,82.140.187.48,2,tw,Taiwan,Tainan,Asia/Taipei,209854,Cyberzone S.A.,5,2026-05-13T14:29:58.520Z,2026-09-22T04:28:12.282Z

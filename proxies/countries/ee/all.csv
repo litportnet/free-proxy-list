@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,726,1782,81.3,67.6,778,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,21,2026-07-04T17:38:40.433Z,2026-09-21T04:25:14.339Z
-http,95.153.31.226,3128,http://95.153.31.226:3128,elite,true,1243,2359.5,61.6,63.6,165,95.153.31.226,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,23,2026-09-19T02:36:24.799Z,2026-09-21T04:24:30.368Z
-http,95.153.31.228,3128,http://95.153.31.228:3128,elite,true,1730,3047,56.1,58.4,154,95.153.31.228,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,21,2026-09-19T02:36:24.799Z,2026-09-21T04:24:33.643Z
-socks4,146.19.143.200,1080,socks4://146.19.143.200:1080,elite,false,744,783,88.9,52.2,523,146.19.143.200,2,ee,Harjumaa,Tallinn,Europe/Tallinn,62005,BlueVPS OU,18,2026-09-09T02:45:26.049Z,2026-09-21T04:31:16.879Z
-socks5,146.19.143.200,1080,socks5://146.19.143.200:1080,elite,true,8949,1052.5,82.5,45.9,386,146.19.143.200,2,ee,Harjumaa,Tallinn,Europe/Tallinn,62005,BlueVPS OU,17,2026-09-08T18:42:16.276Z,2026-09-21T04:28:58.728Z
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,702,1051.5,67.9,67.6,722,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,21,2026-07-04T17:38:40.433Z,2026-09-22T04:32:56.624Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,1112,1111.5,65.9,65.7,720,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2026-08-09T14:15:31.168Z,2026-09-22T04:34:21.899Z
+socks4,57.128.231.218,1002,socks4://57.128.231.218:1002,elite,false,718,743.5,100,,8,88.214.21.217,2,ee,Harjumaa,Tallinn,Europe/Tallinn,43357,Owl Limited,5,2026-09-22T03:14:35.632Z,2026-09-22T04:25:49.949Z
+socks5,57.128.231.218,1002,socks5://57.128.231.218:1002,elite,true,906,904,85.7,,7,88.214.21.217,2,ee,Harjumaa,Tallinn,Europe/Tallinn,43357,Owl Limited,5,2026-09-22T03:14:41.306Z,2026-09-22T04:27:58.085Z

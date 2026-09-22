@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,608,463.5,96.1,86.2,882,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,19,2025-09-10T19:34:46.844Z,2026-09-21T04:28:46.660Z
-http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,true,5372,2673.5,40.7,37.4,123,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,22,2026-09-19T02:36:24.799Z,2026-09-21T04:31:21.052Z
-http,91.126.244.112,8080,http://91.126.244.112:8080,transparent,false,8834,4506,17.1,16.3,160,91.126.244.112,1,es,Cantabria,Arnuero,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,24,2026-07-06T09:10:10.551Z,2026-09-21T04:26:22.632Z
+http,212.231.230.141,18359,http://212.231.230.141:18359,transparent,true,903,903,100,,3,149.91.103.134,1,es,Madrid,Madrid,Europe/Madrid,34977,PROCONO S.A.,5,2026-09-21T02:01:30.431Z,2026-09-22T04:28:27.920Z

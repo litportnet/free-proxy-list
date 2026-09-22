@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,false,2019,1003.5,99.3,96.6,979,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-21T04:25:28.208Z
-socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,false,7548,2913,73.5,76.6,627,157.173.115.35,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,16,2026-09-15T10:50:54.475Z,2026-09-21T04:22:06.948Z
-socks4,158.220.99.85,4545,socks4://158.220.99.85:4545,elite,false,1585,3336,84.2,71.9,697,158.220.99.85,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-08-25T00:50:18.878Z,2026-09-21T04:25:16.406Z
+socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,false,800,898,93.9,97,967,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-22T04:27:08.467Z
+socks4,95.111.228.190,1081,socks4://95.111.228.190:1081,elite,false,571,576,84.3,84.3,83,95.111.228.190,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,14,2026-09-21T11:06:18.018Z,2026-09-22T04:25:08.299Z
+socks4,95.111.228.190,1080,socks4://95.111.228.190:1080,elite,false,569,591,81.3,81.3,80,95.111.228.190,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,13,2026-09-21T11:06:09.388Z,2026-09-22T04:31:39.480Z

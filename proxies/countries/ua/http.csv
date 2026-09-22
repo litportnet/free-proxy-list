@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.202.84.127,38777,http://31.202.84.127:38777,transparent,true,849,4479,26.8,16.1,223,31.202.84.127,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,34700,"MAXNET TELECOM, LTD",13,2026-05-18T16:46:14.226Z,2026-09-21T04:27:24.156Z
-http,94.179.153.218,8081,http://94.179.153.218:8081,transparent,true,8778,4030,29,16.1,211,94.179.153.218,1,ua,Kyiv City,Kyiv,Europe/Kyiv,6849,JSC Ukrtelecom,23,2026-07-04T23:41:48.300Z,2026-09-21T04:24:47.743Z
-http,188.190.177.47,8989,http://188.190.177.47:8989,transparent,true,2939,4095,25,14.4,118,188.190.177.47,1,ua,Khmelnytskyi,Khmelnytskyi,Europe/Kyiv,28773,Global Technologies of Ukraine LLC,21,2026-05-05T15:52:16.757Z,2026-09-21T04:23:51.978Z
-http,82.207.117.120,8080,http://82.207.117.120:8080,elite,true,2634,4617,29,13.3,165,82.207.117.120,1,ua,Lviv,Lviv,Europe/Kyiv,6849,JSC Ukrtelecom,22,2026-06-11T00:36:11.110Z,2026-09-21T04:25:56.474Z

@@ -6,11 +6,11 @@
     "url": "http://94.78.67.171:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 348,
-    "latency_median_ms": 334.5,
+    "latency_ms": 3469,
+    "latency_median_ms": 4861.5,
     "uptime_24h": 100,
     "uptime_7d": 100,
-    "checks_7d": 1006,
+    "checks_7d": 1005,
     "exit_ip": "94.78.67.171",
     "exit_shared": 1,
     "country": "cy",
@@ -21,6 +21,6 @@
     "asn_org": "Netonline Bilisim Sirketi LTD",
     "sources_count": 16,
     "first_seen": "2026-07-26T20:20:40.472Z",
-    "last_checked": "2026-09-21T04:29:28.985Z"
+    "last_checked": "2026-09-22T04:28:08.362Z"
   }
 ]

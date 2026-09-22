@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.196.182.22,8080,http://185.196.182.22:8080,transparent,false,3250,3851,41.5,24.4,381,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,25,2026-03-03T22:27:34.847Z,2026-09-21T04:24:20.135Z

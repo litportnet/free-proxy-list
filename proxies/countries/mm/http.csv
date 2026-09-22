@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,1366,2087.5,100,34.2,205,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,15,2025-09-08T05:28:14.758Z,2026-09-21T04:28:52.461Z

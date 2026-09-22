@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.125.40.38,5678,socks4://200.125.40.38:5678,elite,false,8216,1463,71.6,64.7,757,200.125.40.38,1,uy,Montevideo Department,Montevideo,America/Montevideo,6057,Administracion Nacional de Telecomunicaciones,12,2025-09-04T23:49:00.001Z,2026-09-21T04:29:20.716Z
+socks4,200.125.40.38,5678,socks4://200.125.40.38:5678,elite,false,8090,3947,77.7,67.3,722,200.125.40.38,1,uy,Montevideo Department,Montevideo,America/Montevideo,6057,Administracion Nacional de Telecomunicaciones,12,2025-09-04T23:49:00.001Z,2026-09-22T04:33:29.168Z

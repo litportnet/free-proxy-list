@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,46.122.16.54,8080,http://46.122.16.54:8080,transparent,true,4007,3694,34.5,14.4,167,46.122.16.54,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,21283,"A1 Slovenija telekomunikacijske storitve,d.d.",24,2026-08-02T05:42:40.272Z,2026-09-21T04:32:04.073Z

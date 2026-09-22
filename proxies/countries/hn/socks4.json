@@ -1,16 +1,40 @@
 [
   {
     "protocol": "socks4",
+    "ip": "181.115.74.172",
+    "port": 5678,
+    "url": "socks4://181.115.74.172:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3417,
+    "latency_median_ms": 1481,
+    "uptime_24h": 83.3,
+    "uptime_7d": 75.4,
+    "checks_7d": 781,
+    "exit_ip": "181.115.74.172",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Atlántida Department",
+    "city": "Tela",
+    "timezone": "America/Tegucigalpa",
+    "asn": 14754,
+    "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:49:05.467Z",
+    "last_checked": "2026-09-22T04:28:50.251Z"
+  },
+  {
+    "protocol": "socks4",
     "ip": "181.115.75.102",
     "port": 5678,
     "url": "socks4://181.115.75.102:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1453,
-    "latency_median_ms": 455,
-    "uptime_24h": 65.8,
-    "uptime_7d": 53.4,
-    "checks_7d": 719,
+    "latency_ms": 452,
+    "latency_median_ms": 481,
+    "uptime_24h": 58.5,
+    "uptime_7d": 55.3,
+    "checks_7d": 669,
     "exit_ip": "181.115.75.102",
     "exit_shared": 1,
     "country": "hn",
@@ -21,6 +45,6 @@
     "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:01:57.983Z",
-    "last_checked": "2026-09-21T04:23:59.751Z"
+    "last_checked": "2026-09-22T04:30:54.211Z"
   }
 ]

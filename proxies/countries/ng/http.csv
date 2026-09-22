@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1032,894.5,75.6,64.5,648,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,10,2026-04-12T22:59:20.773Z,2026-09-21T04:27:56.894Z
-http,45.222.101.111,8080,http://45.222.101.111:8080,transparent,false,1069,3134.5,42.3,27.8,187,102.221.238.237,1,ng,Lagos,Ikeja,Africa/Lagos,328722,Ciudad Infrastructure Limited,16,2026-07-18T16:34:52.683Z,2026-09-21T04:23:50.954Z
-http,102.134.19.170,8080,http://102.134.19.170:8080,transparent,true,3824,4449.5,22.9,18.3,82,102.134.19.170,1,ng,Lagos,Lagos,Africa/Lagos,37662,West Indian Ocean Cable Company,22,2026-08-06T11:36:44.728Z,2026-09-21T04:30:06.712Z

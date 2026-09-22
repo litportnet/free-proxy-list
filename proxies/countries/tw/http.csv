@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,211.73.79.129,80,http://211.73.79.129:80,transparent,false,811,602.5,55.4,76.5,430,211.73.79.153,1,tw,Taiwan,Taipei,Asia/Taipei,7539,National Center for High-performance Computing,9,2026-09-16T19:26:29.403Z,2026-09-21T04:24:34.198Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,798,884.5,74.1,49.9,561,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,17,2025-09-10T19:35:10.419Z,2026-09-21T04:23:28.935Z
+http,211.73.79.129,80,http://211.73.79.129:80,transparent,false,397,393,46.6,72.2,503,211.73.79.153,1,tw,Taiwan,Taipei,Asia/Taipei,7539,National Center for High-performance Computing,9,2026-09-16T19:26:29.403Z,2026-09-22T04:34:00.430Z
+http,210.201.86.72,8080,http://210.201.86.72:8080,transparent,false,4113,4938.5,18.2,7.3,55,210.201.86.72,1,tw,Taiwan,Taichung,Asia/Taipei,7482,Asia Pacific On-line Service Inc.,18,2025-09-04T23:49:55.088Z,2026-09-22T04:33:59.388Z

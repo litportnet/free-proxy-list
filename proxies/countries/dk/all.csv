@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,66.59.197.63,3128,socks5://66.59.197.63:3128,elite,false,1011,1250,37.1,45.1,608,187.14.243.66,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,136787,PacketHub S.A.,16,2026-08-13T17:09:24.786Z,2026-09-22T04:34:21.912Z

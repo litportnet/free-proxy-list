@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,false,1758,2807.5,57.4,53.9,685,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,20,2026-07-04T18:38:42.525Z,2026-09-21T04:29:28.993Z
-socks4,95.140.118.34,1080,socks4://95.140.118.34:1080,elite,false,3949,1783,63,53.1,686,95.140.118.34,1,rs,Central Serbia,Savski Venac,Europe/Belgrade,9125,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,19,2026-07-11T02:57:55.862Z,2026-09-21T04:25:17.969Z
-http,147.91.22.150,80,http://147.91.22.150:80,elite,false,5971,2863.5,56.5,47.3,421,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,11,2025-09-10T19:34:49.515Z,2026-09-21T04:23:44.120Z
-http,62.101.137.150,8080,http://62.101.137.150:8080,transparent,false,6086,4894,25,15.1,185,93.87.41.118,1,rs,Central Serbia,Smederevo,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,13,2025-09-16T03:38:37.625Z,2026-09-21T04:32:09.323Z
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,false,859,1518,55.6,56.7,668,109.245.110.145,1,rs,Vojvodina,Vojka,Europe/Belgrade,15958,CETINdoo-NET,21,2026-07-05T16:48:25.730Z,2026-09-22T04:30:55.266Z

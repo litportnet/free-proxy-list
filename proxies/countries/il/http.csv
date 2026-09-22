@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,62.90.73.225,3128,http://62.90.73.225:3128,transparent,true,1624,1593.5,85.6,86.1,223,62.90.73.225,1,il,Haifa,Meisir,Asia/Jerusalem,1680,Cellcom Fixed Line Communication L.P,21,2026-09-19T03:36:55.103Z,2026-09-21T04:29:48.876Z

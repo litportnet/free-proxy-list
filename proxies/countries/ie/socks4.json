@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "57.128.231.218",
+    "port": 1003,
+    "url": "socks4://57.128.231.218:1003",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 806,
+    "latency_median_ms": 754.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 2,
+    "exit_ip": "130.195.213.219",
+    "exit_shared": 2,
+    "country": "ie",
+    "region": "Leinster",
+    "city": "Dublin",
+    "timezone": "Europe/Dublin",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 1,
+    "first_seen": "2026-09-22T04:15:16.453Z",
+    "last_checked": "2026-09-22T04:26:01.751Z"
+  }
+]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,2195,2054.5,76,47.8,343,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,12,2025-09-04T23:49:05.823Z,2026-09-21T04:30:02.385Z
-http,170.168.102.55,3128,http://170.168.102.55:3128,transparent,true,924,5737,43.3,,36,170.168.102.55,1,am,Yerevan,Yerevan,Asia/Yerevan,48207,GLB Bulut Teknolojisi Limited Sirketi,19,2026-07-10T04:49:32.711Z,2026-09-21T04:28:02.302Z
+socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,1340,1857,52,43.4,295,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,13,2025-09-04T23:49:05.823Z,2026-09-22T04:27:25.816Z

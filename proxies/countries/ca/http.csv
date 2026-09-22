@@ -1,7 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,99,103,96.1,91.8,950,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,23,2026-08-28T17:37:16.156Z,2026-09-21T04:28:57.140Z
-http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,196,214,72.9,68.7,799,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-09-21T04:31:39.399Z
-http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,true,2023,5903.5,31.3,35.4,254,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,9,2025-11-06T15:40:16.476Z,2026-09-21T04:28:16.619Z
-http,173.181.143.245,80,http://173.181.143.245:80,elite,false,6713,4731,50.9,32.5,274,173.181.143.245,1,ca,British Columbia,Vancouver,America/Vancouver,852,TELUS Communications Inc.,13,2025-09-09T19:49:52.324Z,2026-09-21T04:29:43.952Z
-http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,719,805,27.3,29,403,104.193.135.222,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,20,2026-09-12T17:16:29.342Z,2026-09-21T04:31:49.894Z
-http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,true,335,4188,33.3,25.7,261,184.70.113.34,1,ca,Alberta,High River,America/Edmonton,6327,Shaw Communications,21,2026-08-05T05:21:13.994Z,2026-09-21T04:31:42.520Z

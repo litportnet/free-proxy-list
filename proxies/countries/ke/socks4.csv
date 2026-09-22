@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,154.79.246.102,1080,socks4://154.79.246.102:1080,elite,false,2474,2628.5,85,64.1,546,154.79.246.102,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,12,2026-09-02T18:40:52.852Z,2026-09-21T04:22:21.011Z
-socks4,154.79.251.168,1080,socks4://154.79.251.168:1080,elite,false,1280,2325,71.6,62,735,154.79.251.168,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,15,2026-07-07T11:13:39.718Z,2026-09-21T04:22:24.176Z
-socks4,102.222.145.8,1080,socks4://102.222.145.8:1080,elite,false,1082,1079.5,55.2,47.8,525,102.222.145.8,1,ke,Mombasa County,Mombasa,Africa/Nairobi,328734,Blue Streak Horizons Net Limited,18,2026-08-11T14:41:12.217Z,2026-09-21T04:23:22.109Z
+socks4,102.222.145.8,1080,socks4://102.222.145.8:1080,elite,false,1130,1086,69.9,54.2,544,102.222.145.8,1,ke,Mombasa County,Mombasa,Africa/Nairobi,328734,Blue Streak Horizons Net Limited,18,2026-08-11T14:41:12.217Z,2026-09-22T04:31:59.689Z

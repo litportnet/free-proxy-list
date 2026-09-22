@@ -6,11 +6,11 @@
     "url": "socks4://213.165.185.211:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 783,
-    "latency_median_ms": 1798.5,
-    "uptime_24h": 77.3,
-    "uptime_7d": 54.9,
-    "checks_7d": 709,
+    "latency_ms": 7945,
+    "latency_median_ms": 815.5,
+    "uptime_24h": 67.4,
+    "uptime_7d": 59.6,
+    "checks_7d": 659,
     "exit_ip": "213.165.185.211",
     "exit_shared": 1,
     "country": "mt",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Malta",
     "asn": 12709,
     "asn_org": "Melita Limited",
-    "sources_count": 20,
-    "first_seen": "2025-09-04T23:02:08.138Z",
-    "last_checked": "2026-09-21T04:23:02.268Z"
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:31.260Z",
+    "last_checked": "2026-09-22T04:29:07.566Z"
   }
 ]

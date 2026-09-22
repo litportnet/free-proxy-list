@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.153.31.226,3128,http://95.153.31.226:3128,elite,true,1243,2359.5,61.6,63.6,165,95.153.31.226,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,23,2026-09-19T02:36:24.799Z,2026-09-21T04:24:30.368Z
-http,95.153.31.228,3128,http://95.153.31.228:3128,elite,true,1730,3047,56.1,58.4,154,95.153.31.228,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,21,2026-09-19T02:36:24.799Z,2026-09-21T04:24:33.643Z

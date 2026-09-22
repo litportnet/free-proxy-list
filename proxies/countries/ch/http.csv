@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,483,486.5,100,98.7,819,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,13,2025-11-22T22:38:16.432Z,2026-09-21T04:31:08.997Z
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,513,513,76.9,92.5,615,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,15,2026-05-21T20:26:35.754Z,2026-09-21T04:31:11.633Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,620,635,86.2,91.4,416,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,9,2025-12-07T12:46:43.973Z,2026-09-21T04:27:28.837Z
-http,88.80.186.173,19180,http://88.80.186.173:19180,transparent,true,1931,4426,61.1,62.2,315,195.176.3.24,1,ch,Zurich,Zürich,Europe/Zurich,559,SWITCH,24,2026-09-17T14:36:37.430Z,2026-09-21T04:30:02.334Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,601,494,99.3,98.9,959,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,13,2025-11-22T22:38:16.432Z,2026-09-22T04:28:56.803Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,930,837,99.3,92.3,612,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,15,2026-05-21T20:26:35.754Z,2026-09-22T04:31:07.842Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,626,682.5,69.2,87.4,507,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,9,2025-12-07T12:46:43.973Z,2026-09-22T04:30:31.537Z

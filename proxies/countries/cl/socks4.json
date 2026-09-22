@@ -6,11 +6,11 @@
     "url": "socks4://190.13.147.241:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3939,
-    "latency_median_ms": 1940,
-    "uptime_24h": 51.6,
-    "uptime_7d": 48.7,
-    "checks_7d": 667,
+    "latency_ms": 1915,
+    "latency_median_ms": 2941.5,
+    "uptime_24h": 52.6,
+    "uptime_7d": 48.1,
+    "checks_7d": 614,
     "exit_ip": "190.13.147.241",
     "exit_shared": 1,
     "country": "cl",
@@ -21,7 +21,7 @@
     "asn_org": "Telefonica del Sur S.A.",
     "sources_count": 19,
     "first_seen": "2025-09-05T20:06:27.862Z",
-    "last_checked": "2026-09-21T04:23:14.785Z"
+    "last_checked": "2026-09-22T04:26:09.702Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://190.54.100.74:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 721,
-    "latency_median_ms": 1243,
-    "uptime_24h": 55.4,
-    "uptime_7d": 44.4,
-    "checks_7d": 603,
+    "latency_ms": 1766,
+    "latency_median_ms": 2395,
+    "uptime_24h": 50.7,
+    "uptime_7d": 43.9,
+    "checks_7d": 560,
     "exit_ip": "190.54.100.74",
     "exit_shared": 1,
     "country": "cl",
@@ -45,6 +45,6 @@
     "asn_org": "Telmex Chile Internet S.A.",
     "sources_count": 20,
     "first_seen": "2025-09-08T19:34:49.363Z",
-    "last_checked": "2026-09-21T04:23:37.338Z"
+    "last_checked": "2026-09-22T04:24:44.310Z"
   }
 ]

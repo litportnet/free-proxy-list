@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.212.144.7,80,http://178.212.144.7:80,transparent,false,257,263,100,100,1007,178.212.144.7,1,pl,Podlasie,Augustów,Europe/Warsaw,51436,IDEALAN Sp. z o.o.,16,2025-12-06T19:03:04.342Z,2026-09-21T04:25:58.040Z
-http,194.88.150.90,8443,http://194.88.150.90:8443,elite,true,2945,1443.5,97,97.7,172,194.88.150.90,2,pl,Mazovia,Warsaw,Europe/Warsaw,203273,NetCrafters OU,22,2026-09-19T21:46:27.438Z,2026-09-21T04:27:06.472Z
-http,148.81.121.5,8080,http://148.81.121.5:8080,transparent,true,4009,3870.5,23.7,15.4,143,148.81.121.5,1,pl,Mazovia,Warsaw,Europe/Warsaw,1887,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,24,2026-02-05T18:53:44.999Z,2026-09-21T04:23:10.072Z
-http,185.232.155.243,1080,http://185.232.155.243:1080,elite,false,1021,4399,62.5,,8,82.40.62.175,2,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,2,2026-09-21T02:01:18.106Z,2026-09-21T04:26:10.094Z

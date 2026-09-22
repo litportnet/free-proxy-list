@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,818,849,98.2,98.2,55,185.213.154.182,1,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,13,2026-09-20T18:57:39.355Z,2026-09-21T04:23:44.103Z
-socks5,57.128.231.218,1001,socks5://57.128.231.218:1001,elite,true,941,933.5,98.5,78.8,775,45.129.59.168,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,19,2026-09-10T22:54:11.022Z,2026-09-21T04:23:22.623Z
-socks5,45.74.31.23,15931,socks5://45.74.31.23:15931,elite,true,2853,5081,21.2,34.4,93,46.246.49.221,1,se,Halland,Falkenberg,Europe/Stockholm,42708,Glesys AB,15,2026-09-19T04:37:26.707Z,2026-09-21T04:31:36.209Z
-socks5,45.74.31.22,10063,socks5://45.74.31.22:10063,elite,false,2833,3669.5,29.3,26.6,128,5.133.201.154,1,se,Stockholm,Stockholm,Europe/Stockholm,51747,Internet Vikings International AB,15,2026-09-18T11:47:45.343Z,2026-09-21T04:21:46.554Z
+socks5,143.20.37.40,1020,socks5://143.20.37.40:1020,elite,true,1068,1766,76.7,58.9,73,46.246.97.78,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,17,2026-09-19T21:46:30.338Z,2026-09-22T04:32:01.395Z
+socks5,185.197.74.126,2080,socks5://185.197.74.126:2080,elite,true,4209,4546,40.7,28.7,429,185.197.74.126,2,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,18,2026-06-25T17:44:35.833Z,2026-09-22T04:30:09.461Z
+socks5,56.68.116.64,8180,socks5://56.68.116.64:8180,unknown,false,2730,3027,30,,10,56.68.116.64,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-22T01:13:58.056Z,2026-09-22T04:32:54.013Z

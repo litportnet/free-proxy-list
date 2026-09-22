@@ -1,16 +1,40 @@
 [
   {
     "protocol": "socks4",
+    "ip": "124.105.40.93",
+    "port": 1080,
+    "url": "socks4://124.105.40.93:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1297,
+    "latency_median_ms": 1821.5,
+    "uptime_24h": 85.5,
+    "uptime_7d": 79.9,
+    "checks_7d": 802,
+    "exit_ip": "124.105.40.93",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "Eastern Visayas",
+    "city": "Cabucgayan",
+    "timezone": "Asia/Manila",
+    "asn": 9299,
+    "asn_org": "Philippine Long Distance Telephone Company",
+    "sources_count": 12,
+    "first_seen": "2026-07-23T16:38:33.871Z",
+    "last_checked": "2026-09-22T04:31:35.312Z"
+  },
+  {
+    "protocol": "socks4",
     "ip": "180.191.22.50",
     "port": 4153,
     "url": "socks4://180.191.22.50:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2062,
-    "latency_median_ms": 1593,
-    "uptime_24h": 70,
-    "uptime_7d": 59.2,
-    "checks_7d": 745,
+    "latency_ms": 1051,
+    "latency_median_ms": 1129,
+    "uptime_24h": 60.2,
+    "uptime_7d": 60.6,
+    "checks_7d": 706,
     "exit_ip": "203.177.67.62",
     "exit_shared": 1,
     "country": "ph",
@@ -21,6 +45,6 @@
     "asn_org": "Globe Telecoms",
     "sources_count": 12,
     "first_seen": "2025-09-04T23:48:58.112Z",
-    "last_checked": "2026-09-21T04:30:49.164Z"
+    "last_checked": "2026-09-22T04:25:53.584Z"
   }
 ]

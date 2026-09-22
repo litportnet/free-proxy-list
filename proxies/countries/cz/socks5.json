@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "31.47.103.207",
+    "port": 1080,
+    "url": "socks5://31.47.103.207:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 970,
+    "latency_median_ms": 3289.5,
+    "uptime_24h": 16.7,
+    "uptime_7d": 15.6,
+    "checks_7d": 160,
+    "exit_ip": "31.47.103.207",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "Olomouc Region",
+    "city": "Mohelnice",
+    "timezone": "Europe/Prague",
+    "asn": 8251,
+    "asn_org": "FreeTel, s.r.o.",
+    "sources_count": 14,
+    "first_seen": "2026-09-17T05:31:54.290Z",
+    "last_checked": "2026-09-22T04:24:21.952Z"
+  }
+]

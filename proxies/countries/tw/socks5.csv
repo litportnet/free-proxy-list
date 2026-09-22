@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,104.238.220.231,1080,socks5://104.238.220.231:1080,elite,true,939,1539,61.7,50,82,89.117.42.92,2,tw,Taiwan,Taipei,Asia/Taipei,209854,Cyberzone S.A.,19,2026-05-13T13:35:28.076Z,2026-09-21T04:22:17.867Z
-socks5,45.74.31.25,4488,socks5://45.74.31.25:4488,elite,true,4291,5299,35.5,28.2,174,203.99.146.53,3,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,16,2026-09-16T03:18:05.440Z,2026-09-21T04:29:01.872Z
-socks5,45.74.31.42,7221,socks5://45.74.31.42:7221,elite,true,1663,2043.5,24,,36,203.99.146.53,3,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,9,2026-09-20T01:48:36.120Z,2026-09-21T04:28:44.528Z
-socks5,45.74.31.42,7137,socks5://45.74.31.42:7137,elite,true,3830,3336.5,26.9,,40,203.99.146.53,3,tw,Taipei,Banqiao,Asia/Taipei,150756,Floppy Ltd.,10,2026-09-20T01:48:36.120Z,2026-09-21T04:28:08.699Z
+socks5,104.238.220.231,1080,socks5://104.238.220.231:1080,elite,true,1942,2291,85.8,71.1,194,82.140.187.48,2,tw,Taiwan,Tainan,Asia/Taipei,209854,Cyberzone S.A.,19,2026-05-13T13:35:28.076Z,2026-09-22T04:32:12.358Z

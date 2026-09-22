@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,711,826,97,97.3,732,172.68.229.30,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-21T04:31:32.533Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,481,1106.5,32,19.2,156,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,12,2025-10-03T21:41:53.577Z,2026-09-21T04:25:19.225Z
+http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,727,750.5,95.6,97,866,172.69.43.202,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-22T04:30:19.920Z

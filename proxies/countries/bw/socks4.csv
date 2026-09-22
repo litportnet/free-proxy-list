@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.143.24.29,5678,socks4://83.143.24.29:5678,elite,false,4378,2331,48.3,44,630,83.143.24.29,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,13,2025-09-04T23:48:58.196Z,2026-09-21T04:23:12.677Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10812,socks5://5.75.133.113:10812,elite,false,7592,2655,69.5,74.7,431,103.108.94.58,1,nz,Auckland,Auckland,Pacific/Auckland,133480,5G NETWORK OPERATIONS PTY LTD,18,2026-09-16T21:27:40.844Z,2026-09-21T04:26:34.175Z

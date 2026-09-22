@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "185.251.38.116",
+    "port": 3611,
+    "url": "socks5://185.251.38.116:3611",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3524,
+    "latency_median_ms": 1996,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 45,
+    "exit_ip": "185.251.38.116",
+    "exit_shared": 2,
+    "country": "by",
+    "region": "Minsk City",
+    "city": "Minsk",
+    "timezone": "Europe/Minsk",
+    "asn": 215272,
+    "asn_org": "Yedinyye Resheniya LLC",
+    "sources_count": 7,
+    "first_seen": "2026-09-10T00:07:04.269Z",
+    "last_checked": "2026-09-22T04:34:26.099Z"
+  }
+]

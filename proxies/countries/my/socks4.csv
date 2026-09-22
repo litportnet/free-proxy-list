@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.117.228.97,4145,socks4://45.117.228.97:4145,elite,false,1292,2271.5,42.9,42.8,608,103.58.16.106,1,my,Selangor,Sepang,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,13,2025-09-05T20:06:24.532Z,2026-09-21T04:25:57.003Z
+socks4,175.139.201.193,4153,socks4://175.139.201.193:4153,elite,false,1223,2209,49.3,33.9,478,175.139.201.193,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,13,2025-09-04T23:49:05.970Z,2026-09-22T04:30:04.087Z

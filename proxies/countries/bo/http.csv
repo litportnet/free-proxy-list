@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.28.186,999,http://190.181.28.186:999,transparent,false,5178,4772,25,13.9,231,190.181.28.186,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,26210,AXS Bolivia S. A.,22,2026-07-31T06:15:29.295Z,2026-09-21T04:23:43.074Z
+http,158.172.153.36,999,http://158.172.153.36:999,transparent,false,3284,3967.5,20,13.9,173,158.172.153.36,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,20,2025-12-29T19:57:24.905Z,2026-09-22T04:25:42.030Z

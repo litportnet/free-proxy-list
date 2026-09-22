@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,174.138.165.213,20004,http://174.138.165.213:20004,elite,false,4654,5798.5,14.3,16.2,111,64.147.89.175,1,bm,Paget,Paget Parish,Atlantic/Bermuda,32020,Transact Ltd.,3,2026-05-11T01:02:33.138Z,2026-09-21T04:27:19.957Z

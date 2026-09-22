@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,609,615,100,98.8,341,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-21T04:31:52.540Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,573,537.5,98.5,95,980,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-09-05T06:58:13.976Z,2026-09-21T04:22:13.691Z
-http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,2122,1890,95.3,89.9,808,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-21T04:27:25.201Z
-http,46.226.165.235,3128,http://46.226.165.235:3128,elite,false,2059,2059,15.8,,19,46.226.165.235,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,9,2026-09-20T13:54:57.101Z,2026-09-21T04:31:34.107Z
-http,62.60.231.45,10809,http://62.60.231.45:10809,elite,true,9250,6454,83.8,,37,62.60.231.45,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,16,2026-09-20T18:57:45.187Z,2026-09-21T04:24:07.607Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,634,648,100,99.2,485,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-22T04:31:27.425Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,1552,1552,100,97.6,981,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-09-05T06:58:13.976Z,2026-09-22T04:30:47.871Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,4738,3702,76.5,90.3,888,85.209.156.148,1,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-22T04:29:43.321Z
+http,77.221.136.53,8080,http://77.221.136.53:8080,transparent,true,4018,5764,13.9,15.1,93,77.221.136.53,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,19,2026-08-25T22:01:57.055Z,2026-09-22T04:31:14.160Z

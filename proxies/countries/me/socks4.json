@@ -6,11 +6,11 @@
     "url": "socks4://109.72.100.113:48293",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1771,
-    "latency_median_ms": 717,
-    "uptime_24h": 63.5,
-    "uptime_7d": 58,
-    "checks_7d": 481,
+    "latency_ms": 2835,
+    "latency_median_ms": 1277.5,
+    "uptime_24h": 67.8,
+    "uptime_7d": 61.5,
+    "checks_7d": 465,
     "exit_ip": "109.72.100.113",
     "exit_shared": 1,
     "country": "me",
@@ -21,6 +21,6 @@
     "asn_org": "Drustvo za telekomunikacije \"MTEL\" DOO",
     "sources_count": 15,
     "first_seen": "2025-12-14T12:16:49.089Z",
-    "last_checked": "2026-09-21T04:25:26.097Z"
+    "last_checked": "2026-09-22T04:26:10.221Z"
   }
 ]

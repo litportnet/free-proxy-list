@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,150.109.247.86,8443,socks5://150.109.247.86:8443,elite,true,1144,1137,100,98.7,518,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-08-21T09:05:16.715Z,2026-09-21T04:29:28.953Z
-socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,true,5098,3841.5,46.8,28.1,456,104.28.243.30,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",18,2026-03-18T13:34:09.638Z,2026-09-21T04:23:51.465Z
+socks5,150.109.247.86,8443,socks5://150.109.247.86:8443,elite,true,1116,1185.5,98.6,98.6,656,150.109.247.86,2,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-08-21T09:05:16.715Z,2026-09-22T04:24:10.880Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1747,1879.5,86,81.7,825,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,21,2025-09-04T23:50:06.749Z,2026-09-22T04:31:07.328Z
+socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,false,3546,3135.5,26.4,27.8,403,104.28.211.30,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",18,2026-03-18T13:34:09.638Z,2026-09-22T04:26:17.513Z
+socks5,43.155.215.149,20000,socks5://43.155.215.149:20000,elite,true,1487,1241,15.8,19.8,303,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",18,2026-07-17T03:19:01.932Z,2026-09-22T04:30:27.359Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "111.119.162.248",
+    "port": 10922,
+    "url": "socks5://111.119.162.248:10922",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6970,
+    "latency_median_ms": 3828,
+    "uptime_24h": 14.3,
+    "uptime_7d": 18.7,
+    "checks_7d": 214,
+    "exit_ip": "47.91.110.1",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Dubai",
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "asn": 45102,
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "sources_count": 15,
+    "first_seen": "2026-08-15T15:31:41.909Z",
+    "last_checked": "2026-09-22T04:30:07.908Z"
+  }
+]

@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,false,2559,551,81.4,80.1,307,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,8,2026-06-25T08:39:56.195Z,2026-09-21T04:23:54.025Z
-socks5,176.9.107.170,1081,socks5://176.9.107.170:1081,elite,true,672,716,83.3,73.3,341,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,19,2026-06-25T09:36:53.359Z,2026-09-21T04:29:11.395Z
-http,195.144.24.57,3128,http://195.144.24.57:3128,elite,true,572,599,100,,16,195.144.24.57,1,mk,Grad Skopje,Skopje,Europe/Skopje,210464,AVS ISP,10,2026-09-21T02:01:18.106Z,2026-09-21T04:28:01.768Z

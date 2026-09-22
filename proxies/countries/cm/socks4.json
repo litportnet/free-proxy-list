@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "41.216.232.213",
-    "port": 4153,
-    "url": "socks4://41.216.232.213:4153",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1214,
-    "latency_median_ms": 1708,
-    "uptime_24h": 65.3,
-    "uptime_7d": 51.6,
-    "checks_7d": 649,
-    "exit_ip": "217.14.84.154",
-    "exit_shared": 1,
-    "country": "cm",
-    "region": "Littoral",
-    "city": "Douala",
-    "timezone": "Africa/Douala",
-    "asn": 37672,
-    "asn_org": "INQ DIGITAL CAMEROON SA",
-    "sources_count": 13,
-    "first_seen": "2025-09-04T23:48:59.324Z",
-    "last_checked": "2026-09-21T04:26:05.887Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "143.105.153.7",
     "port": 1080,
     "url": "socks4://143.105.153.7:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1089,
-    "latency_median_ms": 2113.5,
-    "uptime_24h": 56.1,
+    "latency_ms": 8187,
+    "latency_median_ms": 3111,
+    "uptime_24h": 46.5,
     "uptime_7d": 46.5,
-    "checks_7d": 170,
+    "checks_7d": 241,
     "exit_ip": "143.105.153.7",
     "exit_shared": 1,
     "country": "cm",
@@ -45,6 +21,6 @@
     "asn_org": "Space Exploration Technologies Corporation",
     "sources_count": 19,
     "first_seen": "2026-09-18T14:49:23.354Z",
-    "last_checked": "2026-09-21T04:30:59.643Z"
+    "last_checked": "2026-09-22T04:31:11.535Z"
   }
 ]

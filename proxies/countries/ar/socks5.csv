@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.97.37.159,1080,socks5://66.97.37.159:1080,elite,true,1024,1039.5,55.2,58.1,124,66.97.37.159,2,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,27823,Dattatec.com,13,2026-09-19T03:37:02.259Z,2026-09-21T04:32:15.084Z
-socks5,45.74.31.30,6259,socks5://45.74.31.30:6259,elite,true,1356,2578,60.6,54.7,117,181.80.150.119,2,ar,Buenos Aires,La Plata,America/Argentina/Buenos_Aires,7303,Telecom Argentina S.A.,2,2026-09-18T09:46:42.694Z,2026-09-21T04:30:02.339Z
-socks5,45.74.31.22,14852,socks5://45.74.31.22:14852,elite,false,3148,2605,75,,9,181.80.150.119,2,ar,Buenos Aires,La Plata,America/Argentina/Buenos_Aires,7303,Telecom Argentina S.A.,6,2026-09-17T00:29:11.414Z,2026-09-21T04:31:21.565Z
+socks5,5.75.133.113,10807,socks5://5.75.133.113:10807,elite,true,7656,2012.5,83.3,,12,64.40.151.195,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,396356,Latitude.sh,8,2026-09-22T02:14:04.469Z,2026-09-22T04:33:50.104Z

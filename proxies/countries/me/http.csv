@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.102.224.132,32650,http://94.102.224.132:32650,elite,true,3559,4219.5,14.3,,40,94.102.224.132,1,me,Budva,Budva,Europe/Podgorica,47881,One Crna Gora DOO,12,2025-11-11T04:07:08.927Z,2026-09-21T04:29:30.111Z

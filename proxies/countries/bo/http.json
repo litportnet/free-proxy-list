@@ -1,26 +1,26 @@
 [
   {
     "protocol": "http",
-    "ip": "190.181.28.186",
+    "ip": "158.172.153.36",
     "port": 999,
-    "url": "http://190.181.28.186:999",
+    "url": "http://158.172.153.36:999",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 5178,
-    "latency_median_ms": 4772,
-    "uptime_24h": 25,
+    "latency_ms": 3284,
+    "latency_median_ms": 3967.5,
+    "uptime_24h": 20,
     "uptime_7d": 13.9,
-    "checks_7d": 231,
-    "exit_ip": "190.181.28.186",
+    "checks_7d": 173,
+    "exit_ip": "158.172.153.36",
     "exit_shared": 1,
     "country": "bo",
     "region": "Santa Cruz Department",
     "city": "Santa Cruz de la Sierra",
     "timezone": "America/La_Paz",
-    "asn": 26210,
-    "asn_org": "AXS Bolivia S. A.",
-    "sources_count": 22,
-    "first_seen": "2026-07-31T06:15:29.295Z",
-    "last_checked": "2026-09-21T04:23:43.074Z"
+    "asn": 27882,
+    "asn_org": "Telefónica Celular de Bolivia S.A.",
+    "sources_count": 20,
+    "first_seen": "2025-12-29T19:57:24.905Z",
+    "last_checked": "2026-09-22T04:25:42.030Z"
   }
 ]

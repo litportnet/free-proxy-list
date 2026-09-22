@@ -6,12 +6,12 @@
     "url": "socks5://57.128.231.218:1000",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1148,
-    "latency_median_ms": 1142.5,
-    "uptime_24h": 100,
-    "uptime_7d": 83.5,
-    "checks_7d": 904,
-    "exit_ip": "195.47.194.140",
+    "latency_ms": 4134,
+    "latency_median_ms": 1223,
+    "uptime_24h": 84.2,
+    "uptime_7d": 87.1,
+    "checks_7d": 883,
+    "exit_ip": "195.47.194.181",
     "exit_shared": 2,
     "country": "cy",
     "region": "Larnaka",
@@ -21,6 +21,6 @@
     "asn_org": "HostRoyale Technologies Pvt Ltd",
     "sources_count": 18,
     "first_seen": "2026-09-12T12:13:57.336Z",
-    "last_checked": "2026-09-21T04:28:21.463Z"
+    "last_checked": "2026-09-22T04:30:40.511Z"
   }
 ]
