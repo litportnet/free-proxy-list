@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.165.185.211,4153,socks4://213.165.185.211:4153,elite,false,7945,815.5,67.4,59.6,659,213.165.185.211,1,mt,In-Naxxar,Naxxar,Europe/Malta,12709,Melita Limited,1,2026-03-17T17:23:31.260Z,2026-09-22T04:29:07.566Z

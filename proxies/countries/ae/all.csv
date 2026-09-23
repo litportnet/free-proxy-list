@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,922,919.5,100,99.7,997,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-07T07:15:56.592Z,2026-09-22T04:31:14.676Z
-socks5,111.119.162.248,10922,socks5://111.119.162.248:10922,elite,false,6970,3828,14.3,18.7,214,47.91.110.1,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-08-15T15:31:41.909Z,2026-09-22T04:30:07.908Z
+socks5,89.36.162.135,1080,socks5://89.36.162.135:1080,elite,true,1289,1292,100,100,51,89.36.162.124,2,ae,Fujairah,Fujairah,Asia/Dubai,8849,Melbikomas UAB,11,2026-09-22T20:04:33.709Z,2026-09-23T04:26:11.014Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,858,859,97.1,99.4,992,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-09-23T04:26:39.110Z
+socks4,89.36.162.135,1080,socks4://89.36.162.135:1080,elite,false,1092,1078.5,100,,45,89.36.162.124,2,ae,Fujairah,Fujairah,Asia/Dubai,8849,Melbikomas UAB,9,2026-09-22T21:05:20.132Z,2026-09-23T04:30:32.212Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.113.249.14,88,http://190.113.249.14:88,transparent,true,5307,5114.5,34,38.6,254,190.113.249.14,1,cr,Alajuela Province,Zarcero,America/Costa_Rica,262241,COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.,24,2026-06-05T19:32:16.493Z,2026-09-22T04:25:49.428Z

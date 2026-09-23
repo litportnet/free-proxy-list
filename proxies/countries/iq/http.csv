@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.135.69.34,80,http://185.135.69.34:80,transparent,false,359,360.5,98.6,93.3,745,185.135.69.34,1,iq,Baghdad,Baghdad,Asia/Baghdad,205889,Giga Nineveh for internet services Ltd,16,2025-12-06T17:01:45.042Z,2026-09-22T04:30:34.114Z
+http,185.166.27.208,2020,http://185.166.27.208:2020,transparent,false,3646,4322,34,37.3,477,185.166.27.208,1,iq,Duhok,Dihok,Asia/Baghdad,207097,"Online Company for Technological Information, Supply of Electronic Equipment and Internet Services Through Wifi Ltd.",24,2026-08-27T11:21:23.091Z,2026-09-23T04:25:23.267Z

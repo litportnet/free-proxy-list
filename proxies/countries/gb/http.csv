@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,727,750.5,95.6,97,866,172.69.43.202,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-15T22:15:47.054Z,2026-09-22T04:30:19.920Z
+http,57.128.183.212,21,http://57.128.183.212:21,anonymous,true,3615,5544,12.5,,40,57.128.183.212,1,gb,England,Bexley,Europe/London,16276,OVH SAS,19,2026-08-31T01:08:18.040Z,2026-09-23T04:31:06.574Z

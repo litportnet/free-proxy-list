@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,634,648,100,99.2,485,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-22T04:31:27.425Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,1552,1552,100,97.6,981,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-09-05T06:58:13.976Z,2026-09-22T04:30:47.871Z
-http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,4738,3702,76.5,90.3,888,85.209.156.148,1,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,21,2026-08-25T00:50:34.299Z,2026-09-22T04:29:43.321Z
-http,77.221.136.53,8080,http://77.221.136.53:8080,transparent,true,4018,5764,13.9,15.1,93,77.221.136.53,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,19,2026-08-25T22:01:57.055Z,2026-09-22T04:31:14.160Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,616,616,99.3,99.2,628,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,2,2026-08-12T00:47:17.694Z,2026-09-23T04:28:54.199Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,574,543,99.3,98,981,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-09-23T04:28:22.613Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,2108,3241,70.8,87.2,857,85.209.156.148,1,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,22,2026-08-25T00:50:34.299Z,2026-09-23T04:28:02.509Z
+http,135.136.189.169,1080,http://135.136.189.169:1080,elite,true,2593,1062.5,72,73.7,194,135.136.189.169,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,5,2026-08-27T08:20:03.274Z,2026-09-23T04:31:07.618Z
+http,65.108.103.19,80,http://65.108.103.19:80,elite,false,2143,4425.5,39.7,30.4,316,65.108.103.19,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,19,2025-12-06T19:02:50.065Z,2026-09-23T04:28:12.649Z

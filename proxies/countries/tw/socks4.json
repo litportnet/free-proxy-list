@@ -6,12 +6,12 @@
     "url": "socks4://104.238.220.231:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 701,
-    "latency_median_ms": 750,
-    "uptime_24h": 91.1,
-    "uptime_7d": 79.3,
-    "checks_7d": 212,
-    "exit_ip": "82.140.187.48",
+    "latency_ms": 1598,
+    "latency_median_ms": 732.5,
+    "uptime_24h": 97.9,
+    "uptime_7d": 86.7,
+    "checks_7d": 352,
+    "exit_ip": "82.140.187.13",
     "exit_shared": 2,
     "country": "tw",
     "region": "Taiwan",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Taipei",
     "asn": 209854,
     "asn_org": "Cyberzone S.A.",
-    "sources_count": 5,
+    "sources_count": 8,
     "first_seen": "2026-05-13T14:29:58.520Z",
-    "last_checked": "2026-09-22T04:28:12.282Z"
+    "last_checked": "2026-09-23T04:25:09.703Z"
   }
 ]

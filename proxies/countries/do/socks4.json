@@ -1,16 +1,40 @@
 [
   {
     "protocol": "socks4",
+    "ip": "190.93.188.198",
+    "port": 1080,
+    "url": "socks4://190.93.188.198:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 340,
+    "latency_median_ms": 353,
+    "uptime_24h": 38.5,
+    "uptime_7d": 31.1,
+    "checks_7d": 212,
+    "exit_ip": "190.93.188.194",
+    "exit_shared": 1,
+    "country": "do",
+    "region": "Santiago Province",
+    "city": "Santiago de los Caballeros",
+    "timezone": "America/Santo_Domingo",
+    "asn": 269908,
+    "asn_org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
+    "sources_count": 7,
+    "first_seen": "2026-07-19T10:44:15.723Z",
+    "last_checked": "2026-09-23T04:22:35.095Z"
+  },
+  {
+    "protocol": "socks4",
     "ip": "154.88.189.19",
     "port": 5678,
     "url": "socks4://154.88.189.19:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 366,
-    "latency_median_ms": 376,
-    "uptime_24h": 32.3,
-    "uptime_7d": 27.9,
-    "checks_7d": 251,
+    "latency_ms": 385,
+    "latency_median_ms": 380,
+    "uptime_24h": 28.8,
+    "uptime_7d": 29.6,
+    "checks_7d": 291,
     "exit_ip": "154.88.189.18",
     "exit_shared": 1,
     "country": "do",
@@ -21,6 +45,6 @@
     "asn_org": "TELEMARCH S.R.L",
     "sources_count": 9,
     "first_seen": "2026-08-28T05:31:34.724Z",
-    "last_checked": "2026-09-22T04:32:36.674Z"
+    "last_checked": "2026-09-23T04:27:44.006Z"
   }
 ]

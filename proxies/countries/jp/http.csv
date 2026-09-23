@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.146.163.31,80,http://45.146.163.31:80,elite,false,724,669,100,100,1011,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,17,2025-09-06T05:34:51.856Z,2026-09-22T04:28:08.390Z
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,622,907.5,97.8,99.1,988,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-09-22T04:28:40.453Z
+http,45.146.163.31,80,http://45.146.163.31:80,elite,false,612,644,100,100,1011,45.146.163.31,1,jp,Tokyo,Tokyo,Asia/Tokyo,38136,Akari Networks,18,2025-09-06T05:34:51.856Z,2026-09-23T04:27:41.911Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,627,779,90.7,98.1,974,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-09-23T04:31:14.424Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,693,1457.5,52.8,57.9,520,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-09-23T04:25:32.428Z
+http,140.227.61.201,3128,http://140.227.61.201:3128,transparent,true,1667,2636.5,34.7,27.6,428,140.227.61.201,1,jp,Hyōgo,Sasayama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-09-23T04:23:01.916Z
+http,139.162.89.198,3128,http://139.162.89.198:3128,transparent,true,5149,5643.5,31.3,23.9,222,139.162.89.198,1,jp,Tokyo,Tokyo,Asia/Tokyo,63949,Akamai Connected Cloud,19,2026-08-24T16:47:09.962Z,2026-09-23T04:31:11.295Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "85.117.32.166",
+    "port": 4153,
+    "url": "socks4://85.117.32.166:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3849,
+    "latency_median_ms": 1321.5,
+    "uptime_24h": 64.7,
+    "uptime_7d": 58.2,
+    "checks_7d": 627,
+    "exit_ip": "85.117.32.166",
+    "exit_shared": 1,
+    "country": "ge",
+    "region": "Tbilisi",
+    "city": "Tbilisi",
+    "timezone": "Asia/Tbilisi",
+    "asn": 20771,
+    "asn_org": "Caucasus Online Ltd.",
+    "sources_count": 20,
+    "first_seen": "2026-07-04T18:38:41.976Z",
+    "last_checked": "2026-09-23T04:31:42.424Z"
+  }
+]

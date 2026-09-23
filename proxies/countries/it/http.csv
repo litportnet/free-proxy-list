@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,6491,5754.5,45.6,42.3,317,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,17,2025-09-10T21:05:12.312Z,2026-09-22T04:25:23.842Z
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,579,552.5,100,,14,104.28.207.158,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",2,2026-09-22T02:17:06.569Z,2026-09-22T04:26:34.227Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,528,532,100,100,158,104.28.207.158,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",3,2026-09-22T02:17:06.569Z,2026-09-23T04:29:27.356Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,566,571.5,64.2,72.4,243,87.121.148.126,1,it,Lombardy,Brescia,Europe/Rome,210218,Open Fiber S.P.A.,9,2025-10-16T01:51:36.355Z,2026-09-23T04:30:36.994Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,3638,1723,25.4,20.1,259,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,7,2026-03-19T05:42:49.593Z,2026-09-23T04:25:05.545Z

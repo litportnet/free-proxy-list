@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "196.1.93.10",
+    "ip": "196.1.97.198",
     "port": 80,
-    "url": "http://196.1.93.10:80",
+    "url": "http://196.1.97.198:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1802,
-    "latency_median_ms": 2395,
-    "uptime_24h": 60.2,
-    "uptime_7d": 67.4,
-    "checks_7d": 686,
-    "exit_ip": "196.1.93.10",
+    "latency_ms": 5509,
+    "latency_median_ms": 4828,
+    "uptime_24h": 59.6,
+    "uptime_7d": 67.5,
+    "checks_7d": 612,
+    "exit_ip": "196.1.97.198",
     "exit_shared": 1,
     "country": "sn",
     "region": "Dakar",
@@ -19,9 +19,9 @@
     "timezone": "Africa/Dakar",
     "asn": 329407,
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
-    "sources_count": 10,
-    "first_seen": "2025-09-04T23:49:29.089Z",
-    "last_checked": "2026-09-22T04:28:30.043Z"
+    "sources_count": 19,
+    "first_seen": "2025-12-06T18:03:11.613Z",
+    "last_checked": "2026-09-23T04:31:05.495Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://196.1.95.124:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3762,
-    "latency_median_ms": 2232.5,
-    "uptime_24h": 74.8,
-    "uptime_7d": 66.4,
-    "checks_7d": 715,
+    "latency_ms": 4996,
+    "latency_median_ms": 689,
+    "uptime_24h": 45.9,
+    "uptime_7d": 67.1,
+    "checks_7d": 683,
     "exit_ip": "196.1.95.124",
     "exit_shared": 1,
     "country": "sn",
@@ -43,8 +43,8 @@
     "timezone": "Africa/Dakar",
     "asn": 329407,
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
-    "sources_count": 8,
+    "sources_count": 9,
     "first_seen": "2025-09-04T23:49:35.054Z",
-    "last_checked": "2026-09-22T04:25:29.187Z"
+    "last_checked": "2026-09-23T04:22:45.910Z"
   }
 ]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.140.137.151,80,http://34.140.137.151:80,elite,false,460,1417,50,55.6,565,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,17,2025-10-14T21:28:47.989Z,2026-09-22T04:27:52.495Z
+http,128.90.145.206,8118,http://128.90.145.206:8118,elite,false,907,800,17.3,17,53,128.90.145.206,1,be,Brussels Capital,Brussels,Europe/Brussels,22363,"Powerhouse Management, Inc.",14,2026-09-22T04:15:04.987Z,2026-09-23T04:23:22.249Z

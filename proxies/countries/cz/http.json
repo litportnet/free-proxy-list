@@ -6,11 +6,11 @@
     "url": "http://31.31.74.185:9898",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 5521,
-    "latency_median_ms": 1806,
-    "uptime_24h": 82.9,
-    "uptime_7d": 94.1,
-    "checks_7d": 420,
+    "latency_ms": 549,
+    "latency_median_ms": 1327.5,
+    "uptime_24h": 88.1,
+    "uptime_7d": 92.7,
+    "checks_7d": 545,
     "exit_ip": "31.31.74.185",
     "exit_shared": 1,
     "country": "cz",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Prague",
     "asn": 197019,
     "asn_org": "WEDOS Internet, a.s.",
-    "sources_count": 16,
+    "sources_count": 18,
     "first_seen": "2026-08-30T01:54:39.839Z",
-    "last_checked": "2026-09-22T04:34:02.058Z"
+    "last_checked": "2026-09-23T04:25:34.575Z"
   }
 ]

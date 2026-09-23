@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "43.106.60.21",
+    "port": 1080,
+    "url": "socks5://43.106.60.21:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1502,
+    "latency_median_ms": 1656,
+    "uptime_24h": 55.9,
+    "uptime_7d": 53.1,
+    "checks_7d": 605,
+    "exit_ip": "1.37.70.231",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "National Capital Region",
+    "city": "Manila",
+    "timezone": "Asia/Manila",
+    "asn": 4775,
+    "asn_org": "Globe Telecoms",
+    "sources_count": 19,
+    "first_seen": "2026-05-13T04:35:06.541Z",
+    "last_checked": "2026-09-23T04:22:29.787Z"
+  }
+]

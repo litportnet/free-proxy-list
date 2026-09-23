@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,41.70.106.1,5678,socks4://41.70.106.1:5678,elite,false,2834,1818,60,50.6,563,41.70.9.10,1,mw,Southern Region,Blantyre,Africa/Blantyre,37215,Malawi Research and Education Network - MAREN,20,2025-09-04T23:49:00.291Z,2026-09-23T04:26:43.296Z

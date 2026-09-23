@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "147.45.66.116",
+    "port": 1082,
+    "url": "socks5://147.45.66.116:1082",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3946,
+    "latency_median_ms": 3916,
+    "uptime_24h": 60.9,
+    "uptime_7d": 58,
+    "checks_7d": 636,
+    "exit_ip": "147.45.66.116",
+    "exit_shared": 1,
+    "country": "tr",
+    "region": "Istanbul",
+    "city": "Istanbul",
+    "timezone": "Europe/Istanbul",
+    "asn": 215540,
+    "asn_org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "sources_count": 20,
+    "first_seen": "2026-07-14T07:46:06.191Z",
+    "last_checked": "2026-09-23T04:29:43.877Z"
+  }
+]

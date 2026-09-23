@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "159.148.146.65",
+    "port": 5678,
+    "url": "socks4://159.148.146.65:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7961,
+    "latency_median_ms": 1716.5,
+    "uptime_24h": 18.2,
+    "uptime_7d": 18,
+    "checks_7d": 167,
+    "exit_ip": "159.148.146.65",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 2588,
+    "asn_org": "SIA BITE Latvija",
+    "sources_count": 18,
+    "first_seen": "2025-09-04T23:49:06.204Z",
+    "last_checked": "2026-09-23T04:23:39.802Z"
+  }
+]

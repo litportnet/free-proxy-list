@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,178.48.13.177,80,socks4://178.48.13.177:80,elite,false,862,745.5,65.1,42.8,339,178.48.13.177,1,hu,Veszprém,Herend,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,10,2026-07-05T01:42:54.951Z,2026-09-22T04:28:47.012Z
+http,95.214.123.143,8080,http://95.214.123.143:8080,transparent,false,3997,2504.5,23.5,41.4,169,95.214.123.143,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,13,2026-06-21T01:44:07.335Z,2026-09-23T04:28:12.651Z
+socks4,89.132.170.211,4145,socks4://89.132.170.211:4145,elite,false,1734,2085.5,27.9,25.1,346,89.132.170.211,1,hu,Budapest,Budapest,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,21,2026-07-07T04:10:22.531Z,2026-09-23T04:27:24.387Z

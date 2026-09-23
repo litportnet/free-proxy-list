@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "157.90.113.23",
+    "port": 9052,
+    "url": "socks4://157.90.113.23:9052",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 615,
+    "latency_median_ms": 620,
+    "uptime_24h": 76.4,
+    "uptime_7d": 68.8,
+    "checks_7d": 685,
+    "exit_ip": "31.58.214.139",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "Maidenhead",
+    "timezone": "Europe/London",
+    "asn": 20860,
+    "asn_org": "IOMART CLOUD SERVICES LIMITED",
+    "sources_count": 19,
+    "first_seen": "2026-08-01T19:38:38.199Z",
+    "last_checked": "2026-09-23T04:25:20.127Z"
+  }
+]

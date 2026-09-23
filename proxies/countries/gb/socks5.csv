@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,670,658,100,100,295,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-20T02:49:10.735Z,2026-09-22T04:29:29.504Z
-socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,653,650.5,98.6,99.3,436,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,18,2026-09-19T02:36:27.799Z,2026-09-22T04:31:16.259Z
-socks5,45.74.31.30,32245,socks5://45.74.31.30:32245,elite,false,9200,3627,13.3,14.3,77,209.42.18.223,2,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,13,2026-09-01T23:31:29.411Z,2026-09-22T04:24:54.678Z
-socks5,45.74.31.23,5749,socks5://45.74.31.23:5749,elite,true,1958,1445,100,,2,209.42.18.223,2,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,1,2026-09-22T04:15:12.344Z,2026-09-22T04:25:34.383Z
+socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,648,644,99.3,99.8,437,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-20T02:49:10.735Z,2026-09-23T04:25:48.654Z
+socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,635,638,100,99.5,578,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-19T02:36:27.799Z,2026-09-23T04:28:04.662Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,937,1177.5,53.9,46,567,31.58.214.171,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-09-23T04:23:30.031Z
+socks5,45.74.31.30,16835,socks5://45.74.31.30:16835,elite,false,8578,3157,12.5,16.8,95,91.204.209.37,2,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,16,2026-09-19T13:42:17.167Z,2026-09-23T04:21:22.114Z
+socks5,45.74.31.23,8217,socks5://45.74.31.23:8217,elite,false,3549,3947.5,24.4,,45,91.204.209.37,2,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,9,2026-09-22T07:16:53.015Z,2026-09-23T04:26:32.304Z

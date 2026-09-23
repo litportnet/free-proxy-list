@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "165.16.45.200",
+    "port": 1080,
+    "url": "socks4://165.16.45.200:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 936,
+    "latency_median_ms": 1006,
+    "uptime_24h": 55.1,
+    "uptime_7d": 43.6,
+    "checks_7d": 528,
+    "exit_ip": "165.16.45.200",
+    "exit_shared": 1,
+    "country": "ly",
+    "region": "Surt",
+    "city": "Sirte",
+    "timezone": "Africa/Tripoli",
+    "asn": 37284,
+    "asn_org": "Aljeel Aljadeed For Technology",
+    "sources_count": 16,
+    "first_seen": "2026-08-13T06:03:26.816Z",
+    "last_checked": "2026-09-23T04:29:43.847Z"
+  }
+]

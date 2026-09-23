@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,176.88.166.190,5678,socks4://176.88.166.190:5678,elite,false,3827,1307.5,41.3,45.5,582,176.88.166.190,1,tr,Istanbul,Maltepe,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,19,2025-09-04T23:49:01.725Z,2026-09-22T04:25:43.650Z
+socks4,88.245.138.87,1080,socks4://88.245.138.87:1080,elite,false,3847,1350,72.6,67,694,88.245.138.87,1,tr,Uşak,Uşak,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,1,2026-03-17T17:23:30.403Z,2026-09-23T04:29:32.138Z

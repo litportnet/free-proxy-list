@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "154.0.153.87",
+    "port": 8080,
+    "url": "http://154.0.153.87:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4286,
+    "latency_median_ms": 3726.5,
+    "uptime_24h": 19.5,
+    "uptime_7d": 14,
+    "checks_7d": 164,
+    "exit_ip": "154.0.153.87",
+    "exit_shared": 1,
+    "country": "tz",
+    "region": "Mwanza",
+    "city": "Mwanza",
+    "timezone": "Africa/Dar_es_Salaam",
+    "asn": 36909,
+    "asn_org": "Habari Node Public Limited",
+    "sources_count": 11,
+    "first_seen": "2026-05-06T07:01:22.967Z",
+    "last_checked": "2026-09-23T04:25:16.935Z"
+  }
+]

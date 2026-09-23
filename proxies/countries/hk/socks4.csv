@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,38.190.208.53,1080,socks4://38.190.208.53:1080,elite,false,1069,1080.5,80.8,83.8,531,38.190.208.53,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,133199,SonderCloud Limited,9,2026-09-17T09:34:00.714Z,2026-09-22T04:30:38.366Z
-socks4,107.149.92.23,8443,socks4://107.149.92.23:8443,elite,false,1150,1155.5,78.6,68.8,157,107.149.92.23,2,hk,Islands,Tung Chung,Asia/Hong_Kong,134365,"Ansheng Network Technology Co., Limited",19,2026-09-20T06:51:17.106Z,2026-09-22T04:31:27.948Z
+socks4,36.155.23.163,10808,socks4://36.155.23.163:10808,elite,false,5797,4309,70.2,87,874,156.59.17.27,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,21859,Zenlayer Inc,19,2026-09-11T14:02:13.847Z,2026-09-23T04:25:12.257Z
+socks4,38.190.208.53,1080,socks4://38.190.208.53:1080,elite,false,1791,1478,78.1,82.8,644,38.190.208.53,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,133199,SonderCloud Limited,9,2026-09-17T09:34:00.714Z,2026-09-23T04:21:56.761Z
+socks4,165.154.20.187,10808,socks4://165.154.20.187:10808,elite,false,6143,4242.5,42.9,48.5,581,165.154.20.187,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-08-10T03:23:28.713Z,2026-09-23T04:27:57.287Z

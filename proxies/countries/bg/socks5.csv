@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,false,7944,1915,66,59.2,588,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,21,2025-09-04T23:48:55.053Z,2026-09-23T04:20:32.044Z
+socks5,45.74.31.30,11736,socks5://45.74.31.30:11736,elite,false,4875,3413,29.4,14.4,90,78.128.76.254,2,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,15,2026-09-13T20:30:47.294Z,2026-09-23T04:25:05.021Z
+socks5,45.74.31.25,5433,socks5://45.74.31.25:5433,elite,true,4119,4166,100,,42,78.128.76.254,2,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,12,2026-09-20T00:48:10.565Z,2026-09-23T04:28:03.604Z

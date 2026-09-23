@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.103.120.48,80,http://91.103.120.48:80,elite,false,837,789.5,100,100,1006,91.103.120.59,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,215355,Alice Network,9,2026-08-30T23:07:01.812Z,2026-09-22T04:31:20.027Z
-http,203.19.38.114,1080,http://203.19.38.114:1080,elite,false,1094,1083,100,99.9,1002,203.19.38.114,1,hk,Islands,Tung Chung,Asia/Hong_Kong,23764,CTGNet,1,2026-03-17T17:23:32.537Z,2026-09-22T04:26:01.733Z
-http,47.243.92.199,3128,http://47.243.92.199:3128,transparent,false,2151,835.5,98.6,99.7,999,47.243.92.199,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,45102,"Alibaba (US) Technology Co., Ltd.",19,2025-09-06T06:34:00.181Z,2026-09-22T04:32:15.566Z
-http,156.251.19.34,80,http://156.251.19.34:80,elite,false,809,863,100,,29,156.251.19.34,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,399077,Tcloudnet,2,2025-12-22T22:04:14.558Z,2026-09-22T04:24:52.124Z
+http,203.19.38.114,1080,http://203.19.38.114:1080,elite,false,1172,1098.5,100,99.8,1002,203.19.38.114,1,hk,Islands,Tung Chung,Asia/Hong_Kong,23764,CTGNet,19,2025-09-10T20:04:01.621Z,2026-09-23T04:29:06.361Z
+http,91.103.120.48,80,http://91.103.120.48:80,elite,false,1663,2640.5,93.1,99.1,992,91.103.120.59,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,215355,Alice Network,10,2026-08-30T23:07:01.812Z,2026-09-23T04:26:05.046Z
+http,47.243.92.199,3128,http://47.243.92.199:3128,transparent,false,865,869.5,90.8,98.6,987,47.243.92.199,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T06:34:00.181Z,2026-09-23T04:21:50.666Z
+http,39.109.113.97,4090,http://39.109.113.97:4090,elite,false,1454,1191.5,89.7,87.5,850,39.109.113.97,1,hk,Islands,Tung Chung,Asia/Hong_Kong,142403,YISU CLOUD LTD,17,2026-01-03T04:27:38.184Z,2026-09-23T04:27:48.286Z
+http,152.32.172.3,3128,http://152.32.172.3:3128,transparent,true,916,5684,43.8,18.4,76,152.32.172.3,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-09-18T02:43:02.344Z,2026-09-23T04:23:51.736Z

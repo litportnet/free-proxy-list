@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.61.151.123,80,http://176.61.151.123:80,elite,false,2019,2234,96.3,95.5,948,176.61.151.122,1,pt,Faro,Faro,Europe/Lisbon,33876,"DMNS - DOMINIOS, S.A.",1,2026-03-17T17:23:31.926Z,2026-09-22T04:30:42.613Z
+http,176.61.151.123,80,http://176.61.151.123:80,elite,false,2711,2288,81.7,94.2,923,176.61.151.122,1,pt,Faro,Faro,Europe/Lisbon,33876,"DMNS - DOMINIOS, S.A.",1,2026-03-17T17:23:31.926Z,2026-09-23T04:30:41.157Z

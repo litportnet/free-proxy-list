@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.42,7165,socks5://45.74.31.42:7165,elite,false,1383,3070.5,22.7,27.8,72,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,12,2026-09-19T20:45:56.670Z,2026-09-22T04:26:31.615Z
-socks5,45.74.31.30,6367,socks5://45.74.31.30:6367,elite,false,4418,5001.5,28.6,22.9,210,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,14,2026-09-12T22:19:08.072Z,2026-09-22T04:24:08.776Z
-socks5,45.74.31.30,5645,socks5://45.74.31.30:5645,elite,false,2704,3732.5,21.7,6.7,75,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,12,2026-09-12T00:07:29.816Z,2026-09-22T04:31:20.570Z
-socks5,45.74.31.22,47646,socks5://45.74.31.22:47646,elite,false,7617,4267,50,,12,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,5,2026-09-22T01:13:37.046Z,2026-09-22T04:24:50.075Z
+socks5,45.74.31.42,13883,socks5://45.74.31.42:13883,elite,true,2146,2102,100,,3,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,2,2026-09-23T04:08:49.675Z,2026-09-23T04:29:52.936Z
+socks5,45.74.31.30,6565,socks5://45.74.31.30:6565,elite,true,5179,5179,100,,1,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,2,2026-09-15T07:49:41.126Z,2026-09-23T04:26:13.152Z
+socks5,45.74.31.30,7718,socks5://45.74.31.30:7718,elite,true,5940,5190,100,,32,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,11,2026-09-13T07:23:57.583Z,2026-09-23T04:26:09.446Z
+socks5,45.74.31.30,8169,socks5://45.74.31.30:8169,elite,true,6776,6776,100,,1,62.219.91.13,4,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,8551,Bezeq International Ltd.,4,2026-09-11T22:06:26.007Z,2026-09-23T04:26:42.769Z

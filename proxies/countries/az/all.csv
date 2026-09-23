@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,180.149.45.180,3128,http://180.149.45.180:3128,elite,true,1347,1266.5,72,70.1,154,180.149.45.180,1,az,Baki,Baku,Asia/Baku,202422,G-Core Labs S.A.,20,2026-09-21T16:11:22.719Z,2026-09-23T04:23:01.879Z

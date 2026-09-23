@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,false,624,636.5,72.9,57.5,657,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,20,2026-08-14T19:21:43.347Z,2026-09-22T04:29:14.422Z
-socks4,185.197.74.126,2080,socks4://185.197.74.126:2080,elite,false,1794,2683,39.4,30.5,420,185.197.74.126,2,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,12,2026-06-25T18:45:00.146Z,2026-09-22T04:33:51.684Z
+socks4,57.128.231.218,1001,socks4://57.128.231.218:1001,elite,false,737,724.5,57.1,85.1,867,185.209.198.91,2,se,Stockholm,Stockholm,Europe/Stockholm,39351,31173 Services AB,21,2026-09-10T22:54:10.489Z,2026-09-23T04:26:52.639Z
+socks4,104.194.132.112,9054,socks4://104.194.132.112:9054,elite,false,3064,3064,100,,7,193.189.100.200,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,15,2026-07-20T13:58:39.302Z,2026-09-23T04:27:05.634Z
