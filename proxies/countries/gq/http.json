@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "196.251.241.54",
+    "port": 8080,
+    "url": "http://196.251.241.54:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 1323,
+    "latency_median_ms": 5519,
+    "uptime_24h": 18.8,
+    "uptime_7d": 10.2,
+    "checks_7d": 128,
+    "exit_ip": "196.251.241.54",
+    "exit_shared": 1,
+    "country": "gq",
+    "region": "Bioko Norte",
+    "city": "Malabo",
+    "timezone": "Africa/Malabo",
+    "asn": 328207,
+    "asn_org": "OFFICE TECH",
+    "sources_count": 16,
+    "first_seen": "2025-09-10T21:05:10.837Z",
+    "last_checked": "2026-09-24T04:29:39.591Z"
+  }
+]

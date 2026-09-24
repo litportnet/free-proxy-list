@@ -5,12 +5,12 @@
     "port": 4145,
     "url": "socks4://200.108.50.254:4145",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 493,
-    "latency_median_ms": 1616.5,
-    "uptime_24h": 68.6,
-    "uptime_7d": 63.2,
-    "checks_7d": 666,
+    "https": true,
+    "latency_ms": 4818,
+    "latency_median_ms": 1550.5,
+    "uptime_24h": 38.8,
+    "uptime_7d": 60,
+    "checks_7d": 635,
     "exit_ip": "200.108.50.254",
     "exit_shared": 1,
     "country": "pa",
@@ -19,8 +19,8 @@
     "timezone": "America/Panama",
     "asn": 18809,
     "asn_org": "Cable Onda",
-    "sources_count": 13,
+    "sources_count": 14,
     "first_seen": "2025-09-04T23:49:13.837Z",
-    "last_checked": "2026-09-23T04:25:13.795Z"
+    "last_checked": "2026-09-24T04:31:04.295Z"
   }
 ]

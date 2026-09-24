@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "213.197.136.218",
+    "port": 5678,
+    "url": "socks4://213.197.136.218:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1676,
+    "latency_median_ms": 1669,
+    "uptime_24h": 56.1,
+    "uptime_7d": 74.2,
+    "checks_7d": 749,
+    "exit_ip": "213.197.136.218",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Vilnius",
+    "city": "Vilnius",
+    "timezone": "Europe/Vilnius",
+    "asn": 15440,
+    "asn_org": "UAB Baltnetos komunikacijos",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:00.045Z",
+    "last_checked": "2026-09-24T04:27:26.789Z"
+  }
+]

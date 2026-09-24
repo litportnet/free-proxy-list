@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "62.103.186.66",
+    "port": 4153,
+    "url": "socks4://62.103.186.66:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 888,
+    "latency_median_ms": 766,
+    "uptime_24h": 32.1,
+    "uptime_7d": 44.8,
+    "checks_7d": 547,
+    "exit_ip": "62.103.186.66",
+    "exit_shared": 1,
+    "country": "gr",
+    "region": "South Aegean",
+    "city": "Ródos",
+    "timezone": "Europe/Athens",
+    "asn": 6799,
+    "asn_org": "Ote SA (Hellenic Telecommunications Organisation)",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:04.664Z",
+    "last_checked": "2026-09-24T04:30:45.127Z"
+  }
+]

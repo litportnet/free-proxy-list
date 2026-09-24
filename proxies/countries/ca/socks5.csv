@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,8172,4875,71.4,73.5,736,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,18,2026-09-11T21:05:56.215Z,2026-09-23T04:23:03.519Z
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,7331,3240.5,71.2,71.4,741,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-09-23T04:30:36.465Z
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,1095,3368.5,71.3,67.2,597,5.181.233.123,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-09-23T04:28:25.763Z
-socks5,49.13.22.249,10811,socks5://49.13.22.249:10811,elite,true,1805,2310,57.5,66.7,613,37.19.211.38,1,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,19,2026-08-23T21:34:27.912Z,2026-09-23T04:24:40.635Z
-socks5,91.107.188.12,9087,socks5://91.107.188.12:9087,elite,true,2460,3724,36.8,34,241,185.141.216.14,1,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,16,2026-09-18T20:33:15.117Z,2026-09-23T04:30:01.084Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,183,1281.5,65.8,73,745,104.28.214.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-09-24T04:24:49.912Z
+socks5,161.35.90.93,1081,socks5://161.35.90.93:1081,elite,true,1877,2501.5,66.7,67.1,697,146.70.137.34,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,20,2026-08-07T23:55:23.891Z,2026-09-24T04:27:37.832Z
+socks5,66.59.197.62,3128,socks5://66.59.197.62:3128,elite,true,622,1120,47.2,43.5,547,187.15.141.232,1,ca,Ontario,Toronto,America/Toronto,147049,PacketHub S.A.,18,2026-08-10T07:23:26.060Z,2026-09-24T04:27:10.463Z
+socks5,213.21.229.84,9080,socks5://213.21.229.84:9080,elite,true,1888,1578.5,73.7,,19,78.17.93.124,1,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,7,2026-09-24T01:19:57.985Z,2026-09-24T04:29:53.983Z
+socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,9425,1606,87.5,,8,144.217.107.25,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,4,2026-09-24T03:21:03.909Z,2026-09-24T04:33:34.418Z

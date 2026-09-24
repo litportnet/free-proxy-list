@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,90.146.196.18,8080,http://90.146.196.18:8080,elite,false,4487,4904,29.2,18.3,246,90.146.196.18,1,at,Upper Austria,Linz,Europe/Vienna,12605,LIWEST Kabelmedien GmbH,24,2026-08-30T01:54:55.486Z,2026-09-23T04:27:02.539Z
-http,98.94.14.234,14524,http://98.94.14.234:14524,unknown,true,2041,2041,100,,2,98.94.14.234,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,2,2026-08-27T05:19:05.129Z,2026-09-23T04:25:48.131Z

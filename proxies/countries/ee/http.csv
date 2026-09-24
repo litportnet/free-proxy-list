@@ -1,7 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,634,622.5,63.3,64.2,678,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-23T04:30:39.621Z
-http,95.153.31.226,3128,http://95.153.31.226:3128,elite,false,2957,3394,39.4,52.8,305,95.153.31.226,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,24,2026-09-19T02:36:24.799Z,2026-09-23T04:28:03.619Z
-http,95.153.31.229,3128,http://95.153.31.229:3128,elite,false,8765,4029,41.5,52.6,270,95.153.31.229,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,24,2026-09-19T02:36:24.799Z,2026-09-23T04:30:29.625Z
-http,95.153.31.228,3128,http://95.153.31.228:3128,elite,false,3118,2455.5,48.5,51.1,282,95.153.31.228,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,23,2026-09-19T02:36:24.799Z,2026-09-23T04:24:53.088Z
-http,193.42.112.26,8080,http://193.42.112.26:8080,transparent,false,3135,4653.5,24.5,28.8,184,193.42.112.26,1,ee,Harjumaa,Kuusalu,Europe/Tallinn,199144,HexCore cloud s.r.o.,25,2026-09-02T17:42:35.785Z,2026-09-23T04:29:44.458Z
-http,95.153.31.227,3128,http://95.153.31.227:3128,elite,false,4334,3537,80,,13,95.153.31.227,1,ee,Harjumaa,Tallinn,Europe/Tallinn,1257,Tele2 Sverige AB,17,2026-09-21T00:00:15.517Z,2026-09-23T04:30:29.595Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,562,579.5,67.5,64.1,674,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-24T04:28:05.293Z

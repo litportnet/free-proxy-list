@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,false,535,525,76.4,66.3,682,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,13,2025-09-04T23:49:13.193Z,2026-09-23T04:24:18.887Z
+socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,2048,2008.5,55.3,68.8,685,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-09-24T04:28:20.647Z
+socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,false,555,523,66.1,67.3,690,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,1,2026-03-17T17:23:30.243Z,2026-09-24T04:31:06.935Z
+socks4,160.20.165.242,8080,socks4://160.20.165.242:8080,elite,true,1556,1578,38.8,53.4,611,160.20.165.243,1,ec,Guayas,Guayaquil,America/Guayaquil,52468,UFINET PANAMA S.A.,20,2025-09-05T20:06:13.403Z,2026-09-24T04:29:21.994Z
+socks4,45.163.207.18,1080,socks4://45.163.207.18:1080,elite,true,607,1621.5,45.8,52.2,598,45.163.207.18,1,ec,Los Ríos,Ventanas,America/Guayaquil,267684,VISIONMAGICA SOCIEDAD ANONIMA,14,2026-07-13T05:24:59.944Z,2026-09-24T04:32:17.544Z

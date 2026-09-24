@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,202.144.134.150,5678,socks4://202.144.134.150:5678,elite,false,4585,2554.5,32.9,43.1,522,202.144.134.150,1,bt,Chukha,Phuntsholing,Asia/Thimphu,18024,Bhutan Telecom Ltd,13,2025-09-04T23:48:55.730Z,2026-09-24T04:27:08.343Z

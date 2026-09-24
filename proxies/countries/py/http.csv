@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.184.111.71,999,http://45.184.111.71:999,transparent,false,4839,4350.5,12.5,12.6,87,45.184.111.68,1,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,269783,WIND NET S.A.,12,2026-06-12T21:57:43.857Z,2026-09-23T04:21:24.227Z
+http,170.245.132.81,999,http://170.245.132.81:999,transparent,false,4765,2803,29.4,28,361,170.245.132.81,1,py,Paraguarí,Carapeguá,America/Asuncion,270096,"MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",14,2025-10-05T03:51:09.001Z,2026-09-24T04:29:29.533Z

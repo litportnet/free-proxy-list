@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,150.140.148.235,80,http://150.140.148.235:80,elite,false,5309,3363.5,41,37.1,386,150.140.148.235,1,gr,Attica,Athens,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-09-23T04:30:32.754Z
-http,62.103.66.18,3128,http://62.103.66.18:3128,transparent,false,2263,4969,20,,21,62.103.66.18,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),10,2025-09-05T20:06:28.282Z,2026-09-23T04:23:38.208Z
+http,150.140.148.235,80,http://150.140.148.235:80,elite,false,5364,4038.5,44.3,37.6,378,150.140.148.235,1,gr,Attica,Athens,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-09-24T04:31:39.127Z

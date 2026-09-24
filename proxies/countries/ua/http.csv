@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,9028,5453.5,45.2,33.3,393,195.226.213.254,2,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,16,2026-08-07T01:44:07.721Z,2026-09-24T04:25:01.575Z
+http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,true,5498,4461.5,45.5,32,394,195.226.213.254,2,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-09-24T04:25:08.994Z
+http,31.202.84.127,38777,http://31.202.84.127:38777,transparent,false,4104,3808.5,27.6,19,242,31.202.84.127,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,34700,"MAXNET TELECOM, LTD",14,2026-05-18T16:46:14.226Z,2026-09-24T04:29:08.965Z
+http,188.190.177.47,8989,http://188.190.177.47:8989,transparent,false,5450,6085.5,19.1,15.5,206,188.190.177.47,1,ua,Khmelnytskyi,Khmelnytskyi,Europe/Kyiv,28773,Global Technologies of Ukraine LLC,23,2026-05-05T15:52:16.757Z,2026-09-24T04:28:00.012Z

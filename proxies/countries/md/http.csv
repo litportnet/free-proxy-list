@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,176.125.242.58,3128,http://176.125.242.58:3128,transparent,false,9654,6768.5,5.9,10.8,93,176.125.242.58,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,200019,ALEXHOST SRL,19,2026-07-26T05:12:54.801Z,2026-09-24T04:32:58.956Z

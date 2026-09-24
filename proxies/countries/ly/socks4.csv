@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,165.16.45.200,1080,socks4://165.16.45.200:1080,elite,false,936,1006,55.1,43.6,528,165.16.45.200,1,ly,Surt,Sirte,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,16,2026-08-13T06:03:26.816Z,2026-09-23T04:29:43.847Z

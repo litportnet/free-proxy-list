@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "102.69.146.59",
+    "port": 7080,
+    "url": "socks5://102.69.146.59:7080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1372,
+    "latency_median_ms": 1502,
+    "uptime_24h": 15,
+    "uptime_7d": 15.4,
+    "checks_7d": 175,
+    "exit_ip": "102.69.146.59",
+    "exit_shared": 1,
+    "country": "ng",
+    "region": "Lagos",
+    "city": "Ikeja",
+    "timezone": "Africa/Lagos",
+    "asn": 328451,
+    "asn_org": "IP Express Ltd",
+    "sources_count": 21,
+    "first_seen": "2026-03-05T04:43:40.305Z",
+    "last_checked": "2026-09-24T04:26:27.384Z"
+  }
+]

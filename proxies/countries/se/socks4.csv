@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.128.231.218,1001,socks4://57.128.231.218:1001,elite,false,737,724.5,57.1,85.1,867,185.209.198.91,2,se,Stockholm,Stockholm,Europe/Stockholm,39351,31173 Services AB,21,2026-09-10T22:54:10.489Z,2026-09-23T04:26:52.639Z
-socks4,104.194.132.112,9054,socks4://104.194.132.112:9054,elite,false,3064,3064,100,,7,193.189.100.200,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,15,2026-07-20T13:58:39.302Z,2026-09-23T04:27:05.634Z
+socks4,57.128.231.218,1001,socks4://57.128.231.218:1001,elite,true,730,743,100,89,889,185.209.198.91,2,se,Stockholm,Stockholm,Europe/Stockholm,39351,31173 Services AB,21,2026-09-10T22:54:10.489Z,2026-09-24T04:34:14.786Z
+socks4,132.243.168.30,9150,socks4://132.243.168.30:9150,elite,false,1238,1097.5,89.8,67.1,617,45.84.107.174,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,16,2026-08-31T03:06:55.817Z,2026-09-24T04:28:23.313Z
+socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,true,634,615,45.1,57.7,612,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-09-24T04:31:15.517Z
+socks4,79.76.59.115,1080,socks4://79.76.59.115:1080,elite,true,849,1181.5,62.1,52.6,473,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,17,2026-07-15T05:56:51.407Z,2026-09-24T04:33:43.511Z
+socks4,138.124.85.83,1080,socks4://138.124.85.83:1080,elite,false,1665,3718,18.9,11.9,143,138.124.85.83,1,se,Stockholm,Stockholm,Europe/Stockholm,41745,Baykov Ilya Sergeevich,20,2026-09-03T13:52:44.753Z,2026-09-24T04:28:03.697Z
+socks4,98.81.204.137,3128,socks4://98.81.204.137:3128,unknown,false,2135,2135,50,,4,98.81.204.137,2,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-23T01:07:39.060Z,2026-09-24T04:33:37.654Z

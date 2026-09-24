@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.38.24.30,19000,http://102.38.24.30:19000,transparent,true,7373,5108,13.8,11,137,102.38.24.30,1,ly,Tripoli,Tripoli,Africa/Tripoli,328539,Giga for Telecommunication and Technology Limited,21,2026-08-15T23:39:34.566Z,2026-09-23T04:24:54.629Z
-http,154.73.29.205,8080,http://154.73.29.205:8080,transparent,false,3314,3314,100,,7,154.73.30.1,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),8,2025-09-07T07:16:06.578Z,2026-09-23T04:25:43.440Z

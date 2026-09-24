@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,false,519,998.5,65.7,59.6,633,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,11,2026-05-31T05:22:35.276Z,2026-09-23T04:22:45.885Z
-socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,false,3458,1456,60.2,46.8,549,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,20,2026-08-08T18:05:33.990Z,2026-09-23T04:27:30.803Z
+socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,true,405,3420,40.9,46.6,547,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,20,2026-08-08T18:05:33.990Z,2026-09-24T04:29:53.457Z

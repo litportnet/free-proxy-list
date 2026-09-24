@@ -1,6 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,648,644,99.3,99.8,437,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-20T02:49:10.735Z,2026-09-23T04:25:48.654Z
-socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,635,638,100,99.5,578,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-19T02:36:27.799Z,2026-09-23T04:28:04.662Z
-socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,937,1177.5,53.9,46,567,31.58.214.171,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-09-23T04:23:30.031Z
-socks5,45.74.31.30,16835,socks5://45.74.31.30:16835,elite,false,8578,3157,12.5,16.8,95,91.204.209.37,2,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,16,2026-09-19T13:42:17.167Z,2026-09-23T04:21:22.114Z
-socks5,45.74.31.23,8217,socks5://45.74.31.23:8217,elite,false,3549,3947.5,24.4,,45,91.204.209.37,2,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,9,2026-09-22T07:16:53.015Z,2026-09-23T04:26:32.304Z
+socks5,185.87.255.47,1080,socks5://185.87.255.47:1080,elite,true,697,708,99.3,99.7,579,185.87.255.47,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-20T02:49:10.735Z,2026-09-24T04:33:07.535Z
+socks5,185.87.255.54,1080,socks5://185.87.255.54:1080,elite,true,644,696,100,99.6,722,185.87.255.54,1,gb,England,London,Europe/London,215089,Fast Panda Limited,19,2026-09-19T02:36:27.799Z,2026-09-24T04:33:34.945Z
+socks5,178.79.180.31,1088,socks5://178.79.180.31:1088,elite,true,863,1511,85,85,80,178.79.180.31,2,gb,England,London,Europe/London,63949,Akamai Connected Cloud,12,2026-09-23T15:14:39.792Z,2026-09-24T04:30:41.907Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2133,1816,70.7,67,637,195.191.219.69,1,gb,England,London,Europe/London,3170,VeloxServ Communications Ltd,18,2026-09-16T15:24:29.706Z,2026-09-24T04:26:28.425Z
+socks5,45.74.31.22,11358,socks5://45.74.31.22:11358,elite,false,2664,4459.5,42.1,23.7,228,142.93.47.230,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",17,2026-09-16T03:18:05.440Z,2026-09-24T04:24:45.170Z
+socks5,45.74.31.30,8094,socks5://45.74.31.30:8094,elite,true,802,3595,100,,36,142.93.47.230,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",3,2026-09-16T23:28:47.969Z,2026-09-24T04:32:53.609Z
+socks5,45.74.31.30,8409,socks5://45.74.31.30:8409,elite,true,2481,2481,50,,2,142.93.47.230,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",6,2026-09-04T22:52:50.840Z,2026-09-24T04:33:01.638Z
+socks5,46.101.31.223,1080,socks5://46.101.31.223:1080,elite,false,2611,586.5,75,,20,46.101.31.223,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",6,2026-09-24T01:19:57.985Z,2026-09-24T04:32:46.629Z

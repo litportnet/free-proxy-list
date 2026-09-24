@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,143.105.108.210,1080,socks4://143.105.108.210:1080,elite,false,2065,2050,42.5,48.3,172,143.105.108.210,1,py,Asuncion,Asunción,America/Asuncion,14593,Space Exploration Technologies Corporation,17,2026-09-21T00:00:17.318Z,2026-09-23T04:25:40.310Z
+socks4,190.104.143.94,4153,socks4://190.104.143.94:4153,elite,false,8425,6130,15.9,11.7,222,190.104.143.94,1,py,Caaguazú Department,Doctor Juan Eulogio Estigarribia,America/Asuncion,27895,Núcleo S.A.,20,2025-09-04T23:49:02.139Z,2026-09-24T04:27:58.423Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "67.206.213.202",
+    "port": 55555,
+    "url": "socks4://67.206.213.202:55555",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 358,
+    "latency_median_ms": 653.5,
+    "uptime_24h": 42.6,
+    "uptime_7d": 69.4,
+    "checks_7d": 695,
+    "exit_ip": "67.206.213.202",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "Aibonito",
+    "city": "Aibonito",
+    "timezone": "America/Puerto_Rico",
+    "asn": 11992,
+    "asn_org": "Liberty Mobile Puerto Rico Inc.",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:14.427Z",
+    "last_checked": "2026-09-24T04:24:52.052Z"
+  }
+]

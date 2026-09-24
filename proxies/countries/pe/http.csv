@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,201.230.121.86,999,http://201.230.121.86:999,transparent,true,3793,3803,23.1,21.6,283,181.67.181.51,1,pe,Cuzco Department,Cusco,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,17,2026-01-01T00:25:07.567Z,2026-09-23T04:25:41.336Z
-http,38.252.215.109,999,http://38.252.215.109:999,transparent,true,2992,4590,22.2,20.3,59,38.252.215.109,1,pe,Lima Province,Lima,America/Lima,274156,TELDRA S.A.C.,6,2025-09-06T05:32:52.959Z,2026-09-23T04:24:46.191Z
-http,38.183.183.114,999,http://38.183.183.114:999,transparent,false,3382,3854.5,21.4,14.7,68,38.183.183.116,1,pe,Lima region,Huaura,America/Lima,273084,FORZA BUSSINES S.A.C.,16,2025-09-05T00:23:29.920Z,2026-09-23T04:21:22.626Z
-http,201.230.15.57,999,http://201.230.15.57:999,transparent,true,4486,4059.5,22.2,13.5,200,201.230.15.57,1,pe,Tacna,Tacna,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,20,2025-09-17T08:27:30.526Z,2026-09-23T04:24:46.161Z
-http,45.189.117.199,999,http://45.189.117.199:999,transparent,false,2671,4220,7.7,3,67,38.172.130.172,1,pe,Lima Province,Lima,America/Lima,273133,CONEX TV E.I.R.L.,18,2025-09-17T19:58:36.891Z,2026-09-23T04:25:14.852Z
+http,38.252.217.32,999,http://38.252.217.32:999,transparent,true,9770,3244,19.3,14.9,221,204.157.243.16,1,pe,Lima region,Breña,America/Lima,274131,ANDINATEL S.A.C.,21,2026-02-17T15:25:11.262Z,2026-09-24T04:30:59.498Z

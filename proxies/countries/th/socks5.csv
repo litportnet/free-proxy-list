@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.59.197.61,4000,socks5://66.59.197.61:4000,elite,false,6345,1776,26.7,36.6,495,186.247.190.85,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,19,2026-08-15T21:37:09.934Z,2026-09-23T04:23:24.339Z
+socks5,102.129.229.131,1081,socks5://102.129.229.131:1081,elite,true,2048,6140,91,91,67,102.129.229.131,2,th,Bangkok,Bangkok,Asia/Bangkok,138156,"CSNE Co., Ltd.",13,2026-09-23T17:15:43.069Z,2026-09-24T04:30:52.573Z

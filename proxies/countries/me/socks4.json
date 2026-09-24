@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "109.72.100.113",
+    "port": 48293,
+    "url": "socks4://109.72.100.113:48293",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 746,
+    "latency_median_ms": 957,
+    "uptime_24h": 60,
+    "uptime_7d": 66.6,
+    "checks_7d": 608,
+    "exit_ip": "109.72.100.113",
+    "exit_shared": 1,
+    "country": "me",
+    "region": "Podgorica",
+    "city": "Podgorica",
+    "timezone": "Europe/Podgorica",
+    "asn": 43940,
+    "asn_org": "Drustvo za telekomunikacije MTEL DOO",
+    "sources_count": 16,
+    "first_seen": "2025-12-14T12:16:49.089Z",
+    "last_checked": "2026-09-24T04:24:33.577Z"
+  }
+]

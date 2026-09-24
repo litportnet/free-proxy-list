@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "176.125.242.58",
+    "port": 3128,
+    "url": "http://176.125.242.58:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 9654,
+    "latency_median_ms": 6768.5,
+    "uptime_24h": 5.9,
+    "uptime_7d": 10.8,
+    "checks_7d": 93,
+    "exit_ip": "176.125.242.58",
+    "exit_shared": 1,
+    "country": "md",
+    "region": "Chișinău Municipality",
+    "city": "Chisinau",
+    "timezone": "Europe/Chisinau",
+    "asn": 200019,
+    "asn_org": "ALEXHOST SRL",
+    "sources_count": 19,
+    "first_seen": "2026-07-26T05:12:54.801Z",
+    "last_checked": "2026-09-24T04:32:58.956Z"
+  }
+]

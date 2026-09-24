@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.35.122.117,1080,socks4://213.35.122.117:1080,elite,false,1438,1211,100,99.7,362,213.35.122.117,2,sg,Singapore,Kampong Loyang,Asia/Singapore,31898,Oracle Corporation,15,2026-09-20T14:55:46.088Z,2026-09-23T04:25:40.820Z
+socks4,213.35.122.117,1080,socks4://213.35.122.117:1080,elite,true,1218,1209.5,99.3,99.6,504,213.35.122.117,2,sg,Singapore,Kampong Loyang,Asia/Singapore,31898,Oracle Corporation,15,2026-09-20T14:55:46.088Z,2026-09-24T04:25:10.578Z
+socks4,111.119.162.248,10930,socks4://111.119.162.248:10930,elite,true,3615,2156,41.5,35.9,398,8.219.29.193,3,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",18,2026-08-15T13:34:54.142Z,2026-09-24T04:32:03.685Z
+socks4,140.245.104.198,10808,socks4://140.245.104.198:10808,elite,false,4298,3260.5,35.3,,23,161.118.239.120,1,sg,Singapore,Kampong Loyang,Asia/Singapore,31898,Oracle Corporation,6,2026-07-20T11:57:39.962Z,2026-09-24T04:30:19.007Z
+socks4,180.167.234.224,1080,socks4://180.167.234.224:1080,elite,true,5479,3782.5,57.1,,7,185.225.20.22,2,sg,Singapore,Singapore,Asia/Singapore,61112,AkileCloud Network,2,2026-08-21T18:08:53.820Z,2026-09-24T04:26:02.680Z

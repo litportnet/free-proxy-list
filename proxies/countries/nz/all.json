@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10813,
+    "url": "socks5://65.21.252.66:10813",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2230,
+    "latency_median_ms": 3493.5,
+    "uptime_24h": 57.3,
+    "uptime_7d": 56.8,
+    "checks_7d": 542,
+    "exit_ip": "103.27.227.2",
+    "exit_shared": 1,
+    "country": "nz",
+    "region": "Auckland",
+    "city": "Auckland",
+    "timezone": "Pacific/Auckland",
+    "asn": 22363,
+    "asn_org": "Powerhouse Management, Inc.",
+    "sources_count": 19,
+    "first_seen": "2026-09-16T19:26:32.370Z",
+    "last_checked": "2026-09-24T04:26:33.684Z"
+  }
+]

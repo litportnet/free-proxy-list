@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "103.96.233.10",
+    "port": 1080,
+    "url": "socks5://103.96.233.10:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1417,
+    "latency_median_ms": 2491,
+    "uptime_24h": 23.9,
+    "uptime_7d": 11.5,
+    "checks_7d": 139,
+    "exit_ip": "103.96.233.10",
+    "exit_shared": 1,
+    "country": "af",
+    "region": "Nangarhar",
+    "city": "Jalālābād",
+    "timezone": "Asia/Kabul",
+    "asn": 133894,
+    "asn_org": "Easy Connect- ISP",
+    "sources_count": 17,
+    "first_seen": "2026-06-12T04:50:44.329Z",
+    "last_checked": "2026-09-24T04:25:51.764Z"
+  }
+]

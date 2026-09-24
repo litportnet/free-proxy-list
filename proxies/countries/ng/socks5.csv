@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,102.69.146.59,7080,socks5://102.69.146.59:7080,elite,false,1372,1502,15,15.4,175,102.69.146.59,1,ng,Lagos,Ikeja,Africa/Lagos,328451,IP Express Ltd,21,2026-03-05T04:43:40.305Z,2026-09-24T04:26:27.384Z

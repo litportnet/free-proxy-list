@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.223.129.21,80,http://196.223.129.21:80,elite,false,8859,7121.5,38.5,56.4,569,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-09-23T04:24:53.073Z
-http,41.78.184.38,8080,http://41.78.184.38:8080,transparent,false,2807,3805.5,22.6,17.7,220,41.78.184.38,1,za,Gauteng,Mogale City,Africa/Johannesburg,37675,SkyWire (PTY) LTD,17,2026-08-26T21:15:35.583Z,2026-09-23T04:21:22.108Z
+http,41.57.139.93,6060,http://41.57.139.93:6060,transparent,false,5112,5168.5,21,17,159,41.57.139.93,1,za,Mpumalanga,Delmas,Africa/Johannesburg,327688,Screamer Telecommunications,10,2026-06-15T15:34:37.706Z,2026-09-24T04:31:56.710Z
+http,102.164.218.219,8080,http://102.164.218.219:8080,transparent,true,6467,1169,54.8,,31,102.164.218.219,1,za,Mpumalanga,Emalahleni,Africa/Johannesburg,327750,JENNY INTERNET (PTY) LTD,7,2026-08-13T05:02:42.611Z,2026-09-24T04:32:04.748Z
+http,111.119.162.248,10975,http://111.119.162.248:10975,elite,true,7264,3664,16.2,,40,4.222.217.240,1,za,Gauteng,Johannesburg,Africa/Johannesburg,8075,Microsoft Corporation,8,2026-09-20T09:52:49.347Z,2026-09-24T04:32:18.113Z

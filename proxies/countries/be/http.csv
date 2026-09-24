@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,128.90.145.206,8118,http://128.90.145.206:8118,elite,false,907,800,17.3,17,53,128.90.145.206,1,be,Brussels Capital,Brussels,Europe/Brussels,22363,"Powerhouse Management, Inc.",14,2026-09-22T04:15:04.987Z,2026-09-23T04:23:22.249Z

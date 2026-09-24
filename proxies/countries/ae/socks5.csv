@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,89.36.162.135,1080,socks5://89.36.162.135:1080,elite,true,1289,1292,100,100,51,89.36.162.124,2,ae,Fujairah,Fujairah,Asia/Dubai,8849,Melbikomas UAB,11,2026-09-22T20:04:33.709Z,2026-09-23T04:26:11.014Z
+socks5,192.243.115.26,1080,socks5://192.243.115.26:1080,elite,true,2137,1748,100,100,80,151.243.23.113,1,ae,Dubai,Dubai,Asia/Dubai,214143,SKYDIGITAL TELECOM LTD,12,2026-09-23T15:14:39.792Z,2026-09-24T04:26:05.288Z
+socks5,2.50.190.117,10800,socks5://2.50.190.117:10800,elite,false,4436,3678,50,40,210,2.50.190.117,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,16,2026-09-21T09:05:03.337Z,2026-09-24T04:26:56.261Z
+socks5,111.119.162.248,10901,socks5://111.119.162.248:10901,elite,true,4375,4963.5,35.8,39,313,47.91.104.218,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",19,2026-08-15T18:34:57.249Z,2026-09-24T04:24:51.513Z

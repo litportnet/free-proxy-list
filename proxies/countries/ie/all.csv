@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.128.231.218,1003,socks4://57.128.231.218:1003,elite,false,734,727.5,99.3,99.3,145,130.195.213.219,2,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,16,2026-09-22T04:15:16.453Z,2026-09-23T04:25:14.841Z
-socks5,57.128.231.218,1003,socks5://57.128.231.218:1003,elite,true,895,903.5,94.9,94.4,143,130.195.213.219,2,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,13,2026-09-22T03:14:41.306Z,2026-09-23T04:28:01.468Z
+socks4,57.128.231.218,1003,socks4://57.128.231.218:1003,elite,true,1770,823,100,99.7,289,130.195.213.219,2,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,18,2026-09-22T04:15:16.453Z,2026-09-24T04:24:47.262Z
+socks5,57.128.231.218,1003,socks5://57.128.231.218:1003,elite,true,943,946.5,98.6,96.5,284,130.195.213.219,2,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,14,2026-09-22T03:14:41.306Z,2026-09-24T04:28:09.551Z
+http,5.83.244.1,8080,http://5.83.244.1:8080,transparent,false,3421,4433,16.7,13.2,114,5.83.244.250,1,ie,Connacht,Roscommon,Europe/Dublin,57791,Arden Broadband Ltd,17,2025-09-07T09:17:15.601Z,2026-09-24T04:29:03.076Z
+socks5,45.74.31.50,18072,socks5://45.74.31.50:18072,elite,false,1514,3148.5,23,12.1,140,135.236.141.8,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,17,2026-09-14T06:36:06.069Z,2026-09-24T04:27:23.643Z

@@ -5,12 +5,12 @@
     "port": 80,
     "url": "http://51.170.133.249:80",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 8713,
-    "latency_median_ms": 4448.5,
-    "uptime_24h": 76.6,
-    "uptime_7d": 83,
-    "checks_7d": 548,
+    "https": true,
+    "latency_ms": 1172,
+    "latency_median_ms": 1603,
+    "uptime_24h": 69.5,
+    "uptime_7d": 80.6,
+    "checks_7d": 666,
     "exit_ip": "51.170.133.249",
     "exit_shared": 1,
     "country": "ma",
@@ -21,6 +21,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 24,
     "first_seen": "2026-09-18T05:44:35.769Z",
-    "last_checked": "2026-09-23T04:27:46.153Z"
+    "last_checked": "2026-09-24T04:33:22.568Z"
   }
 ]

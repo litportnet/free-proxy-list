@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,57.128.231.218,1000,socks5://57.128.231.218:1000,elite,true,1100,1107,81.5,89.1,891,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,20,2026-09-12T12:13:57.336Z,2026-09-23T04:24:58.746Z
+socks5,57.128.231.218,1000,socks5://57.128.231.218:1000,elite,true,2119,1113,96.4,92.5,918,195.47.194.140,2,cy,Larnaka,Larnaca,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,20,2026-09-12T12:13:57.336Z,2026-09-24T04:24:20.307Z

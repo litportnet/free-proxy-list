@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,111.119.162.248,10935,socks5://111.119.162.248:10935,elite,true,5524,3434.5,41.1,30.8,308,47.250.100.4,3,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,45102,"Alibaba (US) Technology Co., Ltd.",19,2026-08-18T11:26:30.626Z,2026-09-24T04:33:01.078Z

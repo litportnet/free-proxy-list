@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.72.100.113,48293,socks4://109.72.100.113:48293,elite,true,746,957,60,66.6,608,109.72.100.113,1,me,Podgorica,Podgorica,Europe/Podgorica,43940,Drustvo za telekomunikacije MTEL DOO,16,2025-12-14T12:16:49.089Z,2026-09-24T04:24:33.577Z

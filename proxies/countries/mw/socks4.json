@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://41.70.106.1:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 2834,
-    "latency_median_ms": 1818,
-    "uptime_24h": 60,
-    "uptime_7d": 50.6,
-    "checks_7d": 563,
+    "https": true,
+    "latency_ms": 1624,
+    "latency_median_ms": 2655.5,
+    "uptime_24h": 40.2,
+    "uptime_7d": 47.5,
+    "checks_7d": 550,
     "exit_ip": "41.70.9.10",
     "exit_shared": 1,
     "country": "mw",
@@ -21,6 +21,6 @@
     "asn_org": "Malawi Research and Education Network - MAREN",
     "sources_count": 20,
     "first_seen": "2025-09-04T23:49:00.291Z",
-    "last_checked": "2026-09-23T04:26:43.296Z"
+    "last_checked": "2026-09-24T04:31:03.230Z"
   }
 ]

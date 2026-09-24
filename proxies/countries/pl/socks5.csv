@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,104.245.245.218,1080,socks5://104.245.245.218:1080,elite,true,751,714.5,93.6,97.1,315,104.245.245.218,1,pl,Mazovia,Warsaw,Europe/Warsaw,201814,MEVSPACE sp. z o.o.,17,2026-09-20T19:58:12.162Z,2026-09-23T04:30:29.601Z
+socks5,104.245.245.218,1080,socks5://104.245.245.218:1080,elite,true,735,733,100,98,458,104.245.245.218,1,pl,Mazovia,Warsaw,Europe/Warsaw,201814,MEVSPACE sp. z o.o.,18,2026-09-20T19:58:12.162Z,2026-09-24T04:32:31.529Z

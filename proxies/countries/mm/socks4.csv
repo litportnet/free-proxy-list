@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,true,8552,3557.5,40.9,61.9,622,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,7,2025-11-01T10:33:30.995Z,2026-09-24T04:30:41.392Z

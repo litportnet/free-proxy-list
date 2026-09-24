@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,78.142.61.75,3128,http://78.142.61.75:3128,elite,true,9310,7661.5,18,14.1,121,78.142.61.75,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200628,BGO Cloud OOD,21,2026-09-04T18:52:11.715Z,2026-09-24T04:29:25.199Z

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10812,socks5://65.21.252.66:10812,elite,true,9702,3311.5,64.9,66.5,630,37.120.155.2,1,at,Lower Austria,Langenzersdorf,Europe/Vienna,9009,M247 Europe SRL,19,2026-09-16T22:28:10.717Z,2026-09-24T04:32:26.170Z
+socks5,62.83.34.101,1080,socks5://62.83.34.101:1080,elite,true,806,854,100,,8,62.83.34.101,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,8,2026-09-24T03:21:02.509Z,2026-09-24T04:30:57.355Z
+socks5,35.78.252.142,8422,socks5://35.78.252.142:8422,unknown,false,2838,2838,42.9,,8,35.78.252.142,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,1,2026-09-17T00:29:39.376Z,2026-09-24T04:27:42.082Z

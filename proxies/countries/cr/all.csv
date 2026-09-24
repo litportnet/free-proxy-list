@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.113.249.14,50000,socks4://190.113.249.14:50000,elite,false,3525,1644,52.2,31.7,435,190.113.249.14,1,cr,Alajuela Province,Zarcero,America/Costa_Rica,262241,COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.,20,2026-08-23T08:28:36.122Z,2026-09-23T04:28:25.241Z
+socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,false,7810,2526.5,31.4,50.3,559,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,1,2026-03-17T17:23:29.573Z,2026-09-24T04:31:19.288Z

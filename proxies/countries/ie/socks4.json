@@ -5,12 +5,12 @@
     "port": 1003,
     "url": "socks4://57.128.231.218:1003",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 734,
-    "latency_median_ms": 727.5,
-    "uptime_24h": 99.3,
-    "uptime_7d": 99.3,
-    "checks_7d": 145,
+    "https": true,
+    "latency_ms": 1770,
+    "latency_median_ms": 823,
+    "uptime_24h": 100,
+    "uptime_7d": 99.7,
+    "checks_7d": 289,
     "exit_ip": "130.195.213.219",
     "exit_shared": 2,
     "country": "ie",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Dublin",
     "asn": 9009,
     "asn_org": "M247 Europe SRL",
-    "sources_count": 16,
+    "sources_count": 18,
     "first_seen": "2026-09-22T04:15:16.453Z",
-    "last_checked": "2026-09-23T04:25:14.841Z"
+    "last_checked": "2026-09-24T04:24:47.262Z"
   }
 ]

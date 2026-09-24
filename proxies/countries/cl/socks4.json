@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "190.54.100.74",
+    "port": 5678,
+    "url": "socks4://190.54.100.74:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3853,
+    "latency_median_ms": 1983,
+    "uptime_24h": 47.5,
+    "uptime_7d": 45.2,
+    "checks_7d": 544,
+    "exit_ip": "190.54.100.74",
+    "exit_shared": 1,
+    "country": "cl",
+    "region": "Santiago Metropolitan",
+    "city": "Santiago",
+    "timezone": "America/Santiago",
+    "asn": 6429,
+    "asn_org": "Telmex Chile Internet S.A.",
+    "sources_count": 22,
+    "first_seen": "2025-09-08T19:34:49.363Z",
+    "last_checked": "2026-09-24T04:31:16.586Z"
+  }
+]
