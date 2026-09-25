@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.164.148.19,999,http://45.164.148.19:999,transparent,false,3914,3716.5,9.8,6.9,145,45.164.148.13,1,gt,Quiché,Chichicastenango,America/Guatemala,267713,"JORGE MARIO, MENDOZA LUX (PUNTO-NET)",11,2026-07-24T01:46:50.918Z,2026-09-25T04:29:29.566Z

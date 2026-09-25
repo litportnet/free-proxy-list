@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,216.173.68.250,1080,socks4://216.173.68.250:1080,elite,false,688,696,44.9,45.2,374,216.173.68.250,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-09-18T02:43:04.257Z,2026-09-24T04:27:49.978Z

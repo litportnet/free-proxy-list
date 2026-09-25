@@ -6,11 +6,11 @@
     "url": "socks4://220.132.41.160:1088",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1975,
-    "latency_median_ms": 1975,
-    "uptime_24h": 25.5,
-    "uptime_7d": 36.7,
-    "checks_7d": 455,
+    "latency_ms": 3977,
+    "latency_median_ms": 2990.5,
+    "uptime_24h": 43.4,
+    "uptime_7d": 35.3,
+    "checks_7d": 484,
     "exit_ip": "220.132.41.160",
     "exit_shared": 1,
     "country": "tw",
@@ -21,6 +21,6 @@
     "asn_org": "Data Communication Business Group",
     "sources_count": 11,
     "first_seen": "2025-09-04T23:49:14.627Z",
-    "last_checked": "2026-09-24T04:24:01.318Z"
+    "last_checked": "2026-09-25T04:25:00.927Z"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "80.72.180.122",
+    "port": 1080,
+    "url": "socks5://80.72.180.122:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2530,
+    "latency_median_ms": 2481,
+    "uptime_24h": 50.4,
+    "uptime_7d": 44.3,
+    "checks_7d": 479,
+    "exit_ip": "80.72.180.122",
+    "exit_shared": 1,
+    "country": "kg",
+    "region": "Chuy Region",
+    "city": "Kant",
+    "timezone": "Asia/Bishkek",
+    "asn": 12997,
+    "asn_org": "OJSC Kyrgyztelecom",
+    "sources_count": 20,
+    "first_seen": "2026-04-16T06:47:08.732Z",
+    "last_checked": "2026-09-25T04:28:36.458Z"
+  }
+]

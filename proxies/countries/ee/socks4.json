@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "57.128.231.218",
-    "port": 1002,
-    "url": "socks4://57.128.231.218:1002",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 732,
-    "latency_median_ms": 746.5,
-    "uptime_24h": 100,
-    "uptime_7d": 98.6,
-    "checks_7d": 290,
-    "exit_ip": "88.214.21.28",
-    "exit_shared": 2,
-    "country": "ee",
-    "region": "Harjumaa",
-    "city": "Tallinn",
-    "timezone": "Europe/Tallinn",
-    "asn": 43357,
-    "asn_org": "Owl Limited",
-    "sources_count": 16,
-    "first_seen": "2026-09-22T03:14:35.632Z",
-    "last_checked": "2026-09-24T04:31:36.998Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "185.157.111.3",
     "port": 5678,
     "url": "socks4://185.157.111.3:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1701,
-    "latency_median_ms": 790.5,
-    "uptime_24h": 51.6,
+    "latency_ms": 7947,
+    "latency_median_ms": 1705.5,
+    "uptime_24h": 68.7,
     "uptime_7d": 67.9,
-    "checks_7d": 675,
+    "checks_7d": 661,
     "exit_ip": "185.157.111.3",
     "exit_shared": 1,
     "country": "ee",
@@ -45,6 +21,6 @@
     "asn_org": "Elevi AS",
     "sources_count": 22,
     "first_seen": "2026-07-04T17:38:40.433Z",
-    "last_checked": "2026-09-24T04:33:53.764Z"
+    "last_checked": "2026-09-25T04:22:53.699Z"
   }
 ]

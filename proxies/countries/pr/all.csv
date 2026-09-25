@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,358,653.5,42.6,69.4,695,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-09-24T04:24:52.052Z
-http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,1352,3022,40.4,27.2,261,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,22,2026-05-04T08:39:48.827Z,2026-09-24T04:34:04.581Z
-http,174.138.162.35,8178,http://174.138.162.35:8178,anonymous,false,7687,6305.5,13,8,50,24.50.227.171,1,pr,Ponce,Ponce,America/Puerto_Rico,14638,Liberty Communications of Puerto Rico LLC,3,2026-09-11T07:59:19.039Z,2026-09-24T04:30:47.251Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,352,380,63.4,68,672,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-09-25T04:23:53.863Z
+socks4,154.64.219.4,5555,socks4://154.64.219.4:5555,elite,true,3397,1374.5,44.2,38,392,38.107.90.30,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,17,2026-07-27T03:22:34.437Z,2026-09-25T04:27:46.568Z
+http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,1427,2958,33.3,29.5,376,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,23,2026-05-04T08:39:48.827Z,2026-09-25T04:24:06.951Z
+http,192.203.0.250,999,http://192.203.0.250:999,transparent,true,1398,3340,31,22.4,263,192.203.0.250,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,19,2025-09-05T20:06:32.624Z,2026-09-25T04:21:46.295Z

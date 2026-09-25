@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.64.116.100,4145,socks4://102.64.116.100:4145,elite,false,2091,4116.5,22.5,17.2,232,102.129.89.170,1,cg,Brazzaville,Brazzaville,Africa/Brazzaville,37451,CONGO TELECOM,12,2025-09-04T23:48:58.981Z,2026-09-24T04:29:22.527Z
+socks4,102.64.116.121,4145,socks4://102.64.116.121:4145,elite,false,1089,1197.5,21.1,19.3,243,102.129.89.170,3,cg,Brazzaville,Brazzaville,Africa/Brazzaville,37451,CONGO TELECOM,9,2026-05-24T19:53:48.324Z,2026-09-25T04:26:20.764Z
+socks4,102.64.116.254,4145,socks4://102.64.116.254:4145,elite,false,2103,2130.5,32.3,16.6,199,102.129.89.170,3,cg,Brazzaville,Brazzaville,Africa/Brazzaville,37451,CONGO TELECOM,9,2025-09-04T23:49:05.212Z,2026-09-25T04:22:35.360Z
+socks4,102.64.116.97,4145,socks4://102.64.116.97:4145,elite,true,1110,1614,21.7,12.6,238,102.129.89.170,3,cg,Brazzaville,Brazzaville,Africa/Brazzaville,37451,CONGO TELECOM,8,2025-09-04T23:49:01.199Z,2026-09-25T04:31:01.338Z

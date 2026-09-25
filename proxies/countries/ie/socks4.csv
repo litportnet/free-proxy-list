@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.128.231.218,1003,socks4://57.128.231.218:1003,elite,true,1770,823,100,99.7,289,130.195.213.219,2,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,18,2026-09-22T04:15:16.453Z,2026-09-24T04:24:47.262Z

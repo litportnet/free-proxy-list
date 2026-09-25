@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,62.60.148.135,7777,socks5://62.60.148.135:7777,elite,false,9176,1404.5,77.4,,32,45.94.215.150,3,ir,Tehran,Tehran,Asia/Tehran,60631,Vandad Vira Hooman LLC,6,2026-09-01T08:22:31.184Z,2026-09-24T04:24:45.168Z
+socks5,87.107.68.231,1081,socks5://87.107.68.231:1081,elite,true,4555,5537,11.7,11.5,217,87.107.68.231,1,ir,Tehran,Tehran,Asia/Tehran,21341,Soroush Rasanheh Company Ltd,19,2026-07-14T16:43:30.275Z,2026-09-25T04:28:22.435Z

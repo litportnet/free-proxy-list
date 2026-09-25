@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,57.128.231.218,1004,socks5://57.128.231.218:1004,elite,true,1967,1031.5,99.3,93.2,923,185.204.1.216,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-09-12T20:18:08.182Z,2026-09-24T04:27:20.425Z
-socks5,83.147.216.208,1080,socks5://83.147.216.208:1080,elite,true,5889,2853.5,98.6,92.9,702,83.147.216.208,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,20,2026-07-26T04:12:05.758Z,2026-09-24T04:26:54.667Z
-socks5,176.124.205.244,1080,socks5://176.124.205.244:1080,elite,true,907,1245.5,74.6,86.4,513,176.124.205.244,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,16,2026-09-19T21:46:29.738Z,2026-09-24T04:31:16.058Z
-socks5,193.221.203.14,1080,socks5://193.221.203.14:1080,elite,false,3207,3389,26.2,27,259,193.221.203.14,3,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,18,2026-04-14T02:12:53.502Z,2026-09-24T04:27:18.857Z
+socks5,65.108.20.203,1587,socks5://65.108.20.203:1587,elite,true,811,813.5,78.9,39.8,103,65.108.20.203,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,15,2026-04-19T15:38:01.643Z,2026-09-25T04:22:39.553Z
+socks5,185.230.191.85,1080,socks5://185.230.191.85:1080,elite,true,793,827.5,100,,24,185.230.191.85,2,fi,Uusimaa,Helsinki,Europe/Helsinki,212706,LIVI HOSTING LTD,6,2026-09-25T00:32:10.465Z,2026-09-25T04:24:22.628Z
+socks5,62.60.250.171,40001,socks5://62.60.250.171:40001,elite,true,1932,903.5,100,,6,104.28.254.18,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",2,2026-09-25T03:33:44.720Z,2026-09-25T04:25:11.381Z

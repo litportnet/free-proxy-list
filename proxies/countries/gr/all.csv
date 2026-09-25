@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,62.103.186.66,4153,socks4://62.103.186.66:4153,elite,true,888,766,32.1,44.8,547,62.103.186.66,1,gr,South Aegean,Ródos,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),13,2025-09-04T23:49:04.664Z,2026-09-24T04:30:45.127Z
-http,150.140.148.235,80,http://150.140.148.235:80,elite,false,5364,4038.5,44.3,37.6,378,150.140.148.235,1,gr,Attica,Athens,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-09-24T04:31:39.127Z
+socks4,62.103.186.66,4153,socks4://62.103.186.66:4153,elite,true,762,760.5,45.7,44.7,521,62.103.186.66,1,gr,South Aegean,Ródos,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),14,2025-09-04T23:49:04.664Z,2026-09-25T04:23:23.493Z

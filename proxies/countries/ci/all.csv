@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,160.155.90.26,1080,socks4://160.155.90.26:1080,elite,true,5310,2024.5,49.5,68.9,692,160.155.90.26,1,ci,Savanes District,Korhogo,Africa/Abidjan,29571,Orange Côte d'Ivoire,13,2026-07-05T17:50:49.617Z,2026-09-24T04:29:02.538Z
+socks4,160.155.90.26,1080,socks4://160.155.90.26:1080,elite,true,930,1964,73.3,69,670,160.155.90.26,1,ci,Savanes District,Korhogo,Africa/Abidjan,29571,Orange Côte d'Ivoire,13,2026-07-05T17:50:49.617Z,2026-09-25T04:25:37.433Z

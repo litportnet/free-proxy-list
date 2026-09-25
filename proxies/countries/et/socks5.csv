@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.25,4740,socks5://45.74.31.25:4740,elite,false,3852,3801.5,45.2,29.7,91,213.55.96.150,1,et,Addis Ababa,Addis Ababa,Africa/Addis_Ababa,24757,Ethio Telecom,13,2026-09-19T04:37:26.707Z,2026-09-25T04:30:41.117Z

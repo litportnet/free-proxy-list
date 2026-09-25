@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.68.64.2,80,http://154.68.64.2:80,anonymous,false,1232,3212.5,65.5,69.8,625,154.68.64.2,4,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-13T06:03:40.428Z,2026-09-24T04:26:31.576Z
-http,154.68.64.6,80,http://154.68.64.6:80,anonymous,false,4162,1708,64.8,64.5,643,154.68.64.2,4,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-09-05T06:59:11.500Z,2026-09-24T04:27:58.948Z
-http,154.68.64.4,80,http://154.68.64.4:80,anonymous,false,4187,3203,55.9,62.2,642,154.68.64.2,4,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:18.383Z,2026-09-24T04:30:06.748Z
-http,154.68.64.3,80,http://154.68.64.3:80,anonymous,false,2300,2246,55.2,60.6,632,154.68.64.2,4,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:16.997Z,2026-09-24T04:32:40.135Z
+http,154.68.64.2,80,http://154.68.64.2:80,anonymous,false,2251,1760,85.7,73.5,728,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-13T06:03:40.428Z,2026-09-25T04:28:54.215Z
+http,154.68.64.6,80,http://154.68.64.6:80,anonymous,false,2124,1184,91.6,73,710,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-09-05T06:59:11.500Z,2026-09-25T04:23:03.635Z
+http,154.68.64.4,80,http://154.68.64.4:80,anonymous,false,1159,1444.5,86.5,69.5,702,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:18.383Z,2026-09-25T04:22:07.149Z
+http,154.68.64.3,80,http://154.68.64.3:80,anonymous,false,1214,1206,87.2,67.9,686,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:16.997Z,2026-09-25T04:21:44.144Z
+http,154.68.64.5,80,http://154.68.64.5:80,anonymous,false,4154,1247.5,86.6,67.2,694,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-09-06T14:14:48.394Z,2026-09-25T04:25:28.070Z

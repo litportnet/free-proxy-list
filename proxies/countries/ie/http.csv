@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.83.244.1,8080,http://5.83.244.1:8080,transparent,false,3421,4433,16.7,13.2,114,5.83.244.250,1,ie,Connacht,Roscommon,Europe/Dublin,57791,Arden Broadband Ltd,17,2025-09-07T09:17:15.601Z,2026-09-24T04:29:03.076Z

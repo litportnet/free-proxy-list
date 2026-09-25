@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,1352,3022,40.4,27.2,261,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,22,2026-05-04T08:39:48.827Z,2026-09-24T04:34:04.581Z
-http,174.138.162.35,8178,http://174.138.162.35:8178,anonymous,false,7687,6305.5,13,8,50,24.50.227.171,1,pr,Ponce,Ponce,America/Puerto_Rico,14638,Liberty Communications of Puerto Rico LLC,3,2026-09-11T07:59:19.039Z,2026-09-24T04:30:47.251Z
+http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,1427,2958,33.3,29.5,376,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,23,2026-05-04T08:39:48.827Z,2026-09-25T04:24:06.951Z
+http,192.203.0.250,999,http://192.203.0.250:999,transparent,true,1398,3340,31,22.4,263,192.203.0.250,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,19,2025-09-05T20:06:32.624Z,2026-09-25T04:21:46.295Z

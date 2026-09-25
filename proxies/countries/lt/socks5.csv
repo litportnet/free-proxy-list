@@ -1,7 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.50,36893,socks5://45.74.31.50:36893,elite,true,5897,4129.5,43.9,41.2,85,91.244.197.105,5,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,12,2026-09-22T15:20:59.025Z,2026-09-24T04:25:02.088Z
-socks5,45.74.31.23,5385,socks5://45.74.31.23:5385,elite,false,1795,2486,26.5,27.1,140,91.244.197.105,5,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,13,2026-09-22T02:14:09.239Z,2026-09-24T04:33:31.230Z
-socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,3803,860.5,21.4,19,310,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",21,2025-09-04T23:50:04.655Z,2026-09-24T04:31:10.688Z
-socks5,45.74.31.40,36179,socks5://45.74.31.40:36179,elite,true,773,2201,100,,8,91.244.197.105,5,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,2,2026-09-24T03:21:02.509Z,2026-09-24T04:31:43.901Z
-socks5,45.74.31.40,36166,socks5://45.74.31.40:36166,elite,true,799,2184,87.5,,8,91.244.197.105,5,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-09-24T03:21:06.379Z,2026-09-24T04:33:16.657Z
-socks5,45.74.31.40,36152,socks5://45.74.31.40:36152,elite,true,811,3147,75,,8,91.244.197.105,5,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-09-24T03:21:06.379Z,2026-09-24T04:32:58.945Z
+socks5,45.74.31.22,32680,socks5://45.74.31.22:32680,elite,false,2618,2400.5,33.3,,6,91.244.197.105,1,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-09-25T03:33:53.784Z,2026-09-25T04:27:28.854Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "41.216.232.213",
+    "port": 4153,
+    "url": "socks4://41.216.232.213:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4224,
+    "latency_median_ms": 2229.5,
+    "uptime_24h": 43.4,
+    "uptime_7d": 50.8,
+    "checks_7d": 601,
+    "exit_ip": "217.14.84.154",
+    "exit_shared": 1,
+    "country": "cm",
+    "region": "Littoral",
+    "city": "Douala",
+    "timezone": "Africa/Douala",
+    "asn": 37672,
+    "asn_org": "INQ DIGITAL CAMEROON SA",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:48:59.324Z",
+    "last_checked": "2026-09-25T04:28:38.534Z"
+  }
+]

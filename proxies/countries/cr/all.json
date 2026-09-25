@@ -6,11 +6,11 @@
     "url": "socks4://200.192.236.242:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 7810,
-    "latency_median_ms": 2526.5,
-    "uptime_24h": 31.4,
-    "uptime_7d": 50.3,
-    "checks_7d": 559,
+    "latency_ms": 7762,
+    "latency_median_ms": 1486.5,
+    "uptime_24h": 49.6,
+    "uptime_7d": 48,
+    "checks_7d": 587,
     "exit_ip": "200.192.236.242",
     "exit_shared": 1,
     "country": "cr",
@@ -21,6 +21,6 @@
     "asn_org": "GCI SERVICE PROVIDER S.A.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:29.573Z",
-    "last_checked": "2026-09-24T04:31:19.288Z"
+    "last_checked": "2026-09-25T04:30:52.912Z"
   }
 ]

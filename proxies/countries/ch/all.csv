@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,501,493.5,100,99.6,992,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-24T04:27:33.603Z
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,1722,709,100,99.5,999,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-24T04:25:56.439Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,664,659,50.9,80.1,602,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-24T04:33:10.228Z
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,4392,1797.5,54.3,68,625,37.120.213.10,1,ch,Zurich,Zürich,Europe/Zurich,9009,M247 Europe SRL,18,2026-09-16T03:18:05.440Z,2026-09-24T04:27:26.242Z
-http,167.86.111.116,3128,http://167.86.111.116:3128,transparent,false,1697,2066,34.7,43,423,107.189.31.187,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,23,2026-08-16T19:48:17.194Z,2026-09-24T04:25:56.437Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,481,492,100,99.8,996,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-25T04:26:16.077Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,674,713,100,99.8,1003,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-25T04:27:18.480Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,false,777,7369.5,91.5,94.3,782,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,16,2026-05-21T20:26:35.754Z,2026-09-25T04:24:53.082Z
+socks5,66.59.197.63,3128,socks5://66.59.197.63:3128,elite,false,692,737.5,52.1,42.4,568,86.104.249.37,1,ch,Zurich,Zürich,Europe/Zurich,25369,Hydra Communications Ltd,18,2026-08-13T17:09:24.786Z,2026-09-25T04:26:28.570Z
+http,54.188.236.206,1889,http://54.188.236.206:1889,unknown,false,2333,2333,23.8,,23,54.188.236.206,1,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,2,2026-09-23T17:15:40.055Z,2026-09-25T04:22:42.683Z

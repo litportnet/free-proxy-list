@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,6154,1952,32.2,53.3,606,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-09-24T04:31:03.763Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,1920,3777.5,45.1,50.9,623,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-09-25T04:22:47.409Z
+socks5,185.210.85.26,56981,socks5://185.210.85.26:56981,elite,true,809,817,36.7,30.8,458,185.210.85.26,1,ua,Kyiv Oblast,Mala Vilshanka,Europe/Kyiv,205673,Lanet Network Ltd,21,2025-09-05T20:06:31.396Z,2026-09-25T04:25:26.523Z
+socks5,91.224.96.93,1080,socks5://91.224.96.93:1080,elite,false,1120,2239.5,21.9,26.6,361,91.224.96.93,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,56354,IT-INVEST LTD,18,2026-09-19T03:36:58.056Z,2026-09-25T04:21:30.679Z

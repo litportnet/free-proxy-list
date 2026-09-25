@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "185.114.89.74",
+    "port": 1080,
+    "url": "socks4://185.114.89.74:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 789,
+    "latency_median_ms": 786.5,
+    "uptime_24h": 57.5,
+    "uptime_7d": 63.9,
+    "checks_7d": 635,
+    "exit_ip": "185.114.89.74",
+    "exit_shared": 1,
+    "country": "lb",
+    "region": "North Lebanon",
+    "city": "Tripoli",
+    "timezone": "Asia/Beirut",
+    "asn": 50500,
+    "asn_org": "BITAR NET SARL",
+    "sources_count": 14,
+    "first_seen": "2025-12-18T07:04:07.164Z",
+    "last_checked": "2026-09-25T04:30:50.291Z"
+  }
+]

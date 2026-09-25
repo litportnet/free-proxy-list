@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,147.45.66.116,1082,socks5://147.45.66.116:1082,elite,true,3927,3902,57.3,58.1,630,147.45.66.116,2,tr,Istanbul,Istanbul,Europe/Istanbul,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,20,2026-07-14T07:46:06.191Z,2026-09-24T04:25:06.818Z
-socks5,77.83.37.241,1080,socks5://77.83.37.241:1080,elite,false,5748,3553.5,35.9,34.8,112,77.83.37.241,1,tr,Istanbul,Istanbul,Europe/Istanbul,44714,SERVUDC VERI MERKEZI A.S.,12,2026-09-22T07:16:44.952Z,2026-09-24T04:28:37.116Z
-socks5,31.58.247.202,1080,socks5://31.58.247.202:1080,elite,true,1137,974,50,,8,31.58.247.202,2,tr,Bursa Province,Bursa,Europe/Istanbul,213799,CONHOST BILGI TEKNOLOJILERI VERI MERKEZI HIZMETLERI VE DANISMANLIK LIMITED SIRKETI,5,2026-09-24T03:21:03.909Z,2026-09-24T04:32:39.059Z
+socks5,193.164.5.59,11080,socks5://193.164.5.59:11080,elite,false,948,951,65,60,185,193.164.5.59,1,tr,Bursa Province,Bursa,Europe/Istanbul,205463,Pembe Gul Isguzar Karagoz,14,2026-09-23T17:15:43.069Z,2026-09-25T04:23:06.782Z

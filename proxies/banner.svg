@@ -17,13 +17,13 @@
   
   <rect x="0" y="376.8" width="1280" height="135.2" fill="#10253f"/>
   <text x="56" y="409" class="label">PUBLISHED PROXIES</text>
-  <text x="56" y="476" class="value">2,635</text>
+  <text x="56" y="476" class="value">2,457</text>
   <text x="304" y="409" class="label">COUNTRIES</text>
-  <text x="304" y="476" class="value">103</text>
+  <text x="304" y="476" class="value">106</text>
   <text x="644" y="409" class="label">PROTOCOL DISTRIBUTION</text>
   <rect x="644" y="432" width="560" height="16" rx="5" fill="#29405d"/>
   <clipPath id="protocol-bars"><rect x="644" y="432" width="560" height="16" rx="5"/></clipPath>
-  <g clip-path="url(#protocol-bars)"><rect x="644.00" y="432" width="186.81" height="16" fill="#28b8d8"/><rect x="830.81" y="432" width="152.38" height="16" fill="#7798ff"/><rect x="983.19" y="432" width="220.81" height="16" fill="#53d4a8"/></g>
-  <circle cx="644" cy="468" r="4" fill="#28b8d8"/><text x="654" y="474" class="legend">HTTP</text><text x="654" y="498" class="legend">33% · 879</text><circle cx="829" cy="468" r="4" fill="#7798ff"/><text x="839" y="474" class="legend">SOCKS4</text><text x="839" y="498" class="legend">27% · 717</text><circle cx="1014" cy="468" r="4" fill="#53d4a8"/><text x="1024" y="474" class="legend">SOCKS5</text><text x="1024" y="498" class="legend">39% · 1,039</text>
+  <g clip-path="url(#protocol-bars)"><rect x="644.00" y="432" width="189.17" height="16" fill="#28b8d8"/><rect x="833.17" y="432" width="163.87" height="16" fill="#7798ff"/><rect x="997.05" y="432" width="206.95" height="16" fill="#53d4a8"/></g>
+  <circle cx="644" cy="468" r="4" fill="#28b8d8"/><text x="654" y="474" class="legend">HTTP</text><text x="654" y="498" class="legend">34% · 830</text><circle cx="829" cy="468" r="4" fill="#7798ff"/><text x="839" y="474" class="legend">SOCKS4</text><text x="839" y="498" class="legend">29% · 719</text><circle cx="1014" cy="468" r="4" fill="#53d4a8"/><text x="1024" y="474" class="legend">SOCKS5</text><text x="1024" y="498" class="legend">37% · 908</text>
   
 </svg>

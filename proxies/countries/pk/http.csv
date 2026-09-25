@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,202.59.75.5,8080,http://202.59.75.5:8080,transparent,false,2317,2403.5,43.3,29.7,236,202.59.75.3,1,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,23,2026-09-19T02:36:24.799Z,2026-09-24T04:27:45.762Z
+http,137.59.195.198,8081,http://137.59.195.198:8081,elite,true,9941,3236,42.9,42.9,70,137.59.195.198,1,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,13,2026-09-24T11:25:20.071Z,2026-09-25T04:23:24.553Z
+http,202.59.75.5,8080,http://202.59.75.5:8080,transparent,true,2568,3082,36.3,31.5,337,202.59.75.3,3,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,23,2026-09-19T02:36:24.799Z,2026-09-25T04:23:04.154Z
+http,202.59.75.6,8080,http://202.59.75.6:8080,transparent,false,1895,4340,33.9,31.2,61,202.59.75.3,3,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,19,2026-09-20T04:50:40.143Z,2026-09-25T04:31:25.972Z
+http,202.59.75.3,8080,http://202.59.75.3:8080,transparent,false,4420,4695.5,31.9,30.7,127,202.59.75.3,3,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,20,2026-09-19T22:46:55.933Z,2026-09-25T04:23:58.612Z
+http,103.79.16.44,50009,http://103.79.16.44:50009,transparent,false,4113,4635.5,28.8,21.9,251,101.53.255.233,1,pk,Sindh,Karachi,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,20,2026-07-17T06:20:54.806Z,2026-09-25T04:24:31.075Z

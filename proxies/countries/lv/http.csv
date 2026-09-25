@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,213.111.180.252,3128,http://213.111.180.252:3128,transparent,true,3509,6282.5,27.3,28.8,111,213.111.180.252,1,lv,Riga,Riga,Europe/Riga,57169,EDIS GmbH,17,2026-09-22T09:17:48.860Z,2026-09-25T04:25:36.383Z

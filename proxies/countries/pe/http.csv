@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.252.217.32,999,http://38.252.217.32:999,transparent,true,9770,3244,19.3,14.9,221,204.157.243.16,1,pe,Lima region,Breña,America/Lima,274131,ANDINATEL S.A.C.,21,2026-02-17T15:25:11.262Z,2026-09-24T04:30:59.498Z
+http,181.66.252.65,999,http://181.66.252.65:999,transparent,true,1792,1990,14.7,21.1,355,181.66.252.65,1,pe,La Libertad,Laredo,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,25,2026-08-27T11:22:20.360Z,2026-09-25T04:28:40.609Z
+http,201.230.121.244,999,http://201.230.121.244:999,transparent,false,9435,4039,19.4,13.7,211,201.230.121.244,1,pe,San Martín Department,Sauce,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,22,2025-09-06T05:35:38.718Z,2026-09-25T04:30:00.353Z
+http,45.189.117.72,999,http://45.189.117.72:999,transparent,false,5346,4015,18.2,4.4,69,38.172.131.117,1,pe,Lima region,Vitarte,America/Lima,273133,CONEX TV E.I.R.L.,20,2025-12-07T06:43:55.811Z,2026-09-25T04:22:22.787Z

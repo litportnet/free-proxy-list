@@ -6,11 +6,11 @@
     "url": "socks5://195.135.255.98:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1229,
-    "latency_median_ms": 1234,
-    "uptime_24h": 80.2,
-    "uptime_7d": 65.5,
-    "checks_7d": 585,
+    "latency_ms": 966,
+    "latency_median_ms": 959,
+    "uptime_24h": 78.4,
+    "uptime_7d": 69.8,
+    "checks_7d": 629,
     "exit_ip": "195.135.255.98",
     "exit_shared": 1,
     "country": "lv",
@@ -21,6 +21,6 @@
     "asn_org": "SIA VEESP",
     "sources_count": 19,
     "first_seen": "2026-07-06T17:06:50.617Z",
-    "last_checked": "2026-09-24T04:24:12.428Z"
+    "last_checked": "2026-09-25T04:22:28.017Z"
   }
 ]

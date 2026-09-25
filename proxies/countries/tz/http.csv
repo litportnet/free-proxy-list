@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.220.128.210,8080,http://41.220.128.210:8080,transparent,true,3691,3550,15.7,17.3,197,41.220.128.210,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,23,2026-09-15T02:46:40.652Z,2026-09-24T04:29:26.798Z

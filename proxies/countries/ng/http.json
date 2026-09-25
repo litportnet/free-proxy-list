@@ -1,16 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "41.184.92.220",
+    "ip": "41.184.92.221",
     "port": 80,
-    "url": "http://41.184.92.220:80",
+    "url": "http://41.184.92.221:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 8049,
-    "latency_median_ms": 845,
-    "uptime_24h": 56.7,
-    "uptime_7d": 62.1,
-    "checks_7d": 641,
+    "latency_ms": 8095,
+    "latency_median_ms": 840.5,
+    "uptime_24h": 43.4,
+    "uptime_7d": 46.7,
+    "checks_7d": 565,
     "exit_ip": "41.73.242.219",
     "exit_shared": 1,
     "country": "ng",
@@ -19,9 +19,9 @@
     "timezone": "Africa/Lagos",
     "asn": 16284,
     "asn_org": "Inq. Digital Nigeria",
-    "sources_count": 11,
-    "first_seen": "2026-04-12T22:59:20.773Z",
-    "last_checked": "2026-09-24T04:29:59.823Z"
+    "sources_count": 18,
+    "first_seen": "2026-08-28T02:30:34.573Z",
+    "last_checked": "2026-09-25T04:20:51.170Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://143.105.102.145:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 5189,
-    "latency_median_ms": 4104,
-    "uptime_24h": 20.5,
-    "uptime_7d": null,
-    "checks_7d": 48,
+    "latency_ms": 7669,
+    "latency_median_ms": 2146.5,
+    "uptime_24h": 22.5,
+    "uptime_7d": 19.8,
+    "checks_7d": 96,
     "exit_ip": "143.105.102.145",
     "exit_shared": 1,
     "country": "ng",
@@ -45,6 +45,6 @@
     "asn_org": "Space Exploration Technologies Corporation",
     "sources_count": 8,
     "first_seen": "2026-06-05T02:24:54.768Z",
-    "last_checked": "2026-09-24T04:29:32.709Z"
+    "last_checked": "2026-09-25T04:24:06.959Z"
   }
 ]

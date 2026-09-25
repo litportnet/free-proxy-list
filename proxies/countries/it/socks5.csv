@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,109.73.181.233,7080,socks5://109.73.181.233:7080,elite,true,1007,1993,49,43.6,525,109.73.181.233,1,it,Molise,Termoli,Europe/Rome,49924,NETFREE S.R.L.S.,20,2026-09-16T03:18:09.454Z,2026-09-24T04:27:33.069Z
-socks5,45.86.231.96,4000,socks5://45.86.231.96:4000,elite,true,1570,816,90,,20,45.86.231.96,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,9,2026-09-24T01:19:57.985Z,2026-09-24T04:30:06.736Z
+socks5,109.73.181.233,7080,socks5://109.73.181.233:7080,elite,false,2258,2325.5,56.1,47.6,576,109.73.181.233,1,it,Molise,Termoli,Europe/Rome,49924,NETFREE S.R.L.S.,20,2026-09-16T03:18:09.454Z,2026-09-25T04:24:58.831Z

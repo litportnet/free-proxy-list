@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.1.97.198,80,http://196.1.97.198:80,elite,false,2450,1102,53.9,64.2,595,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,19,2025-12-06T18:03:11.613Z,2026-09-24T04:29:13.788Z
-http,196.1.95.124,80,http://196.1.95.124:80,elite,false,661,663,40.4,62.5,662,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,9,2025-09-04T23:49:35.054Z,2026-09-24T04:33:40.288Z
-http,196.1.93.10,80,http://196.1.93.10:80,elite,false,8631,4089,48.2,59,634,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-09-24T04:30:13.687Z
-http,196.1.93.16,80,http://196.1.93.16:80,elite,false,730,731.5,23.4,52.3,400,196.1.93.16,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,12,2025-09-10T21:05:10.863Z,2026-09-24T04:31:03.224Z
+http,196.1.97.198,80,http://196.1.97.198:80,elite,false,8316,2491.5,35.3,61.7,644,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,19,2025-12-06T18:03:11.613Z,2026-09-25T04:30:10.297Z
+http,196.1.95.124,80,http://196.1.95.124:80,elite,false,7482,759.5,30.3,55.1,622,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,1,2026-03-17T17:23:31.890Z,2026-09-25T04:21:01.711Z
+http,196.1.93.10,80,http://196.1.93.10:80,elite,false,1483,3870,49.2,53.6,649,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-09-25T04:25:10.314Z
+http,154.65.39.8,80,http://154.65.39.8:80,elite,false,5180,3704.5,50.8,49.1,542,154.65.39.8,1,sn,Dakar,Dakar,Africa/Dakar,37649,SAGA AFRICA HOLDINGS LIMITED,20,2025-09-10T19:34:33.119Z,2026-09-25T04:25:58.853Z
+http,196.1.93.16,80,http://196.1.93.16:80,elite,false,5204,753,26.9,47.6,437,196.1.93.16,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,12,2025-09-10T21:05:10.863Z,2026-09-25T04:22:31.157Z

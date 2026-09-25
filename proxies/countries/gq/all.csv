@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.251.241.54,8080,http://196.251.241.54:8080,transparent,false,1323,5519,18.8,10.2,128,196.251.241.54,1,gq,Bioko Norte,Malabo,Africa/Malabo,328207,OFFICE TECH,16,2025-09-10T21:05:10.837Z,2026-09-24T04:29:39.591Z
+http,102.164.252.150,8080,http://102.164.252.150:8080,transparent,false,1200,2532.5,35.3,28.2,380,102.164.252.150,1,gq,Litoral,Bata,Africa/Malabo,328311,"Conexxia Guinea Equatorial, S.L",16,2025-09-10T19:34:38.873Z,2026-09-25T04:30:33.784Z
+http,196.251.241.54,8080,http://196.251.241.54:8080,transparent,true,2589,3853,24.6,15.3,177,196.251.241.54,1,gq,Bioko Norte,Malabo,Africa/Malabo,328207,OFFICE TECH,16,2025-09-10T21:05:10.837Z,2026-09-25T04:21:10.218Z

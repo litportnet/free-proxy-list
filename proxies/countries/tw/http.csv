@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.147.74.123,7890,http://116.147.74.123:7890,elite,true,1350,1847.5,100,,2,61.228.141.227,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,1,2026-09-24T04:21:30.388Z,2026-09-24T04:31:32.733Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,7823,2941,49.6,63.2,711,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",16,2026-07-08T04:22:19.839Z,2026-09-25T04:30:56.081Z

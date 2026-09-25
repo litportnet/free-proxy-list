@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,1229,1234,80.2,65.5,585,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-09-24T04:24:12.428Z
-socks4,216.173.68.250,1080,socks4://216.173.68.250:1080,elite,false,688,696,44.9,45.2,374,216.173.68.250,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-09-18T02:43:04.257Z,2026-09-24T04:27:49.978Z
+socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,966,959,78.4,69.8,629,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-09-25T04:22:28.017Z
+http,213.111.180.252,3128,http://213.111.180.252:3128,transparent,true,3509,6282.5,27.3,28.8,111,213.111.180.252,1,lv,Riga,Riga,Europe/Riga,57169,EDIS GmbH,17,2026-09-22T09:17:48.860Z,2026-09-25T04:25:36.383Z

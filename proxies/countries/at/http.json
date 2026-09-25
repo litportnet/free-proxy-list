@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "193.233.233.62",
+    "port": 56736,
+    "url": "http://193.233.233.62:56736",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 480,
+    "latency_median_ms": 597,
+    "uptime_24h": 46.2,
+    "uptime_7d": null,
+    "checks_7d": 39,
+    "exit_ip": "193.233.233.62",
+    "exit_shared": 2,
+    "country": "at",
+    "region": "State of Vienna",
+    "city": "Vienna",
+    "timezone": "Europe/Vienna",
+    "asn": 210644,
+    "asn_org": "AEZA GROUP LLC",
+    "sources_count": 5,
+    "first_seen": "2026-08-04T03:05:57.709Z",
+    "last_checked": "2026-09-25T04:28:41.644Z"
+  }
+]

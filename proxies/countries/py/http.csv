@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,170.245.132.81,999,http://170.245.132.81:999,transparent,false,4765,2803,29.4,28,361,170.245.132.81,1,py,Paraguarí,Carapeguá,America/Asuncion,270096,"MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",14,2025-10-05T03:51:09.001Z,2026-09-24T04:29:29.533Z

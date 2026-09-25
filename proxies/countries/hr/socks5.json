@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10807,
+    "url": "socks5://49.13.22.249:10807",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8845,
+    "latency_median_ms": 4229,
+    "uptime_24h": 43.7,
+    "uptime_7d": 63.8,
+    "checks_7d": 268,
+    "exit_ip": "149.102.247.245",
+    "exit_shared": 1,
+    "country": "hr",
+    "region": "Zagreb",
+    "city": "Zagreb",
+    "timezone": "Europe/Zagreb",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 15,
+    "first_seen": "2026-09-22T16:21:33.920Z",
+    "last_checked": "2026-09-25T04:29:56.704Z"
+  }
+]

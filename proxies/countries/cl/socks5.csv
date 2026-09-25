@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10812,socks5://49.13.22.249:10812,elite,false,2966,2545,63.1,69.9,672,37.235.52.19,1,cl,Valparaiso,Viña del Mar,America/Santiago,28099,iHosting Servicios Internet Ltda.,19,2026-09-16T03:18:19.836Z,2026-09-25T04:21:38.391Z

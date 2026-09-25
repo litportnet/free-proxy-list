@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,4648,1469,75.4,81.4,794,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-09-24T04:28:23.315Z
-http,111.119.162.248,10980,http://111.119.162.248:10980,elite,true,1040,1337,19.1,11,100,108.181.70.23,1,es,Catalonia,Barcelona,Europe/Madrid,40676,Psychz Networks,13,2026-09-07T22:31:46.779Z,2026-09-24T04:26:39.998Z
-http,187.33.151.110,3128,http://187.33.151.110:3128,transparent,true,2007,1592,14.8,,46,187.33.151.110,1,es,Catalonia,Barcelona,Europe/Madrid,49635,CLOUDI NEXTGEN SL,15,2026-06-28T15:19:24.912Z,2026-09-24T04:25:36.164Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,461,1761,59.7,75,803,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-09-25T04:30:42.171Z
+http,77.209.239.223,8080,http://77.209.239.223:8080,transparent,false,6878,3828,42.3,42.3,97,77.209.239.223,1,es,Galicia,Vigo,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,16,2026-09-24T10:24:40.991Z,2026-09-25T04:30:21.793Z
+http,80.78.128.94,8080,http://80.78.128.94:8080,transparent,false,2655,2782.5,36.4,26.7,363,80.78.128.94,1,es,Valencia,Benidorm,Europe/Madrid,202913,"CLOUDWIFI, SL",16,2025-09-05T20:06:21.937Z,2026-09-25T04:25:01.450Z

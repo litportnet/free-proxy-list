@@ -5,12 +5,12 @@
     "port": 4145,
     "url": "socks4://185.190.90.2:4145",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 677,
-    "latency_median_ms": 717,
-    "uptime_24h": 51.4,
-    "uptime_7d": 60.2,
-    "checks_7d": 631,
+    "https": true,
+    "latency_ms": 3735,
+    "latency_median_ms": 1280.5,
+    "uptime_24h": 65.3,
+    "uptime_7d": 61.7,
+    "checks_7d": 668,
     "exit_ip": "185.190.90.2",
     "exit_shared": 1,
     "country": "al",
@@ -21,7 +21,7 @@
     "asn_org": "LightNet Sh.p.k.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:13.395Z",
-    "last_checked": "2026-09-24T04:26:45.771Z"
+    "last_checked": "2026-09-25T04:27:45.525Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://37.26.86.206:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1759,
-    "latency_median_ms": 720,
-    "uptime_24h": 46.2,
-    "uptime_7d": 59.4,
-    "checks_7d": 618,
+    "latency_ms": 1723,
+    "latency_median_ms": 846,
+    "uptime_24h": 55,
+    "uptime_7d": 59,
+    "checks_7d": 648,
     "exit_ip": "37.26.86.206",
     "exit_shared": 1,
     "country": "al",
@@ -45,7 +45,7 @@
     "asn_org": "Albanian Telecommunications Union SH. P.K.",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:02:23.648Z",
-    "last_checked": "2026-09-24T04:26:41.582Z"
+    "last_checked": "2026-09-25T04:30:51.870Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://80.78.74.8:65530",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 703,
-    "latency_median_ms": 701.5,
-    "uptime_24h": 36.2,
-    "uptime_7d": 53.2,
-    "checks_7d": 592,
+    "latency_ms": 3738,
+    "latency_median_ms": 1712.5,
+    "uptime_24h": 43.4,
+    "uptime_7d": 51.5,
+    "checks_7d": 571,
     "exit_ip": "80.78.74.8",
     "exit_shared": 1,
     "country": "al",
@@ -69,6 +69,6 @@
     "asn_org": "Vodafone Albania Sh.A.",
     "sources_count": 21,
     "first_seen": "2025-09-05T20:06:23.438Z",
-    "last_checked": "2026-09-24T04:32:29.407Z"
+    "last_checked": "2026-09-25T04:30:59.767Z"
   }
 ]

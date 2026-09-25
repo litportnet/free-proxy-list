@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,682,727,96.4,96.5,367,172.70.86.73,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-09-24T04:26:00.081Z
-http,172.237.102.212,3128,http://172.237.102.212:3128,elite,true,4016,3052,57.9,39.4,71,172.237.102.212,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,17,2026-09-21T12:06:37.043Z,2026-09-24T04:30:55.744Z
-http,194.164.22.24,8080,http://194.164.22.24:8080,elite,false,1436,3365.5,32.1,27.1,410,194.164.22.24,1,gb,England,London,Europe/London,8560,IONOS SE,25,2026-09-06T18:17:04.735Z,2026-09-24T04:32:50.939Z
-http,195.154.191.26,1085,http://195.154.191.26:1085,elite,false,762,6347.5,50,12.5,88,82.108.39.231,1,gb,England,London,Europe/London,2856,British Telecommunications Limited,7,2026-07-08T19:28:20.418Z,2026-09-24T04:32:38.530Z
-http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,558,561,100,,8,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-24T04:29:36.916Z
+http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,552,558.5,100,100,151,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-25T04:29:46.753Z

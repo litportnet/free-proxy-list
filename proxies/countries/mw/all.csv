@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,41.70.106.1,5678,socks4://41.70.106.1:5678,elite,true,1624,2655.5,40.2,47.5,550,41.70.9.10,1,mw,Southern Region,Blantyre,Africa/Blantyre,37215,Malawi Research and Education Network - MAREN,20,2025-09-04T23:49:00.291Z,2026-09-24T04:31:03.230Z
+socks4,41.70.106.1,5678,socks4://41.70.106.1:5678,elite,false,4672,2656.5,48.4,47.2,583,41.70.9.10,1,mw,Southern Region,Blantyre,Africa/Blantyre,37215,Malawi Research and Education Network - MAREN,20,2025-09-04T23:49:00.291Z,2026-09-25T04:24:47.822Z
+socks4,41.190.92.50,60606,socks4://41.190.92.50:60606,elite,false,4496,4482,33.6,32.5,480,41.190.92.50,1,mw,Southern Region,Blantyre,Africa/Blantyre,37187,Inq. Digital Limited,13,2025-09-04T23:49:14.559Z,2026-09-25T04:26:15.037Z

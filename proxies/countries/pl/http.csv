@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,148.81.121.5,8080,http://148.81.121.5:8080,transparent,true,3124,3870.5,100,19.1,131,148.81.121.5,1,pl,Mazovia,Warsaw,Europe/Warsaw,1887,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,25,2026-02-05T18:53:44.999Z,2026-09-24T04:31:39.135Z
+http,51.38.129.42,3169,http://51.38.129.42:3169,elite,true,7672,7619.5,12.5,12.7,189,51.38.129.42,1,pl,Mazovia,Warsaw,Europe/Warsaw,16276,OVH SAS,24,2026-09-05T06:58:31.776Z,2026-09-25T04:25:46.849Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.114.45.210,4153,socks4://85.114.45.210:4153,elite,true,708,674.5,52.6,60,633,85.114.45.210,1,hr,Istria,Medulin,Europe/Zagreb,34594,Telemach Hrvatska d.o.o.,1,2026-03-17T17:23:29.766Z,2026-09-24T04:28:23.322Z
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,8845,4229,43.7,63.8,268,149.102.247.245,1,hr,Zagreb,Zagreb,Europe/Zagreb,212238,Datacamp Limited,15,2026-09-22T16:21:33.920Z,2026-09-25T04:29:56.704Z
+socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,false,659,696,55.4,61.2,603,82.132.19.108,1,hr,Zagreb,Zagreb,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-09-25T04:23:50.230Z
+socks4,85.114.45.210,4153,socks4://85.114.45.210:4153,elite,false,687,688,43.5,58.3,624,85.114.45.210,1,hr,Istria,Medulin,Europe/Zagreb,34594,Telemach Hrvatska d.o.o.,1,2026-03-17T17:23:29.766Z,2026-09-25T04:27:13.826Z

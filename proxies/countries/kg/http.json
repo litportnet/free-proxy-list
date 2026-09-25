@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "178.217.168.164",
+    "port": 55443,
+    "url": "http://178.217.168.164:55443",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 889,
+    "latency_median_ms": 2951,
+    "uptime_24h": 37.5,
+    "uptime_7d": 25.6,
+    "checks_7d": 203,
+    "exit_ip": "178.217.168.164",
+    "exit_shared": 1,
+    "country": "kg",
+    "region": "Bishkek",
+    "city": "Bishkek",
+    "timezone": "Asia/Bishkek",
+    "asn": 197119,
+    "asn_org": "KRENA - Kyrgyz research and education network association",
+    "sources_count": 23,
+    "first_seen": "2025-12-24T20:54:24.318Z",
+    "last_checked": "2026-09-25T04:30:10.838Z"
+  }
+]
