@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "161.53.43.203",
+    "port": 8080,
+    "url": "http://161.53.43.203:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 588,
+    "latency_median_ms": 2455.5,
+    "uptime_24h": 44.8,
+    "uptime_7d": 20.1,
+    "checks_7d": 259,
+    "exit_ip": "161.53.43.203",
+    "exit_shared": 1,
+    "country": "hr",
+    "region": "Zagreb",
+    "city": "Zagreb",
+    "timezone": "Europe/Zagreb",
+    "asn": 2108,
+    "asn_org": "Croatian Academic and Research Network",
+    "sources_count": 19,
+    "first_seen": "2026-07-27T04:26:01.738Z",
+    "last_checked": "2026-09-26T04:28:23.832Z"
+  }
+]

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,192.243.115.26,1080,socks5://192.243.115.26:1080,elite,true,1619,1685.5,100,100,224,151.243.23.113,1,ae,Dubai,Dubai,Asia/Dubai,214143,SKYDIGITAL TELECOM LTD,13,2026-09-23T15:14:39.792Z,2026-09-25T04:31:29.096Z
-socks5,5.75.133.113,10812,socks5://5.75.133.113:10812,elite,false,3759,2040.5,60.7,65.8,635,45.9.249.158,1,ae,Dubai,Dubai,Asia/Dubai,9009,M247 Europe SRL,19,2026-09-16T21:27:40.844Z,2026-09-25T04:29:43.101Z
-socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,false,4549,2907.5,60.2,50.3,588,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,13,2026-06-14T08:18:53.054Z,2026-09-25T04:30:57.655Z
+socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,true,2616,3505,58.5,50.9,621,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,13,2026-06-14T08:18:53.054Z,2026-09-26T04:28:04.702Z

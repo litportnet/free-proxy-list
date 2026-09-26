@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,919,953,92.3,95.2,946,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-09-25T04:24:17.405Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,3824,1785,59,63.7,645,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-09-25T04:23:00.514Z
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,934,942,95.8,95.3,953,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-09-26T04:32:22.797Z
+socks4,108.61.160.231,1080,socks4://108.61.160.231:1080,elite,false,773,2320.5,43.7,39.3,534,108.61.160.231,2,jp,Tokyo,Ebara,Asia/Tokyo,20473,"The Constant Company, LLC",19,2026-09-14T08:37:06.988Z,2026-09-26T04:32:22.799Z
+socks4,111.119.162.248,10957,socks4://111.119.162.248:10957,elite,false,8358,2342,36.2,31.8,211,8.216.20.251,2,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",4,2026-08-15T10:30:42.288Z,2026-09-26T04:26:12.281Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,765,875.5,30.4,31.5,536,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-03-19T19:50:21.621Z,2026-09-26T04:27:08.956Z

@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,909,1918.5,53.3,44.7,550,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:49:05.991Z,2026-09-25T04:29:07.746Z
-socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,false,1906,2284.5,34.7,40.5,534,104.28.243.31,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-09-25T04:30:47.656Z
-socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,false,3914,1979.5,42.6,31.8,428,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-09-25T04:21:46.297Z
+socks4,175.203.138.160,5678,socks4://175.203.138.160:5678,elite,true,941,1926,77,70.9,676,175.203.138.160,1,kr,Chungcheongnam-do,Boryeong,Asia/Seoul,4766,Korea Telecom,13,2025-09-04T23:49:12.526Z,2026-09-26T04:24:15.634Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,1895,975,49.6,46.6,607,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:49:05.991Z,2026-09-26T04:28:02.555Z
+socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,true,2239,2516.5,39.6,41,559,104.28.243.31,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-09-26T04:29:27.927Z
+socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,false,929,1915,39.3,34.9,490,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-09-26T04:30:20.071Z

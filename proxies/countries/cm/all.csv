@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,41.216.232.213,4153,socks4://41.216.232.213:4153,elite,false,4224,2229.5,43.4,50.8,601,217.14.84.154,1,cm,Littoral,Douala,Africa/Douala,37672,INQ DIGITAL CAMEROON SA,14,2025-09-04T23:48:59.324Z,2026-09-25T04:28:38.534Z
+socks4,41.216.232.213,4153,socks4://41.216.232.213:4153,elite,false,8316,3235,31.8,48.1,632,217.14.84.154,1,cm,Littoral,Douala,Africa/Douala,37672,INQ DIGITAL CAMEROON SA,14,2025-09-04T23:48:59.324Z,2026-09-26T04:29:46.560Z

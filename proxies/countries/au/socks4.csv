@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,111.235.128.218,60606,socks4://111.235.128.218:60606,elite,false,8158,6224,21.7,19.2,318,111.235.128.218,1,au,Tasmania,Burnie,Australia/Hobart,134181,Burnie City Council,8,2026-04-14T04:25:18.761Z,2026-09-25T04:29:49.930Z
+socks4,168.138.9.147,1080,socks4://168.138.9.147:1080,elite,false,5175,5516.5,27.4,20.1,244,168.138.9.147,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,18,2026-03-18T02:28:35.700Z,2026-09-26T04:31:14.388Z

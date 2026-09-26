@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "216.173.68.250",
+    "port": 1080,
+    "url": "socks4://216.173.68.250:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 696,
+    "latency_median_ms": 790,
+    "uptime_24h": 46.6,
+    "uptime_7d": 44.7,
+    "checks_7d": 479,
+    "exit_ip": "216.173.68.250",
+    "exit_shared": 2,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 42532,
+    "asn_org": "SIA VEESP",
+    "sources_count": 19,
+    "first_seen": "2026-09-18T02:43:04.257Z",
+    "last_checked": "2026-09-26T04:25:18.155Z"
+  }
+]

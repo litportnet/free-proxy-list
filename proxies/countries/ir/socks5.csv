@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,87.107.68.231,1081,socks5://87.107.68.231:1081,elite,true,4555,5537,11.7,11.5,217,87.107.68.231,1,ir,Tehran,Tehran,Asia/Tehran,21341,Soroush Rasanheh Company Ltd,19,2026-07-14T16:43:30.275Z,2026-09-25T04:28:22.435Z

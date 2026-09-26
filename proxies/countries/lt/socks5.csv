@@ -1,2 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.22,32680,socks5://45.74.31.22:32680,elite,false,2618,2400.5,33.3,,6,91.244.197.105,1,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-09-25T03:33:53.784Z,2026-09-25T04:27:28.854Z
+socks5,45.74.31.50,36893,socks5://45.74.31.50:36893,elite,false,8755,5446,12.5,36.5,181,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,12,2026-09-22T15:20:59.025Z,2026-09-26T04:25:16.561Z
+socks5,45.74.31.22,32680,socks5://45.74.31.22:32680,elite,false,2706,4708,27.8,28.2,78,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,12,2026-09-25T03:33:53.784Z,2026-09-26T04:32:25.474Z
+socks5,45.74.31.22,32691,socks5://45.74.31.22:32691,elite,true,2306,3471,26.1,26.1,69,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,11,2026-09-25T04:34:20.081Z,2026-09-26T04:28:00.955Z
+socks5,45.74.31.30,30869,socks5://45.74.31.30:30869,elite,false,3792,3751.5,44.8,24.7,77,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,10,2026-09-20T03:49:54.481Z,2026-09-26T04:31:53.701Z
+socks5,45.74.31.30,6976,socks5://45.74.31.30:6976,elite,false,4750,4715.5,50,16.5,79,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,13,2026-09-14T20:43:30.319Z,2026-09-26T04:25:45.707Z
+socks5,45.74.31.30,9963,socks5://45.74.31.30:9963,elite,false,2666,4312.5,30,4.8,63,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,17,2026-09-12T22:19:08.072Z,2026-09-26T04:32:12.735Z
+socks5,45.74.31.30,10814,socks5://45.74.31.30:10814,elite,false,2792,2532,72.7,,40,91.244.197.105,7,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,5,2026-08-24T23:50:01.747Z,2026-09-26T04:30:31.212Z

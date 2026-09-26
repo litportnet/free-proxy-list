@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "93.184.72.130",
+    "port": 8080,
+    "url": "http://93.184.72.130:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 5546,
+    "latency_median_ms": 3512.5,
+    "uptime_24h": 12.5,
+    "uptime_7d": 21.5,
+    "checks_7d": 214,
+    "exit_ip": "93.184.72.130",
+    "exit_shared": 1,
+    "country": "sk",
+    "region": "Bratislava Region",
+    "city": "Bratislava",
+    "timezone": "Europe/Bratislava",
+    "asn": 29405,
+    "asn_org": "VNET a.s.",
+    "sources_count": 25,
+    "first_seen": "2026-09-02T00:32:15.563Z",
+    "last_checked": "2026-09-26T04:32:09.476Z"
+  }
+]

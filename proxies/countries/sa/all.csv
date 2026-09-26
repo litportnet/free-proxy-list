@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,130.110.103.245,3128,http://130.110.103.245:3128,transparent,true,770,838,95.8,98.2,988,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,21,2026-08-06T11:36:30.247Z,2026-09-25T04:30:05.571Z
+http,130.110.103.245,3128,http://130.110.103.245:3128,transparent,true,2654,2692.5,83.6,95.9,985,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,21,2026-08-06T11:36:30.247Z,2026-09-26T04:30:17.924Z

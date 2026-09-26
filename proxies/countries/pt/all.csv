@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.61.151.123,80,http://176.61.151.123:80,elite,false,3024,1109.5,87.3,92.2,922,176.61.151.122,1,pt,Faro,Faro,Europe/Lisbon,33876,"DMNS - DOMINIOS, S.A.",1,2026-03-17T17:23:31.926Z,2026-09-25T04:29:55.652Z
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,5362,2385,62.9,65.8,647,185.90.57.146,1,pt,Lisbon,Lisbon,Europe/Lisbon,59787,WEBSP LDA,18,2026-09-16T15:24:29.706Z,2026-09-25T04:27:25.739Z

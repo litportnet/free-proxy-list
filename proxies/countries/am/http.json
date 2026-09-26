@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "170.168.102.55",
+    "port": 3128,
+    "url": "http://170.168.102.55:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 5591,
+    "latency_median_ms": 7816,
+    "uptime_24h": 25,
+    "uptime_7d": 40,
+    "checks_7d": 410,
+    "exit_ip": "170.168.102.55",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 48207,
+    "asn_org": "GLB Bulut Teknolojisi Limited Sirketi",
+    "sources_count": 22,
+    "first_seen": "2026-07-10T04:49:32.711Z",
+    "last_checked": "2026-09-26T04:25:26.656Z"
+  }
+]

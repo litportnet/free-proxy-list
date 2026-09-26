@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.22.106,8080,http://190.181.22.106:8080,transparent,false,670,1765,38.1,41.9,253,200.58.77.139,1,bo,Cochabamba,Cochabamba,America/La_Paz,27839,Comteco Ltda,5,2026-08-31T15:15:04.138Z,2026-09-25T04:24:43.592Z
+http,190.181.22.106,8080,http://190.181.22.106:8080,transparent,false,634,1216,46.2,43.3,372,200.58.77.139,1,bo,Cochabamba,Cochabamba,America/La_Paz,27839,Comteco Ltda,6,2026-08-31T15:15:04.138Z,2026-09-26T04:24:24.642Z
+http,190.181.28.186,999,http://190.181.28.186:999,transparent,true,2363,4126,11.5,20.9,254,190.181.28.186,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,26210,AXS Bolivia S. A.,25,2026-07-31T06:15:29.295Z,2026-09-26T04:29:21.044Z

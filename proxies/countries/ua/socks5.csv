@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,1920,3777.5,45.1,50.9,623,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-09-25T04:22:47.409Z
-socks5,185.210.85.26,56981,socks5://185.210.85.26:56981,elite,true,809,817,36.7,30.8,458,185.210.85.26,1,ua,Kyiv Oblast,Mala Vilshanka,Europe/Kyiv,205673,Lanet Network Ltd,21,2025-09-05T20:06:31.396Z,2026-09-25T04:25:26.523Z
-socks5,91.224.96.93,1080,socks5://91.224.96.93:1080,elite,false,1120,2239.5,21.9,26.6,361,91.224.96.93,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,56354,IT-INVEST LTD,18,2026-09-19T03:36:58.056Z,2026-09-25T04:21:30.679Z
+socks5,95.85.72.169,14488,socks5://95.85.72.169:14488,elite,true,853,851.5,78.4,78.4,88,95.85.72.169,2,ua,Kyiv City,Kyiv,Europe/Kyiv,202422,G-Core Labs S.A.,10,2026-07-04T18:38:42.870Z,2026-09-26T04:26:22.890Z
+socks5,176.37.107.86,11111,socks5://176.37.107.86:11111,elite,false,811,1199.5,42.4,41.7,602,176.37.107.86,1,ua,Kyiv City,Kyiv,Europe/Kyiv,39608,Lanet Network Ltd,20,2026-08-01T16:35:23.813Z,2026-09-26T04:23:29.237Z
+socks5,185.210.85.26,56981,socks5://185.210.85.26:56981,elite,false,809,827.5,47,34.8,518,185.210.85.26,1,ua,Kyiv Oblast,Mala Vilshanka,Europe/Kyiv,205673,Lanet Network Ltd,21,2025-09-05T20:06:31.396Z,2026-09-26T04:23:03.853Z
+socks5,185.151.86.121,3699,socks5://185.151.86.121:3699,elite,false,7946,2209,12,19.2,282,31.128.249.254,1,ua,Cherkasy,Cherkasy,Europe/Kyiv,208139,FOP Avator Myhaylo Mykolayovych,18,2025-09-05T00:24:35.928Z,2026-09-26T04:24:59.630Z

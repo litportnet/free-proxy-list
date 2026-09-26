@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,7947,1705.5,68.7,67.9,661,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-09-25T04:22:53.699Z
-socks5,65.21.252.66,10807,socks5://65.21.252.66:10807,elite,true,1069,2663.5,60.9,50.3,344,158.173.75.178,1,ee,Harjumaa,Tallinn,Europe/Tallinn,206804,EstNOC OU,15,2026-09-21T09:05:03.337Z,2026-09-25T04:30:11.351Z
-http,193.42.112.26,8080,http://193.42.112.26:8080,transparent,false,4400,4738.5,23.6,25.7,300,193.42.112.26,1,ee,Harjumaa,Kuusalu,Europe/Tallinn,199144,HexCore cloud s.r.o.,25,2026-09-02T17:42:35.785Z,2026-09-25T04:30:10.305Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,615,619.5,82.6,68,751,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-26T04:27:47.776Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,973,908.5,72.4,66,429,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-09-26T04:23:41.854Z
+http,5.188.23.147,5555,http://5.188.23.147:5555,elite,true,3912,3785,40,38.4,125,5.188.23.147,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,21,2026-09-17T23:41:20.249Z,2026-09-26T04:28:52.954Z
+socks4,5.45.119.191,1080,socks4://5.45.119.191:1080,elite,true,670,695.5,90.9,,11,5.45.119.191,2,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,6,2026-09-26T02:46:08.345Z,2026-09-26T04:28:18.023Z
+socks5,5.45.119.191,1080,socks5://5.45.119.191:1080,elite,true,1908,969,100,,17,5.45.119.191,2,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,5,2026-09-26T01:45:29.322Z,2026-09-26T04:29:44.413Z

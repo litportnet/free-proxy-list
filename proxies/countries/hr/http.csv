@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,161.53.43.203,8080,http://161.53.43.203:8080,transparent,true,588,2455.5,44.8,20.1,259,161.53.43.203,1,hr,Zagreb,Zagreb,Europe/Zagreb,2108,Croatian Academic and Research Network,19,2026-07-27T04:26:01.738Z,2026-09-26T04:28:23.832Z

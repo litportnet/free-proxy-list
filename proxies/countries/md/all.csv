@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.55.3.113,4145,socks4://46.55.3.113:4145,elite,false,774,775,47.4,61.6,619,46.55.3.113,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,8926,Moldtelecom SA,18,2026-07-05T09:46:45.288Z,2026-09-25T04:27:18.996Z

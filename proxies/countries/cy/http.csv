@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.78.67.171,80,http://94.78.67.171:80,anonymous,false,305,334,100,100,1005,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,17,2026-07-26T20:20:40.472Z,2026-09-25T04:27:29.368Z
+http,94.78.67.171,80,http://94.78.67.171:80,anonymous,false,329,337.5,100,100,1004,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,17,2026-07-26T20:20:40.472Z,2026-09-26T04:30:28.588Z

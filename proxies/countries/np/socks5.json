@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks5://124.41.225.101:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 4872,
-    "latency_median_ms": 4222.5,
-    "uptime_24h": 57.6,
-    "uptime_7d": 47.6,
-    "checks_7d": 590,
+    "https": false,
+    "latency_ms": 3154,
+    "latency_median_ms": 4866,
+    "uptime_24h": 49.5,
+    "uptime_7d": 46.8,
+    "checks_7d": 602,
     "exit_ip": "124.41.225.101",
     "exit_shared": 1,
     "country": "np",
@@ -21,6 +21,6 @@
     "asn_org": "WorldLink Communications Pvt Ltd",
     "sources_count": 20,
     "first_seen": "2026-08-02T19:49:17.370Z",
-    "last_checked": "2026-09-25T04:21:54.614Z"
+    "last_checked": "2026-09-26T04:27:31.835Z"
   }
 ]

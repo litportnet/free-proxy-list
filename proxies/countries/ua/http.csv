@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.34.91.67,8080,http://195.34.91.67:8080,transparent,true,8391,4370,15.6,11.2,187,195.34.91.67,1,ua,Kyiv Oblast,Boyarka,Europe/Kyiv,25514,Modus-Global LLC,23,2025-09-10T20:03:51.246Z,2026-09-25T04:26:13.997Z
-http,31.133.97.58,8080,http://31.133.97.58:8080,transparent,true,8706,4803,33.3,,6,31.133.97.58,1,ua,Khmelnytskyi,Yarmolyntsi,Europe/Kyiv,48641,Syntegra Telecom LLC,3,2026-09-25T03:33:41.861Z,2026-09-25T04:27:49.760Z
+http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,false,4694,4323,44.6,38.5,444,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-09-26T04:30:55.687Z
+http,78.26.146.16,443,http://78.26.146.16:443,elite,false,2933,4200.5,19,18.1,221,78.26.146.16,1,ua,Odesa,Odesa,Europe/Kyiv,34187,LLC Renome-Service,9,2025-09-06T10:19:30.623Z,2026-09-26T04:31:40.954Z
+http,31.77.146.60,3128,http://31.77.146.60:3128,elite,false,680,834,40,,5,77.47.210.142,1,ua,Khmelnytskyi,Khmelnytskyi,Europe/Kyiv,3319,User Association of Ukrainian Research and Academic Network URAN,1,2026-09-26T03:46:24.909Z,2026-09-26T04:33:04.131Z

@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.8.235.10,4145,socks4://200.8.235.10:4145,elite,false,492,491.5,57.3,70.5,691,200.8.235.10,1,ve,Aragua,Maracay,America/Caracas,21826,Corporación Telemic C.A.,20,2026-07-08T04:22:20.090Z,2026-09-25T04:26:12.942Z
-socks4,170.254.173.6,1080,socks4://170.254.173.6:1080,elite,false,538,548,65.8,56.5,581,170.254.173.6,1,ve,Monagas,Maturín,America/Caracas,265641,TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),20,2026-07-05T16:48:25.056Z,2026-09-25T04:27:38.240Z
-socks4,190.120.250.31,4145,socks4://190.120.250.31:4145,elite,false,3449,5587.5,12.1,,35,190.120.248.32,1,ve,Distrito Federal,Caracas,America/Caracas,264628,"CORPORACION FIBEX TELECOM, C.A.",3,2025-09-10T07:56:56.868Z,2026-09-25T04:29:53.567Z

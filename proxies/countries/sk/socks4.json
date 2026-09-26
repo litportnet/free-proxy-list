@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "185.98.208.98",
+    "port": 28000,
+    "url": "socks4://185.98.208.98:28000",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 693,
+    "latency_median_ms": 688.5,
+    "uptime_24h": 61.3,
+    "uptime_7d": 59.7,
+    "checks_7d": 647,
+    "exit_ip": "185.98.208.98",
+    "exit_shared": 1,
+    "country": "sk",
+    "region": "Bratislava Region",
+    "city": "Blatné",
+    "timezone": "Europe/Bratislava",
+    "asn": 30929,
+    "asn_org": "GOLEM TECH s.r.o.",
+    "sources_count": 13,
+    "first_seen": "2026-02-25T19:09:07.562Z",
+    "last_checked": "2026-09-26T04:32:48.806Z"
+  }
+]

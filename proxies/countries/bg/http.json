@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "88.87.6.135",
+    "port": 3030,
+    "url": "http://88.87.6.135:3030",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 806,
+    "latency_median_ms": 2241.5,
+    "uptime_24h": 81.8,
+    "uptime_7d": null,
+    "checks_7d": 22,
+    "exit_ip": "88.87.6.135",
+    "exit_shared": 1,
+    "country": "bg",
+    "region": "Veliko Tarnovo",
+    "city": "Veliko Tŭrnovo",
+    "timezone": "Europe/Sofia",
+    "asn": 8866,
+    "asn_org": "Vivacom Bulgaria EAD",
+    "sources_count": 9,
+    "first_seen": "2026-09-26T00:44:49.968Z",
+    "last_checked": "2026-09-26T04:28:36.524Z"
+  }
+]

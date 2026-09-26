@@ -1,16 +1,16 @@
 [
   {
     "protocol": "socks5",
-    "ip": "45.74.31.25",
-    "port": 4740,
-    "url": "socks5://45.74.31.25:4740",
+    "ip": "45.74.31.30",
+    "port": 6573,
+    "url": "socks5://45.74.31.30:6573",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3852,
-    "latency_median_ms": 3801.5,
-    "uptime_24h": 45.2,
-    "uptime_7d": 29.7,
-    "checks_7d": 91,
+    "https": true,
+    "latency_ms": 5097,
+    "latency_median_ms": 4231,
+    "uptime_24h": 22.2,
+    "uptime_7d": 3.2,
+    "checks_7d": 63,
     "exit_ip": "213.55.96.150",
     "exit_shared": 1,
     "country": "et",
@@ -19,8 +19,8 @@
     "timezone": "Africa/Addis_Ababa",
     "asn": 24757,
     "asn_org": "Ethio Telecom",
-    "sources_count": 13,
-    "first_seen": "2026-09-19T04:37:26.707Z",
-    "last_checked": "2026-09-25T04:30:41.117Z"
+    "sources_count": 11,
+    "first_seen": "2026-08-23T20:34:55.851Z",
+    "last_checked": "2026-09-26T04:23:47.127Z"
   }
 ]

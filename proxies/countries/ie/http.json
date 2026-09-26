@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "5.83.244.1",
+    "port": 8080,
+    "url": "http://5.83.244.1:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3593,
+    "latency_median_ms": 4433,
+    "uptime_24h": 12.5,
+    "uptime_7d": 11.4,
+    "checks_7d": 141,
+    "exit_ip": "5.83.244.250",
+    "exit_shared": 1,
+    "country": "ie",
+    "region": "Connacht",
+    "city": "Roscommon",
+    "timezone": "Europe/Dublin",
+    "asn": 57791,
+    "asn_org": "Arden Broadband Ltd",
+    "sources_count": 17,
+    "first_seen": "2025-09-07T09:17:15.601Z",
+    "last_checked": "2026-09-26T04:26:10.702Z"
+  }
+]

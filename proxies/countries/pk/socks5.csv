@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,27.54.121.90,1080,socks5://27.54.121.90:1080,elite,false,5238,3502,67.2,67.2,128,27.54.121.90,2,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,12,2026-09-25T06:35:19.677Z,2026-09-26T04:27:07.358Z
+socks5,72.255.38.180,1080,socks5://72.255.38.180:1080,elite,false,4720,3152,35.6,29.7,509,72.255.38.180,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,19,2026-08-02T04:41:37.409Z,2026-09-26T04:29:40.703Z

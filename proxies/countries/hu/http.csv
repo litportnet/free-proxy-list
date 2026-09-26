@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,35.78.212.217,444,http://35.78.212.217:444,unknown,true,1733,2258,20,14.9,168,35.78.212.217,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,4,2026-07-30T22:11:10.497Z,2026-09-25T04:24:15.327Z

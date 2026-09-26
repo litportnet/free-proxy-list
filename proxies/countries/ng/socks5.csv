@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10811,socks5://49.13.22.249:10811,elite,false,1603,1795,46.4,61.8,644,79.127.149.40,1,ng,Lagos,Lagos,Africa/Lagos,212238,Datacamp Limited,19,2026-08-23T21:34:27.912Z,2026-09-25T04:25:51.032Z

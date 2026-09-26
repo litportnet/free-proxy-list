@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,948,1802,56.9,65.7,636,45.84.122.154,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,18,2026-09-16T03:18:05.440Z,2026-09-25T04:26:34.287Z
+socks5,109.172.8.142,666,socks5://109.172.8.142:666,elite,true,721,754,83.2,83.2,89,109.172.8.142,3,cz,South Bohemian Region,Veselí nad Lužnicí,Europe/Prague,62212,SmartApe OU,12,2026-09-25T13:39:02.682Z,2026-09-26T04:26:59.471Z

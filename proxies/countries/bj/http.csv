@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.216.57.75,8080,http://41.216.57.75:8080,transparent,true,1159,2603,25.9,21.2,283,41.216.57.75,1,bj,Atlantique,Abomey-Calavi,Africa/Porto-Novo,28683,SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES,25,2026-06-30T11:42:54.719Z,2026-09-26T04:26:31.828Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "83.143.24.66",
+    "port": 80,
+    "url": "http://83.143.24.66:80",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1308,
+    "latency_median_ms": 2791,
+    "uptime_24h": 62.4,
+    "uptime_7d": 40.9,
+    "checks_7d": 489,
+    "exit_ip": "83.143.24.66",
+    "exit_shared": 2,
+    "country": "bw",
+    "region": "Gaborone",
+    "city": "Gaborone",
+    "timezone": "Africa/Gaborone",
+    "asn": 328459,
+    "asn_org": "VBN Services",
+    "sources_count": 17,
+    "first_seen": "2025-09-05T20:06:32.587Z",
+    "last_checked": "2026-09-26T04:27:36.584Z"
+  }
+]

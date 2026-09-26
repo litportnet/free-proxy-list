@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,1427,2958,33.3,29.5,376,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,23,2026-05-04T08:39:48.827Z,2026-09-25T04:24:06.951Z
-http,192.203.0.250,999,http://192.203.0.250:999,transparent,true,1398,3340,31,22.4,263,192.203.0.250,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,19,2025-09-05T20:06:32.624Z,2026-09-25T04:21:46.295Z
+http,67.206.213.202,3120,http://67.206.213.202:3120,transparent,false,9274,3234.5,43.2,35.2,545,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,22,2025-09-05T00:23:48.169Z,2026-09-26T04:32:30.287Z
+http,192.203.0.210,999,http://192.203.0.210:999,transparent,false,2808,1624.5,30,28.2,220,192.203.0.210,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,11,2025-09-06T10:21:42.213Z,2026-09-26T04:31:39.878Z
+http,192.203.0.118,999,http://192.203.0.118:999,transparent,false,8736,3362.5,27.2,26.2,409,192.203.0.118,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2025-09-06T13:38:12.247Z,2026-09-26T04:31:14.395Z
+http,192.203.0.250,999,http://192.203.0.250:999,transparent,false,3365,1558.5,28.2,23.5,294,192.203.0.250,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,19,2025-09-05T20:06:32.624Z,2026-09-26T04:29:48.664Z

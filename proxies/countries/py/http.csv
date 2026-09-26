@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,170.245.132.81,999,http://170.245.132.81:999,transparent,false,1544,4936,17.7,22.6,390,170.245.132.81,1,py,Paraguarí,Carapeguá,America/Asuncion,270096,"MACHADO BAEZ, NERY JAVIER (LOCAL NET PARAGUAY)",14,2025-10-05T03:51:09.001Z,2026-09-26T04:32:04.485Z
+http,181.233.100.100,8080,http://181.233.100.100:8080,transparent,false,3784,3991.5,17.1,13.7,197,181.233.100.100,1,py,San Pedro Department,Veinticinco de Diciembre,America/Asuncion,272099,WIRSCHKE MONGES RICARDO DANIEL,21,2026-06-01T10:31:06.992Z,2026-09-26T04:27:42.948Z

@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,105,132,89.5,87.2,868,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-09-25T04:30:25.955Z
-http,173.181.143.245,80,http://173.181.143.245:80,elite,false,820,1639.5,43.6,42.5,485,173.181.143.245,1,ca,British Columbia,Vancouver,America/Vancouver,852,TELUS Communications Inc.,14,2025-09-09T19:49:52.324Z,2026-09-25T04:22:59.981Z
-http,217.182.195.221,30003,http://217.182.195.221:30003,transparent,true,8268,3074,34.6,37.9,406,78.17.93.169,1,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,19,2026-04-01T12:32:39.952Z,2026-09-25T04:25:37.951Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,107,162,84.3,85.3,870,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-09-26T04:23:57.145Z
+http,173.181.143.245,80,http://173.181.143.245:80,elite,false,915,3188.5,41.5,44,577,173.181.143.245,1,ca,British Columbia,Vancouver,America/Vancouver,852,TELUS Communications Inc.,14,2025-09-09T19:49:52.324Z,2026-09-26T04:33:13.174Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,759,780,35.1,31.2,301,104.193.135.222,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,23,2026-09-12T17:16:29.342Z,2026-09-26T04:29:59.798Z
+http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,true,6098,5298.5,26.4,27.6,474,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,11,2025-11-06T15:40:16.476Z,2026-09-26T04:24:37.384Z
