@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,735,2570.5,99.3,99.9,1004,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-26T17:08:50.361Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,1507,616.5,98.6,99.7,1001,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-26T17:10:49.376Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,2568,2667,68.7,87.8,784,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,16,2026-05-21T20:26:35.754Z,2026-09-26T17:12:59.370Z
+http,217.182.195.221,30006,http://217.182.195.221:30006,transparent,false,2408,2135,50.4,45.4,573,107.189.8.226,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,23,2026-08-08T15:04:14.907Z,2026-09-26T17:11:10.239Z
+socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,true,603,1124,43.8,42.7,597,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-09-26T17:10:28.619Z
+socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,587,1617.5,46.5,38.8,611,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-09-26T17:11:22.018Z

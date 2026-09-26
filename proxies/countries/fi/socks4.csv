@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,2587,4848,71.2,80.1,820,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-09-26T17:09:58.464Z
+socks4,95.81.126.73,1080,socks4://95.81.126.73:1080,elite,true,2125,2005,58.8,58.8,51,95.81.126.73,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,1,2026-05-19T22:05:31.688Z,2026-09-26T17:12:11.659Z
+socks4,195.133.26.196,1080,socks4://195.133.26.196:1080,elite,false,6589,3712,35.4,31.8,346,195.133.26.196,1,fi,Uusimaa,Helsinki,Europe/Helsinki,216024,ALEKSEI FEDOROV PR KRUSEVAC,19,2026-08-16T08:42:52.918Z,2026-09-26T17:13:19.494Z
+socks4,193.221.203.14,1080,socks4://193.221.203.14:1080,elite,false,1686,3537.5,32,30.1,418,193.221.203.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,13,2026-04-13T17:15:03.771Z,2026-09-26T17:07:49.248Z

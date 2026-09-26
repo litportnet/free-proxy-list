@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,181.115.74.172,5678,socks4://181.115.74.172:5678,elite,true,410,421.5,47.3,74.9,824,181.115.74.172,1,hn,Atlántida Department,Tela,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",13,2025-09-04T23:49:05.467Z,2026-09-26T17:06:22.413Z
+http,164.163.73.153,999,http://164.163.73.153:999,transparent,false,7968,4928.5,32.4,26.4,489,164.163.75.211,1,hn,Copán Department,Santa Rosa de Copán,America/Tegucigalpa,265767,GRUPO INMA S.A,13,2025-09-13T22:42:00.499Z,2026-09-26T17:11:58.725Z
+http,181.115.67.3,999,http://181.115.67.3:999,transparent,false,4715,4392,23,19.4,324,181.119.101.117,1,hn,Francisco Morazán Department,Tegucigalpa,America/Tegucigalpa,52468,UFINET PANAMA S.A.,21,2025-09-04T23:49:30.166Z,2026-09-26T17:11:58.734Z

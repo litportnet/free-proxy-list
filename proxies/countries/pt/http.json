@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "176.61.151.123",
+    "port": 80,
+    "url": "http://176.61.151.123:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5374,
+    "latency_median_ms": 3331,
+    "uptime_24h": 76.1,
+    "uptime_7d": 88.8,
+    "checks_7d": 929,
+    "exit_ip": "176.61.151.122",
+    "exit_shared": 1,
+    "country": "pt",
+    "region": "Faro",
+    "city": "Faro",
+    "timezone": "Europe/Lisbon",
+    "asn": 33876,
+    "asn_org": "DMNS - DOMINIOS, S.A.",
+    "sources_count": 20,
+    "first_seen": "2025-12-07T12:47:41.062Z",
+    "last_checked": "2026-09-26T17:11:07.020Z"
+  }
+]

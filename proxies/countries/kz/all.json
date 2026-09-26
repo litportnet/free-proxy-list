@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "45.147.179.118",
+    "port": 3129,
+    "url": "http://45.147.179.118:3129",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 1214,
+    "latency_median_ms": 1225.5,
+    "uptime_24h": 83.8,
+    "uptime_7d": 33.9,
+    "checks_7d": 109,
+    "exit_ip": "2.27.131.49",
+    "exit_shared": 1,
+    "country": "kz",
+    "region": "Astana",
+    "city": "Astana",
+    "timezone": "Asia/Almaty",
+    "asn": 208450,
+    "asn_org": "Megahost Kazakhstan TOO",
+    "sources_count": 15,
+    "first_seen": "2026-09-21T14:08:07.403Z",
+    "last_checked": "2026-09-26T17:03:10.868Z"
+  }
+]

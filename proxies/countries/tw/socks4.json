@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "128.14.229.215",
+    "port": 1080,
+    "url": "socks4://128.14.229.215:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4490,
+    "latency_median_ms": 4853.5,
+    "uptime_24h": 77.5,
+    "uptime_7d": 77.4,
+    "checks_7d": 195,
+    "exit_ip": "128.14.229.215",
+    "exit_shared": 2,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taipei",
+    "timezone": "Asia/Taipei",
+    "asn": 135377,
+    "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
+    "sources_count": 13,
+    "first_seen": "2026-09-25T07:36:07.314Z",
+    "last_checked": "2026-09-26T17:10:32.753Z"
+  }
+]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,735,2570.5,99.3,99.9,1004,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-26T17:08:50.361Z

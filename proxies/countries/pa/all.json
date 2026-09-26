@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "45.229.58.33",
+    "port": 999,
+    "url": "http://45.229.58.33:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 2711,
+    "latency_median_ms": 2711,
+    "uptime_24h": 50,
+    "uptime_7d": null,
+    "checks_7d": 8,
+    "exit_ip": "186.72.64.114",
+    "exit_shared": 1,
+    "country": "pa",
+    "region": "Panamá",
+    "city": "Panama City",
+    "timezone": "America/Panama",
+    "asn": 11556,
+    "asn_org": "Cable & Wireless Panama",
+    "sources_count": 15,
+    "first_seen": "2025-09-05T20:06:34.963Z",
+    "last_checked": "2026-09-26T17:05:28.788Z"
+  }
+]

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,89.22.226.183,1080,socks5://89.22.226.183:1080,elite,true,4032,2623.5,95.1,95.5,157,89.22.226.183,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,13,2026-09-25T14:39:33.903Z,2026-09-26T17:05:03.660Z
+socks5,83.147.216.208,1080,socks5://83.147.216.208:1080,elite,true,862,868.5,88.7,86,695,83.147.216.208,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,20,2026-07-26T04:12:05.758Z,2026-09-26T17:08:09.630Z
+socks5,85.209.156.148,1080,socks5://85.209.156.148:1080,elite,true,3891,4562.5,63,71.5,738,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-08-25T00:49:11.337Z,2026-09-26T17:07:32.506Z
+socks5,2.26.97.76,1080,socks5://2.26.97.76:1080,elite,true,6007,5584.5,67.7,56.8,222,2.26.97.76,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215439,PLAY2GO INTERNATIONAL LIMITED,13,2026-09-24T21:31:01.192Z,2026-09-26T17:05:31.997Z
+socks5,45.74.31.47,19459,socks5://45.74.31.47:19459,elite,false,793,2720,59.5,32.6,187,65.109.33.26,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,11,2026-09-16T14:23:56.584Z,2026-09-26T17:07:12.483Z

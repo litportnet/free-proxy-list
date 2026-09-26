@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.62.48.126,5678,socks4://185.62.48.126:5678,elite,false,1314,3227.5,67.4,66.5,690,185.62.48.126,1,it,Molise,Isernia,Europe/Rome,201847,Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.,20,2026-09-18T08:46:12.830Z,2026-09-26T17:07:36.843Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,617,631,30,55.3,673,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-09-26T17:06:39.034Z
+socks4,2.115.212.62,48293,socks4://2.115.212.62:48293,elite,false,8726,2665,33,55.2,641,2.115.212.62,1,it,Sicily,Furnari,Europe/Rome,3269,Telecom Italia S.p.A.,12,2025-09-05T20:06:37.433Z,2026-09-26T17:05:48.617Z
+socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,true,2851,3137,22.2,47.9,607,91.192.25.37,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-09-26T17:12:48.253Z
+http,174.138.161.190,8001,http://174.138.161.190:8001,anonymous,false,1106,2662.5,46.5,46.9,128,37.99.229.203,1,it,Campania,Montoro Superiore,Europe/Rome,48500,Irpinia Net-Com SRL,6,2026-05-13T13:35:43.911Z,2026-09-26T17:02:34.834Z
+socks4,94.198.213.252,5678,socks4://94.198.213.252:5678,elite,false,1632,3655.5,48.7,40.5,581,109.70.206.178,2,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,12,2025-09-04T23:49:07.766Z,2026-09-26T17:11:46.819Z
+socks4,94.198.211.217,5678,socks4://94.198.211.217:5678,elite,true,640,1300,37.7,40.4,586,109.70.206.178,2,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,12,2025-09-04T23:49:14.405Z,2026-09-26T17:06:39.554Z

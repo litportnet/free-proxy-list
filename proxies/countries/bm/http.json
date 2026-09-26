@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "174.138.161.149",
+    "port": 8254,
+    "url": "http://174.138.161.149:8254",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1462,
+    "latency_median_ms": 1546,
+    "uptime_24h": 55.6,
+    "uptime_7d": null,
+    "checks_7d": 18,
+    "exit_ip": "64.147.87.195",
+    "exit_shared": 1,
+    "country": "bm",
+    "region": "Warwick",
+    "city": "Warwick Parish",
+    "timezone": "Atlantic/Bermuda",
+    "asn": 32020,
+    "asn_org": "Transact Ltd.",
+    "sources_count": 6,
+    "first_seen": "2026-09-26T13:51:50.026Z",
+    "last_checked": "2026-09-26T17:07:17.313Z"
+  }
+]

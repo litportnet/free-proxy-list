@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,174.138.161.146,8001,http://174.138.161.146:8001,elite,false,808,1292.5,52.6,54.7,148,207.254.138.25,1,tc,Turks and Caicos Islands,Providenciales,America/Grand_Turk,22933,"Cable and Wireless, Turks and Caicos",15,2026-09-25T14:39:38.339Z,2026-09-26T17:08:31.665Z

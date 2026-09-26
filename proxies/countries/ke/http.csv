@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.68.76.247,5566,http://102.68.76.247:5566,transparent,false,2612,2521.5,48.3,34.8,535,102.211.147.69,1,ke,Nairobi County,Nairobi,Africa/Nairobi,328490,Unwired Communications Limited,24,2026-08-12T03:48:56.642Z,2026-09-26T17:10:42.481Z
+http,102.203.101.169,8080,http://102.203.101.169:8080,transparent,true,4863,4092.5,40.5,30.7,218,102.203.101.169,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329497,Avitech Solutions LTD,14,2026-08-29T05:44:06.660Z,2026-09-26T17:11:25.218Z
+http,41.139.160.219,8104,http://41.139.160.219:8104,transparent,false,2340,4199,27.3,30.1,249,41.139.160.219,1,ke,Kajiado County,Ongata Rongai,Africa/Nairobi,37061,Safaricom Limited,17,2026-09-22T18:03:34.677Z,2026-09-26T17:08:33.250Z
+http,102.203.101.155,8080,http://102.203.101.155:8080,transparent,true,8337,3706.5,29.4,22.9,371,102.203.101.155,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329497,Avitech Solutions LTD,21,2026-08-26T22:15:04.517Z,2026-09-26T17:12:20.227Z

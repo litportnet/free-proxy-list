@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,102.129.229.131,1081,socks5://102.129.229.131:1081,elite,false,5019,4929.5,81,86.5,416,102.129.229.131,2,th,Bangkok,Bangkok,Asia/Bangkok,138156,"CSNE Co., Ltd.",14,2026-09-23T17:15:43.069Z,2026-09-26T17:02:47.598Z
+socks5,66.59.197.62,3128,socks5://66.59.197.62:3128,elite,false,1429,665,65,48.9,656,186.247.190.11,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,18,2026-08-10T07:23:26.060Z,2026-09-26T17:12:55.013Z
+socks5,66.59.197.63,4000,socks5://66.59.197.63:4000,elite,true,1287,1275,51.9,44,598,186.247.190.58,2,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,19,2026-08-13T17:09:24.127Z,2026-09-26T17:08:21.999Z
+socks5,66.59.197.61,4000,socks5://66.59.197.61:4000,elite,true,1354,1276.5,55.2,42.7,627,186.247.190.58,2,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,19,2026-08-15T21:37:09.934Z,2026-09-26T17:10:09.381Z

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,86.127.187.149,1080,socks4://86.127.187.149:1080,elite,true,741,1336,90.6,90.6,85,86.127.187.149,1,ro,Suceava,Suceava,Europe/Bucharest,8708,DIGI ROMANIA S.A.,13,2026-09-26T02:45:54.731Z,2026-09-26T17:10:11.074Z
+socks4,132.243.168.30,9150,socks4://132.243.168.30:9150,elite,false,1112,1131,57.3,73.4,768,185.100.87.166,1,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,16,2026-08-31T03:06:55.817Z,2026-09-26T17:04:43.889Z
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,true,800,1802.5,50.4,69.2,770,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,1,2026-03-17T17:23:30.908Z,2026-09-26T17:13:16.738Z
+socks4,86.127.209.234,1080,socks4://86.127.209.234:1080,elite,true,750,779,100,,21,86.127.209.234,1,ro,Brăila County,Brăila,Europe/Bucharest,8708,DIGI ROMANIA S.A.,8,2026-09-26T13:51:44.429Z,2026-09-26T17:12:29.453Z

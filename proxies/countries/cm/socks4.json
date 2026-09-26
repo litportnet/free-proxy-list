@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "102.132.17.30",
+    "port": 1080,
+    "url": "socks4://102.132.17.30:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4050,
+    "latency_median_ms": 1994,
+    "uptime_24h": 62.6,
+    "uptime_7d": 34.1,
+    "checks_7d": 425,
+    "exit_ip": "102.132.17.30",
+    "exit_shared": 1,
+    "country": "cm",
+    "region": "Littoral",
+    "city": "Douala",
+    "timezone": "Africa/Douala",
+    "asn": 327820,
+    "asn_org": "SWECOM PLC",
+    "sources_count": 12,
+    "first_seen": "2026-07-04T16:35:29.162Z",
+    "last_checked": "2026-09-26T17:11:17.190Z"
+  }
+]

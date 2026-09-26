@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,119.40.98.27,8069,socks4://119.40.98.27:8069,elite,false,1123,2178,19.1,30.5,410,119.40.98.26,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,10109,"Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",20,2025-12-09T05:09:16.299Z,2026-09-26T17:07:42.159Z

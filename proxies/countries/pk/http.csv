@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,202.59.75.4,8080,http://202.59.75.4:8080,transparent,false,3081,4711.5,49.2,36,470,202.59.75.3,2,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,24,2026-09-19T17:44:20.936Z,2026-09-26T17:05:21.233Z
+http,202.59.75.5,8080,http://202.59.75.5:8080,transparent,false,2022,2703,24.1,31.3,432,202.59.75.3,2,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,23,2026-09-19T02:36:24.799Z,2026-09-26T17:12:28.932Z
+http,110.39.15.206,8082,http://110.39.15.206:8082,transparent,true,4140,5820.5,26.8,20.4,284,110.39.15.206,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,25,2026-07-28T06:37:31.689Z,2026-09-26T17:12:23.495Z

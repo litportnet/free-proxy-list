@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,128.14.229.215,1080,socks4://128.14.229.215:1080,elite,true,4490,4853.5,77.5,77.4,195,128.14.229.215,2,tw,Taiwan,Taipei,Asia/Taipei,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,13,2026-09-25T07:36:07.314Z,2026-09-26T17:10:32.753Z
+socks5,128.14.229.215,1080,socks5://128.14.229.215:1080,elite,false,6933,5692.5,55.5,58.5,188,128.14.229.215,2,tw,Taiwan,Taipei,Asia/Taipei,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,12,2026-09-25T06:35:23.534Z,2026-09-26T17:12:56.701Z
+http,210.61.216.63,60808,http://210.61.216.63:60808,elite,false,6118,4582,50,9.3,75,111.248.69.113,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,21,2025-09-05T20:06:26.024Z,2026-09-26T17:05:35.712Z

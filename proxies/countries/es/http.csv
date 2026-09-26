@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,90.161.220.67,3128,http://90.161.220.67:3128,transparent,true,582,2218.5,37.4,27.9,476,90.161.220.67,1,es,Andalusia,Conil de la Frontera,Europe/Madrid,12479,Orange Espagne SA,24,2026-09-05T02:55:03.785Z,2026-09-26T17:11:34.330Z
+http,193.38.224.169,8081,http://193.38.224.169:8081,transparent,true,2163,5558.5,27.8,19.4,314,193.38.224.169,1,es,Madrid,Madrid,Europe/Madrid,206276,Citelia s.a.,20,2025-09-05T20:06:20.927Z,2026-09-26T17:12:06.821Z

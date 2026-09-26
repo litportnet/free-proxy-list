@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "202.144.134.150",
+    "port": 5678,
+    "url": "socks4://202.144.134.150:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8802,
+    "latency_median_ms": 2578.5,
+    "uptime_24h": 33.3,
+    "uptime_7d": 44.2,
+    "checks_7d": 496,
+    "exit_ip": "202.144.134.150",
+    "exit_shared": 1,
+    "country": "bt",
+    "region": "Chukha",
+    "city": "Phuntsholing",
+    "timezone": "Asia/Thimphu",
+    "asn": 18024,
+    "asn_org": "Bhutan Telecom Ltd",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:55.730Z",
+    "last_checked": "2026-09-26T17:09:25.667Z"
+  }
+]

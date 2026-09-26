@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,1756,1739,86.3,73.7,722,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-09-26T17:06:41.675Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,567,630,91.6,70.6,778,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-26T17:12:48.799Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,1415,1233,66.4,63.4,442,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-09-26T17:08:10.156Z
+http,193.42.112.26,8080,http://193.42.112.26:8080,transparent,true,8757,4655.5,28.4,24.6,395,193.42.112.26,1,ee,Harjumaa,Kuusalu,Europe/Tallinn,199144,HexCore cloud s.r.o.,25,2026-09-02T17:42:35.785Z,2026-09-26T17:11:20.914Z

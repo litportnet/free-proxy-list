@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,154.68.64.2,80,http://154.68.64.2:80,anonymous,false,1276,2187,72.4,74.6,773,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-13T06:03:40.428Z,2026-09-26T17:09:26.720Z
+http,154.68.64.6,80,http://154.68.64.6:80,anonymous,false,1199,2157,70.4,74.5,756,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-09-05T06:59:11.500Z,2026-09-26T17:04:13.014Z
+http,154.68.64.4,80,http://154.68.64.4:80,anonymous,false,8462,3202.5,76.6,72.6,754,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:18.383Z,2026-09-26T17:06:20.800Z
+http,154.68.64.5,80,http://154.68.64.5:80,anonymous,false,2156,2231,72.2,71.1,752,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-09-06T14:14:48.394Z,2026-09-26T17:10:03.786Z
+http,154.68.64.3,80,http://154.68.64.3:80,anonymous,false,1155,3184,70.3,70,731,154.68.64.2,5,rw,Kigali,Kigali,Africa/Kigali,37654,Rwanda Ministry of Education,19,2026-08-17T12:56:16.997Z,2026-09-26T17:12:03.005Z

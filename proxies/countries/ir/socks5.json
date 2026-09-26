@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "87.107.68.231",
+    "port": 1081,
+    "url": "socks5://87.107.68.231:1081",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2528,
+    "latency_median_ms": 3611.5,
+    "uptime_24h": 28.3,
+    "uptime_7d": 15.5,
+    "checks_7d": 303,
+    "exit_ip": "87.107.68.231",
+    "exit_shared": 1,
+    "country": "ir",
+    "region": "Tehran",
+    "city": "Tehran",
+    "timezone": "Asia/Tehran",
+    "asn": 21341,
+    "asn_org": "Soroush Rasanheh Company Ltd",
+    "sources_count": 19,
+    "first_seen": "2026-07-14T16:43:30.275Z",
+    "last_checked": "2026-09-26T17:08:15.527Z"
+  }
+]

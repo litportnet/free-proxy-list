@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,567,1532,72.3,90.2,926,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-09-26T17:10:41.926Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,true,733,935,44.7,69.1,643,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-09-26T17:11:42.479Z
+socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,true,7326,3931.5,45.5,54.2,585,152.233.16.167,1,cz,Ústí nad Labem Region,Vršovice,Europe/Prague,212238,Datacamp Limited,19,2026-09-17T02:30:16.285Z,2026-09-26T17:09:22.956Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,633,657.5,31.6,54.1,616,90.182.147.170,1,cz,Prague,Prague,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-09-26T17:09:49.263Z
+socks4,176.98.248.2,4153,socks4://176.98.248.2:4153,elite,true,3690,3684,57.6,48.9,607,176.98.248.2,1,cz,Prague,Prague,Europe/Prague,62099,"JM-Networks, s.r.o.",14,2025-09-04T23:49:06.233Z,2026-09-26T17:09:04.789Z
+socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,3843,3867.5,37.5,40.9,452,90.178.216.215,1,cz,Prague,Prague,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-09-26T17:09:35.839Z
+socks4,46.8.113.170,1080,socks4://46.8.113.170:1080,elite,true,604,606,100,,3,46.8.113.170,2,cz,Prague,Prague,Europe/Prague,215305,Mastersoft S.R.L.,4,2026-09-26T16:53:22.355Z,2026-09-26T17:12:16.985Z
+socks5,46.8.113.170,1080,socks5://46.8.113.170:1080,elite,true,821,753,100,,8,46.8.113.170,2,cz,Prague,Prague,Europe/Prague,215305,Mastersoft S.R.L.,4,2026-09-26T15:52:49.444Z,2026-09-26T17:03:54.807Z

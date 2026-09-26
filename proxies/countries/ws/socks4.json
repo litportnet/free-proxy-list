@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "202.87.210.20",
+    "port": 57833,
+    "url": "socks4://202.87.210.20:57833",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2190,
+    "latency_median_ms": 3201.5,
+    "uptime_24h": 50.8,
+    "uptime_7d": 42.3,
+    "checks_7d": 617,
+    "exit_ip": "202.87.210.20",
+    "exit_shared": 1,
+    "country": "ws",
+    "region": "Tuamasaga",
+    "city": "Apia",
+    "timezone": "Pacific/Apia",
+    "asn": 38800,
+    "asn_org": "Digicel Samoa Ltd",
+    "sources_count": 13,
+    "first_seen": "2026-02-23T07:37:28.712Z",
+    "last_checked": "2026-09-26T17:02:14.635Z"
+  }
+]

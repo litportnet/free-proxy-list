@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1488,2435,99.3,98.7,994,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,20,2026-08-26T20:12:07.501Z,2026-09-26T17:12:51.698Z
+socks5,111.206.4.163,18888,socks5://111.206.4.163:18888,elite,false,4739,4463.5,80.9,82.5,855,111.206.4.163,2,cn,Beijing,Beijing,Asia/Shanghai,4808,China Unicom Beijing Province Network,21,2026-09-01T23:31:29.665Z,2026-09-26T17:09:42.873Z
+socks5,49.234.4.115,80,socks5://49.234.4.115:80,elite,true,6759,6828,92.1,77.9,375,49.234.4.115,1,cn,Shanghai,Shanghai,Asia/Shanghai,45090,Shenzhen Tencent Computer Systems Company Limited,18,2026-08-28T00:27:08.081Z,2026-09-26T17:03:54.804Z
+socks5,103.210.161.8,1080,socks5://103.210.161.8:1080,elite,true,1211,2472.5,69.9,64.2,748,103.210.161.8,1,cn,Guangdong,Shenzhen,Asia/Shanghai,63199,"CDS Global Cloud Co., Ltd",19,2026-08-24T03:38:59.905Z,2026-09-26T17:04:19.969Z
+socks5,116.48.170.221,11000,socks5://116.48.170.221:11000,elite,false,3593,3997.5,34.5,26.3,407,103.239.186.194,1,cn,Shandong,Jinan,Asia/Shanghai,131516,"Jinhua Weian InfoTech Co., Ltd",18,2026-08-09T02:09:37.623Z,2026-09-26T17:11:28.461Z

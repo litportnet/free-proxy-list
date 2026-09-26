@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,977,1477.5,74.8,69.7,703,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-09-26T17:04:38.022Z
+socks4,159.148.146.65,5678,socks4://159.148.146.65:5678,elite,true,3735,2716,55.3,30.4,346,159.148.146.65,1,lv,Riga,Riga,Europe/Riga,2588,SIA BITE Latvija,21,2025-09-04T23:49:06.204Z,2026-09-26T17:11:03.313Z
+socks4,31.170.19.5,4153,socks4://31.170.19.5:4153,elite,false,3739,1709,20.6,11.6,172,31.170.18.159,3,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,10,2025-09-04T23:49:07.717Z,2026-09-26T17:09:06.382Z
+socks4,31.170.17.141,4153,socks4://31.170.17.141:4153,elite,false,3725,2776,12.5,10.2,187,31.170.18.159,3,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,17,2025-09-04T23:48:53.356Z,2026-09-26T17:12:23.500Z
+socks4,31.170.18.1,4153,socks4://31.170.18.1:4153,elite,false,7907,5797.5,100,,2,31.170.18.159,3,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,2,2026-09-26T16:53:21.650Z,2026-09-26T17:04:05.416Z

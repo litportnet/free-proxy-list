@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,41.70.9.10,5678,socks4://41.70.9.10:5678,elite,false,4762,2284.5,46.7,48.7,148,41.70.9.10,2,mw,Southern Region,Blantyre,Africa/Blantyre,37215,Malawi Research and Education Network - MAREN,13,2026-09-24T12:25:46.845Z,2026-09-26T17:04:46.001Z
+socks4,41.70.106.1,5678,socks4://41.70.106.1:5678,elite,false,1719,2881.5,47.7,47.5,649,41.70.9.10,2,mw,Southern Region,Blantyre,Africa/Blantyre,37215,Malawi Research and Education Network - MAREN,20,2025-09-04T23:49:00.291Z,2026-09-26T17:04:08.690Z

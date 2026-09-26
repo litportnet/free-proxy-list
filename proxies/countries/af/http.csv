@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,165.101.26.18,8080,http://165.101.26.18:8080,transparent,true,2797,3117,63.3,37.8,315,165.101.26.18,1,af,Nangarhar,Jalālābād,Asia/Kabul,151081,ARYAN DUNYA ICT,22,2026-09-05T17:03:45.404Z,2026-09-26T17:03:31.227Z
+http,103.151.88.5,8080,http://103.151.88.5:8080,transparent,false,948,1963.5,21.4,14.1,177,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,12,2026-09-01T12:26:10.017Z,2026-09-26T17:08:04.282Z

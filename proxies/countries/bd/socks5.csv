@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,118.179.195.140,9090,socks5://118.179.195.140:9090,elite,true,4809,4768.5,51.6,53.4,601,118.179.195.140,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,20,2026-09-04T08:47:00.172Z,2026-09-26T17:12:35.295Z
+socks5,118.179.102.168,9090,socks5://118.179.102.168:9090,elite,false,8705,4813.5,45.7,46.5,533,118.179.102.168,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,19,2026-09-03T05:48:29.748Z,2026-09-26T17:06:19.201Z
+socks5,103.162.57.42,1080,socks5://103.162.57.42:1080,elite,true,1558,2504,39.5,31.2,493,103.162.57.142,1,bd,Chittagong,Cox’s Bāzār,Asia/Dhaka,139282,Novus Network,17,2026-04-17T16:59:16.859Z,2026-09-26T17:12:58.831Z
+socks5,103.9.185.113,1080,socks5://103.9.185.113:1080,elite,false,1698,4696.5,38.9,21.6,148,103.9.185.109,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,63967,Bangla Trac Communications Ltd (ISP and Cloud Services),11,2026-09-20T03:49:43.517Z,2026-09-26T17:02:40.155Z
+socks5,118.179.151.158,9090,socks5://118.179.151.158:9090,elite,true,2899,5202.5,60,,40,118.179.151.158,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,10,2026-09-26T08:49:06.310Z,2026-09-26T17:12:06.281Z

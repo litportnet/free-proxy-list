@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "181.115.74.172",
+    "port": 5678,
+    "url": "socks4://181.115.74.172:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 410,
+    "latency_median_ms": 421.5,
+    "uptime_24h": 47.3,
+    "uptime_7d": 74.9,
+    "checks_7d": 824,
+    "exit_ip": "181.115.74.172",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Atlántida Department",
+    "city": "Tela",
+    "timezone": "America/Tegucigalpa",
+    "asn": 14754,
+    "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:05.467Z",
+    "last_checked": "2026-09-26T17:06:22.413Z"
+  }
+]

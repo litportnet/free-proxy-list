@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "89.43.135.181",
+    "port": 1080,
+    "url": "socks4://89.43.135.181:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3854,
+    "latency_median_ms": 1843.5,
+    "uptime_24h": 58.3,
+    "uptime_7d": 57.2,
+    "checks_7d": 713,
+    "exit_ip": "89.43.135.181",
+    "exit_shared": 1,
+    "country": "sy",
+    "region": "Aleppo",
+    "city": "Manbij",
+    "timezone": "Asia/Damascus",
+    "asn": 216472,
+    "asn_org": "High Speed For Internet Services L.L.C",
+    "sources_count": 19,
+    "first_seen": "2026-08-29T00:40:02.356Z",
+    "last_checked": "2026-09-26T17:09:52.477Z"
+  }
+]

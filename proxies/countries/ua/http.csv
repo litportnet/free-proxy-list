@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,7240,5244,49.6,40.7,501,195.226.213.254,2,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,17,2026-08-07T01:44:07.721Z,2026-09-26T17:07:07.612Z
+http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,false,5070,4950.5,48.3,39.4,475,195.226.213.254,2,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-09-26T17:05:18.013Z
+http,82.207.117.120,8080,http://82.207.117.120:8080,elite,false,4977,4958,15.7,14.3,280,82.207.117.120,1,ua,Lviv,Lviv,Europe/Kyiv,6849,JSC Ukrtelecom,23,2026-06-11T00:36:11.110Z,2026-09-26T17:05:47.001Z
+http,131.153.163.86,20040,http://131.153.163.86:20040,anonymous,true,1164,1164,50,,2,31.28.246.63,1,ua,Sevastopol City,Sevastopol,Europe/Simferopol,35816,Lancom Ltd.,1,2026-09-26T16:53:26.134Z,2026-09-26T17:04:10.321Z
+http,134.249.86.47,8080,http://134.249.86.47:8080,transparent,true,9032,4510.5,25.8,,37,134.249.86.47,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,15895,Kyivstar PJSC,17,2026-04-20T09:54:31.630Z,2026-09-26T17:11:24.138Z

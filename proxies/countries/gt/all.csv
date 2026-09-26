@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,38.41.225.174,8888,socks4://38.41.225.174:8888,elite,true,382,893,66.9,60.1,745,38.41.225.174,1,gt,Guatemala,Guatemala City,America/Guatemala,264764,Innova Outsourcing S.A,13,2026-07-06T07:56:30.881Z,2026-09-26T17:07:22.195Z
+socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,true,408,456.5,76.3,57.5,680,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,11,2026-05-31T05:22:35.276Z,2026-09-26T17:07:17.851Z
+socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,true,7612,463,61.9,52.3,658,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,21,2026-08-08T18:05:33.990Z,2026-09-26T17:09:32.617Z
+http,148.230.27.77,999,http://148.230.27.77:999,transparent,false,8165,4713,25,21.2,217,148.230.27.73,1,gt,Guatemala,Guatemala City,America/Guatemala,23243,COMCEL GUATEMALA S.A.,12,2026-04-07T13:49:48.793Z,2026-09-26T17:10:09.375Z
+http,186.33.7.203,999,http://186.33.7.203:999,transparent,false,1705,4398.5,30.8,19.8,319,38.52.208.9,1,gt,Guatemala,Mixco,America/Guatemala,272818,"CENTRAL DE REDES Y COMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",24,2026-07-05T22:59:16.424Z,2026-09-26T17:11:07.567Z

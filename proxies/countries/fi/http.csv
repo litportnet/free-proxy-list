@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,633,627,99.3,99.7,1004,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-09-26T17:07:42.700Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,562,551.5,80,94.6,983,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-09-26T17:08:57.363Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,false,8942,2797,62,74.5,757,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,23,2026-08-25T00:50:34.299Z,2026-09-26T17:09:33.704Z
+http,95.81.126.73,3128,http://95.81.126.73:3128,elite,false,4429,4046,35.1,36.9,160,95.81.126.73,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,10,2026-05-23T09:43:52.812Z,2026-09-26T17:08:37.549Z
+http,65.108.103.19,80,http://65.108.103.19:80,elite,false,8865,605,40.7,30,486,65.108.103.19,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,19,2025-12-06T19:02:50.065Z,2026-09-26T17:07:13.532Z
+http,185.97.200.14,1080,http://185.97.200.14:1080,elite,false,2121,2105,19.1,19.4,273,132.243.20.40,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,15,2026-07-23T21:44:46.272Z,2026-09-26T17:06:09.542Z
+http,46.243.1.99,3128,http://46.243.1.99:3128,elite,false,9789,4675.5,25.6,18.8,250,46.243.1.99,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,22,2026-09-16T01:16:59.192Z,2026-09-26T17:11:01.214Z

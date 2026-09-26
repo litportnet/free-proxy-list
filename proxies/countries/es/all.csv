@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.81.154.75,1080,socks5://45.81.154.75:1080,elite,true,369,251,94,94,50,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,8,2026-09-26T08:49:07.751Z,2026-09-26T17:10:17.173Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,3760,774,80,76.8,820,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-09-26T17:04:14.085Z
+socks5,212.231.230.141,18500,socks5://212.231.230.141:18500,elite,true,733,1782,78.4,72.7,506,149.91.103.134,1,es,Madrid,Madrid,Europe/Madrid,34977,PROCONO S.A.,14,2025-09-05T00:24:36.148Z,2026-09-26T17:03:22.630Z
+socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,true,3703,1666.5,65.9,65.8,146,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,8,2025-09-05T20:06:27.740Z,2026-09-26T17:10:02.208Z
+socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,true,2778,4229,52.8,36.1,452,82.26.159.12,1,es,Catalonia,Barcelona,Europe/Madrid,209854,Cyberzone S.A.,20,2026-08-16T16:46:45.162Z,2026-09-26T17:05:17.489Z
+http,90.161.220.67,3128,http://90.161.220.67:3128,transparent,true,582,2218.5,37.4,27.9,476,90.161.220.67,1,es,Andalusia,Conil de la Frontera,Europe/Madrid,12479,Orange Espagne SA,24,2026-09-05T02:55:03.785Z,2026-09-26T17:11:34.330Z
+http,193.38.224.169,8081,http://193.38.224.169:8081,transparent,true,2163,5558.5,27.8,19.4,314,193.38.224.169,1,es,Madrid,Madrid,Europe/Madrid,206276,Citelia s.a.,20,2025-09-05T20:06:20.927Z,2026-09-26T17:12:06.821Z
+socks4,45.81.154.75,1080,socks4://45.81.154.75:1080,elite,true,254,218,93.2,,44,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,11,2026-09-26T09:49:38.803Z,2026-09-26T17:08:23.606Z

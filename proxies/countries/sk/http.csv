@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,188.121.168.60,8080,http://188.121.168.60:8080,transparent,false,5981,6335.5,18.5,13.4,216,188.121.168.60,1,sk,Trnava Region,Holíč,Europe/Bratislava,43451,Slovanet a.s.,14,2026-04-13T02:01:01.423Z,2026-09-26T17:03:32.847Z

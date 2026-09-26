@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,102.164.251.242,4153,socks4://102.164.251.242:4153,elite,false,2451,2433,51.9,25.2,151,102.164.251.242,1,gq,Bioko Norte,Malabo,Africa/Malabo,37529,Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial,12,2026-08-08T19:05:16.404Z,2026-09-26T17:07:00.056Z

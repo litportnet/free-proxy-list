@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.163.135.20",
+    "port": 6061,
+    "url": "http://89.163.135.20:6061",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3852,
+    "latency_median_ms": 2673.5,
+    "uptime_24h": 44.4,
+    "uptime_7d": null,
+    "checks_7d": 18,
+    "exit_ip": "186.77.196.3",
+    "exit_shared": 1,
+    "country": "ni",
+    "region": "Managua Department",
+    "city": "Managua",
+    "timezone": "America/Managua",
+    "asn": 14754,
+    "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "sources_count": 2,
+    "first_seen": "2026-08-09T21:19:43.410Z",
+    "last_checked": "2026-09-26T17:07:33.056Z"
+  }
+]

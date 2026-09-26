@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.45.119.70",
+    "port": 1080,
+    "url": "socks5://5.45.119.70:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1415,
+    "latency_median_ms": 1233,
+    "uptime_24h": 66.4,
+    "uptime_7d": 63.4,
+    "checks_7d": 442,
+    "exit_ip": "5.45.119.70",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Ida-Virumaa",
+    "city": "Jõhvi",
+    "timezone": "Europe/Tallinn",
+    "asn": 198068,
+    "asn_org": "P.A.G.M. OU",
+    "sources_count": 20,
+    "first_seen": "2026-08-09T14:15:31.168Z",
+    "last_checked": "2026-09-26T17:08:10.156Z"
+  }
+]

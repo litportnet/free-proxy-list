@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.23.229.92,8080,http://102.23.229.92:8080,transparent,true,7156,4501.5,37.7,34.6,191,102.23.229.92,1,za,Mpumalanga,Middelburg,Africa/Johannesburg,327750,JENNY INTERNET (PTY) LTD,12,2026-04-18T11:26:57.367Z,2026-09-26T17:11:58.727Z
+http,156.155.51.117,8080,http://156.155.51.117:8080,transparent,true,4444,3912.5,45.3,32.2,416,156.155.51.117,1,za,KwaZulu-Natal,Durban,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,14,2026-05-20T22:11:50.999Z,2026-09-26T17:08:51.414Z
+http,154.66.159.34,800,http://154.66.159.34:800,transparent,false,7701,5252,23.7,16.2,179,154.66.159.34,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37564,Wirulink Pty Ltd,14,2025-09-07T12:18:27.902Z,2026-09-26T17:12:22.411Z
+http,196.251.222.222,8080,http://196.251.222.222:8080,transparent,false,6276,5375,19.2,11.8,245,196.251.222.222,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37403,Info-Gro (PTY) Ltd,21,2026-07-13T17:36:30.232Z,2026-09-26T17:10:51.555Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "210.61.216.63",
+    "port": 60808,
+    "url": "http://210.61.216.63:60808",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6118,
+    "latency_median_ms": 4582,
+    "uptime_24h": 50,
+    "uptime_7d": 9.3,
+    "checks_7d": 75,
+    "exit_ip": "111.248.69.113",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taipei",
+    "timezone": "Asia/Taipei",
+    "asn": 3462,
+    "asn_org": "Data Communication Business Group",
+    "sources_count": 21,
+    "first_seen": "2025-09-05T20:06:26.024Z",
+    "last_checked": "2026-09-26T17:05:35.712Z"
+  }
+]

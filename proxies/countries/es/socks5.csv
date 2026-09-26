@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.81.154.75,1080,socks5://45.81.154.75:1080,elite,true,369,251,94,94,50,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,8,2026-09-26T08:49:07.751Z,2026-09-26T17:10:17.173Z
+socks5,212.231.230.141,18500,socks5://212.231.230.141:18500,elite,true,733,1782,78.4,72.7,506,149.91.103.134,1,es,Madrid,Madrid,Europe/Madrid,34977,PROCONO S.A.,14,2025-09-05T00:24:36.148Z,2026-09-26T17:03:22.630Z
+socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,true,2778,4229,52.8,36.1,452,82.26.159.12,1,es,Catalonia,Barcelona,Europe/Madrid,209854,Cyberzone S.A.,20,2026-08-16T16:46:45.162Z,2026-09-26T17:05:17.489Z

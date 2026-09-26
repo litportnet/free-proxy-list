@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,210.61.216.63,60808,http://210.61.216.63:60808,elite,false,6118,4582,50,9.3,75,111.248.69.113,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,21,2025-09-05T20:06:26.024Z,2026-09-26T17:05:35.712Z

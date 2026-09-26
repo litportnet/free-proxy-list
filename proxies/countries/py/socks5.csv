@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,181.94.197.37,13049,socks5://181.94.197.37:13049,elite,true,1284,2184.5,53.2,53.7,698,181.94.197.37,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2026-09-16T07:20:15.450Z,2026-09-26T17:07:57.813Z

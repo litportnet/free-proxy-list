@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,3989,2895.5,52.8,58.4,635,79.127.150.102,1,no,Oslo,Oslo,Europe/Oslo,212238,Datacamp Limited,19,2026-09-16T03:18:05.440Z,2026-09-26T17:10:38.111Z

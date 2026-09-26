@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,352,363.5,52.6,64.3,607,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-09-26T17:09:50.308Z
+socks4,154.64.219.4,5555,socks4://154.64.219.4:5555,elite,false,350,1393,50,41.6,505,38.107.90.30,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,18,2026-07-27T03:22:34.437Z,2026-09-26T17:10:58.555Z

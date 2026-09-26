@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "5.157.64.213",
+    "port": 1080,
+    "url": "socks4://5.157.64.213:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7878,
+    "latency_median_ms": 2802,
+    "uptime_24h": 20,
+    "uptime_7d": 38.1,
+    "checks_7d": 475,
+    "exit_ip": "5.157.64.213",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "London",
+    "timezone": "Europe/London",
+    "asn": 62163,
+    "asn_org": "IP River Limited",
+    "sources_count": 14,
+    "first_seen": "2025-09-05T20:05:56.736Z",
+    "last_checked": "2026-09-26T17:09:04.260Z"
+  }
+]
