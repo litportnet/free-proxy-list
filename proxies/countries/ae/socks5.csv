@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,true,2616,3505,58.5,50.9,621,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,13,2026-06-14T08:18:53.054Z,2026-09-26T04:28:04.702Z
+socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,true,1473,2630,51.6,52.1,679,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,13,2026-06-14T08:18:53.054Z,2026-09-27T04:26:16.744Z

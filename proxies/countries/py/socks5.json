@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "181.94.197.37",
+    "port": 13049,
+    "url": "socks5://181.94.197.37:13049",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5259,
+    "latency_median_ms": 4374,
+    "uptime_24h": 52.3,
+    "uptime_7d": 52.9,
+    "checks_7d": 711,
+    "exit_ip": "181.94.197.37",
+    "exit_shared": 2,
+    "country": "py",
+    "region": "Asuncion",
+    "city": "Asunción",
+    "timezone": "America/Asuncion",
+    "asn": 27895,
+    "asn_org": "Núcleo S.A.",
+    "sources_count": 21,
+    "first_seen": "2026-09-16T07:20:15.450Z",
+    "last_checked": "2026-09-27T04:27:29.145Z"
+  }
+]

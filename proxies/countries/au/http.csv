@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,8950,4346,10.3,6.1,98,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,10,2025-12-06T20:03:19.878Z,2026-09-27T04:26:48.500Z

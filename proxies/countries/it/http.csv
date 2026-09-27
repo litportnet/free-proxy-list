@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.187.26.134,58080,http://93.187.26.134:58080,transparent,false,3626,3868,19.2,18,194,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-09-26T04:24:15.122Z
+http,66.94.104.255,3128,http://66.94.104.255:3128,transparent,true,3473,2633.5,36.9,30.9,563,64.190.76.14,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,24,2026-08-23T09:28:05.560Z,2026-09-27T04:27:22.268Z

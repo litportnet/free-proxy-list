@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "5.161.50.82",
+    "port": 8118,
+    "url": "http://5.161.50.82:8118",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 5543,
+    "latency_median_ms": 4217,
+    "uptime_24h": 52.5,
+    "uptime_7d": 40.8,
+    "checks_7d": 632,
+    "exit_ip": "37.221.208.71",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Budapest",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "asn": 41075,
+    "asn_org": "ATW Internet Kft.",
+    "sources_count": 17,
+    "first_seen": "2026-04-03T12:59:02.577Z",
+    "last_checked": "2026-09-27T04:21:11.628Z"
+  }
+]

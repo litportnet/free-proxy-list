@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "94.102.224.132",
+    "port": 32650,
+    "url": "http://94.102.224.132:32650",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4288,
+    "latency_median_ms": 4309.5,
+    "uptime_24h": 29.7,
+    "uptime_7d": 16.8,
+    "checks_7d": 190,
+    "exit_ip": "94.102.224.132",
+    "exit_shared": 1,
+    "country": "me",
+    "region": "Budva",
+    "city": "Budva",
+    "timezone": "Europe/Podgorica",
+    "asn": 47881,
+    "asn_org": "One Crna Gora DOO",
+    "sources_count": 14,
+    "first_seen": "2025-11-11T04:07:08.927Z",
+    "last_checked": "2026-09-27T04:27:34.427Z"
+  }
+]

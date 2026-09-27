@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.147.179.118,3129,http://45.147.179.118:3129,anonymous,true,990,1000.5,98,59.6,178,2.27.131.49,1,kz,Astana,Astana,Asia/Almaty,208450,Megahost Kazakhstan TOO,18,2026-09-21T14:08:07.403Z,2026-09-27T04:26:11.417Z

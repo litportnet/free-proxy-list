@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,27.54.121.90,8090,http://27.54.121.90:8090,elite,false,1279,5301.5,50,50,70,27.54.121.90,2,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,14,2026-09-25T14:39:31.047Z,2026-09-26T04:26:15.468Z
-http,202.59.75.9,8080,http://202.59.75.9:8080,transparent,true,4259,2666.5,42.7,36.6,205,202.59.75.3,2,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,19,2026-09-20T04:50:40.143Z,2026-09-26T04:32:10.545Z
-http,202.59.75.4,8080,http://202.59.75.4:8080,transparent,false,855,3545.5,46.5,35.1,407,202.59.75.3,2,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,24,2026-09-19T17:44:20.936Z,2026-09-26T04:23:11.804Z
-http,58.27.160.253,8080,http://58.27.160.253:8080,elite,true,10258,3235,21.7,21.3,207,58.27.160.253,1,pk,Khyber Pakhtunkhwa,Mardan,Asia/Karachi,38264,National WiMAX/IMS environment,23,2026-09-18T02:43:02.344Z,2026-09-26T04:27:04.704Z
-http,103.31.103.71,8080,http://103.31.103.71:8080,elite,true,1097,1669,70,,10,209.150.151.90,1,pk,Sindh,Karachi,Asia/Karachi,138423,CMPak Limited,2,2026-09-26T02:45:52.481Z,2026-09-26T04:27:25.990Z
+http,202.59.75.9,8080,http://202.59.75.9:8080,transparent,false,1487,3576,36.9,36.5,307,202.59.75.3,1,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,21,2026-09-20T04:50:40.143Z,2026-09-27T04:25:23.205Z

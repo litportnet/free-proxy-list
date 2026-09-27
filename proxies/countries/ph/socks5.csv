@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,1719,1810,83.1,79.3,511,129.227.118.190,1,ph,National Capital Region,Manila,Asia/Manila,21859,Zenlayer Inc,16,2026-09-21T21:11:29.587Z,2026-09-26T04:32:40.874Z
-socks5,43.106.60.21,1080,socks5://43.106.60.21:1080,elite,true,1522,1612.5,60.3,59.4,699,1.37.70.231,1,ph,National Capital Region,Manila,Asia/Manila,4775,Globe Telecoms,19,2026-05-13T04:35:06.541Z,2026-09-26T04:31:23.898Z

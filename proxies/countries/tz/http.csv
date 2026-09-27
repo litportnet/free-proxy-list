@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,154.0.155.133,8080,http://154.0.155.133:8080,transparent,true,5959,4681,44.8,28.9,349,154.0.155.133,1,tz,Mwanza,Mwanza,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,16,2026-08-31T04:10:01.273Z,2026-09-27T04:22:40.754Z

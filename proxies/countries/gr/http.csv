@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.164.201.197,666,http://188.164.201.197:666,elite,true,926,1041.5,53.9,23.3,120,188.164.201.197,1,gr,Central Macedonia,Thérmi,Europe/Athens,50919,INTERWORKS Single Member S.A.,25,2026-09-04T02:42:25.516Z,2026-09-26T04:27:44.582Z
+http,62.103.66.18,3128,http://62.103.66.18:3128,transparent,false,9161,4976,33.3,11.9,101,62.103.66.18,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),10,2025-09-05T20:06:28.282Z,2026-09-27T04:30:12.950Z

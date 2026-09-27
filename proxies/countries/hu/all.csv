@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.147.235.162,4153,socks4://91.147.235.162:4153,elite,false,1443,2056,59.3,48.5,549,91.147.235.162,1,hu,Hajdú-Bihar,Debrecen,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-10-26T21:46:56.038Z,2026-09-26T04:31:55.844Z
+socks4,91.147.235.162,4153,socks4://91.147.235.162:4153,elite,true,1000,2305.5,51.4,50.7,604,91.147.235.162,1,hu,Hajdú-Bihar,Debrecen,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-10-26T21:46:56.038Z,2026-09-27T04:27:53.434Z
+socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,false,780,786,61.1,49.3,582,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-09-04T23:48:59.215Z,2026-09-27T04:20:43.661Z
+http,5.161.50.82,8118,http://5.161.50.82:8118,elite,true,5543,4217,52.5,40.8,632,37.221.208.71,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,17,2026-04-03T12:59:02.577Z,2026-09-27T04:21:11.628Z

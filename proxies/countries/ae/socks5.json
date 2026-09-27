@@ -6,11 +6,11 @@
     "url": "socks5://129.151.128.225:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2616,
-    "latency_median_ms": 3505,
-    "uptime_24h": 58.5,
-    "uptime_7d": 50.9,
-    "checks_7d": 621,
+    "latency_ms": 1473,
+    "latency_median_ms": 2630,
+    "uptime_24h": 51.6,
+    "uptime_7d": 52.1,
+    "checks_7d": 679,
     "exit_ip": "129.151.128.225",
     "exit_shared": 1,
     "country": "ae",
@@ -21,6 +21,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 13,
     "first_seen": "2026-06-14T08:18:53.054Z",
-    "last_checked": "2026-09-26T04:28:04.702Z"
+    "last_checked": "2026-09-27T04:26:16.744Z"
   }
 ]

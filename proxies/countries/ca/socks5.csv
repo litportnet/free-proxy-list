@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,268,250.5,74.8,75.1,808,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-09-26T04:26:59.982Z
-socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,4090,2060,70.5,60.4,601,198.44.142.184,1,ca,Quebec,Montréal,America/Toronto,11878,"tzulo, inc.",19,2026-09-16T10:21:51.712Z,2026-09-26T04:32:37.706Z
-socks5,5.75.133.113,10801,socks5://5.75.133.113:10801,elite,true,3058,2313,47.4,57.9,599,104.254.90.235,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,19,2026-08-26T01:01:55.581Z,2026-09-26T04:24:46.377Z
-socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,2333,2787,64.8,56.4,264,144.217.107.25,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,12,2026-09-24T03:21:03.909Z,2026-09-26T04:30:21.675Z
-socks5,45.74.31.42,7085,socks5://45.74.31.42:7085,elite,true,2583,2952,28,25.5,161,67.215.3.146,1,ca,Quebec,Montréal,America/Toronto,36666,GloboTech Communications,15,2026-09-19T22:47:00.742Z,2026-09-26T04:28:33.330Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,708,2866,73.5,72.4,830,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,20,2026-09-11T21:05:56.215Z,2026-09-27T04:22:38.017Z

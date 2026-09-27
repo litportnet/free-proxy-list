@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1732,1365,99.3,97.8,540,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,17,2026-05-02T10:06:59.800Z,2026-09-26T04:32:52.486Z
-socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,true,2212,1482,47.8,51,610,79.76.59.115,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-09-26T04:33:16.325Z
-socks5,138.124.85.83,1081,socks5://138.124.85.83:1081,elite,false,9026,4823.5,28.3,15.1,186,138.124.85.83,1,se,Stockholm,Stockholm,Europe/Stockholm,41745,Baykov Ilya Sergeevich,20,2026-08-31T21:16:33.860Z,2026-09-26T04:23:59.255Z
-socks5,15.217.107.97,48293,socks5://15.217.107.97:48293,unknown,false,3993,2722,11.1,6.7,60,15.217.107.97,2,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-19T02:36:50.973Z,2026-09-26T04:32:37.177Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1312,1045.5,100,98.2,683,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-09-27T04:27:43.375Z
+socks5,49.13.22.249,10812,socks5://49.13.22.249:10812,elite,true,1021,2088,72.9,68,716,37.120.153.2,1,se,Stockholm,Kista,Europe/Stockholm,9009,M247 Europe SRL,19,2026-09-16T03:18:19.836Z,2026-09-27T04:25:59.816Z
+socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,false,781,3003,69,53.6,674,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-09-27T04:27:51.248Z
+socks5,185.197.74.126,2080,socks5://185.197.74.126:2080,elite,false,3489,2871,25,24.1,340,185.197.74.126,1,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,19,2026-06-25T17:44:35.833Z,2026-09-27T04:26:18.859Z
+socks5,91.90.25.95,1080,socks5://91.90.25.95:1080,elite,false,6526,5361,37.5,,32,91.90.25.92,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,12,2026-09-26T19:54:59.171Z,2026-09-27T04:29:10.951Z

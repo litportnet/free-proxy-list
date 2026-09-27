@@ -1,9 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,676,722,100,100,1005,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-26T04:26:27.133Z
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,498,502,98.6,99.7,1001,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-26T04:23:33.423Z
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,5936,3965.5,70.2,89.1,771,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,16,2026-05-21T20:26:35.754Z,2026-09-26T04:32:26.013Z
-socks5,51.15.253.45,8080,socks5://51.15.253.45:8080,elite,true,2578,2492,60.3,57.8,654,104.244.79.50,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,20,2026-07-25T02:56:56.408Z,2026-09-26T04:26:10.695Z
-socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,3637,1480,40.9,38.1,585,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-09-26T04:29:02.472Z
-http,217.182.195.221,30009,http://217.182.195.221:30009,transparent,false,1390,4001,44.4,34.7,398,107.189.14.4,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,19,2026-07-29T19:58:50.202Z,2026-09-26T04:29:16.827Z
-http,40.177.104.199,2522,http://40.177.104.199:2522,unknown,false,4106,1251.5,12.2,12.4,153,40.177.104.199,2,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,3,2026-08-31T03:09:16.450Z,2026-09-26T04:25:53.687Z
-http,15.229.231.89,1080,http://15.229.231.89:1080,unknown,false,1369,2027.5,20.7,,29,15.229.231.89,1,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,1,2026-09-25T18:41:42.024Z,2026-09-26T04:30:57.812Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,720,728,99.3,99.9,1005,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-27T04:25:02.241Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,492,498,100,99.7,1000,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-27T04:24:54.778Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,629,629.5,15.4,53,415,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-27T04:24:05.005Z

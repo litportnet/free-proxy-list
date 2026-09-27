@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,174.138.161.146,8001,http://174.138.161.146:8001,elite,false,4785,1169.5,61.3,61.3,80,199.172.210.186,1,bm,Pembroke,Stovel Bay,Atlantic/Bermuda,3855,Logic Communications Ltd,12,2026-09-25T14:39:38.339Z,2026-09-26T04:30:09.378Z
+http,174.138.161.148,8254,http://174.138.161.148:8254,elite,false,7116,4850,40.2,42.6,122,199.172.210.36,1,bm,Pembroke,Stovel Bay,Atlantic/Bermuda,3855,Logic Communications Ltd,16,2026-09-26T02:45:52.481Z,2026-09-27T04:26:56.945Z
+http,174.138.161.148,56965,http://174.138.161.148:56965,elite,true,3831,6234.5,25,,32,142.54.194.204,1,bm,Sandys,Somerset,Atlantic/Bermuda,3855,Logic Communications Ltd,9,2026-09-26T18:54:30.151Z,2026-09-27T04:22:56.819Z
+http,174.138.161.146,39870,http://174.138.161.146:39870,elite,false,9958,8042,18.8,,41,64.147.87.156,1,bm,Warwick,Warwick Parish,Atlantic/Bermuda,32020,Transact Ltd.,7,2026-09-25T20:42:47.638Z,2026-09-27T04:23:51.471Z

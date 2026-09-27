@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.127.199.109,9999,http://109.127.199.109:9999,elite,true,5818,5605.5,32,,25,109.127.199.109,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,2107,ARNES,6,2026-09-26T20:55:35.976Z,2026-09-27T04:21:57.471Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,5.161.50.82,8118,http://5.161.50.82:8118,elite,true,5543,4217,52.5,40.8,632,37.221.208.71,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,17,2026-04-03T12:59:02.577Z,2026-09-27T04:21:11.628Z

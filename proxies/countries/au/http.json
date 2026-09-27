@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "103.30.211.34",
+    "port": 80,
+    "url": "http://103.30.211.34:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8950,
+    "latency_median_ms": 4346,
+    "uptime_24h": 10.3,
+    "uptime_7d": 6.1,
+    "checks_7d": 98,
+    "exit_ip": "103.30.211.34",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "asn": 202422,
+    "asn_org": "G-Core Labs S.A.",
+    "sources_count": 10,
+    "first_seen": "2025-12-06T20:03:19.878Z",
+    "last_checked": "2026-09-27T04:26:48.500Z"
+  }
+]

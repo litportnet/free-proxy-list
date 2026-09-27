@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.30,11827,socks5://45.74.31.30:11827,elite,true,9634,4076.5,45,34.7,213,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,14,2026-08-24T09:42:11.526Z,2026-09-27T04:30:19.371Z
+socks5,45.74.31.25,6913,socks5://45.74.31.25:6913,elite,true,1305,1866,100,,4,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,1,2026-09-27T03:59:17.474Z,2026-09-27T04:28:02.860Z
+socks5,45.74.31.42,7866,socks5://45.74.31.42:7866,elite,true,1305,1360.5,88.9,,9,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,2,2026-09-27T02:58:48.466Z,2026-09-27T04:28:15.504Z
+socks5,45.74.31.42,9416,socks5://45.74.31.42:9416,elite,true,1965,1441.5,100,,4,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,1,2026-09-27T03:59:17.474Z,2026-09-27T04:30:10.825Z
+socks5,45.74.31.47,4469,socks5://45.74.31.47:4469,elite,false,2153,2894.5,85.7,,14,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,6,2026-09-27T01:58:13.727Z,2026-09-27T04:26:56.425Z
+socks5,45.74.31.30,11504,socks5://45.74.31.30:11504,elite,true,8486,2549.5,76.9,,13,196.3.100.162,6,mz,Maputo City,Maputo,Africa/Maputo,31960,Eduardo Mondlane University,4,2026-09-27T01:58:13.727Z,2026-09-27T04:23:12.398Z
