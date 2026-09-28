@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,true,718,691.5,74.2,64.8,715,82.132.19.108,1,hr,Zagreb,Zagreb,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-09-27T04:24:06.081Z
-socks4,85.114.45.210,4153,socks4://85.114.45.210:4153,elite,true,684,685,61.7,55.6,646,85.114.45.210,1,hr,Istria,Medulin,Europe/Zagreb,34594,Telemach Hrvatska d.o.o.,1,2026-03-17T17:23:29.766Z,2026-09-27T04:29:12.047Z

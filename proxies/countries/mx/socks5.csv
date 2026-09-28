@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.88.234.239,40002,socks5://103.88.234.239:40002,elite,true,331,685,95.1,80,830,104.28.193.190,3,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",22,2026-09-17T04:31:19.103Z,2026-09-27T04:28:35.874Z
-socks5,103.88.234.239,40006,socks5://103.88.234.239:40006,elite,false,1015,1007.5,86.9,70,779,104.28.193.187,2,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",18,2026-09-17T03:30:48.634Z,2026-09-27T04:26:16.231Z
-socks5,111.119.162.248,10921,socks5://111.119.162.248:10921,elite,true,2182,2294.5,27.3,29.1,522,47.87.16.1,3,mx,Querétaro,Santiago de Querétaro,America/Mexico_City,45102,"Alibaba (US) Technology Co., Ltd.",19,2026-08-15T21:35:46.345Z,2026-09-27T04:25:43.424Z

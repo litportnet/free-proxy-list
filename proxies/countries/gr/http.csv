@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,62.103.66.18,3128,http://62.103.66.18:3128,transparent,false,9161,4976,33.3,11.9,101,62.103.66.18,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),10,2025-09-05T20:06:28.282Z,2026-09-27T04:30:12.950Z

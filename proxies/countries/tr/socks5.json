@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks5",
-    "ip": "5.75.133.113",
-    "port": 10813,
-    "url": "socks5://5.75.133.113:10813",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1393,
-    "latency_median_ms": 1732,
-    "uptime_24h": 56,
-    "uptime_7d": 56.3,
-    "checks_7d": 604,
-    "exit_ip": "128.90.169.19",
-    "exit_shared": 1,
-    "country": "tr",
-    "region": "Istanbul",
-    "city": "Istanbul",
-    "timezone": "Europe/Istanbul",
-    "asn": 22363,
-    "asn_org": "Powerhouse Management, Inc.",
-    "sources_count": 19,
-    "first_seen": "2026-09-16T14:24:02.370Z",
-    "last_checked": "2026-09-27T04:26:36.880Z"
-  },
-  {
-    "protocol": "socks5",
     "ip": "193.164.5.59",
     "port": 11080,
     "url": "socks5://193.164.5.59:11080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 962,
-    "latency_median_ms": 936.5,
-    "uptime_24h": 51.7,
-    "uptime_7d": 53.3,
-    "checks_7d": 420,
+    "latency_ms": 895,
+    "latency_median_ms": 939.5,
+    "uptime_24h": 48,
+    "uptime_7d": 52.3,
+    "checks_7d": 518,
     "exit_ip": "193.164.5.59",
     "exit_shared": 1,
     "country": "tr",
@@ -45,6 +21,6 @@
     "asn_org": "Pembe Gul Isguzar Karagoz",
     "sources_count": 15,
     "first_seen": "2026-09-23T17:15:43.069Z",
-    "last_checked": "2026-09-27T04:21:39.837Z"
+    "last_checked": "2026-09-28T04:31:30.337Z"
   }
 ]

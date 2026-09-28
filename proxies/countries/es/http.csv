@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.225.198.220,9812,http://77.225.198.220:9812,elite,true,9466,3559.5,39.3,43.6,195,77.225.198.220,2,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,11,2025-09-10T20:03:30.040Z,2026-09-27T04:28:14.982Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,501,481.5,83.6,67.7,812,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-09-28T04:23:45.422Z

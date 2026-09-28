@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,94.156.180.204,1081,socks4://94.156.180.204:1081,elite,false,2262,633.5,90,90,60,94.156.180.204,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207957,SERV.HOST GROUP LTD,12,2026-09-26T17:53:54.213Z,2026-09-27T04:21:13.779Z
-socks4,95.81.126.73,1080,socks4://95.81.126.73:1080,elite,true,3798,1654,60.6,60.6,104,95.81.126.73,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,3,2026-05-19T22:05:31.688Z,2026-09-27T04:28:40.143Z
-socks4,87.239.251.202,1081,socks4://87.239.251.202:1081,elite,false,1248,2446,76.4,47.5,324,87.239.251.202,1,fi,Uusimaa,Helsinki,Europe/Helsinki,200740,FIRST SERVER LIMITED,21,2026-07-28T23:48:39.177Z,2026-09-27T04:26:42.126Z
-socks4,193.168.198.240,1080,socks4://193.168.198.240:1080,elite,true,4470,4211.5,39.4,25.2,322,193.168.198.240,1,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,21,2026-08-07T04:45:58.115Z,2026-09-27T04:29:08.808Z
+socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,6320,1519.5,96.7,96.7,61,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,11,2026-09-27T18:06:40.424Z,2026-09-28T04:22:21.877Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,1492,3242.5,93,76.4,805,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-09-28T04:22:36.428Z
+socks4,89.169.34.105,8443,socks4://89.169.34.105:8443,elite,false,4894,3190.5,43.1,43.1,58,89.169.34.105,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-09-27T16:05:37.505Z,2026-09-28T04:23:05.215Z
+socks4,94.177.13.45,2000,socks4://94.177.13.45:2000,elite,true,606,589.5,100,,39,94.177.13.45,2,fi,Uusimaa,Helsinki,Europe/Helsinki,26383,Baxet Group Inc.,13,2026-09-27T22:08:48.291Z,2026-09-28T04:28:39.719Z

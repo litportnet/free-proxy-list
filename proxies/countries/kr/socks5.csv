@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,7121,7025.5,93.5,92.5,333,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-09-24T19:29:29.857Z,2026-09-27T04:24:23.292Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1217,1796.5,77.1,77.6,874,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-09-27T04:29:58.275Z
-socks5,203.251.28.105,1080,socks5://203.251.28.105:1080,elite,false,1232,1250.5,56.9,56.8,396,203.251.28.105,1,kr,Gwangju,Gwangju,Asia/Seoul,4766,Korea Telecom,14,2026-09-24T01:19:57.985Z,2026-09-27T04:24:04.980Z
+socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,false,9662,3178.5,82.4,89.7,458,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-09-24T19:29:29.857Z,2026-09-28T04:27:16.213Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,4252,2556,75.4,75.7,878,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-09-28T04:23:35.020Z
+socks5,202.141.161.52,10808,socks5://202.141.161.52:10808,elite,true,1650,2243.5,67.9,41,134,134.185.103.14,3,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,18,2026-09-14T10:38:19.266Z,2026-09-28T04:23:59.504Z
+socks5,218.48.112.218,1080,socks5://218.48.112.218:1080,elite,true,1117,1226,35.8,24.8,133,218.48.112.218,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,9318,SK Broadband Co Ltd,13,2026-09-20T22:59:45.513Z,2026-09-28T04:29:31.192Z
+socks5,211.35.171.93,2080,socks5://211.35.171.93:2080,elite,true,1212,1369,100,,28,211.35.171.93,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,7,2026-09-12T08:11:44.771Z,2026-09-28T04:23:31.244Z

@@ -6,11 +6,11 @@
     "url": "http://45.147.179.118:3129",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 990,
-    "latency_median_ms": 1000.5,
-    "uptime_24h": 98,
-    "uptime_7d": 59.6,
-    "checks_7d": 178,
+    "latency_ms": 963,
+    "latency_median_ms": 957,
+    "uptime_24h": 97.9,
+    "uptime_7d": 76.5,
+    "checks_7d": 319,
     "exit_ip": "2.27.131.49",
     "exit_shared": 1,
     "country": "kz",
@@ -21,6 +21,6 @@
     "asn_org": "Megahost Kazakhstan TOO",
     "sources_count": 18,
     "first_seen": "2026-09-21T14:08:07.403Z",
-    "last_checked": "2026-09-27T04:26:11.417Z"
+    "last_checked": "2026-09-28T04:23:20.900Z"
   }
 ]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,89.43.135.181,1080,socks4://89.43.135.181:1080,elite,false,1834,1843.5,64.8,58.2,742,89.43.135.181,1,sy,Aleppo,Manbij,Asia/Damascus,216472,High Speed For Internet Services L.L.C,19,2026-08-29T00:40:02.356Z,2026-09-27T04:22:57.879Z
-socks4,205.209.66.105,1080,socks4://205.209.66.105:1080,elite,true,1094,862,67.1,52,523,205.209.66.79,1,sy,Al-Hasakah,Al Ḩasakah,Asia/Damascus,214707,RCell LLC,19,2026-07-04T16:35:37.796Z,2026-09-27T04:23:32.587Z
+socks4,193.43.159.161,1080,socks4://193.43.159.161:1080,elite,false,3870,1808,48.4,41.6,580,193.43.159.161,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,11,2026-05-31T07:16:37.570Z,2026-09-28T04:25:47.162Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,875,969,65.1,64.3,462,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-09-27T04:25:38.671Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,false,886,889.5,63.6,62.4,487,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-09-28T04:23:10.114Z

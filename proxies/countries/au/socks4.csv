@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,168.138.9.147,1080,socks4://168.138.9.147:1080,elite,true,5868,5054.5,23.3,18.6,301,168.138.9.147,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,19,2026-03-18T02:28:35.700Z,2026-09-28T04:23:37.202Z

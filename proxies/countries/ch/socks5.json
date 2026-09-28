@@ -6,11 +6,11 @@
     "url": "socks5://185.195.71.218:18080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 720,
-    "latency_median_ms": 728,
-    "uptime_24h": 99.3,
+    "latency_ms": 718,
+    "latency_median_ms": 709.5,
+    "uptime_24h": 100,
     "uptime_7d": 99.9,
-    "checks_7d": 1005,
+    "checks_7d": 1004,
     "exit_ip": "185.195.71.218",
     "exit_shared": 2,
     "country": "ch",
@@ -21,6 +21,6 @@
     "asn_org": "Datasource AG",
     "sources_count": 21,
     "first_seen": "2025-11-22T16:10:15.367Z",
-    "last_checked": "2026-09-27T04:25:02.241Z"
+    "last_checked": "2026-09-28T04:21:59.729Z"
   }
 ]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,922,891.5,80.8,71.2,730,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-09-27T04:24:56.396Z
-socks5,109.194.163.133,9080,socks5://109.194.163.133:9080,elite,true,1164,1763.5,100,,34,31.56.113.67,2,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,4,2026-08-22T21:22:57.066Z,2026-09-27T04:24:47.042Z
+socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,true,3960,3972.5,50,48.7,598,109.248.149.45,1,lv,Riga,Riga,Europe/Riga,52048,SIA RixHost,19,2026-09-17T02:30:16.285Z,2026-09-28T04:23:14.422Z

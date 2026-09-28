@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,193.233.233.62,56736,socks4://193.233.233.62:56736,elite,false,1185,556.5,77.9,84.1,302,193.233.233.62,2,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,6,2026-08-04T06:07:38.268Z,2026-09-27T04:27:16.922Z
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,679,1382,69.5,64.6,740,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-09-27T04:22:11.660Z
+socks4,193.233.233.62,56736,socks4://193.233.233.62:56736,elite,true,9874,753.5,83.9,84,426,193.233.233.62,4,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,6,2026-08-04T06:07:38.268Z,2026-09-28T04:29:11.583Z

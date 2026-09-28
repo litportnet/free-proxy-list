@@ -6,11 +6,11 @@
     "url": "http://103.30.211.34:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8950,
-    "latency_median_ms": 4346,
-    "uptime_24h": 10.3,
-    "uptime_7d": 6.1,
-    "checks_7d": 98,
+    "latency_ms": 2960,
+    "latency_median_ms": 3892,
+    "uptime_24h": 17.7,
+    "uptime_7d": 9.3,
+    "checks_7d": 118,
     "exit_ip": "103.30.211.34",
     "exit_shared": 1,
     "country": "au",
@@ -21,6 +21,6 @@
     "asn_org": "G-Core Labs S.A.",
     "sources_count": 10,
     "first_seen": "2025-12-06T20:03:19.878Z",
-    "last_checked": "2026-09-27T04:26:48.500Z"
+    "last_checked": "2026-09-28T04:25:31.097Z"
   }
 ]

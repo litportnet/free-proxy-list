@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,708,2866,73.5,72.4,830,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,20,2026-09-11T21:05:56.215Z,2026-09-27T04:22:38.017Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,6215,2268.5,70.8,71.8,839,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-09-28T04:22:33.174Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,3540,4197,73.3,71.2,850,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,20,2026-09-11T21:05:56.215Z,2026-09-28T04:29:11.065Z
+socks5,132.243.168.30,9150,socks5://132.243.168.30:9150,elite,false,1012,1120,73.2,69.2,757,78.17.93.170,1,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,20,2026-08-31T03:06:52.990Z,2026-09-28T04:30:57.552Z
+socks5,5.75.133.113,10808,socks5://5.75.133.113:10808,elite,false,4253,5176,21.2,20.9,172,37.120.237.162,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,19,2026-08-23T21:34:26.552Z,2026-09-28T04:30:42.749Z

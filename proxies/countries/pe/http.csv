@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.158.83.193,999,http://38.158.83.193:999,transparent,false,8856,4567,15.7,16.5,272,38.158.82.98,1,pe,Arequipa,Arequipa,America/Lima,272838,FIBERRED SAC,20,2025-09-05T23:20:58.772Z,2026-09-27T04:29:32.538Z
-http,38.252.215.197,999,http://38.252.215.197:999,transparent,false,9587,3612,21.7,6.7,89,38.252.215.199,1,pe,Lima Province,Lima,America/Lima,274156,TELDRA S.A.C.,17,2026-06-07T03:43:56.712Z,2026-09-27T04:26:49.543Z
-http,190.237.238.201,999,http://190.237.238.201:999,transparent,true,2382,1554.5,93.3,,15,190.237.238.201,1,pe,La Libertad,Mocán,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,9,2026-09-27T01:58:14.430Z,2026-09-27T04:26:33.701Z
-http,190.237.238.183,999,http://190.237.238.183:999,transparent,true,2673,2554,93.3,,15,190.237.238.183,1,pe,La Libertad,Mocán,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,10,2026-09-27T01:58:14.430Z,2026-09-27T04:23:46.970Z
+http,38.158.83.161,999,http://38.158.83.161:999,transparent,false,8383,6343,21.8,12.7,260,38.158.82.98,1,pe,Arequipa,Arequipa,America/Lima,272838,FIBERRED SAC,23,2025-10-07T03:04:47.110Z,2026-09-28T04:25:46.039Z

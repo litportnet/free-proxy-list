@@ -6,11 +6,11 @@
     "url": "socks4://143.105.108.210:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4271,
-    "latency_median_ms": 2115,
-    "uptime_24h": 49.2,
-    "uptime_7d": 42,
-    "checks_7d": 576,
+    "latency_ms": 6333,
+    "latency_median_ms": 2808,
+    "uptime_24h": 41.4,
+    "uptime_7d": 40.7,
+    "checks_7d": 644,
     "exit_ip": "143.105.108.210",
     "exit_shared": 1,
     "country": "py",
@@ -21,6 +21,6 @@
     "asn_org": "Space Exploration Technologies Corporation",
     "sources_count": 19,
     "first_seen": "2026-09-21T00:00:17.318Z",
-    "last_checked": "2026-09-27T04:21:54.813Z"
+    "last_checked": "2026-09-28T04:31:31.436Z"
   }
 ]

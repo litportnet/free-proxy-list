@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.72.180.122,1080,socks5://80.72.180.122:1080,elite,true,2344,2358.5,46.8,46.7,662,80.72.180.122,1,kg,Chuy Region,Kant,Asia/Bishkek,12997,OJSC Kyrgyztelecom,20,2026-04-16T06:47:08.732Z,2026-09-27T04:22:01.365Z

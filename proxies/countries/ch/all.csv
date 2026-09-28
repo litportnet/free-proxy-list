@@ -1,4 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,720,728,99.3,99.9,1005,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-27T04:25:02.241Z
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,492,498,100,99.7,1000,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-27T04:24:54.778Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,629,629.5,15.4,53,415,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-27T04:24:05.005Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,718,709.5,100,99.9,1004,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-28T04:21:59.729Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,506,500.5,97.9,99.4,999,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-28T04:28:22.149Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,4727,816.5,74.7,87.5,901,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,16,2026-05-21T20:26:35.754Z,2026-09-28T04:27:32.484Z
+http,149.33.15.246,3128,http://149.33.15.246:3128,transparent,true,4022,598,85.6,85.4,137,149.33.15.246,1,ch,Ticino,Bellinzona,Europe/Zurich,51852,Private Layer INC,15,2026-09-27T00:57:36.627Z,2026-09-28T04:26:23.023Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,638,639.5,71.1,49.4,411,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-28T04:30:34.830Z
+http,74.242.169.16,3128,http://74.242.169.16:3128,transparent,true,9508,7626.5,29.4,13,123,74.242.169.16,1,ch,Zurich,Zürich,Europe/Zurich,8075,Microsoft Corporation,21,2025-12-09T18:16:19.669Z,2026-09-28T04:23:54.604Z
+http,18.163.182.106,13930,http://18.163.182.106:13930,unknown,false,4733,4733,50,,2,18.163.182.106,2,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,1,2026-09-19T09:40:16.235Z,2026-09-28T04:26:07.742Z

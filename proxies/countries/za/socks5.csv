@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,102.36.127.249,1080,socks5://102.36.127.249:1080,elite,false,4532,4525.5,40.2,37.9,617,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,18,2026-08-19T21:44:21.763Z,2026-09-27T04:27:23.856Z
+socks5,45.74.31.41,4470,socks5://45.74.31.41:4470,elite,true,3263,3548,72.4,72.4,105,41.204.202.8,3,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,10,2026-09-27T04:59:52.205Z,2026-09-28T04:26:37.526Z
+socks5,45.74.31.42,22105,socks5://45.74.31.42:22105,elite,false,3334,4402.5,33.3,33.3,66,41.204.202.8,3,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,13,2026-09-27T04:59:52.205Z,2026-09-28T04:31:11.292Z
+socks5,45.74.31.25,4650,socks5://45.74.31.25:4650,elite,false,9089,4928,11.5,27.9,294,41.204.202.8,3,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,17,2026-09-15T03:47:12.852Z,2026-09-28T04:25:14.924Z

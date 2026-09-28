@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,540,554,99.3,99.5,437,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-27T04:27:41.288Z
+http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,533,567.5,95.7,98.6,575,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-28T04:25:52.476Z
+http,132.145.20.143,3128,http://132.145.20.143:3128,elite,false,9850,7842.5,13,15,187,132.145.20.143,1,gb,England,London,Europe/London,31898,Oracle Corporation,22,2026-09-18T02:43:02.344Z,2026-09-28T04:25:44.948Z
+http,172.239.117.103,8080,http://172.239.117.103:8080,transparent,true,425,1121,25,10.4,183,172.239.117.103,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,16,2026-08-27T23:28:26.052Z,2026-09-28T04:29:22.169Z

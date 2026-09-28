@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "154.65.39.8",
+    "port": 80,
+    "url": "http://154.65.39.8:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4929,
+    "latency_median_ms": 1756,
+    "uptime_24h": 77.4,
+    "uptime_7d": 52.9,
+    "checks_7d": 683,
+    "exit_ip": "154.65.39.8",
+    "exit_shared": 1,
+    "country": "sn",
+    "region": "Dakar",
+    "city": "Dakar",
+    "timezone": "Africa/Dakar",
+    "asn": 37649,
+    "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
+    "sources_count": 20,
+    "first_seen": "2025-09-10T19:34:33.119Z",
+    "last_checked": "2026-09-28T04:30:47.549Z"
+  }
+]

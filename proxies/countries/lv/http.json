@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "216.173.68.250",
+    "port": 3128,
+    "url": "http://216.173.68.250:3128",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 972,
+    "latency_median_ms": 864.5,
+    "uptime_24h": 48.8,
+    "uptime_7d": 35.9,
+    "checks_7d": 401,
+    "exit_ip": "216.173.68.250",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 42532,
+    "asn_org": "SIA VEESP",
+    "sources_count": 25,
+    "first_seen": "2026-09-18T11:47:49.499Z",
+    "last_checked": "2026-09-28T04:26:28.444Z"
+  }
+]

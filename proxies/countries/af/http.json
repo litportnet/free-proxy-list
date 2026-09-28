@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "103.151.88.5",
+    "port": 8080,
+    "url": "http://103.151.88.5:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 944,
+    "latency_median_ms": 3973,
+    "uptime_24h": 22.2,
+    "uptime_7d": 17.8,
+    "checks_7d": 281,
+    "exit_ip": "149.54.7.238",
+    "exit_shared": 1,
+    "country": "af",
+    "region": "Jowzjan",
+    "city": "Shibirghān",
+    "timezone": "Asia/Kabul",
+    "asn": 55330,
+    "asn_org": "AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK",
+    "sources_count": 12,
+    "first_seen": "2026-09-01T12:26:10.017Z",
+    "last_checked": "2026-09-28T04:24:03.938Z"
+  }
+]

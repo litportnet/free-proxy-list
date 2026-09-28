@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,7507,382,81.9,66.3,632,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-09-27T04:27:08.550Z
-http,23.138.88.1,999,http://23.138.88.1:999,transparent,true,9226,4927.5,30.3,24.1,395,23.138.88.1,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,20,2026-05-17T05:24:49.448Z,2026-09-27T04:26:37.947Z
-http,23.138.88.65,999,http://23.138.88.65:999,transparent,false,2492,3545,23.9,21.2,52,23.138.88.86,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,20,2026-07-14T18:47:00.874Z,2026-09-27T04:26:59.051Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.115.75.65,8080,http://185.115.75.65:8080,transparent,true,3739,3193,30.4,20.5,332,185.115.74.1,1,cz,Moravian-Silesian Region,Ostrava,Europe/Prague,212975,TeamCity s.r.o.,24,2026-09-06T19:16:22.802Z,2026-09-27T04:23:48.030Z
+http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,2872,1057,81.4,86.2,898,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-09-28T04:31:46.206Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,108.181.246.55,9898,http://108.181.246.55:9898,transparent,false,1006,1464.5,38.6,27.9,487,185.100.87.250,1,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,25,2026-09-05T07:58:41.692Z,2026-09-27T04:30:48.968Z
