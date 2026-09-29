@@ -6,11 +6,11 @@
     "url": "http://195.144.24.57:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1678,
-    "latency_median_ms": 1269.5,
-    "uptime_24h": 80.3,
-    "uptime_7d": 76.9,
-    "checks_7d": 850,
+    "latency_ms": 4315,
+    "latency_median_ms": 2601,
+    "uptime_24h": 68.8,
+    "uptime_7d": 76.1,
+    "checks_7d": 875,
     "exit_ip": "195.144.24.57",
     "exit_shared": 1,
     "country": "mk",
@@ -21,6 +21,6 @@
     "asn_org": "AVS ISP",
     "sources_count": 23,
     "first_seen": "2026-09-21T02:01:18.106Z",
-    "last_checked": "2026-09-28T04:29:11.058Z"
+    "last_checked": "2026-09-29T04:24:32.378Z"
   }
 ]

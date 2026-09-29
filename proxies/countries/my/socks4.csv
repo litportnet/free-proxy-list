@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,175.139.200.17,4153,socks4://175.139.200.17:4153,elite,true,4193,4211.5,29.1,36.4,687,175.139.200.17,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:06.505Z,2026-09-29T04:27:56.679Z
+socks4,111.119.162.248,10935,socks4://111.119.162.248:10935,elite,true,3516,5347,18.9,26.1,394,47.250.100.4,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,45102,"Alibaba (US) Technology Co., Ltd.",20,2026-08-16T19:47:06.774Z,2026-09-29T04:29:57.321Z

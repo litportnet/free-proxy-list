@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,131.153.163.122,8254,http://131.153.163.122:8254,elite,false,5264,2273,33.3,36.9,103,186.189.9.23,1,aw,Aruba,Noord,America/Aruba,11816,SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.,14,2026-09-27T00:57:43.648Z,2026-09-28T04:26:07.209Z
-http,131.153.163.125,8254,http://131.153.163.125:8254,elite,true,533,2454,25.4,25.4,59,181.41.8.243,1,aw,Aruba,Oranjestad,America/Aruba,11816,SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.,11,2026-09-27T09:02:00.571Z,2026-09-28T04:26:12.440Z
-http,131.153.163.126,8012,http://131.153.163.126:8012,elite,true,413,3432,16.7,16.7,54,201.229.66.250,1,aw,Aruba,San Nicolas,America/Aruba,11816,SERVICIO DI TELECOMUNICACION DI ARUBA (SETAR) N.V.,6,2026-09-27T04:59:34.762Z,2026-09-28T04:26:43.522Z

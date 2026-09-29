@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "185.56.219.76",
+    "port": 40001,
+    "url": "socks5://185.56.219.76:40001",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 5098,
+    "latency_median_ms": 4314,
+    "uptime_24h": 69,
+    "uptime_7d": 69,
+    "checks_7d": 87,
+    "exit_ip": "104.28.220.235",
+    "exit_shared": 3,
+    "country": "it",
+    "region": "Apulia",
+    "city": "Bari",
+    "timezone": "Europe/Rome",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 13,
+    "first_seen": "2026-09-28T10:15:11.466Z",
+    "last_checked": "2026-09-29T04:29:03.325Z"
+  }
+]

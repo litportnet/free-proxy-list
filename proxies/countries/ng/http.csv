@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,906,913,61,51.6,733,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-09-28T04:25:42.888Z
-http,102.36.133.62,8080,http://102.36.133.62:8080,transparent,false,3638,3625,16.7,13.5,133,102.36.133.62,1,ng,Lagos,Lagos,Africa/Lagos,328556,SYSCODES COMMUNICATIONS LIMITED,20,2025-09-05T20:06:36.945Z,2026-09-28T04:31:14.989Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,830,824,84.3,57.3,797,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-09-29T04:25:45.708Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,905,907.5,50.8,46.6,757,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-09-29T04:24:23.676Z
+http,102.90.0.149,8080,http://102.90.0.149:8080,transparent,false,1047,2120.5,28.6,28.7,383,102.90.0.149,1,ng,Delta,Warri,Africa/Lagos,29465,MTN NIGERIA Communication limited,13,2026-09-03T05:48:46.627Z,2026-09-29T04:21:47.704Z

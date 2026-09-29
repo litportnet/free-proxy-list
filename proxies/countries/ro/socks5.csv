@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.58.146.79,1080,socks5://195.58.146.79:1080,elite,false,3932,1229.5,53.3,53.3,75,195.58.146.79,1,ro,Ilfov,Voluntari,Europe/Bucharest,9009,M247 Europe SRL,10,2026-09-27T13:04:01.417Z,2026-09-28T04:30:24.243Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2124,1748.5,64,63.1,683,146.70.66.130,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-09-29T04:20:24.404Z

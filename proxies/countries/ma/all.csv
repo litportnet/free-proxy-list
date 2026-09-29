@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,51.170.133.249,80,http://51.170.133.249:80,elite,true,589,3663.5,39.8,64.4,805,51.170.133.249,1,ma,Casablanca-Settat,Zawyat an Nwaçer,Africa/Casablanca,31898,Oracle Corporation,25,2026-09-18T05:44:35.769Z,2026-09-28T04:26:55.652Z
-http,105.157.167.50,8080,http://105.157.167.50:8080,elite,true,1985,1985,50,,2,105.157.167.50,1,ma,Souss-Massa,Agadir,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,7,2026-09-28T04:11:55.348Z,2026-09-28T04:23:24.169Z
+http,51.170.133.249,80,http://51.170.133.249:80,elite,false,659,732.5,78.8,66,843,51.170.133.249,1,ma,Casablanca-Settat,Zawyat an Nwaçer,Africa/Casablanca,31898,Oracle Corporation,25,2026-09-18T05:44:35.769Z,2026-09-29T04:23:33.797Z

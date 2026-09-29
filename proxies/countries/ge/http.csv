@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,95.104.123.18,8080,http://95.104.123.18:8080,transparent,false,7959,3207,28.8,28.8,59,95.104.123.18,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,13,2026-09-28T14:17:13.126Z,2026-09-29T04:19:51.057Z

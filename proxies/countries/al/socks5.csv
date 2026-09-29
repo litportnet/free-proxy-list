@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,7825,4429,46.9,63.7,705,31.171.155.140,1,al,Tirana,Tirana,Europe/Tirane,197706,Keminet SHPK,17,2026-09-22T16:21:33.920Z,2026-09-29T04:24:55.568Z

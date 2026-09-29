@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.86.245.81,8080,http://45.86.245.81:8080,elite,true,518,508,91.5,75.6,476,45.86.245.81,1,at,Vienna,Vienna,Europe/Vienna,203273,NetCrafters OU,19,2026-09-09T12:52:11.775Z,2026-09-28T04:25:15.460Z
-http,193.233.233.62,56736,http://193.233.233.62:56736,elite,true,8738,1143,75.8,70.3,424,193.233.233.62,4,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,11,2026-08-04T03:05:57.709Z,2026-09-28T04:25:32.172Z
-http,193.233.233.62,21840,http://193.233.233.62:21840,elite,true,4872,2262,70.3,70,263,193.233.233.62,4,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-25T23:44:24.955Z,2026-09-28T04:25:25.250Z
-http,144.31.34.16,3128,http://144.31.34.16:3128,transparent,false,3375,3871,50.6,38.6,469,109.70.100.7,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,17,2026-09-22T09:17:59.637Z,2026-09-28T04:28:36.525Z
+http,45.86.245.81,8080,http://45.86.245.81:8080,elite,true,482,567,97.2,80.6,617,45.86.245.81,1,at,Vienna,Vienna,Europe/Vienna,203273,NetCrafters OU,19,2026-09-09T12:52:11.775Z,2026-09-29T04:29:58.393Z
+http,193.233.233.62,21840,http://193.233.233.62:21840,elite,true,3953,777,72.9,71,396,193.233.233.62,4,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-25T23:44:24.955Z,2026-09-29T04:27:38.099Z
+http,193.233.233.62,56736,http://193.233.233.62:56736,elite,true,2851,1305,62.5,68.5,543,193.233.233.62,4,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,11,2026-08-04T03:05:57.709Z,2026-09-29T04:23:08.306Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.36.168.185",
+    "port": 8080,
+    "url": "http://102.36.168.185:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3880,
+    "latency_median_ms": 4189,
+    "uptime_24h": 31.3,
+    "uptime_7d": 21.4,
+    "checks_7d": 323,
+    "exit_ip": "102.129.88.50",
+    "exit_shared": 1,
+    "country": "cg",
+    "region": "Brazzaville",
+    "city": "Brazzaville",
+    "timezone": "Africa/Brazzaville",
+    "asn": 37451,
+    "asn_org": "CONGO TELECOM",
+    "sources_count": 10,
+    "first_seen": "2025-09-21T05:36:57.504Z",
+    "last_checked": "2026-09-29T04:19:25.180Z"
+  }
+]

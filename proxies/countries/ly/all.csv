@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,165.16.17.189,8080,http://165.16.17.189:8080,transparent,false,5109,4922,15.6,23,370,165.16.17.189,1,ly,Al Wahat,Ajdabiya,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,12,2026-05-30T12:08:00.689Z,2026-09-28T04:26:55.637Z
-http,165.16.58.131,8080,http://165.16.58.131:8080,transparent,true,5593,4034,15.8,15.7,255,165.16.58.130,1,ly,Jabal al Gharbi,Yafran,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,24,2026-04-08T15:03:55.008Z,2026-09-28T04:24:57.557Z

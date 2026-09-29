@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,107,127.5,94.1,85.5,890,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-09-28T04:29:27.484Z
-http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,165,209.5,74.3,54.3,727,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-09-28T04:31:56.293Z
-http,54.39.28.106,8082,http://54.39.28.106:8082,transparent,true,7031,6905.5,29.4,21.3,230,54.39.28.106,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,24,2026-07-01T11:56:05.229Z,2026-09-28T04:28:26.416Z
-http,192.99.44.178,3128,http://192.99.44.178:3128,transparent,true,5688,6274.5,35,11.3,150,192.99.44.178,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,21,2025-10-08T08:20:04.898Z,2026-09-28T04:24:57.458Z
-http,34.130.92.118,443,http://34.130.92.118:443,anonymous,true,8090,5836,15.8,5.5,55,34.130.92.118,1,ca,Ontario,Toronto,America/Toronto,396982,Google LLC,19,2026-07-10T02:48:12.083Z,2026-09-28T04:31:21.866Z
-http,131.153.1.44,23629,http://131.153.1.44:23629,elite,true,3417,3417,37.5,,8,99.243.238.228,1,ca,Ontario,London,America/Toronto,812,Rogers Communications Canada Inc.,1,2026-09-28T03:11:23.122Z,2026-09-28T04:31:08.090Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,92,113,97.2,87.2,911,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-09-29T04:27:30.697Z
+http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,204,202,75.6,56.9,774,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-09-29T04:24:01.943Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,false,9245,4701.5,36.3,28.1,551,184.70.113.34,1,ca,Alberta,High River,America/Edmonton,6327,Shaw Communications,22,2026-08-05T05:21:13.994Z,2026-09-29T04:21:34.224Z

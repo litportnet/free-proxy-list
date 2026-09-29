@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.22,6180,socks5://45.74.31.22:6180,elite,true,846,846,100,,1,41.196.200.144,1,eg,Cairo,Cairo,Africa/Cairo,24863,Link Egypt (Link.NET),1,2026-09-29T04:24:43.611Z,2026-09-29T04:25:50.300Z

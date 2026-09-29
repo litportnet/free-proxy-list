@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,151.237.84.9,8080,http://151.237.84.9:8080,transparent,false,4430,4288,14.3,19.7,310,151.237.84.9,1,bg,Kardzhali,Kardzhali,Europe/Sofia,48233,Netroniks EOOD,25,2026-04-18T12:25:36.946Z,2026-09-29T04:21:17.935Z

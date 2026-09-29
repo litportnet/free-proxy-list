@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,true,3960,3972.5,50,48.7,598,109.248.149.45,1,lv,Riga,Riga,Europe/Riga,52048,SIA RixHost,19,2026-09-17T02:30:16.285Z,2026-09-28T04:23:14.422Z

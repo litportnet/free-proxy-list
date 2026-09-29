@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.113.249.14,88,http://190.113.249.14:88,transparent,true,1751,3227.5,30.9,34.3,534,190.113.249.14,1,cr,Alajuela Province,Zarcero,America/Costa_Rica,262241,COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.,25,2026-06-05T19:32:16.493Z,2026-09-28T04:31:10.243Z
+http,190.7.214.134,8080,http://190.7.214.134:8080,transparent,false,9178,4540,28.2,26.7,454,190.7.214.134,1,cr,San José,San José,America/Costa_Rica,27876,American Data Networks,24,2026-09-10T22:54:11.229Z,2026-09-29T04:28:45.904Z

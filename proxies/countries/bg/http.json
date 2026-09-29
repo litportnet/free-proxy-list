@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "151.237.84.9",
+    "port": 8080,
+    "url": "http://151.237.84.9:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4430,
+    "latency_median_ms": 4288,
+    "uptime_24h": 14.3,
+    "uptime_7d": 19.7,
+    "checks_7d": 310,
+    "exit_ip": "151.237.84.9",
+    "exit_shared": 1,
+    "country": "bg",
+    "region": "Kardzhali",
+    "city": "Kardzhali",
+    "timezone": "Europe/Sofia",
+    "asn": 48233,
+    "asn_org": "Netroniks EOOD",
+    "sources_count": 25,
+    "first_seen": "2026-04-18T12:25:36.946Z",
+    "last_checked": "2026-09-29T04:21:17.935Z"
+  }
+]

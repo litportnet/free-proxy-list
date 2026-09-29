@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,116.12.85.67,2525,http://116.12.85.67:2525,transparent,true,2081,6832.5,27.6,16.7,222,203.143.24.209,1,lk,Western Province,Colombo,Asia/Colombo,5087,Lanka Communication Services,25,2026-08-27T14:23:14.624Z,2026-09-29T04:29:33.523Z

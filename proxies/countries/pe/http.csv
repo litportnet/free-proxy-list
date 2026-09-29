@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.158.83.161,999,http://38.158.83.161:999,transparent,false,8383,6343,21.8,12.7,260,38.158.82.98,1,pe,Arequipa,Arequipa,America/Lima,272838,FIBERRED SAC,23,2025-10-07T03:04:47.110Z,2026-09-28T04:25:46.039Z
+http,64.76.106.106,999,http://64.76.106.106:999,transparent,false,3024,3334.5,25,22.7,330,38.250.229.66,1,pe,Lima Province,Lima,America/Lima,273067,LOA NETWORK JL S.A.C.,18,2026-07-10T04:49:32.786Z,2026-09-29T04:27:04.480Z
+http,38.10.107.117,999,http://38.10.107.117:999,transparent,false,5823,3396.5,40,,10,38.10.107.117,1,pe,Arequipa,Arequipa,America/Lima,272894,MISTICOM FIBRA OPTICA S.A.C.,5,2026-09-29T02:23:35.590Z,2026-09-29T04:26:46.805Z
+http,38.56.111.104,999,http://38.56.111.104:999,transparent,false,7813,736.5,97.3,,37,38.56.111.106,1,pe,Lima Province,Lima,America/Lima,269862,M & B Soluciones Peru S.A.C. (FASTNET),15,2026-09-28T22:21:28.059Z,2026-09-29T04:29:45.170Z

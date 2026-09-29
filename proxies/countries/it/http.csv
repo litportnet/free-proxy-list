@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,4450,4387.5,65.3,39.1,622,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-09-28T04:28:25.891Z
+http,185.56.219.76,40001,http://185.56.219.76:40001,elite,false,4199,3846.5,73.9,73.9,88,104.28.220.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",3,2026-09-28T10:15:04.891Z,2026-09-29T04:29:21.262Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,8775,500.5,40.2,38.4,635,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-09-29T04:27:20.128Z
+http,172.238.238.108,3128,http://172.238.238.108:3128,transparent,true,2452,2452,100,,1,172.238.238.108,1,it,Lombardy,Milan,Europe/Rome,63949,Akamai Connected Cloud,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:34.560Z

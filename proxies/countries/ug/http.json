@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "196.0.111.194",
+    "port": 34638,
+    "url": "http://196.0.111.194:34638",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3503,
+    "latency_median_ms": 3187.5,
+    "uptime_24h": 32.6,
+    "uptime_7d": 24.4,
+    "checks_7d": 386,
+    "exit_ip": "196.0.111.194",
+    "exit_shared": 2,
+    "country": "ug",
+    "region": "Central Region",
+    "city": "Kampala",
+    "timezone": "Africa/Kampala",
+    "asn": 21491,
+    "asn_org": "Uganda Telecom",
+    "sources_count": 9,
+    "first_seen": "2025-09-10T21:05:10.338Z",
+    "last_checked": "2026-09-29T04:29:25.499Z"
+  }
+]

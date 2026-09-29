@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,true,1629,3624.5,54.4,55.1,762,177.91.255.35,1,pe,Lima region,Chosica,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-09-28T04:26:05.572Z
-socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,false,812,1657.5,56.1,50.4,744,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,20,2025-09-04T23:49:14.401Z,2026-09-28T04:25:24.232Z

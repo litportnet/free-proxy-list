@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,1187,1089,43,62,765,81.168.83.136,1,gb,England,London,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-08-01T19:38:38.199Z,2026-09-28T04:23:24.713Z
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,1544,3579.5,65.8,43.8,553,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-09-28T04:23:59.507Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,529,1055.5,53.7,45.3,603,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-09-29T04:30:06.850Z
+socks4,111.119.162.248,10940,socks4://111.119.162.248:10940,elite,true,2863,5043.5,30.1,25.2,242,8.208.75.96,3,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",7,2026-08-15T21:35:48.005Z,2026-09-29T04:28:26.814Z

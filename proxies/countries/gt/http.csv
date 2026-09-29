@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,200.119.141.114,999,http://200.119.141.114:999,transparent,true,2176,3713.5,21.6,23.8,399,200.119.141.114,1,gt,Izabal Department,Lívingston,America/Guatemala,13682,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",15,2025-09-05T20:06:36.713Z,2026-09-28T04:24:29.903Z
-http,138.117.231.133,999,http://138.117.231.133:999,transparent,false,3014,3384.5,25.4,19.4,361,138.117.231.133,1,gt,Huehuetenango,Huehuetenango,America/Guatemala,269989,FIBERNET S.A,15,2025-09-05T20:06:32.073Z,2026-09-28T04:23:14.995Z

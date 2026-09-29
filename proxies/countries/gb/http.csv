@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,533,567.5,95.7,98.6,575,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-28T04:25:52.476Z
-http,132.145.20.143,3128,http://132.145.20.143:3128,elite,false,9850,7842.5,13,15,187,132.145.20.143,1,gb,England,London,Europe/London,31898,Oracle Corporation,22,2026-09-18T02:43:02.344Z,2026-09-28T04:25:44.948Z
-http,172.239.117.103,8080,http://172.239.117.103:8080,transparent,true,425,1121,25,10.4,183,172.239.117.103,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,16,2026-08-27T23:28:26.052Z,2026-09-28T04:29:22.169Z
+http,144.31.58.13,80,http://144.31.58.13:80,transparent,false,544,554.5,100,98.9,718,144.31.58.13,1,gb,England,London,Europe/London,26383,Baxet Group Inc.,1,2026-09-24T03:21:27.253Z,2026-09-29T04:21:04.443Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,714,715,97.2,96.2,982,172.70.86.73,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-09-29T04:19:48.340Z
+http,194.164.22.24,8080,http://194.164.22.24:8080,elite,false,697,4691.5,27.3,27.9,577,194.164.22.24,1,gb,England,London,Europe/London,8560,IONOS SE,25,2026-09-06T18:17:04.735Z,2026-09-29T04:28:08.820Z
+http,111.119.162.248,10940,http://111.119.162.248:10940,elite,true,6034,4535.5,25.9,21.9,224,8.208.75.96,3,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",19,2026-08-15T21:35:51.221Z,2026-09-29T04:21:37.445Z
+http,46.101.62.159,3128,http://46.101.62.159:3128,elite,true,670,670,100,,1,46.101.62.159,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",2,2026-09-29T04:24:45.967Z,2026-09-29T04:26:20.028Z
+http,174.138.161.186,9615,http://174.138.161.186:9615,elite,false,5708,5708,100,,1,31.94.22.201,1,gb,Scotland,Glasgow,Europe/London,2856,British Telecommunications Limited,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:37.303Z

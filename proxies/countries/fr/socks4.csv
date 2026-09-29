@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,129.151.240.183,1080,socks4://129.151.240.183:1080,elite,true,634,757,99.3,99.7,579,129.151.240.183,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,31898,Oracle Corporation,14,2026-09-24T03:21:01.709Z,2026-09-28T04:25:46.023Z
-socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,true,789,1007.5,88.9,92.6,964,109.123.251.109,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-28T04:24:19.641Z
-socks4,95.111.228.190,1081,socks4://95.111.228.190:1081,elite,true,1543,1124,77.2,87.2,900,95.111.228.190,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-09-21T11:06:18.018Z,2026-09-28T04:29:02.049Z
+socks4,129.151.240.183,1080,socks4://129.151.240.183:1080,elite,true,1911,718.5,91.5,98.1,719,129.151.240.183,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,31898,Oracle Corporation,14,2026-09-24T03:21:01.709Z,2026-09-29T04:22:54.854Z
+socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,true,1264,1109,89.3,92,973,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-29T04:24:00.845Z
+socks4,95.111.228.190,1082,socks4://95.111.228.190:1082,elite,true,3316,864,64.3,84.9,865,95.111.228.190,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,14,2026-09-22T17:22:10.711Z,2026-09-29T04:29:04.376Z
+socks4,95.111.228.190,1080,socks4://95.111.228.190:1080,elite,false,643,876.5,64.6,82.6,935,95.111.228.190,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-21T11:06:09.388Z,2026-09-29T04:26:58.610Z

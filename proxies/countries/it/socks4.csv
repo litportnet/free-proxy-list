@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,84.247.236.86,48293,socks4://84.247.236.86:48293,elite,false,1655,1689.5,27.6,29,565,84.247.236.86,1,it,Trentino-Alto Adige,Moena,Europe/Rome,31263,MYNET S.R.L.,13,2025-09-06T05:36:00.631Z,2026-09-28T04:30:32.694Z
+socks4,185.62.48.126,5678,socks4://185.62.48.126:5678,elite,true,1080,1019,63.6,68.2,811,185.62.48.126,1,it,Molise,Isernia,Europe/Rome,201847,Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.,20,2026-09-18T08:46:12.830Z,2026-09-29T04:20:13.093Z
+socks4,45.66.207.155,1080,socks4://45.66.207.155:1080,elite,true,792,792,100,,7,45.66.204.16,1,it,Sicily,Sortino,Europe/Rome,209410,SiciLink s.r.l.s,4,2026-09-29T03:24:09.811Z,2026-09-29T04:22:24.999Z
+socks4,185.56.219.76,40001,socks4://185.56.219.76:40001,elite,true,1951,3426.5,82.1,,28,104.28.220.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",1,2026-09-28T23:22:01.334Z,2026-09-29T04:27:21.231Z

@@ -1,16 +1,40 @@
 [
   {
     "protocol": "socks4",
+    "ip": "190.14.5.164",
+    "port": 5678,
+    "url": "socks4://190.14.5.164:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 437,
+    "latency_median_ms": 430.5,
+    "uptime_24h": 58.5,
+    "uptime_7d": 61.2,
+    "checks_7d": 775,
+    "exit_ip": "190.14.5.164",
+    "exit_shared": 1,
+    "country": "gt",
+    "region": "Guatemala",
+    "city": "Guatemala City",
+    "timezone": "America/Guatemala",
+    "asn": 26617,
+    "asn_org": "Navega.com S.A.",
+    "sources_count": 12,
+    "first_seen": "2026-05-31T05:22:35.276Z",
+    "last_checked": "2026-09-29T04:19:52.666Z"
+  },
+  {
+    "protocol": "socks4",
     "ip": "181.189.132.74",
     "port": 5678,
     "url": "socks4://181.189.132.74:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3436,
-    "latency_median_ms": 3431,
-    "uptime_24h": 61.3,
-    "uptime_7d": 57.1,
-    "checks_7d": 764,
+    "latency_ms": 393,
+    "latency_median_ms": 1446,
+    "uptime_24h": 42.7,
+    "uptime_7d": 54.6,
+    "checks_7d": 790,
     "exit_ip": "181.189.132.74",
     "exit_shared": 1,
     "country": "gt",
@@ -21,6 +45,6 @@
     "asn_org": "Navega.com S.A.",
     "sources_count": 21,
     "first_seen": "2026-08-08T18:05:33.990Z",
-    "last_checked": "2026-09-28T04:26:56.693Z"
+    "last_checked": "2026-09-29T04:22:33.738Z"
   }
 ]

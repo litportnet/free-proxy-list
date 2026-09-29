@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,129.151.130.247,1111,socks4://129.151.130.247:1111,elite,true,3944,3928,16.7,6.3,64,129.151.130.247,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,7,2025-09-10T21:05:13.830Z,2026-09-29T04:28:58.071Z

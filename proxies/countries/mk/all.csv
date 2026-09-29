@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.144.24.57,3128,http://195.144.24.57:3128,elite,true,1678,1269.5,80.3,76.9,850,195.144.24.57,1,mk,Grad Skopje,Skopje,Europe/Skopje,210464,AVS ISP,23,2026-09-21T02:01:18.106Z,2026-09-28T04:29:11.058Z
+http,195.144.24.57,3128,http://195.144.24.57:3128,elite,true,4315,2601,68.8,76.1,875,195.144.24.57,1,mk,Grad Skopje,Skopje,Europe/Skopje,210464,AVS ISP,23,2026-09-21T02:01:18.106Z,2026-09-29T04:24:32.378Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.140.137.151,80,http://34.140.137.151:80,elite,false,519,511.5,58.3,34.9,538,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,18,2025-10-14T21:28:47.989Z,2026-09-28T04:25:40.829Z
+http,34.78.79.103,40001,http://34.78.79.103:40001,elite,true,476,1681,96.2,96.2,78,104.28.195.128,3,be,Brussels Capital,Brussels,Europe/Brussels,13335,"Cloudflare, Inc.",8,2026-09-28T15:17:45.975Z,2026-09-29T04:27:34.320Z

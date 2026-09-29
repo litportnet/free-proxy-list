@@ -6,11 +6,11 @@
     "url": "socks5://5.45.119.70:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 886,
-    "latency_median_ms": 889.5,
-    "uptime_24h": 63.6,
-    "uptime_7d": 62.4,
-    "checks_7d": 487,
+    "latency_ms": 1003,
+    "latency_median_ms": 867.5,
+    "uptime_24h": 67.7,
+    "uptime_7d": 63.3,
+    "checks_7d": 529,
     "exit_ip": "5.45.119.70",
     "exit_shared": 1,
     "country": "ee",
@@ -21,6 +21,6 @@
     "asn_org": "P.A.G.M. OU",
     "sources_count": 20,
     "first_seen": "2026-08-09T14:15:31.168Z",
-    "last_checked": "2026-09-28T04:23:10.114Z"
+    "last_checked": "2026-09-29T04:26:40.758Z"
   }
 ]
