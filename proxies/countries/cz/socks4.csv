@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.162.195.35,4153,socks4://81.162.195.35:4153,elite,false,1669,1293.5,46.2,53.9,624,81.162.195.35,1,cz,Zlín,Luhačovice,Europe/Prague,34955,Martin Vicenik,13,2025-09-05T20:06:34.348Z,2026-09-29T04:29:23.899Z
-socks4,78.111.112.118,4145,socks4://78.111.112.118:4145,elite,false,1001,663.5,61.7,52.7,659,78.111.112.118,1,cz,Ústí nad Labem Region,Žatec,Europe/Prague,47232,ISP Alliance a.s.,23,2026-04-28T20:21:25.468Z,2026-09-29T04:22:05.448Z
+socks4,85.163.43.208,48293,socks4://85.163.43.208:48293,elite,true,1246,1764.5,66.7,62.6,773,85.163.43.208,1,cz,Central Bohemia,Mladá Boleslav,Europe/Prague,28725,CETIN a.s.,13,2026-05-06T21:04:02.868Z,2026-09-30T04:23:21.087Z
+socks4,81.162.195.35,4153,socks4://81.162.195.35:4153,elite,true,713,1202,62.6,53.6,625,81.162.195.35,1,cz,Zlín,Luhačovice,Europe/Prague,34955,Martin Vicenik,13,2025-09-05T20:06:34.348Z,2026-09-30T04:26:53.726Z
+socks4,45.142.195.110,995,socks4://45.142.195.110:995,elite,true,1202,2345,69.4,43.7,350,46.8.113.170,2,cz,Prague,Prague,Europe/Prague,215305,Mastersoft S.R.L.,11,2026-06-03T14:03:43.859Z,2026-09-30T04:30:13.020Z

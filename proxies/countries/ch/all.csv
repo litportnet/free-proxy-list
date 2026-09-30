@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,727,713.5,100,99.9,1004,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-29T04:24:45.888Z
-http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,482,478.5,100,99.5,1001,185.195.71.218,2,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-29T04:27:29.676Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,647,625,68.3,50.7,446,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-29T04:20:02.347Z
+socks5,185.195.71.218,18080,socks5://185.195.71.218:18080,elite,true,699,701,99.3,99.8,1004,185.195.71.218,3,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,21,2025-11-22T16:10:15.367Z,2026-09-30T04:25:32.776Z
+http,185.195.71.218,18080,http://185.195.71.218:18080,elite,true,508,498.5,99.3,99.4,1002,185.195.71.218,3,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,14,2025-11-22T22:38:16.432Z,2026-09-30T04:23:46.075Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,580,679.5,85.5,84.7,889,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-09-30T04:22:15.473Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,656,648.5,72,56.8,514,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-09-30T04:29:58.749Z
+http,193.233.91.64,3129,http://193.233.91.64:3129,elite,true,1719,718,35.3,25.3,304,185.195.71.218,3,ch,Lucerne,Luzern,Europe/Zurich,56803,Datasource AG,23,2026-09-03T06:48:53.504Z,2026-09-30T04:24:42.199Z
+http,85.1.140.150,3128,http://85.1.140.150:3128,transparent,true,9490,5043,29.6,16,163,85.1.140.150,1,ch,Aargau,Aarau,Europe/Zurich,3303,Swisscom (Switzerland) Ltd,15,2026-05-22T06:31:00.190Z,2026-09-30T04:26:49.466Z

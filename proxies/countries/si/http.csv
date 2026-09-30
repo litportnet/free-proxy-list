@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,91.185.193.115,8080,http://91.185.193.115:8080,elite,true,1586,3804,35.4,33,106,91.185.193.115,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,41828,Telemach Slovenija d.o.o.,18,2026-09-28T20:20:30.554Z,2026-09-30T04:30:31.547Z

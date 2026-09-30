@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "190.113.249.14",
+    "port": 50000,
+    "url": "socks4://190.113.249.14:50000",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 500,
+    "latency_median_ms": 2623.5,
+    "uptime_24h": 60.2,
+    "uptime_7d": 47,
+    "checks_7d": 649,
+    "exit_ip": "190.113.249.14",
+    "exit_shared": 2,
+    "country": "cr",
+    "region": "Alajuela Province",
+    "city": "Zarcero",
+    "timezone": "America/Costa_Rica",
+    "asn": 262241,
+    "asn_org": "COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.",
+    "sources_count": 20,
+    "first_seen": "2026-08-23T08:28:36.122Z",
+    "last_checked": "2026-09-30T04:27:24.148Z"
+  }
+]

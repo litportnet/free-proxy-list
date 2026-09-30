@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,3049,3146.5,54.3,47.8,598,92.62.123.84,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,209854,Cyberzone S.A.,20,2026-08-24T21:47:23.618Z,2026-09-29T04:19:25.206Z
-socks5,16.18.37.186,52797,socks5://16.18.37.186:52797,unknown,false,4873,4152,16.7,,18,16.18.37.186,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,210731,Forening for DotSrc,1,2026-09-28T22:21:57.166Z,2026-09-29T04:19:40.305Z

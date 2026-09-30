@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,190.181.28.186,999,http://190.181.28.186:999,transparent,true,8179,5820,39.7,24.4,427,190.181.28.186,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,26210,AXS Bolivia S. A.,25,2026-07-31T06:15:29.295Z,2026-09-30T04:27:15.528Z

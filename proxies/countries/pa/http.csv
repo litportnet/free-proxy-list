@@ -1,7 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,131.153.163.86,29404,http://131.153.163.86:29404,elite,true,974,974,100,,1,190.140.98.74,1,pa,Panamá,San Miguelito,America/Panama,18809,Cable Onda,1,2026-09-29T04:24:31.020Z,2026-09-29T04:24:55.026Z
-http,131.153.163.85,8254,http://131.153.163.85:8254,anonymous,false,4445,4445,100,,1,201.227.100.17,1,pa,Chiriquí Province,David,America/Panama,11556,Cable & Wireless Panama,4,2026-09-29T04:24:31.020Z,2026-09-29T04:24:52.859Z
-http,131.153.163.86,8170,http://131.153.163.86:8170,anonymous,false,5075,2657.5,37.9,,32,190.141.250.123,1,pa,Panamá,Panama City,America/Panama,18809,Cable Onda,15,2026-09-26T19:54:48.539Z,2026-09-29T04:27:22.326Z
-http,131.153.163.84,39823,http://131.153.163.84:39823,anonymous,true,5992,5992,100,,1,181.197.5.205,1,pa,Chiriquí Province,David,America/Panama,18809,Cable Onda,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:37.872Z
-http,131.153.163.86,39906,http://131.153.163.86:39906,anonymous,false,7289,7289,100,,1,201.226.191.94,1,pa,Panamá Oeste Province,Nuevo Arraiján,America/Panama,11556,Cable & Wireless Panama,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:35.678Z
-http,131.153.163.84,39783,http://131.153.163.84:39783,anonymous,true,8192,6252,14.3,,47,201.226.191.198,1,pa,Panamá Oeste Province,Nuevo Arraiján,America/Panama,11556,Cable & Wireless Panama,10,2026-09-26T06:48:07.083Z,2026-09-29T04:27:56.156Z

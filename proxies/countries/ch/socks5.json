@@ -6,13 +6,13 @@
     "url": "socks5://185.195.71.218:18080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 727,
-    "latency_median_ms": 713.5,
-    "uptime_24h": 100,
-    "uptime_7d": 99.9,
+    "latency_ms": 699,
+    "latency_median_ms": 701,
+    "uptime_24h": 99.3,
+    "uptime_7d": 99.8,
     "checks_7d": 1004,
     "exit_ip": "185.195.71.218",
-    "exit_shared": 2,
+    "exit_shared": 3,
     "country": "ch",
     "region": "Lucerne",
     "city": "Luzern",
@@ -21,6 +21,6 @@
     "asn_org": "Datasource AG",
     "sources_count": 21,
     "first_seen": "2025-11-22T16:10:15.367Z",
-    "last_checked": "2026-09-29T04:24:45.888Z"
+    "last_checked": "2026-09-30T04:25:32.776Z"
   }
 ]

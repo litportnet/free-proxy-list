@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,112.86.163.157,7890,socks4://112.86.163.157:7890,elite,true,1333,1406,100,,7,36.230.18.75,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,7,2026-09-29T03:24:09.811Z,2026-09-29T04:25:17.758Z

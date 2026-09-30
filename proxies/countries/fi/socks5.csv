@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,185.112.83.80,1080,socks5://185.112.83.80:1080,elite,true,977,1010,89.9,93.2,205,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-09-27T17:06:08.345Z,2026-09-29T04:24:38.391Z
-socks5,85.209.156.148,1080,socks5://85.209.156.148:1080,elite,false,7102,2707,85.9,72.2,797,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-08-25T00:49:11.337Z,2026-09-29T04:26:34.607Z
-socks5,151.239.118.97,2080,socks5://151.239.118.97:2080,elite,true,2788,2788,100,,1,85.234.86.183,1,fi,Uusimaa,Helsinki,Europe/Helsinki,199524,G-Core Labs S.A.,2,2026-09-29T04:24:48.711Z,2026-09-29T04:26:26.924Z
+socks5,185.112.83.80,1080,socks5://185.112.83.80:1080,elite,true,1842,2247.5,90,91.9,334,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-09-27T17:06:08.345Z,2026-09-30T04:24:28.447Z
+socks5,85.209.156.148,1080,socks5://85.209.156.148:1080,elite,true,5959,5205.5,86.3,74.8,816,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-08-25T00:49:11.337Z,2026-09-30T04:23:29.781Z
+socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,925,806.5,100,,17,89.22.229.195,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,6,2026-08-02T08:42:38.750Z,2026-09-30T04:25:51.206Z

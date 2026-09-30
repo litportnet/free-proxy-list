@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,197.255.126.69,80,http://197.255.126.69:80,elite,false,1165,1335,79.6,53.8,569,197.255.126.69,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,10,2025-09-10T19:35:03.031Z,2026-09-29T04:20:40.029Z
+http,156.38.112.11,80,http://156.38.112.11:80,elite,false,1281,1212,67.3,67.6,755,156.38.112.11,1,gh,Central,Cape Coast,Africa/Accra,328212,THE UNIVERSITY OF CAPE COAST,19,2025-09-10T19:34:54.808Z,2026-09-30T04:24:50.390Z
+http,197.255.126.69,80,http://197.255.126.69:80,elite,false,1335,1333.5,90,60.8,696,197.255.126.69,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,10,2025-09-10T19:35:03.031Z,2026-09-30T04:28:53.466Z
+http,41.218.225.250,3128,http://41.218.225.250:3128,transparent,true,3373,4659.5,54.6,54.6,66,41.218.225.250,1,gh,Greater Accra,Accra,Africa/Accra,29614,Ghana Telecommunications Company Limited,7,2025-09-11T01:36:36.092Z,2026-09-30T04:23:46.615Z

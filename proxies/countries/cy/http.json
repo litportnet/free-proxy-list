@@ -6,7 +6,7 @@
     "url": "http://94.78.67.171:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 344,
+    "latency_ms": 358,
     "latency_median_ms": 343,
     "uptime_24h": 100,
     "uptime_7d": 100,
@@ -21,6 +21,6 @@
     "asn_org": "Netonline Bilisim Sirketi LTD",
     "sources_count": 17,
     "first_seen": "2026-07-26T20:20:40.472Z",
-    "last_checked": "2026-09-29T04:26:06.234Z"
+    "last_checked": "2026-09-30T04:30:26.757Z"
   }
 ]

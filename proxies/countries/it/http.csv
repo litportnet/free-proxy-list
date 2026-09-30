@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.56.219.76,40001,http://185.56.219.76:40001,elite,false,4199,3846.5,73.9,73.9,88,104.28.220.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",3,2026-09-28T10:15:04.891Z,2026-09-29T04:29:21.262Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,8775,500.5,40.2,38.4,635,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-09-29T04:27:20.128Z
-http,172.238.238.108,3128,http://172.238.238.108:3128,transparent,true,2452,2452,100,,1,172.238.238.108,1,it,Lombardy,Milan,Europe/Rome,63949,Akamai Connected Cloud,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:34.560Z
+http,185.56.219.76,40001,http://185.56.219.76:40001,elite,true,2948,3376,77,75.6,201,104.28.252.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",10,2026-09-28T10:15:04.891Z,2026-09-30T04:29:13.611Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,492,504,67.7,43.7,680,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-09-30T04:23:11.747Z
+http,185.219.86.7,8080,http://185.219.86.7:8080,transparent,false,8468,5296,26.5,25.6,168,185.219.86.7,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,18,2026-09-27T00:57:43.648Z,2026-09-30T04:25:10.533Z
+http,56.68.116.64,2706,http://56.68.116.64:2706,unknown,false,1637,4581,12.5,4.9,81,56.68.116.64,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,7,2026-06-25T23:44:28.500Z,2026-09-30T04:27:30.675Z

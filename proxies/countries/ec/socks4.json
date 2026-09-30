@@ -6,11 +6,11 @@
     "url": "socks4://200.105.252.170:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4221,
-    "latency_median_ms": 3271,
-    "uptime_24h": 70.3,
-    "uptime_7d": 72,
-    "checks_7d": 872,
+    "latency_ms": 1067,
+    "latency_median_ms": 2000,
+    "uptime_24h": 77.4,
+    "uptime_7d": 72.7,
+    "checks_7d": 882,
     "exit_ip": "200.105.252.170",
     "exit_shared": 1,
     "country": "ec",
@@ -21,7 +21,7 @@
     "asn_org": "PUNTONET S.A.",
     "sources_count": 13,
     "first_seen": "2025-09-05T20:06:36.438Z",
-    "last_checked": "2026-09-29T04:25:37.956Z"
+    "last_checked": "2026-09-30T04:24:47.114Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 8080,
     "url": "socks4://160.20.165.242:8080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 587,
-    "latency_median_ms": 1528.5,
-    "uptime_24h": 51.2,
-    "uptime_7d": 50.5,
-    "checks_7d": 739,
+    "https": false,
+    "latency_ms": 7790,
+    "latency_median_ms": 2110.5,
+    "uptime_24h": 49.4,
+    "uptime_7d": 49.8,
+    "checks_7d": 735,
     "exit_ip": "160.20.165.243",
     "exit_shared": 1,
     "country": "ec",
@@ -45,6 +45,6 @@
     "asn_org": "UFINET PANAMA S.A.",
     "sources_count": 20,
     "first_seen": "2025-09-05T20:06:13.403Z",
-    "last_checked": "2026-09-29T04:26:11.279Z"
+    "last_checked": "2026-09-30T04:23:25.963Z"
   }
 ]

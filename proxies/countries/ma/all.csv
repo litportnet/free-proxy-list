@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,51.170.133.249,80,http://51.170.133.249:80,elite,false,659,732.5,78.8,66,843,51.170.133.249,1,ma,Casablanca-Settat,Zawyat an Nwaçer,Africa/Casablanca,31898,Oracle Corporation,25,2026-09-18T05:44:35.769Z,2026-09-29T04:23:33.797Z
+http,51.170.133.249,80,http://51.170.133.249:80,elite,true,1611,853.5,90.8,68.4,863,51.170.133.249,1,ma,Casablanca-Settat,Zawyat an Nwaçer,Africa/Casablanca,31898,Oracle Corporation,25,2026-09-18T05:44:35.769Z,2026-09-30T04:31:40.886Z

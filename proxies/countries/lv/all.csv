@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,216.173.68.250,1080,socks4://216.173.68.250:1080,elite,false,1245,745,48.7,43.4,629,216.173.68.250,2,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-09-18T02:43:04.257Z,2026-09-29T04:23:47.368Z
-http,216.173.68.250,3128,http://216.173.68.250:3128,elite,true,665,735,51.6,41.6,491,216.173.68.250,2,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,25,2026-09-18T11:47:49.499Z,2026-09-29T04:29:03.851Z
+socks4,31.57.93.11,8447,socks4://31.57.93.11:8447,elite,true,2568,2817,98.3,98.3,58,31.57.93.11,3,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,12,2026-09-29T18:32:08.017Z,2026-09-30T04:23:13.352Z
+http,31.57.93.11,8447,http://31.57.93.11:8447,elite,true,4512,5579.5,92.8,92.8,69,31.57.93.11,3,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,16,2026-09-29T16:31:13.880Z,2026-09-30T04:31:03.304Z
+socks5,31.57.93.11,8447,socks5://31.57.93.11:8447,elite,true,2977,4708,84.2,84.2,57,31.57.93.11,3,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,12,2026-09-29T17:31:37.575Z,2026-09-30T04:23:39.585Z
+http,195.123.212.87,3056,http://195.123.212.87:3056,transparent,true,610,3471,23.4,18.2,291,195.123.212.87,1,lv,Riga,Riga,Europe/Riga,50979,ROUTE 95 LLC,24,2026-09-13T20:30:48.162Z,2026-09-30T04:29:28.479Z
+socks4,31.170.17.225,4153,socks4://31.170.17.225:4153,elite,false,3832,3681,25,18.1,221,31.170.18.159,1,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,17,2026-08-30T03:56:29.648Z,2026-09-30T04:27:54.195Z

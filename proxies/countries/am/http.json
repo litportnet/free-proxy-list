@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "88.218.92.64",
+    "port": 3128,
+    "url": "http://88.218.92.64:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 7982,
+    "latency_median_ms": 4297.5,
+    "uptime_24h": 34.7,
+    "uptime_7d": null,
+    "checks_7d": 49,
+    "exit_ip": "88.218.92.64",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 196709,
+    "asn_org": "GNC-Alfa CJSC",
+    "sources_count": 14,
+    "first_seen": "2026-09-29T13:29:17.383Z",
+    "last_checked": "2026-09-30T04:29:43.855Z"
+  }
+]

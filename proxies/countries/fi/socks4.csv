@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,716,926.5,92.1,93.5,200,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-09-27T18:06:40.424Z,2026-09-29T04:21:30.869Z
-socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,1485,1877.5,94.9,77.8,821,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-09-29T04:23:47.880Z
-socks4,135.181.79.187,40001,socks4://135.181.79.187:40001,elite,true,672,664.5,50.6,28.8,215,104.28.222.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",20,2026-09-04T18:50:47.606Z,2026-09-29T04:23:16.455Z
-socks4,185.97.200.14,1080,socks4://185.97.200.14:1080,elite,false,3857,3799,15.8,22,400,132.243.20.40,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,8,2026-07-23T22:41:46.945Z,2026-09-29T04:23:25.130Z
+socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,2412,1214,89.3,91.9,332,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-09-27T18:06:40.424Z,2026-09-30T04:31:55.731Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,3105,2565.5,94.8,80.7,846,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-09-30T04:25:49.580Z

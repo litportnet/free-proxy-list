@@ -1,7 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,174.138.161.148,9814,http://174.138.161.148:9814,elite,true,3493,4937,32.3,32.3,93,64.147.89.134,1,bm,Saint George,Saint George,Atlantic/Bermuda,32020,Transact Ltd.,9,2026-09-28T05:12:18.632Z,2026-09-29T04:20:49.244Z
-http,174.138.161.148,9826,http://174.138.161.148:9826,elite,false,7085,6077.5,23.5,22.5,147,64.147.87.195,1,bm,Warwick,Warwick Parish,Atlantic/Bermuda,32020,Transact Ltd.,8,2026-09-27T04:59:34.762Z,2026-09-29T04:27:31.210Z
-http,174.138.161.149,56538,http://174.138.161.149:56538,elite,false,7963,6248,8.6,12.1,66,64.147.87.189,1,bm,Warwick,Warwick Parish,Atlantic/Bermuda,32020,Transact Ltd.,13,2026-09-27T06:00:32.326Z,2026-09-29T04:22:32.121Z
-http,174.138.161.148,56936,http://174.138.161.148:56936,elite,false,3281,3281,100,,1,64.147.89.181,1,bm,Saint George,Saint George,Atlantic/Bermuda,32020,Transact Ltd.,1,2026-09-29T04:24:31.020Z,2026-09-29T04:24:50.697Z
-http,174.138.161.148,9805,http://174.138.161.148:9805,elite,true,5687,5687,100,,1,64.147.87.149,1,bm,Warwick,Warwick Parish,Atlantic/Bermuda,32020,Transact Ltd.,2,2026-09-29T04:24:31.020Z,2026-09-29T04:24:37.322Z
-http,174.138.161.148,39900,http://174.138.161.148:39900,elite,false,7899,7899,100,,1,199.172.225.208,1,bm,Paget,Paget Parish,Atlantic/Bermuda,3855,Logic Communications Ltd,1,2026-09-29T04:24:31.020Z,2026-09-29T04:24:56.664Z

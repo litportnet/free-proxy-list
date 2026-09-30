@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.242.118.200",
+    "port": 50003,
+    "url": "http://41.242.118.200:50003",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8386,
+    "latency_median_ms": 4407,
+    "uptime_24h": 38.3,
+    "uptime_7d": 24.1,
+    "checks_7d": 145,
+    "exit_ip": "41.242.118.3",
+    "exit_shared": 1,
+    "country": "yt",
+    "region": "Mamoudzou",
+    "city": "Mamoudzou",
+    "timezone": "Indian/Mayotte",
+    "asn": 37614,
+    "asn_org": "STOI Internet",
+    "sources_count": 20,
+    "first_seen": "2026-08-25T16:59:03.493Z",
+    "last_checked": "2026-09-30T04:30:50.066Z"
+  }
+]

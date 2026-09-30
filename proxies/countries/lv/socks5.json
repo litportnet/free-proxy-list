@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "31.57.93.11",
+    "port": 8447,
+    "url": "socks5://31.57.93.11:8447",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2977,
+    "latency_median_ms": 4708,
+    "uptime_24h": 84.2,
+    "uptime_7d": 84.2,
+    "checks_7d": 57,
+    "exit_ip": "31.57.93.11",
+    "exit_shared": 3,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 56971,
+    "asn_org": "AS56971 Cloud",
+    "sources_count": 12,
+    "first_seen": "2026-09-29T17:31:37.575Z",
+    "last_checked": "2026-09-30T04:23:39.585Z"
+  }
+]

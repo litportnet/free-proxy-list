@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.0.111.194,34638,http://196.0.111.194:34638,elite,false,3503,3187.5,32.6,24.4,386,196.0.111.194,2,ug,Central Region,Kampala,Africa/Kampala,21491,Uganda Telecom,9,2025-09-10T21:05:10.338Z,2026-09-29T04:29:25.499Z

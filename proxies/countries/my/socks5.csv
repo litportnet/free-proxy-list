@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.30,10322,socks5://45.74.31.30:10322,elite,true,1496,1496,100,,1,163.47.203.80,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,132241,SKSA TECHNOLOGY SDN BHD,1,2026-09-29T04:24:43.611Z,2026-09-29T04:25:39.631Z

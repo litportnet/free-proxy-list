@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,1269,1270.5,58.3,41.7,216,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,16,2025-09-08T05:28:14.758Z,2026-09-29T04:28:27.926Z
-http,185.205.142.142,8080,http://185.205.142.142:8080,transparent,true,3022,2515,31.4,35.6,651,185.205.142.142,1,mm,Yangon,Yangon,Asia/Yangon,134739,"AGB Communication Co., Ltd",9,2025-09-25T11:48:21.869Z,2026-09-29T04:29:09.624Z

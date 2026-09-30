@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,59.152.97.233,1080,socks5://59.152.97.233:1080,elite,true,1680,1715,65.8,73.9,869,157.10.243.9,1,bd,Chittagong,Hājīganj,Asia/Dhaka,147006,Star IT,18,2026-07-04T16:35:28.122Z,2026-09-29T04:21:40.162Z
-socks5,203.76.123.6,1080,socks5://203.76.123.6:1080,elite,false,1606,3756.5,54.9,65.9,845,203.76.123.6,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,20,2026-09-05T23:05:35.412Z,2026-09-29T04:22:46.715Z
-socks5,118.179.93.24,9090,socks5://118.179.93.24:9090,elite,false,2781,2154,31.4,53.6,726,118.179.93.24,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,18,2026-09-05T19:03:36.518Z,2026-09-29T04:20:26.551Z
-socks5,118.179.151.158,9090,socks5://118.179.151.158:9090,elite,false,4761,2721,29,34.1,249,118.179.151.158,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,13,2026-09-26T08:49:06.310Z,2026-09-29T04:24:31.824Z
-socks5,202.40.190.74,1080,socks5://202.40.190.74:1080,elite,false,4702,2691,21.7,23,452,202.40.190.74,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23991,Ranks ITT Ltd.,18,2026-02-26T03:13:36.374Z,2026-09-29T04:20:59.557Z
+socks5,118.179.205.159,9090,socks5://118.179.205.159:9090,elite,false,2733,3679,32.5,47.6,700,118.179.205.159,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,20,2026-09-16T03:18:05.440Z,2026-09-30T04:26:22.830Z
+socks5,202.91.41.102,1080,socks5://202.91.41.102:1080,elite,false,4633,3699,29.9,35.7,633,202.91.43.253,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,136224,City Online Ltd.,19,2026-08-02T04:41:40.397Z,2026-09-30T04:26:15.781Z
+socks5,45.74.31.41,4079,socks5://45.74.31.41:4079,elite,false,6206,4800,60,,5,163.61.237.11,1,bd,Dhaka Division,Farīdpur,Asia/Dhaka,153377,Extent Technologies Limited,1,2026-09-30T03:36:56.776Z,2026-09-30T04:27:33.389Z

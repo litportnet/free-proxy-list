@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,18.142.95.213,8149,socks4://18.142.95.213:8149,unknown,false,2806,2769,18.8,,16,18.142.95.213,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-28T21:21:31.370Z,2026-09-29T04:29:16.538Z
+socks4,104.194.132.112,9052,socks4://104.194.132.112:9052,elite,true,6717,5338,21.6,19.2,219,171.25.193.40,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,19,2026-08-17T18:59:03.504Z,2026-09-30T04:28:29.614Z
+socks4,18.61.230.250,6218,socks4://18.61.230.250:6218,unknown,false,4679,2808,12.1,8.6,186,18.61.230.250,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-21T19:10:46.319Z,2026-09-30T04:29:03.606Z

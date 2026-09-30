@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,130.162.192.208,8080,http://130.162.192.208:8080,elite,true,2090,3102,12.5,14.7,170,130.162.192.208,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,24,2026-09-02T19:45:06.799Z,2026-09-29T04:23:16.458Z
-http,174.138.165.210,22111,http://174.138.165.210:22111,elite,true,1518,3912,40,,7,122.107.15.71,1,au,New South Wales,Sydney,Australia/Sydney,4804,Microplex PTY LTD,1,2026-09-28T02:10:42.846Z,2026-09-29T04:24:31.263Z
+http,130.162.192.208,8080,http://130.162.192.208:8080,elite,true,2928,3955.5,25.4,17.3,202,130.162.192.208,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,24,2026-09-02T19:45:06.799Z,2026-09-30T04:23:57.479Z
+http,159.196.182.72,8080,http://159.196.182.72:8080,transparent,false,3897,3524.5,20.5,16.7,258,159.196.182.72,1,au,Victoria,Melbourne,Australia/Melbourne,4764,Aussie Fibre Pty Ltd,24,2026-05-20T21:13:51.533Z,2026-09-30T04:25:17.559Z
+http,15.235.145.229,1081,http://15.235.145.229:1081,elite,true,2033,2050.5,100,,12,103.77.232.78,1,au,New South Wales,Sydney,Australia/Sydney,133480,5G NETWORK OPERATIONS PTY LTD,2,2026-09-30T02:36:17.694Z,2026-09-30T04:27:17.149Z

@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1522,2721.5,98.6,98.6,969,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-09-29T04:28:45.902Z
-socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,false,8873,2332,36.6,50.6,720,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-09-29T04:21:24.409Z
-socks5,185.197.74.126,2080,socks5://185.197.74.126:2080,elite,false,3144,2500.5,21,22.2,397,185.197.74.126,1,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,19,2026-06-25T17:44:35.833Z,2026-09-29T04:24:18.806Z
-socks5,147.45.72.31,45700,socks5://147.45.72.31:45700,elite,true,2762,3215,14.3,12.5,152,147.45.72.31,1,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,18,2026-04-19T17:51:14.677Z,2026-09-29T04:21:05.504Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,4902,1796,99.3,99.4,997,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-09-30T04:31:03.830Z
+socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,3530,3503.5,56.3,55.6,703,85.203.44.29,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,17,2026-09-17T05:31:54.290Z,2026-09-30T04:27:32.265Z
+socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,true,1043,1565.5,50,52.5,766,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-09-30T04:24:33.944Z

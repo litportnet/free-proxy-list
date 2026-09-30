@@ -1,26 +1,26 @@
 [
   {
     "protocol": "socks5",
-    "ip": "45.74.31.22",
-    "port": 6180,
-    "url": "socks5://45.74.31.22:6180",
+    "ip": "38.60.226.203",
+    "port": 1080,
+    "url": "socks5://38.60.226.203:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 846,
-    "latency_median_ms": 846,
+    "latency_ms": 3515,
+    "latency_median_ms": 885,
     "uptime_24h": 100,
     "uptime_7d": null,
-    "checks_7d": 1,
-    "exit_ip": "41.196.200.144",
+    "checks_7d": 6,
+    "exit_ip": "38.60.226.203",
     "exit_shared": 1,
     "country": "eg",
     "region": "Cairo",
     "city": "Cairo",
     "timezone": "Africa/Cairo",
-    "asn": 24863,
-    "asn_org": "Link Egypt (Link.NET)",
-    "sources_count": 1,
-    "first_seen": "2026-09-29T04:24:43.611Z",
-    "last_checked": "2026-09-29T04:25:50.300Z"
+    "asn": 154177,
+    "asn_org": "LIGHT NODE LIMITED",
+    "sources_count": 2,
+    "first_seen": "2026-09-30T03:36:53.258Z",
+    "last_checked": "2026-09-30T04:27:08.401Z"
   }
 ]

@@ -6,11 +6,11 @@
     "url": "http://102.164.255.155:8080",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 3491,
-    "latency_median_ms": 2883,
-    "uptime_24h": 35.9,
-    "uptime_7d": 35.2,
-    "checks_7d": 480,
+    "latency_ms": 4181,
+    "latency_median_ms": 2735,
+    "uptime_24h": 52.6,
+    "uptime_7d": 38.5,
+    "checks_7d": 566,
     "exit_ip": "102.164.255.155",
     "exit_shared": 1,
     "country": "gq",
@@ -21,6 +21,6 @@
     "asn_org": "Conexxia Guinea Equatorial, S.L",
     "sources_count": 14,
     "first_seen": "2026-06-30T11:42:56.379Z",
-    "last_checked": "2026-09-29T04:25:36.282Z"
+    "last_checked": "2026-09-30T04:23:47.156Z"
   }
 ]

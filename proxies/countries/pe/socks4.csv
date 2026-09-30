@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,false,916,1655,42.5,55.7,812,177.91.255.35,1,pe,Lima region,Chosica,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-09-30T04:22:45.401Z
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,false,1617,3642,56.6,52.9,809,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,20,2025-09-04T23:49:14.401Z,2026-09-30T04:26:05.919Z
+socks4,38.226.49.121,1080,socks4://38.226.49.121:1080,elite,false,651,636,12.5,17.6,369,38.226.49.125,1,pe,Cuzco Department,Mantaro,America/Lima,274029,KAZAV LATAM E.I.R.L.,19,2026-07-23T15:40:43.436Z,2026-09-30T04:23:37.952Z

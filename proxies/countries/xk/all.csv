@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.22.48.28,8080,http://84.22.48.28:8080,transparent,false,9723,3836.5,40,16.4,67,84.22.48.28,1,xk,Pristina,Kosovo Polje,Europe/Belgrade,33983,ARTMOTION SH.P.K.,19,2025-09-04T23:49:01.988Z,2026-09-30T04:24:31.229Z

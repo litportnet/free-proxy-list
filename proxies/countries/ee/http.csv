@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,704,604,80.6,76,896,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-29T04:27:39.182Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,635,578.5,84.7,78.5,922,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-30T04:25:06.707Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.7.196.26,4153,socks4://213.7.196.26:4153,elite,false,1783,1791,36.5,41.8,586,213.7.196.26,1,cy,Larnaka,Ágios Týchon,Asia/Nicosia,6866,Cyprus Telecommunications Authority,13,2025-09-04T23:49:03.510Z,2026-09-29T04:24:19.913Z

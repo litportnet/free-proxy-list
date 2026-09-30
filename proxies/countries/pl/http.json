@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.36.160.2",
+    "port": 3128,
+    "url": "http://89.36.160.2:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1182,
+    "latency_median_ms": 873.5,
+    "uptime_24h": 97.6,
+    "uptime_7d": null,
+    "checks_7d": 42,
+    "exit_ip": "89.36.160.2",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Mazovia",
+    "city": "Warsaw",
+    "timezone": "Europe/Warsaw",
+    "asn": 56630,
+    "asn_org": "Melbikomas UAB",
+    "sources_count": 12,
+    "first_seen": "2026-09-29T21:33:38.008Z",
+    "last_checked": "2026-09-30T04:31:29.246Z"
+  }
+]

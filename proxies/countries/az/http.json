@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "180.149.44.185",
+    "port": 3128,
+    "url": "http://180.149.44.185:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 693,
+    "latency_median_ms": 805.5,
+    "uptime_24h": 77,
+    "uptime_7d": 77,
+    "checks_7d": 87,
+    "exit_ip": "180.149.44.185",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 202422,
+    "asn_org": "G-Core Labs S.A.",
+    "sources_count": 17,
+    "first_seen": "2026-09-13T02:21:15.533Z",
+    "last_checked": "2026-09-30T04:28:31.257Z"
+  }
+]

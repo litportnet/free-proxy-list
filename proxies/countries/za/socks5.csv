@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.30,6462,socks5://45.74.31.30:6462,elite,true,3521,3506,22.2,12.4,81,197.221.12.125,2,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,13,2026-09-12T10:12:45.605Z,2026-09-29T04:20:36.774Z
-socks5,45.74.31.47,5311,socks5://45.74.31.47:5311,elite,true,8813,1695,100,,14,197.221.12.125,2,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,3,2026-09-27T00:57:35.256Z,2026-09-29T04:23:52.753Z
+socks5,45.74.31.30,6902,socks5://45.74.31.30:6902,elite,true,9172,6162,37.5,15.8,95,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,17,2026-09-12T19:17:34.048Z,2026-09-30T04:31:48.317Z
+socks5,45.74.31.42,9643,socks5://45.74.31.42:9643,elite,true,4471,3823.5,40.9,12.4,105,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,15,2026-09-22T02:14:09.239Z,2026-09-30T04:22:29.584Z
+socks5,45.74.31.25,8033,socks5://45.74.31.25:8033,elite,true,1305,1736,94.1,,17,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,2,2026-09-30T01:35:45.084Z,2026-09-30T04:24:55.349Z
+socks5,45.74.31.50,4624,socks5://45.74.31.50:4624,elite,true,1751,1573.5,100,,6,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,2,2026-09-30T03:36:48.496Z,2026-09-30T04:26:32.129Z
+socks5,45.74.31.40,7995,socks5://45.74.31.40:7995,elite,true,2146,2386,100,,6,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,1,2026-09-30T03:36:56.776Z,2026-09-30T04:25:04.513Z
+socks5,45.74.31.42,8377,socks5://45.74.31.42:8377,elite,false,7454,4227.5,80,,5,197.221.14.88,6,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,1,2026-09-30T03:36:56.776Z,2026-09-30T04:22:22.485Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,34.78.79.103,40001,socks5://34.78.79.103:40001,elite,false,3219,2504,86.7,86.7,90,104.28.195.128,3,be,Brussels Capital,Brussels,Europe/Brussels,13335,"Cloudflare, Inc.",14,2026-09-28T13:16:42.464Z,2026-09-29T04:29:19.162Z
+socks5,45.74.31.22,24697,socks5://45.74.31.22:24697,elite,false,4037,4620,14.3,,27,91.86.16.6,1,be,Wallonia,Lierneux,Europe/Brussels,47377,Orange Belgium SA,8,2026-09-24T08:23:44.064Z,2026-09-30T04:31:47.794Z

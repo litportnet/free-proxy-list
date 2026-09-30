@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.0.146.213,8080,http://84.0.146.213:8080,transparent,true,5350,4260.5,24.7,30.6,157,84.0.146.213,1,hu,Hajdú-Bihar,Berettyóújfalu,Europe/Budapest,5483,Magyar Telekom Plc.,10,2026-04-30T14:44:04.090Z,2026-09-29T04:28:35.811Z
+http,85.66.19.69,18080,http://85.66.19.69:18080,transparent,false,1170,4075.5,40.6,28.9,402,85.66.19.69,1,hu,Budapest,Budapest,Europe/Budapest,20845,DIGI Tavkozlesi es Szolgaltato Kft.,14,2026-07-03T14:23:14.611Z,2026-09-30T04:27:26.320Z
+http,79.137.78.133,8009,http://79.137.78.133:8009,elite,false,1962,574.5,32.9,19.6,204,146.70.120.157,1,hu,Budapest,Budapest,Europe/Budapest,9009,M247 Europe SRL,22,2026-08-14T15:20:15.876Z,2026-09-30T04:25:58.286Z
+http,18.166.56.240,50862,http://18.166.56.240:50862,unknown,true,2396,2096,9.5,11.7,77,18.166.56.240,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,1,2026-09-25T08:36:44.755Z,2026-09-30T04:27:06.333Z
