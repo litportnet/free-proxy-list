@@ -1,16 +1,16 @@
 [
   {
     "protocol": "socks5",
-    "ip": "45.74.31.22",
-    "port": 24697,
-    "url": "socks5://45.74.31.22:24697",
+    "ip": "45.74.31.30",
+    "port": 4061,
+    "url": "socks5://45.74.31.30:4061",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4037,
-    "latency_median_ms": 4620,
+    "latency_ms": 5347,
+    "latency_median_ms": 4977,
     "uptime_24h": 14.3,
-    "uptime_7d": null,
-    "checks_7d": 27,
+    "uptime_7d": 15.5,
+    "checks_7d": 193,
     "exit_ip": "91.86.16.6",
     "exit_shared": 1,
     "country": "be",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Brussels",
     "asn": 47377,
     "asn_org": "Orange Belgium SA",
-    "sources_count": 8,
-    "first_seen": "2026-09-24T08:23:44.064Z",
-    "last_checked": "2026-09-30T04:31:47.794Z"
+    "sources_count": 16,
+    "first_seen": "2026-09-16T00:16:59.444Z",
+    "last_checked": "2026-10-01T04:26:26.980Z"
   }
 ]

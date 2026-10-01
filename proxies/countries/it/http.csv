@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.56.219.76,40001,http://185.56.219.76:40001,elite,true,2948,3376,77,75.6,201,104.28.252.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",10,2026-09-28T10:15:04.891Z,2026-09-30T04:29:13.611Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,492,504,67.7,43.7,680,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-09-30T04:23:11.747Z
-http,185.219.86.7,8080,http://185.219.86.7:8080,transparent,false,8468,5296,26.5,25.6,168,185.219.86.7,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,18,2026-09-27T00:57:43.648Z,2026-09-30T04:25:10.533Z
-http,56.68.116.64,2706,http://56.68.116.64:2706,unknown,false,1637,4581,12.5,4.9,81,56.68.116.64,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,7,2026-06-25T23:44:28.500Z,2026-09-30T04:27:30.675Z
+http,35.152.59.32,443,http://35.152.59.32:443,elite,false,5316,4473.5,90,90,110,35.152.59.32,1,it,Lombardy,Milan,Europe/Rome,16509,"Amazon.com, Inc.",12,2026-09-30T09:40:04.043Z,2026-10-01T04:32:32.175Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,491,2465,80.6,52.1,748,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-10-01T04:32:27.949Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,624,981,39.8,37.5,678,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,7,2026-03-19T05:42:49.593Z,2026-10-01T04:31:29.706Z

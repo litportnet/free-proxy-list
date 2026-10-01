@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,true,1138,1516.5,61.1,58.3,697,193.19.204.173,1,cy,Nicosia,Nicosia,Asia/Nicosia,203020,HostRoyale Technologies Pvt Ltd,18,2026-09-16T03:18:14.821Z,2026-10-01T04:28:51.948Z

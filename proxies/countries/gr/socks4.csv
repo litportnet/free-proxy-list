@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,62.103.186.66,4153,socks4://62.103.186.66:4153,elite,true,1802,1795.5,56.9,57.7,756,62.103.186.66,1,gr,South Aegean,Ródos,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),14,2025-09-04T23:49:04.664Z,2026-09-30T04:29:03.055Z

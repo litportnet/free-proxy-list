@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.142.195.110,995,socks5://45.142.195.110:995,elite,true,1198,2457,61.6,46.9,388,46.8.113.170,2,cz,Prague,Prague,Europe/Prague,215305,Mastersoft S.R.L.,19,2026-06-03T14:03:44.686Z,2026-09-30T04:29:26.362Z
-socks5,193.124.58.209,7777,socks5://193.124.58.209:7777,elite,false,693,2789,24.6,26.8,164,193.124.58.209,1,cz,South Bohemian Region,Veselí nad Lužnicí,Europe/Prague,62212,SmartApe OU,16,2026-09-27T22:08:47.020Z,2026-09-30T04:28:39.642Z

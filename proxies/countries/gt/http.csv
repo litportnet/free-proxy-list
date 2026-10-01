@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,181.174.115.9,1994,http://181.174.115.9:1994,transparent,false,4623,3556,14.3,21,376,181.174.115.9,1,gt,Guatemala,Villa Nueva,America/Guatemala,23243,COMCEL GUATEMALA S.A.,21,2025-09-05T20:06:36.550Z,2026-09-30T04:23:31.424Z
-http,186.33.5.13,8080,http://186.33.5.13:8080,transparent,true,9001,3458,29.5,20,235,186.33.5.13,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,24,2025-12-15T16:56:28.668Z,2026-09-30T04:26:59.762Z

@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,918,3677,66.7,45.1,659,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-09-30T04:31:34.528Z
-http,27.147.28.73,8080,http://27.147.28.73:8080,transparent,false,4850,6280.5,10.4,13.4,232,27.147.28.73,1,tw,Taipei,Banqiao,Asia/Taipei,18429,"Extra-Lan Technologies Co., LTD",23,2025-09-10T21:05:09.828Z,2026-09-30T04:27:00.303Z
-http,211.22.151.163,60808,http://211.22.151.163:60808,elite,false,5847,5587.5,14.3,5.7,105,106.104.177.158,1,tw,Taiwan,Taichung,Asia/Taipei,4780,Digital United Inc.,20,2025-09-07T19:04:03.289Z,2026-09-30T04:31:41.964Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,1268,1976.5,84.7,67.1,880,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-01T04:24:35.292Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,901,904,69.8,48.9,679,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-01T04:31:22.286Z
+http,220.128.223.136,8083,http://220.128.223.136:8083,anonymous,false,1941,1611.5,20.5,18.8,207,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,17,2026-02-10T15:56:05.263Z,2026-10-01T04:27:52.889Z
+http,220.128.223.136,8085,http://220.128.223.136:8085,anonymous,false,1312,1170.5,22.2,10.5,134,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,19,2025-09-20T10:33:15.224Z,2026-10-01T04:27:58.905Z

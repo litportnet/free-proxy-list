@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,192.243.115.26,1080,socks5://192.243.115.26:1080,elite,true,984,1172.5,50,85.2,351,149.87.150.82,1,ae,Dubai,Dubai,Asia/Dubai,197537,WISDOM CLOUD INTERNET TECHNOLOGY PTE. LTD.,13,2026-09-23T15:14:39.792Z,2026-09-30T04:25:50.128Z
+socks5,111.119.162.248,10922,socks5://111.119.162.248:10922,elite,true,4649,4643.5,18.2,28.2,401,47.91.110.1,2,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",17,2026-08-15T15:31:41.909Z,2026-10-01T04:27:44.296Z

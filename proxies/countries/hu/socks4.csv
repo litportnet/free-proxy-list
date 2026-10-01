@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.147.235.162,4153,socks4://91.147.235.162:4153,elite,true,918,1575.5,47,55.4,715,91.147.235.162,1,hu,Hajdú-Bihar,Debrecen,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-10-26T21:46:56.038Z,2026-09-30T04:28:55.625Z
+socks4,178.48.13.177,80,socks4://178.48.13.177:80,elite,false,743,741,57.6,52.2,517,178.48.13.177,1,hu,Veszprém,Herend,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,12,2026-07-05T01:42:54.951Z,2026-10-01T04:27:28.531Z

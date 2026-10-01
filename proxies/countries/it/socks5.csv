@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2937,1547.5,100,99,95,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,13,2026-06-29T15:31:05.719Z,2026-09-30T04:25:32.236Z
-socks5,185.56.219.76,40001,socks5://185.56.219.76:40001,elite,true,5698,4955,77.2,73.6,201,104.28.252.235,3,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",15,2026-09-28T10:15:11.466Z,2026-09-30T04:29:35.893Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2339,1280.5,100,99.6,238,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,14,2026-06-29T15:31:05.719Z,2026-10-01T04:26:00.720Z
+socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,true,2632,2368.5,63.7,66.8,784,45.91.20.117,1,it,Lombardy,Milan,Europe/Rome,9009,M247 Europe SRL,17,2026-09-17T17:38:15.449Z,2026-10-01T04:30:58.077Z

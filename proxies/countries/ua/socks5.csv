@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,91.195.86.221,1080,socks5://91.195.86.221:1080,elite,false,1228,1241,73.7,46.7,150,91.195.86.221,1,ua,Crimea,Yalta,Europe/Simferopol,198669,KNET TELECOM Ltd,15,2026-08-23T03:26:41.910Z,2026-09-30T04:31:58.342Z
-socks5,85.91.197.240,1080,socks5://85.91.197.240:1080,elite,true,4855,1777.5,44.4,,9,85.91.197.240,1,ua,Crimea,Simferopol,Europe/Simferopol,6789,CRELCOM LLC,2,2026-09-30T02:36:21.164Z,2026-09-30T04:25:35.505Z
+socks5,91.195.86.221,1080,socks5://91.195.86.221:1080,elite,false,1287,1228,60.3,54,274,91.195.86.221,1,ua,Crimea,Yalta,Europe/Simferopol,198669,KNET TELECOM Ltd,15,2026-08-23T03:26:41.910Z,2026-10-01T04:28:59.590Z

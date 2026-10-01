@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,483,476,100,74.4,882,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-09-30T04:30:44.767Z
-http,212.231.230.141,20500,http://212.231.230.141:20500,transparent,true,5771,4822.5,18.8,20.5,370,149.91.103.134,1,es,Madrid,Madrid,Europe/Madrid,34977,PROCONO S.A.,12,2026-09-20T19:58:10.954Z,2026-09-30T04:25:31.676Z
-http,45.147.179.118,3219,http://45.147.179.118:3219,anonymous,true,8869,1127,13.7,15.4,52,151.245.3.74,1,es,Madrid,Madrid,Europe/Madrid,212238,Datacamp Limited,8,2026-09-29T04:24:31.020Z,2026-09-30T04:29:02.004Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,460,456,100,78.8,909,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-01T04:28:53.060Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,false,3093,4060.5,39.5,33.3,547,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,16,2026-08-20T00:46:23.768Z,2026-10-01T04:24:45.016Z
+http,91.126.244.112,8080,http://91.126.244.112:8080,transparent,false,9192,2885.5,25.6,23.2,371,91.126.244.112,1,es,Cantabria,Arnuero,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,26,2026-07-06T09:10:10.551Z,2026-10-01T04:32:50.251Z

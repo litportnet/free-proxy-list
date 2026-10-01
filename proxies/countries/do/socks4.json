@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "190.93.188.196",
+    "port": 1080,
+    "url": "socks4://190.93.188.196:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 371,
+    "latency_median_ms": 348.5,
+    "uptime_24h": 33.3,
+    "uptime_7d": 28.6,
+    "checks_7d": 378,
+    "exit_ip": "190.93.188.194",
+    "exit_shared": 1,
+    "country": "do",
+    "region": "Santiago Province",
+    "city": "Santiago de los Caballeros",
+    "timezone": "America/Santo_Domingo",
+    "asn": 269908,
+    "asn_org": "JOSE DIGITAL MEDIA DOMINICANA SRL",
+    "sources_count": 12,
+    "first_seen": "2026-07-24T19:53:06.148Z",
+    "last_checked": "2026-10-01T04:25:01.802Z"
+  }
+]

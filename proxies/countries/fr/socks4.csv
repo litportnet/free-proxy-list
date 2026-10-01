@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,129.151.240.183,1080,socks4://129.151.240.183:1080,elite,true,672,644,92.5,97.2,853,129.151.240.183,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,31898,Oracle Corporation,14,2026-09-24T03:21:01.709Z,2026-09-30T04:28:48.168Z
-socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,true,941,1014,89.3,91.1,967,109.123.251.109,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-09-30T04:24:58.537Z
-socks4,95.111.228.190,1082,socks4://95.111.228.190:1082,elite,true,2805,1485.5,63.2,81.5,907,95.111.228.190,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,14,2026-09-22T17:22:10.711Z,2026-09-30T04:22:25.760Z
-socks4,31.59.234.26,40001,socks4://31.59.234.26:40001,elite,true,609,609,83.3,,6,104.28.216.31,1,fr,Normandy,Rouen,Europe/Paris,13335,"Cloudflare, Inc.",1,2026-09-30T03:36:47.592Z,2026-09-30T04:31:37.175Z
+socks4,109.123.251.109,1080,socks4://109.123.251.109:1080,elite,true,875,1088,93.7,90.6,970,109.123.251.109,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-02-25T16:07:34.843Z,2026-10-01T04:29:58.616Z
+socks4,95.111.228.190,1080,socks4://95.111.228.190:1080,elite,false,5423,594,75,74.8,890,95.111.228.190,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-21T11:06:09.388Z,2026-10-01T04:24:01.682Z
+socks4,31.59.234.26,40001,socks4://31.59.234.26:40001,elite,true,594,605.5,51.3,52.9,119,104.28.248.26,2,fr,Normandy,Rouen,Europe/Paris,13335,"Cloudflare, Inc.",12,2026-09-30T03:36:47.592Z,2026-10-01T04:31:57.188Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,539,566.5,70.3,45.4,392,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-01T04:31:37.129Z
+socks4,92.205.186.129,1080,socks4://92.205.186.129:1080,elite,true,9179,6821,27.9,27.9,541,92.205.186.129,1,fr,Grand Est,Strasbourg,Europe/Paris,21499,Host Europe GmbH,9,2026-06-13T08:09:02.541Z,2026-10-01T04:30:21.161Z

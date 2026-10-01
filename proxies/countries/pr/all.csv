@@ -1,7 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,357,361,71,62.1,564,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-09-30T04:24:14.362Z
-http,192.203.0.118,999,http://192.203.0.118:999,transparent,false,8571,3820.5,50.6,33.7,621,192.203.0.118,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,25,2025-09-06T13:38:12.247Z,2026-09-30T04:23:23.255Z
-http,192.92.193.18,999,http://192.92.193.18:999,transparent,true,3400,3967,35.9,29.9,431,192.92.193.18,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,17,2026-08-27T12:22:09.816Z,2026-09-30T04:23:21.076Z
-http,154.64.211.145,999,http://154.64.211.145:999,transparent,false,1888,3089.5,22,25.4,516,198.52.241.102,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,13,2025-09-05T20:06:35.987Z,2026-09-30T04:26:39.733Z
-http,23.138.88.1,999,http://23.138.88.1:999,transparent,false,3425,3092,29,25.2,437,23.138.88.1,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,20,2026-05-17T05:24:49.448Z,2026-09-30T04:26:33.736Z
-http,192.203.0.166,999,http://192.203.0.166:999,transparent,false,3366,3699,55.6,16.9,77,192.203.0.166,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,18,2025-09-05T23:19:59.349Z,2026-09-30T04:26:39.172Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,1453,1450,80.4,69.2,608,67.206.213.202,1,pr,Aibonito,Aibonito,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-10-01T04:25:18.196Z
+socks4,154.64.219.4,5555,socks4://154.64.219.4:5555,elite,true,5010,1351,21.2,40.4,545,38.107.90.30,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,18,2026-07-27T03:22:34.437Z,2026-10-01T04:23:15.212Z

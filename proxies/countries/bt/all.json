@@ -6,11 +6,11 @@
     "url": "socks4://202.144.134.150:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2504,
-    "latency_median_ms": 2540,
-    "uptime_24h": 61.1,
-    "uptime_7d": 52.2,
-    "checks_7d": 638,
+    "latency_ms": 2404,
+    "latency_median_ms": 1920,
+    "uptime_24h": 58.5,
+    "uptime_7d": 55.8,
+    "checks_7d": 683,
     "exit_ip": "202.144.134.150",
     "exit_shared": 1,
     "country": "bt",
@@ -21,6 +21,6 @@
     "asn_org": "Bhutan Telecom Ltd",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:55.730Z",
-    "last_checked": "2026-09-30T04:28:26.322Z"
+    "last_checked": "2026-10-01T04:29:39.104Z"
   }
 ]

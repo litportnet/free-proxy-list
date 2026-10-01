@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.164.255.155,8080,http://102.164.255.155:8080,transparent,true,4181,2735,52.6,38.5,566,102.164.255.155,1,gq,Litoral,Bata,Africa/Malabo,328311,"Conexxia Guinea Equatorial, S.L",14,2026-06-30T11:42:56.379Z,2026-09-30T04:23:47.156Z
+http,102.164.252.150,8080,http://102.164.252.150:8080,transparent,false,4980,3142,31.4,37.8,551,102.164.252.150,1,gq,Litoral,Bata,Africa/Malabo,328311,"Conexxia Guinea Equatorial, S.L",16,2025-09-10T19:34:38.873Z,2026-10-01T04:31:41.347Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,31.168.143.90,1080,socks4://31.168.143.90:1080,elite,true,795,1328.5,73.1,65.2,788,31.168.143.90,1,il,Jerusalem,Jerusalem,Asia/Jerusalem,8551,Bezeq International Ltd.,13,2026-07-04T23:41:40.294Z,2026-09-30T04:24:21.955Z
+socks4,34.165.214.203,40001,socks4://34.165.214.203:40001,elite,true,2667,928.5,56.1,56.1,82,104.28.244.18,2,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,13335,"Cloudflare, Inc.",12,2026-09-30T13:42:15.444Z,2026-10-01T04:28:48.148Z

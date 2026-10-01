@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,218.100.23.130,8080,http://218.100.23.130:8080,transparent,true,1922,3891.5,32.7,27.1,177,218.100.23.130,1,nz,Wellington Region,Wellington,Pacific/Auckland,132040,Vital Data Ltd,19,2026-09-27T06:00:26.030Z,2026-09-30T04:27:10.069Z

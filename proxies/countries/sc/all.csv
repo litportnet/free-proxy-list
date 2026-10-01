@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.86.55.240,88,http://41.86.55.240:88,elite,false,5075,4222.5,29.8,22.1,390,41.86.55.240,1,sc,Mont Fleuri,Ile au Cerf,Indian/Mahe,36958,Cable & Wireless (Seychelles) Ltd,26,2026-08-27T11:22:20.370Z,2026-09-30T04:22:40.478Z

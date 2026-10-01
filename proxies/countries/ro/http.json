@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "159.65.166.126",
+    "port": 8118,
+    "url": "http://159.65.166.126:8118",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3455,
+    "latency_median_ms": 2952.5,
+    "uptime_24h": 28.6,
+    "uptime_7d": 28.7,
+    "checks_7d": 593,
+    "exit_ip": "185.100.87.192",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Bucharest",
+    "city": "Bucharest",
+    "timezone": "Europe/Bucharest",
+    "asn": 200651,
+    "asn_org": "FlokiNET ehf",
+    "sources_count": 14,
+    "first_seen": "2025-09-05T20:06:36.643Z",
+    "last_checked": "2026-10-01T04:24:55.895Z"
+  }
+]

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,212.92.204.54,8080,http://212.92.204.54:8080,transparent,false,1771,3478.5,30,16.1,174,212.92.204.54,1,hr,Zagreb,Zagreb,Europe/Zagreb,35549,A1 Hrvatska d.o.o.,20,2025-09-06T10:20:37.376Z,2026-09-30T04:26:21.177Z

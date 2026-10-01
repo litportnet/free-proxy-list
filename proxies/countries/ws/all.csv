@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,202.87.210.20,57833,socks4://202.87.210.20:57833,elite,true,1163,1677,44.3,45.1,749,202.87.210.20,1,ws,Tuamasaga,Apia,Pacific/Apia,38800,Digicel Samoa Ltd,13,2026-02-23T07:37:28.712Z,2026-09-30T04:27:11.699Z

@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,87.229.14.66,8080,http://87.229.14.66:8080,transparent,true,8070,5059,31.5,27.1,491,87.229.14.66,1,ps,Gaza Strip,Dayr al Balaḩ,Asia/Gaza,44213,Thaer A. T. Abuyousef trading as Abuyousef Co & Partners For General Trade,24,2026-09-04T06:46:34.322Z,2026-09-30T04:23:06.840Z
+http,213.244.95.175,8080,http://213.244.95.175:8080,transparent,false,7913,4447,11.9,11.2,197,213.244.95.175,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,20,2026-05-24T00:53:03.180Z,2026-10-01T04:30:44.363Z
+http,178.214.80.27,1981,http://178.214.80.27:1981,transparent,false,6513,6560.5,25,3.3,60,178.214.80.12,1,ps,West Bank,Kafr Rā‘ī,Asia/Hebron,51336,Gemzo information technology Private Joint-Stock company,12,2025-09-10T21:05:09.966Z,2026-10-01T04:26:00.191Z

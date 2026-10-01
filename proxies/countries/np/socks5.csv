@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,124.41.225.101,1080,socks5://124.41.225.101:1080,elite,false,4773,7151.5,37.9,44.3,723,124.41.225.101,1,np,Madhesh,Birgañj,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,20,2026-08-02T19:49:17.370Z,2026-09-30T04:25:31.672Z

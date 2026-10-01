@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,193.233.233.62,21840,http://193.233.233.62:21840,elite,true,5991,3561.5,77.3,72.4,514,193.233.233.62,3,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,18,2026-09-25T23:44:24.955Z,2026-09-30T04:21:43.864Z
-http,193.233.233.62,56736,http://193.233.233.62:56736,elite,true,8227,3221,79.3,70.5,664,193.233.233.62,3,at,State of Vienna,Vienna,Europe/Vienna,210644,AEZA GROUP LLC,12,2026-08-04T03:05:57.709Z,2026-09-30T04:31:13.893Z

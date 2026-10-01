@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "102.129.229.131",
+    "port": 1081,
+    "url": "socks5://102.129.229.131:1081",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4489,
+    "latency_median_ms": 6046,
+    "uptime_24h": 82.4,
+    "uptime_7d": 79,
+    "checks_7d": 901,
+    "exit_ip": "102.129.229.131",
+    "exit_shared": 1,
+    "country": "th",
+    "region": "Bangkok",
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "asn": 138156,
+    "asn_org": "CSNE Co., Ltd.",
+    "sources_count": 16,
+    "first_seen": "2026-09-23T17:15:43.069Z",
+    "last_checked": "2026-10-01T04:27:15.884Z"
+  }
+]

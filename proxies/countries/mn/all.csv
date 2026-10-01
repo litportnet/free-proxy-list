@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,4156,2119,50.6,57.1,787,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-09-30T04:28:52.941Z
+socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,1109,3178,62.1,60.4,850,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-10-01T04:33:14.594Z
+http,103.11.193.76,8080,http://103.11.193.76:8080,transparent,false,7689,5353,30.4,34.2,295,103.11.193.76,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,11,2026-09-21T10:05:33.015Z,2026-10-01T04:31:56.138Z
+socks4,203.174.26.137,4153,socks4://203.174.26.137:4153,elite,false,4147,1605,33.3,23.7,552,180.149.95.214,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,14,2025-09-04T23:49:08.113Z,2026-10-01T04:33:41.720Z
+http,202.179.2.250,8080,http://202.179.2.250:8080,transparent,false,3271,4434.5,24.7,22.9,424,202.179.2.250,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9934,Mongolia Telecom,12,2025-09-05T20:06:32.203Z,2026-10-01T04:26:55.726Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,95.177.161.120,1080,socks5://95.177.161.120:1080,elite,true,1162,1130,100,,11,95.177.161.120,2,sa,Riyadh Region,Riyadh,Asia/Riyadh,201771,ARABIAN INTERNET & COMMUNICATIONS SERVICES CO.LTD,10,2026-09-08T13:38:27.748Z,2026-09-30T04:26:00.446Z

@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,5008,4964,89.2,86.7,926,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-09-30T04:26:28.855Z
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,7637,3749.5,58.3,32.8,522,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,18,2025-09-08T03:28:25.725Z,2026-09-30T04:22:27.966Z
-http,188.119.98.126,9999,http://188.119.98.126:9999,transparent,true,942,2990,29,21.9,444,188.119.98.126,1,cz,Prague,Prague,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,23,2025-09-04T23:49:51.865Z,2026-09-30T04:26:18.462Z
-http,77.240.102.149,800,http://77.240.102.149:800,transparent,false,3558,5370,18.9,16.8,291,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-09-30T04:28:56.664Z
+http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,2170,3723,77.6,84.4,927,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-10-01T04:27:48.590Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,6191,5501.5,61.8,39.1,591,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,18,2025-09-08T03:28:25.725Z,2026-10-01T04:31:14.891Z

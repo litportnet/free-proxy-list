@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.140.137.151,80,http://34.140.137.151:80,elite,false,464,470.5,57.7,37.6,598,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,18,2025-10-14T21:28:47.989Z,2026-09-30T04:26:05.370Z
-socks5,45.74.31.22,24697,socks5://45.74.31.22:24697,elite,false,4037,4620,14.3,,27,91.86.16.6,1,be,Wallonia,Lierneux,Europe/Brussels,47377,Orange Belgium SA,8,2026-09-24T08:23:44.064Z,2026-09-30T04:31:47.794Z
+socks5,45.74.31.30,4061,socks5://45.74.31.30:4061,elite,false,5347,4977,14.3,15.5,193,91.86.16.6,1,be,Wallonia,Lierneux,Europe/Brussels,47377,Orange Belgium SA,16,2026-09-16T00:16:59.444Z,2026-10-01T04:26:26.980Z

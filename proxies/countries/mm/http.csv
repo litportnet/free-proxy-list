@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,false,5421,2881.5,53.3,47.5,747,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-10-01T04:27:44.843Z
+http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,1294,1296,30.9,39.9,263,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,16,2025-09-08T05:28:14.758Z,2026-10-01T04:27:47.521Z

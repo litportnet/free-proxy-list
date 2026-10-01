@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.197.136.218,5678,socks4://213.197.136.218:5678,elite,true,644,1165.5,59.2,63.8,826,213.197.136.218,1,lt,Vilnius,Vilnius,Europe/Vilnius,15440,UAB Baltnetos komunikacijos,14,2025-09-04T23:49:00.045Z,2026-09-30T04:28:58.809Z
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,4233,3199,51,50.9,799,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-09-30T04:23:48.258Z
-socks5,45.74.31.41,33640,socks5://45.74.31.41:33640,elite,false,3760,3011,23.4,31.3,259,91.244.197.105,1,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,12,2026-09-23T07:10:24.994Z,2026-09-30T04:31:59.910Z
+socks4,213.197.136.218,5678,socks4://213.197.136.218:5678,elite,true,662,672.5,81.6,67.7,860,213.197.136.218,1,lt,Vilnius,Vilnius,Europe/Vilnius,15440,UAB Baltnetos komunikacijos,14,2025-09-04T23:49:00.045Z,2026-10-01T04:24:32.578Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,4689,1686.5,63.2,54.8,836,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-10-01T04:26:29.166Z
+socks5,45.74.31.30,23266,socks5://45.74.31.30:23266,elite,false,8758,5907.5,30.4,33.6,116,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,11,2026-09-29T04:24:43.611Z,2026-10-01T04:31:05.400Z
+socks5,45.74.31.23,17545,socks5://45.74.31.23:17545,elite,true,5442,3520.5,33.3,,30,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,7,2026-09-30T20:45:48.554Z,2026-10-01T04:26:24.195Z

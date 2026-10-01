@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,635,578.5,84.7,78.5,922,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-09-30T04:25:06.707Z
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,702,705.5,72.5,68.4,788,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-09-30T04:29:30.077Z
-socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,880,942.5,64.5,65.3,614,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-09-30T04:26:08.129Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,581,607.5,87.2,81.3,944,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-10-01T04:27:16.411Z
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,1691,1700.5,82.1,72.6,833,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-10-01T04:28:50.320Z
+socks5,5.45.119.70,1080,socks5://5.45.119.70:1080,elite,true,962,1085.5,75.2,67.8,743,5.45.119.70,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,20,2026-08-09T14:15:31.168Z,2026-10-01T04:30:23.796Z

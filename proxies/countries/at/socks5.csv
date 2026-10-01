@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.22,8232,socks5://45.74.31.22:8232,elite,false,4171,4752.5,37.5,36,50,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,11,2026-09-28T05:12:30.822Z,2026-10-01T04:29:35.827Z
+socks5,45.74.31.42,10715,socks5://45.74.31.42:10715,elite,false,3676,3669,29.2,23.2,82,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,12,2026-08-29T09:45:50.740Z,2026-10-01T04:27:56.730Z
+socks5,45.74.31.42,10018,socks5://45.74.31.42:10018,elite,true,4706,3009.5,35.5,,31,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,9,2026-09-30T20:45:48.554Z,2026-10-01T04:31:15.451Z
+socks5,45.74.31.23,7153,socks5://45.74.31.23:7153,elite,false,6354,4492,33.3,,42,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,12,2026-09-28T06:13:08.488Z,2026-10-01T04:26:06.752Z
+socks5,45.74.31.50,5405,socks5://45.74.31.50:5405,elite,true,8152,886.5,66.7,,21,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,1,2026-10-01T00:47:56.958Z,2026-10-01T04:32:18.374Z

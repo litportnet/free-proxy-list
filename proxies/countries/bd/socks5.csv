@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,118.179.205.159,9090,socks5://118.179.205.159:9090,elite,false,2733,3679,32.5,47.6,700,118.179.205.159,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,20,2026-09-16T03:18:05.440Z,2026-09-30T04:26:22.830Z
-socks5,202.91.41.102,1080,socks5://202.91.41.102:1080,elite,false,4633,3699,29.9,35.7,633,202.91.43.253,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,136224,City Online Ltd.,19,2026-08-02T04:41:40.397Z,2026-09-30T04:26:15.781Z
-socks5,45.74.31.41,4079,socks5://45.74.31.41:4079,elite,false,6206,4800,60,,5,163.61.237.11,1,bd,Dhaka Division,Farīdpur,Asia/Dhaka,153377,Extent Technologies Limited,1,2026-09-30T03:36:56.776Z,2026-09-30T04:27:33.389Z
+socks5,119.148.7.10,22122,socks5://119.148.7.10:22122,elite,true,2323,3187,26.4,46.6,695,119.148.7.10,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23923,Agni Systems Limited,20,2026-03-04T08:32:53.154Z,2026-10-01T04:27:36.647Z

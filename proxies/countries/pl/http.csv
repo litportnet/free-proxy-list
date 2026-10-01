@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.36.160.2,3128,http://89.36.160.2:3128,elite,true,1182,873.5,97.6,,42,89.36.160.2,1,pl,Mazovia,Warsaw,Europe/Warsaw,56630,Melbikomas UAB,12,2026-09-29T21:33:38.008Z,2026-09-30T04:31:29.246Z
+http,89.36.160.2,3128,http://89.36.160.2:3128,elite,true,584,1079.5,87.8,90,180,89.36.160.2,1,pl,Mazovia,Warsaw,Europe/Warsaw,56630,Melbikomas UAB,16,2026-09-29T21:33:38.008Z,2026-10-01T04:26:12.155Z

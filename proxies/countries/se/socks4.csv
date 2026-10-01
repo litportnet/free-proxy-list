@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,104.194.132.112,9052,socks4://104.194.132.112:9052,elite,true,6717,5338,21.6,19.2,219,171.25.193.40,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,19,2026-08-17T18:59:03.504Z,2026-09-30T04:28:29.614Z
-socks4,18.61.230.250,6218,socks4://18.61.230.250:6218,unknown,false,4679,2808,12.1,8.6,186,18.61.230.250,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-09-21T19:10:46.319Z,2026-09-30T04:29:03.606Z
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,1019,1431,98.6,98.8,997,193.189.100.201,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,13,2026-07-02T02:04:25.728Z,2026-10-01T04:28:36.093Z
+socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,true,633,625.5,47.6,49.4,545,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-01T04:25:30.819Z
+socks4,192.236.187.201,9050,socks4://192.236.187.201:9050,elite,false,719,1295,75,5.1,59,171.25.193.80,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,3,2026-09-17T00:29:20.084Z,2026-10-01T04:24:20.156Z

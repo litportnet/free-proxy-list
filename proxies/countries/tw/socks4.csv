@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,202.160.76.221,1080,socks4://202.160.76.221:1080,elite,true,1057,1054.5,100,91.4,58,202.160.76.221,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,9,2026-09-07T08:23:09.705Z,2026-10-01T04:28:59.582Z
+socks4,202.160.76.169,1080,socks4://202.160.76.169:1080,elite,true,1051,1050.5,100,66.3,80,202.160.76.169,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,9,2026-09-07T07:23:53.775Z,2026-10-01T04:30:17.992Z
+socks4,202.160.76.167,1080,socks4://202.160.76.167:1080,elite,true,1170,1064.5,100,66.3,80,202.160.76.167,2,tw,Taiwan,Taipei,Asia/Taipei,148996,GLOBAL COMMUNICATION NETWORK LIMITED,10,2026-09-07T08:23:09.605Z,2026-10-01T04:24:02.241Z
+socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,true,921,2994,53.9,54.4,800,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-01T04:28:41.019Z

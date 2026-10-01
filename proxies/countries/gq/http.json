@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "102.164.255.155",
+    "ip": "102.164.252.150",
     "port": 8080,
-    "url": "http://102.164.255.155:8080",
+    "url": "http://102.164.252.150:8080",
     "anonymity": "transparent",
-    "https": true,
-    "latency_ms": 4181,
-    "latency_median_ms": 2735,
-    "uptime_24h": 52.6,
-    "uptime_7d": 38.5,
-    "checks_7d": 566,
-    "exit_ip": "102.164.255.155",
+    "https": false,
+    "latency_ms": 4980,
+    "latency_median_ms": 3142,
+    "uptime_24h": 31.4,
+    "uptime_7d": 37.8,
+    "checks_7d": 551,
+    "exit_ip": "102.164.252.150",
     "exit_shared": 1,
     "country": "gq",
     "region": "Litoral",
@@ -19,8 +19,8 @@
     "timezone": "Africa/Malabo",
     "asn": 328311,
     "asn_org": "Conexxia Guinea Equatorial, S.L",
-    "sources_count": 14,
-    "first_seen": "2026-06-30T11:42:56.379Z",
-    "last_checked": "2026-09-30T04:23:47.156Z"
+    "sources_count": 16,
+    "first_seen": "2025-09-10T19:34:38.873Z",
+    "last_checked": "2026-10-01T04:31:41.347Z"
   }
 ]
