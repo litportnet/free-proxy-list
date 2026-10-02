@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "160.155.90.26",
+    "port": 1080,
+    "url": "socks4://160.155.90.26:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3945,
+    "latency_median_ms": 1796,
+    "uptime_24h": 70.8,
+    "uptime_7d": 65.3,
+    "checks_7d": 792,
+    "exit_ip": "160.155.90.26",
+    "exit_shared": 1,
+    "country": "ci",
+    "region": "Savanes District",
+    "city": "Korhogo",
+    "timezone": "Africa/Abidjan",
+    "asn": 29571,
+    "asn_org": "Orange Côte d'Ivoire",
+    "sources_count": 13,
+    "first_seen": "2026-07-05T17:50:49.617Z",
+    "last_checked": "2026-10-02T04:23:20.196Z"
+  }
+]

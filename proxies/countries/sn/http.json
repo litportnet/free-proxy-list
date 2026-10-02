@@ -6,11 +6,11 @@
     "url": "http://154.65.39.8:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 832,
-    "latency_median_ms": 1143,
-    "uptime_24h": 94.3,
-    "uptime_7d": 73.8,
-    "checks_7d": 840,
+    "latency_ms": 848,
+    "latency_median_ms": 828.5,
+    "uptime_24h": 97.9,
+    "uptime_7d": 81.3,
+    "checks_7d": 856,
     "exit_ip": "154.65.39.8",
     "exit_shared": 1,
     "country": "sn",
@@ -21,7 +21,7 @@
     "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
     "sources_count": 20,
     "first_seen": "2025-09-10T19:34:33.119Z",
-    "last_checked": "2026-10-01T04:27:50.199Z"
+    "last_checked": "2026-10-02T04:33:02.543Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://196.1.93.16:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1016,
-    "latency_median_ms": 918,
-    "uptime_24h": 71.1,
-    "uptime_7d": 45,
-    "checks_7d": 400,
+    "latency_ms": 751,
+    "latency_median_ms": 731.5,
+    "uptime_24h": 85.8,
+    "uptime_7d": 59.8,
+    "checks_7d": 473,
     "exit_ip": "196.1.93.16",
     "exit_shared": 1,
     "country": "sn",
@@ -45,6 +45,6 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 12,
     "first_seen": "2025-09-10T21:05:10.863Z",
-    "last_checked": "2026-10-01T04:26:15.959Z"
+    "last_checked": "2026-10-02T04:33:14.670Z"
   }
 ]

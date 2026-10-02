@@ -1,39 +1,15 @@
 [
   {
     "protocol": "socks4",
-    "ip": "200.125.40.38",
-    "port": 5678,
-    "url": "socks4://200.125.40.38:5678",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 3948,
-    "latency_median_ms": 1463.5,
-    "uptime_24h": 75.9,
-    "uptime_7d": 69.7,
-    "checks_7d": 898,
-    "exit_ip": "200.125.40.38",
-    "exit_shared": 1,
-    "country": "uy",
-    "region": "Montevideo Department",
-    "city": "Montevideo",
-    "timezone": "America/Montevideo",
-    "asn": 6057,
-    "asn_org": "Administracion Nacional de Telecomunicaciones",
-    "sources_count": 13,
-    "first_seen": "2025-09-04T23:49:00.001Z",
-    "last_checked": "2026-10-01T04:27:32.765Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "179.27.86.36",
     "port": 4153,
     "url": "socks4://179.27.86.36:4153",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 845,
-    "latency_median_ms": 3857.5,
-    "uptime_24h": 63.1,
-    "uptime_7d": 59.8,
+    "https": false,
+    "latency_ms": 1864,
+    "latency_median_ms": 1865.5,
+    "uptime_24h": 58.1,
+    "uptime_7d": 59.3,
     "checks_7d": 849,
     "exit_ip": "179.27.86.36",
     "exit_shared": 1,
@@ -45,6 +21,6 @@
     "asn_org": "Administracion Nacional de Telecomunicaciones",
     "sources_count": 22,
     "first_seen": "2025-09-04T23:49:06.130Z",
-    "last_checked": "2026-10-01T04:27:37.737Z"
+    "last_checked": "2026-10-02T04:26:25.164Z"
   }
 ]

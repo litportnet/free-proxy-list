@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,116.90.224.50,8080,http://116.90.224.50:8080,transparent,true,3214,5283.5,16,21.3,362,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,13,2025-11-22T22:41:34.602Z,2026-10-02T04:24:41.861Z

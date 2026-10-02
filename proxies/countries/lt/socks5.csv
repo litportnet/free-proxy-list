@@ -1,3 +1,11 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.30,23266,socks5://45.74.31.30:23266,elite,false,8758,5907.5,30.4,33.6,116,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,11,2026-09-29T04:24:43.611Z,2026-10-01T04:31:05.400Z
-socks5,45.74.31.23,17545,socks5://45.74.31.23:17545,elite,true,5442,3520.5,33.3,,30,91.244.197.105,2,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,7,2026-09-30T20:45:48.554Z,2026-10-01T04:26:24.195Z
+socks5,45.74.31.47,6327,socks5://45.74.31.47:6327,elite,true,6799,4510,48.5,54.9,122,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,11,2026-10-01T00:47:56.958Z,2026-10-02T04:24:22.393Z
+socks5,45.74.31.25,6732,socks5://45.74.31.25:6732,elite,false,4155,4431,34.8,41.5,164,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,12,2026-09-28T12:16:09.653Z,2026-10-02T04:27:00.836Z
+socks5,45.74.31.30,28745,socks5://45.74.31.30:28745,elite,false,6343,5806,23.1,40.2,92,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,2,2026-09-28T18:19:23.692Z,2026-10-02T04:25:16.683Z
+socks5,45.74.31.40,36152,socks5://45.74.31.40:36152,elite,false,2400,3868,48.2,22.5,160,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,14,2026-09-24T03:21:06.379Z,2026-10-02T04:24:51.892Z
+socks5,45.74.31.46,4241,socks5://45.74.31.46:4241,elite,true,1141,1017,100,,4,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-10-02T03:55:50.014Z,2026-10-02T04:26:34.681Z
+socks5,45.74.31.46,5067,socks5://45.74.31.46:5067,elite,true,1157,1688.5,100,,4,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-10-02T03:55:50.014Z,2026-10-02T04:25:15.123Z
+socks5,45.74.31.46,4748,socks5://45.74.31.46:4748,elite,true,1779,1483,75,,4,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-10-02T03:55:50.014Z,2026-10-02T04:24:02.865Z
+socks5,45.74.31.25,8256,socks5://45.74.31.25:8256,elite,true,2178,1954.5,100,,4,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-10-02T03:55:50.014Z,2026-10-02T04:25:58.808Z
+socks5,45.74.31.30,5648,socks5://45.74.31.30:5648,elite,false,3957,3179.5,60,,14,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,9,2026-09-15T08:49:51.808Z,2026-10-02T04:28:51.419Z
+socks5,45.74.31.25,6627,socks5://45.74.31.25:6627,elite,true,4026,2335.5,100,,6,91.244.197.105,10,lt,Vilnius,Vilnius,Europe/Vilnius,213772,BK Customers,1,2026-09-27T23:09:22.724Z,2026-10-02T04:26:23.087Z

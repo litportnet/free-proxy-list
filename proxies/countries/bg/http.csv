@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,82.137.90.192,80,http://82.137.90.192:80,elite,false,2944,1347.5,46.3,40.6,557,82.137.90.192,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,5,2025-09-09T02:11:19.746Z,2026-10-01T04:29:07.236Z
-http,151.237.84.9,8080,http://151.237.84.9:8080,transparent,true,7814,3584.5,26,22.5,347,151.237.84.9,1,bg,Kardzhali,Kardzhali,Europe/Sofia,48233,Netroniks EOOD,26,2026-04-18T12:25:36.946Z,2026-10-01T04:30:15.407Z
+http,85.217.192.245,1414,http://85.217.192.245:1414,transparent,false,4896,4917.5,10.5,8.1,99,85.217.192.39,1,bg,Veliko Tarnovo,Svishtov,Europe/Sofia,34368,ZONATA - INVEST sLLC,13,2025-09-06T05:35:59.151Z,2026-10-02T04:33:08.345Z

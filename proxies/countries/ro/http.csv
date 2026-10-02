@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,159.65.166.126,8118,http://159.65.166.126:8118,elite,false,3455,2952.5,28.6,28.7,593,185.100.87.192,1,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,14,2025-09-05T20:06:36.643Z,2026-10-01T04:24:55.895Z
+http,185.128.240.2,3128,http://185.128.240.2:3128,transparent,false,605,2224,54.6,56.2,729,185.128.240.2,1,ro,Mehedinți County,Drobeta-Turnu Severin,Europe/Bucharest,49052,DATA ZYX SRL,17,2025-09-11T19:14:42.877Z,2026-10-02T04:24:37.675Z

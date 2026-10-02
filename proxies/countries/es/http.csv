@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,460,456,100,78.8,909,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-01T04:28:53.060Z
-http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,false,3093,4060.5,39.5,33.3,547,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,16,2026-08-20T00:46:23.768Z,2026-10-01T04:24:45.016Z
-http,91.126.244.112,8080,http://91.126.244.112:8080,transparent,false,9192,2885.5,25.6,23.2,371,91.126.244.112,1,es,Cantabria,Arnuero,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,26,2026-07-06T09:10:10.551Z,2026-10-01T04:32:50.251Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,453,469,89.1,82.7,914,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-02T04:28:39.729Z
+http,77.225.198.220,9812,http://77.225.198.220:9812,elite,false,4998,3641,43.3,44.7,711,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,12,2025-09-10T20:03:30.040Z,2026-10-02T04:25:46.670Z
+http,77.228.1.124,8080,http://77.228.1.124:8080,transparent,false,3791,3911.5,35,35,60,77.228.1.124,1,es,Madrid,Madrid,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,10,2026-10-01T16:56:28.031Z,2026-10-02T04:33:17.279Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,true,3579,4089,21.8,32.1,579,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,16,2026-08-20T00:46:23.768Z,2026-10-02T04:23:58.658Z

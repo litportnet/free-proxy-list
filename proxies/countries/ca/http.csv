@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,328,190,95.8,93.5,982,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-01T04:26:24.747Z
-http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,523,216,85.1,66.5,874,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-10-01T04:25:58.010Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3317,4069,61.2,44,714,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-01T04:31:38.706Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,101,115,97.2,94.6,984,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-02T04:26:42.008Z
+http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,157,203.5,88.7,73.5,884,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-10-02T04:23:59.197Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,true,6928,5354.5,37.3,34.4,633,184.70.113.34,1,ca,Alberta,High River,America/Edmonton,6327,Shaw Communications,22,2026-08-05T05:21:13.994Z,2026-10-02T04:30:34.659Z
+http,81.90.158.110,3128,http://81.90.158.110:3128,elite,false,1096,1258,26.7,30.4,537,104.234.135.152,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,23,2026-08-17T10:57:40.545Z,2026-10-02T04:24:50.294Z

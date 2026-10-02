@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,143.105.108.210,1080,socks4://143.105.108.210:1080,elite,false,1966,4044,43,43.9,713,143.105.108.210,1,py,Asuncion,Asunción,America/Asuncion,14593,Space Exploration Technologies Corporation,19,2026-09-21T00:00:17.318Z,2026-10-01T04:25:43.350Z

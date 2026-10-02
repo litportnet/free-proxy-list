@@ -1,8 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,1100,1386,75,65.8,844,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-01T04:32:51.828Z
-socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,true,661,1170,48.7,48.2,593,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,13,2026-07-06T13:59:25.623Z,2026-10-01T04:31:23.353Z
-socks5,45.74.31.22,8232,socks5://45.74.31.22:8232,elite,false,4171,4752.5,37.5,36,50,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,11,2026-09-28T05:12:30.822Z,2026-10-01T04:29:35.827Z
-socks5,45.74.31.42,10715,socks5://45.74.31.42:10715,elite,false,3676,3669,29.2,23.2,82,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,12,2026-08-29T09:45:50.740Z,2026-10-01T04:27:56.730Z
-socks5,45.74.31.42,10018,socks5://45.74.31.42:10018,elite,true,4706,3009.5,35.5,,31,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,9,2026-09-30T20:45:48.554Z,2026-10-01T04:31:15.451Z
-socks5,45.74.31.23,7153,socks5://45.74.31.23:7153,elite,false,6354,4492,33.3,,42,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,12,2026-09-28T06:13:08.488Z,2026-10-01T04:26:06.752Z
-socks5,45.74.31.50,5405,socks5://45.74.31.50:5405,elite,true,8152,886.5,66.7,,21,89.58.21.18,5,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,1,2026-10-01T00:47:56.958Z,2026-10-01T04:32:18.374Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,685,1048.5,74.8,67.8,844,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-02T04:32:30.595Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,true,667,1207.5,69.6,52.1,676,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,13,2026-07-06T13:59:25.623Z,2026-10-02T04:32:28.457Z
+socks5,45.74.31.22,8232,socks5://45.74.31.22:8232,elite,true,2813,3174,22,27.8,108,89.58.21.18,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-09-28T05:12:30.822Z,2026-10-02T04:26:52.463Z

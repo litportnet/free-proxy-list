@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,false,5240,2864,39.6,36.3,538,185.9.16.100,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,20,2026-08-16T16:46:45.162Z,2026-10-01T04:28:30.137Z
-socks5,45.74.31.22,6999,socks5://45.74.31.22:6999,elite,true,792,1047.5,80,,5,78.128.76.254,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,1,2026-10-01T03:49:41.972Z,2026-10-01T04:30:05.870Z
+socks5,45.74.31.47,6994,socks5://45.74.31.47:6994,elite,false,3311,4564,36.2,45.3,106,78.128.76.254,4,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,11,2026-09-30T20:45:58.481Z,2026-10-02T04:26:29.960Z
+socks5,45.74.31.42,12313,socks5://45.74.31.42:12313,elite,true,8495,5593.5,29.8,32.2,90,78.128.76.254,4,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,9,2026-09-30T19:45:23.979Z,2026-10-02T04:30:45.714Z
+socks5,45.74.31.42,11686,socks5://45.74.31.42:11686,elite,false,3869,3786,37.7,23.6,127,78.128.76.254,4,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,10,2026-09-11T01:55:53.180Z,2026-10-02T04:33:06.255Z
+socks5,45.74.31.42,12342,socks5://45.74.31.42:12342,elite,true,8226,6462.5,27,23.6,89,78.128.76.254,4,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,10,2026-09-28T07:13:30.891Z,2026-10-02T04:30:17.707Z

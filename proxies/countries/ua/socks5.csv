@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,91.195.86.221,1080,socks5://91.195.86.221:1080,elite,false,1287,1228,60.3,54,274,91.195.86.221,1,ua,Crimea,Yalta,Europe/Simferopol,198669,KNET TELECOM Ltd,15,2026-08-23T03:26:41.910Z,2026-10-01T04:28:59.590Z
+socks5,194.8.144.100,1080,socks5://194.8.144.100:1080,elite,false,2020,2156,34.3,29.9,562,194.8.144.100,1,ua,Chernivtsi,Chernivtsi,Europe/Kyiv,59497,Buknet LLC,17,2026-09-21T01:00:48.894Z,2026-10-02T04:27:16.539Z

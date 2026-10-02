@@ -6,11 +6,11 @@
     "url": "http://83.143.24.66:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 2678,
-    "latency_median_ms": 3495.5,
-    "uptime_24h": 38.1,
-    "uptime_7d": 41,
-    "checks_7d": 683,
+    "latency_ms": 8123,
+    "latency_median_ms": 4297,
+    "uptime_24h": 34.6,
+    "uptime_7d": 41.4,
+    "checks_7d": 676,
     "exit_ip": "83.143.24.66",
     "exit_shared": 1,
     "country": "bw",
@@ -21,6 +21,6 @@
     "asn_org": "VBN Services",
     "sources_count": 18,
     "first_seen": "2025-09-05T20:06:32.587Z",
-    "last_checked": "2026-10-01T04:28:06.590Z"
+    "last_checked": "2026-10-02T04:29:32.237Z"
   }
 ]

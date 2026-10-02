@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,1853,2688,51.5,58.5,685,129.232.176.170,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,18,2026-09-18T12:48:20.513Z,2026-10-02T04:32:20.495Z

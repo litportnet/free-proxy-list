@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.102.224.138,32650,http://94.102.224.138:32650,transparent,false,1463,2270.5,23.9,14.5,214,94.102.224.138,1,me,Podgorica,Podgorica,Europe/Podgorica,47881,One Crna Gora DOO,15,2026-08-19T08:40:06.002Z,2026-10-01T04:30:23.284Z

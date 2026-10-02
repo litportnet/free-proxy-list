@@ -6,11 +6,11 @@
     "url": "http://195.144.24.57:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1738,
-    "latency_median_ms": 1827,
-    "uptime_24h": 78.4,
-    "uptime_7d": 80.6,
-    "checks_7d": 932,
+    "latency_ms": 2050,
+    "latency_median_ms": 2389,
+    "uptime_24h": 80.1,
+    "uptime_7d": 81.3,
+    "checks_7d": 931,
     "exit_ip": "195.144.24.57",
     "exit_shared": 1,
     "country": "mk",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Skopje",
     "asn": 210464,
     "asn_org": "AVS ISP",
-    "sources_count": 23,
+    "sources_count": 24,
     "first_seen": "2026-09-21T02:01:18.106Z",
-    "last_checked": "2026-10-01T04:26:01.300Z"
+    "last_checked": "2026-10-02T04:25:07.204Z"
   }
 ]

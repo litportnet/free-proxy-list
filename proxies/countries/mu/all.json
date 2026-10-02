@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.113.55.101",
+    "port": 3128,
+    "url": "http://102.113.55.101:3128",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5573,
+    "latency_median_ms": 3957,
+    "uptime_24h": 72.7,
+    "uptime_7d": 72.7,
+    "checks_7d": 88,
+    "exit_ip": "102.113.55.101",
+    "exit_shared": 1,
+    "country": "mu",
+    "region": "Plaines Wilhems",
+    "city": "Vacoas",
+    "timezone": "Indian/Mauritius",
+    "asn": 23889,
+    "asn_org": "Mauritius Telecom Ltd",
+    "sources_count": 15,
+    "first_seen": "2026-10-01T12:54:19.664Z",
+    "last_checked": "2026-10-02T04:25:48.768Z"
+  }
+]

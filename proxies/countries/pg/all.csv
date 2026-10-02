@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.110.31.155,8080,http://103.110.31.155:8080,transparent,false,9122,4661.5,17.8,23.5,264,103.110.31.155,1,pg,National Capital,Port Moresby,Pacific/Port_Moresby,136239,CLICK PACIFIC LTD,14,2026-08-09T12:14:16.453Z,2026-10-01T04:33:07.740Z

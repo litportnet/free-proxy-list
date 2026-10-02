@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10803,
+    "url": "socks5://65.21.252.66:10803",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1853,
+    "latency_median_ms": 2688,
+    "uptime_24h": 51.5,
+    "uptime_7d": 58.5,
+    "checks_7d": 685,
+    "exit_ip": "129.232.176.170",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Gauteng",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "asn": 37153,
+    "asn_org": "Xneelo (Pty) Ltd",
+    "sources_count": 18,
+    "first_seen": "2026-09-18T12:48:20.513Z",
+    "last_checked": "2026-10-02T04:32:20.495Z"
+  }
+]

@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,false,3919,1884,47.7,43.6,731,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,21,2025-09-04T23:02:26.237Z,2026-10-01T04:29:35.903Z
-http,88.218.92.64,3128,http://88.218.92.64:3128,transparent,true,8535,7899,26.5,30.5,82,88.218.92.64,1,am,Yerevan,Yerevan,Asia/Yerevan,196709,GNC-Alfa CJSC,15,2026-09-29T13:29:17.383Z,2026-10-01T04:26:58.409Z
-http,45.133.107.238,81,http://45.133.107.238:81,transparent,false,7932,4379,30,15.1,166,45.133.107.238,2,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,13,2025-09-05T20:06:36.350Z,2026-10-01T04:28:51.960Z
-http,45.133.107.128,81,http://45.133.107.128:81,transparent,false,3790,3355,13,13.7,182,45.133.107.238,2,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,20,2026-09-16T17:25:31.374Z,2026-10-01T04:27:58.381Z
+http,45.133.107.10,81,http://45.133.107.10:81,transparent,false,2270,2317.5,17.2,16.2,265,45.133.107.250,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,12,2025-09-07T19:04:03.345Z,2026-10-02T04:26:18.875Z

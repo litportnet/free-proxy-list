@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,66.59.197.61,3128,socks5://66.59.197.61:3128,elite,false,742,740,39.8,42.7,674,187.14.98.182,1,no,Oslo,Oslo,Europe/Oslo,136787,PacketHub S.A.,18,2026-08-13T16:07:05.398Z,2026-10-02T04:26:54.551Z

@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,107.181.155.234,60000,socks5://107.181.155.234:60000,elite,false,723,777,57.4,63.4,265,104.28.244.150,1,tr,Istanbul,Istanbul,Europe/Istanbul,13335,"Cloudflare, Inc.",15,2026-09-28T21:21:01.554Z,2026-10-01T04:31:04.885Z
+socks5,107.181.155.234,60000,socks5://107.181.155.234:60000,elite,false,727,1746,61.4,62.6,396,104.28.244.150,1,tr,Istanbul,Istanbul,Europe/Istanbul,13335,"Cloudflare, Inc.",16,2026-09-28T21:21:01.554Z,2026-10-02T04:26:45.157Z
+socks5,213.21.229.84,9081,socks5://213.21.229.84:9081,elite,true,4663,1846,17.2,13.8,80,203.202.232.160,1,tr,Istanbul,Istanbul,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",11,2026-09-28T07:13:34.893Z,2026-10-02T04:26:14.676Z

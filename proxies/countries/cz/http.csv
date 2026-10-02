@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,2170,3723,77.6,84.4,927,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-10-01T04:27:48.590Z
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,6191,5501.5,61.8,39.1,591,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,18,2025-09-08T03:28:25.725Z,2026-10-01T04:31:14.891Z
+http,31.31.74.185,9898,http://31.31.74.185:9898,transparent,true,525,643.5,79.7,81.9,923,31.31.74.185,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,197019,"WEDOS Internet, a.s.",18,2026-08-30T01:54:39.839Z,2026-10-02T04:30:39.939Z

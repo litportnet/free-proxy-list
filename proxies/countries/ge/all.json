@@ -6,11 +6,11 @@
     "url": "http://80.241.251.54:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 1063,
-    "latency_median_ms": 1482,
-    "uptime_24h": 58.6,
-    "uptime_7d": 48.7,
-    "checks_7d": 712,
+    "latency_ms": 3437,
+    "latency_median_ms": 2865.5,
+    "uptime_24h": 43.1,
+    "uptime_7d": 50.7,
+    "checks_7d": 726,
     "exit_ip": "80.241.251.54",
     "exit_shared": 1,
     "country": "ge",
@@ -21,6 +21,6 @@
     "asn_org": "Magticom Ltd.",
     "sources_count": 19,
     "first_seen": "2025-09-10T20:03:30.659Z",
-    "last_checked": "2026-10-01T04:32:05.676Z"
+    "last_checked": "2026-10-02T04:32:00.952Z"
   }
 ]

@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,true,7581,4183.5,54.3,43.4,629,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-10-01T04:31:20.213Z
-http,176.118.147.83,8080,http://176.118.147.83:8080,transparent,true,1689,4519,30.1,33.9,366,176.118.147.83,1,ua,Vinnytsia,Khmilnyk,Europe/Kyiv,21228,"VINASTERISK, PP",18,2026-09-26T13:51:50.026Z,2026-10-01T04:30:20.120Z
-http,159.224.243.185,37793,http://159.224.243.185:37793,elite,false,9848,4083.5,31.6,19.6,189,159.224.243.185,2,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,10,2026-09-25T02:33:16.737Z,2026-10-01T04:31:37.653Z
-http,82.207.117.120,8080,http://82.207.117.120:8080,elite,false,3166,3724.5,25,15.6,276,82.207.117.120,1,ua,Lviv,Lviv,Europe/Kyiv,6849,JSC Ukrtelecom,23,2026-06-11T00:36:11.110Z,2026-10-01T04:26:03.480Z
+http,79.137.78.133,8014,http://79.137.78.133:8014,elite,true,3769,577.5,28.6,26.4,353,149.88.110.38,1,ua,Kyiv City,Kyiv,Europe/Kyiv,212238,Datacamp Limited,15,2026-07-22T05:22:22.139Z,2026-10-02T04:29:28.539Z

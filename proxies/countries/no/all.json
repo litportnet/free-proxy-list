@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "66.59.197.61",
+    "port": 3128,
+    "url": "socks5://66.59.197.61:3128",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 742,
+    "latency_median_ms": 740,
+    "uptime_24h": 39.8,
+    "uptime_7d": 42.7,
+    "checks_7d": 674,
+    "exit_ip": "187.14.98.182",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Oslo",
+    "city": "Oslo",
+    "timezone": "Europe/Oslo",
+    "asn": 136787,
+    "asn_org": "PacketHub S.A.",
+    "sources_count": 18,
+    "first_seen": "2026-08-13T16:07:05.398Z",
+    "last_checked": "2026-10-02T04:26:54.551Z"
+  }
+]

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.206.68.241,1080,socks5://103.206.68.241:1080,elite,false,3854,4010.5,29.2,44.9,681,103.206.68.241,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",17,2026-02-16T09:09:02.143Z,2026-10-01T04:28:41.030Z
+socks5,103.206.68.241,1080,socks5://103.206.68.241:1080,elite,true,3100,2961.5,38.5,44.1,646,103.206.68.241,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",17,2026-02-16T09:09:02.143Z,2026-10-02T04:23:30.232Z
+socks5,203.189.150.44,1080,socks5://203.189.150.44:1080,elite,false,8553,2612,31.4,35,546,203.189.150.44,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",17,2025-12-20T01:26:33.364Z,2026-10-02T04:25:01.937Z
+socks5,124.248.177.44,1080,socks5://124.248.177.44:1080,elite,false,1524,2819,23.3,24.2,484,124.248.177.44,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,23673,"Cogetel Online, Cambodia, ISP",18,2025-12-24T07:21:56.246Z,2026-10-02T04:27:10.788Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2540,1919,63.2,61.2,696,5.181.233.122,1,ca,Quebec,Montréal,America/Toronto,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-10-01T04:33:57.084Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,1196,198.5,64.4,69.8,882,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-10-02T04:25:06.673Z
+socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,2042,2039,64.3,55.5,568,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-02T04:25:09.840Z
+socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,2199,2117,45.5,49.6,631,84.20.25.99,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,20,2026-08-24T21:47:23.618Z,2026-10-02T04:31:44.157Z

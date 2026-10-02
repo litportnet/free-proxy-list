@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.113.55.101,3128,http://102.113.55.101:3128,elite,false,5573,3957,72.7,72.7,88,102.113.55.101,1,mu,Plaines Wilhems,Vacoas,Indian/Mauritius,23889,Mauritius Telecom Ltd,15,2026-10-01T12:54:19.664Z,2026-10-02T04:25:48.768Z

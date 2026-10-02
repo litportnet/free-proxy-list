@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,182.184.30.96,1080,socks5://182.184.30.96:1080,elite,true,9614,3098,32.2,38.8,371,182.184.30.96,1,pk,Punjab,Lahore,Asia/Karachi,17557,Pakistan Telecommunication Company Limited,14,2026-09-27T16:05:38.324Z,2026-10-01T04:29:19.442Z

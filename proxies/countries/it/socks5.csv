@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2339,1280.5,100,99.6,238,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,14,2026-06-29T15:31:05.719Z,2026-10-01T04:26:00.720Z
-socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,true,2632,2368.5,63.7,66.8,784,45.91.20.117,1,it,Lombardy,Milan,Europe/Rome,9009,M247 Europe SRL,17,2026-09-17T17:38:15.449Z,2026-10-01T04:30:58.077Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,753,1274,97.2,98.7,382,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,14,2026-06-29T15:31:05.719Z,2026-10-02T04:26:40.964Z
+socks5,171.22.182.164,1080,socks5://171.22.182.164:1080,elite,false,6434,1579.5,73.7,48,346,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,18,2026-08-21T11:03:27.042Z,2026-10-02T04:28:51.962Z
+socks5,109.73.177.168,7080,socks5://109.73.177.168:7080,elite,true,4799,3582,50,,4,109.73.177.168,1,it,Molise,Ururi,Europe/Rome,49924,NETFREE S.R.L.S.,3,2026-10-02T03:55:48.287Z,2026-10-02T04:27:35.381Z

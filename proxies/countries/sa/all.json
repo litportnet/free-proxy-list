@@ -6,11 +6,11 @@
     "url": "http://130.110.103.245:3128",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 784,
-    "latency_median_ms": 838,
-    "uptime_24h": 79.1,
-    "uptime_7d": 85.2,
-    "checks_7d": 940,
+    "latency_ms": 1083,
+    "latency_median_ms": 1703.5,
+    "uptime_24h": 87.3,
+    "uptime_7d": 83.9,
+    "checks_7d": 939,
     "exit_ip": "130.110.103.245",
     "exit_shared": 1,
     "country": "sa",
@@ -21,6 +21,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 22,
     "first_seen": "2026-08-06T11:36:30.247Z",
-    "last_checked": "2026-10-01T04:24:30.408Z"
+    "last_checked": "2026-10-02T04:25:25.108Z"
   }
 ]

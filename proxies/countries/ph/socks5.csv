@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,43.106.60.21,1080,socks5://43.106.60.21:1080,elite,false,1982,1609,45,55.2,773,1.37.70.231,1,ph,National Capital Region,Manila,Asia/Manila,4775,Globe Telecoms,19,2026-05-13T04:35:06.541Z,2026-10-01T04:27:33.864Z
+socks5,43.106.60.21,1080,socks5://43.106.60.21:1080,elite,true,1916,1588.5,44.1,50.7,764,1.37.70.231,1,ph,National Capital Region,Manila,Asia/Manila,4775,Globe Telecoms,19,2026-05-13T04:35:06.541Z,2026-10-02T04:33:20.457Z

@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,31.57.93.11,8447,socks4://31.57.93.11:8447,elite,true,1943,3610,74.5,81.5,195,31.57.93.11,2,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,14,2026-09-29T18:32:08.017Z,2026-10-01T04:32:14.104Z
-http,31.57.93.11,8447,http://31.57.93.11:8447,elite,true,1887,4369.5,66.9,75.6,201,31.57.93.11,2,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,18,2026-09-29T16:31:13.880Z,2026-10-01T04:25:08.406Z
-socks5,212.3.206.215,10800,socks5://212.3.206.215:10800,elite,false,5288,3852.5,53.1,53.6,196,212.3.206.215,1,lv,Riga,Riga,Europe/Riga,24921,Latvijas Mobilais Telefons SIA,14,2026-09-29T12:28:59.410Z,2026-10-01T04:29:19.658Z

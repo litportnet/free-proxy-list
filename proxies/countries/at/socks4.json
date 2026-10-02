@@ -5,11 +5,11 @@
     "port": 5678,
     "url": "socks4://83.218.186.22:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1100,
-    "latency_median_ms": 1386,
-    "uptime_24h": 75,
-    "uptime_7d": 65.8,
+    "https": true,
+    "latency_ms": 685,
+    "latency_median_ms": 1048.5,
+    "uptime_24h": 74.8,
+    "uptime_7d": 67.8,
     "checks_7d": 844,
     "exit_ip": "83.218.186.22",
     "exit_shared": 1,
@@ -21,7 +21,7 @@
     "asn_org": "myNet GmbH",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:29.086Z",
-    "last_checked": "2026-10-01T04:32:51.828Z"
+    "last_checked": "2026-10-02T04:32:30.595Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://178.189.56.158:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 661,
-    "latency_median_ms": 1170,
-    "uptime_24h": 48.7,
-    "uptime_7d": 48.2,
-    "checks_7d": 593,
+    "latency_ms": 667,
+    "latency_median_ms": 1207.5,
+    "uptime_24h": 69.6,
+    "uptime_7d": 52.1,
+    "checks_7d": 676,
     "exit_ip": "178.189.56.158",
     "exit_shared": 1,
     "country": "at",
@@ -45,6 +45,6 @@
     "asn_org": "A1 Telekom Austria AG",
     "sources_count": 13,
     "first_seen": "2026-07-06T13:59:25.623Z",
-    "last_checked": "2026-10-01T04:31:23.353Z"
+    "last_checked": "2026-10-02T04:32:28.457Z"
   }
 ]

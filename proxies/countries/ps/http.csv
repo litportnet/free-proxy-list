@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,213.244.95.175,8080,http://213.244.95.175:8080,transparent,false,7913,4447,11.9,11.2,197,213.244.95.175,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,20,2026-05-24T00:53:03.180Z,2026-10-01T04:30:44.363Z
-http,178.214.80.27,1981,http://178.214.80.27:1981,transparent,false,6513,6560.5,25,3.3,60,178.214.80.12,1,ps,West Bank,Kafr Rā‘ī,Asia/Hebron,51336,Gemzo information technology Private Joint-Stock company,12,2025-09-10T21:05:09.966Z,2026-10-01T04:26:00.191Z

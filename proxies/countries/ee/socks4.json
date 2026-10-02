@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://185.157.111.3:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1691,
-    "latency_median_ms": 1700.5,
-    "uptime_24h": 82.1,
-    "uptime_7d": 72.6,
-    "checks_7d": 833,
+    "https": true,
+    "latency_ms": 3710,
+    "latency_median_ms": 2719,
+    "uptime_24h": 81.4,
+    "uptime_7d": 74.5,
+    "checks_7d": 875,
     "exit_ip": "185.157.111.3",
     "exit_shared": 1,
     "country": "ee",
@@ -21,6 +21,6 @@
     "asn_org": "Elevi AS",
     "sources_count": 22,
     "first_seen": "2026-07-04T17:38:40.433Z",
-    "last_checked": "2026-10-01T04:28:50.320Z"
+    "last_checked": "2026-10-02T04:32:55.765Z"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "116.90.224.50",
+    "port": 8080,
+    "url": "http://116.90.224.50:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 3214,
+    "latency_median_ms": 5283.5,
+    "uptime_24h": 16,
+    "uptime_7d": 21.3,
+    "checks_7d": 362,
+    "exit_ip": "116.90.224.50",
+    "exit_shared": 1,
+    "country": "np",
+    "region": "Bagmati Province",
+    "city": "Kathmandu",
+    "timezone": "Asia/Kathmandu",
+    "asn": 24550,
+    "asn_org": "Websurfer Nepal Internet Service Provider",
+    "sources_count": 13,
+    "first_seen": "2025-11-22T22:41:34.602Z",
+    "last_checked": "2026-10-02T04:24:41.861Z"
+  }
+]

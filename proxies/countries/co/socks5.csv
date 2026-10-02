@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,44248,socks5://45.74.31.41:44248,elite,false,987,2687.5,25,23.5,196,190.6.176.90,1,co,Valle del Cauca Department,Cali,America/Bogota,27845,Empresa de Recursos Tecnologicos S.A E.S.P,14,2026-09-22T21:05:06.103Z,2026-10-01T04:25:44.996Z
