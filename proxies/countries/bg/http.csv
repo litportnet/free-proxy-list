@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.217.192.245,1414,http://85.217.192.245:1414,transparent,false,4896,4917.5,10.5,8.1,99,85.217.192.39,1,bg,Veliko Tarnovo,Svishtov,Europe/Sofia,34368,ZONATA - INVEST sLLC,13,2025-09-06T05:35:59.151Z,2026-10-02T04:33:08.345Z
+http,213.169.33.3,8001,http://213.169.33.3:8001,transparent,false,6241,4339,14.6,13.9,281,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,18,2025-09-05T20:06:37.898Z,2026-10-03T04:29:28.758Z

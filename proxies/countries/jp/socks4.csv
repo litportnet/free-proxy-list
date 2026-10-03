@@ -1,7 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,825,811.5,99.3,99.4,703,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-02T04:32:25.737Z
-socks4,43.165.133.188,1081,socks4://43.165.133.188:1081,elite,true,681,942.5,80.4,85.3,293,43.165.133.188,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",16,2026-09-30T01:35:51.918Z,2026-10-02T04:29:03.590Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,1786,1790,62.8,67.8,798,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-02T04:31:53.066Z
-socks4,43.165.182.43,1081,socks4://43.165.182.43:1081,elite,true,2684,3180,44.3,49,249,43.165.182.43,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-09-30T02:36:22.513Z,2026-10-02T04:25:11.933Z
-socks4,101.32.94.127,1080,socks4://101.32.94.127:1080,elite,true,1537,1821,40.9,48.4,153,101.32.94.127,2,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",14,2026-09-30T20:46:10.212Z,2026-10-02T04:30:37.276Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,true,3564,2914,31.3,27,89,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,9,2026-09-29T06:26:06.378Z,2026-10-02T04:25:09.842Z
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,975,956.5,95.2,91.5,587,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-10-03T04:31:17.387Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,1813,1780,73.1,69.4,865,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-03T04:23:15.707Z

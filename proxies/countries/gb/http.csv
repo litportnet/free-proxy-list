@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,414,414,100,100,51,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",14,2026-10-01T19:58:11.770Z,2026-10-02T04:26:11.471Z
-http,178.128.165.127,10000,http://178.128.165.127:10000,elite,true,972,503,64.3,69.2,195,178.128.165.127,2,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",17,2026-09-30T18:44:45.576Z,2026-10-02T04:30:02.826Z
-http,185.139.7.97,8080,http://185.139.7.97:8080,anonymous,true,404,7706,33.3,31.8,85,185.139.7.97,1,gb,England,Congleton,Europe/London,207108,AH CLOUD LTD,14,2026-09-30T05:38:00.943Z,2026-10-02T04:26:35.741Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,1151,1064.5,16.7,23.7,392,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,14,2025-10-03T21:41:53.577Z,2026-10-02T04:29:26.927Z
-http,134.122.102.141,3128,http://134.122.102.141:3128,transparent,true,1153,2670.5,12.5,,41,134.122.102.141,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",14,2026-10-01T02:49:08.281Z,2026-10-02T04:24:54.537Z
+http,57.129.134.10,8082,http://57.129.134.10:8082,elite,true,414,432,100,100,58,57.129.134.10,2,gb,England,Bexley,Europe/London,16276,OVH SAS,12,2026-07-21T18:16:22.211Z,2026-10-03T04:23:57.775Z
+http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,404,461.5,99.3,99.5,194,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",18,2026-10-01T19:58:11.770Z,2026-10-03T04:28:06.604Z
+http,217.182.195.221,30007,http://217.182.195.221:30007,transparent,false,1207,1174,15.9,26.2,455,193.149.187.228,1,gb,England,London,Europe/London,399629,BL Networks,23,2026-06-22T06:59:24.037Z,2026-10-03T04:24:33.195Z

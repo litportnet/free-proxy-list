@@ -6,9 +6,9 @@
     "url": "http://130.110.103.245:3128",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 1083,
-    "latency_median_ms": 1703.5,
-    "uptime_24h": 87.3,
+    "latency_ms": 5625,
+    "latency_median_ms": 819,
+    "uptime_24h": 83.7,
     "uptime_7d": 83.9,
     "checks_7d": 939,
     "exit_ip": "130.110.103.245",
@@ -21,6 +21,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 22,
     "first_seen": "2026-08-06T11:36:30.247Z",
-    "last_checked": "2026-10-02T04:25:25.108Z"
+    "last_checked": "2026-10-03T04:31:03.451Z"
   }
 ]

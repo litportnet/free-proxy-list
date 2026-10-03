@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "212.31.100.138",
+    "port": 4153,
+    "url": "socks4://212.31.100.138:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 777,
+    "latency_median_ms": 773,
+    "uptime_24h": 64.7,
+    "uptime_7d": 59.9,
+    "checks_7d": 563,
+    "exit_ip": "212.31.100.138",
+    "exit_shared": 1,
+    "country": "cy",
+    "region": "Ammochostos",
+    "city": "Ayia Napa",
+    "timezone": "Asia/Famagusta",
+    "asn": 6866,
+    "asn_org": "Cyprus Telecommunications Authority",
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:30.574Z",
+    "last_checked": "2026-10-03T04:26:09.252Z"
+  }
+]

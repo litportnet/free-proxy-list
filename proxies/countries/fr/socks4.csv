@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,95.111.228.190,1081,socks4://95.111.228.190:1081,elite,true,573,625,85.9,81.6,927,95.111.228.190,6,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-09-21T11:06:18.018Z,2026-10-02T04:29:11.046Z
-socks4,95.111.228.190,1082,socks4://95.111.228.190:1082,elite,false,1694,620,83.7,80.6,918,95.111.228.190,6,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,14,2026-09-22T17:22:10.711Z,2026-10-02T04:26:53.513Z
-socks4,95.111.228.190,1080,socks4://95.111.228.190:1080,elite,true,608,624,87.9,78.7,908,95.111.228.190,6,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-21T11:06:09.388Z,2026-10-02T04:24:47.088Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,551,556,50.4,46.3,464,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-02T04:28:27.572Z
-socks4,77.221.152.210,36219,socks4://77.221.152.210:36219,elite,false,4625,3900.5,27.3,26,319,77.221.152.210,2,fr,Île-de-France,Paris,Europe/Paris,210644,AEZA GROUP LLC,11,2026-04-18T09:32:21.983Z,2026-10-02T04:31:27.243Z
-socks4,91.107.153.123,9083,socks4://91.107.153.123:9083,elite,true,712,850,38.9,,18,203.55.81.2,1,fr,Île-de-France,Nanterre,Europe/Paris,213873,OUIDO Hosting,7,2026-10-02T00:54:13.088Z,2026-10-02T04:30:12.911Z
+socks4,82.139.234.160,1001,socks4://82.139.234.160:1001,elite,false,7288,5960,89.9,89.9,138,81.181.238.212,2,fr,Île-de-France,Noisiel,Europe/Paris,2914,"NTT America, Inc.",15,2026-10-02T04:56:15.396Z,2026-10-03T04:28:32.625Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,546,554.5,40.3,46.8,524,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-03T04:22:41.937Z
+socks4,82.139.234.160,1010,socks4://82.139.234.160:1010,elite,true,5363,5459,96.3,,27,80.12.176.152,2,fr,Île-de-France,Paris,Europe/Paris,5511,Orange S.A.,10,2026-10-03T00:06:19.857Z,2026-10-03T04:27:20.012Z

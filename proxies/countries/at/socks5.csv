@@ -1,2 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.22,8232,socks5://45.74.31.22:8232,elite,true,2813,3174,22,27.8,108,89.58.21.18,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-09-28T05:12:30.822Z,2026-10-02T04:26:52.463Z
+socks5,45.74.31.47,4030,socks5://45.74.31.47:4030,elite,false,9503,4571,16.7,36.9,241,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,10,2026-09-28T04:12:02.179Z,2026-10-03T04:28:49.644Z
+socks5,45.74.31.42,4664,socks5://45.74.31.42:4664,elite,false,4505,4816.5,55.9,35.4,113,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,13,2026-09-24T22:31:08.548Z,2026-10-03T04:25:01.749Z
+socks5,45.74.31.30,5060,socks5://45.74.31.30:5060,elite,true,3578,4558.5,45,15.6,135,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,16,2026-08-22T08:15:48.714Z,2026-10-03T04:29:44.218Z
+socks5,45.74.31.22,5082,socks5://45.74.31.22:5082,elite,false,3828,3807.5,39.3,13.3,83,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,18,2026-09-16T03:18:05.440Z,2026-10-03T04:28:50.168Z
+socks5,45.74.31.42,4939,socks5://45.74.31.42:4939,elite,false,3483,3994,31.6,8.1,74,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,17,2026-09-09T04:48:03.332Z,2026-10-03T04:27:33.819Z
+socks5,45.74.31.50,4464,socks5://45.74.31.50:4464,elite,true,2508,1568,100,,9,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,2,2026-10-03T03:08:01.712Z,2026-10-03T04:26:03.395Z
+socks5,45.74.31.50,4607,socks5://45.74.31.50:4607,elite,false,3013,3726,64,,30,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,10,2026-09-28T00:09:49.823Z,2026-10-03T04:28:11.398Z
+socks5,45.74.31.25,5703,socks5://45.74.31.25:5703,elite,true,5063,4889.5,64,,27,185.164.5.134,8,at,Vienna,Vienna,Europe/Vienna,8560,IONOS SE,7,2026-09-28T21:21:24.375Z,2026-10-03T04:29:07.348Z

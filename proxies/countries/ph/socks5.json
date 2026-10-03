@@ -6,11 +6,11 @@
     "url": "socks5://43.106.60.21:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1916,
-    "latency_median_ms": 1588.5,
-    "uptime_24h": 44.1,
-    "uptime_7d": 50.7,
-    "checks_7d": 764,
+    "latency_ms": 1612,
+    "latency_median_ms": 2005.5,
+    "uptime_24h": 49.3,
+    "uptime_7d": 48.6,
+    "checks_7d": 758,
     "exit_ip": "1.37.70.231",
     "exit_shared": 1,
     "country": "ph",
@@ -21,6 +21,6 @@
     "asn_org": "Globe Telecoms",
     "sources_count": 19,
     "first_seen": "2026-05-13T04:35:06.541Z",
-    "last_checked": "2026-10-02T04:33:20.457Z"
+    "last_checked": "2026-10-03T04:23:20.600Z"
   }
 ]

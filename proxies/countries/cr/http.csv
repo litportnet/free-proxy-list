@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.15.187.158,999,http://186.15.187.158:999,transparent,true,500,907,29.6,35.2,273,186.15.187.158,1,cr,Puntarenas Province,San Juan Grande,America/Costa_Rica,262202,"Telefonica de Costa Rica TC, SA",19,2026-09-29T10:28:00.376Z,2026-10-02T04:24:35.047Z
-http,190.113.249.14,88,http://190.113.249.14:88,transparent,false,1823,3032,26.8,31.6,661,190.113.249.14,2,cr,Alajuela Province,Zarcero,America/Costa_Rica,262241,COOPERATIVA DE ELECTRIFICACION RURAL DE ALFARO RUIZ R.L.,25,2026-06-05T19:32:16.493Z,2026-10-02T04:27:26.997Z

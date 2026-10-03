@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.59.112.250",
+    "port": 3030,
+    "url": "http://41.59.112.250:3030",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8287,
+    "latency_median_ms": 7641.5,
+    "uptime_24h": 21.4,
+    "uptime_7d": 17.9,
+    "checks_7d": 251,
+    "exit_ip": "41.59.112.250",
+    "exit_shared": 1,
+    "country": "tz",
+    "region": "Dodoma",
+    "city": "Dodoma",
+    "timezone": "Africa/Dar_es_Salaam",
+    "asn": 33765,
+    "asn_org": "TANZANIA TELECOMMUNICATIONS CO. LTD",
+    "sources_count": 13,
+    "first_seen": "2025-12-30T21:11:36.642Z",
+    "last_checked": "2026-10-03T04:28:22.009Z"
+  }
+]

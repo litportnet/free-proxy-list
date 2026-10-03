@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.147.179.118,3217,http://45.147.179.118:3217,anonymous,true,727,714.5,21.5,20.6,68,196.198.29.54,1,lt,Vilnius,Vilnius,Europe/Vilnius,37518,Fiber Grid INC,15,2026-09-29T04:24:31.020Z,2026-10-03T04:26:55.796Z

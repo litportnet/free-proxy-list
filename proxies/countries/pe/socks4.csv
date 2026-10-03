@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,181.78.43.55,1080,socks4://181.78.43.55:1080,elite,true,584,1597.5,72.6,72.6,62,181.78.43.55,1,pe,Lima Province,Lima,America/Lima,52468,UFINET PANAMA S.A.,11,2026-10-01T17:57:02.031Z,2026-10-02T04:26:37.815Z
-socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,true,7888,1616.5,49.2,58.2,843,177.91.255.35,1,pe,Lima region,Chosica,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-10-02T04:33:26.774Z
+socks4,181.78.43.55,1080,socks4://181.78.43.55:1080,elite,true,588,1632,69.9,70.6,197,181.78.43.55,1,pe,Lima Province,Lima,America/Lima,52468,UFINET PANAMA S.A.,16,2026-10-01T17:57:02.031Z,2026-10-03T04:24:54.352Z
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,true,1764,1852.5,55,59.7,842,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,20,2025-09-04T23:49:14.401Z,2026-10-03T04:30:30.618Z
+socks4,38.226.49.121,1080,socks4://38.226.49.121:1080,elite,false,642,639,14.9,15.1,352,38.226.49.124,1,pe,Ayacucho,Ayacucho,America/Lima,274029,KAZAV LATAM E.I.R.L.,19,2026-07-23T15:40:43.436Z,2026-10-03T04:28:04.482Z

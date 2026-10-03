@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,180.149.44.182,3128,http://180.149.44.182:3128,elite,true,850,827,98.6,98.7,152,180.149.44.182,1,az,Baki,Baku,Asia/Baku,202422,G-Core Labs S.A.,17,2026-10-01T02:49:01.260Z,2026-10-02T04:23:46.501Z
-http,185.118.51.230,3128,http://185.118.51.230:3128,elite,true,786,801.5,24,29,565,185.118.51.230,1,az,Baki,Baku,Asia/Baku,203971,AzFiberNet LLC,14,2025-11-30T16:45:10.980Z,2026-10-02T04:25:30.380Z
+http,180.149.44.182,3128,http://180.149.44.182:3128,elite,true,730,762.5,93.7,96.3,295,180.149.44.182,1,az,Baki,Baku,Asia/Baku,202422,G-Core Labs S.A.,17,2026-10-01T02:49:01.260Z,2026-10-03T04:24:48.502Z
+socks4,185.43.189.253,3629,socks4://185.43.189.253:3629,elite,false,941,1937,24.7,23.1,376,185.43.189.253,1,az,Gǝncǝ,Ganja,Asia/Baku,201167,Caspian Telecom LLC,21,2026-04-17T19:00:26.783Z,2026-10-03T04:23:19.492Z

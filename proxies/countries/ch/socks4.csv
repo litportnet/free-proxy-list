@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,true,7689,1718,47.9,39.1,711,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-10-02T04:28:30.262Z
+socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,1609,1588.5,35.5,38.2,691,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-10-03T04:23:09.193Z
+socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,true,597,1431.5,32.3,35.4,472,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-03T04:30:40.825Z
+socks4,82.9.133.51,9150,socks4://82.9.133.51:9150,elite,true,1615,1648,28.2,28.3,353,107.189.14.4,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,10,2026-07-05T07:46:20.968Z,2026-10-03T04:30:06.612Z

@@ -5,11 +5,11 @@
     "port": 1080,
     "url": "socks4://31.168.143.90:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 7960,
-    "latency_median_ms": 3886,
-    "uptime_24h": 74.8,
-    "uptime_7d": 70.2,
+    "https": false,
+    "latency_ms": 797,
+    "latency_median_ms": 882,
+    "uptime_24h": 59.8,
+    "uptime_7d": 71.9,
     "checks_7d": 868,
     "exit_ip": "31.168.143.90",
     "exit_shared": 1,
@@ -21,6 +21,6 @@
     "asn_org": "Bezeq International Ltd.",
     "sources_count": 13,
     "first_seen": "2026-07-04T23:41:40.294Z",
-    "last_checked": "2026-10-02T04:26:03.547Z"
+    "last_checked": "2026-10-03T04:24:11.991Z"
   }
 ]

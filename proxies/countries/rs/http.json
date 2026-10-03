@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "212.200.223.89",
+    "port": 8080,
+    "url": "http://212.200.223.89:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4059,
+    "latency_median_ms": 4505,
+    "uptime_24h": 27.1,
+    "uptime_7d": 27.4,
+    "checks_7d": 532,
+    "exit_ip": "212.200.223.89",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Vojvodina",
+    "city": "Pančevo",
+    "timezone": "Europe/Belgrade",
+    "asn": 8400,
+    "asn_org": "TELEKOM SRBIJA a.d.",
+    "sources_count": 23,
+    "first_seen": "2026-08-05T23:29:41.654Z",
+    "last_checked": "2026-10-03T04:24:34.746Z"
+  }
+]

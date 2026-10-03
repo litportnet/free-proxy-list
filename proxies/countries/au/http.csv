@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,15.235.145.229,1081,http://15.235.145.229:1081,elite,true,8527,1703.5,95.7,96.3,295,103.1.212.251,1,au,New South Wales,Sydney,Australia/Sydney,137409,GSL Networks Pty LTD,20,2026-09-30T02:36:17.694Z,2026-10-02T04:24:50.809Z
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,764,745.5,96.1,36.9,355,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-03T04:23:25.495Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.59.112.250,3030,http://41.59.112.250:3030,transparent,false,8287,7641.5,21.4,17.9,251,41.59.112.250,1,tz,Dodoma,Dodoma,Africa/Dar_es_Salaam,33765,TANZANIA TELECOMMUNICATIONS CO. LTD,13,2025-12-30T21:11:36.642Z,2026-10-03T04:28:22.009Z

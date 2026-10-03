@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.8.235.10,4145,socks4://200.8.235.10:4145,elite,false,497,498,63.5,58,600,200.8.235.10,1,ve,Aragua,Maracay,America/Caracas,21826,Corporación Telemic C.A.,20,2026-07-08T04:22:20.090Z,2026-10-02T04:25:40.888Z
+socks4,200.8.235.10,4145,socks4://200.8.235.10:4145,elite,false,502,491.5,71.4,62.7,659,200.8.235.10,1,ve,Aragua,Maracay,America/Caracas,21826,Corporación Telemic C.A.,20,2026-07-08T04:22:20.090Z,2026-10-03T04:22:49.605Z

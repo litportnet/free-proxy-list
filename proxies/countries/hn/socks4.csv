@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,181.115.74.172,5678,socks4://181.115.74.172:5678,elite,false,405,421.5,83,73.8,917,181.115.74.172,1,hn,Atlántida Department,Tela,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",13,2025-09-04T23:49:05.467Z,2026-10-02T04:26:28.360Z
+socks4,181.115.74.172,5678,socks4://181.115.74.172:5678,elite,true,421,1420.5,71.4,76.4,918,181.115.74.172,1,hn,Atlántida Department,Tela,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",13,2025-09-04T23:49:05.467Z,2026-10-03T04:29:22.298Z

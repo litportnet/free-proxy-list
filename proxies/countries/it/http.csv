@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,495,500.5,85.2,61.2,792,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,18,2025-09-10T21:05:12.312Z,2026-10-02T04:33:52.758Z
-http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,1616,1339,34.2,37.9,285,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,6,2026-06-21T15:51:42.528Z,2026-10-02T04:24:54.543Z
+http,212.77.75.25,3129,http://212.77.75.25:3129,elite,true,606,1763.5,43,39.3,412,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,7,2026-06-21T15:51:42.528Z,2026-10-03T04:22:45.732Z
+http,185.219.86.7,8080,http://185.219.86.7:8080,transparent,true,8522,3433.5,26.1,21.4,318,185.219.86.7,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,20,2026-09-27T00:57:43.648Z,2026-10-03T04:30:13.553Z
+http,84.8.248.36,3128,http://84.8.248.36:3128,elite,true,2712,4836.5,15.4,20.5,249,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,23,2026-08-12T10:52:28.127Z,2026-10-03T04:28:36.330Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,transparent,true,1174,3800,12.5,19.8,324,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-10-03T04:28:48.554Z

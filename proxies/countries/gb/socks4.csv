@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.73.39.118,9999,socks4://185.73.39.118:9999,elite,true,387,414,100,,46,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",11,2026-10-01T20:52:16.328Z,2026-10-02T04:26:39.396Z
-socks4,65.109.193.197,9082,socks4://65.109.193.197:9082,elite,true,1332,1349,90.9,,22,193.149.187.228,1,gb,England,London,Europe/London,399629,BL Networks,10,2026-10-02T00:54:13.088Z,2026-10-02T04:29:20.065Z
+socks4,185.73.39.118,9999,socks4://185.73.39.118:9999,elite,true,1026,411,99.3,99.5,190,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",14,2026-10-01T20:52:16.328Z,2026-10-03T04:27:52.280Z
+socks4,157.180.24.140,11111,socks4://157.180.24.140:11111,elite,true,642,632,100,,33,141.98.252.210,2,gb,England,London,Europe/London,39351,31173 Services AB,12,2026-10-02T23:05:56.464Z,2026-10-03T04:26:46.239Z

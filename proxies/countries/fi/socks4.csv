@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,641,659,92.2,92.5,614,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,15,2026-09-27T18:06:40.424Z,2026-10-02T04:25:47.191Z
-socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,583,754.5,97.2,87.1,940,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-02T04:24:28.718Z
-socks4,5.101.232.194,10808,socks4://5.101.232.194:10808,elite,false,4491,4475.5,25.4,34.2,123,152.233.71.7,1,fi,Uusimaa,Helsinki,Europe/Helsinki,212238,Datacamp Limited,13,2026-09-30T04:37:25.184Z,2026-10-02T04:25:58.274Z
-socks4,65.109.215.187,8090,socks4://65.109.215.187:8090,elite,true,550,547.5,100,,41,65.109.215.187,3,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,12,2026-10-01T21:52:41.214Z,2026-10-02T04:32:41.102Z
+socks4,65.109.215.187,8090,socks4://65.109.215.187:8090,elite,true,512,503.5,95.1,96.2,182,65.109.215.187,3,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,14,2026-10-01T21:52:41.214Z,2026-10-03T04:23:21.153Z
+socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,690,687,95.9,93.1,758,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,15,2026-09-27T18:06:40.424Z,2026-10-03T04:22:49.051Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,616,2499.5,95.7,91.2,942,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-03T04:31:04.003Z

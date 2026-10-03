@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.228.233.78,999,http://45.228.233.78:999,transparent,true,860,3549.5,19.2,22.5,392,45.228.233.78,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,15,2025-12-09T22:18:25.098Z,2026-10-03T04:24:24.095Z
+http,181.119.103.237,999,http://181.119.103.237:999,transparent,false,4007,2224,23.3,21.6,464,181.119.103.237,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:32.308Z,2026-10-03T04:30:56.977Z

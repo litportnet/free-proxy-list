@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.8.144.100,1080,socks5://194.8.144.100:1080,elite,false,2020,2156,34.3,29.9,562,194.8.144.100,1,ua,Chernivtsi,Chernivtsi,Europe/Kyiv,59497,Buknet LLC,17,2026-09-21T01:00:48.894Z,2026-10-02T04:27:16.539Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,1037,1951.5,49.5,47,660,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-10-03T04:29:38.857Z
+socks5,185.151.86.121,3699,socks5://185.151.86.121:3699,elite,false,3998,1951,35.7,25.6,320,31.128.249.254,1,ua,Cherkasy,Cherkasy,Europe/Kyiv,208139,FOP Avator Myhaylo Mykolayovych,19,2025-09-05T00:24:35.928Z,2026-10-03T04:29:56.502Z
+socks5,195.114.7.6,1080,socks5://195.114.7.6:1080,elite,true,2117,2125,29,19.7,239,195.114.7.6,1,ua,Crimea,Simferopol,Europe/Simferopol,41161,Artem Zubkov,20,2026-04-07T02:43:59.656Z,2026-10-03T04:25:49.630Z

@@ -1,9 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.30,4641,socks5://45.74.31.30:4641,elite,false,3183,3207,67.8,67.8,59,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),1,2026-10-01T09:52:42.041Z,2026-10-02T04:33:37.909Z
-socks5,45.74.31.40,5864,socks5://45.74.31.40:5864,elite,true,4437,3160.5,47.5,47.5,59,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),11,2026-10-01T16:56:26.301Z,2026-10-02T04:28:25.465Z
-socks5,45.74.31.42,12000,socks5://45.74.31.42:12000,elite,true,6453,4170,45.5,45.5,55,197.155.134.251,4,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,8,2026-10-01T16:56:26.301Z,2026-10-02T04:31:29.415Z
-socks5,45.74.31.22,6824,socks5://45.74.31.22:6824,elite,true,2165,3687.5,40,36.4,132,197.155.134.251,4,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,13,2026-09-30T03:36:48.496Z,2026-10-02T04:27:58.574Z
-socks5,45.74.31.47,5449,socks5://45.74.31.47:5449,elite,true,9137,5237.5,43.1,22.6,177,197.155.134.251,4,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,18,2026-09-20T03:49:39.093Z,2026-10-02T04:29:40.107Z
-socks5,45.74.31.30,4436,socks5://45.74.31.30:4436,elite,false,9195,4838.5,26.3,17.9,123,197.155.134.251,4,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,14,2026-09-05T03:56:44.059Z,2026-10-02T04:27:02.938Z
-socks5,45.74.31.47,6235,socks5://45.74.31.47:6235,elite,true,997,2723,86.4,,22,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),1,2026-10-02T00:54:09.367Z,2026-10-02T04:27:06.592Z
-socks5,45.74.31.50,7963,socks5://45.74.31.50:7963,elite,true,8764,1718,90,,10,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),1,2026-10-02T02:55:12.989Z,2026-10-02T04:27:34.337Z

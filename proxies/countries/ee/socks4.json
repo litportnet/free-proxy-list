@@ -6,11 +6,11 @@
     "url": "socks4://185.157.111.3:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3710,
-    "latency_median_ms": 2719,
-    "uptime_24h": 81.4,
-    "uptime_7d": 74.5,
-    "checks_7d": 875,
+    "latency_ms": 1735,
+    "latency_median_ms": 1721,
+    "uptime_24h": 72.7,
+    "uptime_7d": 72.4,
+    "checks_7d": 872,
     "exit_ip": "185.157.111.3",
     "exit_shared": 1,
     "country": "ee",
@@ -21,6 +21,6 @@
     "asn_org": "Elevi AS",
     "sources_count": 22,
     "first_seen": "2026-07-04T17:38:40.433Z",
-    "last_checked": "2026-10-02T04:32:55.765Z"
+    "last_checked": "2026-10-03T04:23:30.373Z"
   }
 ]

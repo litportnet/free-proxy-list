@@ -1,8 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,899,867.5,100,99.5,1004,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-02T04:25:58.813Z
-http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,1406,1023.5,100,99.2,999,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T14:20:07.319Z,2026-10-02T04:31:19.356Z
-http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,1762,752.5,93.6,83.6,932,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-10-02T04:32:45.282Z
-http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,714,841,92.2,82.2,928,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-10-02T04:30:37.273Z
-http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,742,751.5,92.2,82.2,914,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,19,2025-11-22T16:37:20.344Z,2026-10-02T04:30:42.008Z
-http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,1788,809,87.2,81.9,930,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.489Z,2026-10-02T04:23:41.221Z
-http,112.216.54.226,12121,http://112.216.54.226:12121,elite,true,1745,822.5,45.5,49,762,112.216.54.226,1,kr,Gyeonggi-do,Yangp'yŏng,Asia/Seoul,3786,LG DACOM Corporation,26,2026-08-13T08:04:48.871Z,2026-10-02T04:31:12.529Z
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,803,777,100,99.8,1005,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-03T04:26:15.059Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,721,721,100,99.2,1003,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-10-03T04:26:43.063Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,763,1812.5,80.1,84,940,183.110.216.129,2,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-10-03T04:31:00.177Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,1885,1817.5,80.3,83.2,927,183.110.216.129,2,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-10-03T04:28:10.326Z
+http,112.169.99.71,8097,http://112.169.99.71:8097,elite,true,1541,1569,30,,13,211.34.183.228,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,17,2026-09-20T10:53:16.415Z,2026-10-03T04:26:40.458Z
