@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.187.0.89,1080,socks4://160.187.0.89:1080,elite,true,5362,1222,95,94.5,986,160.187.0.89,2,vn,Hanoi,Hanoi,Asia/Bangkok,152992,ONLINE DATA COMPANY LIMITED,17,2026-09-20T03:49:38.188Z,2026-10-03T23:58:01.385Z
+socks4,171.242.14.54,1080,socks4://171.242.14.54:1080,elite,false,2327,2329,71.9,67.3,854,171.242.14.54,1,vn,Thai Nguyen,Thái Nguyên,Asia/Bangkok,7552,Viettel Group,21,2026-07-07T19:15:34.267Z,2026-10-03T23:52:48.971Z
+socks4,118.71.99.233,5678,socks4://118.71.99.233:5678,elite,false,2068,2143,46.7,53.5,828,42.112.208.148,1,vn,Hanoi,Hanoi,Asia/Bangkok,18403,FPT Telecom Company,22,2025-09-04T23:48:54.174Z,2026-10-03T23:52:20.594Z
+socks4,118.70.211.121,60606,socks4://118.70.211.121:60606,elite,true,2141,3160,52.9,50.2,524,118.70.212.110,1,vn,Hanoi,Hanoi,Asia/Bangkok,18403,FPT Telecom Company,20,2025-09-05T20:06:31.477Z,2026-10-03T23:57:45.530Z
+socks4,171.248.213.31,1080,socks4://171.248.213.31:1080,elite,false,1383,1376,38.1,43.4,166,171.248.213.31,1,vn,Dong Thap,Mỹ Tho,Asia/Ho_Chi_Minh,7552,Viettel Group,14,2026-10-02T17:02:41.075Z,2026-10-03T23:55:36.509Z
+socks4,171.248.221.248,1080,socks4://171.248.221.248:1080,elite,false,1433,1398.5,34.4,38.5,156,171.248.221.248,1,vn,Dong Thap,Cai Lậy,Asia/Ho_Chi_Minh,7552,Viettel Group,14,2025-10-15T07:33:00.550Z,2026-10-03T23:59:16.713Z
+socks4,157.66.26.151,1080,socks4://157.66.26.151:1080,elite,false,9661,3838.5,25,22.3,251,157.66.26.151,1,vn,Hanoi,Hanoi,Asia/Bangkok,149107,TRUMVPS COMPANY LIMITED,11,2025-10-24T00:33:50.134Z,2026-10-03T23:51:46.900Z
+socks4,27.68.173.28,1080,socks4://27.68.173.28:1080,elite,true,1406,1387,21.7,,23,27.68.173.28,1,vn,Dong Thap,Mỹ Tho,Asia/Ho_Chi_Minh,7552,Viettel Group,7,2025-09-19T18:18:58.431Z,2026-10-03T23:50:14.632Z
+socks4,103.37.28.26,1080,socks4://103.37.28.26:1080,elite,false,4073,2341,55.6,,9,103.37.28.26,1,vn,Hanoi,Hanoi,Asia/Bangkok,45896,Mobifone Global JSC,7,2026-10-03T22:18:02.351Z,2026-10-03T23:57:52.915Z

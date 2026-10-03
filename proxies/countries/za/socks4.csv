@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,105.214.19.138,5678,socks4://105.214.19.138:5678,elite,true,8606,2169,86.4,84.7,216,105.214.19.138,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,17,2026-10-02T10:59:28.929Z,2026-10-03T23:57:48.699Z
+socks4,105.214.10.6,5678,socks4://105.214.10.6:5678,elite,false,1329,1851.5,73,74.3,603,105.214.10.6,1,za,Gauteng,Benoni,Africa/Johannesburg,16637,MTN SA,17,2026-09-29T11:28:29.372Z,2026-10-03T23:53:56.731Z
+socks4,105.214.51.182,5678,socks4://105.214.51.182:5678,elite,true,8494,4378,72.7,69.9,893,105.214.51.182,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,17,2026-09-25T22:43:48.161Z,2026-10-03T23:53:17.674Z
+socks4,102.215.245.6,4153,socks4://102.215.245.6:4153,elite,false,4260,4253.5,61.6,69,854,102.215.245.6,1,za,Gauteng,Johannesburg,Africa/Johannesburg,329058,INFINITY CONNECT (PTY) LTD,13,2026-07-04T23:41:39.889Z,2026-10-03T23:58:26.160Z
+socks4,102.214.147.147,4153,socks4://102.214.147.147:4153,elite,true,4199,3205.5,51.9,50.8,825,102.214.145.1,1,za,Eastern Cape,Kruisfontein,Africa/Johannesburg,329124,True Technologies cc,13,2026-07-08T18:30:35.902Z,2026-10-03T23:57:04.984Z
+socks4,38.54.63.7,1080,socks4://38.54.63.7:1080,elite,false,2339,2381,35.5,38.4,751,38.54.63.7,1,za,Gauteng,Johannesburg,Africa/Johannesburg,154177,LIGHT NODE LIMITED,20,2026-08-10T05:22:45.494Z,2026-10-03T23:57:02.892Z

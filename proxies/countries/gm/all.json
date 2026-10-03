@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.213.223.46",
+    "port": 82,
+    "url": "http://102.213.223.46:82",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8343,
+    "latency_median_ms": 7284,
+    "uptime_24h": 10.5,
+    "uptime_7d": null,
+    "checks_7d": 48,
+    "exit_ip": "102.213.223.46",
+    "exit_shared": 1,
+    "country": "gm",
+    "region": "Western",
+    "city": "Brikama",
+    "timezone": "Africa/Banjul",
+    "asn": 329179,
+    "asn_org": "Sky Telecom Company Limited",
+    "sources_count": 13,
+    "first_seen": "2025-09-06T05:35:38.782Z",
+    "last_checked": "2026-10-03T23:58:02.463Z"
+  }
+]

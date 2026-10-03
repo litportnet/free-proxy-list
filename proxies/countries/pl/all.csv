@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,77.65.50.118,34159,socks4://77.65.50.118:34159,elite,true,1665,832.5,86.4,81.9,920,77.65.50.118,1,pl,Greater Poland,Poznań,Europe/Warsaw,13110,INEA sp. z o.o.,14,2025-09-05T00:23:10.617Z,2026-10-03T23:54:20.725Z
+http,89.36.160.2,3128,http://89.36.160.2:3128,elite,true,1890,1974.5,51.3,76.1,503,89.36.160.2,1,pl,Mazovia,Warsaw,Europe/Warsaw,56630,Melbikomas UAB,17,2026-09-29T21:33:38.008Z,2026-10-03T23:57:51.329Z
+socks4,185.32.4.110,4153,socks4://185.32.4.110:4153,elite,false,1668,1185,60.4,64.5,637,185.32.4.110,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,60645,AS Consulting Sp. z o. o.,13,2025-09-04T23:49:00.317Z,2026-10-03T23:50:54.659Z
+socks4,31.42.2.113,5678,socks4://31.42.2.113:5678,elite,true,3710,762,54.4,58.3,870,31.42.1.124,1,pl,Silesia,Częstochowa,Europe/Warsaw,49528,MARCIN MALOLEPSZY @ALFANET,14,2025-09-04T23:49:13.919Z,2026-10-03T23:56:26.549Z
+socks4,185.79.243.153,38431,socks4://185.79.243.153:38431,elite,false,739,1614.5,48.4,41.3,564,185.79.243.153,1,pl,Silesia,Myszków,Europe/Warsaw,206957,PHU Kario-Sat Sp. z o.o.,21,2025-09-04T23:48:54.979Z,2026-10-03T23:55:27.567Z
+socks4,212.244.235.217,4153,socks4://212.244.235.217:4153,elite,false,657,676,15.4,17.7,350,195.117.107.78,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,12,2025-09-04T23:49:06.366Z,2026-10-03T23:53:20.395Z

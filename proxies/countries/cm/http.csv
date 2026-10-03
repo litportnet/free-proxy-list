@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.244.78.61,8090,http://102.244.78.61:8090,elite,true,810,885.5,100,,22,102.244.78.57,1,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,13,2026-10-03T20:16:56.994Z,2026-10-03T23:51:57.752Z

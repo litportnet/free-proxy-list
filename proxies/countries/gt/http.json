@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "181.119.109.13",
+    "port": 999,
+    "url": "http://181.119.109.13:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 6128,
+    "latency_median_ms": 2292.5,
+    "uptime_24h": 13.3,
+    "uptime_7d": 11.3,
+    "checks_7d": 168,
+    "exit_ip": "181.119.109.13",
+    "exit_shared": 1,
+    "country": "gt",
+    "region": "Guatemala",
+    "city": "Guatemala City",
+    "timezone": "America/Guatemala",
+    "asn": 52468,
+    "asn_org": "UFINET PANAMA S.A.",
+    "sources_count": 21,
+    "first_seen": "2026-07-24T14:52:59.475Z",
+    "last_checked": "2026-10-03T23:52:55.987Z"
+  }
+]

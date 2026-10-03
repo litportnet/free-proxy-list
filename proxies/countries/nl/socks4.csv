@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,45.80.37.229,10801,socks4://45.80.37.229:10801,elite,true,643,971.5,89,89,136,45.80.37.229,3,nl,North Holland,Wormer,Europe/Amsterdam,210848,Telkom Internet LTD,12,2026-10-03T01:07:03.379Z,2026-10-03T23:55:25.478Z
+socks4,82.23.173.223,1080,socks4://82.23.173.223:1080,elite,true,4641,2623,83.5,82.3,373,82.23.173.223,2,nl,North Holland,Amsterdam,Europe/Amsterdam,57043,HOSTKEY B.V.,14,2026-10-01T07:51:47.002Z,2026-10-03T23:57:52.376Z
+socks4,83.166.247.254,10808,socks4://83.166.247.254:10808,elite,true,9077,3918.5,39.5,39.9,414,169.40.136.8,2,nl,North Holland,Amsterdam,Europe/Amsterdam,30058,FDCservers.net,20,2026-09-15T18:55:30.816Z,2026-10-03T23:56:22.359Z
+socks4,139.226.37.119,10808,socks4://139.226.37.119:10808,elite,true,3772,3841,69.1,,42,162.248.73.86,2,nl,North Holland,Amsterdam,Europe/Amsterdam,25820,IT7 Networks Inc,10,2026-10-03T14:13:54.947Z,2026-10-03T23:56:39.178Z

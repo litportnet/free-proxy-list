@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1783,2247,18.4,20.7,290,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,19,2026-07-05T18:51:25.380Z,2026-10-03T23:54:21.267Z

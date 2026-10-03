@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,27.54.121.90,1080,socks5://27.54.121.90:1080,elite,false,1516,4870,61,42.5,536,27.54.121.90,1,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,15,2026-09-25T06:35:19.677Z,2026-10-03T23:53:25.296Z
+socks5,137.59.195.198,1080,socks5://137.59.195.198:1080,elite,false,8701,1731.5,53.7,38.3,580,137.59.195.198,1,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,14,2026-09-24T05:22:04.695Z,2026-10-03T23:57:52.904Z
+socks5,203.99.54.238,1080,socks5://203.99.54.238:1080,elite,false,1879,4367.5,50.8,36.9,490,203.99.54.238,3,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,14,2026-09-27T13:04:02.524Z,2026-10-03T23:56:50.746Z

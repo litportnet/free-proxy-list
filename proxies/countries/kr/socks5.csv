@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,202.53.139.248,1080,socks5://202.53.139.248:1080,elite,true,2945,2163,94.3,92.8,613,202.53.139.248,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,15,2026-09-29T15:30:33.806Z,2026-10-03T23:57:10.235Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,false,3072,1289.5,84.6,78.7,934,121.169.46.116,1,kr,Gyeonggi-do,Osan,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-03T23:51:56.681Z
+socks5,45.74.31.42,8082,socks5://45.74.31.42:8082,elite,false,7259,6876,43.7,32,203,121.124.60.50,2,kr,Incheon,Incheon,Asia/Seoul,9318,SK Broadband Co Ltd,13,2026-08-22T17:20:58.962Z,2026-10-03T23:52:42.420Z
+socks5,45.74.31.40,4103,socks5://45.74.31.40:4103,elite,false,6996,5503.5,10,27.6,87,121.124.60.50,2,kr,Incheon,Incheon,Asia/Seoul,9318,SK Broadband Co Ltd,8,2026-09-27T00:57:35.256Z,2026-10-03T23:50:25.992Z

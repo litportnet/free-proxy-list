@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,45.71.115.17,1080,socks4://45.71.115.17:1080,elite,true,1485,1498,35.3,28,614,45.238.57.129,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,20,2026-08-29T03:42:44.739Z,2026-10-03T23:59:26.698Z

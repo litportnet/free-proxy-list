@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.123.212.87,3056,http://195.123.212.87:3056,transparent,false,6788,4075,22.7,20.3,335,195.123.212.87,1,lv,Riga,Riga,Europe/Riga,50979,ROUTE 95 LLC,25,2026-09-13T20:30:48.162Z,2026-10-03T23:51:32.797Z

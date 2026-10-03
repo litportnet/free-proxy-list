@@ -1,0 +1,52 @@
+name: Dead / bad proxy
+description: Report a proxy from this list that did not work for you (or that is yours and you want removed).
+title: "dead proxy: "
+labels: ["dead-proxy"]
+body:
+  - type: input
+    id: proxy
+    attributes:
+      label: Proxy (ip:port)
+      description: The exact ip:port from the list, e.g. 203.0.113.9:8080
+      placeholder: "203.0.113.9:8080"
+    validations:
+      required: true
+  - type: dropdown
+    id: protocol
+    attributes:
+      label: Protocol
+      options:
+        - http
+        - socks4
+        - socks5
+    validations:
+      required: true
+  - type: input
+    id: utc-time
+    attributes:
+      label: UTC time you tried it
+      placeholder: "2026-09-09 18:30 UTC"
+    validations:
+      required: true
+  - type: input
+    id: target-url
+    attributes:
+      label: Target URL you connected to through the proxy
+      placeholder: "https://example.com"
+    validations:
+      required: true
+  - type: textarea
+    id: result
+    attributes:
+      label: HTTP status or error you got
+      description: The response status code, or the exact error message/timeout from your client.
+      placeholder: "connection timed out after 10s / HTTP 403 / ..."
+    validations:
+      required: true
+  - type: checkboxes
+    id: mine
+    attributes:
+      label: Ownership
+      options:
+        - label: This IP is mine and I am requesting it be removed and excluded from future checks.
+          required: false

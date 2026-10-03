@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,89.36.160.2,3128,http://89.36.160.2:3128,elite,true,1890,1974.5,51.3,76.1,503,89.36.160.2,1,pl,Mazovia,Warsaw,Europe/Warsaw,56630,Melbikomas UAB,17,2026-09-29T21:33:38.008Z,2026-10-03T23:57:51.329Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "166.114.65.242",
+    "port": 8080,
+    "url": "http://166.114.65.242:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 9083,
+    "latency_median_ms": 4412.5,
+    "uptime_24h": 33.3,
+    "uptime_7d": 36.7,
+    "checks_7d": 128,
+    "exit_ip": "166.114.65.242",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "Santa Cruz Department",
+    "city": "Mineros",
+    "timezone": "America/La_Paz",
+    "asn": 6568,
+    "asn_org": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+    "sources_count": 16,
+    "first_seen": "2026-10-02T16:02:05.410Z",
+    "last_checked": "2026-10-03T23:51:45.244Z"
+  }
+]

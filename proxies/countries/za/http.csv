@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.208.228.90,8080,http://102.208.228.90:8080,elite,true,1067,1048,72.1,68.4,434,102.208.228.90,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328882,Sahdsoft Technologies CC,24,2026-09-12T23:19:39.441Z,2026-10-03T23:56:46.539Z
+http,102.208.228.90,3128,http://102.208.228.90:3128,elite,true,1167,1114.5,72.5,68.4,415,102.208.228.90,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328882,Sahdsoft Technologies CC,22,2026-09-13T02:21:10.616Z,2026-10-03T23:59:00.893Z
+http,105.22.37.218,8080,http://105.22.37.218:8080,transparent,true,4456,4015,12.5,19.2,291,105.22.37.218,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37100,SEACOM Limited,25,2026-05-24T04:53:34.741Z,2026-10-03T23:53:26.892Z
+http,154.117.154.194,8080,http://154.117.154.194:8080,elite,false,4155,4931,10.5,14.9,202,154.117.154.194,1,za,KwaZulu-Natal,Durban,Africa/Johannesburg,37358,BitCo,22,2025-09-06T05:35:55.382Z,2026-10-03T23:53:13.357Z
+http,156.155.35.149,8080,http://156.155.35.149:8080,transparent,true,1583,3107,12.5,12.5,56,156.155.35.149,1,za,Western Cape,Cape Town,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,11,2026-10-02T02:55:13.763Z,2026-10-03T23:57:35.020Z

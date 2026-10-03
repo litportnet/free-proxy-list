@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,496,500.5,99.3,93.8,950,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-03T23:58:29.357Z
+http,37.152.91.187,8080,http://37.152.91.187:8080,transparent,true,6693,4490.5,41.4,35.1,481,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",11,2026-06-04T12:15:03.830Z,2026-10-03T23:52:45.104Z
+http,81.0.49.104,20500,http://81.0.49.104:20500,transparent,false,4302,5153,29.3,19.5,416,81.0.49.104,2,es,Madrid,Madrid,Europe/Madrid,15704,XTRA TELECOM S.A.,25,2026-05-18T15:42:53.879Z,2026-10-03T23:51:53.445Z
+http,185.44.232.30,53281,http://185.44.232.30:53281,elite,false,7255,4644.5,10,9.5,168,185.44.232.30,1,es,Andalusia,Fuengirola,Europe/Madrid,200845,"AVATEL TELECOM, SA",18,2025-09-05T20:06:32.296Z,2026-10-03T23:57:41.327Z

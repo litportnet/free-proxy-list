@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1474,1427.5,97.9,99.1,993,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,20,2026-08-26T20:12:07.501Z,2026-10-03T23:52:40.734Z
+socks5,113.108.63.150,7890,socks5://113.108.63.150:7890,elite,true,2260,1915.5,98.6,98.3,352,14.154.158.106,3,cn,Guangdong,Shenzhen,Asia/Shanghai,4134,CHINANET BACKBONE,14,2026-10-01T12:54:18.184Z,2026-10-03T23:58:44.056Z
+socks5,111.206.4.163,18888,socks5://111.206.4.163:18888,elite,false,3943,3639.5,90.7,86.8,942,111.206.4.163,2,cn,Beijing,Beijing,Asia/Shanghai,4808,China Unicom Beijing Province Network,21,2026-09-01T23:31:29.665Z,2026-10-03T23:57:31.329Z
+socks5,180.141.88.241,9009,socks5://180.141.88.241:9009,elite,true,1397,1342,46.3,35.8,548,180.141.88.241,1,cn,Guangxi,Nanning,Asia/Shanghai,4134,CHINANET BACKBONE,20,2026-08-18T13:27:16.908Z,2026-10-03T23:52:40.741Z

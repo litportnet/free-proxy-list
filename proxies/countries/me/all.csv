@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.72.109.214,48293,socks4://109.72.109.214:48293,elite,false,1999,1854.5,57.3,54.5,765,109.72.109.214,1,me,Budva,Budva,Europe/Podgorica,43940,Drustvo za telekomunikacije MTEL DOO,12,2025-09-05T20:06:36.813Z,2026-10-03T23:57:42.362Z

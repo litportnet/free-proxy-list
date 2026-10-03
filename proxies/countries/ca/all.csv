@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,129,115,99.3,97,992,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-03T23:55:08.034Z
+http,38.29.32.240,3128,http://38.29.32.240:3128,transparent,false,186,176,88.1,83.4,917,38.29.32.240,1,ca,Ontario,Burlington,America/Toronto,32100,Xplore Inc.,11,2026-07-14T02:36:12.791Z,2026-10-03T23:53:38.802Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,245,1206,70.3,69.5,888,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-10-03T23:54:07.639Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,7552,863,63.7,61.6,800,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-03T23:51:19.113Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,8531,4735,56.3,53.7,758,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-03T23:55:01.972Z
+http,173.181.143.245,80,http://173.181.143.245:80,elite,false,1496,4698,52.8,48.2,660,173.181.143.245,1,ca,British Columbia,Vancouver,America/Vancouver,852,TELUS Communications Inc.,14,2025-09-09T19:49:52.324Z,2026-10-03T23:52:02.635Z
+http,198.27.98.123,999,http://198.27.98.123:999,transparent,false,4306,3867.5,44.7,41.2,177,198.27.98.123,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,18,2026-10-02T09:58:55.046Z,2026-10-03T23:52:48.422Z
+socks5,38.102.125.24,1080,socks5://38.102.125.24:1080,elite,false,264,199.5,39.3,,28,38.102.125.18,1,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,11,2026-09-12T00:07:49.346Z,2026-10-03T23:56:42.846Z

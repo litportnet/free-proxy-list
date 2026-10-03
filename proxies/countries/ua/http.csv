@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,6292,5079.5,43.7,43.4,772,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,17,2026-08-07T01:44:07.721Z,2026-10-03T23:56:59.685Z
+http,31.202.49.61,33761,http://31.202.49.61:33761,elite,false,4613,4107,20,18.4,348,31.202.49.61,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,34700,"MAXNET TELECOM, LTD",23,2026-05-18T15:43:30.574Z,2026-10-03T23:59:15.120Z

@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,217.142.236.180,1080,socks5://217.142.236.180:1080,elite,true,1100,965.5,87.9,96.6,956,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T06:00:28.613Z,2026-10-03T23:55:15.903Z
+socks5,101.36.104.239,10808,socks5://101.36.104.239:10808,elite,true,1172,920.5,86.7,91.4,974,101.36.104.239,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-21T08:09:48.039Z,2026-10-03T23:55:00.724Z
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,980,1367.5,93,89.9,969,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-10-03T23:51:15.325Z
+socks5,103.75.118.84,1080,socks5://103.75.118.84:1080,elite,true,1100,1124.5,87.3,86.4,581,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",17,2026-02-28T05:40:22.467Z,2026-10-03T23:57:00.211Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,3525,2809.5,77.5,77.5,840,135.136.55.73,1,jp,Tokyo,Ebara,Asia/Tokyo,9009,M247 Europe SRL,17,2026-09-21T21:11:29.587Z,2026-10-03T23:52:50.620Z
+socks5,43.246.198.172,1080,socks5://43.246.198.172:1080,elite,true,2058,2647.5,40.2,36.5,332,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-09-29T05:25:15.553Z,2026-10-03T23:53:42.084Z

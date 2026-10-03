@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "186.246.14.108",
+    "port": 9151,
+    "url": "socks4://186.246.14.108:9151",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3484,
+    "latency_median_ms": 5939.5,
+    "uptime_24h": 17.7,
+    "uptime_7d": 15,
+    "checks_7d": 153,
+    "exit_ip": "107.189.14.4",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Zurich",
+    "city": "Zürich",
+    "timezone": "Europe/Zurich",
+    "asn": 53667,
+    "asn_org": "FranTech Solutions",
+    "sources_count": 21,
+    "first_seen": "2026-07-21T02:11:43.254Z",
+    "last_checked": "2026-10-03T23:57:03.419Z"
+  }
+]

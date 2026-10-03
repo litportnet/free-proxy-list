@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.232.170.87,10808,socks4://185.232.170.87:10808,elite,false,3398,6693,90.7,89.7,203,185.232.170.87,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200740,FIRST SERVER LIMITED,15,2026-10-02T13:00:39.213Z,2026-10-03T23:51:33.906Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,717,734.5,75.5,74.6,900,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-10-03T23:57:48.169Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,false,3832,3260.5,62,67.5,893,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.811Z,2026-10-03T23:57:57.130Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,1923,1878,60.6,55.3,797,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-10-03T23:51:59.924Z
+socks4,85.187.5.66,48293,socks4://85.187.5.66:48293,elite,true,1900,3462,35.2,40.5,703,85.187.5.66,1,bg,Silistra,Sitovo,Europe/Sofia,49147,ET ASNET - Altan Halim,12,2026-05-06T23:12:12.223Z,2026-10-03T23:53:33.380Z

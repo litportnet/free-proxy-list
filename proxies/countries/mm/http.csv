@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,true,1080,3886,43,45.7,763,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-10-03T23:55:22.828Z
+http,185.205.142.142,8080,http://185.205.142.142:8080,transparent,true,1213,3021,31.8,40.2,671,185.205.142.142,1,mm,Yangon,Yangon,Asia/Yangon,134739,"AGB Communication Co., Ltd",11,2025-09-25T11:48:21.869Z,2026-10-03T23:58:57.695Z
+http,103.153.202.201,8181,http://103.153.202.201:8181,transparent,true,2394,2490.5,17.9,20.6,427,103.148.104.10,1,mm,Shan State,Tangyan,Asia/Yangon,140091,SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED,17,2026-09-24T19:29:33.678Z,2026-10-03T23:58:40.936Z

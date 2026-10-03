@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,2807,3633.5,100,99.7,310,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",18,2026-10-01T19:58:11.770Z,2026-10-03T23:58:38.811Z
+http,57.129.134.10,8082,http://57.129.134.10:8082,elite,true,436,437.5,92.3,93.6,173,57.129.134.10,2,gb,England,Bexley,Europe/London,16276,OVH SAS,12,2026-07-21T18:16:22.211Z,2026-10-03T23:50:13.525Z
+http,213.171.212.110,8080,http://213.171.212.110:8080,elite,true,438,473,58.7,32.1,159,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,18,2026-09-15T07:49:20.472Z,2026-10-03T23:57:02.886Z

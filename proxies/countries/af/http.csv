@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,116.206.188.190,5050,http://116.206.188.190:5050,transparent,false,1891,4159.5,23.7,31.3,96,116.206.188.190,1,af,Sar-e Pol Province,Sar-e Pul,Asia/Kabul,45178,ROSHAN,15,2026-10-02T16:02:05.410Z,2026-10-03T23:53:16.593Z

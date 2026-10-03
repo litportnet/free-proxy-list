@@ -1,0 +1,12 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.46,4372,socks5://45.74.31.46:4372,elite,false,2442,2269,52.1,50.7,73,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,10,2026-10-02T03:55:50.014Z,2026-10-03T23:52:03.162Z
+socks5,45.74.31.40,7833,socks5://45.74.31.40:7833,elite,true,4363,2368.5,38.7,38.9,162,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,11,2026-10-02T09:58:54.228Z,2026-10-03T23:56:25.485Z
+socks5,45.74.31.47,4847,socks5://45.74.31.47:4847,elite,true,4699,4074.5,32.4,36.2,199,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,12,2026-10-01T00:47:56.958Z,2026-10-03T23:50:11.370Z
+socks5,45.74.31.46,4452,socks5://45.74.31.46:4452,elite,false,1025,1134.5,31,30.7,124,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,11,2026-10-02T04:56:21.445Z,2026-10-03T23:54:16.398Z
+socks5,45.74.31.50,5034,socks5://45.74.31.50:5034,elite,false,6114,3864.5,22.9,29.7,145,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,12,2026-10-01T00:47:56.958Z,2026-10-03T23:55:47.058Z
+socks5,45.74.31.47,4124,socks5://45.74.31.47:4124,elite,true,4191,3976,17.5,28,182,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,13,2026-09-28T16:18:14.779Z,2026-10-03T23:51:55.627Z
+socks5,45.74.31.25,5209,socks5://45.74.31.25:5209,elite,false,3639,3448,26.9,22.8,101,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,13,2026-10-01T00:47:56.958Z,2026-10-03T23:58:23.548Z
+socks5,45.74.31.42,7085,socks5://45.74.31.42:7085,elite,true,1929,3373.5,27.9,19.1,152,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,16,2026-09-19T22:47:00.742Z,2026-10-03T23:49:45.727Z
+socks5,45.74.31.41,43005,socks5://45.74.31.41:43005,elite,true,2007,3314.5,37.2,19.1,183,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,13,2026-09-25T19:42:13.483Z,2026-10-03T23:58:44.058Z
+socks5,45.74.31.42,7193,socks5://45.74.31.42:7193,elite,true,1370,2940,18.2,7,71,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,9,2026-09-24T13:26:19.283Z,2026-10-03T23:53:54.539Z
+socks5,45.74.31.30,7088,socks5://45.74.31.30:7088,elite,true,1827,6245,12.5,6.5,123,78.128.76.254,11,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,15,2026-09-12T10:12:45.605Z,2026-10-03T23:56:08.139Z

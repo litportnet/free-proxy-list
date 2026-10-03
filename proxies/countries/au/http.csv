@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,766,749.5,100,54.2,456,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-03T23:53:06.276Z
+http,51.161.131.235,8080,http://51.161.131.235:8080,elite,false,804,863,58.6,48,571,51.161.131.235,1,au,New South Wales,Sydney,Australia/Sydney,16276,OVH SAS,4,2025-11-09T09:42:56.998Z,2026-10-03T23:55:19.733Z
+http,61.29.96.146,80,http://61.29.96.146:80,anonymous,true,7764,5471,27.7,22.7,484,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-08T23:11:07.370Z,2026-10-03T23:52:28.774Z

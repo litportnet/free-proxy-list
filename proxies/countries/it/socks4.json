@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "212.43.119.1",
+    "port": 1080,
+    "url": "socks4://212.43.119.1:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1783,
+    "latency_median_ms": 2247,
+    "uptime_24h": 18.4,
+    "uptime_7d": 20.7,
+    "checks_7d": 290,
+    "exit_ip": "212.43.119.1",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Abruzzo",
+    "city": "Pescara",
+    "timezone": "Europe/Rome",
+    "asn": 21034,
+    "asn_org": "Micso Information Technology Srl",
+    "sources_count": 19,
+    "first_seen": "2026-07-05T18:51:25.380Z",
+    "last_checked": "2026-10-03T23:54:21.267Z"
+  }
+]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,62.210.189.192,10919,http://62.210.189.192:10919,elite,false,4078,6387.5,11.4,12.2,148,154.249.246.41,1,dz,Bordj Bou Arréridj,Bordj Bou Arreridj,Africa/Algiers,36947,Telecom Algeria,9,2026-09-26T13:51:50.026Z,2026-10-03T23:59:05.647Z

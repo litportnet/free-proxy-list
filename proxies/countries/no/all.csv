@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,176.126.70.111,16379,socks4://176.126.70.111:16379,elite,true,7390,8558,39.5,45.1,437,185.243.218.231,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,10,2025-09-04T23:48:59.818Z,2026-10-03T23:58:45.631Z

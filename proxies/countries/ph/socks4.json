@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "161.49.100.131",
+    "port": 1080,
+    "url": "socks4://161.49.100.131:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8439,
+    "latency_median_ms": 1742,
+    "uptime_24h": 73,
+    "uptime_7d": 61,
+    "checks_7d": 803,
+    "exit_ip": "161.49.100.131",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "Calabarzon",
+    "city": "Polillo",
+    "timezone": "Asia/Manila",
+    "asn": 17639,
+    "asn_org": "Converge ICT Solutions Inc.",
+    "sources_count": 15,
+    "first_seen": "2025-09-04T23:49:11.913Z",
+    "last_checked": "2026-10-03T23:51:09.860Z"
+  }
+]

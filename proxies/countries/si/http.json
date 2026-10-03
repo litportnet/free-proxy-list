@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "109.127.199.125",
+    "port": 9999,
+    "url": "http://109.127.199.125:9999",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5078,
+    "latency_median_ms": 2424.5,
+    "uptime_24h": 66.7,
+    "uptime_7d": 22.8,
+    "checks_7d": 92,
+    "exit_ip": "153.5.82.6",
+    "exit_shared": 1,
+    "country": "si",
+    "region": "Municipality of Ig",
+    "city": "Ig",
+    "timezone": "Europe/Ljubljana",
+    "asn": 2107,
+    "asn_org": "ARNES",
+    "sources_count": 15,
+    "first_seen": "2026-09-28T19:20:02.824Z",
+    "last_checked": "2026-10-03T23:54:37.968Z"
+  }
+]

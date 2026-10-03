@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,85.155.228.112,3128,http://85.155.228.112:3128,elite,true,4637,2373.5,74.3,69.8,212,85.155.228.112,1,al,Tirana,Tirana,Europe/Tirane,210464,AVS ISP,19,2026-10-02T09:58:55.046Z,2026-10-03T23:53:24.204Z

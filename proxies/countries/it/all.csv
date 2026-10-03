@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,4121,1626,97.9,98.1,639,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,14,2026-06-29T15:31:05.719Z,2026-10-03T23:53:12.812Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,477,500,65.3,67.1,800,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-03T23:50:54.655Z
+socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,false,4071,846.5,58.6,56.2,552,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-03T23:55:00.710Z
+http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,8868,1751.5,42.5,39.4,513,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,7,2026-06-21T15:51:42.528Z,2026-10-03T23:55:35.981Z
+socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1783,2247,18.4,20.7,290,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,19,2026-07-05T18:51:25.380Z,2026-10-03T23:54:21.267Z

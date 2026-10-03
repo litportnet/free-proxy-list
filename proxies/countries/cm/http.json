@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.244.78.61",
+    "port": 8090,
+    "url": "http://102.244.78.61:8090",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 810,
+    "latency_median_ms": 885.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 22,
+    "exit_ip": "102.244.78.57",
+    "exit_shared": 1,
+    "country": "cm",
+    "region": "North",
+    "city": "Garoua",
+    "timezone": "Africa/Douala",
+    "asn": 36912,
+    "asn_org": "Orange Cameroun SA",
+    "sources_count": 13,
+    "first_seen": "2026-10-03T20:16:56.994Z",
+    "last_checked": "2026-10-03T23:51:57.752Z"
+  }
+]

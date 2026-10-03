@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.209.57.199,80,http://41.209.57.199:80,transparent,false,985,1738.5,26.9,25,465,41.209.57.199,1,ke,Nairobi County,Nairobi,Africa/Nairobi,9129,MTN SA,17,2026-07-08T19:28:17.341Z,2026-10-03T23:57:57.668Z
+http,102.203.101.169,8080,http://102.203.101.169:8080,transparent,false,4126,3273.5,16.2,24,442,102.203.101.169,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329497,Avitech Solutions LTD,17,2026-08-29T05:44:06.660Z,2026-10-03T23:53:34.469Z
+http,102.0.21.22,8080,http://102.0.21.22:8080,transparent,true,1197,3525,21.2,21.2,288,102.0.21.22,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,14,2026-04-20T00:45:46.992Z,2026-10-03T23:55:16.515Z
+http,102.220.13.208,8080,http://102.220.13.208:8080,anonymous,false,2734,4709.5,18,16,301,102.220.13.208,1,ke,Kiambu County,Ruiru,Africa/Nairobi,328858,Express Data Networks Limited,18,2025-09-10T21:05:10.602Z,2026-10-03T23:57:04.988Z
+http,41.139.202.23,8080,http://41.139.202.23:8080,transparent,true,4784,4852,9.1,11.3,62,41.139.202.23,1,ke,Nairobi County,Nairobi,Africa/Nairobi,37061,Safaricom Limited,11,2026-08-27T11:21:51.252Z,2026-10-03T23:56:51.820Z

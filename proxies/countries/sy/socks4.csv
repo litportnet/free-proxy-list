@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,205.209.66.105,1080,socks4://205.209.66.105:1080,elite,false,853,864,57.7,55.6,692,205.209.66.79,1,sy,Al-Hasakah,Al Ḩasakah,Asia/Damascus,214707,RCell LLC,20,2026-07-04T16:35:37.796Z,2026-10-03T23:52:52.249Z

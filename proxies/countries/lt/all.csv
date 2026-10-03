@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,213.197.136.218,5678,socks4://213.197.136.218:5678,elite,false,642,678.5,85.1,72.2,861,213.197.136.218,1,lt,Vilnius,Vilnius,Europe/Vilnius,15440,UAB Baltnetos komunikacijos,14,2025-09-04T23:49:00.045Z,2026-10-03T23:52:02.625Z

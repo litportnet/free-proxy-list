@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.127.199.125,9999,http://109.127.199.125:9999,elite,false,5078,2424.5,66.7,22.8,92,153.5.82.6,1,si,Municipality of Ig,Ig,Europe/Ljubljana,2107,ARNES,15,2026-09-28T19:20:02.824Z,2026-10-03T23:54:37.968Z

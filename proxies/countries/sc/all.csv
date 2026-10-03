@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,197.234.4.46,8921,http://197.234.4.46:8921,transparent,true,7927,6370.5,27.5,31.1,135,197.234.4.46,1,sc,La Rivière Anglaise,Victoria,Indian/Mahe,36902,Intelvision Ltd,17,2026-10-02T16:02:05.410Z,2026-10-03T23:52:29.322Z

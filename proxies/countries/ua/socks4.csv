@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,194.31.212.115,1080,socks4://194.31.212.115:1080,elite,true,1711,697,63.5,65.1,813,194.31.212.115,1,ua,Kyiv Oblast,Irpin,Europe/Kyiv,209548,IrpenComunikaciaService LLC,13,2026-07-08T07:24:08.963Z,2026-10-03T23:51:56.153Z
+socks4,185.132.1.221,4145,socks4://185.132.1.221:4145,elite,false,683,706,68.6,59.4,839,185.132.1.221,1,ua,Odesa,Odesa,Europe/Kyiv,203447,Miratel Ltd,22,2025-09-04T23:48:58.354Z,2026-10-03T23:54:45.578Z
+socks4,195.78.100.162,3629,socks4://195.78.100.162:3629,elite,false,7939,3742,55.4,51.3,776,195.78.100.162,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,50772,"Ukrtranstelecom tc, ltd",1,2026-03-17T17:23:29.879Z,2026-10-03T23:51:19.117Z
+socks4,80.92.227.185,5678,socks4://80.92.227.185:5678,elite,false,712,1315.5,49.3,47.7,722,80.92.227.185,1,ua,Kyiv City,Kyiv,Europe/Kyiv,1820,WNET TELECOM USA Corp.,22,2025-09-04T23:49:03.882Z,2026-10-03T23:54:47.762Z
+socks4,195.225.49.137,55774,socks4://195.225.49.137:55774,elite,true,736,1790.5,48.4,41.3,729,195.225.49.132,1,ua,Kyiv City,Kyiv,Europe/Kyiv,51357,"LLC ""SMARTCOM""",12,2025-09-04T23:49:02.929Z,2026-10-03T23:57:43.967Z
+socks4,193.200.151.69,32777,socks4://193.200.151.69:32777,elite,true,1108,1625.5,42.9,39.2,630,193.200.151.69,1,ua,Odesa,Rozdilna,Europe/Kyiv,42905,LIMANET Ltd.,12,2025-09-05T00:23:08.492Z,2026-10-03T23:54:07.095Z

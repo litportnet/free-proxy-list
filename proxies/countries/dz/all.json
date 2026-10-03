@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "62.210.189.192",
+    "port": 10919,
+    "url": "http://62.210.189.192:10919",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4078,
+    "latency_median_ms": 6387.5,
+    "uptime_24h": 11.4,
+    "uptime_7d": 12.2,
+    "checks_7d": 148,
+    "exit_ip": "154.249.246.41",
+    "exit_shared": 1,
+    "country": "dz",
+    "region": "Bordj Bou Arréridj",
+    "city": "Bordj Bou Arreridj",
+    "timezone": "Africa/Algiers",
+    "asn": 36947,
+    "asn_org": "Telecom Algeria",
+    "sources_count": 9,
+    "first_seen": "2026-09-26T13:51:50.026Z",
+    "last_checked": "2026-10-03T23:59:05.647Z"
+  }
+]

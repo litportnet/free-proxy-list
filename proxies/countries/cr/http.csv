@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,190.7.214.134,8080,http://190.7.214.134:8080,transparent,true,3127,4077,21.4,24.4,406,190.7.214.134,1,cr,San José,San José,America/Costa_Rica,27876,American Data Networks,24,2026-09-10T22:54:11.229Z,2026-10-03T23:52:48.453Z

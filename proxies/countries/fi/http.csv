@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,65.109.218.174,8443,http://65.109.218.174:8443,elite,true,575,560.5,100,100,107,65.109.218.174,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,15,2026-10-03T06:09:34.799Z,2026-10-03T23:48:45.739Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,559,559,100,99.9,1001,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-03T23:49:12.047Z
+http,65.109.215.187,8090,http://65.109.215.187:8090,elite,true,7619,7108.5,90.8,94.7,303,65.109.215.187,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2026-10-01T20:52:08.963Z,2026-10-03T23:56:04.981Z
+http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,1047,1640.5,95.7,89.8,938,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,23,2026-08-25T00:50:34.299Z,2026-10-03T23:49:39.748Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,569,552.5,88.1,87.7,974,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-03T23:50:12.443Z
+http,151.241.221.165,8888,http://151.241.221.165:8888,elite,true,593,601,46.6,50.3,356,151.241.221.165,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,18,2026-10-01T03:49:32.835Z,2026-10-03T23:53:56.206Z
+http,65.21.201.149,8081,http://65.21.201.149:8081,elite,false,1568,1569,28.4,44.5,699,104.28.222.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",25,2026-09-14T03:34:29.689Z,2026-10-03T23:58:18.814Z
+http,65.109.219.108,2000,http://65.109.219.108:2000,elite,true,1123,1238,100,,47,65.109.219.108,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,15,2026-10-03T16:14:49.283Z,2026-10-03T23:53:13.899Z

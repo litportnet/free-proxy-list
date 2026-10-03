@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "195.123.212.87",
+    "port": 3056,
+    "url": "http://195.123.212.87:3056",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 6788,
+    "latency_median_ms": 4075,
+    "uptime_24h": 22.7,
+    "uptime_7d": 20.3,
+    "checks_7d": 335,
+    "exit_ip": "195.123.212.87",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 50979,
+    "asn_org": "ROUTE 95 LLC",
+    "sources_count": 25,
+    "first_seen": "2026-09-13T20:30:48.162Z",
+    "last_checked": "2026-10-03T23:51:32.797Z"
+  }
+]

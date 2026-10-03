@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,1342,2214,97.2,94.3,960,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-03T23:58:10.856Z
+socks4,185.112.83.80,1080,socks4://185.112.83.80:1080,elite,true,896,889.5,87.3,92.1,873,185.112.83.80,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,15,2026-09-27T18:06:40.424Z,2026-10-03T23:54:56.379Z
+socks4,78.17.187.19,10800,socks4://78.17.187.19:10800,elite,true,573,3183,66.7,,15,78.17.187.19,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207003,Web1 Oy,6,2026-10-03T21:17:27.614Z,2026-10-03T23:51:28.973Z
