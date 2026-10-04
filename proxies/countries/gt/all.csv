@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,true,7691,1122.5,71.5,62.6,805,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,12,2026-05-31T05:22:35.276Z,2026-10-03T04:23:17.847Z
-socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,true,1423,3439.5,53.4,53.6,816,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,21,2026-08-08T18:05:33.990Z,2026-10-03T04:30:10.868Z
-http,45.228.233.78,999,http://45.228.233.78:999,transparent,true,860,3549.5,19.2,22.5,392,45.228.233.78,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,15,2025-12-09T22:18:25.098Z,2026-10-03T04:24:24.095Z
-http,181.119.103.237,999,http://181.119.103.237:999,transparent,false,4007,2224,23.3,21.6,464,181.119.103.237,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:32.308Z,2026-10-03T04:30:56.977Z
+socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,true,560,517,71.4,60.2,788,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,12,2026-05-31T05:22:35.276Z,2026-10-04T04:28:57.067Z
+socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,true,414,475.5,60.5,52.7,822,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,21,2026-08-08T18:05:33.990Z,2026-10-04T04:32:48.423Z

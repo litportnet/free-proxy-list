@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,932,938,63.6,71.6,856,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-03T04:23:12.963Z
-http,41.184.188.20,8082,http://41.184.188.20:8082,transparent,true,4075,2931,23.1,27.8,144,41.184.188.20,1,ng,Lagos,Lagos,Africa/Lagos,29091,ipNX Nigeria Limited,19,2026-10-01T05:50:59.821Z,2026-10-03T04:29:13.242Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,999,907.5,78.6,73.9,896,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-04T04:25:17.333Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,812,813.5,63.3,54.9,810,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-04T04:26:01.809Z
+http,102.212.104.129,8082,http://102.212.104.129:8082,transparent,true,6672,1928.5,32.4,27.7,274,102.212.104.33,1,ng,Lagos,Lagos,Africa/Lagos,329236,Teltwine Networks Limited,24,2026-09-17T03:30:44.651Z,2026-10-04T04:30:33.299Z

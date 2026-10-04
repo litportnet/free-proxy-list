@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,36.37.155.160,8080,http://36.37.155.160:8080,transparent,false,4307,3640,13.8,18.8,304,36.37.155.160,1,kh,Siem Reap,Siem Reap,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,13,2025-09-08T04:28:18.151Z,2026-10-03T04:29:57.571Z
+http,103.216.48.124,8080,http://103.216.48.124:8080,transparent,false,4194,3743.5,32.3,32.9,526,103.216.48.124,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",15,2025-09-05T20:06:35.344Z,2026-10-04T04:27:47.984Z
+http,102.165.58.199,8080,http://102.165.58.199:8080,transparent,true,1002,2364,27.3,27.3,55,102.165.58.199,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",13,2026-10-03T05:09:05.961Z,2026-10-04T04:30:53.372Z
+http,103.11.218.223,8787,http://103.11.218.223:8787,elite,false,1714,5959,32.8,21,348,103.11.218.223,1,kh,Banteay Meanchey,Paoy Paet,Asia/Phnom_Penh,132080,"M.A.T Co., Ltd.",20,2026-09-27T02:58:41.939Z,2026-10-04T04:28:35.095Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,80.78.78.106,65530,socks4://80.78.78.106:65530,elite,true,3739,1751,71.9,58.4,827,80.78.78.106,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,13,2025-09-05T20:06:27.738Z,2026-10-03T04:25:18.623Z
-http,185.196.182.22,8080,http://185.196.182.22:8080,transparent,false,2901,4332,17.5,34.1,630,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,26,2026-03-03T22:27:34.847Z,2026-10-03T04:26:52.029Z
+http,85.155.228.112,3128,http://85.155.228.112:3128,elite,true,1657,1482.5,74.5,72.4,239,85.155.228.112,1,al,Tirana,Tirana,Europe/Tirane,210464,AVS ISP,19,2026-10-02T09:58:55.046Z,2026-10-04T04:28:36.674Z
+socks4,37.26.86.206,4145,socks4://37.26.86.206:4145,elite,true,707,704.5,47.2,61.8,822,37.26.86.206,1,al,Elbasan County,Elbasan,Europe/Tirane,198279,Albanian Telecommunications Union SH. P.K.,13,2025-09-04T23:02:23.648Z,2026-10-04T04:26:30.912Z
+http,77.242.21.133,8080,http://77.242.21.133:8080,transparent,true,2193,4889.5,12.9,10.3,204,77.242.21.133,1,al,Elbasan County,Cërrik,Europe/Tirane,35047,Abissnet sh.a.,23,2025-09-05T20:06:31.953Z,2026-10-04T04:32:57.397Z

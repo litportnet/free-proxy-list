@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,92.223.2.95,8888,http://92.223.2.95:8888,transparent,false,2442,3158,50,48.4,372,92.223.2.95,1,am,Yerevan,Yerevan,Asia/Yerevan,202422,G-Core Labs S.A.,14,2026-06-03T23:11:38.340Z,2026-10-03T04:27:13.161Z
+http,88.218.92.64,3128,http://88.218.92.64:3128,transparent,false,5838,4215,50.7,41.8,347,88.218.92.64,1,am,Yerevan,Yerevan,Asia/Yerevan,196709,GNC-Alfa CJSC,18,2026-09-29T13:29:17.383Z,2026-10-04T04:27:10.897Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.59.197.62,3128,socks5://66.59.197.62:3128,elite,false,1032,926,50,47.2,765,187.15.121.67,1,tw,Taiwan,Taipei,Asia/Taipei,147049,PacketHub S.A.,18,2026-08-10T07:23:26.060Z,2026-10-03T04:23:20.046Z
-socks5,202.181.24.102,10828,socks5://202.181.24.102:10828,elite,false,12823,6259,30.8,40.1,187,1.162.190.41,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,15,2026-09-28T05:12:30.822Z,2026-10-03T04:24:45.289Z
+socks5,106.12.29.154,6000,socks5://106.12.29.154:6000,elite,true,1706,1536.5,100,,2,211.75.210.22,1,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,1,2026-10-04T04:21:14.791Z,2026-10-04T04:32:17.138Z

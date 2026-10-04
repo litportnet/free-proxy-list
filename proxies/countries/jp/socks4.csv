@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,975,956.5,95.2,91.5,587,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-10-03T04:31:17.387Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,1813,1780,73.1,69.4,865,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-03T04:23:15.707Z
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,788,791.5,96.5,95.8,976,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-04T04:30:20.600Z
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,944,951.5,95.8,91.4,590,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-10-04T04:28:03.760Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,1788,1260,46.5,66.2,847,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-04T04:30:54.451Z
+socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,2048,4439.5,36.9,36.7,278,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,14,2026-09-29T06:26:06.378Z,2026-10-04T04:27:00.375Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,929,858,34,33.2,683,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-03-19T19:50:21.621Z,2026-10-04T04:25:32.944Z
+socks4,64.176.59.111,8080,socks4://64.176.59.111:8080,elite,true,961,961,100,,1,104.28.206.119,1,jp,Osaka,Osaka,Asia/Tokyo,13335,"Cloudflare, Inc.",7,2026-10-04T04:21:14.317Z,2026-10-04T04:22:38.860Z

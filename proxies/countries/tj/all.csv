@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,46.20.207.166,9145,http://46.20.207.166:9145,transparent,false,5948,3531,33.3,33.3,60,46.20.207.166,1,tj,Dushanbe,Dushanbe,Asia/Dushanbe,24722,Babilon,15,2026-10-02T16:02:05.410Z,2026-10-03T04:26:42.554Z

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,false,2015,2005.5,46.2,52.2,163,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,15,2026-10-01T22:53:09.008Z,2026-10-03T04:24:47.445Z
-http,165.101.26.18,8080,http://165.101.26.18:8080,transparent,true,1187,2020,37.5,38.1,533,165.101.26.18,1,af,Nangarhar,Jalālābād,Asia/Kabul,151081,ARYAN DUNYA ICT,22,2026-09-05T17:03:45.404Z,2026-10-03T04:23:52.892Z
-http,103.151.88.213,8080,http://103.151.88.213:8080,transparent,false,1899,2623,9.1,10.8,203,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,9,2026-08-29T22:53:22.195Z,2026-10-03T04:29:27.685Z
+http,116.206.188.190,5050,http://116.206.188.190:5050,transparent,false,4984,4584.5,26.3,32.7,113,116.206.188.190,1,af,Sar-e Pol Province,Sar-e Pul,Asia/Kabul,45178,ROSHAN,16,2026-10-02T16:02:05.410Z,2026-10-04T04:24:34.234Z

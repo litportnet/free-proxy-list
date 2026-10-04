@@ -6,11 +6,11 @@
     "url": "socks5://171.25.158.95:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 898,
-    "latency_median_ms": 1118,
-    "uptime_24h": 97.2,
-    "uptime_7d": 98.9,
-    "checks_7d": 1001,
+    "latency_ms": 1324,
+    "latency_median_ms": 1212.5,
+    "uptime_24h": 96.5,
+    "uptime_7d": 98.4,
+    "checks_7d": 1000,
     "exit_ip": "171.25.158.95",
     "exit_shared": 1,
     "country": "se",
@@ -21,6 +21,6 @@
     "asn_org": "Patrik Lagerman",
     "sources_count": 19,
     "first_seen": "2026-05-02T10:06:59.800Z",
-    "last_checked": "2026-10-03T04:25:56.012Z"
+    "last_checked": "2026-10-04T04:30:59.778Z"
   }
 ]

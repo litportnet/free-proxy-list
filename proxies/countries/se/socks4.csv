@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.202.233.30,1081,socks4://91.202.233.30:1081,elite,true,5555,5555,100,,3,70.34.195.188,1,se,Stockholm,Stockholm,Europe/Stockholm,20473,"The Constant Company, LLC",4,2026-10-03T04:08:32.071Z,2026-10-03T04:29:49.014Z
+socks4,79.76.59.115,1080,socks4://79.76.59.115:1080,elite,true,3663,1206,54,44.5,605,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:56:51.407Z,2026-10-04T04:27:54.284Z

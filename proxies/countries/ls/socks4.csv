@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,154.66.108.52,3629,socks4://154.66.108.52:3629,elite,false,2304,3298,56.5,55,768,154.66.108.52,1,ls,Maseru District,Maseru,Africa/Maseru,37642,Comnet Pty Ltd,13,2025-09-04T23:49:05.716Z,2026-10-03T04:29:49.020Z
+socks4,154.66.108.52,3629,socks4://154.66.108.52:3629,elite,true,4388,1313,61.5,55.7,803,154.66.108.52,1,ls,Maseru District,Maseru,Africa/Maseru,37642,Comnet Pty Ltd,13,2025-09-04T23:49:05.716Z,2026-10-04T04:24:40.089Z

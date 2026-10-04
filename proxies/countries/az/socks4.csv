@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.43.189.253,3629,socks4://185.43.189.253:3629,elite,false,941,1937,24.7,23.1,376,185.43.189.253,1,az,Gǝncǝ,Ganja,Asia/Baku,201167,Caspian Telecom LLC,21,2026-04-17T19:00:26.783Z,2026-10-03T04:23:19.492Z

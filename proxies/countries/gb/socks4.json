@@ -6,11 +6,11 @@
     "url": "socks4://185.73.39.118:9999",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1026,
-    "latency_median_ms": 411,
-    "uptime_24h": 99.3,
-    "uptime_7d": 99.5,
-    "checks_7d": 190,
+    "latency_ms": 2173,
+    "latency_median_ms": 1594,
+    "uptime_24h": 100,
+    "uptime_7d": 99.7,
+    "checks_7d": 334,
     "exit_ip": "185.73.39.118",
     "exit_shared": 3,
     "country": "gb",
@@ -21,7 +21,7 @@
     "asn_org": "Atlantic.net, Inc.",
     "sources_count": 14,
     "first_seen": "2026-10-01T20:52:16.328Z",
-    "last_checked": "2026-10-03T04:27:52.280Z"
+    "last_checked": "2026-10-04T04:30:02.138Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://157.180.24.140:11111",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 642,
-    "latency_median_ms": 632,
-    "uptime_24h": 100,
-    "uptime_7d": null,
-    "checks_7d": 33,
+    "latency_ms": 640,
+    "latency_median_ms": 638,
+    "uptime_24h": 97.2,
+    "uptime_7d": 97.7,
+    "checks_7d": 176,
     "exit_ip": "141.98.252.210",
     "exit_shared": 2,
     "country": "gb",
@@ -43,8 +43,8 @@
     "timezone": "Europe/London",
     "asn": 39351,
     "asn_org": "31173 Services AB",
-    "sources_count": 12,
+    "sources_count": 14,
     "first_seen": "2026-10-02T23:05:56.464Z",
-    "last_checked": "2026-10-03T04:26:46.239Z"
+    "last_checked": "2026-10-04T04:23:56.907Z"
   }
 ]

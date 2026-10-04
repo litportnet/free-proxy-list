@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,1512,1186,91.4,80,813,194.127.199.83,1,no,Oslo,Oslo,Europe/Oslo,50304,Blix Solutions AS,18,2026-09-20T18:57:39.355Z,2026-10-03T04:25:17.039Z
+socks5,49.13.87.123,1207,socks5://49.13.87.123:1207,elite,true,792,827,68.7,68.7,67,31.169.53.70,1,no,Oslo,Oslo,Europe/Oslo,50304,Blix Solutions AS,10,2026-10-03T16:14:53.937Z,2026-10-04T04:26:03.401Z

@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,5112,socks5://45.74.31.47:5112,elite,true,1547,1537,20,20.2,84,63.32.62.8,1,ie,Leinster,Dublin,Europe/Dublin,16509,"Amazon.com, Inc.",9,2026-10-01T04:50:03.791Z,2026-10-03T04:23:05.324Z
+socks5,49.13.22.249,10812,socks5://49.13.22.249:10812,elite,true,4778,4325,65.6,57.7,704,77.81.139.66,1,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,20,2026-09-16T03:18:19.836Z,2026-10-04T04:29:30.293Z
+socks5,45.74.31.41,20365,socks5://45.74.31.41:20365,elite,false,9018,4710.5,30,21.8,193,135.236.141.8,4,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,17,2026-09-13T07:24:08.132Z,2026-10-04T04:25:31.831Z
+socks5,45.74.31.22,5491,socks5://45.74.31.22:5491,elite,true,1189,1234.5,100,,2,135.236.141.8,4,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,1,2026-10-04T04:21:17.341Z,2026-10-04T04:32:20.886Z
+socks5,45.74.31.46,9796,socks5://45.74.31.46:9796,elite,true,1700,3624,36.4,,33,135.236.141.8,4,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,2,2026-10-02T03:55:50.014Z,2026-10-04T04:30:52.835Z
+socks5,45.74.31.23,46274,socks5://45.74.31.23:46274,elite,true,1933,2096,36.4,,33,135.236.141.8,4,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,2,2026-10-02T03:55:50.014Z,2026-10-04T04:32:13.943Z

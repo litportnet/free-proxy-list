@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10807,socks5://5.75.133.113:10807,elite,true,922,2963.5,60.7,60.3,653,185.253.162.9,1,cy,Nicosia,Tséri,Asia/Nicosia,9009,M247 Europe SRL,19,2026-09-22T02:14:04.469Z,2026-10-04T04:32:00.101Z

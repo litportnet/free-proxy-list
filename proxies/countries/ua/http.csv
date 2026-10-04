@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.202.49.61,33761,http://31.202.49.61:33761,elite,false,4735,4107,20.6,19.5,339,31.202.49.61,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,34700,"MAXNET TELECOM, LTD",23,2026-05-18T15:43:30.574Z,2026-10-03T04:27:04.200Z
-http,134.249.185.223,41890,http://134.249.185.223:41890,transparent,false,1718,5051,12.5,9.9,101,134.249.185.223,1,ua,Zhytomyr Oblast,Berdychiv,Europe/Kyiv,15895,Kyivstar PJSC,21,2025-09-26T19:03:43.611Z,2026-10-03T04:29:06.256Z
+http,195.34.91.67,8080,http://195.34.91.67:8080,transparent,false,2983,4396.5,18.8,15.1,219,195.34.91.67,1,ua,Kyiv Oblast,Boyarka,Europe/Kyiv,25514,Modus-Global LLC,24,2025-09-10T20:03:51.246Z,2026-10-04T04:30:46.506Z
+http,5.58.97.89,8080,http://5.58.97.89:8080,transparent,true,5335,3181.5,42.3,13.7,153,5.58.97.89,1,ua,Ternopil,Ternopil,Europe/Kyiv,16223,"MAXNET TELECOM, LTD",18,2025-09-10T19:35:06.705Z,2026-10-04T04:31:36.892Z
+http,195.149.125.150,8080,http://195.149.125.150:8080,transparent,true,4394,2155,30,,30,195.149.125.150,1,ua,Odesa,Faraonivka,Europe/Kyiv,29475,Complex Communication Systems Ltd,5,2026-02-05T16:53:26.801Z,2026-10-04T04:33:04.811Z

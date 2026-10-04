@@ -5,12 +5,12 @@
     "port": 48009,
     "url": "socks4://196.0.111.194:48009",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1448,
-    "latency_median_ms": 2473.5,
-    "uptime_24h": 68.9,
-    "uptime_7d": 74.8,
-    "checks_7d": 820,
+    "https": false,
+    "latency_ms": 8739,
+    "latency_median_ms": 3710.5,
+    "uptime_24h": 62.3,
+    "uptime_7d": 70.6,
+    "checks_7d": 812,
     "exit_ip": "196.0.111.194",
     "exit_shared": 1,
     "country": "ug",
@@ -21,7 +21,7 @@
     "asn_org": "Uganda Telecom",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:13.039Z",
-    "last_checked": "2026-10-03T04:27:39.085Z"
+    "last_checked": "2026-10-04T04:26:56.671Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://196.0.111.186:46048",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1439,
-    "latency_median_ms": 2395.5,
-    "uptime_24h": 59.4,
-    "uptime_7d": 67.1,
-    "checks_7d": 861,
+    "latency_ms": 4376,
+    "latency_median_ms": 2395,
+    "uptime_24h": 72.5,
+    "uptime_7d": 66.4,
+    "checks_7d": 860,
     "exit_ip": "196.0.111.186",
     "exit_shared": 1,
     "country": "ug",
@@ -45,7 +45,7 @@
     "asn_org": "Uganda Telecom",
     "sources_count": 12,
     "first_seen": "2025-09-04T23:49:04.470Z",
-    "last_checked": "2026-10-03T04:24:38.403Z"
+    "last_checked": "2026-10-04T04:26:54.067Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://196.0.113.10:31651",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2397,
-    "latency_median_ms": 4135.5,
-    "uptime_24h": 35.2,
-    "uptime_7d": 45.6,
-    "checks_7d": 767,
+    "latency_ms": 8532,
+    "latency_median_ms": 4410,
+    "uptime_24h": 31.9,
+    "uptime_7d": 41.9,
+    "checks_7d": 761,
     "exit_ip": "196.0.113.10",
     "exit_shared": 1,
     "country": "ug",
@@ -69,6 +69,6 @@
     "asn_org": "Uganda Telecom",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:58.150Z",
-    "last_checked": "2026-10-03T04:21:38.944Z"
+    "last_checked": "2026-10-04T04:30:34.364Z"
   }
 ]

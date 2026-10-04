@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.161.150.217,9090,http://188.161.150.217:9090,transparent,true,2371,2726,25.6,25.9,220,188.161.150.217,1,ps,Gaza Strip,Gaza,Asia/Gaza,12975,PALTEL Autonomous System,18,2026-09-30T17:44:28.400Z,2026-10-03T04:31:16.323Z
+http,188.161.150.217,9090,http://188.161.150.217:9090,transparent,true,740,3993.5,39.6,29.8,315,188.161.150.217,1,ps,Gaza Strip,Gaza,Asia/Gaza,12975,PALTEL Autonomous System,19,2026-09-30T17:44:28.400Z,2026-10-04T04:29:57.943Z
+http,213.6.249.37,19000,http://213.6.249.37:19000,transparent,true,1118,2710.5,26.8,16.7,222,188.161.40.207,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,11,2026-05-27T03:23:13.655Z,2026-10-04T04:26:44.061Z
+http,213.6.249.37,18000,http://213.6.249.37:18000,transparent,false,5642,3465.5,14,10.5,133,188.161.40.207,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,6,2026-04-18T12:25:18.173Z,2026-10-04T04:23:20.341Z
+http,178.214.80.45,8080,http://178.214.80.45:8080,transparent,false,9248,4366,28.6,7.9,139,213.244.95.175,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2026-05-24T00:52:43.198Z,2026-10-04T04:33:00.066Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.214.123.54,8080,http://95.214.123.54:8080,transparent,false,6183,4736,34.3,25,336,95.214.123.54,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,14,2026-04-15T17:38:26.888Z,2026-10-03T04:22:19.998Z

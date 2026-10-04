@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,82.139.234.160,1001,socks4://82.139.234.160:1001,elite,false,7288,5960,89.9,89.9,138,81.181.238.212,2,fr,Île-de-France,Noisiel,Europe/Paris,2914,"NTT America, Inc.",15,2026-10-02T04:56:15.396Z,2026-10-03T04:28:32.625Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,546,554.5,40.3,46.8,524,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-03T04:22:41.937Z
-socks4,82.139.234.160,1010,socks4://82.139.234.160:1010,elite,true,5363,5459,96.3,,27,80.12.176.152,2,fr,Île-de-France,Paris,Europe/Paris,5511,Orange S.A.,10,2026-10-03T00:06:19.857Z,2026-10-03T04:27:20.012Z

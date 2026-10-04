@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,57.129.134.10,8082,http://57.129.134.10:8082,elite,true,414,432,100,100,58,57.129.134.10,2,gb,England,Bexley,Europe/London,16276,OVH SAS,12,2026-07-21T18:16:22.211Z,2026-10-03T04:23:57.775Z
-http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,404,461.5,99.3,99.5,194,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",18,2026-10-01T19:58:11.770Z,2026-10-03T04:28:06.604Z
-http,217.182.195.221,30007,http://217.182.195.221:30007,transparent,false,1207,1174,15.9,26.2,455,193.149.187.228,1,gb,England,London,Europe/London,399629,BL Networks,23,2026-06-22T06:59:24.037Z,2026-10-03T04:24:33.195Z
+http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,3435,3242,100,99.7,337,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",18,2026-10-01T19:58:11.770Z,2026-10-04T04:30:10.516Z
+http,213.171.212.110,8080,http://213.171.212.110:8080,elite,true,479,591,71,42.2,185,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,18,2026-09-15T07:49:20.472Z,2026-10-04T04:31:00.826Z
+http,194.164.22.24,8080,http://194.164.22.24:8080,elite,false,4444,4340.5,27.3,25,564,194.164.22.24,1,gb,England,London,Europe/London,8560,IONOS SE,25,2026-09-06T18:17:04.735Z,2026-10-04T04:29:40.818Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,108.61.185.188,1080,socks4://108.61.185.188:1080,elite,false,3897,4990.5,45.6,49.5,218,45.77.235.30,2,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",13,2026-10-01T11:53:46.270Z,2026-10-03T04:28:42.701Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.217.33.161,8080,http://91.217.33.161:8080,elite,false,4909,4063.5,33.3,6.6,91,185.69.107.246,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,201603,AIRNET s.r.o.,22,2025-09-05T20:06:36.962Z,2026-10-03T04:30:59.121Z

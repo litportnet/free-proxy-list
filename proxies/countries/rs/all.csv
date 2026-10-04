@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,false,829,823,67.4,64.3,871,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,21,2026-07-04T18:38:42.525Z,2026-10-03T04:31:15.743Z
-socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,false,3710,1726,50,63.1,862,109.245.110.145,1,rs,Vojvodina,Vojka,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-10-03T04:24:49.050Z
-socks4,91.150.80.161,1080,socks4://91.150.80.161:1080,elite,true,673,1701.5,61.3,59.2,728,79.101.45.62,1,rs,Central Serbia,Belgrade,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,16,2026-09-26T09:49:38.803Z,2026-10-03T04:23:06.454Z
-http,212.200.223.89,8080,http://212.200.223.89:8080,transparent,false,4059,4505,27.1,27.4,532,212.200.223.89,1,rs,Vojvodina,Pančevo,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,23,2026-08-05T23:29:41.654Z,2026-10-03T04:24:34.746Z
+http,147.91.22.150,80,http://147.91.22.150:80,elite,false,572,587,79.1,70.1,786,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,12,2025-09-10T19:34:49.515Z,2026-10-04T04:29:08.896Z

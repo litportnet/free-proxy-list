@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "67.206.213.202",
-    "port": 55555,
-    "url": "socks4://67.206.213.202:55555",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 371,
-    "latency_median_ms": 501,
-    "uptime_24h": 65.8,
-    "uptime_7d": 73.7,
-    "checks_7d": 704,
-    "exit_ip": "67.206.213.202",
-    "exit_shared": 1,
-    "country": "pr",
-    "region": "Aibonito",
-    "city": "Aibonito",
-    "timezone": "America/Puerto_Rico",
-    "asn": 11992,
-    "asn_org": "Liberty Mobile Puerto Rico Inc.",
-    "sources_count": 13,
-    "first_seen": "2025-09-04T23:49:14.427Z",
-    "last_checked": "2026-10-03T04:21:32.881Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "154.64.219.4",
     "port": 5555,
     "url": "socks4://154.64.219.4:5555",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1296,
-    "latency_median_ms": 2338,
-    "uptime_24h": 35.8,
-    "uptime_7d": 39,
-    "checks_7d": 543,
+    "latency_ms": 343,
+    "latency_median_ms": 1379,
+    "uptime_24h": 47.4,
+    "uptime_7d": 36.4,
+    "checks_7d": 538,
     "exit_ip": "38.107.90.30",
     "exit_shared": 1,
     "country": "pr",
@@ -45,6 +21,6 @@
     "asn_org": "OSNET",
     "sources_count": 20,
     "first_seen": "2026-07-27T03:22:34.437Z",
-    "last_checked": "2026-10-03T04:21:16.085Z"
+    "last_checked": "2026-10-04T04:33:19.183Z"
   }
 ]

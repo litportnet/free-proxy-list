@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,6881,8000.5,54.1,62.3,853,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,20,2026-09-11T21:05:56.215Z,2026-10-03T04:28:00.237Z
-socks5,49.13.22.249,10801,socks5://49.13.22.249:10801,elite,true,3258,2476.5,64.2,60.2,739,192.30.89.59,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,19,2026-08-23T20:34:57.085Z,2026-10-03T04:27:17.380Z
-socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,1127,2083.5,61.7,55,573,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-03T04:27:27.998Z
-socks5,82.147.71.168,1080,socks5://82.147.71.168:1080,elite,true,5223,1937.5,80,,15,45.133.18.24,1,ca,Ontario,Toronto,America/Toronto,208951,ITGLOBAL.COM,11,2026-09-20T04:50:13.800Z,2026-10-03T04:30:23.094Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,222,224.5,70.8,69.3,889,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-10-04T04:29:35.010Z
+socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,1518,3222.5,57.7,56.1,711,149.88.98.70,1,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,20,2026-09-16T03:18:05.440Z,2026-10-04T04:25:49.754Z
+socks5,45.74.31.25,11745,socks5://45.74.31.25:11745,elite,true,1712,1271,100,,2,51.161.15.103,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,1,2026-10-04T04:21:10.887Z,2026-10-04T04:32:06.037Z

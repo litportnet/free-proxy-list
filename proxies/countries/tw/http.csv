@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,9411,4798,74.6,77.4,901,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-03T04:22:33.243Z
-http,220.128.223.136,8081,http://220.128.223.136:8081,anonymous,false,1227,1125,50,20.4,196,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,11,2025-11-15T03:58:21.768Z,2026-10-03T04:22:30.466Z
-http,220.128.223.136,8085,http://220.128.223.136:8085,anonymous,false,3183,2650.5,28,15.5,181,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,19,2025-09-20T10:33:15.224Z,2026-10-03T04:26:59.469Z
-http,45.139.226.199,10809,http://45.139.226.199:10809,elite,true,8661,3165.5,93.9,,49,38.60.214.252,1,tw,Taiwan,Taipei,Asia/Taipei,154177,LIGHT NODE LIMITED,15,2026-10-02T20:04:13.124Z,2026-10-03T04:23:32.618Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2062,5290,79.3,80.4,913,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-04T04:32:32.022Z

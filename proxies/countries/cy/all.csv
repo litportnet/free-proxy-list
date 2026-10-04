@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.78.67.171,80,http://94.78.67.171:80,anonymous,false,319,319.5,100,100,1006,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,17,2026-07-26T20:20:40.472Z,2026-10-03T04:25:55.490Z
-socks4,212.31.100.138,4153,socks4://212.31.100.138:4153,elite,false,777,773,64.7,59.9,563,212.31.100.138,1,cy,Ammochostos,Ayia Napa,Asia/Famagusta,6866,Cyprus Telecommunications Authority,1,2026-03-17T17:23:30.574Z,2026-10-03T04:26:09.252Z
+http,94.78.67.171,80,http://94.78.67.171:80,anonymous,false,327,328,100,100,1006,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,17,2026-07-26T20:20:40.472Z,2026-10-04T04:27:14.575Z
+socks5,5.75.133.113,10807,socks5://5.75.133.113:10807,elite,true,922,2963.5,60.7,60.3,653,185.253.162.9,1,cy,Nicosia,Tséri,Asia/Nicosia,9009,M247 Europe SRL,19,2026-09-22T02:14:04.469Z,2026-10-04T04:32:00.101Z
+socks4,87.228.228.101,4145,socks4://87.228.228.101:4145,elite,true,1791,1780,58.1,42.5,725,87.228.228.101,1,cy,Pafos,Pégeia,Asia/Nicosia,6866,Cyprus Telecommunications Authority,21,2026-07-06T01:00:13.598Z,2026-10-04T04:25:06.522Z

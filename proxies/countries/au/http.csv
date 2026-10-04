@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.30.211.34,80,http://103.30.211.34:80,elite,false,764,745.5,96.1,36.9,355,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-03T04:23:25.495Z
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,727,733.5,100,58,471,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-04T04:24:04.452Z
+http,198.251.85.115,3128,http://198.251.85.115:3128,transparent,true,2456,6263.5,24.5,25.5,377,198.251.85.115,1,au,New South Wales,Sydney,Australia/Sydney,14956,RouterHosting LLC,17,2026-09-24T12:25:56.834Z,2026-10-04T04:30:30.679Z
+http,130.162.192.208,8080,http://130.162.192.208:8080,elite,false,1953,3885.5,28.9,20.8,231,130.162.192.208,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,24,2026-09-02T19:45:06.799Z,2026-10-04T04:24:20.763Z

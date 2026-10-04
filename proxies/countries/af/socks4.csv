@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,false,2015,2005.5,46.2,52.2,163,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,15,2026-10-01T22:53:09.008Z,2026-10-03T04:24:47.445Z

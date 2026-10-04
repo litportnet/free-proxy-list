@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,470,471,97.2,88.4,914,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-03T04:31:16.849Z
-http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,true,7448,3215.5,31.5,32.9,547,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,16,2026-08-20T00:46:23.768Z,2026-10-03T04:22:47.355Z
-http,80.78.128.94,8080,http://80.78.128.94:8080,transparent,false,3769,3616,20,22.8,381,80.78.128.94,1,es,Valencia,Benidorm,Europe/Madrid,202913,"CLOUDWIFI, SL",16,2025-09-05T20:06:21.937Z,2026-10-03T04:26:12.427Z
-http,95.60.60.204,3128,http://95.60.60.204:3128,transparent,true,2317,3500,19.4,17.9,279,95.60.60.204,1,es,Balearic Islands,Sant Josep de sa Talaia,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,23,2026-07-06T03:59:02.945Z,2026-10-03T04:29:38.865Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,485,489,99.3,94.8,962,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-04T04:25:59.726Z
+http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,false,3015,3697,26.7,23.4,548,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-04T04:25:26.694Z
+http,193.38.224.169,8081,http://193.38.224.169:8081,transparent,true,4637,4870,19.6,12.9,194,193.38.224.169,1,es,Madrid,Madrid,Europe/Madrid,206276,Citelia s.a.,20,2025-09-05T20:06:20.927Z,2026-10-04T04:32:13.955Z

@@ -6,11 +6,11 @@
     "url": "socks5://195.135.255.98:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 825,
-    "latency_median_ms": 855.5,
-    "uptime_24h": 84.3,
-    "uptime_7d": 66.5,
-    "checks_7d": 614,
+    "latency_ms": 1326,
+    "latency_median_ms": 1327,
+    "uptime_24h": 74.6,
+    "uptime_7d": 65.1,
+    "checks_7d": 622,
     "exit_ip": "195.135.255.98",
     "exit_shared": 1,
     "country": "lv",
@@ -21,7 +21,7 @@
     "asn_org": "SIA VEESP",
     "sources_count": 19,
     "first_seen": "2026-07-06T17:06:50.617Z",
-    "last_checked": "2026-10-03T04:28:34.225Z"
+    "last_checked": "2026-10-04T04:25:36.694Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://212.3.206.215:10800",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2294,
-    "latency_median_ms": 2936,
-    "uptime_24h": 54.7,
-    "uptime_7d": 48,
-    "checks_7d": 431,
+    "latency_ms": 1128,
+    "latency_median_ms": 1123,
+    "uptime_24h": 47.4,
+    "uptime_7d": 47.8,
+    "checks_7d": 544,
     "exit_ip": "212.3.206.215",
     "exit_shared": 1,
     "country": "lv",
@@ -45,6 +45,6 @@
     "asn_org": "Latvijas Mobilais Telefons SIA",
     "sources_count": 15,
     "first_seen": "2026-09-29T12:28:59.410Z",
-    "last_checked": "2026-10-03T04:28:01.824Z"
+    "last_checked": "2026-10-04T04:23:46.155Z"
   }
 ]
