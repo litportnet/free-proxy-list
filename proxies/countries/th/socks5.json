@@ -6,11 +6,11 @@
     "url": "socks5://102.129.229.131:1081",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 10673,
-    "latency_median_ms": 5046,
-    "uptime_24h": 69.9,
-    "uptime_7d": 76.2,
-    "checks_7d": 903,
+    "latency_ms": 9846,
+    "latency_median_ms": 4378,
+    "uptime_24h": 84.9,
+    "uptime_7d": 77.3,
+    "checks_7d": 912,
     "exit_ip": "102.129.229.131",
     "exit_shared": 2,
     "country": "th",
@@ -21,6 +21,6 @@
     "asn_org": "CSNE Co., Ltd.",
     "sources_count": 16,
     "first_seen": "2026-09-23T17:15:43.069Z",
-    "last_checked": "2026-10-04T04:29:56.316Z"
+    "last_checked": "2026-10-05T04:21:18.241Z"
   }
 ]

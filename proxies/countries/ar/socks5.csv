@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,190.229.64.252,443,socks5://190.229.64.252:443,elite,false,8077,10256,44.4,46.1,204,104.28.217.122,2,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,13335,"Cloudflare, Inc.",16,2026-10-03T10:11:41.171Z,2026-10-05T04:26:16.434Z

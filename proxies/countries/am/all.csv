@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,88.218.92.64,3128,http://88.218.92.64:3128,transparent,false,5838,4215,50.7,41.8,347,88.218.92.64,1,am,Yerevan,Yerevan,Asia/Yerevan,196709,GNC-Alfa CJSC,18,2026-09-29T13:29:17.383Z,2026-10-04T04:27:10.897Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,false,1846,1355.5,42.9,41.3,751,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,21,2025-09-04T23:02:26.237Z,2026-10-04T04:29:29.235Z

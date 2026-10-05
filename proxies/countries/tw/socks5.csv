@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,106.12.29.154,6000,socks5://106.12.29.154:6000,elite,true,1706,1536.5,100,,2,211.75.210.22,1,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,1,2026-10-04T04:21:14.791Z,2026-10-04T04:32:17.138Z

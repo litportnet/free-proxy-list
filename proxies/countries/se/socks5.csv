@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1324,1212.5,96.5,98.4,1000,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-04T04:30:59.778Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1190,959.5,95.1,97.7,998,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-05T04:27:17.714Z
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,4668,1830.5,69,70.3,785,185.195.233.180,1,se,Stockholm,Stockholm,Europe/Stockholm,39351,31173 Services AB,19,2026-09-20T17:57:13.183Z,2026-10-05T04:28:45.134Z
+socks5,143.198.239.45,10000,socks5://143.198.239.45:10000,elite,true,1300,1322,35.9,35.6,343,171.25.193.79,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,2,2026-10-01T12:54:25.369Z,2026-10-05T04:28:33.427Z
+socks5,185.197.74.126,2080,socks5://185.197.74.126:2080,elite,false,1477,3771.5,37.5,20.7,276,185.197.74.126,2,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,20,2026-06-25T17:44:35.833Z,2026-10-05T04:28:02.031Z

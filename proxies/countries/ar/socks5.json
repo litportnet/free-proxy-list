@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "190.229.64.252",
+    "port": 443,
+    "url": "socks5://190.229.64.252:443",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8077,
+    "latency_median_ms": 10256,
+    "uptime_24h": 44.4,
+    "uptime_7d": 46.1,
+    "checks_7d": 204,
+    "exit_ip": "104.28.217.122",
+    "exit_shared": 2,
+    "country": "ar",
+    "region": "Buenos Aires F.D.",
+    "city": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 16,
+    "first_seen": "2026-10-03T10:11:41.171Z",
+    "last_checked": "2026-10-05T04:26:16.434Z"
+  }
+]

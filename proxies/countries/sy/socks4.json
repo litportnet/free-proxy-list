@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "89.43.135.181",
-    "port": 1080,
-    "url": "socks4://89.43.135.181:1080",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 805,
-    "latency_median_ms": 806,
-    "uptime_24h": 71,
-    "uptime_7d": 62.9,
-    "checks_7d": 871,
-    "exit_ip": "89.43.135.181",
-    "exit_shared": 1,
-    "country": "sy",
-    "region": "Aleppo",
-    "city": "Manbij",
-    "timezone": "Asia/Damascus",
-    "asn": 216472,
-    "asn_org": "High Speed For Internet Services L.L.C",
-    "sources_count": 20,
-    "first_seen": "2026-08-29T00:40:02.356Z",
-    "last_checked": "2026-10-04T04:24:06.617Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "193.43.159.161",
     "port": 1080,
     "url": "socks4://193.43.159.161:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 783,
-    "latency_median_ms": 1811,
-    "uptime_24h": 60.7,
-    "uptime_7d": 49.6,
-    "checks_7d": 419,
+    "latency_ms": 3812,
+    "latency_median_ms": 1810,
+    "uptime_24h": 51.3,
+    "uptime_7d": 50.3,
+    "checks_7d": 445,
     "exit_ip": "193.43.159.161",
     "exit_shared": 1,
     "country": "sy",
@@ -45,6 +21,6 @@
     "asn_org": "STE PDN Internal AS",
     "sources_count": 11,
     "first_seen": "2026-05-31T07:16:37.570Z",
-    "last_checked": "2026-10-04T04:26:39.345Z"
+    "last_checked": "2026-10-05T04:27:38.236Z"
   }
 ]

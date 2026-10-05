@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,485,489,99.3,94.8,962,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-04T04:25:59.726Z
-http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,false,3015,3697,26.7,23.4,548,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-04T04:25:26.694Z
-http,193.38.224.169,8081,http://193.38.224.169:8081,transparent,true,4637,4870,19.6,12.9,194,193.38.224.169,1,es,Madrid,Madrid,Europe/Madrid,206276,Citelia s.a.,20,2025-09-05T20:06:20.927Z,2026-10-04T04:32:13.955Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,464,461.5,99.3,97,995,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-05T04:28:36.571Z

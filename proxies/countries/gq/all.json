@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "102.164.252.150",
-    "port": 8080,
-    "url": "http://102.164.252.150:8080",
-    "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 4190,
-    "latency_median_ms": 3170,
-    "uptime_24h": 40.9,
-    "uptime_7d": 37.2,
-    "checks_7d": 584,
-    "exit_ip": "102.164.252.150",
-    "exit_shared": 1,
-    "country": "gq",
-    "region": "Litoral",
-    "city": "Bata",
-    "timezone": "Africa/Malabo",
-    "asn": 328311,
-    "asn_org": "Conexxia Guinea Equatorial, S.L",
-    "sources_count": 16,
-    "first_seen": "2025-09-10T19:34:38.873Z",
-    "last_checked": "2026-10-04T04:24:58.360Z"
-  },
-  {
-    "protocol": "http",
     "ip": "102.164.255.155",
     "port": 8080,
     "url": "http://102.164.255.155:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 8072,
-    "latency_median_ms": 3474,
-    "uptime_24h": 37.3,
-    "uptime_7d": 34,
-    "checks_7d": 611,
+    "latency_ms": 7347,
+    "latency_median_ms": 4290,
+    "uptime_24h": 30.1,
+    "uptime_7d": 34.1,
+    "checks_7d": 633,
     "exit_ip": "102.164.255.155",
     "exit_shared": 1,
     "country": "gq",
@@ -45,6 +21,6 @@
     "asn_org": "Conexxia Guinea Equatorial, S.L",
     "sources_count": 14,
     "first_seen": "2026-06-30T11:42:56.379Z",
-    "last_checked": "2026-10-04T04:30:36.966Z"
+    "last_checked": "2026-10-05T04:26:57.679Z"
   }
 ]

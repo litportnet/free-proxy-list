@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,488,493,78,68.8,807,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-04T04:28:52.870Z
-http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,603,1702,26.3,35.5,636,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,8,2026-03-19T05:42:49.593Z,2026-10-04T04:27:17.188Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,492,501.5,82.3,71.3,842,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-05T04:29:09.979Z
+http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,626,789.5,48.7,41.5,650,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,9,2026-06-21T15:51:42.528Z,2026-10-05T04:20:14.778Z
+http,66.94.104.255,3128,http://66.94.104.255:3128,transparent,false,2471,1736.5,32.4,37.9,639,64.190.76.2,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,24,2026-08-23T09:28:05.560Z,2026-10-05T04:25:48.300Z
+http,89.40.143.28,7788,http://89.40.143.28:7788,transparent,true,5203,2903.5,32.5,28.8,340,89.40.143.28,1,it,Lombardy,Milan,Europe/Rome,64445,NetJoin srl,11,2025-09-29T03:34:49.103Z,2026-10-05T04:22:00.038Z

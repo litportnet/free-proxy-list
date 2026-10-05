@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,109.164.110.55,2311,http://109.164.110.55:2311,elite,true,1678,1541.5,11.8,9.4,139,109.164.110.55,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,44489,"STARNET, s.r.o.",14,2026-08-31T18:17:39.100Z,2026-10-04T04:26:27.746Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,4020,5367.5,54.3,53,643,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,18,2025-09-08T03:28:25.725Z,2026-10-05T04:28:07.913Z

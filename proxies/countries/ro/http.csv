@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.128.240.2,3128,http://185.128.240.2:3128,transparent,false,3215,2663.5,25.7,54.9,647,185.128.240.2,1,ro,Mehedinți County,Drobeta-Turnu Severin,Europe/Bucharest,49052,DATA ZYX SRL,17,2025-09-11T19:14:42.877Z,2026-10-04T04:31:37.420Z
+http,185.128.240.2,3128,http://185.128.240.2:3128,transparent,false,1442,1967,45.7,55.6,682,185.128.240.2,1,ro,Mehedinți County,Drobeta-Turnu Severin,Europe/Bucharest,49052,DATA ZYX SRL,17,2025-09-11T19:14:42.877Z,2026-10-05T04:24:51.516Z

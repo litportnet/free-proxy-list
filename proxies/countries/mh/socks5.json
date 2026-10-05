@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10813,
+    "url": "socks5://5.75.133.113:10813",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2651,
+    "latency_median_ms": 3196,
+    "uptime_24h": 58.4,
+    "uptime_7d": 43,
+    "checks_7d": 549,
+    "exit_ip": "45.254.247.7",
+    "exit_shared": 1,
+    "country": "mh",
+    "region": "Majuro Atoll",
+    "city": "Majuro",
+    "timezone": "Pacific/Majuro",
+    "asn": 22363,
+    "asn_org": "Powerhouse Management, Inc.",
+    "sources_count": 20,
+    "first_seen": "2026-09-16T14:24:02.370Z",
+    "last_checked": "2026-10-05T04:24:07.015Z"
+  }
+]

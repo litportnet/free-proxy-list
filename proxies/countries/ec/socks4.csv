@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,false,503,503.5,73.9,62.7,608,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,14,2025-09-04T23:49:13.193Z,2026-10-04T04:24:42.222Z
+socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,3998,2037,67.2,71.9,910,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-10-05T04:28:28.142Z
+socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,true,517,499.5,53.8,61.8,660,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,14,2025-09-04T23:49:13.193Z,2026-10-05T04:25:34.759Z
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,false,580,1087,74.1,60.2,737,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-10-05T04:29:28.538Z
+socks4,160.20.165.242,8080,socks4://160.20.165.242:8080,elite,false,508,596.5,70.2,55,814,160.20.165.242,1,ec,Guayas,Guayaquil,America/Guayaquil,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:13.403Z,2026-10-05T04:22:10.831Z

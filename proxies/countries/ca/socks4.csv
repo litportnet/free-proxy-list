@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,203,875.5,41.9,39.4,667,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-10-04T04:24:33.685Z
-socks4,173.182.69.5,5678,socks4://173.182.69.5:5678,elite,true,7600,1221,39.8,34,374,173.182.69.5,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,7,2025-10-22T11:08:58.956Z,2026-10-04T04:24:52.442Z
-socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,true,1270,2266,17.8,21,433,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-10-04T04:31:37.413Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,1405,856.5,63.8,62.2,842,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-05T04:28:41.896Z
+socks4,162.216.185.241,1084,socks4://162.216.185.241:1084,elite,true,606,1431,66.1,57.6,872,162.216.185.241,1,ca,British Columbia,Boston Bar,America/Vancouver,46915,Lyttonnet,22,2026-09-10T22:54:24.485Z,2026-10-05T04:26:42.329Z
+socks4,173.182.69.5,5678,socks4://173.182.69.5:5678,elite,false,2644,3763.5,43.6,35.9,457,173.182.69.5,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,7,2025-10-22T11:08:58.956Z,2026-10-05T04:23:50.281Z

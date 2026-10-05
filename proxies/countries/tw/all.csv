@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2062,5290,79.3,80.4,913,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-04T04:32:32.022Z
-socks5,106.12.29.154,6000,socks5://106.12.29.154:6000,elite,true,1706,1536.5,100,,2,211.75.210.22,1,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,1,2026-10-04T04:21:14.791Z,2026-10-04T04:32:17.138Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,3114,2838,79,80,932,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-05T04:22:34.617Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,789,860.5,76.7,67.4,779,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-05T04:21:40.972Z
+socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,false,1996,3016,56.2,52.5,817,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-05T04:28:31.823Z

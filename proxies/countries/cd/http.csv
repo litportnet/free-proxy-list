@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.222.231.1,2333,http://102.222.231.1:2333,transparent,false,7264,5788,12.5,15.3,189,41.190.233.1,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37638,Orioncom SPRL,10,2025-09-05T20:06:35.483Z,2026-10-04T04:26:34.587Z

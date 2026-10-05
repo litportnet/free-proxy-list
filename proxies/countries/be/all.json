@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks5",
-    "ip": "5.75.133.113",
-    "port": 10812,
-    "url": "socks5://5.75.133.113:10812",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1006,
-    "latency_median_ms": 3919,
-    "uptime_24h": 50.5,
-    "uptime_7d": 62.9,
-    "checks_7d": 723,
-    "exit_ip": "5.253.204.58",
-    "exit_shared": 1,
-    "country": "be",
-    "region": "Brussels Capital",
-    "city": "Brussels",
-    "timezone": "Europe/Brussels",
-    "asn": 9009,
-    "asn_org": "M247 Europe SRL",
-    "sources_count": 20,
-    "first_seen": "2026-09-16T21:27:40.844Z",
-    "last_checked": "2026-10-04T04:31:40.590Z"
-  },
-  {
     "protocol": "http",
     "ip": "34.140.137.151",
     "port": 80,
     "url": "http://34.140.137.151:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 439,
-    "latency_median_ms": 443,
-    "uptime_24h": 78.5,
-    "uptime_7d": 61.1,
-    "checks_7d": 786,
+    "latency_ms": 4805,
+    "latency_median_ms": 1472,
+    "uptime_24h": 80.6,
+    "uptime_7d": 64.4,
+    "checks_7d": 818,
     "exit_ip": "34.140.137.151",
     "exit_shared": 1,
     "country": "be",
@@ -45,6 +21,6 @@
     "asn_org": "Google LLC",
     "sources_count": 18,
     "first_seen": "2025-10-14T21:28:47.989Z",
-    "last_checked": "2026-10-04T04:33:18.610Z"
+    "last_checked": "2026-10-05T04:19:59.159Z"
   }
 ]

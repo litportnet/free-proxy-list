@@ -7,7 +7,7 @@
     "anonymity": "anonymous",
     "https": false,
     "latency_ms": 327,
-    "latency_median_ms": 328,
+    "latency_median_ms": 327,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1006,
@@ -21,6 +21,6 @@
     "asn_org": "Netonline Bilisim Sirketi LTD",
     "sources_count": 17,
     "first_seen": "2026-07-26T20:20:40.472Z",
-    "last_checked": "2026-10-04T04:27:14.575Z"
+    "last_checked": "2026-10-05T04:20:24.397Z"
   }
 ]

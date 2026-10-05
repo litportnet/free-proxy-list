@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "188.129.8.242",
+    "port": 81,
+    "url": "http://188.129.8.242:81",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2099,
+    "latency_median_ms": 3751,
+    "uptime_24h": 48.5,
+    "uptime_7d": 41.9,
+    "checks_7d": 480,
+    "exit_ip": "188.129.8.242",
+    "exit_shared": 1,
+    "country": "hr",
+    "region": "Zagreb",
+    "city": "Zagreb",
+    "timezone": "Europe/Zagreb",
+    "asn": 29485,
+    "asn_org": "A1 Hrvatska d.o.o.",
+    "sources_count": 19,
+    "first_seen": "2026-06-14T10:16:56.085Z",
+    "last_checked": "2026-10-05T04:26:29.430Z"
+  }
+]

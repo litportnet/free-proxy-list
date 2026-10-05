@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.114.45.210,4153,socks4://85.114.45.210:4153,elite,false,701,699.5,50,46.3,687,85.114.45.210,1,hr,Istria,Medulin,Europe/Zagreb,34594,Telemach Hrvatska d.o.o.,1,2026-03-17T17:23:29.766Z,2026-10-04T04:24:33.159Z
+socks4,85.114.45.210,4153,socks4://85.114.45.210:4153,elite,false,1691,687,64.6,53.3,707,85.114.45.210,1,hr,Istria,Medulin,Europe/Zagreb,34594,Telemach Hrvatska d.o.o.,12,2025-09-21T03:43:19.304Z,2026-10-05T04:27:28.724Z

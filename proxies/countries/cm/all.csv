@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.244.78.61,8080,http://102.244.78.61:8080,elite,true,800,871.5,100,,26,102.244.78.57,2,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,14,2026-10-04T00:19:10.603Z,2026-10-04T04:32:00.106Z
-http,102.244.78.61,8090,http://102.244.78.61:8090,elite,true,1743,925.5,100,,49,102.244.78.57,2,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,17,2026-10-03T20:16:56.994Z,2026-10-04T04:27:02.461Z
+http,102.244.78.61,8080,http://102.244.78.61:8080,elite,true,802,809,100,100,169,102.244.78.57,5,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,18,2026-10-04T00:19:10.603Z,2026-10-05T04:25:28.822Z
+http,102.244.78.61,8090,http://102.244.78.61:8090,elite,true,966,827,98.6,99,192,102.244.78.57,5,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-03T20:16:56.994Z,2026-10-05T04:22:59.485Z
+http,102.244.78.61,8083,http://102.244.78.61:8083,elite,true,812,812,97.6,97.6,84,102.244.78.57,5,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,16,2026-10-04T14:26:33.928Z,2026-10-05T04:22:04.881Z
+http,102.244.78.61,8087,http://102.244.78.61:8087,elite,true,928,875.5,96.6,96.6,59,102.244.78.57,5,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,16,2026-10-04T18:28:41.562Z,2026-10-05T04:20:47.000Z
+http,102.244.78.61,8085,http://102.244.78.61:8085,elite,true,806,808.5,93.7,93.7,79,102.244.78.57,5,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,18,2026-10-04T15:26:57.326Z,2026-10-05T04:26:29.434Z

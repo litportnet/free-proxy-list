@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,109.205.126.6,8080,http://109.205.126.6:8080,transparent,false,7707,1133.5,30.6,23.4,423,109.205.126.6,1,lv,Riga,Riga,Europe/Riga,28699,Unistar,12,2025-09-05T20:06:23.926Z,2026-10-04T04:31:00.307Z

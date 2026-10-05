@@ -6,11 +6,11 @@
     "url": "socks4://179.27.86.36:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 830,
-    "latency_median_ms": 1833,
-    "uptime_24h": 63.8,
-    "uptime_7d": 58.1,
-    "checks_7d": 848,
+    "latency_ms": 3849,
+    "latency_median_ms": 3849,
+    "uptime_24h": 65.4,
+    "uptime_7d": 58.8,
+    "checks_7d": 868,
     "exit_ip": "179.27.86.36",
     "exit_shared": 1,
     "country": "uy",
@@ -21,6 +21,6 @@
     "asn_org": "Administracion Nacional de Telecomunicaciones",
     "sources_count": 22,
     "first_seen": "2025-09-04T23:49:06.130Z",
-    "last_checked": "2026-10-04T04:28:50.771Z"
+    "last_checked": "2026-10-05T04:20:48.070Z"
   }
 ]

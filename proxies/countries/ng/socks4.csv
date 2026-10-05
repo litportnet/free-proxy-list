@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,197.156.240.66,5678,socks4://197.156.240.66:5678,elite,false,1041,1058,65.4,62.6,711,197.156.240.66,1,ng,Lagos,Lagos,Africa/Lagos,30988,IS InternetSolutions Limited,13,2025-09-04T23:48:53.737Z,2026-10-04T04:24:25.076Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,8189,1524.5,80.9,80.6,951,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-05T04:26:51.298Z
+socks4,197.156.240.66,5678,socks4://197.156.240.66:5678,elite,true,4055,1581,58.7,61.2,724,197.156.240.66,1,ng,Lagos,Lagos,Africa/Lagos,30988,IS InternetSolutions Limited,13,2025-09-04T23:48:53.737Z,2026-10-05T04:26:44.649Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,8256,1001,59.8,59.8,794,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-05T04:26:51.297Z
+socks4,105.235.201.234,32639,socks4://105.235.201.234:32639,elite,false,4174,4126.5,47.4,39.1,589,105.235.201.234,1,ng,Lagos,Lagos,Africa/Lagos,37269,Information Connectivity Solutions Limited,13,2025-09-05T00:23:07.143Z,2026-10-05T04:28:55.672Z

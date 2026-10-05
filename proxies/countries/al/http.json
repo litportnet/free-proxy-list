@@ -5,12 +5,12 @@
     "port": 3128,
     "url": "http://85.155.228.112:3128",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1657,
-    "latency_median_ms": 1482.5,
-    "uptime_24h": 74.5,
-    "uptime_7d": 72.4,
-    "checks_7d": 239,
+    "https": false,
+    "latency_ms": 6772,
+    "latency_median_ms": 4008.5,
+    "uptime_24h": 70.5,
+    "uptime_7d": 71.7,
+    "checks_7d": 367,
     "exit_ip": "85.155.228.112",
     "exit_shared": 1,
     "country": "al",
@@ -21,7 +21,7 @@
     "asn_org": "AVS ISP",
     "sources_count": 19,
     "first_seen": "2026-10-02T09:58:55.046Z",
-    "last_checked": "2026-10-04T04:28:36.674Z"
+    "last_checked": "2026-10-05T04:23:16.185Z"
   },
   {
     "protocol": "http",
@@ -29,12 +29,12 @@
     "port": 8080,
     "url": "http://77.242.21.133:8080",
     "anonymity": "transparent",
-    "https": true,
-    "latency_ms": 2193,
-    "latency_median_ms": 4889.5,
-    "uptime_24h": 12.9,
-    "uptime_7d": 10.3,
-    "checks_7d": 204,
+    "https": false,
+    "latency_ms": 4750,
+    "latency_median_ms": 6094,
+    "uptime_24h": 14,
+    "uptime_7d": 11.2,
+    "checks_7d": 224,
     "exit_ip": "77.242.21.133",
     "exit_shared": 1,
     "country": "al",
@@ -45,6 +45,6 @@
     "asn_org": "Abissnet sh.a.",
     "sources_count": 23,
     "first_seen": "2025-09-05T20:06:31.953Z",
-    "last_checked": "2026-10-04T04:32:57.397Z"
+    "last_checked": "2026-10-05T04:26:58.349Z"
   }
 ]

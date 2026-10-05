@@ -6,11 +6,11 @@
     "url": "socks4://85.114.45.210:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 701,
-    "latency_median_ms": 699.5,
-    "uptime_24h": 50,
-    "uptime_7d": 46.3,
-    "checks_7d": 687,
+    "latency_ms": 1691,
+    "latency_median_ms": 687,
+    "uptime_24h": 64.6,
+    "uptime_7d": 53.3,
+    "checks_7d": 707,
     "exit_ip": "85.114.45.210",
     "exit_shared": 1,
     "country": "hr",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Zagreb",
     "asn": 34594,
     "asn_org": "Telemach Hrvatska d.o.o.",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:29.766Z",
-    "last_checked": "2026-10-04T04:24:33.159Z"
+    "sources_count": 12,
+    "first_seen": "2025-09-21T03:43:19.304Z",
+    "last_checked": "2026-10-05T04:27:28.724Z"
   }
 ]

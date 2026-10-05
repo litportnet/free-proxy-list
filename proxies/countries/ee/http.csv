@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,560,561.5,93.1,87,952,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-10-04T04:29:32.374Z
-http,193.42.112.26,8080,http://193.42.112.26:8080,transparent,true,4117,4171,31.4,26.9,551,193.42.112.26,1,ee,Harjumaa,Kuusalu,Europe/Tallinn,199144,HexCore cloud s.r.o.,25,2026-09-02T17:42:35.785Z,2026-10-04T04:29:26.013Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,663,617,94.4,88.1,968,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-10-05T04:26:38.021Z
