@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,8415,759,49.5,50.6,638,51.254.44.49,2,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,19,2026-08-01T19:38:38.199Z,2026-10-05T04:22:34.609Z
-socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,818,977,60.5,50.4,824,51.254.44.49,2,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,21,2026-07-31T20:24:15.555Z,2026-10-05T04:19:19.877Z
-socks4,92.205.186.129,1080,socks4://92.205.186.129:1080,elite,false,8377,9417,20,25.7,534,92.205.186.129,2,fr,Grand Est,Strasbourg,Europe/Paris,21499,Host Europe GmbH,10,2026-06-13T08:09:02.541Z,2026-10-05T04:24:52.615Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,544,582,47.1,47.1,705,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-06T04:20:53.882Z

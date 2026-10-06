@@ -1,8 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,647,641,99.3,99.6,1003,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-10-05T04:26:59.439Z
-http,38.175.202.151,443,http://38.175.202.151:443,elite,false,5965,1307.5,88.3,84,538,38.175.202.151,1,jp,Tokyo,Tokyo,Asia/Tokyo,979,NetLab Global,18,2026-10-01T07:51:39.350Z,2026-10-05T04:26:09.415Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,1837,1745,73.3,71.6,846,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-10-05T04:24:12.947Z
-http,160.248.7.177,80,http://160.248.7.177:80,elite,false,3618,3604.5,61.6,53.5,821,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-10-05T04:24:42.223Z
-http,74.176.239.44,3128,http://74.176.239.44:3128,anonymous,true,8946,6676,25,35.5,189,20.18.237.128,1,jp,Tokyo,Tokyo,Asia/Tokyo,8075,Microsoft Corporation,15,2026-10-02T23:05:54.282Z,2026-10-05T04:21:22.623Z
-http,161.33.8.226,1314,http://161.33.8.226:1314,elite,true,842,663,100,,6,161.33.8.226,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,1,2026-10-05T03:33:21.674Z,2026-10-05T04:24:30.251Z
-http,161.33.41.30,1314,http://161.33.41.30:1314,elite,true,8152,996,83.3,,6,64.110.117.8,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,1,2026-10-05T03:33:21.674Z,2026-10-05T04:24:08.639Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,928,639,99.3,99.4,1003,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-10-06T04:25:40.261Z
+http,161.33.8.226,1314,http://161.33.8.226:1314,elite,true,942,1026,99.3,99.3,148,161.33.8.226,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,17,2026-10-05T03:33:21.674Z,2026-10-06T04:30:48.914Z
+http,38.175.202.151,443,http://38.175.202.151:443,elite,true,5697,2780,91.7,85.5,670,38.175.202.151,1,jp,Tokyo,Tokyo,Asia/Tokyo,979,NetLab Global,18,2026-10-01T07:51:39.350Z,2026-10-06T04:25:35.398Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,false,2668,1918,86.9,75.7,853,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-10-06T04:26:43.068Z
+http,151.243.153.157,8118,http://151.243.153.157:8118,elite,false,727,1507.5,56.5,47.1,753,151.243.153.157,1,jp,Tokyo,Tokyo,Asia/Tokyo,400506,Black Apple,25,2026-06-06T22:41:19.122Z,2026-10-06T04:31:04.242Z
+http,140.227.61.201,3128,http://140.227.61.201:3128,transparent,true,1627,1626,30.6,39.5,702,140.227.61.201,1,jp,Hyōgo,Sasayama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-10-06T04:29:00.245Z
+http,47.79.87.209,1080,http://47.79.87.209:1080,transparent,false,8644,7279,20,3,67,47.79.87.209,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",12,2026-09-27T12:03:28.094Z,2026-10-06T04:28:41.894Z
+http,58.208.131.162,30001,http://58.208.131.162:30001,elite,true,2107,1505,100,,5,104.28.157.21,1,jp,Chiba,Narita,Asia/Tokyo,13335,"Cloudflare, Inc.",2,2026-10-06T03:46:02.149Z,2026-10-06T04:23:34.992Z

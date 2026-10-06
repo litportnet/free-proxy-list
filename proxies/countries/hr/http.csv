@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.129.8.242,81,http://188.129.8.242:81,elite,false,2099,3751,48.5,41.9,480,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-10-05T04:26:29.430Z

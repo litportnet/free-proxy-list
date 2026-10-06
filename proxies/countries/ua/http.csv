@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,4516,4198.5,33.7,43.2,788,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,17,2026-08-07T01:44:07.721Z,2026-10-05T04:25:08.334Z
-http,178.159.37.11,1080,http://178.159.37.11:1080,elite,false,2647,2771,14.3,16,50,178.159.37.11,1,ua,Kyiv City,Kyiv,Europe/Kyiv,206791,Slobozhenyuk B.Y. PE,13,2026-10-01T23:53:49.835Z,2026-10-05T04:29:13.722Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.243.183.132,1080,socks4://46.243.183.132:1080,elite,true,2757,1727.5,96.6,96.6,58,46.243.183.132,2,by,Minsk City,Minsk,Europe/Minsk,209283,ITGLOBALCOM BEL LLC,4,2026-08-12T19:57:31.909Z,2026-10-06T04:30:22.054Z
+socks4,86.57.178.182,4153,socks4://86.57.178.182:4153,elite,true,1699,2723.5,56.6,48.8,800,86.57.178.182,1,by,Grodnenskaya,Hrodna,Europe/Minsk,6697,Republican Unitary Telecommunication Enterprise Beltelecom,21,2026-07-08T02:19:07.490Z,2026-10-06T04:28:39.735Z

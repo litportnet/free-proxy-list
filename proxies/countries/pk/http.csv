@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,119.73.109.210,8080,http://119.73.109.210:8080,elite,true,9548,4017,33.3,35,186,119.73.109.210,2,pk,Sindh,Karachi,Asia/Karachi,135407,Trans World Enterprise Services (Private) Limited,19,2026-10-03T11:12:10.105Z,2026-10-05T04:21:01.064Z
+http,202.59.75.6,8080,http://202.59.75.6:8080,transparent,false,2594,4771,23.5,26.8,604,202.59.75.3,1,pk,Punjab,Lahore,Asia/Karachi,17563,Autonomous System Number for Nexlinx,22,2026-09-20T04:50:40.143Z,2026-10-06T04:21:57.170Z
+http,27.54.121.90,8090,http://27.54.121.90:8090,elite,false,5357,5683.5,26.7,25.6,305,27.54.121.90,1,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,19,2026-09-25T14:39:31.047Z,2026-10-06T04:22:39.262Z
+http,103.134.1.14,8080,http://103.134.1.14:8080,elite,true,8332,4137.5,24.5,25.4,354,103.134.1.14,1,pk,Punjab,Multan,Asia/Karachi,138590,Prime Networks,20,2026-06-06T19:42:14.684Z,2026-10-06T04:22:02.530Z
+http,110.39.173.100,8080,http://110.39.173.100:8080,elite,false,2375,3911.5,27.3,,44,110.39.173.100,1,pk,Punjab,Sargodha,Asia/Karachi,38264,National WiMAX/IMS environment,13,2026-10-05T13:38:41.750Z,2026-10-06T04:22:44.081Z

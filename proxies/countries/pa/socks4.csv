@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.108.50.254,4145,socks4://200.108.50.254:4145,elite,false,7615,1499.5,58.9,60.6,827,200.108.50.254,1,pa,Colón,Arco Iris,America/Panama,18809,Cable Onda,14,2025-09-04T23:49:13.837Z,2026-10-05T04:28:29.189Z
-socks4,190.140.31.195,9900,socks4://190.140.31.195:9900,elite,true,7838,2646,23.5,7.9,101,190.140.31.195,1,pa,Panamá,Panama City,America/Panama,18809,Cable Onda,5,2025-09-04T23:49:00.221Z,2026-10-05T04:28:46.720Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.209.157.251,3128,http://85.209.157.251:3128,transparent,true,4652,6797,20.6,30.5,177,85.209.157.251,1,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,206446,CLOUD LEASE Ltd,16,2026-10-01T21:52:43.639Z,2026-10-05T04:23:03.801Z

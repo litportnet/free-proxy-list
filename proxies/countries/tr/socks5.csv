@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.175.136.21,1080,socks5://5.175.136.21:1080,elite,true,1213,995,95.1,95.1,102,5.175.136.21,2,tr,Istanbul,Istanbul,Europe/Istanbul,203516,AltunHOST LTD,12,2026-10-04T11:24:56.492Z,2026-10-05T04:20:12.635Z
+socks5,5.175.136.21,1080,socks5://5.175.136.21:1080,elite,true,3134,2576,83.5,88.7,229,5.175.136.21,2,tr,Istanbul,Istanbul,Europe/Istanbul,203516,AltunHOST LTD,14,2026-10-04T11:24:56.492Z,2026-10-06T04:28:12.188Z
+socks5,213.238.180.143,8443,socks5://213.238.180.143:8443,elite,true,2558,3248,87.3,78.5,158,213.238.180.244,2,tr,Istanbul,Istanbul,Europe/Istanbul,210574,PH Bilisim Teknolojileri Limited Sirketi,13,2026-10-03T21:17:27.968Z,2026-10-06T04:27:22.926Z
+socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,false,8314,2171.5,27.3,36.2,439,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-09-29T01:23:09.783Z,2026-10-06T04:21:42.187Z

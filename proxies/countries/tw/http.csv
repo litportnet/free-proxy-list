@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,3114,2838,79,80,932,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-05T04:22:34.617Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,789,860.5,76.7,67.4,779,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-05T04:21:40.972Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,4599,4300.5,81.6,80.8,922,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-06T04:29:19.263Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,870,808.5,95.6,74.6,846,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-06T04:22:46.730Z

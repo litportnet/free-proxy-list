@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,171.22.182.164,1080,socks4://171.22.182.164:1080,elite,false,2733,2261,35.4,48.5,532,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,13,2026-08-21T13:04:25.074Z,2026-10-05T04:26:14.271Z
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,1694,1695,52.9,42.5,692,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-05T04:22:17.873Z
-socks4,94.198.213.252,5678,socks4://94.198.213.252:5678,elite,false,638,1610.5,35.1,34.1,478,109.70.206.178,1,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,12,2025-09-04T23:49:07.766Z,2026-10-05T04:23:41.028Z
-socks4,45.66.207.175,1080,socks4://45.66.207.175:1080,elite,true,762,1795.5,87.2,,39,45.66.204.16,1,it,Sicily,Sortino,Europe/Rome,209410,SiciLink s.r.l.s,14,2026-10-04T21:30:09.919Z,2026-10-05T04:20:17.973Z
+socks4,45.66.207.175,1080,socks4://45.66.207.175:1080,elite,true,753,1790,74.4,77.5,160,45.66.204.16,1,it,Sicily,Sortino,Europe/Rome,209410,SiciLink s.r.l.s,15,2026-10-04T21:30:09.919Z,2026-10-06T04:26:20.677Z
+socks4,171.22.182.164,1080,socks4://171.22.182.164:1080,elite,false,3767,1769,56.6,52.2,565,171.22.182.164,1,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,13,2026-08-21T13:04:25.074Z,2026-10-06T04:31:01.635Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,645,609,33.8,51.8,591,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-06T04:21:48.064Z
+socks4,185.56.219.76,40001,socks4://185.56.219.76:40001,elite,false,5558,6195,60.2,50.5,650,104.28.220.235,2,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",16,2026-09-28T23:22:01.334Z,2026-10-06T04:22:45.130Z

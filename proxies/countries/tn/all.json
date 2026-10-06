@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "196.179.234.18",
+    "port": 8989,
+    "url": "http://196.179.234.18:8989",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8332,
+    "latency_median_ms": 788.5,
+    "uptime_24h": 41.8,
+    "uptime_7d": 26.3,
+    "checks_7d": 175,
+    "exit_ip": "196.179.234.18",
+    "exit_shared": 1,
+    "country": "tn",
+    "region": "Tunis Governorate",
+    "city": "Tunis",
+    "timezone": "Africa/Tunis",
+    "asn": 37693,
+    "asn_org": "OOREDOO TUNISIE SA",
+    "sources_count": 17,
+    "first_seen": "2026-10-02T16:02:05.410Z",
+    "last_checked": "2026-10-06T04:25:03.114Z"
+  }
+]

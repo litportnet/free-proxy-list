@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.223.129.21,80,http://196.223.129.21:80,elite,false,3008,2948,82,66.2,816,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-10-05T04:26:00.174Z
+http,196.223.129.21,80,http://196.223.129.21:80,elite,false,1856,987.5,96.4,73.6,874,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-10-06T04:30:47.370Z
+http,102.208.228.90,3128,http://102.208.228.90:3128,elite,true,7167,2292.5,74.5,69.5,452,102.208.228.90,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328882,Sahdsoft Technologies CC,22,2026-09-13T02:21:10.616Z,2026-10-06T04:23:11.922Z
+http,102.208.228.90,8080,http://102.208.228.90:8080,elite,true,1139,1240,76.9,68.9,437,102.208.228.90,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328882,Sahdsoft Technologies CC,24,2026-09-12T23:19:39.441Z,2026-10-06T04:29:55.127Z
+http,102.218.41.98,8082,http://102.218.41.98:8082,transparent,false,3998,4551,22.2,14.5,200,102.218.41.98,1,za,KwaZulu-Natal,Durban,Africa/Johannesburg,328942,IMVULA ITECHNOLOGIES (PTY) LTD,19,2026-03-15T23:01:53.802Z,2026-10-06T04:21:58.822Z

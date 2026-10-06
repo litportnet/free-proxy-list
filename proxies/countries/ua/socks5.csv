@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,false,4215,2863.5,78.8,78.8,85,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,14,2026-10-04T13:25:59.371Z,2026-10-05T04:23:57.259Z
-socks5,91.201.182.78,1080,socks5://91.201.182.78:1080,elite,false,4066,2097,48,33.9,667,91.201.182.78,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,44383,KP CIC Kharkov,15,2026-09-27T20:07:42.189Z,2026-10-05T04:28:59.909Z
-socks5,185.151.86.121,3699,socks5://185.151.86.121:3699,elite,false,2078,3993,25.5,26.3,407,31.128.249.254,1,ua,Cherkasy,Cherkasy,Europe/Kyiv,208139,FOP Avator Myhaylo Mykolayovych,19,2025-09-05T00:24:35.928Z,2026-10-05T04:24:26.517Z
-socks5,91.224.96.93,1080,socks5://91.224.96.93:1080,elite,false,2529,2100.5,29.1,23.3,292,91.224.96.93,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,56354,IT-INVEST LTD,19,2026-09-19T03:36:58.056Z,2026-10-05T04:22:14.087Z
+socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,830,1349,55.8,66.1,189,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-06T04:25:00.926Z

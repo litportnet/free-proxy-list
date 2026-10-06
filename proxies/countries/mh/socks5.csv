@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10813,socks5://5.75.133.113:10813,elite,true,2651,3196,58.4,43,549,45.254.247.7,1,mh,Majuro Atoll,Majuro,Pacific/Majuro,22363,"Powerhouse Management, Inc.",20,2026-09-16T14:24:02.370Z,2026-10-05T04:24:07.015Z

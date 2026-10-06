@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "195.135.255.98",
+    "port": 1080,
+    "url": "socks5://195.135.255.98:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 961,
+    "latency_median_ms": 932.5,
+    "uptime_24h": 93.3,
+    "uptime_7d": 74.1,
+    "checks_7d": 633,
+    "exit_ip": "195.135.255.98",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 42532,
+    "asn_org": "SIA VEESP",
+    "sources_count": 19,
+    "first_seen": "2026-07-06T17:06:50.617Z",
+    "last_checked": "2026-10-06T04:22:28.475Z"
+  }
+]

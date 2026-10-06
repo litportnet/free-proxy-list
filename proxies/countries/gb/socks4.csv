@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.73.39.118,9999,socks4://185.73.39.118:9999,elite,true,1665,1273.5,98.6,99.4,476,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",14,2026-10-01T20:52:16.328Z,2026-10-05T04:24:05.919Z
-socks4,157.180.24.140,11111,socks4://157.180.24.140:11111,elite,true,2379,1963,89.4,94,317,141.98.252.210,2,gb,England,London,Europe/London,39351,31173 Services AB,15,2026-10-02T23:05:56.464Z,2026-10-05T04:28:49.345Z
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,543,571.5,54.6,52.4,769,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-05T04:24:54.202Z
-socks4,111.119.162.248,10900,socks4://111.119.162.248:10900,elite,true,4682,3134.5,30.9,24.8,303,8.208.75.96,2,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",18,2026-08-13T06:03:24.857Z,2026-10-05T04:24:48.797Z
+socks4,185.73.39.118,9999,socks4://185.73.39.118:9999,elite,true,728,1106,100,99.5,620,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",14,2026-10-01T20:52:16.328Z,2026-10-06T04:27:25.606Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,547,2563.5,66.4,54.3,760,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-06T04:26:07.736Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.15.187.158,999,http://186.15.187.158:999,transparent,false,2583,4134.5,12.5,30.9,388,186.15.187.158,1,cr,Puntarenas Province,San Juan Grande,America/Costa_Rica,262202,"Telefonica de Costa Rica TC, SA",19,2026-09-29T10:28:00.376Z,2026-10-05T04:21:57.852Z

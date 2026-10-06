@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "31.170.18.129",
+    "port": 4153,
+    "url": "socks4://31.170.18.129:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 710,
+    "latency_median_ms": 2671,
+    "uptime_24h": 26.3,
+    "uptime_7d": 12.4,
+    "checks_7d": 170,
+    "exit_ip": "31.170.18.159",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 43513,
+    "asn_org": "Sia Nano IT",
+    "sources_count": 20,
+    "first_seen": "2026-09-03T16:38:11.538Z",
+    "last_checked": "2026-10-06T04:26:17.457Z"
+  }
+]

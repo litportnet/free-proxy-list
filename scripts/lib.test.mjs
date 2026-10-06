@@ -42,6 +42,10 @@ test('ipv4ToInt parses valid dotted quads and rejects garbage', () => {
   assert.equal(ipv4ToInt('256.0.0.1'), null)
   assert.equal(ipv4ToInt('not-an-ip'), null)
   assert.equal(ipv4ToInt(''), null)
+  // Zero-padded octets are rejected: the dialer reads them as octal, so they
+  // must never be published as canonical dotted-decimal.
+  assert.equal(ipv4ToInt('012.0.0.1'), null)
+  assert.equal(ipv4ToInt('8.8.8.08'), null)
 })
 
 test('isPublicIpv4 rejects every bogon range and accepts a normal address', () => {

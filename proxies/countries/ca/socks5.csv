@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,5267,3483.5,91.4,78,854,23.234.122.195,1,ca,Quebec,Montréal,America/Toronto,11878,"tzulo, inc.",17,2026-09-21T21:11:29.587Z,2026-10-05T04:26:51.806Z
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,5222,742,80.7,70.8,910,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-10-05T04:24:35.166Z
-socks5,49.13.22.249,10801,socks5://49.13.22.249:10801,elite,true,1887,4784,63,61.6,802,192.30.89.51,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,19,2026-08-23T20:34:57.085Z,2026-10-05T04:26:42.335Z
-socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,false,1640,2320,57.5,55.7,630,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-05T04:22:03.275Z
+socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,187,1660,54.6,54.4,616,144.217.107.25,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-06T04:30:04.125Z
+socks5,68.183.193.205,10000,socks5://68.183.193.205:10000,elite,true,353,346,100,,5,68.183.193.205,3,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",1,2026-10-06T03:46:03.794Z,2026-10-06T04:27:04.092Z

@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,124.120.231.2,8080,http://124.120.231.2:8080,transparent,false,2124,4354.5,30.3,43.4,691,182.52.236.119,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,4,2026-09-10T22:54:11.229Z,2026-10-05T04:25:16.446Z
-http,202.29.215.78,8080,http://202.29.215.78:8080,transparent,false,3386,5746.5,18,23,482,202.29.219.38,1,th,Khon Kaen,Khon Kaen,Asia/Bangkok,4621,UNINET-TH,26,2025-09-07T13:20:10.805Z,2026-10-05T04:24:27.597Z
-http,125.27.218.12,8080,http://125.27.218.12:8080,transparent,false,6331,2642.5,12.2,13.6,214,125.27.218.12,1,th,Lopburi,Tha Luang,Asia/Bangkok,23974,Ministry of education,15,2025-11-24T18:04:26.298Z,2026-10-05T04:19:08.614Z
-http,1.1.189.58,8080,http://1.1.189.58:8080,transparent,false,5176,3899,18.8,7.9,114,1.1.189.58,1,th,Chumphon,Chumphon,Asia/Bangkok,23969,TOT Public Company Limited,23,2025-09-10T21:05:12.314Z,2026-10-05T04:20:54.525Z
+http,183.88.231.188,34599,http://183.88.231.188:34599,transparent,false,4067,4783.5,14.6,10.5,152,183.88.231.188,1,th,Phuket,Rawai,Asia/Bangkok,45758,Advanced Wireless Network Company Limited,20,2025-09-06T05:35:42.796Z,2026-10-06T04:22:23.097Z

@@ -14,7 +14,12 @@ const ipv4Pattern = /^(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})$/
 export function ipv4ToInt(ip) {
   const match = ipv4Pattern.exec(String(ip || ''))
   if (!match) return null
-  const parts = match.slice(1, 5).map(Number)
+  // Reject zero-padded octets ("012"): the dialer reads a leading zero as octal,
+  // so such a host would resolve to a different (often private) address than the
+  // decimal reading used here. Publish only canonical dotted-decimal.
+  const octets = match.slice(1, 5)
+  if (octets.some(part => part.length > 1 && part[0] === '0')) return null
+  const parts = octets.map(Number)
   if (parts.some(part => part < 0 || part > 255)) return null
   return ((parts[0] << 24) >>> 0) + (parts[1] << 16) + (parts[2] << 8) + parts[3]
 }

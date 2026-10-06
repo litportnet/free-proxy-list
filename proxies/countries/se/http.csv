@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,570,723.5,77.8,93,973,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-10-05T04:24:41.680Z
-http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,4730,574.5,76.1,61.4,880,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-05T04:23:02.189Z
-http,194.14.207.87,80,http://194.14.207.87:80,elite,false,742,5131.5,54.8,49.5,725,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-06-08T13:04:45.237Z,2026-10-05T04:22:45.496Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,636,674,100,98.7,1001,104.23.221.210,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-06T04:28:44.518Z
+http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,7976,783,97.2,93,972,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-10-06T04:28:52.904Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,553,601.5,96.4,67.2,895,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-06T04:30:59.509Z

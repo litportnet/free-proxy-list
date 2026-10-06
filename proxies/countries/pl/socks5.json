@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "109.95.175.64",
+    "port": 1080,
+    "url": "socks5://109.95.175.64:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 925,
+    "latency_median_ms": 2021.5,
+    "uptime_24h": 76.3,
+    "uptime_7d": 76.3,
+    "checks_7d": 76,
+    "exit_ip": "109.95.175.64",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Warmia-Masuria",
+    "city": "Lubawa",
+    "timezone": "Europe/Warsaw",
+    "asn": 43420,
+    "asn_org": "Eltronik Sp. z o.o.",
+    "sources_count": 11,
+    "first_seen": "2026-10-05T12:38:11.693Z",
+    "last_checked": "2026-10-06T04:23:02.262Z"
+  }
+]

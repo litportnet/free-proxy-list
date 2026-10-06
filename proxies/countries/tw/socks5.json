@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "123.113.129.17",
+    "port": 1081,
+    "url": "socks5://123.113.129.17:1081",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2531,
+    "latency_median_ms": 2531,
+    "uptime_24h": 75,
+    "uptime_7d": null,
+    "checks_7d": 4,
+    "exit_ip": "36.224.168.64",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taipei",
+    "city": "Banqiao",
+    "timezone": "Asia/Taipei",
+    "asn": 3462,
+    "asn_org": "Data Communication Business Group",
+    "sources_count": 1,
+    "first_seen": "2026-10-06T03:46:08.137Z",
+    "last_checked": "2026-10-06T04:28:38.202Z"
+  }
+]

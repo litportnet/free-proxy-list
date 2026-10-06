@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.254.48.188,1970,http://41.254.48.188:1970,elite,true,4620,4511.5,17,18.2,291,41.254.48.188,1,ly,Al Jufrah,Hūn,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),12,2025-09-08T19:37:12.369Z,2026-10-05T04:24:21.609Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.196.179.34,8080,http://85.196.179.34:8080,elite,false,4377,5992.5,12.5,14.1,213,85.196.179.34,1,bg,Sofia-Capital,Sofia,Europe/Sofia,29580,A1 Bulgaria EAD,15,2025-12-07T09:09:59.095Z,2026-10-05T04:21:35.557Z

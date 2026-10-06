@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,209.45.65.53,1011,http://209.45.65.53:1011,transparent,false,4910,4918,17.5,22.7,343,209.45.65.51,1,pe,Lima Province,Lima,America/Lima,3132,Red Cientifica Peruana,20,2026-09-17T03:30:53.191Z,2026-10-05T04:25:47.207Z
-http,161.132.45.17,1081,http://161.132.45.17:1081,transparent,false,4531,4642.5,16,17,265,161.132.45.17,1,pe,Lima Province,Lima,America/Lima,3132,Red Cientifica Peruana,20,2026-07-10T04:49:25.960Z,2026-10-05T04:24:59.601Z
-http,38.226.49.124,999,http://38.226.49.124:999,transparent,false,3151,4281.5,13.6,12.1,231,38.226.49.122,1,pe,Cuzco Department,Mantaro,America/Lima,274029,KAZAV LATAM E.I.R.L.,22,2026-08-13T17:09:25.141Z,2026-10-05T04:24:26.494Z
+http,190.119.185.156,999,http://190.119.185.156:999,transparent,false,6577,2428.5,21.7,17,165,190.119.185.154,1,pe,Cajamarca Department,Chota,America/Lima,12252,America Movil Peru S.A.C.,18,2026-09-30T18:44:45.576Z,2026-10-06T04:25:03.642Z

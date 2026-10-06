@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,true,925,2021.5,76.3,76.3,76,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,11,2026-10-05T12:38:11.693Z,2026-10-06T04:23:02.262Z

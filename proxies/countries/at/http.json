@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "217.182.195.221",
-    "port": 30008,
-    "url": "http://217.182.195.221:30008",
-    "anonymity": "transparent",
+    "ip": "47.129.105.10",
+    "port": 46808,
+    "url": "http://47.129.105.10:46808",
+    "anonymity": "unknown",
     "https": false,
-    "latency_ms": 2237,
-    "latency_median_ms": 2283,
-    "uptime_24h": 10.4,
-    "uptime_7d": 16,
-    "checks_7d": 312,
-    "exit_ip": "109.70.100.13",
+    "latency_ms": 1858,
+    "latency_median_ms": 1858,
+    "uptime_24h": 50,
+    "uptime_7d": null,
+    "checks_7d": 6,
+    "exit_ip": "47.129.105.10",
     "exit_shared": 1,
     "country": "at",
     "region": "Vienna",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Vienna",
     "asn": 208323,
     "asn_org": "Foundation for Applied Privacy",
-    "sources_count": 22,
-    "first_seen": "2026-07-18T17:37:40.469Z",
-    "last_checked": "2026-10-05T04:27:13.483Z"
+    "sources_count": 1,
+    "first_seen": "2026-09-24T00:19:30.668Z",
+    "last_checked": "2026-10-06T04:26:24.379Z"
   }
 ]

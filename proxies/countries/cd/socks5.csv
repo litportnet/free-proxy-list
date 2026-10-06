@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.171.94.166,1081,socks5://217.171.94.166:1081,elite,false,2618,2649.5,43.1,31.5,222,217.171.94.166,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,43256,Global Broadband Solution Inc,15,2026-10-02T18:03:11.507Z,2026-10-05T04:20:18.511Z

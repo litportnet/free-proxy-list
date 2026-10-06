@@ -6,11 +6,11 @@
     "url": "http://195.114.209.50:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 464,
-    "latency_median_ms": 461.5,
-    "uptime_24h": 99.3,
-    "uptime_7d": 97,
-    "checks_7d": 995,
+    "latency_ms": 497,
+    "latency_median_ms": 456.5,
+    "uptime_24h": 100,
+    "uptime_7d": 97.9,
+    "checks_7d": 999,
     "exit_ip": "195.114.209.50",
     "exit_shared": 1,
     "country": "es",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Madrid",
     "asn": 57286,
     "asn_org": "GIGAS HOSTING S.A.",
-    "sources_count": 20,
-    "first_seen": "2025-09-10T19:34:46.844Z",
-    "last_checked": "2026-10-05T04:28:36.571Z"
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:33.237Z",
+    "last_checked": "2026-10-06T04:26:12.023Z"
   }
 ]
