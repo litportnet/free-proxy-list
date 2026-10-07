@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.73.39.118,9999,http://185.73.39.118:9999,elite,true,1791,1871.5,97.9,98.1,620,185.73.39.118,3,gb,England,Slough,Europe/London,6364,"Atlantic.net, Inc.",18,2026-10-01T19:58:11.770Z,2026-10-06T04:23:03.311Z
-http,213.171.212.110,8080,http://213.171.212.110:8080,elite,true,3713,1174,77.8,59.8,328,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,18,2026-09-15T07:49:20.472Z,2026-10-06T04:28:32.987Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,720,647,99.3,99,1006,172.64.192.153,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-07T04:27:14.812Z
+http,213.171.212.110,8080,http://213.171.212.110:8080,elite,true,599,2054.5,72.5,65.1,435,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,19,2026-09-15T07:49:20.472Z,2026-10-07T04:33:35.096Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,460,478,31.1,28.7,435,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,15,2025-10-03T21:41:53.577Z,2026-10-07T04:30:32.435Z

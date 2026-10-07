@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,830,1349,55.8,66.1,189,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-06T04:25:00.926Z
+socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,4568,2793,42.3,57.7,293,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-07T04:30:40.862Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,true,894,2117,49,49.4,688,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-10-07T04:27:48.880Z
+socks5,46.35.227.251,1082,socks5://46.35.227.251:1082,elite,false,6034,2010,26,29.1,134,104.28.255.119,1,ua,Sevastopol City,Sevastopol,Europe/Simferopol,13335,"Cloudflare, Inc.",11,2026-10-05T09:36:36.918Z,2026-10-07T04:24:33.505Z

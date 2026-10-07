@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,958,1988,81.9,80.2,943,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-06T04:29:02.352Z
-socks4,196.1.182.130,1080,socks4://196.1.182.130:1080,elite,false,1133,5168.5,61.3,53.5,811,196.1.182.130,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,14,2026-07-06T20:02:55.749Z,2026-10-06T04:27:49.772Z
-socks4,154.113.170.129,5678,socks4://154.113.170.129:5678,elite,false,929,3961,20,12,159,154.113.167.70,1,ng,Lagos,Lagos,Africa/Lagos,37282,Main one Cable Company Nigeria Limited,8,2025-09-07T10:15:31.892Z,2026-10-06T04:28:26.670Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,4504,1978.5,69.4,78.5,942,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-07T04:29:11.475Z

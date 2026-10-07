@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1366,2653.5,98.6,97.7,998,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-06T04:23:25.371Z
-socks5,185.197.74.126,2080,socks5://185.197.74.126:2080,elite,false,5775,3415.5,30.5,23.1,295,185.197.74.126,1,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,20,2026-06-25T17:44:35.833Z,2026-10-06T04:26:08.270Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1205,1347.5,87.9,96.2,987,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-07T04:30:54.018Z

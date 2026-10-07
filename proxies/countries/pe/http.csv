@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.119.185.156,999,http://190.119.185.156:999,transparent,false,6577,2428.5,21.7,17,165,190.119.185.154,1,pe,Cajamarca Department,Chota,America/Lima,12252,America Movil Peru S.A.C.,18,2026-09-30T18:44:45.576Z,2026-10-06T04:25:03.642Z
+http,38.172.130.175,999,http://38.172.130.175:999,transparent,false,3580,6974,25,35.4,99,38.172.130.175,1,pe,Lima Province,Lima,America/Lima,273133,CONEX TV E.I.R.L.,17,2026-10-05T21:42:54.981Z,2026-10-07T04:30:43.519Z
+http,200.39.153.1,999,http://200.39.153.1:999,transparent,true,1677,5743.5,12.5,14,293,200.39.155.253,1,pe,Amazonas,Chachapoyas,America/Lima,270010,AIRWIZ PERU E.I.R.L,17,2026-02-16T11:10:10.252Z,2026-10-07T04:32:13.487Z
+http,209.14.108.101,999,http://209.14.108.101:999,transparent,false,2317,5256,22.6,12.4,209,209.14.108.105,1,pe,Lima Province,Lima,America/Lima,272106,CORPORACION TARAZONA CATV S.A.C.,19,2026-06-11T17:45:16.058Z,2026-10-07T04:29:39.699Z
+http,38.52.182.55,999,http://38.52.182.55:999,transparent,false,4493,4475,11.5,8.2,159,38.52.182.50,1,pe,Lima Province,Lima,America/Lima,273026,NEXSATEL SOCIEDAD ANONIMA CERRADA - NEXSATEL S.A.C.,17,2026-02-07T02:10:32.575Z,2026-10-07T04:23:17.926Z

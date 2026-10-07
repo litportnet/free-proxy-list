@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,203.174.26.129,4153,socks4://203.174.26.129:4153,elite,false,2139,2036,27.3,26.6,500,180.149.95.214,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,13,2025-09-04T23:49:01.812Z,2026-10-06T04:31:14.352Z
+socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,1100,1095.5,51.7,60.7,864,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-10-07T04:24:46.872Z
+http,202.21.101.37,8088,http://202.21.101.37:8088,elite,true,6766,4146.5,19,25.2,306,202.21.101.37,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9484,Mobinet LLC. AS Mobinet Internet Service Provider,19,2026-10-02T16:02:05.410Z,2026-10-07T04:26:53.826Z
+http,103.11.193.76,8080,http://103.11.193.76:8080,transparent,true,5317,4867,18.8,22,405,103.11.193.76,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,11,2026-09-21T10:05:33.015Z,2026-10-07T04:25:28.254Z

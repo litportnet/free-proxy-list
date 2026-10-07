@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "109.205.126.6",
+    "port": 8080,
+    "url": "http://109.205.126.6:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8766,
+    "latency_median_ms": 3651.5,
+    "uptime_24h": 27.1,
+    "uptime_7d": 23.5,
+    "checks_7d": 506,
+    "exit_ip": "109.205.126.6",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 28699,
+    "asn_org": "Unistar",
+    "sources_count": 12,
+    "first_seen": "2025-09-05T20:06:23.926Z",
+    "last_checked": "2026-10-07T04:30:07.750Z"
+  }
+]

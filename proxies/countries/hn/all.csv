@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,181.115.75.102,5678,socks4://181.115.75.102:5678,elite,false,451,957.5,60,63.4,864,181.115.75.102,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",22,2025-09-04T23:01:57.983Z,2026-10-06T04:30:36.289Z
-http,45.182.22.251,999,http://45.182.22.251:999,transparent,false,6597,5979.5,66.7,,37,177.10.184.201,1,hn,Cortés Department,Choloma,America/Tegucigalpa,263725,MULTICABLE DE HONDURAS,3,2026-07-01T06:53:26.622Z,2026-10-06T04:28:36.114Z
+http,45.170.34.154,999,http://45.170.34.154:999,transparent,true,354,3570.5,27.5,26.5,215,45.170.34.154,1,hn,El Paraíso Department,Danlí,America/Tegucigalpa,267761,Onda Network S de R.L,9,2026-10-03T04:08:28.750Z,2026-10-07T04:31:39.753Z

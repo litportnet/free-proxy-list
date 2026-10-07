@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,41.216.232.213,4153,socks4://41.216.232.213:4153,elite,false,2888,2229.5,48,52.1,758,217.14.84.154,1,cm,Littoral,Douala,Africa/Douala,37672,INQ DIGITAL CAMEROON SA,14,2025-09-04T23:48:59.324Z,2026-10-07T04:24:57.624Z

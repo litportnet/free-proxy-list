@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,213.145.137.102,37447,socks4://213.145.137.102:37447,elite,false,4106,2073.5,16.4,14.5,83,213.145.137.102,1,kg,Bishkek,Bishkek,Asia/Bishkek,12997,OJSC Kyrgyztelecom,4,2025-09-04T23:49:05.337Z,2026-10-07T04:26:35.503Z

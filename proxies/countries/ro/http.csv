@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,78.12.246.160,55790,http://78.12.246.160:55790,unknown,false,2292,2493.5,22.2,11.7,120,78.12.246.160,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,2,2026-09-29T00:22:40.322Z,2026-10-06T04:26:33.545Z

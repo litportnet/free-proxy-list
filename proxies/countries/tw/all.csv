@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,4599,4300.5,81.6,80.8,922,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-06T04:29:19.263Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,870,808.5,95.6,74.6,846,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-06T04:22:46.730Z
-socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,false,959,2980,49,52.6,812,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-06T04:21:29.274Z
-socks5,123.113.129.17,1081,socks5://123.113.129.17:1081,elite,false,2531,2531,75,,4,36.224.168.64,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,1,2026-10-06T03:46:08.137Z,2026-10-06T04:28:38.202Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,3667,3916,74,79.6,927,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-07T04:32:19.262Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,767,794,87.9,77.5,885,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-07T04:29:32.505Z
+socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,false,8130,2041,54.8,52.8,832,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-07T04:25:10.002Z
+http,220.135.222.226,3128,http://220.135.222.226:3128,transparent,true,809,823,18.5,14,178,220.135.222.226,1,tw,Taiwan,Taoyuan,Asia/Taipei,3462,Data Communication Business Group,20,2026-09-01T05:22:14.228Z,2026-10-07T04:27:04.610Z
+http,106.104.177.158,60808,http://106.104.177.158:60808,elite,false,4951,4736,9.5,6.9,146,106.104.177.158,1,tw,Taiwan,Taichung,Asia/Taipei,4780,Digital United Inc.,17,2025-09-20T23:14:38.631Z,2026-10-07T04:32:01.882Z

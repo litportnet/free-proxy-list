@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.0.155.133,8080,http://154.0.155.133:8080,transparent,false,2634,4793.5,26,27.5,404,154.0.155.133,1,tz,Mwanza,Mwanza,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,16,2026-08-31T04:10:01.273Z,2026-10-06T04:22:13.427Z
-http,41.59.112.250,3030,http://41.59.112.250:3030,transparent,false,8715,5371,24.3,18.3,367,41.59.112.250,1,tz,Dodoma,Dodoma,Africa/Dar_es_Salaam,33765,TANZANIA TELECOMMUNICATIONS CO. LTD,13,2025-12-30T21:11:36.642Z,2026-10-06T04:23:24.849Z
+socks4,169.255.48.50,1080,socks4://169.255.48.50:1080,elite,true,2561,1601.5,54,54.1,355,169.255.48.30,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,327792,Computer Sales & Services,16,2026-10-04T01:19:38.223Z,2026-10-07T04:30:06.170Z
+http,154.72.67.190,8080,http://154.72.67.190:8080,transparent,false,6604,4204,17.1,9.8,122,154.72.67.190,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,30844,Liquid Telecommunications Ltd,19,2025-09-08T03:28:23.119Z,2026-10-07T04:25:49.268Z

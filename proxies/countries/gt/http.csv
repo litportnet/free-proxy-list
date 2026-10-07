@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,148.230.17.251,999,http://148.230.17.251:999,transparent,false,8356,2984,11.1,6.1,82,148.230.17.250,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,16,2026-04-20T08:56:53.439Z,2026-10-06T04:27:38.501Z
+http,148.230.27.77,999,http://148.230.27.77:999,transparent,false,2883,2891.5,11.9,24.3,313,148.230.27.73,1,gt,Guatemala,Guatemala City,America/Guatemala,23243,COMCEL GUATEMALA S.A.,16,2026-04-07T13:49:48.793Z,2026-10-07T04:27:15.358Z
+http,45.5.117.77,999,http://45.5.117.77:999,transparent,false,3270,3481,16.1,23.9,234,45.5.117.77,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,6,2026-10-04T02:20:07.389Z,2026-10-07T04:24:33.511Z
+http,181.119.103.237,999,http://181.119.103.237:999,transparent,false,877,3313.5,22.5,20.2,407,181.119.103.237,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,22,2025-09-05T20:06:32.308Z,2026-10-07T04:29:01.112Z

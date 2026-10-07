@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.175.136.21,1080,socks5://5.175.136.21:1080,elite,true,3134,2576,83.5,88.7,229,5.175.136.21,2,tr,Istanbul,Istanbul,Europe/Istanbul,203516,AltunHOST LTD,14,2026-10-04T11:24:56.492Z,2026-10-06T04:28:12.188Z
-socks5,213.238.180.143,8443,socks5://213.238.180.143:8443,elite,true,2558,3248,87.3,78.5,158,213.238.180.244,2,tr,Istanbul,Istanbul,Europe/Istanbul,210574,PH Bilisim Teknolojileri Limited Sirketi,13,2026-10-03T21:17:27.968Z,2026-10-06T04:27:22.926Z
-socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,false,8314,2171.5,27.3,36.2,439,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-09-29T01:23:09.783Z,2026-10-06T04:21:42.187Z
+socks5,5.175.136.21,1080,socks5://5.175.136.21:1080,elite,true,1957,1940.5,77.2,84.7,352,5.175.136.21,2,tr,Istanbul,Istanbul,Europe/Istanbul,203516,AltunHOST LTD,14,2026-10-04T11:24:56.492Z,2026-10-07T04:30:28.226Z
+socks5,217.156.65.66,1080,socks5://217.156.65.66:1080,elite,true,2602,1492,74.1,77.1,170,149.102.229.132,2,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,15,2026-10-05T05:34:28.673Z,2026-10-07T04:25:55.696Z
+socks5,217.156.65.66,11080,socks5://217.156.65.66:11080,elite,true,1247,1390.5,75.9,70,120,149.102.229.132,2,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,15,2026-10-05T13:38:40.399Z,2026-10-07T04:23:56.574Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "93.93.61.153",
+    "port": 1080,
+    "url": "socks4://93.93.61.153:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1342,
+    "latency_median_ms": 5305,
+    "uptime_24h": 29,
+    "uptime_7d": 55,
+    "checks_7d": 835,
+    "exit_ip": "93.93.61.153",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Vilnius",
+    "city": "Vilnius",
+    "timezone": "Europe/Vilnius",
+    "asn": 44613,
+    "asn_org": "Ogmios centras AS number",
+    "sources_count": 21,
+    "first_seen": "2026-07-05T07:46:21.191Z",
+    "last_checked": "2026-10-07T04:27:14.278Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "46.122.16.54",
+    "port": 8080,
+    "url": "http://46.122.16.54:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3022,
+    "latency_median_ms": 3486.5,
+    "uptime_24h": 30,
+    "uptime_7d": 9.4,
+    "checks_7d": 106,
+    "exit_ip": "46.122.16.54",
+    "exit_shared": 1,
+    "country": "si",
+    "region": "Ljubljana",
+    "city": "Ljubljana",
+    "timezone": "Europe/Ljubljana",
+    "asn": 21283,
+    "asn_org": "A1 Slovenija telekomunikacijske storitve,d.d.",
+    "sources_count": 25,
+    "first_seen": "2026-08-02T05:42:40.272Z",
+    "last_checked": "2026-10-07T04:25:58.928Z"
+  }
+]

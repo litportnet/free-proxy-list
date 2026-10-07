@@ -5,12 +5,12 @@
     "port": 3128,
     "url": "http://195.144.24.57:3128",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3262,
-    "latency_median_ms": 1918,
-    "uptime_24h": 72.3,
-    "uptime_7d": 74.2,
-    "checks_7d": 920,
+    "https": true,
+    "latency_ms": 1581,
+    "latency_median_ms": 2277,
+    "uptime_24h": 64.6,
+    "uptime_7d": 72.5,
+    "checks_7d": 911,
     "exit_ip": "195.144.24.57",
     "exit_shared": 1,
     "country": "mk",
@@ -21,6 +21,6 @@
     "asn_org": "AVS ISP",
     "sources_count": 24,
     "first_seen": "2026-09-21T02:01:18.106Z",
-    "last_checked": "2026-10-06T04:20:59.734Z"
+    "last_checked": "2026-10-07T04:31:40.301Z"
   }
 ]

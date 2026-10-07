@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,false,3530,2734.5,68.8,63.8,748,46.102.153.134,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-10-06T04:28:10.946Z
-socks5,45.74.31.30,5261,socks5://45.74.31.30:5261,elite,true,2967,5721.5,10.5,10.4,125,170.64.135.172,1,au,New South Wales,Sydney,Australia/Sydney,14061,"DigitalOcean, LLC",15,2026-09-12T05:10:07.082Z,2026-10-06T04:24:49.095Z
+socks5,108.61.185.188,1080,socks5://108.61.185.188:1080,elite,true,4281,3941,39,40.1,608,45.77.235.30,2,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",13,2026-10-01T10:53:20.451Z,2026-10-07T04:31:52.909Z

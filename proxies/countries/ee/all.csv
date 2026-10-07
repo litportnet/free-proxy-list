@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,606,590.5,99.3,90.8,977,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-10-06T04:28:27.269Z
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,false,886,705,92.5,73.8,898,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-10-06T04:28:10.956Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,1248,567.5,99.3,92.8,997,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,P.A.G.M. OU,19,2025-09-10T19:34:46.751Z,2026-10-07T04:25:29.881Z

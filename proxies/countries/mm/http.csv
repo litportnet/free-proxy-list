@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,true,8342,3636.5,38.5,46.7,793,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-10-07T04:27:42.340Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,true,4193,4170.5,37.4,40.9,284,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,9,2025-11-23T20:53:12.983Z,2026-10-07T04:25:15.952Z
+http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,4749,2634.5,46.2,37.1,213,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,16,2025-09-08T05:28:14.758Z,2026-10-07T04:32:05.037Z

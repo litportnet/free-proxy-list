@@ -6,11 +6,11 @@
     "url": "http://196.179.234.18:8989",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 8332,
-    "latency_median_ms": 788.5,
-    "uptime_24h": 41.8,
-    "uptime_7d": 26.3,
-    "checks_7d": 175,
+    "latency_ms": 3865,
+    "latency_median_ms": 4878,
+    "uptime_24h": 32.1,
+    "uptime_7d": 28.1,
+    "checks_7d": 256,
     "exit_ip": "196.179.234.18",
     "exit_shared": 1,
     "country": "tn",
@@ -21,6 +21,6 @@
     "asn_org": "OOREDOO TUNISIE SA",
     "sources_count": 17,
     "first_seen": "2026-10-02T16:02:05.410Z",
-    "last_checked": "2026-10-06T04:25:03.114Z"
+    "last_checked": "2026-10-07T04:29:39.800Z"
   }
 ]

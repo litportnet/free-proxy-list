@@ -6,11 +6,11 @@
     "url": "http://5.45.126.128:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 606,
-    "latency_median_ms": 590.5,
+    "latency_ms": 1248,
+    "latency_median_ms": 567.5,
     "uptime_24h": 99.3,
-    "uptime_7d": 90.8,
-    "checks_7d": 977,
+    "uptime_7d": 92.8,
+    "checks_7d": 997,
     "exit_ip": "5.45.126.128",
     "exit_shared": 1,
     "country": "ee",
@@ -21,6 +21,6 @@
     "asn_org": "P.A.G.M. OU",
     "sources_count": 19,
     "first_seen": "2025-09-10T19:34:46.751Z",
-    "last_checked": "2026-10-06T04:28:27.269Z"
+    "last_checked": "2026-10-07T04:25:29.881Z"
   }
 ]

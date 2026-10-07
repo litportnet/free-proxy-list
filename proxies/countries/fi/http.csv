@@ -1,9 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,3295,2825.5,100,99.9,1003,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-06T04:22:31.670Z
-http,65.109.219.108,2000,http://65.109.219.108:2000,elite,true,1256,1353.5,95,94.6,354,65.109.219.108,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2026-10-03T16:14:49.283Z,2026-10-06T04:24:17.950Z
-http,85.209.156.148,1080,http://85.209.156.148:1080,elite,true,743,1853.5,96.4,93.3,970,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,23,2026-08-25T00:50:34.299Z,2026-10-06T04:29:13.987Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,529,551,100,90.5,988,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-06T04:28:33.501Z
-http,65.109.215.187,8090,http://65.109.215.187:8090,elite,true,610,564.5,78.7,83,572,65.109.215.187,3,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2026-10-01T20:52:08.963Z,2026-10-06T04:27:00.853Z
-http,94.181.174.18,10808,http://94.181.174.18:10808,elite,true,664,871,38.5,42.2,83,2.26.67.176,3,fi,Uusimaa,Helsinki,Europe/Helsinki,210546,CHSL ONE LTD,16,2026-10-03T08:10:44.088Z,2026-10-06T04:24:37.765Z
-http,46.243.1.99,3128,http://46.243.1.99:3128,elite,true,8884,3693.5,12.1,18.8,277,46.243.1.99,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,23,2026-09-16T01:16:59.192Z,2026-10-06T04:26:16.331Z
-http,204.168.225.55,8888,http://204.168.225.55:8888,elite,true,556,587,27.7,18.5,297,104.28.254.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",22,2026-07-05T22:00:26.276Z,2026-10-06T04:28:34.540Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,556,534.5,96.5,99.5,1001,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-07T04:32:50.826Z
+http,65.109.219.108,2000,http://65.109.219.108:2000,elite,true,904,949,93.4,94.3,491,65.109.219.108,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2026-10-03T16:14:49.283Z,2026-10-07T04:25:34.140Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,560,551,97.2,91.6,997,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-07T04:27:25.112Z
+http,65.109.215.187,8090,http://65.109.215.187:8090,elite,true,916,683,95,85.4,712,65.109.215.187,3,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2026-10-01T20:52:08.963Z,2026-10-07T04:24:56.035Z

@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,712,1424.5,85.7,74.8,923,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-10-06T04:31:23.273Z
-socks4,45.81.154.75,1080,socks4://45.81.154.75:1080,elite,true,1414,4477.5,80.5,68.7,767,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,15,2026-09-26T09:49:38.803Z,2026-10-06T04:21:34.128Z
-socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,false,4098,1348,57.1,56,844,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,9,2025-09-05T20:06:27.740Z,2026-10-06T04:25:36.513Z
-socks4,185.130.219.12,4153,socks4://185.130.219.12:4153,elite,false,3627,2631.5,33.8,40.5,538,185.130.219.10,2,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,11,2025-09-06T19:42:47.705Z,2026-10-06T04:26:15.247Z
-socks4,185.130.219.11,4153,socks4://185.130.219.11:4153,elite,true,608,1138.5,33.8,39.1,603,185.130.219.10,2,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,12,2025-09-05T20:06:26.508Z,2026-10-06T04:23:33.440Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,3751,3734.5,71.2,75.4,913,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-10-07T04:32:08.722Z

@@ -6,11 +6,11 @@
     "url": "socks4://46.243.183.132:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2757,
-    "latency_median_ms": 1727.5,
-    "uptime_24h": 96.6,
-    "uptime_7d": 96.6,
-    "checks_7d": 58,
+    "latency_ms": 1534,
+    "latency_median_ms": 1429,
+    "uptime_24h": 91.1,
+    "uptime_7d": 92.7,
+    "checks_7d": 192,
     "exit_ip": "46.243.183.132",
     "exit_shared": 2,
     "country": "by",
@@ -19,9 +19,9 @@
     "timezone": "Europe/Minsk",
     "asn": 209283,
     "asn_org": "ITGLOBALCOM BEL LLC",
-    "sources_count": 4,
+    "sources_count": 6,
     "first_seen": "2026-08-12T19:57:31.909Z",
-    "last_checked": "2026-10-06T04:30:22.054Z"
+    "last_checked": "2026-10-07T04:25:14.882Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://46.243.183.132:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1811,
-    "latency_median_ms": 1795.5,
-    "uptime_24h": 95.3,
-    "uptime_7d": 95.3,
-    "checks_7d": 107,
+    "latency_ms": 829,
+    "latency_median_ms": 1147,
+    "uptime_24h": 89.3,
+    "uptime_7d": 92,
+    "checks_7d": 238,
     "exit_ip": "46.243.183.132",
     "exit_shared": 2,
     "country": "by",
@@ -43,9 +43,9 @@
     "timezone": "Europe/Minsk",
     "asn": 209283,
     "asn_org": "ITGLOBALCOM BEL LLC",
-    "sources_count": 4,
+    "sources_count": 5,
     "first_seen": "2026-08-12T20:58:19.804Z",
-    "last_checked": "2026-10-06T04:22:36.538Z"
+    "last_checked": "2026-10-07T04:28:21.160Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://86.57.178.182:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1699,
-    "latency_median_ms": 2723.5,
-    "uptime_24h": 56.6,
-    "uptime_7d": 48.8,
-    "checks_7d": 800,
+    "latency_ms": 1743,
+    "latency_median_ms": 1219.5,
+    "uptime_24h": 55.6,
+    "uptime_7d": 48.6,
+    "checks_7d": 810,
     "exit_ip": "86.57.178.182",
     "exit_shared": 1,
     "country": "by",
@@ -69,6 +69,6 @@
     "asn_org": "Republican Unitary Telecommunication Enterprise Beltelecom",
     "sources_count": 21,
     "first_seen": "2026-07-08T02:19:07.490Z",
-    "last_checked": "2026-10-06T04:28:39.735Z"
+    "last_checked": "2026-10-07T04:33:47.828Z"
   }
 ]

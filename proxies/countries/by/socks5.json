@@ -6,11 +6,11 @@
     "url": "socks5://46.243.183.132:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1811,
-    "latency_median_ms": 1795.5,
-    "uptime_24h": 95.3,
-    "uptime_7d": 95.3,
-    "checks_7d": 107,
+    "latency_ms": 829,
+    "latency_median_ms": 1147,
+    "uptime_24h": 89.3,
+    "uptime_7d": 92,
+    "checks_7d": 238,
     "exit_ip": "46.243.183.132",
     "exit_shared": 2,
     "country": "by",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Minsk",
     "asn": 209283,
     "asn_org": "ITGLOBALCOM BEL LLC",
-    "sources_count": 4,
+    "sources_count": 5,
     "first_seen": "2026-08-12T20:58:19.804Z",
-    "last_checked": "2026-10-06T04:22:36.538Z"
+    "last_checked": "2026-10-07T04:28:21.160Z"
   }
 ]

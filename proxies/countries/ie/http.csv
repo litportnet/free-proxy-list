@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,40.127.188.42,8089,http://40.127.188.42:8089,elite,true,423,447,97.4,97.4,76,40.87.141.63,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,10,2026-07-04T18:38:42.004Z,2026-10-07T04:33:54.688Z
+http,185.138.114.111,8080,http://185.138.114.111:8080,transparent,true,622,4241.5,19.2,22.6,473,185.138.114.111,1,ie,Munster,Newcastle West,Europe/Dublin,207044,Enet Telecommunications Networks Limited,16,2026-06-09T18:20:18.103Z,2026-10-07T04:30:40.873Z
