@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,85.90.207.232,3128,http://85.90.207.232:3128,elite,true,738,1831.5,50,50,60,85.90.207.232,1,am,Yerevan,Yerevan,Asia/Yerevan,202422,G-Core Labs S.A.,13,2026-10-07T17:05:42.777Z,2026-10-08T04:24:05.219Z

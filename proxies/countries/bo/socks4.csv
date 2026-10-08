@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.104.26.227,33638,socks4://190.104.26.227:33638,elite,true,647,3635.5,41.4,56.4,818,190.104.26.227,1,bo,La Paz Department,La Paz,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,21,2025-09-04T23:49:14.390Z,2026-10-07T04:31:48.709Z

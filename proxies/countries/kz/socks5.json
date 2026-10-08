@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "217.60.35.156",
+    "port": 10808,
+    "url": "socks5://217.60.35.156:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 7743,
+    "latency_median_ms": 1684.5,
+    "uptime_24h": 95,
+    "uptime_7d": null,
+    "checks_7d": 20,
+    "exit_ip": "37.151.92.216",
+    "exit_shared": 2,
+    "country": "kz",
+    "region": "Astana",
+    "city": "Astana",
+    "timezone": "Asia/Almaty",
+    "asn": 9198,
+    "asn_org": "JSC Kazakhtelecom",
+    "sources_count": 8,
+    "first_seen": "2026-10-08T01:10:02.084Z",
+    "last_checked": "2026-10-08T04:21:43.027Z"
+  }
+]

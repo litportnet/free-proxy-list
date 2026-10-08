@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.87.76.214,9050,socks5://194.87.76.214:9050,elite,true,1682,2383.5,10.3,5.2,96,90.184.10.74,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,203953,Hiper A/S,17,2026-07-04T17:38:39.795Z,2026-10-07T04:32:59.285Z

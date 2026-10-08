@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,934,1352.5,95,98.2,996,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-07T04:32:52.414Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2016,1842,97.2,97.8,994,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-08T04:25:04.796Z
+socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,true,862,895.5,36.8,54.1,812,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-08T04:25:26.878Z

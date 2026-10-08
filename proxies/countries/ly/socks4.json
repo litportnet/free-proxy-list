@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "165.16.99.209",
+    "port": 1080,
+    "url": "socks4://165.16.99.209:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8037,
+    "latency_median_ms": 1728.5,
+    "uptime_24h": 39.7,
+    "uptime_7d": 54.1,
+    "checks_7d": 379,
+    "exit_ip": "165.16.99.209",
+    "exit_shared": 1,
+    "country": "ly",
+    "region": "Tripoli",
+    "city": "Tripoli",
+    "timezone": "Africa/Tripoli",
+    "asn": 37284,
+    "asn_org": "Aljeel Aljadeed For Technology",
+    "sources_count": 16,
+    "first_seen": "2026-10-04T08:23:20.934Z",
+    "last_checked": "2026-10-08T04:27:20.423Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "79.76.59.115",
+    "port": 1080,
+    "url": "socks4://79.76.59.115:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1156,
+    "latency_median_ms": 1154,
+    "uptime_24h": 51.3,
+    "uptime_7d": 49.6,
+    "checks_7d": 701,
+    "exit_ip": "79.76.59.115",
+    "exit_shared": 2,
+    "country": "se",
+    "region": "Stockholm",
+    "city": "Stockholm",
+    "timezone": "Europe/Stockholm",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 18,
+    "first_seen": "2026-07-15T05:56:51.407Z",
+    "last_checked": "2026-10-08T04:28:36.685Z"
+  }
+]

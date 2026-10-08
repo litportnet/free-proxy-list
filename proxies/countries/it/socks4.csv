@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.62.48.193,5678,socks4://185.62.48.193:5678,elite,false,2054,2734.5,67.2,70.7,167,185.62.48.193,1,it,Molise,Isernia,Europe/Rome,201847,Elektronica Sistemi Di Muro Mauro E Turcinovic Walter S.n.c.,17,2026-10-05T18:41:21.622Z,2026-10-07T04:33:03.463Z
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,664,1678,43.9,43.9,644,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-07T04:26:37.124Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,626,618,42.6,48.4,620,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-08T04:24:07.923Z

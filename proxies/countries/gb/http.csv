@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,720,647,99.3,99,1006,172.64.192.153,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-07T04:27:14.812Z
-http,213.171.212.110,8080,http://213.171.212.110:8080,elite,true,599,2054.5,72.5,65.1,435,213.171.212.110,1,gb,England,London,Europe/London,8560,IONOS SE,19,2026-09-15T07:49:20.472Z,2026-10-07T04:33:35.096Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,460,478,31.1,28.7,435,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,15,2025-10-03T21:41:53.577Z,2026-10-07T04:30:32.435Z
+http,111.119.162.248,10940,http://111.119.162.248:10940,elite,true,2009,2527.5,33.8,21.7,322,8.208.75.96,2,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",20,2026-08-15T21:35:51.221Z,2026-10-08T04:23:45.414Z
+http,57.129.128.223,3128,http://57.129.128.223:3128,transparent,true,2519,6420,20.5,9.1,99,57.129.128.223,1,gb,England,Bexley,Europe/London,16276,OVH SAS,23,2026-09-17T03:30:44.651Z,2026-10-08T04:28:37.756Z

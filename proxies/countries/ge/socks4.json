@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "31.146.73.192",
+    "port": 4153,
+    "url": "socks4://31.146.73.192:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3949,
+    "latency_median_ms": 3973.5,
+    "uptime_24h": 29.6,
+    "uptime_7d": 23.5,
+    "checks_7d": 132,
+    "exit_ip": "31.146.73.192",
+    "exit_shared": 1,
+    "country": "ge",
+    "region": "Imereti",
+    "city": "Kutaisi",
+    "timezone": "Asia/Tbilisi",
+    "asn": 35805,
+    "asn_org": "JSC \"Silknet\"",
+    "sources_count": 5,
+    "first_seen": "2025-09-05T23:19:52.099Z",
+    "last_checked": "2026-10-08T04:26:51.251Z"
+  }
+]

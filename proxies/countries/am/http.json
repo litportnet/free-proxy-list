@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "85.90.207.232",
+    "port": 3128,
+    "url": "http://85.90.207.232:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 738,
+    "latency_median_ms": 1831.5,
+    "uptime_24h": 50,
+    "uptime_7d": 50,
+    "checks_7d": 60,
+    "exit_ip": "85.90.207.232",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 202422,
+    "asn_org": "G-Core Labs S.A.",
+    "sources_count": 13,
+    "first_seen": "2026-10-07T17:05:42.777Z",
+    "last_checked": "2026-10-08T04:24:05.219Z"
+  }
+]

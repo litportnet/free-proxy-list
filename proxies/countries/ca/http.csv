@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,92,100,96.5,96.2,995,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-07T04:33:22.427Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3253,3459.5,68.1,62.4,826,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-07T04:31:30.264Z
-http,192.99.44.178,3128,http://192.99.44.178:3128,transparent,true,3941,8800.5,18.8,16.8,256,192.99.44.178,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,21,2025-10-08T08:20:04.898Z,2026-10-07T04:26:05.937Z
-http,51.222.32.203,3177,http://51.222.32.203:3177,transparent,true,182,201,100,,22,51.222.32.203,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,11,2026-10-07T00:57:13.201Z,2026-10-07T04:30:56.647Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,1153,135,98.6,96.6,995,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-08T04:28:21.216Z

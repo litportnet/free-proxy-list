@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,212.112.121.130,8080,http://212.112.121.130:8080,transparent,false,3872,3868,24.3,23.5,493,212.112.121.130,1,kg,Bishkek,Bishkek,Asia/Bishkek,12764,AKNET Ltd.,16,2025-09-06T05:35:58.585Z,2026-10-07T04:32:48.205Z
-http,31.192.248.55,8080,http://31.192.248.55:8080,elite,false,1140,953,13.5,16.3,337,31.192.248.55,1,kg,Chuy Region,Kant,Asia/Bishkek,8449,ElCat Ltd.,13,2026-06-07T07:49:32.622Z,2026-10-07T04:29:39.588Z

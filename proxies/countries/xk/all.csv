@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.174.211.154,8080,http://185.174.211.154:8080,transparent,true,3643,3773,23.4,22,123,185.174.211.154,1,xk,Pristina,Pristina,Europe/Belgrade,206262,TelKos L.L.C,18,2026-10-04T12:25:31.891Z,2026-10-07T04:30:10.363Z
-http,91.187.113.68,8080,http://91.187.113.68:8080,transparent,true,2383,3807.5,12.5,18.9,301,91.187.113.68,1,xk,Pristina,Pristina,Europe/Belgrade,21246,IPKO Telecommunications LLC,22,2025-09-05T20:06:33.854Z,2026-10-07T04:31:16.106Z
-socks5,82.114.86.173,1090,socks5://82.114.86.173:1090,elite,true,1329,1037,100,,10,82.114.86.173,1,xk,Pec,Pejë,Europe/Belgrade,29170,Kujtesa Net Sh.p.k.,9,2026-10-07T02:58:20.684Z,2026-10-07T04:29:02.200Z
-http,45.84.118.250,8080,http://45.84.118.250:8080,transparent,true,1449,2454,55.6,,27,84.22.39.242,1,xk,Pristina,Kosovo Polje,Europe/Belgrade,33983,ARTMOTION SH.P.K.,9,2026-10-06T22:56:14.014Z,2026-10-07T04:31:07.144Z
+socks5,82.114.86.173,1090,socks5://82.114.86.173:1090,elite,true,856,2077,99.3,99.3,151,82.114.86.173,1,xk,Pec,Pejë,Europe/Belgrade,29170,Kujtesa Net Sh.p.k.,16,2026-10-07T02:58:20.684Z,2026-10-08T04:28:20.681Z

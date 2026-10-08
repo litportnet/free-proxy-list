@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,147.91.22.150,80,http://147.91.22.150:80,elite,false,577,595,88.1,80.4,853,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,12,2025-09-10T19:34:49.515Z,2026-10-07T04:33:17.144Z
-http,212.200.223.89,8080,http://212.200.223.89:8080,transparent,true,1177,3397,32.3,26.6,474,212.200.223.89,1,rs,Central Serbia,Šabac,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,23,2026-08-05T23:29:41.654Z,2026-10-07T04:30:10.362Z

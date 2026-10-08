@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,1100,1095.5,51.7,60.7,864,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-10-07T04:24:46.872Z
+socks4,119.40.98.29,8069,socks4://119.40.98.29:8069,elite,false,1071,1602.5,31.2,28.8,483,119.40.98.26,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,10109,"Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",20,2025-11-28T16:54:54.581Z,2026-10-08T04:28:28.763Z

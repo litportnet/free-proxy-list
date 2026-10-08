@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10812,socks5://65.21.252.66:10812,elite,false,4651,4112,28.8,47.9,651,45.9.249.158,1,ae,Dubai,Dubai,Asia/Dubai,9009,M247 Europe SRL,19,2026-09-16T22:28:10.717Z,2026-10-07T04:31:32.353Z
+socks5,217.165.51.161,10800,socks5://217.165.51.161:10800,elite,true,4311,4345.5,33.6,38.9,293,217.165.51.161,1,ae,Ajman,Ajman,Asia/Dubai,5384,Emirates Internet,13,2026-10-05T07:35:31.956Z,2026-10-08T04:29:54.302Z

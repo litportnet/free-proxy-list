@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,true,143,2181,46.5,61.8,875,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-07T04:25:35.215Z
-socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,false,1398,2368,65.8,55.1,769,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-07T04:27:54.239Z
+socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,false,621,1937,64.8,57.3,833,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-08T04:28:47.956Z

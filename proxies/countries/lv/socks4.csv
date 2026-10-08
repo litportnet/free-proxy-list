@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,195.13.182.212,8888,socks4://195.13.182.212:8888,elite,false,5592,3034.5,91.1,,45,195.13.182.212,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-06T20:55:05.087Z,2026-10-07T04:24:58.677Z
+socks4,195.13.182.212,8080,socks4://195.13.182.212:8080,elite,true,4516,3717,94.5,94.5,109,195.13.182.212,3,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T10:02:02.238Z,2026-10-08T04:26:07.643Z
+socks4,195.13.182.212,8888,socks4://195.13.182.212:8888,elite,true,4876,5524.5,89.1,89.6,183,195.13.182.212,3,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-06T20:55:05.087Z,2026-10-08T04:26:34.803Z
+socks4,195.13.169.219,4153,socks4://195.13.169.219:4153,elite,true,696,700,30.8,53.7,294,195.13.169.219,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-04T14:26:30.766Z,2026-10-08T04:26:04.974Z

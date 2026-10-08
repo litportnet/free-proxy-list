@@ -9,7 +9,7 @@ Free HTTP, SOCKS4 and SOCKS5 proxies, re-checked every few minutes, with latency
 <!-- STATS:START -->
 **The proxy files refresh every 5 minutes on the [`live`](https://github.com/litportnet/free-proxy-list/tree/live) branch, and every download link on this page points there.**
 
-This page is the daily snapshot taken at 2026-10-07 04:34 UTC: 3158 working proxies from 105 countries, each checked within the 30 minutes before it was taken. Its prose is fixed until the next daily snapshot, so use the counts in the table below — they are read live from the `live` branch and update with the files.
+This page is the daily snapshot taken at 2026-10-08 04:31 UTC: 2164 working proxies from 94 countries, each checked within the 30 minutes before it was taken. Its prose is fixed until the next daily snapshot, so use the counts in the table below — they are read live from the `live` branch and update with the files.
 <!-- STATS:END -->
 
 ![total](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Flitportnet%2Ffree-proxy-list%2Flive%2Fproxies%2Fbadges%2Ftotal.json)
@@ -170,115 +170,104 @@ Free proxies are shared, unauthenticated and can disappear mid-session. Use them
 ## All countries
 
 <!-- COUNTRIES:START -->
-<details><summary>All countries (105)</summary>
+<details><summary>All countries (94)</summary>
 
 | Country | Count | Link |
 |---|---|---|
-| us | 675 | [all.txt](proxies/countries/us/all.txt) |
-| id | 322 | [all.txt](proxies/countries/id/all.txt) |
-| in | 276 | [all.txt](proxies/countries/in/all.txt) |
-| vn | 226 | [all.txt](proxies/countries/vn/all.txt) |
-| fr | 208 | [all.txt](proxies/countries/fr/all.txt) |
-| at | 161 | [all.txt](proxies/countries/at/all.txt) |
-| de | 155 | [all.txt](proxies/countries/de/all.txt) |
-| br | 93 | [all.txt](proxies/countries/br/all.txt) |
-| mx | 60 | [all.txt](proxies/countries/mx/all.txt) |
-| nl | 53 | [all.txt](proxies/countries/nl/all.txt) |
-| ru | 52 | [all.txt](proxies/countries/ru/all.txt) |
-| sg | 52 | [all.txt](proxies/countries/sg/all.txt) |
-| ph | 52 | [all.txt](proxies/countries/ph/all.txt) |
-| co | 48 | [all.txt](proxies/countries/co/all.txt) |
-| bd | 47 | [all.txt](proxies/countries/bd/all.txt) |
-| ve | 34 | [all.txt](proxies/countries/ve/all.txt) |
-| kr | 31 | [all.txt](proxies/countries/kr/all.txt) |
+| us | 718 | [all.txt](proxies/countries/us/all.txt) |
+| id | 221 | [all.txt](proxies/countries/id/all.txt) |
+| in | 125 | [all.txt](proxies/countries/in/all.txt) |
+| fr | 106 | [all.txt](proxies/countries/fr/all.txt) |
+| at | 89 | [all.txt](proxies/countries/at/all.txt) |
+| ru | 61 | [all.txt](proxies/countries/ru/all.txt) |
+| vn | 51 | [all.txt](proxies/countries/vn/all.txt) |
+| nl | 42 | [all.txt](proxies/countries/nl/all.txt) |
+| br | 42 | [all.txt](proxies/countries/br/all.txt) |
+| bd | 41 | [all.txt](proxies/countries/bd/all.txt) |
+| mx | 40 | [all.txt](proxies/countries/mx/all.txt) |
+| de | 40 | [all.txt](proxies/countries/de/all.txt) |
+| sg | 35 | [all.txt](proxies/countries/sg/all.txt) |
 | cn | 30 | [all.txt](proxies/countries/cn/all.txt) |
-| tr | 28 | [all.txt](proxies/countries/tr/all.txt) |
 | hk | 27 | [all.txt](proxies/countries/hk/all.txt) |
-| th | 27 | [all.txt](proxies/countries/th/all.txt) |
-| jp | 26 | [all.txt](proxies/countries/jp/all.txt) |
-| eg | 24 | [all.txt](proxies/countries/eg/all.txt) |
-| ec | 23 | [all.txt](proxies/countries/ec/all.txt) |
-| ar | 23 | [all.txt](proxies/countries/ar/all.txt) |
-| zw | 22 | [all.txt](proxies/countries/zw/all.txt) |
-| za | 15 | [all.txt](proxies/countries/za/all.txt) |
-| fi | 14 | [all.txt](proxies/countries/fi/all.txt) |
-| cl | 14 | [all.txt](proxies/countries/cl/all.txt) |
-| ml | 14 | [all.txt](proxies/countries/ml/all.txt) |
-| es | 13 | [all.txt](proxies/countries/es/all.txt) |
-| bi | 13 | [all.txt](proxies/countries/bi/all.txt) |
-| pk | 13 | [all.txt](proxies/countries/pk/all.txt) |
-| do | 13 | [all.txt](proxies/countries/do/all.txt) |
-| my | 12 | [all.txt](proxies/countries/my/all.txt) |
+| kr | 27 | [all.txt](proxies/countries/kr/all.txt) |
+| ec | 25 | [all.txt](proxies/countries/ec/all.txt) |
+| zw | 25 | [all.txt](proxies/countries/zw/all.txt) |
+| jp | 21 | [all.txt](proxies/countries/jp/all.txt) |
+| co | 20 | [all.txt](proxies/countries/co/all.txt) |
+| ph | 19 | [all.txt](proxies/countries/ph/all.txt) |
+| ve | 18 | [all.txt](proxies/countries/ve/all.txt) |
+| fi | 17 | [all.txt](proxies/countries/fi/all.txt) |
+| th | 17 | [all.txt](proxies/countries/th/all.txt) |
+| gb | 17 | [all.txt](proxies/countries/gb/all.txt) |
+| kh | 16 | [all.txt](proxies/countries/kh/all.txt) |
+| pk | 14 | [all.txt](proxies/countries/pk/all.txt) |
 | cm | 12 | [all.txt](proxies/countries/cm/all.txt) |
-| ir | 12 | [all.txt](proxies/countries/ir/all.txt) |
-| kh | 12 | [all.txt](proxies/countries/kh/all.txt) |
-| ua | 11 | [all.txt](proxies/countries/ua/all.txt) |
-| il | 11 | [all.txt](proxies/countries/il/all.txt) |
-| iq | 10 | [all.txt](proxies/countries/iq/all.txt) |
-| sy | 9 | [all.txt](proxies/countries/sy/all.txt) |
-| gb | 7 | [all.txt](proxies/countries/gb/all.txt) |
-| it | 7 | [all.txt](proxies/countries/it/all.txt) |
-| ca | 7 | [all.txt](proxies/countries/ca/all.txt) |
-| pl | 7 | [all.txt](proxies/countries/pl/all.txt) |
+| ar | 12 | [all.txt](proxies/countries/ar/all.txt) |
+| za | 12 | [all.txt](proxies/countries/za/all.txt) |
+| se | 11 | [all.txt](proxies/countries/se/all.txt) |
+| pl | 9 | [all.txt](proxies/countries/pl/all.txt) |
+| do | 9 | [all.txt](proxies/countries/do/all.txt) |
+| np | 8 | [all.txt](proxies/countries/np/all.txt) |
+| ir | 8 | [all.txt](proxies/countries/ir/all.txt) |
+| my | 7 | [all.txt](proxies/countries/my/all.txt) |
+| es | 7 | [all.txt](proxies/countries/es/all.txt) |
+| lv | 7 | [all.txt](proxies/countries/lv/all.txt) |
+| tr | 7 | [all.txt](proxies/countries/tr/all.txt) |
+| cl | 7 | [all.txt](proxies/countries/cl/all.txt) |
 | pe | 7 | [all.txt](proxies/countries/pe/all.txt) |
-| bg | 7 | [all.txt](proxies/countries/bg/all.txt) |
-| ke | 7 | [all.txt](proxies/countries/ke/all.txt) |
-| ie | 6 | [all.txt](proxies/countries/ie/all.txt) |
-| py | 6 | [all.txt](proxies/countries/py/all.txt) |
-| np | 6 | [all.txt](proxies/countries/np/all.txt) |
-| uz | 5 | [all.txt](proxies/countries/uz/all.txt) |
-| se | 5 | [all.txt](proxies/countries/se/all.txt) |
-| au | 5 | [all.txt](proxies/countries/au/all.txt) |
-| ch | 5 | [all.txt](proxies/countries/ch/all.txt) |
-| tw | 5 | [all.txt](proxies/countries/tw/all.txt) |
-| gt | 5 | [all.txt](proxies/countries/gt/all.txt) |
-| dk | 4 | [all.txt](proxies/countries/dk/all.txt) |
+| iq | 6 | [all.txt](proxies/countries/iq/all.txt) |
+| ca | 6 | [all.txt](proxies/countries/ca/all.txt) |
+| eg | 6 | [all.txt](proxies/countries/eg/all.txt) |
+| bg | 6 | [all.txt](proxies/countries/bg/all.txt) |
+| ua | 6 | [all.txt](proxies/countries/ua/all.txt) |
+| il | 6 | [all.txt](proxies/countries/il/all.txt) |
+| sy | 5 | [all.txt](proxies/countries/sy/all.txt) |
+| it | 5 | [all.txt](proxies/countries/it/all.txt) |
+| ke | 5 | [all.txt](proxies/countries/ke/all.txt) |
+| ae | 4 | [all.txt](proxies/countries/ae/all.txt) |
+| ch | 4 | [all.txt](proxies/countries/ch/all.txt) |
+| py | 4 | [all.txt](proxies/countries/py/all.txt) |
 | ng | 4 | [all.txt](proxies/countries/ng/all.txt) |
-| bo | 4 | [all.txt](proxies/countries/bo/all.txt) |
-| xk | 4 | [all.txt](proxies/countries/xk/all.txt) |
-| by | 3 | [all.txt](proxies/countries/by/all.txt) |
+| ly | 4 | [all.txt](proxies/countries/ly/all.txt) |
+| tw | 4 | [all.txt](proxies/countries/tw/all.txt) |
+| sa | 3 | [all.txt](proxies/countries/sa/all.txt) |
+| ie | 3 | [all.txt](proxies/countries/ie/all.txt) |
+| ee | 3 | [all.txt](proxies/countries/ee/all.txt) |
 | cz | 3 | [all.txt](proxies/countries/cz/all.txt) |
-| rs | 3 | [all.txt](proxies/countries/rs/all.txt) |
-| mn | 3 | [all.txt](proxies/countries/mn/all.txt) |
+| sk | 3 | [all.txt](proxies/countries/sk/all.txt) |
 | lt | 3 | [all.txt](proxies/countries/lt/all.txt) |
-| mm | 3 | [all.txt](proxies/countries/mm/all.txt) |
-| kg | 3 | [all.txt](proxies/countries/kg/all.txt) |
-| lv | 3 | [all.txt](proxies/countries/lv/all.txt) |
-| ly | 3 | [all.txt](proxies/countries/ly/all.txt) |
 | cy | 2 | [all.txt](proxies/countries/cy/all.txt) |
-| ae | 2 | [all.txt](proxies/countries/ae/all.txt) |
-| sn | 2 | [all.txt](proxies/countries/sn/all.txt) |
-| sa | 2 | [all.txt](proxies/countries/sa/all.txt) |
-| be | 2 | [all.txt](proxies/countries/be/all.txt) |
-| ug | 2 | [all.txt](proxies/countries/ug/all.txt) |
-| tz | 2 | [all.txt](proxies/countries/tz/all.txt) |
-| bw | 2 | [all.txt](proxies/countries/bw/all.txt) |
+| uz | 2 | [all.txt](proxies/countries/uz/all.txt) |
 | ro | 2 | [all.txt](proxies/countries/ro/all.txt) |
-| pr | 2 | [all.txt](proxies/countries/pr/all.txt) |
-| gq | 2 | [all.txt](proxies/countries/gq/all.txt) |
-| ee | 1 | [all.txt](proxies/countries/ee/all.txt) |
+| gr | 2 | [all.txt](proxies/countries/gr/all.txt) |
+| ug | 2 | [all.txt](proxies/countries/ug/all.txt) |
+| md | 2 | [all.txt](proxies/countries/md/all.txt) |
+| ps | 2 | [all.txt](proxies/countries/ps/all.txt) |
+| mw | 2 | [all.txt](proxies/countries/mw/all.txt) |
+| ge | 2 | [all.txt](proxies/countries/ge/all.txt) |
+| dk | 2 | [all.txt](proxies/countries/dk/all.txt) |
+| ao | 2 | [all.txt](proxies/countries/ao/all.txt) |
+| kz | 2 | [all.txt](proxies/countries/kz/all.txt) |
+| xk | 1 | [all.txt](proxies/countries/xk/all.txt) |
 | ma | 1 | [all.txt](proxies/countries/ma/all.txt) |
-| gh | 1 | [all.txt](proxies/countries/gh/all.txt) |
-| mk | 1 | [all.txt](proxies/countries/mk/all.txt) |
-| ci | 1 | [all.txt](proxies/countries/ci/all.txt) |
+| sn | 1 | [all.txt](proxies/countries/sn/all.txt) |
+| bi | 1 | [all.txt](proxies/countries/bi/all.txt) |
 | uy | 1 | [all.txt](proxies/countries/uy/all.txt) |
-| gr | 1 | [all.txt](proxies/countries/gr/all.txt) |
+| mz | 1 | [all.txt](proxies/countries/mz/all.txt) |
+| me | 1 | [all.txt](proxies/countries/me/all.txt) |
+| gt | 1 | [all.txt](proxies/countries/gt/all.txt) |
 | al | 1 | [all.txt](proxies/countries/al/all.txt) |
-| bf | 1 | [all.txt](proxies/countries/bf/all.txt) |
-| bt | 1 | [all.txt](proxies/countries/bt/all.txt) |
-| ps | 1 | [all.txt](proxies/countries/ps/all.txt) |
-| ge | 1 | [all.txt](proxies/countries/ge/all.txt) |
+| no | 1 | [all.txt](proxies/countries/no/all.txt) |
+| ba | 1 | [all.txt](proxies/countries/ba/all.txt) |
+| ml | 1 | [all.txt](proxies/countries/ml/all.txt) |
+| am | 1 | [all.txt](proxies/countries/am/all.txt) |
+| lk | 1 | [all.txt](proxies/countries/lk/all.txt) |
+| rs | 1 | [all.txt](proxies/countries/rs/all.txt) |
+| mm | 1 | [all.txt](proxies/countries/mm/all.txt) |
 | ye | 1 | [all.txt](proxies/countries/ye/all.txt) |
-| qa | 1 | [all.txt](proxies/countries/qa/all.txt) |
-| sk | 1 | [all.txt](proxies/countries/sk/all.txt) |
-| tn | 1 | [all.txt](proxies/countries/tn/all.txt) |
 | hn | 1 | [all.txt](proxies/countries/hn/all.txt) |
-| nz | 1 | [all.txt](proxies/countries/nz/all.txt) |
-| cg | 1 | [all.txt](proxies/countries/cg/all.txt) |
-| af | 1 | [all.txt](proxies/countries/af/all.txt) |
-| gm | 1 | [all.txt](proxies/countries/gm/all.txt) |
-| hu | 1 | [all.txt](proxies/countries/hu/all.txt) |
-| si | 1 | [all.txt](proxies/countries/si/all.txt) |
+| mn | 1 | [all.txt](proxies/countries/mn/all.txt) |
+| bw | 1 | [all.txt](proxies/countries/bw/all.txt) |
 
 </details>
 <!-- COUNTRIES:END -->

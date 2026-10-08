@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "143.198.239.45",
+    "port": 10007,
+    "url": "socks5://143.198.239.45:10007",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1035,
+    "latency_median_ms": 2606,
+    "uptime_24h": 51.3,
+    "uptime_7d": 45.4,
+    "checks_7d": 680,
+    "exit_ip": "81.17.30.247",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Ticino",
+    "city": "Bellinzona",
+    "timezone": "Europe/Zurich",
+    "asn": 51852,
+    "asn_org": "Private Layer INC",
+    "sources_count": 2,
+    "first_seen": "2026-10-02T00:54:13.746Z",
+    "last_checked": "2026-10-08T04:26:20.994Z"
+  }
+]

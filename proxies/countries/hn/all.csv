@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.170.34.154,999,http://45.170.34.154:999,transparent,true,354,3570.5,27.5,26.5,215,45.170.34.154,1,hn,El Paraíso Department,Danlí,America/Tegucigalpa,267761,Onda Network S de R.L,9,2026-10-03T04:08:28.750Z,2026-10-07T04:31:39.753Z
+http,164.163.73.5,999,http://164.163.73.5:999,transparent,false,3177,3977,33.6,32.3,645,164.163.75.211,1,hn,Copán Department,Santa Rosa de Copán,America/Tegucigalpa,265767,GRUPO INMA S.A,25,2026-07-20T06:55:02.507Z,2026-10-08T04:20:24.637Z

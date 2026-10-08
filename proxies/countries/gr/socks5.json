@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10802,
+    "url": "socks5://5.75.133.113:10802",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1169,
+    "latency_median_ms": 2439,
+    "uptime_24h": 45.9,
+    "uptime_7d": 56.9,
+    "checks_7d": 733,
+    "exit_ip": "191.96.146.2",
+    "exit_shared": 1,
+    "country": "gr",
+    "region": "Attica",
+    "city": "Athens",
+    "timezone": "Europe/Athens",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 17,
+    "first_seen": "2026-09-17T17:38:15.449Z",
+    "last_checked": "2026-10-08T04:24:38.569Z"
+  }
+]

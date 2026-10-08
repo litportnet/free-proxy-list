@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,3232,3258,55.8,45,496,178.17.172.98,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,43289,Trabia SRL,18,2026-08-24T12:42:33.832Z,2026-10-08T04:25:29.060Z

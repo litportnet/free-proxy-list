@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,40.177.104.199,34177,socks4://40.177.104.199:34177,unknown,false,2693,3267,12.5,9.8,51,40.177.104.199,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,1,2026-09-18T15:36:07.072Z,2026-10-07T04:26:25.334Z

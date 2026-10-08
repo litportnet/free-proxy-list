@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10812,socks5://49.13.22.249:10812,elite,true,4621,3360,56.3,57.8,682,5.253.204.58,1,be,Brussels Capital,Brussels,Europe/Brussels,9009,M247 Europe SRL,20,2026-09-16T03:18:19.836Z,2026-10-07T04:28:34.609Z

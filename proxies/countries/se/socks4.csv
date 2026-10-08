@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,79.76.59.115,1080,socks4://79.76.59.115:1080,elite,false,1156,1154,51.3,49.6,701,79.76.59.115,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:56:51.407Z,2026-10-08T04:28:36.685Z

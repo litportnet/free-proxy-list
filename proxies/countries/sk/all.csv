@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.145.199.47,56746,socks4://217.145.199.47:56746,elite,true,1599,2188.5,37.1,32.2,597,217.145.199.47,1,sk,Nitra Region,Kolárovo,Europe/Bratislava,12426,Slovanet a.s.,14,2025-09-04T23:49:05.738Z,2026-10-07T04:31:16.633Z
+socks4,185.98.208.98,28000,socks4://185.98.208.98:28000,elite,true,8097,1736,48.8,58,811,185.98.208.98,1,sk,Bratislava Region,Blatné,Europe/Bratislava,30929,GOLEM TECH s.r.o.,13,2026-02-25T19:09:07.562Z,2026-10-08T04:25:41.391Z
+http,91.217.33.161,8080,http://91.217.33.161:8080,elite,false,3944,3759.5,14.9,8.6,116,185.69.107.246,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,201603,AIRNET s.r.o.,22,2025-09-05T20:06:36.962Z,2026-10-08T04:23:34.237Z
+http,188.121.168.60,8080,http://188.121.168.60:8080,transparent,true,8821,3753,14,7.3,137,188.121.168.60,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,43451,Slovanet a.s.,17,2026-04-13T02:01:01.423Z,2026-10-08T04:24:41.792Z

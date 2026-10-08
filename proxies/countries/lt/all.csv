@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,1342,5305,29,55,835,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-10-07T04:27:14.278Z
-socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,true,4173,4648,45.1,41.3,618,62.197.149.111,1,lt,Vilnius,Vilnius,Europe/Vilnius,209854,Cyberzone S.A.,20,2026-08-16T16:46:45.162Z,2026-10-07T04:27:01.388Z
-socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,8125,1861,25,21.1,441,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",21,2025-09-04T23:50:04.655Z,2026-10-07T04:32:08.195Z
+http,62.72.33.196,8443,http://62.72.33.196:8443,elite,true,1609,846.5,100,,8,62.72.33.196,3,lt,Vilnius,Vilnius,Europe/Vilnius,47583,Hostinger International Limited,7,2026-10-08T03:11:00.556Z,2026-10-08T04:20:21.941Z
+socks5,62.72.33.196,8443,socks5://62.72.33.196:8443,elite,true,2582,890.5,100,,8,62.72.33.196,3,lt,Vilnius,Vilnius,Europe/Vilnius,47583,Hostinger International Limited,6,2026-10-08T03:11:04.124Z,2026-10-08T04:25:39.778Z
+socks4,62.72.33.196,8443,socks4://62.72.33.196:8443,elite,false,2703,1765.5,100,,8,62.72.33.196,3,lt,Vilnius,Vilnius,Europe/Vilnius,47583,Hostinger International Limited,6,2026-10-08T03:11:08.857Z,2026-10-08T04:21:31.348Z

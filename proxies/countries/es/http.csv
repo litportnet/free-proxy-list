@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,457,459.5,100,98.3,999,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-07T04:31:33.921Z
-http,95.60.60.204,3128,http://95.60.60.204:3128,transparent,false,2768,3373.5,24.2,17.5,292,95.60.60.204,1,es,Balearic Islands,Sant Josep de sa Talaia,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,23,2026-07-06T03:59:02.945Z,2026-10-07T04:30:57.705Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,454,462,88.4,96.2,983,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-08T04:25:37.625Z
+http,77.225.198.220,9812,http://77.225.198.220:9812,elite,false,4634,5213,22.7,29.7,546,77.225.198.220,2,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,12,2025-09-10T20:03:30.040Z,2026-10-08T04:27:00.284Z
+http,90.161.220.67,3128,http://90.161.220.67:3128,transparent,false,565,2353.5,27.7,18.6,328,90.161.220.67,1,es,Andalusia,Conil de la Frontera,Europe/Madrid,12479,Orange Espagne SA,24,2026-09-05T02:55:03.785Z,2026-10-08T04:28:07.767Z
