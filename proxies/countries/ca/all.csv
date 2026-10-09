@@ -1,7 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,1153,135,98.6,96.6,995,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-08T04:28:21.216Z
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,4067,2096.5,73.9,77.7,837,149.22.81.218,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-10-08T04:27:05.071Z
-socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,false,621,1937,64.8,57.3,833,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-08T04:28:47.956Z
-socks5,45.74.31.50,4147,socks5://45.74.31.50:4147,elite,false,3489,2954.5,56.8,37.9,306,51.161.15.103,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-30T05:37:53.478Z,2026-10-08T04:28:30.873Z
-socks5,45.74.31.47,10278,socks5://45.74.31.47:10278,elite,false,7441,3849,41.7,32.9,249,51.161.15.103,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,8,2026-10-04T05:21:42.697Z,2026-10-08T04:28:03.503Z
-socks5,184.107.179.79,1080,socks5://184.107.179.79:1080,elite,true,4238,4089,70,,20,184.107.179.79,1,ca,Quebec,Montréal,America/Toronto,32613,Leaseweb Canada Inc.,8,2026-10-08T01:10:00.078Z,2026-10-08T04:30:45.385Z
+socks4,184.107.179.79,1080,socks4://184.107.179.79:1080,elite,true,4162,3907,59.8,64.2,137,184.107.179.79,2,ca,Quebec,Montréal,America/Toronto,32613,Leaseweb Canada Inc.,14,2026-10-08T01:10:08.147Z,2026-10-09T04:27:48.789Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3198,2024,59.3,61.8,835,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-09T04:23:52.360Z
+socks5,184.107.179.79,1080,socks5://184.107.179.79:1080,elite,true,4836,1863,59.6,61,123,184.107.179.79,2,ca,Quebec,Montréal,America/Toronto,32613,Leaseweb Canada Inc.,14,2026-10-08T01:10:00.078Z,2026-10-09T04:22:38.008Z
+socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,false,3041,2305.5,54.6,59.8,838,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-09T04:32:50.151Z
+http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,false,3927,3800.5,9.1,17.5,189,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,11,2025-11-06T15:40:16.476Z,2026-10-09T04:31:55.581Z
+socks5,45.74.31.47,8578,socks5://45.74.31.47:8578,elite,true,1273,1299.5,100,,35,51.161.15.103,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,1,2026-10-05T20:42:21.932Z,2026-10-09T04:24:37.809Z

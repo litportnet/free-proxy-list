@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,157.180.24.140,11300,socks5://157.180.24.140:11300,elite,true,762,937.5,57.1,,9,194.127.199.36,2,no,Oslo,Oslo,Europe/Oslo,50304,Blix Solutions AS,7,2026-10-08T02:10:28.483Z,2026-10-09T04:26:29.102Z
+socks5,157.180.24.140,11283,socks5://157.180.24.140:11283,elite,true,766,846,42.9,,9,141.98.253.74,2,no,Oslo,Oslo,Europe/Oslo,39351,31173 Services AB,6,2026-10-08T02:10:28.483Z,2026-10-09T04:27:58.755Z

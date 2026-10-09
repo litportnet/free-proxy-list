@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,80.78.78.106,65530,socks4://80.78.78.106:65530,elite,false,3757,3734,56.8,60.3,723,80.78.78.106,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,13,2025-09-05T20:06:27.738Z,2026-10-08T04:27:24.152Z
+socks4,80.78.78.106,65530,socks4://80.78.78.106:65530,elite,false,691,1746.5,64.4,61.1,723,80.78.78.106,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,13,2025-09-05T20:06:27.738Z,2026-10-09T04:24:11.246Z

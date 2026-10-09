@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "108.61.185.188",
+    "port": 1080,
+    "url": "socks4://108.61.185.188:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 6308,
+    "latency_median_ms": 4721,
+    "uptime_24h": 46.9,
+    "uptime_7d": 49.3,
+    "checks_7d": 773,
+    "exit_ip": "45.77.235.30",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "asn": 20473,
+    "asn_org": "The Constant Company, LLC",
+    "sources_count": 14,
+    "first_seen": "2026-10-01T11:53:46.270Z",
+    "last_checked": "2026-10-09T04:29:27.501Z"
+  }
+]

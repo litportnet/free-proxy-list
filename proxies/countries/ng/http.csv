@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,901,904,55.4,70.6,871,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-08T04:25:02.078Z
-http,41.203.76.166,8080,http://41.203.76.166:8080,transparent,false,9177,4718.5,39.5,22.3,291,41.203.76.166,1,ng,Lagos,Lagos,Africa/Lagos,37148,Globacom Limited,20,2025-09-06T05:35:18.158Z,2026-10-08T04:26:40.633Z
-http,45.222.101.111,8080,http://45.222.101.111:8080,transparent,false,2137,3200,25.9,21.1,445,102.221.238.237,1,ng,Lagos,Ikeja,Africa/Lagos,328722,Ciudad Infrastructure Limited,18,2026-07-18T16:34:52.683Z,2026-10-08T04:22:40.079Z
-http,102.213.84.244,8080,http://102.213.84.244:8080,transparent,false,5189,3861,22.4,17.4,426,102.89.110.22,1,ng,Ogun State,Ado-Odo,Africa/Lagos,29465,MTN NIGERIA Communication limited,20,2026-09-03T18:41:47.333Z,2026-10-08T04:27:02.967Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,795,922.5,38.5,65.4,838,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-09T04:29:45.594Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,8065,957,45.4,58.4,835,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-09T04:29:35.982Z

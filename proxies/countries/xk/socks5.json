@@ -6,11 +6,11 @@
     "url": "socks5://82.114.86.173:1090",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 856,
-    "latency_median_ms": 2077,
-    "uptime_24h": 99.3,
-    "uptime_7d": 99.3,
-    "checks_7d": 151,
+    "latency_ms": 853,
+    "latency_median_ms": 1521,
+    "uptime_24h": 100,
+    "uptime_7d": 99.7,
+    "checks_7d": 293,
     "exit_ip": "82.114.86.173",
     "exit_shared": 1,
     "country": "xk",
@@ -21,6 +21,6 @@
     "asn_org": "Kujtesa Net Sh.p.k.",
     "sources_count": 16,
     "first_seen": "2026-10-07T02:58:20.684Z",
-    "last_checked": "2026-10-08T04:28:20.681Z"
+    "last_checked": "2026-10-09T04:26:49.055Z"
   }
 ]

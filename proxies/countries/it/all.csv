@@ -1,6 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2016,1842,97.2,97.8,994,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-08T04:25:04.796Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,495,496,55,76.4,885,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-08T04:27:21.500Z
-socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,true,862,895.5,36.8,54.1,812,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-08T04:25:26.878Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,626,618,42.6,48.4,620,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-08T04:24:07.923Z
-http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,729,1390.5,29.3,38.6,686,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,9,2026-06-21T15:51:42.528Z,2026-10-08T04:27:10.922Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,974,974.5,98.6,98,992,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-09T04:26:40.975Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,476,484.5,77.4,75.1,876,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-09T04:33:10.976Z
+socks4,185.56.219.76,40001,socks4://185.56.219.76:40001,elite,false,5774,7748.5,40.5,42.5,593,104.28.220.231,1,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",17,2026-09-28T23:22:01.334Z,2026-10-09T04:26:27.486Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,673,2197.5,45.7,37.3,711,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-09T04:31:13.154Z
+http,185.154.237.58,8080,http://185.154.237.58:8080,transparent,false,2536,3806,24.4,26.1,138,185.154.237.58,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,13,2026-05-22T07:21:16.215Z,2026-10-09T04:23:00.473Z
+http,71.168.71.12,8888,http://71.168.71.12:8888,elite,false,8047,2565,12.2,5.3,95,64.190.76.14,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,18,2025-09-12T01:18:41.404Z,2026-10-09T04:32:50.241Z

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,false,2162,1771,45.6,39.8,664,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-09-04T23:48:59.215Z,2026-10-09T04:30:27.268Z
+http,79.120.167.70,8080,http://79.120.167.70:8080,transparent,false,1635,4632,11.9,28.6,210,79.120.167.70,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,18,2026-10-06T07:48:12.763Z,2026-10-09T04:28:17.074Z
+http,95.214.123.11,8080,http://95.214.123.11:8080,transparent,true,3658,2661.5,10.2,21.1,109,95.214.123.11,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,7,2025-10-13T22:48:55.800Z,2026-10-09T04:31:08.368Z
+http,34.220.80.147,8998,http://34.220.80.147:8998,unknown,false,2914,2044.5,28.6,5.9,68,34.220.80.147,2,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,6,2026-08-27T20:26:32.534Z,2026-10-09T04:31:00.408Z

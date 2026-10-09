@@ -1,16 +1,40 @@
 [
   {
     "protocol": "http",
+    "ip": "181.78.44.63",
+    "port": 999,
+    "url": "http://181.78.44.63:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 2647,
+    "latency_median_ms": 4841.5,
+    "uptime_24h": 50.8,
+    "uptime_7d": 45.1,
+    "checks_7d": 765,
+    "exit_ip": "181.78.44.63",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Cortés Department",
+    "city": "San Pedro Sula",
+    "timezone": "America/Tegucigalpa",
+    "asn": 52468,
+    "asn_org": "UFINET PANAMA S.A.",
+    "sources_count": 25,
+    "first_seen": "2025-09-17T04:51:36.435Z",
+    "last_checked": "2026-10-09T04:30:48.662Z"
+  },
+  {
+    "protocol": "http",
     "ip": "164.163.73.5",
     "port": 999,
     "url": "http://164.163.73.5:999",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 3177,
-    "latency_median_ms": 3977,
-    "uptime_24h": 33.6,
-    "uptime_7d": 32.3,
-    "checks_7d": 645,
+    "latency_ms": 4787,
+    "latency_median_ms": 4809,
+    "uptime_24h": 41.6,
+    "uptime_7d": 34.3,
+    "checks_7d": 679,
     "exit_ip": "164.163.75.211",
     "exit_shared": 1,
     "country": "hn",
@@ -21,6 +45,6 @@
     "asn_org": "GRUPO INMA S.A",
     "sources_count": 25,
     "first_seen": "2026-07-20T06:55:02.507Z",
-    "last_checked": "2026-10-08T04:20:24.637Z"
+    "last_checked": "2026-10-09T04:31:24.260Z"
   }
 ]

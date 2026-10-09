@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.60.35.156,10808,socks4://217.60.35.156:10808,elite,true,1861,1748,64.3,,14,37.151.92.216,2,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,6,2026-10-08T02:10:27.884Z,2026-10-08T04:27:57.630Z
-socks5,217.60.35.156,10808,socks5://217.60.35.156:10808,elite,true,7743,1684.5,95,,20,37.151.92.216,2,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,8,2026-10-08T01:10:02.084Z,2026-10-08T04:21:43.027Z
+socks5,217.60.35.156,10808,socks5://217.60.35.156:10808,elite,false,4123,3771.5,52.6,58.2,153,95.57.50.45,1,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,14,2026-10-08T01:10:02.084Z,2026-10-09T04:24:36.154Z

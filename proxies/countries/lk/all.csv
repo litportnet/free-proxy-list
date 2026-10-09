@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,66.179.31.117,18080,socks5://66.179.31.117:18080,elite,true,8669,2028.5,40,45.6,79,43.224.124.226,1,lk,Western Province,Colombo,Asia/Colombo,132124,Information and Communication Technology Agency of Sri Lanka,14,2026-10-04T11:24:56.492Z,2026-10-08T04:28:57.476Z

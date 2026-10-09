@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,147.236.181.86,50009,http://147.236.181.86:50009,transparent,false,7467,4018,21.7,26.9,443,147.236.181.86,1,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,202940,ITC NG ltd,19,2026-10-02T16:02:05.410Z,2026-10-09T04:25:04.281Z

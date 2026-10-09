@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,196.0.111.186,46048,socks4://196.0.111.186:46048,elite,true,4461,2735.5,52.4,65.7,871,196.0.111.186,1,ug,Central Region,Kampala,Africa/Kampala,21491,Uganda Telecom,12,2025-09-04T23:49:04.470Z,2026-10-08T04:20:08.706Z
-socks4,196.0.111.194,48009,socks4://196.0.111.194:48009,elite,true,1354,2358,44.6,64.4,780,196.0.111.194,1,ug,Central Region,Kampala,Africa/Kampala,21491,Uganda Telecom,14,2025-09-04T23:49:13.039Z,2026-10-08T04:24:41.784Z
+socks4,196.0.111.194,48009,socks4://196.0.111.194:48009,elite,false,2268,4517,62.5,64.1,831,196.0.111.194,1,ug,Central Region,Kampala,Africa/Kampala,21491,Uganda Telecom,14,2025-09-04T23:49:13.039Z,2026-10-09T04:22:58.907Z

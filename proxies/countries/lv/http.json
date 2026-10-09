@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.36.161.137",
+    "port": 3128,
+    "url": "http://89.36.161.137:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 741,
+    "latency_median_ms": 724,
+    "uptime_24h": 96.4,
+    "uptime_7d": 96.4,
+    "checks_7d": 56,
+    "exit_ip": "89.36.161.137",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 56630,
+    "asn_org": "Melbikomas UAB",
+    "sources_count": 13,
+    "first_seen": "2026-09-28T08:14:00.891Z",
+    "last_checked": "2026-10-09T04:32:58.022Z"
+  }
+]

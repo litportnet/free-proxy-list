@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,118.168.228.79,1082,socks5://118.168.228.79:1082,elite,true,1075,1252.5,100,,2,118.168.228.79,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,2,2026-10-08T04:11:35.729Z,2026-10-08T04:21:23.984Z
-socks5,118.168.226.222,1082,socks5://118.168.226.222:1082,elite,true,1079,1249.5,100,,2,118.168.226.222,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,2,2026-10-08T04:11:35.729Z,2026-10-08T04:21:27.688Z
-socks5,118.168.217.62,1082,socks5://118.168.217.62:1082,elite,true,1084,1264,100,,2,118.168.217.62,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,2,2026-10-08T04:11:35.729Z,2026-10-08T04:21:57.933Z
-socks5,118.168.201.115,1082,socks5://118.168.201.115:1082,elite,true,1092,1257,100,,2,118.168.201.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,2,2026-10-08T04:11:35.729Z,2026-10-08T04:21:00.591Z

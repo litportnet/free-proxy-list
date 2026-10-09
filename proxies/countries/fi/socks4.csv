@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,false,660,1005,77.8,94.3,953,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-08T04:27:34.823Z
-socks4,65.109.215.187,8090,socks4://65.109.215.187:8090,elite,true,643,577,91.5,86.2,855,65.109.215.187,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,14,2026-10-01T21:52:41.214Z,2026-10-08T04:28:07.780Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,787,1818,92.7,93.7,945,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-09T04:24:35.052Z
+socks4,65.109.215.187,8090,socks4://65.109.215.187:8090,elite,true,575,623,92.3,86.5,957,65.109.215.187,3,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,14,2026-10-01T21:52:41.214Z,2026-10-09T04:30:42.780Z
+socks4,157.180.24.140,11280,socks4://157.180.24.140:11280,elite,true,901,1043.5,30.6,30.6,144,185.204.1.224,1,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,12,2026-10-07T21:08:46.951Z,2026-10-09T04:26:43.667Z
+socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,4828,781,100,27.3,77,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,3,2026-08-02T11:44:29.944Z,2026-10-09T04:24:14.061Z

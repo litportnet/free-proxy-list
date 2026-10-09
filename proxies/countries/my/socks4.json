@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "175.139.200.17",
+    "port": 4153,
+    "url": "socks4://175.139.200.17:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4201,
+    "latency_median_ms": 4176,
+    "uptime_24h": 60.1,
+    "uptime_7d": 41.9,
+    "checks_7d": 689,
+    "exit_ip": "175.139.200.17",
+    "exit_shared": 1,
+    "country": "my",
+    "region": "Perak",
+    "city": "Ipoh",
+    "timezone": "Asia/Kuala_Lumpur",
+    "asn": 4788,
+    "asn_org": "TM TECHNOLOGY SERVICES SDN. BHD.",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:06.505Z",
+    "last_checked": "2026-10-09T04:23:57.090Z"
+  }
+]

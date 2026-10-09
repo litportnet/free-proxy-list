@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,181.94.197.37,13049,socks5://181.94.197.37:13049,elite,true,2384,2886,55.3,49.6,700,181.94.197.37,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2026-09-16T07:20:15.450Z,2026-10-08T04:27:09.324Z
+socks5,181.94.197.37,13049,socks5://181.94.197.37:13049,elite,false,4607,3611.5,48.9,52.3,733,181.94.197.37,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2026-09-16T07:20:15.450Z,2026-10-09T04:28:25.970Z

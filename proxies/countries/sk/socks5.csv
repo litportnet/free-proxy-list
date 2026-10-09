@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10811,socks5://49.13.22.249:10811,elite,true,7474,6329.5,21.6,50.6,613,146.70.114.180,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,9009,M247 Europe SRL,19,2026-08-23T21:34:27.912Z,2026-10-09T04:33:09.360Z
+socks5,157.180.24.140,11318,socks5://157.180.24.140:11318,elite,true,880,1067.5,44.4,,20,138.199.34.156,2,sk,Bratislava Region,Bratislava,Europe/Bratislava,212238,Datacamp Limited,6,2026-10-07T22:08:20.610Z,2026-10-09T04:29:11.111Z

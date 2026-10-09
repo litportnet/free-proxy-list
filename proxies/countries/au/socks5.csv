@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,169.155.50.87,1080,socks5://169.155.50.87:1080,elite,false,1551,1706,22.7,25.1,586,75.102.33.66,1,au,New South Wales,Sydney,Australia/Sydney,30081,CacheFly,20,2026-04-12T05:49:27.240Z,2026-10-09T04:31:57.187Z

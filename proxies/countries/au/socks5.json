@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "169.155.50.87",
+    "port": 1080,
+    "url": "socks5://169.155.50.87:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1551,
+    "latency_median_ms": 1706,
+    "uptime_24h": 22.7,
+    "uptime_7d": 25.1,
+    "checks_7d": 586,
+    "exit_ip": "75.102.33.66",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "asn": 30081,
+    "asn_org": "CacheFly",
+    "sources_count": 20,
+    "first_seen": "2026-04-12T05:49:27.240Z",
+    "last_checked": "2026-10-09T04:31:57.187Z"
+  }
+]

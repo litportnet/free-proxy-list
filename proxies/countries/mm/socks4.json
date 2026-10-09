@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "154.18.220.190",
+    "port": 5678,
+    "url": "socks4://154.18.220.190:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1226,
+    "latency_median_ms": 4225.5,
+    "uptime_24h": 63.7,
+    "uptime_7d": 61.7,
+    "checks_7d": 815,
+    "exit_ip": "154.18.220.190",
+    "exit_shared": 1,
+    "country": "mm",
+    "region": "Yangon",
+    "city": "Yangon",
+    "timezone": "Asia/Yangon",
+    "asn": 136975,
+    "asn_org": "Global Technology",
+    "sources_count": 9,
+    "first_seen": "2025-11-01T10:33:30.995Z",
+    "last_checked": "2026-10-09T04:26:06.060Z"
+  }
+]

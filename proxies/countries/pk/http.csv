@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,119.73.109.210,8080,http://119.73.109.210:8080,elite,false,2012,3747.5,31.7,30.1,442,119.73.109.210,2,pk,Sindh,Karachi,Asia/Karachi,135407,Trans World Enterprise Services (Private) Limited,20,2026-10-03T11:12:10.105Z,2026-10-08T04:24:02.507Z
-http,160.30.104.170,1256,http://160.30.104.170:1256,elite,false,8090,4835,26.9,25.7,510,160.30.104.170,2,pk,Punjab,Khanpur,Asia/Karachi,134489,S. B Link Network,25,2026-08-10T20:32:28.624Z,2026-10-08T04:28:51.149Z
-http,125.209.80.146,8080,http://125.209.80.146:8080,elite,false,5210,4111.5,50,,8,125.209.80.146,1,pk,Sindh,Karachi,Asia/Karachi,9260,Multinet Pakistan Pvt. Ltd.,7,2026-10-08T03:11:00.556Z,2026-10-08T04:25:12.924Z
+http,103.151.42.242,8080,http://103.151.42.242:8080,elite,false,4989,4270.5,28.6,22.1,271,103.151.42.242,1,pk,Punjab,Lahore,Asia/Karachi,151330,PLAY BROADBAND (PRIVATE) LIMITED,18,2026-10-03T20:16:56.994Z,2026-10-09T04:25:40.198Z
+http,103.178.121.161,8080,http://103.178.121.161:8080,transparent,true,1413,1413,100,,1,103.178.121.161,1,pk,Punjab,Lahore,Asia/Karachi,136969,KK Networks (Pvt) Ltd.,1,2026-10-09T04:24:29.362Z,2026-10-09T04:24:36.713Z

@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://200.105.252.170:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1110,
-    "latency_median_ms": 1025.5,
-    "uptime_24h": 44.9,
-    "uptime_7d": 65.7,
-    "checks_7d": 842,
+    "https": true,
+    "latency_ms": 1002,
+    "latency_median_ms": 2036,
+    "uptime_24h": 62.8,
+    "uptime_7d": 63,
+    "checks_7d": 840,
     "exit_ip": "200.105.252.170",
     "exit_shared": 1,
     "country": "ec",
@@ -21,7 +21,7 @@
     "asn_org": "PUNTONET S.A.",
     "sources_count": 13,
     "first_seen": "2025-09-05T20:06:36.438Z",
-    "last_checked": "2026-10-08T04:26:47.542Z"
+    "last_checked": "2026-10-09T04:31:49.753Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://190.57.131.158:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 553,
-    "latency_median_ms": 1548.5,
-    "uptime_24h": 63.4,
-    "uptime_7d": 64.5,
-    "checks_7d": 755,
+    "latency_ms": 560,
+    "latency_median_ms": 1584.5,
+    "uptime_24h": 47.4,
+    "uptime_7d": 60.5,
+    "checks_7d": 732,
     "exit_ip": "190.57.131.158",
     "exit_shared": 1,
     "country": "ec",
@@ -45,7 +45,7 @@
     "asn_org": "PUNTONET S.A.",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:02.892Z",
-    "last_checked": "2026-10-08T04:28:26.608Z"
+    "last_checked": "2026-10-09T04:31:19.534Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://45.238.57.1:3629",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 486,
-    "latency_median_ms": 504,
-    "uptime_24h": 29.2,
-    "uptime_7d": 57.8,
-    "checks_7d": 779,
+    "latency_ms": 517,
+    "latency_median_ms": 496.5,
+    "uptime_24h": 56.9,
+    "uptime_7d": 58.5,
+    "checks_7d": 812,
     "exit_ip": "45.238.57.1",
     "exit_shared": 1,
     "country": "ec",
@@ -67,8 +67,8 @@
     "timezone": "America/Guayaquil",
     "asn": 266834,
     "asn_org": "INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:30.243Z",
-    "last_checked": "2026-10-08T04:30:44.313Z"
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:13.193Z",
+    "last_checked": "2026-10-09T04:30:56.125Z"
   }
 ]

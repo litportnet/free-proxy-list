@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,125.24.156.113,7080,socks5://125.24.156.113:7080,elite,false,3778,3468,42.1,40.9,563,1.20.143.87,1,th,Chumphon,Lang Suan,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-04-08T09:00:00.596Z,2026-10-08T04:21:26.628Z
-socks5,66.59.197.63,4000,socks5://66.59.197.63:4000,elite,false,2292,1261,30,40.4,458,186.247.190.50,1,th,Bangkok,Bangkok,Asia/Bangkok,212238,Datacamp Limited,19,2026-08-13T17:09:24.127Z,2026-10-08T04:24:41.249Z
+socks5,102.129.229.131,1081,socks5://102.129.229.131:1081,elite,false,9115,4760.5,61.8,72.1,902,102.129.229.131,2,th,Bangkok,Bangkok,Asia/Bangkok,138156,"CSNE Co., Ltd.",16,2026-09-23T17:15:43.069Z,2026-10-09T04:23:36.695Z

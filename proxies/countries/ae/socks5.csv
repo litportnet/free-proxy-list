@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.165.51.161,10800,socks5://217.165.51.161:10800,elite,true,4311,4345.5,33.6,38.9,293,217.165.51.161,1,ae,Ajman,Ajman,Asia/Dubai,5384,Emirates Internet,13,2026-10-05T07:35:31.956Z,2026-10-08T04:29:54.302Z

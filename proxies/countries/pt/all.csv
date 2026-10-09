@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,5871,5424.5,40.2,47.8,651,149.22.86.6,1,pt,Lisbon,Lisbon,Europe/Lisbon,212238,Datacamp Limited,19,2026-09-16T10:21:51.712Z,2026-10-09T04:24:09.685Z

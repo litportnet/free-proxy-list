@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,143.198.239.45,10007,socks5://143.198.239.45:10007,elite,true,1035,2606,51.3,45.4,680,81.17.30.247,1,ch,Ticino,Bellinzona,Europe/Zurich,51852,Private Layer INC,2,2026-10-02T00:54:13.746Z,2026-10-08T04:26:20.994Z
+socks5,143.198.239.45,10034,socks5://143.198.239.45:10034,elite,true,1202,1230.5,42.9,42.9,84,185.150.28.13,1,ch,Lucerne,Luzern,Europe/Zurich,59891,FSIT AG,1,2026-10-08T11:15:16.965Z,2026-10-09T04:30:42.234Z

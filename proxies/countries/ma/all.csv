@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,105.155.20.225,58080,http://105.155.20.225:58080,elite,true,611,602,96.8,96.8,62,196.89.221.10,1,ma,Tanger-Tetouan-Al Hoceima,Tangier,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,17,2026-10-07T18:06:14.729Z,2026-10-08T04:29:10.207Z

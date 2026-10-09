@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.251.213.192,8081,http://196.251.213.192:8081,transparent,false,3160,3663,28.4,23.2,340,196.251.213.192,1,za,North West,Brits,Africa/Johannesburg,37403,Info-Gro (PTY) Ltd,26,2026-09-03T22:41:43.065Z,2026-10-08T04:25:19.386Z
-http,41.57.63.1,8104,http://41.57.63.1:8104,transparent,false,6456,6755.5,37.8,22.5,346,41.57.63.1,1,za,Gauteng,Johannesburg,Africa/Johannesburg,327688,Screamer Telecommunications,17,2026-05-10T21:59:44.038Z,2026-10-08T04:27:22.565Z
-http,196.251.193.116,8083,http://196.251.193.116:8083,transparent,false,3230,4310.5,25,15.1,238,196.251.193.116,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37403,Info-Gro (PTY) Ltd,9,2025-09-07T04:45:34.973Z,2026-10-08T04:25:14.013Z
+http,196.223.129.21,80,http://196.223.129.21:80,elite,false,992,992,64.4,71.5,866,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-10-09T04:29:59.461Z

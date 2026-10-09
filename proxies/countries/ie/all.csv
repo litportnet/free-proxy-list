@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,18.202.134.93,8888,http://18.202.134.93:8888,transparent,true,990,1151,94.2,94.2,137,18.202.134.93,1,ie,Leinster,Dublin,Europe/Dublin,16509,"Amazon.com, Inc.",16,2026-10-07T04:59:20.991Z,2026-10-08T04:24:38.588Z
-socks5,45.74.31.50,21649,socks5://45.74.31.50:21649,elite,true,6201,3112.5,40.7,26.8,190,135.236.141.99,2,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,13,2026-09-17T19:39:18.752Z,2026-10-08T04:21:04.392Z
-socks5,45.74.31.40,23890,socks5://45.74.31.40:23890,elite,false,6175,4281.5,21.4,24.7,170,135.236.141.99,2,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,12,2026-09-27T10:02:24.657Z,2026-10-08T04:26:54.958Z

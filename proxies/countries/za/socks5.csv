@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,false,8962,5431,39.3,49.5,628,168.253.92.93,1,za,Gauteng,Pretoria,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,19,2025-11-06T12:07:21.653Z,2026-10-08T04:21:43.570Z
-socks5,45.74.31.50,10868,socks5://45.74.31.50:10868,elite,false,2560,2847.5,13.3,33.2,199,102.130.121.150,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,12,2026-10-04T07:22:45.709Z,2026-10-08T04:27:07.716Z
-socks5,45.74.31.30,5837,socks5://45.74.31.30:5837,elite,true,2783,2739,31,21.5,200,102.130.121.150,2,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,17,2026-09-13T00:20:13.201Z,2026-10-08T04:30:31.017Z

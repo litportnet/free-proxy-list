@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "85.239.156.66",
-    "port": 5555,
-    "url": "http://85.239.156.66:5555",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3592,
-    "latency_median_ms": 2526,
-    "uptime_24h": 63.6,
-    "uptime_7d": 64.8,
-    "checks_7d": 315,
-    "exit_ip": "85.239.156.66",
-    "exit_shared": 1,
-    "country": "cz",
-    "region": "Prague",
-    "city": "Prague",
-    "timezone": "Europe/Prague",
-    "asn": 202996,
-    "asn_org": "Ondrej Vrana",
-    "sources_count": 14,
-    "first_seen": "2026-10-05T14:39:12.971Z",
-    "last_checked": "2026-10-08T04:26:36.901Z"
-  },
-  {
-    "protocol": "http",
     "ip": "95.129.101.73",
     "port": 80,
     "url": "http://95.129.101.73:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8145,
-    "latency_median_ms": 5362,
-    "uptime_24h": 49.5,
-    "uptime_7d": 55.7,
-    "checks_7d": 717,
+    "latency_ms": 7338,
+    "latency_median_ms": 6738,
+    "uptime_24h": 37.3,
+    "uptime_7d": 53.5,
+    "checks_7d": 748,
     "exit_ip": "95.129.101.73",
     "exit_shared": 1,
     "country": "cz",
@@ -45,6 +21,6 @@
     "asn_org": "FASTER CZ spol. s r.o.",
     "sources_count": 18,
     "first_seen": "2025-09-08T03:28:25.725Z",
-    "last_checked": "2026-10-08T04:25:16.684Z"
+    "last_checked": "2026-10-09T04:25:43.476Z"
   }
 ]

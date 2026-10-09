@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "84.242.58.9",
+    "port": 8080,
+    "url": "http://84.242.58.9:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4648,
+    "latency_median_ms": 4747.5,
+    "uptime_24h": 16.7,
+    "uptime_7d": 16.6,
+    "checks_7d": 308,
+    "exit_ip": "84.242.58.9",
+    "exit_shared": 1,
+    "country": "ps",
+    "region": "West Bank",
+    "city": "Tarqūmyā",
+    "timezone": "Asia/Hebron",
+    "asn": 51407,
+    "asn_org": "Mada Al-Arab General Services Company",
+    "sources_count": 23,
+    "first_seen": "2025-09-10T11:58:30.597Z",
+    "last_checked": "2026-10-09T04:26:24.268Z"
+  }
+]
