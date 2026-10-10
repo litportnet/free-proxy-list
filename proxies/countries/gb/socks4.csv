@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,856,924,36.3,45,774,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,21,2026-07-31T20:24:15.555Z,2026-10-09T04:31:38.055Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,1010,3637.5,69.6,58.4,795,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-10T04:24:28.488Z
+socks4,52.56.231.224,443,socks4://52.56.231.224:443,elite,true,473,481,100,,11,52.56.231.224,1,gb,England,London,Europe/London,16509,"Amazon.com, Inc.",7,2026-10-10T02:35:56.595Z,2026-10-10T04:19:11.004Z

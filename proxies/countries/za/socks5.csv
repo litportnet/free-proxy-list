@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,false,9217,3181.5,65.2,52.6,759,168.253.92.93,1,za,Gauteng,Pretoria,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,19,2025-11-06T12:07:21.653Z,2026-10-10T04:21:48.435Z
+socks5,45.74.31.40,11390,socks5://45.74.31.40:11390,elite,false,9816,4960.5,18.9,7.1,98,196.40.97.228,2,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,17,2026-09-17T10:34:34.206Z,2026-10-10T04:20:22.673Z
+socks5,45.74.31.42,12236,socks5://45.74.31.42:12236,elite,false,4038,4323,94.1,,24,196.40.97.228,2,za,Western Cape,Cape Town,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,4,2026-10-01T20:52:18.811Z,2026-10-10T04:27:59.300Z

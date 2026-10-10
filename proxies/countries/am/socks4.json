@@ -5,12 +5,12 @@
     "port": 3629,
     "url": "socks4://81.16.9.222:3629",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 4469,
-    "latency_median_ms": 1839.5,
-    "uptime_24h": 31.3,
-    "uptime_7d": 43.9,
-    "checks_7d": 499,
+    "https": false,
+    "latency_ms": 1912,
+    "latency_median_ms": 1920,
+    "uptime_24h": 53.4,
+    "uptime_7d": 44.5,
+    "checks_7d": 521,
     "exit_ip": "81.16.9.222",
     "exit_shared": 1,
     "country": "am",
@@ -21,6 +21,6 @@
     "asn_org": "Ucom CJSC",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:05.823Z",
-    "last_checked": "2026-10-09T04:27:09.573Z"
+    "last_checked": "2026-10-10T04:21:31.973Z"
   }
 ]

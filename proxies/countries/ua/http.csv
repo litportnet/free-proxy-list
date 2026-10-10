@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.190.177.47,8989,http://188.190.177.47:8989,transparent,false,8972,5604.5,18.8,15.5,252,188.190.177.47,1,ua,Khmelnytskyi,Khmelnytskyi,Europe/Kyiv,28773,Global Technologies of Ukraine LLC,23,2026-05-05T15:52:16.757Z,2026-10-09T04:24:14.065Z
-http,134.249.86.47,8080,http://134.249.86.47:8080,transparent,false,4801,6672.5,15.4,14.2,402,134.249.86.47,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,15895,Kyivstar PJSC,23,2026-04-20T09:54:31.630Z,2026-10-09T04:28:41.553Z
+http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,true,2040,4325.5,46,39.4,695,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-10-10T04:25:16.355Z
+http,91.236.156.30,8282,http://91.236.156.30:8282,transparent,false,6867,4628,17.4,11.5,131,91.236.156.30,1,ua,Poltava,Shyshaky,Europe/Kyiv,205318,Limited Liability Company AVATOR ISP,13,2025-09-05T20:06:33.807Z,2026-10-10T04:24:09.405Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "212.112.121.130",
+    "port": 8080,
+    "url": "http://212.112.121.130:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 850,
+    "latency_median_ms": 1939,
+    "uptime_24h": 25,
+    "uptime_7d": 22.1,
+    "checks_7d": 507,
+    "exit_ip": "212.112.121.130",
+    "exit_shared": 1,
+    "country": "kg",
+    "region": "Bishkek",
+    "city": "Bishkek",
+    "timezone": "Asia/Bishkek",
+    "asn": 12764,
+    "asn_org": "AKNET Ltd.",
+    "sources_count": 16,
+    "first_seen": "2025-09-06T05:35:58.585Z",
+    "last_checked": "2026-10-10T04:25:34.006Z"
+  }
+]

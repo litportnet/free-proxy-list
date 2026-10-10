@@ -1,3 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,184.107.179.79,1080,socks5://184.107.179.79:1080,elite,true,4836,1863,59.6,61,123,184.107.179.79,2,ca,Quebec,Montréal,America/Toronto,32613,Leaseweb Canada Inc.,14,2026-10-08T01:10:00.078Z,2026-10-09T04:22:38.008Z
-socks5,45.74.31.47,8578,socks5://45.74.31.47:8578,elite,true,1273,1299.5,100,,35,51.161.15.103,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,1,2026-10-05T20:42:21.932Z,2026-10-09T04:24:37.809Z
+socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,2322,2962,63.8,56.6,829,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-10T04:20:32.676Z
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,false,2897,6207,55.3,49.4,573,187.15.140.139,1,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,18,2026-09-16T03:18:14.821Z,2026-10-10T04:26:38.586Z
+socks5,5.75.133.113,10801,socks5://5.75.133.113:10801,elite,true,2474,6803.5,46.6,46.1,616,184.75.221.163,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,19,2026-08-26T01:01:55.581Z,2026-10-10T04:22:02.747Z
+socks5,45.74.31.40,9579,socks5://45.74.31.40:9579,elite,true,8166,5108.5,36.8,27.2,224,178.128.236.171,4,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",13,2026-09-28T05:12:30.822Z,2026-10-10T04:25:05.669Z
+socks5,45.74.31.47,9348,socks5://45.74.31.47:9348,elite,true,2983,2396.5,43.5,22.7,163,178.128.236.171,4,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",14,2026-09-29T02:23:33.489Z,2026-10-10T04:27:13.874Z
+socks5,45.74.31.42,9491,socks5://45.74.31.42:9491,elite,true,4854,3882,37.5,11.4,79,178.128.236.171,4,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",12,2026-09-26T04:47:02.776Z,2026-10-10T04:29:10.205Z
+socks5,45.74.31.41,9894,socks5://45.74.31.41:9894,elite,false,8313,4262,40,5.4,74,178.128.236.171,4,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",11,2026-09-20T03:49:39.093Z,2026-10-10T04:22:45.549Z

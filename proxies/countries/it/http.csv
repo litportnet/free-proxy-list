@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,476,484.5,77.4,75.1,876,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-09T04:33:10.976Z
-http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,673,2197.5,45.7,37.3,711,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-09T04:31:13.154Z
-http,185.154.237.58,8080,http://185.154.237.58:8080,transparent,false,2536,3806,24.4,26.1,138,185.154.237.58,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,13,2026-05-22T07:21:16.215Z,2026-10-09T04:23:00.473Z
-http,71.168.71.12,8888,http://71.168.71.12:8888,elite,false,8047,2565,12.2,5.3,95,64.190.76.14,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,18,2025-09-12T01:18:41.404Z,2026-10-09T04:32:50.241Z

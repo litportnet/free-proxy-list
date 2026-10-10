@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.98.181.176",
+    "port": 3128,
+    "url": "http://41.98.181.176:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1659,
+    "latency_median_ms": 2523.5,
+    "uptime_24h": 84.8,
+    "uptime_7d": null,
+    "checks_7d": 46,
+    "exit_ip": "41.98.181.176",
+    "exit_shared": 1,
+    "country": "dz",
+    "region": "Oran",
+    "city": "Bir el Djir",
+    "timezone": "Africa/Algiers",
+    "asn": 36947,
+    "asn_org": "Telecom Algeria",
+    "sources_count": 13,
+    "first_seen": "2026-10-09T20:32:43.911Z",
+    "last_checked": "2026-10-10T04:25:54.206Z"
+  }
+]

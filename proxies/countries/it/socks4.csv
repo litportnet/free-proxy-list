@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.56.219.76,40001,socks4://185.56.219.76:40001,elite,false,5774,7748.5,40.5,42.5,593,104.28.220.231,1,it,Apulia,Bari,Europe/Rome,13335,"Cloudflare, Inc.",17,2026-09-28T23:22:01.334Z,2026-10-09T04:26:27.486Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,586,604.5,61.3,45.7,619,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-10T04:23:49.271Z
+socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,false,8163,5780.5,61.4,34.6,260,91.192.25.37,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-10-10T04:26:37.512Z

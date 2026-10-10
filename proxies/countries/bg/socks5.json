@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "31.211.142.115",
+    "port": 8192,
+    "url": "socks5://31.211.142.115:8192",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 854,
+    "latency_median_ms": 1918,
+    "uptime_24h": 57.3,
+    "uptime_7d": 47.3,
+    "checks_7d": 709,
+    "exit_ip": "31.211.142.115",
+    "exit_shared": 1,
+    "country": "bg",
+    "region": "Pleven",
+    "city": "Pleven",
+    "timezone": "Europe/Sofia",
+    "asn": 197897,
+    "asn_org": "5KOM OOD",
+    "sources_count": 22,
+    "first_seen": "2025-09-04T23:48:55.053Z",
+    "last_checked": "2026-10-10T04:21:57.923Z"
+  }
+]

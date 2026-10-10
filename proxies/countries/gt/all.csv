@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.164.148.16,999,http://45.164.148.16:999,transparent,false,3624,3624,100,,7,45.164.148.13,1,gt,Quiché,Chichicastenango,America/Guatemala,267713,"JORGE MARIO, MENDOZA LUX (PUNTO-NET)",8,2026-07-23T03:34:22.387Z,2026-10-09T04:24:39.971Z
+socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,true,1409,1447.5,65.7,58.1,854,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,12,2026-05-31T05:22:35.276Z,2026-10-10T04:25:17.412Z
+socks4,38.41.225.174,8888,socks4://38.41.225.174:8888,elite,false,340,858.5,54.6,51.9,596,38.41.225.174,1,gt,Guatemala,Guatemala City,America/Guatemala,264764,Innova Outsourcing S.A,13,2026-07-06T07:56:30.881Z,2026-10-10T04:25:58.502Z
+http,148.230.17.248,999,http://148.230.17.248:999,transparent,false,7510,4433.5,20,5.3,95,148.230.17.250,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,18,2026-04-10T05:23:42.768Z,2026-10-10T04:22:43.300Z

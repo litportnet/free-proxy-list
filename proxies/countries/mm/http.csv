@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.205.142.142,8080,http://185.205.142.142:8080,transparent,false,6981,3616,24.8,35.6,665,185.205.142.142,1,mm,Yangon,Yangon,Asia/Yangon,134739,"AGB Communication Co., Ltd",12,2025-09-25T11:48:21.869Z,2026-10-09T04:30:33.119Z

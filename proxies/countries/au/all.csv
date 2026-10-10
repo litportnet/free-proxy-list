@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.30.211.34,80,http://103.30.211.34:80,elite,false,858,754,66.1,93.5,856,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-09T04:32:10.968Z
-socks4,108.61.185.188,1080,socks4://108.61.185.188:1080,elite,true,6308,4721,46.9,49.3,773,45.77.235.30,1,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",14,2026-10-01T11:53:46.270Z,2026-10-09T04:29:27.501Z
-http,61.29.96.146,80,http://61.29.96.146:80,anonymous,false,7969,5082.5,27.4,25.5,482,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-08T23:11:07.370Z,2026-10-09T04:32:01.444Z
-socks5,169.155.50.87,1080,socks5://169.155.50.87:1080,elite,false,1551,1706,22.7,25.1,586,75.102.33.66,1,au,New South Wales,Sydney,Australia/Sydney,30081,CacheFly,20,2026-04-12T05:49:27.240Z,2026-10-09T04:31:57.187Z
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,3757,738.5,99.3,94.1,895,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-10T04:29:04.766Z
+socks4,111.235.128.218,60606,socks4://111.235.128.218:60606,elite,false,2175,2173.5,50.8,42.9,594,111.235.128.218,1,au,Tasmania,Burnie,Australia/Hobart,134181,Burnie City Council,9,2026-04-14T04:25:18.761Z,2026-10-10T04:27:48.097Z
+socks5,169.155.50.87,1080,socks5://169.155.50.87:1080,elite,true,1204,1927.5,44,28.6,605,75.102.33.66,1,au,New South Wales,Sydney,Australia/Sydney,30081,CacheFly,20,2026-04-12T05:49:27.240Z,2026-10-10T04:28:18.158Z
+socks5,35.197.174.190,1080,socks5://35.197.174.190:1080,elite,false,6008,3529,77.3,,22,35.197.174.190,1,au,New South Wales,Sydney,Australia/Sydney,396982,Google LLC,9,2026-10-10T00:34:53.733Z,2026-10-10T04:19:56.048Z

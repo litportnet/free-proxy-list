@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,false,7871,3037,82.7,78,799,146.70.193.112,1,rs,Central Serbia,Belgrade,Europe/Belgrade,9009,M247 Europe SRL,18,2026-09-20T18:57:39.355Z,2026-10-10T04:21:25.551Z

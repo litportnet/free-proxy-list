@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.244.78.61,8083,http://102.244.78.61:8083,elite,true,938,885,68.7,91.8,643,102.244.78.57,3,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-04T14:26:33.928Z,2026-10-09T04:27:09.589Z
-http,102.244.78.61,8084,http://102.244.78.61:8084,elite,true,787,806.5,68.8,88.7,397,102.244.78.57,3,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T06:47:45.688Z,2026-10-09T04:33:25.098Z
-http,102.244.78.61,8081,http://102.244.78.61:8081,elite,true,5817,821.5,71.1,87,315,102.244.78.57,3,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-06T19:54:38.900Z,2026-10-09T04:30:02.641Z
+http,102.244.78.61,8083,http://102.244.78.61:8083,elite,false,812,815.5,73,88.7,768,102.244.78.57,1,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-04T14:26:33.928Z,2026-10-10T04:22:16.649Z
+socks4,102.132.17.30,1080,socks4://102.132.17.30:1080,elite,true,1109,4126,40.6,48.6,545,102.132.17.30,1,cm,Littoral,Douala,Africa/Douala,327820,SWECOM PLC,14,2026-07-04T16:35:29.162Z,2026-10-10T04:23:30.333Z

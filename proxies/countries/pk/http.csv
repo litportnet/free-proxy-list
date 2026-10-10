@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.151.42.242,8080,http://103.151.42.242:8080,elite,false,4989,4270.5,28.6,22.1,271,103.151.42.242,1,pk,Punjab,Lahore,Asia/Karachi,151330,PLAY BROADBAND (PRIVATE) LIMITED,18,2026-10-03T20:16:56.994Z,2026-10-09T04:25:40.198Z
-http,103.178.121.161,8080,http://103.178.121.161:8080,transparent,true,1413,1413,100,,1,103.178.121.161,1,pk,Punjab,Lahore,Asia/Karachi,136969,KK Networks (Pvt) Ltd.,1,2026-10-09T04:24:29.362Z,2026-10-09T04:24:36.713Z
+http,103.86.135.114,8080,http://103.86.135.114:8080,elite,false,3928,3618,29.3,27.2,463,103.86.135.114,1,pk,Punjab,Multan,Asia/Karachi,135003,Multan Cable & Internet Services (Pvt) Ltd,20,2026-10-01T11:53:48.940Z,2026-10-10T04:21:00.748Z
+http,182.184.30.96,8080,http://182.184.30.96:8080,elite,true,2711,4555.5,28.7,20.8,202,182.184.30.96,2,pk,Punjab,Lahore,Asia/Karachi,17557,Pakistan Telecommunication Company Limited,20,2026-09-26T07:48:31.243Z,2026-10-10T04:21:29.293Z
+http,139.135.63.90,8080,http://139.135.63.90:8080,transparent,false,4134,4003.5,22.5,13.5,163,139.135.63.90,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,24,2026-08-27T04:18:02.239Z,2026-10-10T04:24:46.488Z

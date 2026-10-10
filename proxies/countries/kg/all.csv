@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,212.112.121.130,8080,http://212.112.121.130:8080,transparent,true,850,1939,25,22.1,507,212.112.121.130,1,kg,Bishkek,Bishkek,Asia/Bishkek,12764,AKNET Ltd.,16,2025-09-06T05:35:58.585Z,2026-10-10T04:25:34.006Z

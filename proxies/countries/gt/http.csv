@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.164.148.16,999,http://45.164.148.16:999,transparent,false,3624,3624,100,,7,45.164.148.13,1,gt,Quiché,Chichicastenango,America/Guatemala,267713,"JORGE MARIO, MENDOZA LUX (PUNTO-NET)",8,2026-07-23T03:34:22.387Z,2026-10-09T04:24:39.971Z
+http,148.230.17.248,999,http://148.230.17.248:999,transparent,false,7510,4433.5,20,5.3,95,148.230.17.250,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,18,2026-04-10T05:23:42.768Z,2026-10-10T04:22:43.300Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.28.81.217,8443,http://89.28.81.217:8443,transparent,false,6690,5562.5,17.9,17.7,255,89.28.81.217,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,31252,StarNet Solutii SRL,15,2026-06-08T12:03:15.567Z,2026-10-09T04:26:35.033Z

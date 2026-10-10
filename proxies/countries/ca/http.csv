@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3198,2024,59.3,61.8,835,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-09T04:23:52.360Z
-http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,false,3927,3800.5,9.1,17.5,189,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,11,2025-11-06T15:40:16.476Z,2026-10-09T04:31:55.581Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,3778,121,61.8,89.6,968,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-10T04:27:35.865Z
+http,173.181.142.228,80,http://173.181.142.228:80,elite,false,811,3568,9.4,19.5,333,173.181.142.228,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-10-10T04:25:27.612Z

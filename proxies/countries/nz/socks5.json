@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "202.74.203.17",
+    "port": 1080,
+    "url": "socks5://202.74.203.17:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1347,
+    "latency_median_ms": 2371,
+    "uptime_24h": 23.2,
+    "uptime_7d": 25,
+    "checks_7d": 468,
+    "exit_ip": "202.74.203.17",
+    "exit_shared": 1,
+    "country": "nz",
+    "region": "Auckland",
+    "city": "Auckland",
+    "timezone": "Pacific/Auckland",
+    "asn": 45177,
+    "asn_org": "Devoli",
+    "sources_count": 18,
+    "first_seen": "2026-06-17T22:04:03.726Z",
+    "last_checked": "2026-10-10T04:20:01.886Z"
+  }
+]

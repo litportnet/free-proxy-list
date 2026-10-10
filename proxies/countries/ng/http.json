@@ -6,11 +6,11 @@
     "url": "http://41.184.92.220:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 795,
-    "latency_median_ms": 922.5,
-    "uptime_24h": 38.5,
-    "uptime_7d": 65.4,
-    "checks_7d": 838,
+    "latency_ms": 802,
+    "latency_median_ms": 840,
+    "uptime_24h": 61.8,
+    "uptime_7d": 65.1,
+    "checks_7d": 836,
     "exit_ip": "41.73.242.219",
     "exit_shared": 2,
     "country": "ng",
@@ -21,7 +21,7 @@
     "asn_org": "Inq. Digital Nigeria",
     "sources_count": 11,
     "first_seen": "2026-04-12T22:59:20.773Z",
-    "last_checked": "2026-10-09T04:29:45.594Z"
+    "last_checked": "2026-10-10T04:25:16.368Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://41.184.92.221:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 8065,
-    "latency_median_ms": 957,
-    "uptime_24h": 45.4,
-    "uptime_7d": 58.4,
-    "checks_7d": 835,
+    "latency_ms": 913,
+    "latency_median_ms": 906,
+    "uptime_24h": 48.1,
+    "uptime_7d": 58.6,
+    "checks_7d": 814,
     "exit_ip": "41.73.242.219",
     "exit_shared": 2,
     "country": "ng",
@@ -45,6 +45,6 @@
     "asn_org": "Inq. Digital Nigeria",
     "sources_count": 18,
     "first_seen": "2026-08-28T02:30:34.573Z",
-    "last_checked": "2026-10-09T04:29:35.982Z"
+    "last_checked": "2026-10-10T04:22:45.010Z"
   }
 ]

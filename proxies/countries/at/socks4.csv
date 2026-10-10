@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,1779,1810.5,60.6,60.8,846,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-10-09T04:32:30.764Z
-socks4,140.238.14.161,8082,socks4://140.238.14.161:8082,elite,true,1407,2368,28.6,10.9,110,109.70.100.2,1,at,State of Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,19,2026-09-08T18:42:15.320Z,2026-10-09T04:31:22.681Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,1910,1896.5,66.2,60.3,824,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-10T04:25:39.809Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,692,1179.5,44.9,48.3,731,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,13,2026-07-06T13:59:25.623Z,2026-10-10T04:26:35.349Z
+socks4,147.78.67.207,1080,socks4://147.78.67.207:1080,elite,false,7955,6412,27.2,34.5,139,193.233.128.51,1,at,Upper Austria,Linz,Europe/Vienna,210644,AEZA GROUP LLC,13,2026-10-07T19:06:44.756Z,2026-10-10T04:29:33.777Z

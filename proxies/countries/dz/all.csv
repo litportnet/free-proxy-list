@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.98.181.176,3128,http://41.98.181.176:3128,transparent,true,1659,2523.5,84.8,,46,41.98.181.176,1,dz,Oran,Bir el Djir,Africa/Algiers,36947,Telecom Algeria,13,2026-10-09T20:32:43.911Z,2026-10-10T04:25:54.206Z

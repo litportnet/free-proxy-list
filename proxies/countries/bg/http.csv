@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,213.169.52.101,8185,http://213.169.52.101:8185,transparent,false,5617,4160.5,21.4,26.3,395,213.169.52.101,1,bg,Shumen,Veliki Preslav,Europe/Sofia,42086,RO&NI EOOD,13,2026-06-05T02:25:33.384Z,2026-10-09T04:29:17.374Z
+http,213.169.33.12,8001,http://213.169.33.12:8001,transparent,false,3512,4610.5,16.5,13.3,203,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,19,2025-09-05T20:06:27.889Z,2026-10-10T04:26:52.474Z

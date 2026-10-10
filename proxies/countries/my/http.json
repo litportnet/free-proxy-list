@@ -6,8 +6,8 @@
     "url": "http://219.93.101.60:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 1029,
-    "latency_median_ms": 1029,
+    "latency_ms": 993,
+    "latency_median_ms": 1044.5,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1006,
@@ -21,7 +21,7 @@
     "asn_org": "TM TECHNOLOGY SERVICES SDN. BHD.",
     "sources_count": 18,
     "first_seen": "2025-09-10T21:05:05.504Z",
-    "last_checked": "2026-10-09T04:28:03.972Z"
+    "last_checked": "2026-10-10T04:25:37.706Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://219.93.101.63:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 1055,
-    "latency_median_ms": 1047,
+    "latency_ms": 1017,
+    "latency_median_ms": 1037,
     "uptime_24h": 100,
     "uptime_7d": 100,
-    "checks_7d": 1005,
+    "checks_7d": 1004,
     "exit_ip": "60.53.60.240",
     "exit_shared": 3,
     "country": "my",
@@ -45,7 +45,7 @@
     "asn_org": "TM TECHNOLOGY SERVICES SDN. BHD.",
     "sources_count": 19,
     "first_seen": "2025-09-10T21:05:05.517Z",
-    "last_checked": "2026-10-09T04:25:11.910Z"
+    "last_checked": "2026-10-10T04:24:30.608Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://219.93.101.62:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 1066,
-    "latency_median_ms": 1064,
+    "latency_ms": 1043,
+    "latency_median_ms": 1037.5,
     "uptime_24h": 100,
     "uptime_7d": 99.9,
-    "checks_7d": 1003,
+    "checks_7d": 1004,
     "exit_ip": "60.53.60.240",
     "exit_shared": 3,
     "country": "my",
@@ -69,6 +69,30 @@
     "asn_org": "TM TECHNOLOGY SERVICES SDN. BHD.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:34.046Z",
-    "last_checked": "2026-10-09T04:32:41.021Z"
+    "last_checked": "2026-10-10T04:23:23.458Z"
+  },
+  {
+    "protocol": "http",
+    "ip": "175.144.25.52",
+    "port": 8081,
+    "url": "http://175.144.25.52:8081",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 2515,
+    "latency_median_ms": 3194.5,
+    "uptime_24h": 28.9,
+    "uptime_7d": null,
+    "checks_7d": 45,
+    "exit_ip": "175.144.25.52",
+    "exit_shared": 1,
+    "country": "my",
+    "region": "Penang",
+    "city": "Tasek Glugor",
+    "timezone": "Asia/Kuala_Lumpur",
+    "asn": 4788,
+    "asn_org": "TM TECHNOLOGY SERVICES SDN. BHD.",
+    "sources_count": 13,
+    "first_seen": "2026-10-09T18:31:40.766Z",
+    "last_checked": "2026-10-10T04:25:35.067Z"
   }
 ]

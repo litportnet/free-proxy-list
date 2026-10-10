@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,89.185.127.253,8080,http://89.185.127.253:8080,transparent,false,5657,4319,22.9,21.7,267,89.185.127.253,1,at,Lower Austria,Schlatten,Europe/Vienna,24953,NETPLANET GmbH,16,2026-09-25T11:37:55.334Z,2026-10-10T04:25:24.367Z

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,true,4043,3100,54.3,49,659,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,16,2026-10-01T22:53:09.008Z,2026-10-10T04:27:01.012Z
+http,149.54.16.170,8080,http://149.54.16.170:8080,transparent,false,4838,4025,11.1,23.1,308,149.54.16.170,1,af,Baghlan,Pul-e Khumrī,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,22,2026-07-17T12:23:02.109Z,2026-10-10T04:27:30.482Z
+http,103.151.88.97,8080,http://103.151.88.97:8080,transparent,false,7337,4067,11.1,12.3,276,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,13,2026-09-24T06:22:34.030Z,2026-10-10T04:22:30.823Z

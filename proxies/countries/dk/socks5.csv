@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,34.124.190.108,8080,socks5://34.124.190.108:8080,elite,false,7662,8145,40.4,31.9,348,185.129.61.5,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,210731,Forening for DotSrc,20,2025-09-06T08:35:22.545Z,2026-10-10T04:24:15.217Z

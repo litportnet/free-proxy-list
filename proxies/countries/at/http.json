@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.185.127.253",
+    "port": 8080,
+    "url": "http://89.185.127.253:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 5657,
+    "latency_median_ms": 4319,
+    "uptime_24h": 22.9,
+    "uptime_7d": 21.7,
+    "checks_7d": 267,
+    "exit_ip": "89.185.127.253",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Lower Austria",
+    "city": "Schlatten",
+    "timezone": "Europe/Vienna",
+    "asn": 24953,
+    "asn_org": "NETPLANET GmbH",
+    "sources_count": 16,
+    "first_seen": "2026-09-25T11:37:55.334Z",
+    "last_checked": "2026-10-10T04:25:24.367Z"
+  }
+]

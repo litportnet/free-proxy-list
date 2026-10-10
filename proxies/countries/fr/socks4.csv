@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,551,1610,71.5,47.7,715,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-10T04:29:31.622Z
+socks4,185.99.3.100,995,socks4://185.99.3.100:995,elite,false,4734,6557.5,32.8,19,190,80.67.167.81,1,fr,Île-de-France,Paris,Europe/Paris,2027,MilkyWan Association,12,2026-06-03T14:03:41.248Z,2026-10-10T04:21:25.475Z

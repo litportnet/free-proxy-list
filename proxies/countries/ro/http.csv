@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.128.240.2,3128,http://185.128.240.2:3128,transparent,false,3670,4173.5,39.3,43.8,660,185.128.240.2,1,ro,Mehedinți County,Drobeta-Turnu Severin,Europe/Bucharest,49052,DATA ZYX SRL,17,2025-09-11T19:14:42.877Z,2026-10-09T04:25:35.469Z
-http,34.220.80.147,37000,http://34.220.80.147:37000,unknown,false,1538,1786.5,100,,48,34.220.80.147,2,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,3,2026-07-21T10:09:32.973Z,2026-10-09T04:24:52.907Z

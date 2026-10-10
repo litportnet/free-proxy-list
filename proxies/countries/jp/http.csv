@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,496,593,97.9,99.2,1004,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-10-09T04:32:05.698Z
-http,13.113.94.254,8080,http://13.113.94.254:8080,elite,false,6311,3333.5,68.8,,48,13.113.94.254,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",16,2026-10-08T20:20:00.137Z,2026-10-09T04:30:04.246Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,973,1160.5,100,99.4,1002,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-10-10T04:25:15.268Z
+http,210.76.192.133,10811,http://210.76.192.133:10811,elite,true,1006,1170.5,20.6,29.4,92,203.10.99.12,4,jp,Tokyo,Tokyo,Asia/Tokyo,137409,GSL Networks Pty LTD,13,2026-09-22T11:18:48.284Z,2026-10-10T04:27:58.224Z
+http,47.245.30.253,8080,http://47.245.30.253:8080,transparent,false,5801,3910,16.7,14.9,241,47.245.30.253,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",24,2025-09-06T17:41:31.074Z,2026-10-10T04:21:42.576Z
+http,223.72.47.127,6666,http://223.72.47.127:6666,elite,true,4326,1618,100,,6,167.254.242.111,1,jp,Tokyo,Tokyo,Asia/Tokyo,63473,"HostHatch, LLC",2,2026-10-10T03:36:25.770Z,2026-10-10T04:27:45.943Z

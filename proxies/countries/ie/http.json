@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "52.30.58.104",
+    "port": 9100,
+    "url": "http://52.30.58.104:9100",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 227,
+    "latency_median_ms": 228,
+    "uptime_24h": 91.5,
+    "uptime_7d": null,
+    "checks_7d": 47,
+    "exit_ip": "54.76.114.122",
+    "exit_shared": 1,
+    "country": "ie",
+    "region": "Leinster",
+    "city": "Dublin",
+    "timezone": "Europe/Dublin",
+    "asn": 16509,
+    "asn_org": "Amazon.com, Inc.",
+    "sources_count": 12,
+    "first_seen": "2026-10-09T20:32:48.835Z",
+    "last_checked": "2026-10-10T04:23:53.541Z"
+  }
+]

@@ -6,11 +6,11 @@
     "url": "http://89.36.161.137:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 741,
+    "latency_ms": 3773,
     "latency_median_ms": 724,
-    "uptime_24h": 96.4,
-    "uptime_7d": 96.4,
-    "checks_7d": 56,
+    "uptime_24h": 80.6,
+    "uptime_7d": 85.1,
+    "checks_7d": 194,
     "exit_ip": "89.36.161.137",
     "exit_shared": 1,
     "country": "lv",
@@ -21,6 +21,6 @@
     "asn_org": "Melbikomas UAB",
     "sources_count": 13,
     "first_seen": "2026-09-28T08:14:00.891Z",
-    "last_checked": "2026-10-09T04:32:58.022Z"
+    "last_checked": "2026-10-10T04:22:59.193Z"
   }
 ]

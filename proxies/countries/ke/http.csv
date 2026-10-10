@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.68.76.247,5566,http://102.68.76.247:5566,transparent,true,2263,3987,29.1,30.8,559,102.211.147.69,1,ke,Nairobi County,Nairobi,Africa/Nairobi,328490,Unwired Communications Limited,25,2026-08-12T03:48:56.642Z,2026-10-09T04:26:49.073Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,156.38.112.11,80,http://156.38.112.11:80,elite,false,1395,1307,73.1,72.9,886,156.38.112.11,1,gh,Central,Cape Coast,Africa/Accra,328212,THE UNIVERSITY OF CAPE COAST,19,2025-09-10T19:34:54.808Z,2026-10-09T04:32:50.268Z
+http,156.38.112.11,80,http://156.38.112.11:80,elite,false,9499,3025.5,69.4,73.2,880,156.38.112.11,1,gh,Central,Cape Coast,Africa/Accra,328212,THE UNIVERSITY OF CAPE COAST,19,2025-09-10T19:34:54.808Z,2026-10-10T04:20:52.796Z

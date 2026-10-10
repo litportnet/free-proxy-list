@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "51.15.253.45",
+    "port": 8080,
+    "url": "socks4://51.15.253.45:8080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2070,
+    "latency_median_ms": 1889,
+    "uptime_24h": 81.2,
+    "uptime_7d": 73.6,
+    "checks_7d": 909,
+    "exit_ip": "185.129.61.7",
+    "exit_shared": 1,
+    "country": "dk",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "timezone": "Europe/Copenhagen",
+    "asn": 210731,
+    "asn_org": "Forening for DotSrc",
+    "sources_count": 11,
+    "first_seen": "2026-07-25T00:58:03.543Z",
+    "last_checked": "2026-10-10T04:24:52.270Z"
+  }
+]

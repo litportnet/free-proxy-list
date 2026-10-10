@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,6603,3429,75.4,75.8,931,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-09T04:30:39.553Z
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,795,922.5,38.5,65.4,838,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-09T04:29:45.594Z
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,8065,957,45.4,58.4,835,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-09T04:29:35.982Z
-socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,1995,1565.5,43,51.3,786,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-09T04:26:13.546Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,802,840,61.8,65.1,836,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-10T04:25:16.368Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,913,906,48.1,58.6,814,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-10T04:22:45.010Z
+socks4,197.156.240.66,5678,socks4://197.156.240.66:5678,elite,true,1069,1056,62.4,58.2,558,197.156.240.66,1,ng,Lagos,Lagos,Africa/Lagos,30988,IS InternetSolutions Limited,13,2025-09-04T23:48:53.737Z,2026-10-10T04:28:25.639Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,4046,2020.5,54.5,50.1,784,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-10T04:27:58.745Z
+socks4,154.113.170.129,5678,socks4://154.113.170.129:5678,elite,false,8087,1949.5,13.7,14,314,154.113.167.70,1,ng,Lagos,Lagos,Africa/Lagos,37282,Main one Cable Company Nigeria Limited,8,2025-09-07T10:15:31.892Z,2026-10-10T04:29:16.063Z
