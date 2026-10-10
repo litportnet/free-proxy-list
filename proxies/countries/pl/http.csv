@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,180.93.102.159,40025,http://180.93.102.159:40025,elite,false,6211,5655.5,100,,4,83.7.241.107,1,pl,Lesser Poland,Kraków,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,3,2026-10-10T15:42:45.090Z,2026-10-10T16:12:02.846Z

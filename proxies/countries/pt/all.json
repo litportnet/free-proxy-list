@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "185.228.160.145",
+    "port": 1080,
+    "url": "socks4://185.228.160.145:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7870,
+    "latency_median_ms": 3637,
+    "uptime_24h": 21.4,
+    "uptime_7d": 17.2,
+    "checks_7d": 319,
+    "exit_ip": "185.228.160.145",
+    "exit_shared": 1,
+    "country": "pt",
+    "region": "Lisbon",
+    "city": "Lisbon",
+    "timezone": "Europe/Lisbon",
+    "asn": 50666,
+    "asn_org": "LigaT Telecom Sociedade Unipessoal LDA",
+    "sources_count": 16,
+    "first_seen": "2026-06-12T09:53:07.654Z",
+    "last_checked": "2026-10-10T16:20:02.705Z"
+  }
+]

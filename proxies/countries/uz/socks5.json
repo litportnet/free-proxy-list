@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "193.149.18.217",
+    "port": 1080,
+    "url": "socks5://193.149.18.217:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1872,
+    "latency_median_ms": 1287.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 10,
+    "exit_ip": "193.149.18.217",
+    "exit_shared": 1,
+    "country": "uz",
+    "region": "Tashkent",
+    "city": "Tashkent",
+    "timezone": "Asia/Tashkent",
+    "asn": 43647,
+    "asn_org": "SERVERCORE CIS FE LLC",
+    "sources_count": 9,
+    "first_seen": "2026-10-10T14:42:18.733Z",
+    "last_checked": "2026-10-10T16:10:56.971Z"
+  }
+]

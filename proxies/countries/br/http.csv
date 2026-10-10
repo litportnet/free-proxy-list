@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,200.128.84.82,3128,http://200.128.84.82:3128,transparent,true,722,574.5,98.6,94.8,730,200.128.84.82,1,br,Bahia,Feira de Santana,America/Bahia,53164,UNIVERSIDADE FEDERAL DA BAHIA,18,2026-10-02T19:03:38.578Z,2026-10-10T16:19:31.940Z
+http,201.149.127.22,8080,http://201.149.127.22:8080,transparent,false,2828,4223,25,21.3,277,201.149.126.211,1,br,Pará,Canaã dos Carajás,America/Belem,61851,Garra Fibra,17,2026-05-27T20:32:26.128Z,2026-10-10T16:17:54.339Z
+http,159.112.179.52,3128,http://159.112.179.52:3128,transparent,false,4603,3691.5,20,19.2,234,159.112.179.52,1,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,23,2026-09-01T01:20:19.399Z,2026-10-10T16:19:41.071Z
+http,45.175.171.71,8085,http://45.175.171.71:8085,transparent,false,6091,3915.5,15.6,13.2,280,45.175.171.150,1,br,São Paulo,Castilho,America/Sao_Paulo,268916,Inffotreini Provedores e Informatica LTDA - ME,13,2026-07-24T21:57:17.707Z,2026-10-10T16:18:00.132Z
+http,62.210.189.192,10546,http://62.210.189.192:10546,elite,false,9333,8235.5,25,9.6,136,177.190.66.215,1,br,Paraná,Palmas,America/Sao_Paulo,263289,Palmasnet Informática LTDA,12,2026-09-25T21:43:13.962Z,2026-10-10T16:16:11.094Z

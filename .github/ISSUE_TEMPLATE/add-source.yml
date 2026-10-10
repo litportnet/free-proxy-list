@@ -1,0 +1,34 @@
+name: Suggest a proxy source
+description: Suggest a list for the litport scraper to pull additional candidate proxies from.
+title: "add source: "
+labels: ["add-source"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Source URL
+      description: The raw list, API endpoint, or page that publishes the proxies.
+      placeholder: "https://example.com/free-proxy-list.txt"
+    validations:
+      required: true
+  - type: textarea
+    id: format
+    attributes:
+      label: Format
+      description: How each entry is laid out (e.g. "ip:port per line", "JSON array of {ip, port, protocol}", "HTML table").
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: How does this source verify its own entries (if at all)?
+      description: E.g. "none, raw scrape", "checked hourly against a judge URL", "site claims 99% uptime but does not say how it is measured".
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: License / terms on reusing this data
+      placeholder: "none stated / MIT / CC0 / robots.txt disallows scraping / ..."
+    validations:
+      required: true

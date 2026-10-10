@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "180.93.102.159",
+    "port": 40025,
+    "url": "http://180.93.102.159:40025",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6211,
+    "latency_median_ms": 5655.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 4,
+    "exit_ip": "83.7.241.107",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Lesser Poland",
+    "city": "Kraków",
+    "timezone": "Europe/Warsaw",
+    "asn": 5617,
+    "asn_org": "Orange Polska Spolka Akcyjna",
+    "sources_count": 3,
+    "first_seen": "2026-10-10T15:42:45.090Z",
+    "last_checked": "2026-10-10T16:12:02.846Z"
+  }
+]

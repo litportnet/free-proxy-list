@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,2994,4962,55.1,58.8,864,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-10T16:10:35.877Z
+http,110.74.195.34,25,http://110.74.195.34:25,elite,false,5678,3663.5,46.6,49.4,801,110.74.195.34,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38901,"EZECOM CO., LTD.",19,2025-09-10T21:13:42.082Z,2026-10-10T16:12:42.158Z

@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,46.47.197.210,3128,http://46.47.197.210:3128,elite,false,594,615.5,98.6,98.3,996,46.47.197.210,1,ru,Novgorod Oblast,Kresttsy,Europe/Moscow,20632,PJSC MegaFon,18,2025-09-10T21:05:12.166Z,2026-10-10T16:20:12.811Z
+http,37.110.145.57,8081,http://37.110.145.57:8081,transparent,false,810,621.5,87,80.1,893,37.110.145.57,1,ru,Moscow,Moscow,Europe/Moscow,42610,OJSC National Cable Networks,18,2026-08-02T20:49:53.718Z,2026-10-10T16:19:23.263Z
+http,79.174.12.190,80,http://79.174.12.190:80,elite,false,649,659.5,63.6,70.3,875,79.174.12.190,1,ru,Moscow,Moscow,Europe/Moscow,29182,JSC IOT,11,2025-09-10T19:34:45.087Z,2026-10-10T16:11:13.883Z
+http,31.28.4.192,80,http://31.28.4.192:80,elite,false,3721,3204,63.6,69.5,876,31.28.4.192,1,ru,Moscow,Moscow,Europe/Moscow,29076,Citytelecom LLC,11,2025-09-04T23:49:35.291Z,2026-10-10T16:20:37.688Z
+http,213.178.39.170,8080,http://213.178.39.170:8080,elite,true,3392,4582.5,14.1,15.1,312,213.178.39.170,1,ru,Samara Oblast,Tolyatti,Europe/Samara,8439,JSC AIST,21,2025-09-04T23:49:37.653Z,2026-10-10T16:17:50.050Z
+http,87.241.198.70,8080,http://87.241.198.70:8080,transparent,false,5045,4655,14.3,13.4,202,89.189.184.73,1,ru,Novosibirsk Oblast,Novosibirsk,Asia/Novosibirsk,34757,Sibirskie Seti Ltd.,24,2026-08-24T16:47:09.977Z,2026-10-10T16:19:34.217Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,181.209.39.90,999,http://181.209.39.90:999,transparent,true,4766,4607,53.6,66.7,672,181.209.39.90,1,ar,Buenos Aires,Santa Catalina - Dique Lujan,America/Argentina/Buenos_Aires,52361,ARSAT - Empresa Argentina de Soluciones Satelitales S.A.,20,2026-10-05T09:36:40.324Z,2026-10-10T16:18:58.486Z
+http,200.110.218.13,999,http://200.110.218.13:999,transparent,false,6320,3548,27,20.6,475,200.110.218.13,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,11014,CPS,14,2026-07-02T20:13:37.600Z,2026-10-10T16:10:59.115Z

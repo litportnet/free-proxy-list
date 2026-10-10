@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,995,1362.5,87.1,95.5,987,192.42.116.107,1,nl,Flevoland,Lelystad,Europe/Amsterdam,215125,Church of Cyberology,21,2026-07-02T02:04:25.816Z,2026-10-10T16:15:53.017Z
+socks5,5.255.123.162,1080,socks5://5.255.123.162:1080,elite,false,5658,5329,49.2,68.8,852,5.255.123.162,1,nl,Flevoland,Dronten,Europe/Amsterdam,60404,Liteserver,19,2026-05-12T22:21:12.403Z,2026-10-10T16:15:53.031Z
+socks5,5.255.113.177,1080,socks5://5.255.113.177:1080,elite,false,1640,1153.5,68.7,62.9,890,5.255.113.177,1,nl,Flevoland,Dronten,Europe/Amsterdam,60404,Liteserver,1,2026-03-17T17:23:27.702Z,2026-10-10T16:17:50.562Z
+socks5,5.255.117.250,1080,socks5://5.255.117.250:1080,elite,true,625,622,69.6,60,865,5.255.117.250,1,nl,Flevoland,Lelystad,Europe/Amsterdam,60404,Liteserver,20,2026-01-05T12:57:36.516Z,2026-10-10T16:20:50.486Z
+socks5,5.255.103.55,1080,socks5://5.255.103.55:1080,elite,true,1733,2244.5,66.9,56.4,828,5.255.103.55,1,nl,Flevoland,Lelystad,Europe/Amsterdam,60404,Liteserver,19,2026-04-07T02:44:01.055Z,2026-10-10T16:15:28.009Z
+socks5,143.198.239.45,10034,socks5://143.198.239.45:10034,elite,true,1542,3079.5,49.6,48.5,262,192.42.116.17,1,nl,Flevoland,Lelystad,Europe/Amsterdam,215125,Church of Cyberology,2,2026-10-08T11:15:16.965Z,2026-10-10T16:15:22.402Z
+socks5,158.101.8.92,1080,socks5://158.101.8.92:1080,elite,true,2524,2916,50.4,44.6,772,192.42.116.99,1,nl,Flevoland,Lelystad,Europe/Amsterdam,215125,Church of Cyberology,16,2026-03-29T05:50:34.027Z,2026-10-10T16:18:13.712Z
+socks5,143.198.239.45,10001,socks5://143.198.239.45:10001,elite,true,6139,3677,47.6,43.3,688,192.42.116.92,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,2,2026-10-02T17:02:39.973Z,2026-10-10T16:10:10.624Z

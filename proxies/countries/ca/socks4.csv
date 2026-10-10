@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,false,4019,3562.5,66.7,61,840,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-10T16:20:29.222Z

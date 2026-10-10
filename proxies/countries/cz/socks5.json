@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "157.180.24.140",
+    "port": 11301,
+    "url": "socks5://157.180.24.140:11301",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1140,
+    "latency_median_ms": 1031,
+    "uptime_24h": 22.1,
+    "uptime_7d": 20.9,
+    "checks_7d": 129,
+    "exit_ip": "146.70.129.138",
+    "exit_shared": 2,
+    "country": "cz",
+    "region": "Prague",
+    "city": "Prague",
+    "timezone": "Europe/Prague",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 12,
+    "first_seen": "2026-10-08T02:10:28.483Z",
+    "last_checked": "2026-10-10T16:14:54.230Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "202.123.183.66",
+    "port": 5678,
+    "url": "socks4://202.123.183.66:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8783,
+    "latency_median_ms": 2963.5,
+    "uptime_24h": 61.7,
+    "uptime_7d": 57.3,
+    "checks_7d": 758,
+    "exit_ip": "202.123.183.66",
+    "exit_shared": 1,
+    "country": "la",
+    "region": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "timezone": "Asia/Vientiane",
+    "asn": 24337,
+    "asn_org": "Skytelecom , Transit provider and ISP in Vientiene.",
+    "sources_count": 14,
+    "first_seen": "2025-09-05T20:06:32.166Z",
+    "last_checked": "2026-10-10T16:17:08.097Z"
+  }
+]

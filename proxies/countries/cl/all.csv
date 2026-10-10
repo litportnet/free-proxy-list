@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,152.230.215.123,80,http://152.230.215.123:80,elite,false,700,2305.5,76,73.7,867,152.230.215.123,1,cl,Santiago Metropolitan,Santiago,America/Santiago,14259,Gtd Internet S.A.,20,2025-09-10T19:34:24.265Z,2026-10-10T16:18:46.082Z
+http,38.7.195.49,999,http://38.7.195.49:999,transparent,true,1872,3603,37.4,48,800,151.241.85.26,2,cl,O'Higgins Region,San Vicente de Tagua Tagua,America/Santiago,274099,VALLENET SPA,25,2026-02-10T13:55:01.662Z,2026-10-10T16:20:17.037Z
+http,38.7.195.50,999,http://38.7.195.50:999,transparent,false,2958,4236.5,45.9,45.8,789,151.241.85.26,2,cl,O'Higgins Region,San Vicente de Tagua Tagua,America/Santiago,274099,VALLENET SPA,25,2026-02-10T13:55:01.663Z,2026-10-10T16:20:04.894Z
+http,200.39.137.137,999,http://200.39.137.137:999,transparent,false,3847,3640,12,7.5,120,200.39.136.98,1,cl,Valparaiso,Valparaíso,America/Santiago,270024,ICONEX SPA,24,2026-03-04T10:34:41.340Z,2026-10-10T16:17:53.787Z

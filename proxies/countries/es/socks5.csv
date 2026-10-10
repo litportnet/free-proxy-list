@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.81.154.75,1080,socks5://45.81.154.75:1080,elite,true,8225,7017,82.6,73.6,848,45.81.154.75,1,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,15,2026-09-26T08:49:07.751Z,2026-10-10T16:15:09.562Z
+socks5,81.0.49.104,18500,socks5://81.0.49.104:18500,elite,false,826,950.5,47.5,48,692,81.0.49.104,1,es,Madrid,Madrid,Europe/Madrid,15704,XTRA TELECOM S.A.,21,2026-07-11T19:06:25.617Z,2026-10-10T16:17:08.083Z
+socks5,85.117.248.36,1080,socks5://85.117.248.36:1080,elite,true,1914,1931,40.7,35.6,627,85.117.248.36,1,es,Catalonia,Sant Feliu de Llobregat,Europe/Madrid,210086,CONNECTA 1876 SLU,20,2026-04-27T13:05:58.882Z,2026-10-10T16:19:47.363Z
+socks5,45.74.31.40,6252,socks5://45.74.31.40:6252,elite,true,3183,2887,30.8,30.8,52,188.164.194.190,1,es,Valencia,Valencia,Europe/Madrid,50926,"AXARNET COMUNICACIONES, S.L.",10,2026-10-10T04:36:57.105Z,2026-10-10T16:10:43.274Z
+socks5,157.180.24.140,11302,socks5://157.180.24.140:11302,elite,true,1262,1247.5,40,,15,146.70.22.209,2,es,Madrid,Madrid,Europe/Madrid,9009,M247 Europe SRL,1,2026-10-10T13:41:43.308Z,2026-10-10T16:11:10.186Z

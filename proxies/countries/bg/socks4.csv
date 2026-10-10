@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,725,1761,68.5,70.2,886,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-10-10T16:17:45.331Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,4444,1783,61.1,59.7,847,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.811Z,2026-10-10T16:17:08.112Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,2312,3077,56.9,58.1,867,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-10-10T16:14:17.713Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,false,3809,1973,70.9,57.3,794,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-10-10T16:17:01.549Z
+socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,false,3904,2878,63.8,56.5,620,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-10-10T16:11:31.233Z
+socks4,92.247.31.130,1080,socks4://92.247.31.130:1080,elite,true,3734,1241,58.8,55.8,645,92.247.31.130,1,bg,Veliko Tarnovo,Veliko Tŭrnovo,Europe/Sofia,8717,A1 Bulgaria EAD,13,2025-09-05T20:06:31.819Z,2026-10-10T16:20:18.104Z
+socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,true,1742,1252,64.3,53.8,771,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-10-10T16:11:41.316Z
+socks4,46.10.198.10,4153,socks4://46.10.198.10:4153,elite,true,1255,1732,56.2,49.6,556,46.10.198.10,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,21,2026-07-04T21:40:44.439Z,2026-10-10T16:11:54.975Z

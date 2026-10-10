@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "198.244.254.77",
+    "port": 3128,
+    "url": "http://198.244.254.77:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3793,
+    "latency_median_ms": 4225,
+    "uptime_24h": 89.8,
+    "uptime_7d": 71.8,
+    "checks_7d": 369,
+    "exit_ip": "198.244.254.77",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "Bexley",
+    "timezone": "Europe/London",
+    "asn": 16276,
+    "asn_org": "OVH SAS",
+    "sources_count": 21,
+    "first_seen": "2026-03-12T10:16:41.859Z",
+    "last_checked": "2026-10-10T16:18:58.559Z"
+  }
+]

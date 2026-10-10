@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,82.47.161.152,8443,http://82.47.161.152:8443,elite,true,2856,1518,88.9,88.9,63,82.47.161.152,2,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,16,2026-10-10T05:37:30.847Z,2026-10-10T16:17:49.508Z
+http,155.103.69.127,1314,http://155.103.69.127:1314,elite,false,6043,8225.5,23,51.4,317,155.103.69.127,3,tr,Istanbul,Maltepe,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",17,2026-10-07T20:07:17.563Z,2026-10-10T16:20:07.517Z
+http,201.7.31.230,8080,http://201.7.31.230:8080,transparent,false,1178,2350,20.8,21.6,366,201.7.31.230,1,tr,Istanbul,Istanbul,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,26,2026-09-09T03:47:35.663Z,2026-10-10T16:18:03.242Z
+http,193.33.157.19,8080,http://193.33.157.19:8080,transparent,false,7819,3809,16.7,19.8,338,193.33.157.19,1,tr,Kilis,Kilis,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,26,2026-09-07T09:24:49.987Z,2026-10-10T16:14:19.494Z
+http,193.33.157.155,8080,http://193.33.157.155:8080,transparent,false,6443,2630.5,75,17.5,63,193.33.157.155,1,tr,Kilis,Kilis,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,21,2026-09-12T21:18:38.274Z,2026-10-10T16:13:33.703Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,60.217.64.237,35292,socks4://60.217.64.237:35292,elite,true,1346,1934.5,68.2,71.6,904,60.217.64.237,1,cn,Shandong,Qingdao,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,13,2025-09-04T23:48:55.004Z,2026-10-10T16:09:58.535Z
+socks4,218.26.101.226,53813,socks4://218.26.101.226:53813,elite,false,9779,3948.5,68.4,68.8,896,171.116.119.101,1,cn,Shanxi,Taiyuan,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,12,2025-09-04T23:49:06.339Z,2026-10-10T16:11:00.682Z
+socks4,183.6.57.161,5678,socks4://183.6.57.161:5678,elite,false,1204,2187,71.2,64.5,853,183.6.57.161,1,cn,Guangdong,Shenzhen,Asia/Shanghai,4134,CHINANET BACKBONE,12,2025-09-04T23:49:05.298Z,2026-10-10T16:15:22.405Z
+socks4,218.91.230.253,1080,socks4://218.91.230.253:1080,elite,false,2062,2077,52,51.9,819,218.91.230.253,1,cn,Shanghai,Shanghai,Asia/Shanghai,131325,CHINATELECOM JIANGSU province NANTONG MAN network,9,2025-09-05T20:06:36.132Z,2026-10-10T16:19:53.781Z
+socks4,221.226.188.218,10800,socks4://221.226.188.218:10800,elite,true,5065,3688.5,37.4,37.9,731,221.226.188.218,1,cn,Jiangsu,Nanjing,Asia/Shanghai,4134,CHINANET BACKBONE,9,2025-09-04T23:49:05.326Z,2026-10-10T16:14:31.242Z

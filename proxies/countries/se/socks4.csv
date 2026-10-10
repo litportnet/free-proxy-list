@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,false,1620,629,62.4,51,437,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-10T16:18:03.751Z

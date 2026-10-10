@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,82.47.161.152,8443,socks5://82.47.161.152:8443,elite,true,1673,1660.5,87.7,87.7,57,82.47.161.152,2,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,10,2026-10-10T06:38:00.990Z,2026-10-10T16:20:28.698Z
+socks5,217.156.65.66,11080,socks5://217.156.65.66:11080,elite,true,2282,2748,75.8,80.9,601,149.102.229.132,1,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,17,2026-10-05T13:38:40.399Z,2026-10-10T16:19:20.098Z
+socks5,155.103.69.127,1314,socks5://155.103.69.127:1314,elite,false,2917,8103,24.7,58.2,294,155.103.69.127,3,tr,Istanbul,Maltepe,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",16,2026-10-07T20:07:22.007Z,2026-10-10T16:10:57.516Z
+socks5,5.75.133.113,10808,socks5://5.75.133.113:10808,elite,true,4033,4377,48.3,43.4,633,92.38.180.28,1,tr,Istanbul,Istanbul,Europe/Istanbul,202422,G-Core Labs S.A.,19,2026-08-23T21:34:26.552Z,2026-10-10T16:18:42.903Z
+socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,false,2149,1769,52.9,40.2,271,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-09-29T01:23:09.783Z,2026-10-10T16:18:17.393Z
+socks5,213.21.229.84,9081,socks5://213.21.229.84:9081,elite,false,2125,2421,18.7,11.8,170,103.83.87.103,1,tr,Istanbul,Maltepe,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",15,2026-09-28T07:13:34.893Z,2026-10-10T16:13:03.550Z

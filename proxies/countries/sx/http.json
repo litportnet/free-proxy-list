@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "190.102.25.29",
+    "port": 1111,
+    "url": "http://190.102.25.29:1111",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2691,
+    "latency_median_ms": 4163.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 4,
+    "exit_ip": "190.102.25.29",
+    "exit_shared": 1,
+    "country": "sx",
+    "region": "Sint Maarten",
+    "city": "Little Bay",
+    "timezone": "America/Lower_Princes",
+    "asn": 27734,
+    "asn_org": "New Technologies Group N.V.",
+    "sources_count": 9,
+    "first_seen": "2026-09-14T20:43:41.466Z",
+    "last_checked": "2026-10-10T16:13:59.092Z"
+  }
+]

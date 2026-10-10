@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "5.45.126.128",
+    "port": 8080,
+    "url": "http://5.45.126.128:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 565,
+    "latency_median_ms": 564,
+    "uptime_24h": 83.9,
+    "uptime_7d": 89.8,
+    "checks_7d": 984,
+    "exit_ip": "5.45.126.128",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Ida-Virumaa",
+    "city": "Jõhvi",
+    "timezone": "Europe/Tallinn",
+    "asn": 198068,
+    "asn_org": "CLOUD.DOG OU",
+    "sources_count": 19,
+    "first_seen": "2025-09-10T19:34:46.751Z",
+    "last_checked": "2026-10-10T16:12:19.106Z"
+  }
+]

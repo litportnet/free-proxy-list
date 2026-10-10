@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,false,1859,1541.5,88.6,96.9,991,185.220.100.244,2,de,Bavaria,Nuremberg,Europe/Berlin,205100,F3 Netze e.V.,13,2026-07-02T02:04:25.728Z,2026-10-10T16:11:01.205Z
+socks4,45.155.71.236,1080,socks4://45.155.71.236:1080,elite,true,599,715,95.8,90.3,466,45.155.71.236,1,de,Hesse,Frankfurt am Main,Europe/Berlin,210644,AEZA GROUP LLC,13,2026-09-27T13:04:00.666Z,2026-10-10T16:10:46.421Z
+socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,1037,914.5,46.3,56.8,747,2.56.244.164,1,de,North Rhine-Westphalia,Aachen,Europe/Berlin,216063,24fire GmbH,19,2026-08-01T19:38:38.199Z,2026-10-10T16:12:15.490Z
+socks4,81.90.25.129,1080,socks4://81.90.25.129:1080,elite,true,2684,837.5,39.5,46,670,81.90.25.129,1,de,Hesse,Frankfurt am Main,Europe/Berlin,198550,NODE HOST LIMITED,15,2026-09-30T18:44:59.671Z,2026-10-10T16:20:49.384Z
+socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,985,1092.5,42.5,42.9,769,102.206.51.163,1,de,Hesse,Frankfurt am Main,Europe/Berlin,211619,MAXKO d.o.o.,21,2026-07-31T20:24:15.555Z,2026-10-10T16:12:12.335Z
+socks4,5.61.30.85,8080,socks4://5.61.30.85:8080,elite,false,1076,1028,38.6,32.2,205,168.119.182.21,1,de,Saxony,Falkenstein,Europe/Berlin,24940,Hetzner Online GmbH,4,2026-08-17T18:59:05.341Z,2026-10-10T16:17:19.095Z
+socks4,157.180.24.140,11114,socks4://157.180.24.140:11114,elite,true,1198,1076.5,22.1,21.3,108,152.233.51.62,1,de,State of Berlin,Berlin,Europe/Berlin,212238,Datacamp Limited,12,2026-10-07T11:02:34.203Z,2026-10-10T16:11:57.606Z
+socks4,95.73.123.25,8888,socks4://95.73.123.25:8888,elite,false,4897,1963,95.5,,22,94.141.160.10,3,de,Hesse,Frankfurt am Main,Europe/Berlin,215590,DpkgSoft International Limited,7,2026-10-10T12:41:16.541Z,2026-10-10T16:13:28.441Z

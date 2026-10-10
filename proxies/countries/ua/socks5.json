@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "212.3.127.242",
+    "port": 10801,
+    "url": "socks5://212.3.127.242:10801",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8148,
+    "latency_median_ms": 1974,
+    "uptime_24h": 35,
+    "uptime_7d": 52.8,
+    "checks_7d": 502,
+    "exit_ip": "212.3.127.242",
+    "exit_shared": 1,
+    "country": "ua",
+    "region": "Dnipropetrovsk",
+    "city": "Dnipro",
+    "timezone": "Europe/Kyiv",
+    "asn": 6702,
+    "asn_org": "Science Production Company Trifle Ltd.",
+    "sources_count": 18,
+    "first_seen": "2026-06-29T21:35:38.005Z",
+    "last_checked": "2026-10-10T16:13:13.379Z"
+  }
+]

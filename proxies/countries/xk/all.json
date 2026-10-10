@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "82.114.86.173",
+    "port": 1090,
+    "url": "socks5://82.114.86.173:1090",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1214,
+    "latency_median_ms": 1809.5,
+    "uptime_24h": 97.9,
+    "uptime_7d": 98.6,
+    "checks_7d": 506,
+    "exit_ip": "82.114.86.173",
+    "exit_shared": 1,
+    "country": "xk",
+    "region": "Pec",
+    "city": "Pejë",
+    "timezone": "Europe/Belgrade",
+    "asn": 29170,
+    "asn_org": "Kujtesa Net Sh.p.k.",
+    "sources_count": 16,
+    "first_seen": "2026-10-07T02:58:20.684Z",
+    "last_checked": "2026-10-10T16:19:16.745Z"
+  }
+]

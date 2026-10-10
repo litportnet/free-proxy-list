@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,901,944,95.8,95.2,987,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-10-10T16:13:50.417Z
+socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,5564,4606,30.5,41,532,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-10T16:18:58.597Z
+socks4,157.180.24.140,11285,socks4://157.180.24.140:11285,elite,false,1550,1239.5,26.4,26.8,97,135.136.55.84,2,jp,Tokyo,Ebara,Asia/Tokyo,9009,M247 Europe SRL,11,2026-10-09T14:29:44.033Z,2026-10-10T16:16:49.348Z
+socks4,157.180.24.140,11307,socks4://157.180.24.140:11307,elite,true,1314,1314,25.7,,37,194.127.166.66,1,jp,Osaka,Osaka,Asia/Tokyo,23959,Owl Limited,9,2026-10-09T07:26:02.069Z,2026-10-10T16:10:32.173Z

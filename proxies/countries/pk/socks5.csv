@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,175.107.30.110,1080,socks5://175.107.30.110:1080,elite,true,1426,2591,45.6,52.4,613,175.107.30.110,2,pk,Punjab,Lahore,Asia/Karachi,23888,"National Telecommunication Corporation HQ,",15,2026-10-04T20:29:42.395Z,2026-10-10T16:18:32.500Z
+socks5,27.54.121.90,1080,socks5://27.54.121.90:1080,elite,true,4929,2992.5,47.2,46.1,681,27.54.121.90,1,pk,Khyber Pakhtunkhwa,Abbottabad,Asia/Karachi,55453,SKYTELECOM,15,2026-09-25T06:35:19.677Z,2026-10-10T16:10:59.645Z
+socks5,110.38.233.122,1080,socks5://110.38.233.122:1080,elite,true,2580,3697.5,26.7,43.8,292,110.38.233.122,1,pk,Khyber Pakhtunkhwa,Peshawar,Asia/Karachi,38264,National WiMAX/IMS environment,15,2026-10-07T23:08:55.787Z,2026-10-10T16:15:28.257Z
+socks5,58.27.213.133,1080,socks5://58.27.213.133:1080,elite,false,9915,5956.5,35,40,220,58.27.213.133,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,15,2026-10-07T05:59:55.579Z,2026-10-10T16:17:45.849Z

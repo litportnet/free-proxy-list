@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,814,3274.5,70.3,76.2,868,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-10T16:15:37.968Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,false,4922,4980.5,42,51.5,761,45.133.176.46,1,tw,Taiwan,Taipei,Asia/Taipei,21859,Zenlayer Inc,18,2026-09-16T03:18:05.440Z,2026-10-10T16:17:38.490Z
+http,210.61.216.63,60808,http://210.61.216.63:60808,elite,true,6449,4302,8.3,13,224,118.160.196.54,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,22,2025-09-05T20:06:26.024Z,2026-10-10T16:15:45.195Z

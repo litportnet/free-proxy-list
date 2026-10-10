@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,175.107.30.110,8080,http://175.107.30.110:8080,elite,false,3775,3595,24.7,27.6,344,175.107.30.110,2,pk,Punjab,Lahore,Asia/Karachi,23888,"National Telecommunication Corporation HQ,",19,2026-10-06T07:48:12.763Z,2026-10-10T16:13:44.000Z
+http,119.73.109.210,8080,http://119.73.109.210:8080,elite,false,7480,3838,26.6,27.2,595,119.73.109.210,1,pk,Sindh,Karachi,Asia/Karachi,135407,Trans World Enterprise Services (Private) Limited,20,2026-10-03T11:12:10.105Z,2026-10-10T16:19:16.800Z
+http,110.39.15.206,8082,http://110.39.15.206:8082,transparent,false,3691,4803.5,15.6,23.5,412,110.39.15.206,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,25,2026-07-28T06:37:31.689Z,2026-10-10T16:19:08.101Z

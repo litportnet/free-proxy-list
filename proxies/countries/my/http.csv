@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,219.93.101.60,80,http://219.93.101.60:80,anonymous,false,1109,1119.5,100,100,1006,60.53.60.240,3,my,Selangor,Shah Alam,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,1,2026-03-17T17:23:33.505Z,2026-10-10T16:15:22.398Z
+http,219.93.101.63,80,http://219.93.101.63:80,anonymous,false,1170,1172.5,100,100,1004,60.53.60.240,3,my,Selangor,Shah Alam,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,19,2025-09-10T21:05:05.517Z,2026-10-10T16:12:53.963Z
+http,219.93.101.62,80,http://219.93.101.62:80,anonymous,false,2146,1231.5,100,100,1007,60.53.60.240,3,my,Selangor,Shah Alam,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,17,2025-09-04T23:49:22.285Z,2026-10-10T16:20:19.680Z

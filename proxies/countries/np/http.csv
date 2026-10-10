@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,202.166.220.40,8080,http://202.166.220.40:8080,transparent,false,9458,6029,16.3,17.8,270,202.166.220.40,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,15,2026-07-05T19:51:49.712Z,2026-10-10T16:17:51.125Z

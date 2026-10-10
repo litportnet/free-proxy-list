@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,false,3793,4225,89.8,71.8,369,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,21,2026-03-12T10:16:41.859Z,2026-10-10T16:18:58.559Z
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,1865,876.5,69.6,60.5,805,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-10T16:14:53.988Z
+socks4,111.119.162.248,10939,socks4://111.119.162.248:10939,elite,true,1561,3221,37.7,29.3,317,8.208.75.96,1,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",14,2026-08-16T15:44:51.272Z,2026-10-10T16:20:29.764Z
+socks5,45.74.31.41,6064,socks5://45.74.31.41:6064,elite,true,2901,7243,26.7,25.9,81,209.42.18.223,2,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,12,2026-10-09T09:26:58.862Z,2026-10-10T16:20:46.747Z
+socks5,45.74.31.40,4576,socks5://45.74.31.40:4576,elite,true,1385,2745,11.5,19.5,200,209.42.18.223,2,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,14,2026-09-28T05:12:30.822Z,2026-10-10T16:20:24.493Z

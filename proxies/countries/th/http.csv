@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,124.120.231.2,8080,http://124.120.231.2:8080,transparent,false,4082,2180,32.5,34,585,182.52.236.119,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,4,2026-09-10T22:54:11.229Z,2026-10-10T16:18:33.563Z
+http,1.20.101.17,80,http://1.20.101.17:80,transparent,true,4892,4160.5,27.8,27.1,266,1.20.101.17,1,th,Sa Kaeo,Wang Nam Yen,Asia/Bangkok,23969,TOT Public Company Limited,19,2026-10-07T09:01:34.582Z,2026-10-10T16:17:35.312Z

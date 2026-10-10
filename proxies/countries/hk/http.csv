@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,47.243.92.199,3128,http://47.243.92.199:3128,transparent,false,903,1309.5,97.9,99.6,1002,47.243.92.199,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T06:34:00.181Z,2026-10-10T16:12:38.325Z
+http,91.103.120.48,80,http://91.103.120.48:80,elite,false,879,791.5,97.2,99.5,1008,143.246.53.27,1,hk,Islands,Tung Chung,Asia/Hong_Kong,215355,Alice Network,10,2026-08-30T23:07:01.812Z,2026-10-10T16:13:10.114Z
+http,203.19.38.114,1080,http://203.19.38.114:1080,elite,false,978,1054.5,99.3,99.4,1004,203.19.38.114,1,hk,Islands,Tung Chung,Asia/Hong_Kong,23764,CTGNet,1,2026-03-17T17:23:32.537Z,2026-10-10T16:20:49.921Z
+http,121.46.226.221,10808,http://121.46.226.221:10808,elite,true,1022,2754,96.3,96.3,82,156.59.17.27,6,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,21859,Zenlayer Inc,13,2026-10-10T02:36:02.072Z,2026-10-10T16:20:29.755Z
+http,39.109.113.97,4090,http://39.109.113.97:4090,elite,false,849,866,94.4,90.9,979,39.109.113.97,1,hk,Islands,Tung Chung,Asia/Hong_Kong,142403,YISU CLOUD LTD,17,2026-01-03T04:27:38.184Z,2026-10-10T16:19:45.224Z
+http,36.155.23.163,10808,http://36.155.23.163:10808,elite,true,2351,2007.5,46.9,71.6,334,156.59.17.27,6,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,21859,Zenlayer Inc,21,2026-09-11T14:03:45.896Z,2026-10-10T16:16:35.277Z
+http,69.165.75.99,8080,http://69.165.75.99:8080,elite,false,7265,7310.5,20,17.7,68,69.165.75.99,1,hk,Kwai Tsing District,Kwai Chung,Asia/Hong_Kong,62468,VpsQuan L.L.C.,8,2026-10-08T13:16:30.239Z,2026-10-10T16:15:45.381Z

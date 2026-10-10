@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1933,2079.5,96.5,97.9,993,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-10T16:15:09.465Z
+socks5,157.180.24.140,11283,socks5://157.180.24.140:11283,elite,true,3640,1561.5,28.9,28.6,154,178.249.211.101,1,it,Lombardy,Milan,Europe/Rome,212238,Datacamp Limited,12,2026-10-08T02:10:28.483Z,2026-10-10T16:14:18.404Z

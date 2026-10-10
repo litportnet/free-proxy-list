@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.13.182.212,8888,socks5://195.13.182.212:8888,elite,true,8855,4736,95.7,86.9,397,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-06T20:55:05.468Z,2026-10-10T16:14:17.646Z
+socks5,195.13.182.212,8080,socks5://195.13.182.212:8080,elite,false,5718,1833,94.3,86.4,316,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-07T11:02:35.041Z,2026-10-10T16:17:42.246Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,false,1092,2068,61.6,65.6,282,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-07T11:02:35.488Z,2026-10-10T16:19:20.629Z
+socks5,195.13.182.211,8888,socks5://195.13.182.211:8888,elite,false,8411,2795.5,43.2,43.9,148,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,10,2026-10-07T15:04:43.844Z,2026-10-10T16:19:33.694Z

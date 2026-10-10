@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,155.103.69.127,1314,socks4://155.103.69.127:1314,elite,false,7218,6287,63,67.1,374,155.103.69.127,3,tr,Istanbul,Maltepe,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",15,2026-10-07T21:07:52.922Z,2026-10-10T16:10:41.169Z
+socks4,88.245.138.87,1080,socks4://88.245.138.87:1080,elite,false,3864,845,61.7,59.2,714,88.245.138.87,1,tr,Uşak,Uşak,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,12,2025-09-04T23:02:52.967Z,2026-10-10T16:18:41.759Z
+socks4,176.235.182.84,1080,socks4://176.235.182.84:1080,elite,false,3861,869.5,60.8,58.1,742,176.235.182.84,1,tr,Sakarya,Adapazarı,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,11,2025-09-05T20:06:35.489Z,2026-10-10T16:20:07.002Z
+socks4,176.236.37.132,1080,socks4://176.236.37.132:1080,elite,true,801,1339,55.4,56.3,672,176.236.37.132,1,tr,Ankara,Ankara,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,21,2025-09-04T23:48:57.989Z,2026-10-10T16:18:13.685Z

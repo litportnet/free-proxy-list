@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,1865,876.5,69.6,60.5,805,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-10T16:14:53.988Z
+socks4,111.119.162.248,10939,socks4://111.119.162.248:10939,elite,true,1561,3221,37.7,29.3,317,8.208.75.96,1,gb,England,London,Europe/London,45102,"Alibaba (US) Technology Co., Ltd.",14,2026-08-16T15:44:51.272Z,2026-10-10T16:20:29.764Z

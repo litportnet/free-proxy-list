@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,828,782,100,99.7,1004,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-10T16:18:40.654Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,1457,812,98.6,99.3,1001,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-10-10T16:19:37.381Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,7942,2827,58.1,82.3,949,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-10-10T16:19:10.681Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,742,2821,56.6,80.6,946,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,19,2025-11-22T16:37:20.344Z,2026-10-10T16:20:13.865Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,804,1286.5,52.4,79.4,932,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-10-10T16:12:38.342Z

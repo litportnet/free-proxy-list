@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "156.38.112.11",
+    "port": 80,
+    "url": "http://156.38.112.11:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2827,
+    "latency_median_ms": 6451.5,
+    "uptime_24h": 78.1,
+    "uptime_7d": 74,
+    "checks_7d": 882,
+    "exit_ip": "156.38.112.11",
+    "exit_shared": 1,
+    "country": "gh",
+    "region": "Central",
+    "city": "Cape Coast",
+    "timezone": "Africa/Accra",
+    "asn": 328212,
+    "asn_org": "THE UNIVERSITY OF CAPE COAST",
+    "sources_count": 19,
+    "first_seen": "2025-09-10T19:34:54.808Z",
+    "last_checked": "2026-10-10T16:12:38.352Z"
+  }
+]

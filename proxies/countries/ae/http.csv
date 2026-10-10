@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,894,908.5,100,99.5,999,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-10-10T16:17:52.158Z

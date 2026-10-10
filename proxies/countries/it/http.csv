@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,553,1283.5,82.1,79.2,849,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-10T16:14:36.976Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,1029,759,67.3,67.3,55,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,9,2025-10-16T01:51:36.355Z,2026-10-10T16:13:48.343Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,1471,2177,30.4,39,688,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-10T16:17:02.057Z

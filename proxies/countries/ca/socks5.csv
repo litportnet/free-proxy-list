@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.47,8890,socks5://45.74.31.47:8890,elite,false,967,1786,70.8,70.8,65,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",2,2026-10-10T04:36:57.105Z,2026-10-10T16:10:46.454Z
+socks5,45.74.31.47,10195,socks5://45.74.31.47:10195,elite,true,2087,1161.5,68.3,68.3,63,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",4,2026-10-10T04:36:57.105Z,2026-10-10T16:11:46.557Z
+socks5,45.74.31.40,4728,socks5://45.74.31.40:4728,elite,true,7822,4294.5,43.9,47.1,85,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",12,2026-10-09T04:24:14.103Z,2026-10-10T16:18:44.508Z
+socks5,45.74.31.40,4573,socks5://45.74.31.40:4573,elite,true,2664,5141,11.8,36.6,153,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",14,2026-10-07T01:57:48.528Z,2026-10-10T16:20:40.923Z
+socks5,45.74.31.40,4826,socks5://45.74.31.40:4826,elite,true,1116,1335,41.7,,12,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",1,2026-10-10T13:41:43.308Z,2026-10-10T16:20:03.268Z
+socks5,35.203.6.96,1080,socks5://35.203.6.96:1080,elite,true,1548,1330,80,,10,35.203.6.96,1,ca,Quebec,Montréal,America/Toronto,396982,Google LLC,6,2026-10-10T14:42:18.733Z,2026-10-10T16:16:42.239Z
+socks5,45.74.31.41,10230,socks5://45.74.31.41:10230,elite,true,2658,2732,84.6,,39,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",2,2026-10-10T09:39:41.944Z,2026-10-10T16:11:49.212Z
+socks5,45.74.31.42,12319,socks5://45.74.31.42:12319,elite,true,3165,3010,40.5,,42,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",4,2026-09-28T14:17:11.738Z,2026-10-10T16:11:34.409Z
+socks5,45.74.31.42,7887,socks5://45.74.31.42:7887,elite,true,3174,2512,50,,14,178.128.236.171,8,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",3,2026-10-10T13:41:43.308Z,2026-10-10T16:20:04.330Z

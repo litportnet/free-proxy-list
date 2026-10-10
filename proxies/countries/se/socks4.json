@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "85.228.42.180",
+    "port": 4153,
+    "url": "socks4://85.228.42.180:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1620,
+    "latency_median_ms": 629,
+    "uptime_24h": 62.4,
+    "uptime_7d": 51,
+    "checks_7d": 437,
+    "exit_ip": "85.228.42.180",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Stockholm",
+    "city": "Upplands Väsby",
+    "timezone": "Europe/Stockholm",
+    "asn": 8434,
+    "asn_org": "Telenor Sverige AB",
+    "sources_count": 21,
+    "first_seen": "2026-08-14T19:21:43.347Z",
+    "last_checked": "2026-10-10T16:18:03.751Z"
+  }
+]

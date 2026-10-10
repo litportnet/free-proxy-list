@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,196.223.129.21,80,http://196.223.129.21:80,elite,false,1067,2484,71.1,73.1,871,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-10-10T16:11:04.905Z

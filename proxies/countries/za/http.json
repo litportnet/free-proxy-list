@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "196.223.129.21",
+    "port": 80,
+    "url": "http://196.223.129.21:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1067,
+    "latency_median_ms": 2484,
+    "uptime_24h": 71.1,
+    "uptime_7d": 73.1,
+    "checks_7d": 871,
+    "exit_ip": "196.223.129.21",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Western Cape",
+    "city": "Cape Town",
+    "timezone": "Africa/Johannesburg",
+    "asn": 328471,
+    "asn_org": "HERO TELECOMS (PTY) LTD",
+    "sources_count": 18,
+    "first_seen": "2025-09-10T19:34:27.161Z",
+    "last_checked": "2026-10-10T16:11:04.905Z"
+  }
+]

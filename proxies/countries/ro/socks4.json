@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "46.214.153.223",
+    "port": 5678,
+    "url": "socks4://46.214.153.223:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 763,
+    "latency_median_ms": 1806.5,
+    "uptime_24h": 82.2,
+    "uptime_7d": 69.7,
+    "checks_7d": 788,
+    "exit_ip": "46.214.153.223",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Suceava",
+    "city": "Suceava",
+    "timezone": "Europe/Bucharest",
+    "asn": 48161,
+    "asn_org": "NEXTGEN COMMUNICATIONS SRL",
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:30.908Z",
+    "last_checked": "2026-10-10T16:12:24.894Z"
+  }
+]

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,1941,765,99.3,94.1,895,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-10T16:16:00.690Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,2592,3330,64.8,76.8,815,103.216.220.69,1,au,Queensland,Brisbane,Australia/Brisbane,136557,Host Universal Pty Ltd,17,2026-09-21T21:11:29.587Z,2026-10-10T16:11:25.451Z
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,3281,1950,76.7,72.6,780,103.136.147.22,1,au,New South Wales,Sydney,Australia/Sydney,43357,Owl Limited,19,2026-09-20T17:57:13.183Z,2026-10-10T16:19:38.979Z

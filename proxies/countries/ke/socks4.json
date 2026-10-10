@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "41.139.147.86",
+    "port": 5678,
+    "url": "socks4://41.139.147.86:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3100,
+    "latency_median_ms": 2368.5,
+    "uptime_24h": 59.2,
+    "uptime_7d": 49.9,
+    "checks_7d": 597,
+    "exit_ip": "41.139.147.86",
+    "exit_shared": 1,
+    "country": "ke",
+    "region": "Nairobi County",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "asn": 37061,
+    "asn_org": "Safaricom Limited",
+    "sources_count": 9,
+    "first_seen": "2025-09-04T23:49:01.367Z",
+    "last_checked": "2026-10-10T16:11:21.253Z"
+  }
+]

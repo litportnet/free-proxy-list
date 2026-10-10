@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,90.156.160.234,3128,http://90.156.160.234:3128,elite,true,2929,2335,79.5,94,599,90.156.160.234,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,12,2026-10-06T03:46:09.506Z,2026-10-10T16:13:47.286Z
+http,90.156.196.230,3128,http://90.156.196.230:3128,transparent,false,1776,2664,77,85,889,193.104.179.115,1,uz,Tashkent,Tashkent,Asia/Tashkent,212444,Bross Telecom,19,2026-09-27T03:59:10.981Z,2026-10-10T16:18:12.054Z
+socks5,193.149.18.217,1080,socks5://193.149.18.217:1080,elite,true,1872,1287.5,100,,10,193.149.18.217,1,uz,Tashkent,Tashkent,Asia/Tashkent,43647,SERVERCORE CIS FE LLC,9,2026-10-10T14:42:18.733Z,2026-10-10T16:10:56.971Z

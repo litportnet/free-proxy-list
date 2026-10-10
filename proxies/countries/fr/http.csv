@@ -1,0 +1,15 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.199.119.160,80,http://109.199.119.160:80,elite,false,300,230.5,100,100,1002,109.199.119.160,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-07-29T19:59:31.982Z,2026-10-10T16:18:23.467Z
+http,206.245.131.160,80,http://206.245.131.160:80,elite,false,432,455.5,100,99.8,1005,206.245.131.160,1,fr,Île-de-France,Paris,Europe/Paris,26383,Baxet Group Inc.,11,2026-07-09T13:39:53.205Z,2026-10-10T16:18:04.780Z
+http,202.133.88.173,80,http://202.133.88.173:80,elite,false,1642,1918,97.2,95.7,993,202.133.88.173,1,fr,Île-de-France,Paris,Europe/Paris,212552,BitCommand LLC,19,2025-12-07T12:12:09.766Z,2026-10-10T16:19:31.937Z
+http,78.153.225.20,80,http://78.153.225.20:80,elite,false,5933,5955.5,94.3,90,929,78.153.225.20,1,fr,Île-de-France,Paris,Europe/Paris,30781,Free Pro SAS,3,2025-09-10T19:35:00.449Z,2026-10-10T16:20:47.272Z
+http,62.210.215.36,80,http://62.210.215.36:80,anonymous,false,426,432,87.1,86.7,879,62.210.215.36,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,11,2025-09-10T20:05:18.991Z,2026-10-10T16:13:35.248Z
+http,51.75.206.209,80,http://51.75.206.209:80,elite,false,2951,1563.5,79.4,80.8,927,51.75.206.209,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,19,2025-09-10T19:35:12.669Z,2026-10-10T16:15:45.178Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,655,986.5,75.6,79.9,943,37.187.74.125,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,11,2025-09-05T00:24:28.901Z,2026-10-10T16:15:09.478Z
+http,163.172.53.142,80,http://163.172.53.142:80,elite,false,5163,5105.5,73.1,79.6,915,163.172.53.142,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,18,2025-09-06T06:34:26.456Z,2026-10-10T16:18:58.435Z
+http,207.180.254.198,8080,http://207.180.254.198:8080,elite,false,3580,3501.5,67.2,73.7,881,207.180.254.198,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-11-06T15:39:17.050Z,2026-10-10T16:19:54.821Z
+http,51.159.28.39,80,http://51.159.28.39:80,elite,false,440,4581,71.4,72.5,843,51.159.28.39,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,10,2025-09-10T19:34:30.596Z,2026-10-10T16:19:42.608Z
+http,188.165.199.207,80,http://188.165.199.207:80,elite,false,9257,3365,76.6,70.3,872,188.165.199.207,1,fr,Hauts-de-France,Roubaix,Europe/Paris,16276,OVH SAS,18,2025-12-06T18:37:17.689Z,2026-10-10T16:20:05.423Z
+http,163.172.167.48,80,http://163.172.167.48:80,elite,false,757,800,68.8,67.8,852,163.172.167.48,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,19,2025-09-05T23:19:59.164Z,2026-10-10T16:12:12.327Z
+http,31.220.78.244,80,http://31.220.78.244:80,elite,false,1917,4383.5,59.2,66.6,845,31.220.78.244,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-09-10T21:05:05.683Z,2026-10-10T16:12:16.515Z
+http,51.254.132.238,90,http://51.254.132.238:90,elite,false,4085,4616,35.1,38.9,699,51.254.132.238,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,20,2025-09-10T21:05:10.078Z,2026-10-10T16:17:11.453Z

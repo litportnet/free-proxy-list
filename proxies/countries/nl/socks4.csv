@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,37.18.73.60,5566,socks4://37.18.73.60:5566,elite,false,4380,1076,44.2,69.2,883,192.42.116.103,1,nl,Flevoland,Lelystad,Europe/Amsterdam,215125,Church of Cyberology,11,2025-09-10T19:33:55.836Z,2026-10-10T16:12:54.007Z
+socks4,158.101.8.92,1080,socks4://158.101.8.92:1080,elite,false,7839,2343,50.9,47.6,702,192.42.116.47,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,12,2026-03-20T06:56:22.155Z,2026-10-10T16:18:17.918Z
+socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,false,491,3596,44.9,40.6,721,128.199.37.92,1,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",1,2026-03-17T17:23:30.289Z,2026-10-10T16:18:51.357Z

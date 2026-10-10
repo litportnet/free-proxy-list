@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.135.69.34",
+    "port": 80,
+    "url": "http://185.135.69.34:80",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 346,
+    "latency_median_ms": 353.5,
+    "uptime_24h": 95.8,
+    "uptime_7d": 98.3,
+    "checks_7d": 997,
+    "exit_ip": "185.135.69.34",
+    "exit_shared": 1,
+    "country": "iq",
+    "region": "Baghdad",
+    "city": "Baghdad",
+    "timezone": "Asia/Baghdad",
+    "asn": 205889,
+    "asn_org": "Giga Nineveh for internet services Ltd",
+    "sources_count": 17,
+    "first_seen": "2025-12-06T17:01:45.042Z",
+    "last_checked": "2026-10-10T16:20:09.104Z"
+  }
+]

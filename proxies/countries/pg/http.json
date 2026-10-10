@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "103.43.145.42",
+    "port": 8080,
+    "url": "http://103.43.145.42:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 7889,
+    "latency_median_ms": 5838,
+    "uptime_24h": 22.6,
+    "uptime_7d": 21.9,
+    "checks_7d": 366,
+    "exit_ip": "103.43.145.42",
+    "exit_shared": 1,
+    "country": "pg",
+    "region": "National Capital",
+    "city": "Port Moresby",
+    "timezone": "Pacific/Port_Moresby",
+    "asn": 63945,
+    "asn_org": "Digitec PNG Limited",
+    "sources_count": 19,
+    "first_seen": "2026-10-01T03:49:32.835Z",
+    "last_checked": "2026-10-10T16:14:27.650Z"
+  }
+]

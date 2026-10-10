@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.43.145.42,8080,http://103.43.145.42:8080,transparent,false,7889,5838,22.6,21.9,366,103.43.145.42,1,pg,National Capital,Port Moresby,Pacific/Port_Moresby,63945,Digitec PNG Limited,19,2026-10-01T03:49:32.835Z,2026-10-10T16:14:27.650Z
