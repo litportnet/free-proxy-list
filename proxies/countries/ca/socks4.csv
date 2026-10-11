@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,3394,928,53.9,52.2,743,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-10T04:22:09.136Z
+socks4,144.217.107.25,1080,socks4://144.217.107.25:1080,elite,true,1096,2843,56.9,61.4,841,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-09-24T03:21:01.709Z,2026-10-11T04:24:29.861Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,3378,2374.5,62.9,52.6,743,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-11T04:25:42.500Z

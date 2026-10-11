@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.217.116.39",
+    "port": 999,
+    "url": "http://102.217.116.39:999",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 8107,
+    "latency_median_ms": 3082.5,
+    "uptime_24h": 23.2,
+    "uptime_7d": 16.7,
+    "checks_7d": 317,
+    "exit_ip": "102.217.116.39",
+    "exit_shared": 1,
+    "country": "ao",
+    "region": "Luanda",
+    "city": "Luanda",
+    "timezone": "Africa/Luanda",
+    "asn": 328979,
+    "asn_org": "NEONET PRESTAÇÃO DE SERVIÇOS E TELECOMUNICAÇÕES, LDA",
+    "sources_count": 19,
+    "first_seen": "2026-10-02T08:58:28.830Z",
+    "last_checked": "2026-10-11T04:23:25.732Z"
+  }
+]

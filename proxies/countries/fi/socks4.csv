@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,4847,3168,98.6,94.1,946,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-10T04:21:43.112Z
-socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,4575,816.5,66.7,43.5,131,89.22.229.195,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-08-02T11:44:29.944Z,2026-10-10T04:24:50.699Z
-socks4,103.85.112.65,8080,socks4://103.85.112.65:8080,elite,true,1731,4742.5,66.7,,6,103.85.112.65,1,fi,Uusimaa,Helsinki,Europe/Helsinki,200740,FIRST SERVER LIMITED,5,2026-10-10T03:36:28.858Z,2026-10-10T04:27:27.237Z
+socks4,85.209.156.148,1080,socks4://85.209.156.148:1080,elite,true,4800,1625,91.4,93.2,943,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,20,2026-08-25T00:50:18.372Z,2026-10-11T04:29:02.939Z
+socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,979,1181.5,35.3,41.8,165,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-08-02T11:44:29.944Z,2026-10-11T04:24:54.904Z
+socks4,185.17.1.218,1080,socks4://185.17.1.218:1080,elite,true,4687,2912,15.4,22.2,126,185.17.1.218,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,13,2026-10-05T20:42:34.271Z,2026-10-11T04:27:16.240Z

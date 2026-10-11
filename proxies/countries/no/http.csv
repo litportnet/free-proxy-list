@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,212.147.232.251,80,http://212.147.232.251:80,transparent,false,2515,3340.5,23.8,45.9,270,212.147.232.251,1,no,Rogaland,Stavanger,Europe/Oslo,202053,UpCloud Ltd,18,2026-10-07T08:00:56.884Z,2026-10-10T04:26:07.039Z
-http,178.156.206.253,8118,http://178.156.206.253:8118,elite,false,4799,3199,36.6,36.5,737,185.243.218.231,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,16,2026-06-14T10:19:35.782Z,2026-10-10T04:27:58.755Z
+http,212.147.232.251,80,http://212.147.232.251:80,transparent,false,5400,4988.5,24.2,40.1,364,212.147.232.251,1,no,Rogaland,Stavanger,Europe/Oslo,202053,UpCloud Ltd,18,2026-10-07T08:00:56.884Z,2026-10-11T04:23:12.924Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,148.230.17.248,999,http://148.230.17.248:999,transparent,false,7510,4433.5,20,5.3,95,148.230.17.250,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,18,2026-04-10T05:23:42.768Z,2026-10-10T04:22:43.300Z
+http,24.152.53.68,999,http://24.152.53.68:999,transparent,false,1122,3873.5,18.8,20,391,24.152.53.68,1,gt,Jalapa,Jalapa,America/Guatemala,269964,TV CABLE UNIVERSAL S.A,17,2026-04-02T19:50:00.786Z,2026-10-11T04:29:52.840Z

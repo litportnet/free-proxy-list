@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "86.110.236.27",
+    "port": 8080,
+    "url": "http://86.110.236.27:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4491,
+    "latency_median_ms": 4050.5,
+    "uptime_24h": 17.7,
+    "uptime_7d": 21.6,
+    "checks_7d": 393,
+    "exit_ip": "86.110.236.27",
+    "exit_shared": 1,
+    "country": "sk",
+    "region": "Bratislava Region",
+    "city": "Bratislava",
+    "timezone": "Europe/Bratislava",
+    "asn": 29405,
+    "asn_org": "VNET a.s.",
+    "sources_count": 20,
+    "first_seen": "2026-10-04T19:29:13.261Z",
+    "last_checked": "2026-10-11T04:31:07.788Z"
+  }
+]

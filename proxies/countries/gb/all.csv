@@ -1,9 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,705,678.5,98.6,99,1002,172.69.224.208,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-10T04:27:25.698Z
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,3244,2709.5,92.1,69.1,304,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,21,2026-03-12T10:16:41.859Z,2026-10-10T04:22:43.221Z
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,false,1010,3637.5,69.6,58.4,795,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-10T04:24:28.488Z
-socks5,45.74.31.46,4116,socks5://45.74.31.46:4116,elite,false,1683,4825.5,28.8,33.9,227,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,13,2026-10-06T20:55:05.468Z,2026-10-10T04:22:08.088Z
-socks5,45.74.31.42,14433,socks5://45.74.31.42:14433,elite,true,3511,5320.5,32.4,13.2,91,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,15,2026-09-14T01:33:25.430Z,2026-10-10T04:27:37.498Z
-socks4,52.56.231.224,443,socks4://52.56.231.224:443,elite,true,473,481,100,,11,52.56.231.224,1,gb,England,London,Europe/London,16509,"Amazon.com, Inc.",7,2026-10-10T02:35:56.595Z,2026-10-10T04:19:11.004Z
-socks5,45.74.31.42,17347,socks5://45.74.31.42:17347,elite,true,3969,2509,44.8,,30,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,12,2026-09-30T05:37:53.478Z,2026-10-10T04:29:41.834Z
-socks5,45.74.31.42,8872,socks5://45.74.31.42:8872,elite,false,7811,3010,83.3,,38,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,3,2026-10-03T00:06:20.212Z,2026-10-10T04:27:45.419Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,9761,2597,81.6,73.4,439,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,21,2026-03-12T10:16:41.859Z,2026-10-11T04:31:56.570Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,414,402.5,49.1,54.3,173,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-10-11T04:26:07.050Z
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,2460,2362.5,59.2,49.6,619,82.21.123.81,1,gb,England,London,Europe/London,24851,Netcetera Ltd.,19,2026-08-24T12:42:33.832Z,2026-10-11T04:27:45.561Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1034,1378,40.5,43,742,31.58.214.214,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-10-11T04:24:57.590Z
+http,186.190.211.67,80,http://186.190.211.67:80,elite,false,9851,5169.5,39.3,39.3,112,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,16,2026-10-10T04:37:02.560Z,2026-10-11T04:31:23.306Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,586,604.5,61.3,45.7,619,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-10T04:23:49.271Z
-socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,false,8163,5780.5,61.4,34.6,260,91.192.25.37,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-10-10T04:26:37.512Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,629,622,53.2,47.8,636,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-11T04:29:47.975Z
+socks4,171.22.182.164,1080,socks4://171.22.182.164:1080,elite,true,3773,1262.5,45,38.3,248,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,13,2026-08-21T13:04:25.074Z,2026-10-11T04:31:37.882Z
+socks4,109.70.206.178,5678,socks4://109.70.206.178:5678,elite,false,3650,1623.5,38.4,35.4,576,109.70.206.178,1,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,21,2026-09-19T19:45:27.912Z,2026-10-11T04:27:58.349Z

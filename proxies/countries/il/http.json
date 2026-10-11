@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "45.93.94.227",
+    "port": 3128,
+    "url": "http://45.93.94.227:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1686,
+    "latency_median_ms": 736,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 5,
+    "exit_ip": "45.93.94.227",
+    "exit_shared": 1,
+    "country": "il",
+    "region": "Tel Aviv",
+    "city": "Tel Aviv",
+    "timezone": "Asia/Jerusalem",
+    "asn": 44709,
+    "asn_org": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "sources_count": 2,
+    "first_seen": "2026-10-11T03:49:10.016Z",
+    "last_checked": "2026-10-11T04:28:41.046Z"
+  }
+]

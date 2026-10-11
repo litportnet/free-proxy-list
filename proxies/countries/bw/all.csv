@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.143.24.66,1080,socks4://83.143.24.66:1080,elite,false,1307,2324,33,30,610,83.143.24.66,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,13,2025-09-05T20:06:32.554Z,2026-10-10T04:22:10.183Z
+http,154.73.87.241,8080,http://154.73.87.241:8080,transparent,false,6164,5242.5,14.3,7,115,102.134.172.163,1,bw,Gaborone,Gaborone,Africa/Gaborone,327776,STATURE (PTY) LTD,16,2025-09-05T20:06:36.033Z,2026-10-11T04:29:04.039Z

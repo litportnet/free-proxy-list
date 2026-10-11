@@ -6,8 +6,8 @@
     "url": "http://94.78.67.171:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 330,
-    "latency_median_ms": 337,
+    "latency_ms": 313,
+    "latency_median_ms": 350.5,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1007,
@@ -21,7 +21,7 @@
     "asn_org": "Netonline Bilisim Sirketi LTD",
     "sources_count": 17,
     "first_seen": "2026-07-26T20:20:40.472Z",
-    "last_checked": "2026-10-10T04:20:36.927Z"
+    "last_checked": "2026-10-11T04:22:00.474Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://212.31.100.138:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 760,
-    "latency_median_ms": 759.5,
-    "uptime_24h": 75,
-    "uptime_7d": 54,
-    "checks_7d": 682,
+    "latency_ms": 755,
+    "latency_median_ms": 766.5,
+    "uptime_24h": 66.7,
+    "uptime_7d": 57,
+    "checks_7d": 689,
     "exit_ip": "212.31.100.138",
     "exit_shared": 1,
     "country": "cy",
@@ -43,9 +43,9 @@
     "timezone": "Asia/Famagusta",
     "asn": 6866,
     "asn_org": "Cyprus Telecommunications Authority",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:30.574Z",
-    "last_checked": "2026-10-10T04:28:31.505Z"
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:59.836Z",
+    "last_checked": "2026-10-11T04:28:35.720Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://87.228.228.101:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3798,
-    "latency_median_ms": 2890.5,
-    "uptime_24h": 50.8,
-    "uptime_7d": 48.9,
-    "checks_7d": 783,
+    "latency_ms": 8082,
+    "latency_median_ms": 1792.5,
+    "uptime_24h": 54.1,
+    "uptime_7d": 48.1,
+    "checks_7d": 769,
     "exit_ip": "87.228.228.101",
     "exit_shared": 1,
     "country": "cy",
@@ -69,7 +69,7 @@
     "asn_org": "Cyprus Telecommunications Authority",
     "sources_count": 21,
     "first_seen": "2026-07-06T01:00:13.598Z",
-    "last_checked": "2026-10-10T04:28:34.160Z"
+    "last_checked": "2026-10-11T04:28:53.890Z"
   },
   {
     "protocol": "socks4",
@@ -78,11 +78,11 @@
     "url": "socks4://213.7.196.26:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1772,
-    "latency_median_ms": 1781,
-    "uptime_24h": 37.3,
-    "uptime_7d": 44.7,
-    "checks_7d": 588,
+    "latency_ms": 3805,
+    "latency_median_ms": 1777.5,
+    "uptime_24h": 48,
+    "uptime_7d": 46.9,
+    "checks_7d": 619,
     "exit_ip": "213.7.196.26",
     "exit_shared": 1,
     "country": "cy",
@@ -93,6 +93,6 @@
     "asn_org": "Cyprus Telecommunications Authority",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:03.510Z",
-    "last_checked": "2026-10-10T04:28:47.040Z"
+    "last_checked": "2026-10-11T04:21:41.878Z"
   }
 ]

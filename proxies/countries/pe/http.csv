@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.210.106.24,999,http://38.210.106.24:999,transparent,true,9503,5902,23.3,29,535,177.53.155.122,1,pe,Lima region,Villa Poeta José Gálvez Barrenechea,America/Lima,270007,MORENO YANOC NEMIAS BERNARDO,18,2026-10-03T09:11:10.974Z,2026-10-10T04:25:24.893Z
-http,190.43.92.94,999,http://190.43.92.94:999,transparent,false,5245,5112,24.1,24,104,190.43.92.94,1,pe,Tacna,Tacna,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,16,2026-10-08T22:21:04.278Z,2026-10-10T04:25:25.440Z
-http,45.171.166.34,999,http://45.171.166.34:999,transparent,false,6255,3512,9.5,11.4,246,179.49.158.94,1,pe,Lima Province,Lima,America/Lima,270081,VEMAX S.A.C,15,2026-08-27T00:16:40.626Z,2026-10-10T04:26:30.029Z
+http,38.10.107.117,999,http://38.10.107.117:999,transparent,true,2979,4473,14.3,19.4,319,38.10.107.117,1,pe,Arequipa,Arequipa,America/Lima,272894,MISTICOM FIBRA OPTICA S.A.C.,18,2026-09-29T02:23:35.590Z,2026-10-11T04:23:26.796Z
+http,181.176.68.118,8443,http://181.176.68.118:8443,transparent,false,4476,4000.5,14.7,11.1,199,181.176.68.118,1,pe,Ayacucho,Huahuapuquio,America/Lima,262210,VIETTEL PERÚ S.A.C.,22,2026-09-22T03:14:33.738Z,2026-10-11T04:30:47.487Z

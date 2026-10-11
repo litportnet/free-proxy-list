@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.203.101.155,8080,http://102.203.101.155:8080,transparent,false,8188,3043,24.2,24,471,102.203.101.155,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329497,Avitech Solutions LTD,21,2026-08-26T22:15:04.517Z,2026-10-11T04:23:22.515Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.203.101.155",
+    "port": 8080,
+    "url": "http://102.203.101.155:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8188,
+    "latency_median_ms": 3043,
+    "uptime_24h": 24.2,
+    "uptime_7d": 24,
+    "checks_7d": 471,
+    "exit_ip": "102.203.101.155",
+    "exit_shared": 1,
+    "country": "ke",
+    "region": "Nairobi County",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "asn": 329497,
+    "asn_org": "Avitech Solutions LTD",
+    "sources_count": 21,
+    "first_seen": "2026-08-26T22:15:04.517Z",
+    "last_checked": "2026-10-11T04:23:22.515Z"
+  }
+]
