@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1206,1313.5,97.2,98,993,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-11T04:29:47.430Z
-socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,false,7980,1476,59.9,56.6,827,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-11T04:27:08.801Z
-socks5,171.22.182.164,1080,socks5://171.22.182.164:1080,elite,true,5018,1990,57.1,29.2,202,171.22.182.164,2,it,Sicily,Palermo,Europe/Rome,62005,BlueVPS OU,18,2026-08-21T11:03:27.042Z,2026-10-11T04:21:54.634Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1206,1887,95,97.3,990,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-12T04:33:40.527Z
+socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,true,1893,1514,51.3,55.1,817,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-12T04:25:51.404Z

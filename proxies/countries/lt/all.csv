@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,786,1928.5,50.4,49.7,711,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-10-11T04:31:14.229Z
-socks5,45.74.31.47,4326,socks5://45.74.31.47:4326,elite,true,2621,3469,52.3,23.5,98,72.62.119.104,2,lt,Vilnius,Vilnius,Europe/Vilnius,47583,Hostinger International Limited,15,2026-09-28T05:12:30.822Z,2026-10-11T04:24:57.064Z
-socks5,45.74.31.41,4553,socks5://45.74.31.41:4553,elite,true,5546,4582,51.7,17.9,84,72.62.119.104,2,lt,Vilnius,Vilnius,Europe/Vilnius,47583,Hostinger International Limited,13,2026-09-27T04:59:52.205Z,2026-10-11T04:30:34.662Z

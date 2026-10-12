@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,197.157.192.168,1080,socks4://197.157.192.168:1080,elite,false,2691,2691,76.1,73.6,872,197.157.192.168,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37429,SPIDERNET SPRL BURUNDI,13,2026-08-15T04:28:13.653Z,2026-10-11T04:31:34.683Z
+socks5,45.74.31.41,16163,socks5://45.74.31.41:16163,elite,true,9956,3741,68.2,30.9,55,102.134.101.35,4,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,1,2026-10-02T02:55:12.989Z,2026-10-12T04:32:19.137Z
+socks5,45.74.31.41,15842,socks5://45.74.31.41:15842,elite,true,1637,2471.5,92.9,,14,102.134.101.35,4,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,1,2026-10-02T00:54:09.367Z,2026-10-12T04:26:27.751Z
+socks5,45.74.31.41,16370,socks5://45.74.31.41:16370,elite,false,3064,2308,92.9,,29,102.134.101.35,4,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,1,2026-09-29T18:32:08.948Z,2026-10-12T04:26:44.757Z
+socks5,45.74.31.42,25170,socks5://45.74.31.42:25170,elite,true,6154,2928.5,76.9,,13,102.134.101.35,4,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,1,2026-10-12T02:00:50.146Z,2026-10-12T04:30:24.637Z

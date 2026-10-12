@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,940,928,97.2,98.4,871,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-10-11T04:30:33.003Z
-socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,true,3936,3938.5,75.8,62.6,845,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,20,2025-09-04T23:48:54.923Z,2026-10-11T04:21:32.818Z
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,893,1444,55.2,59.1,828,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:49:05.991Z,2026-10-11T04:23:50.310Z
-socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,false,1933,1689,49.6,40.8,535,104.28.211.32,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-10-11T04:26:34.737Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,1955,1035.5,99.3,98.5,1001,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-10-12T04:30:42.254Z
+socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,true,940,942.5,79.7,65.5,847,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,20,2025-09-04T23:48:54.923Z,2026-10-12T04:34:56.214Z
+socks4,43.155.215.149,20000,socks4://43.155.215.149:20000,elite,true,990,948,62.2,62.2,98,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",12,2026-07-17T05:21:19.618Z,2026-10-12T04:31:18.137Z
+socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,true,3994,3027,55.8,44.9,624,104.28.243.27,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-10-12T04:27:25.384Z
+socks4,146.56.191.98,14785,socks4://146.56.191.98:14785,elite,false,1779,2875,27.1,22.2,158,146.56.191.98,2,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,18,2025-09-11T18:49:55.744Z,2026-10-12T04:29:43.522Z

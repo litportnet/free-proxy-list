@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,79.76.59.115,1080,socks4://79.76.59.115:1080,elite,true,1083,2058.5,53.7,49.6,819,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:56:51.407Z,2026-10-11T04:30:04.055Z
+socks4,147.45.72.31,45700,socks4://147.45.72.31:45700,elite,false,2787,6233.5,19.1,10.8,158,147.45.72.31,1,se,Stockholm,Stockholm,Europe/Stockholm,210644,AEZA GROUP LLC,20,2026-04-18T22:14:55.919Z,2026-10-12T04:31:03.102Z

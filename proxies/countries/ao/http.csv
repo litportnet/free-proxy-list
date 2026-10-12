@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.217.116.39,999,http://102.217.116.39:999,transparent,true,8107,3082.5,23.2,16.7,317,102.217.116.39,1,ao,Luanda,Luanda,Africa/Luanda,328979,"NEONET PRESTAÇÃO DE SERVIÇOS E TELECOMUNICAÇÕES, LDA",19,2026-10-02T08:58:28.830Z,2026-10-11T04:23:25.732Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,67.206.213.202,3120,http://67.206.213.202:3120,transparent,false,3400,4473,19.7,19.3,452,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,22,2025-09-05T00:23:48.169Z,2026-10-11T04:25:13.014Z
-http,192.203.0.250,999,http://192.203.0.250:999,transparent,false,4317,3896.5,12.2,14,221,192.203.0.250,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,20,2025-09-05T20:06:32.624Z,2026-10-11T04:26:23.501Z

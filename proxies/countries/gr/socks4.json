@@ -6,11 +6,11 @@
     "url": "socks4://62.103.186.66:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1759,
-    "latency_median_ms": 774.5,
+    "latency_ms": 3776,
+    "latency_median_ms": 1267,
     "uptime_24h": 75,
-    "uptime_7d": 57.9,
-    "checks_7d": 817,
+    "uptime_7d": 61.3,
+    "checks_7d": 827,
     "exit_ip": "62.103.186.66",
     "exit_shared": 1,
     "country": "gr",
@@ -21,6 +21,6 @@
     "asn_org": "Ote SA (Hellenic Telecommunications Organisation)",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:04.664Z",
-    "last_checked": "2026-10-11T04:22:43.602Z"
+    "last_checked": "2026-10-12T04:32:27.718Z"
   }
 ]

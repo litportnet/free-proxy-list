@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "95.140.113.74",
+    "port": 6666,
+    "url": "http://95.140.113.74:6666",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 7770,
+    "latency_median_ms": 2718,
+    "uptime_24h": 14.3,
+    "uptime_7d": 17.8,
+    "checks_7d": 214,
+    "exit_ip": "95.140.113.74",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Central Serbia",
+    "city": "Čukarica",
+    "timezone": "Europe/Belgrade",
+    "asn": 9125,
+    "asn_org": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "sources_count": 24,
+    "first_seen": "2026-07-09T04:35:22.415Z",
+    "last_checked": "2026-10-12T04:33:32.031Z"
+  }
+]

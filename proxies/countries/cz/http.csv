@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.4.201.49,55443,http://185.4.201.49:55443,elite,false,9139,4211,23.1,24.1,166,79.98.72.136,1,cz,Prague,Prague,Europe/Prague,44002,Sys-DataCom s.r.o.,7,2026-09-28T12:16:11.253Z,2026-10-11T04:25:55.273Z
-http,185.73.103.23,3128,http://185.73.103.23:3128,transparent,false,9444,4999,50,9.3,129,185.73.103.23,1,cz,Carlsbad Region,Karlovy Vary,Europe/Prague,201476,ISP Alliance a.s.,15,2025-09-05T20:06:29.948Z,2026-10-11T04:31:20.653Z
-http,45.84.164.144,8080,http://45.84.164.144:8080,transparent,true,1693,2563.5,42.9,,14,45.84.164.144,1,cz,Prague,Prague,Europe/Prague,208805,INTERCONNECT s.r.o.,5,2026-10-11T01:48:11.071Z,2026-10-11T04:28:31.439Z
+http,185.4.201.49,55443,http://185.4.201.49:55443,elite,false,3855,2185.5,37.8,29.2,264,79.98.72.136,1,cz,Prague,Prague,Europe/Prague,44002,Sys-DataCom s.r.o.,8,2026-09-28T12:16:11.253Z,2026-10-12T04:26:30.931Z

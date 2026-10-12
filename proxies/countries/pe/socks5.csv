@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,8662,socks5://45.74.31.41:8662,elite,false,4200,5093,68.2,68.2,110,38.250.153.21,2,pe,Junin,Huancayo,America/Lima,270068,DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL),2,2026-10-10T04:36:57.105Z,2026-10-11T04:27:56.215Z
-socks5,45.74.31.41,5479,socks5://45.74.31.41:5479,elite,false,1155,3917.5,32.8,22.7,132,38.250.153.21,2,pe,Junin,Huancayo,America/Lima,270068,DESARROLLO DE INFRAESTRUCTURA DE TELECOMUNICACIONES PERU S.A.C. (INFRATEL),13,2026-09-30T20:45:48.554Z,2026-10-11T04:27:26.872Z

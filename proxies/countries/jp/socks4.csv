@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,820,819,96.5,94.4,988,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-11T04:26:04.404Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,755,2786.5,69.1,62.7,814,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-11T04:27:02.978Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,829,4880.5,40.2,41.5,569,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-11T04:28:36.268Z
-socks4,111.119.162.248,10937,socks4://111.119.162.248:10937,elite,true,1130,4067.5,14.8,25,168,8.216.119.64,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",19,2026-08-15T10:30:42.267Z,2026-10-11T04:31:08.341Z
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,797,1838.5,81.6,92.3,942,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-12T04:24:48.214Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,736,2800.5,71.4,64.7,880,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-12T04:32:48.075Z
+socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,1853,2854.5,45,41.8,594,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-12T04:25:55.728Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,791,795.5,49.4,37.2,234,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-03-19T19:50:21.621Z,2026-10-12T04:31:12.783Z

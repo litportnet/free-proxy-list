@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,193.149.18.217,1080,socks5://193.149.18.217:1080,elite,true,1281,1264.5,100,100,83,193.149.18.217,1,uz,Tashkent,Tashkent,Asia/Tashkent,43647,SERVERCORE CIS FE LLC,14,2026-10-10T14:42:18.733Z,2026-10-11T04:25:55.271Z

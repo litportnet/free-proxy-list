@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "104.245.245.218",
+    "port": 1080,
+    "url": "socks5://104.245.245.218:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 704,
+    "latency_median_ms": 721,
+    "uptime_24h": 76.9,
+    "uptime_7d": 24.7,
+    "checks_7d": 81,
+    "exit_ip": "104.245.245.218",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Mazovia",
+    "city": "Warsaw",
+    "timezone": "Europe/Warsaw",
+    "asn": 201814,
+    "asn_org": "MEVSPACE sp. z o.o.",
+    "sources_count": 18,
+    "first_seen": "2026-09-20T19:58:12.162Z",
+    "last_checked": "2026-10-12T04:24:56.189Z"
+  }
+]

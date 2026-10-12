@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,108.61.185.188,1080,socks5://108.61.185.188:1080,elite,true,4008,3284.5,43.6,40.7,698,45.77.235.30,2,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",13,2026-10-01T10:53:20.451Z,2026-10-11T04:22:18.002Z
-socks5,169.155.50.87,1080,socks5://169.155.50.87:1080,elite,true,1394,1724,34.6,30.3,618,75.102.33.66,1,au,New South Wales,Sydney,Australia/Sydney,30081,CacheFly,20,2026-04-12T05:49:27.240Z,2026-10-11T04:28:06.903Z
+socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,true,2415,2964.5,62.6,55.1,723,45.67.96.81,1,au,New South Wales,Sydney,Australia/Sydney,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T17:38:15.449Z,2026-10-12T04:32:59.931Z
+socks5,169.155.50.87,1080,socks5://169.155.50.87:1080,elite,false,1799,1880.5,48.6,34.3,639,75.102.33.66,1,au,New South Wales,Sydney,Australia/Sydney,30081,CacheFly,20,2026-04-12T05:49:27.240Z,2026-10-12T04:27:46.219Z
+socks5,168.138.9.147,1080,socks5://168.138.9.147:1080,elite,false,1040,2035.5,34,16.2,173,168.138.9.147,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,18,2026-03-24T16:52:32.307Z,2026-10-12T04:31:48.664Z
+socks5,13.55.46.35,1080,socks5://13.55.46.35:1080,elite,true,2945,2974.5,97,,33,13.55.46.35,4,au,New South Wales,Sydney,Australia/Sydney,16509,"Amazon.com, Inc.",3,2026-10-11T22:59:13.808Z,2026-10-12T04:28:49.678Z

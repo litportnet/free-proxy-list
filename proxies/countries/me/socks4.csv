@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.72.100.113,48293,socks4://109.72.100.113:48293,elite,true,720,722.5,60.8,64.2,732,109.72.100.113,1,me,Podgorica,Podgorica,Europe/Podgorica,43940,Drustvo za telekomunikacije MTEL DOO,17,2025-12-14T12:16:49.089Z,2026-10-11T04:21:49.864Z
+socks4,109.72.100.113,48293,socks4://109.72.100.113:48293,elite,true,703,720,80,66.9,782,109.72.100.113,1,me,Podgorica,Podgorica,Europe/Podgorica,43940,Drustvo za telekomunikacije MTEL DOO,17,2025-12-14T12:16:49.089Z,2026-10-12T04:25:44.930Z

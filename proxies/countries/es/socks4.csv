@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.81.154.75,1080,socks4://45.81.154.75:1080,elite,true,612,741,83.1,76,847,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,15,2026-09-26T09:49:38.803Z,2026-10-11T04:23:46.065Z
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,712,962,73.3,75.2,912,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-10-11T04:28:19.706Z
+socks4,45.81.154.75,1080,socks4://45.81.154.75:1080,elite,true,768,657,83.6,76.8,845,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,15,2026-09-26T09:49:38.803Z,2026-10-12T04:27:40.351Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,723,732.5,82.8,75.1,904,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-10-12T04:30:06.464Z
+socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,true,659,1662,58.1,49.4,778,77.225.198.220,2,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,9,2025-09-05T20:06:27.740Z,2026-10-12T04:33:32.012Z
+socks4,185.130.219.11,4153,socks4://185.130.219.11:4153,elite,false,1632,1636,43.9,35.3,550,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,12,2025-09-05T20:06:26.508Z,2026-10-12T04:27:50.444Z

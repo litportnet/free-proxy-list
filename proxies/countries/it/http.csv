@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,489,499.5,82.7,78.7,846,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-11T04:30:02.424Z
-http,89.40.143.28,7788,http://89.40.143.28:7788,transparent,true,3240,3733.5,34.5,22.2,315,89.40.143.28,1,it,Lombardy,Milan,Europe/Rome,64445,NetJoin srl,11,2025-09-29T03:34:49.103Z,2026-10-11T04:28:12.784Z
+http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,5820,3950.5,15.8,26.3,395,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,9,2026-06-21T15:51:42.528Z,2026-10-12T04:31:32.669Z
+http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,false,6663,3987,24,21,281,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-12T04:32:04.671Z
+http,185.191.106.0,8081,http://185.191.106.0:8081,transparent,false,4373,3957,11.8,19.2,260,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-10-12T04:30:35.872Z
+http,93.187.25.12,58080,http://93.187.25.12:58080,transparent,false,7153,4799,29.3,18.9,338,93.187.25.12,1,it,Tuscany,Siena,Europe/Rome,43960,Consorzio Terrecablate,25,2026-06-17T15:58:14.889Z,2026-10-12T04:31:44.930Z

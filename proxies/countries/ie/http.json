@@ -6,11 +6,11 @@
     "url": "http://52.30.58.104:9100",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 215,
-    "latency_median_ms": 219.5,
+    "latency_ms": 223,
+    "latency_median_ms": 224.5,
     "uptime_24h": 100,
-    "uptime_7d": 97.9,
-    "checks_7d": 191,
+    "uptime_7d": 98.8,
+    "checks_7d": 335,
     "exit_ip": "54.76.114.122",
     "exit_shared": 1,
     "country": "ie",
@@ -21,6 +21,6 @@
     "asn_org": "Amazon.com, Inc.",
     "sources_count": 13,
     "first_seen": "2026-10-09T20:32:48.835Z",
-    "last_checked": "2026-10-11T04:23:35.348Z"
+    "last_checked": "2026-10-12T04:30:58.835Z"
   }
 ]

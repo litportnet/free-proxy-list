@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,38.226.49.124,1080,socks4://38.226.49.124:1080,elite,false,628,749.5,18.2,14.5,269,38.226.49.124,1,pe,Ayacucho,Ayacucho,America/Lima,274029,KAZAV LATAM E.I.R.L.,17,2026-07-28T02:37:36.828Z,2026-10-11T04:31:18.540Z
+socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,false,3622,1600,69.9,56.3,782,177.91.255.35,1,pe,Lima region,Chosica,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-10-12T04:30:08.044Z

@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,1836,1831.5,64.6,63.4,697,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,12,2025-09-04T23:49:05.420Z,2026-10-11T04:26:52.815Z
+socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,1828,821,74.2,65.5,728,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,12,2025-09-04T23:49:05.420Z,2026-10-12T04:25:07.397Z
+socks4,103.231.105.158,4145,socks4://103.231.105.158:4145,elite,false,1795,1822,50,48.3,822,103.231.105.158,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,22,2026-07-06T01:59:45.801Z,2026-10-12T04:34:46.525Z
+socks4,93.184.7.73,1080,socks4://93.184.7.73:1080,elite,true,793,1779.5,34.4,26.6,492,93.184.7.26,1,ps,West Bank,Ţammūn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,13,2025-09-04T23:48:59.794Z,2026-10-12T04:33:54.473Z
+http,84.242.58.9,8080,http://84.242.58.9:8080,transparent,false,6076,6041.5,25,11.7,163,84.242.58.9,1,ps,West Bank,Tarqūmyā,Asia/Hebron,51407,Mada Al-Arab General Services Company,23,2025-09-10T11:58:30.597Z,2026-10-12T04:30:10.219Z

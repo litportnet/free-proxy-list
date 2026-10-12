@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.222.94.66",
+    "port": 808,
+    "url": "http://185.222.94.66:808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1606,
+    "latency_median_ms": 1460,
+    "uptime_24h": 62.7,
+    "uptime_7d": 53.5,
+    "checks_7d": 325,
+    "exit_ip": "185.222.94.66",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 203971,
+    "asn_org": "AzFiberNet LLC",
+    "sources_count": 18,
+    "first_seen": "2026-09-28T10:15:04.891Z",
+    "last_checked": "2026-10-12T04:32:35.178Z"
+  }
+]

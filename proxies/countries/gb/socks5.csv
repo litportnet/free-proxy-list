@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,2460,2362.5,59.2,49.6,619,82.21.123.81,1,gb,England,London,Europe/London,24851,Netcetera Ltd.,19,2026-08-24T12:42:33.832Z,2026-10-11T04:27:45.561Z
-socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1034,1378,40.5,43,742,31.58.214.214,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-10-11T04:24:57.590Z
+socks5,45.74.31.41,12985,socks5://45.74.31.41:12985,elite,true,1799,2047,52.9,52.9,68,209.42.18.223,1,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,1,2026-10-11T12:53:55.042Z,2026-10-12T04:25:49.198Z
+socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,true,2248,1968.5,54.4,45.6,634,187.40.252.69,1,gb,England,London,Europe/London,136787,PacketHub S.A.,18,2026-09-18T09:46:47.006Z,2026-10-12T04:34:52.970Z

@@ -1,8 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,7992,socks5://45.74.31.47:7992,elite,true,2324,1761.5,67.6,48.8,121,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,3,2026-10-05T06:34:56.165Z,2026-10-11T04:29:19.999Z
-socks5,45.74.31.47,9024,socks5://45.74.31.47:9024,elite,false,9005,3386.5,67.3,33.6,110,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,13,2026-10-01T05:50:42.986Z,2026-10-11T04:25:00.264Z
-socks5,45.74.31.41,5035,socks5://45.74.31.41:5035,elite,false,4851,8771,25,4.5,67,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,14,2026-09-30T21:46:29.592Z,2026-10-11T04:21:56.758Z
-socks5,45.74.31.47,8266,socks5://45.74.31.47:8266,elite,true,887,1447,100,,37,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,2,2026-10-02T14:01:01.164Z,2026-10-11T04:26:52.288Z
-socks5,45.74.31.47,5842,socks5://45.74.31.47:5842,elite,true,974,939,90.9,,11,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,2,2026-10-11T02:48:37.470Z,2026-10-11T04:31:43.191Z
-socks5,45.74.31.41,6458,socks5://45.74.31.41:6458,elite,true,1666,1643,65.2,,45,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,3,2026-10-09T04:24:14.103Z,2026-10-11T04:21:41.308Z
-socks5,45.74.31.41,6355,socks5://45.74.31.41:6355,elite,true,8488,4875,90,,16,185.146.87.240,7,ro,Bucharest,Bucharest,Europe/Bucharest,203053,CLAUS WEB srl,5,2026-10-01T14:55:21.601Z,2026-10-11T04:21:37.047Z
+socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,1609,2919,43,44.3,583,146.70.66.130,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,18,2026-09-18T12:48:20.513Z,2026-10-12T04:34:19.194Z

@@ -1,8 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,5887,2724.5,76.9,89.8,953,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-11T04:29:33.966Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,9946,983,82.2,78.2,838,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-10-11T04:22:56.420Z
-http,185.85.111.18,80,http://185.85.111.18:80,elite,false,2420,2976,73.6,74.1,768,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,18,2025-12-06T18:03:11.604Z,2026-10-11T04:28:17.009Z
-socks5,65.21.252.66,10807,socks5://65.21.252.66:10807,elite,false,7588,3869,35.2,43.3,653,195.177.93.1,1,ch,Zurich,Zürich,Europe/Zurich,212238,Datacamp Limited,16,2026-09-21T09:05:03.337Z,2026-10-11T04:21:44.006Z
-socks5,66.59.197.62,3128,socks5://66.59.197.62:3128,elite,true,705,733,36.8,32.9,484,187.15.173.210,1,ch,Zurich,Zürich,Europe/Zurich,136787,PacketHub S.A.,18,2026-08-10T07:23:26.060Z,2026-10-11T04:27:33.306Z
-socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,580,1097.5,45.7,32,385,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-10-11T04:29:59.151Z
-socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,true,1593,1749,38.3,31.6,383,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-11T04:26:17.686Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,627,765,73.8,89.4,954,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-12T04:27:24.873Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,665,1276.5,71.4,72.8,756,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,18,2025-12-06T18:03:11.604Z,2026-10-12T04:28:05.975Z
+socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,7793,3010,36.3,33.3,466,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-10-12T04:29:33.404Z

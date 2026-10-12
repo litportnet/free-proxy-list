@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,181.78.186.3,999,http://181.78.186.3:999,transparent,false,3119,3773,42.6,25.7,417,181.78.186.3,1,pa,Panamá,Panama City,America/Panama,52468,UFINET PANAMA S.A.,19,2026-10-03T07:10:03.162Z,2026-10-11T04:26:32.124Z

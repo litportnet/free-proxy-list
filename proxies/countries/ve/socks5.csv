@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,false,3339,2572,71.9,71.9,121,161.22.33.89,1,ve,Distrito Federal,Caracas,America/Caracas,272809,"THUNDERNET, C.A.",12,2026-10-10T06:38:00.990Z,2026-10-11T04:23:38.587Z

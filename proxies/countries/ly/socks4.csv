@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,165.16.99.209,1080,socks4://165.16.99.209:1080,elite,false,1715,3772,56.2,51.6,762,165.16.99.209,1,ly,Tripoli,Tripoli,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,16,2026-10-04T08:23:20.934Z,2026-10-11T04:21:09.290Z
+socks4,165.16.99.209,1080,socks4://165.16.99.209:1080,elite,true,3782,3744.5,53.9,49.7,768,165.16.99.209,1,ly,Tripoli,Tripoli,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,16,2026-10-04T08:23:20.934Z,2026-10-12T04:34:50.833Z

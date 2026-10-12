@@ -6,13 +6,13 @@
     "url": "socks5://102.129.229.131:1081",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4716,
-    "latency_median_ms": 5144.5,
-    "uptime_24h": 83.9,
-    "uptime_7d": 73.6,
-    "checks_7d": 901,
+    "latency_ms": 3546,
+    "latency_median_ms": 3594.5,
+    "uptime_24h": 91.9,
+    "uptime_7d": 74.7,
+    "checks_7d": 904,
     "exit_ip": "102.129.229.131",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "th",
     "region": "Bangkok",
     "city": "Bangkok",
@@ -21,7 +21,7 @@
     "asn_org": "CSNE Co., Ltd.",
     "sources_count": 16,
     "first_seen": "2026-09-23T17:15:43.069Z",
-    "last_checked": "2026-10-11T04:22:11.066Z"
+    "last_checked": "2026-10-12T04:30:47.581Z"
   },
   {
     "protocol": "socks5",
@@ -29,11 +29,11 @@
     "port": 7080,
     "url": "socks5://125.24.156.113:7080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 2845,
-    "latency_median_ms": 2762.5,
-    "uptime_24h": 48.8,
-    "uptime_7d": 44.7,
+    "https": false,
+    "latency_ms": 3317,
+    "latency_median_ms": 3040.5,
+    "uptime_24h": 53.7,
+    "uptime_7d": 46.8,
     "checks_7d": 703,
     "exit_ip": "1.20.143.87",
     "exit_shared": 1,
@@ -45,6 +45,6 @@
     "asn_org": "TOT Public Company Limited",
     "sources_count": 20,
     "first_seen": "2026-04-08T09:00:00.596Z",
-    "last_checked": "2026-10-11T04:21:48.298Z"
+    "last_checked": "2026-10-12T04:34:17.555Z"
   }
 ]

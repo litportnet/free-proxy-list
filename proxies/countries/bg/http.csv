@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,78.142.61.75,3128,http://78.142.61.75:3128,elite,false,9501,6610,17.3,9.3,118,78.142.61.75,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200628,BGO Cloud OOD,21,2026-09-04T18:52:11.715Z,2026-10-11T04:29:24.826Z
+http,213.169.52.101,8185,http://213.169.52.101:8185,transparent,false,1886,2828.5,31,25.8,431,213.169.52.101,1,bg,Shumen,Veliki Preslav,Europe/Sofia,42086,RO&NI EOOD,13,2026-06-05T02:25:33.384Z,2026-10-12T04:34:44.363Z
+http,213.169.33.12,8001,http://213.169.33.12:8001,transparent,false,4334,4680.5,10.5,13.8,240,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,19,2025-09-05T20:06:27.889Z,2026-10-12T04:27:59.544Z

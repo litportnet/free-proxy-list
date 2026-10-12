@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.222.94.66,808,http://185.222.94.66:808,elite,true,1606,1460,62.7,53.5,325,185.222.94.66,1,az,Baki,Baku,Asia/Baku,203971,AzFiberNet LLC,18,2026-09-28T10:15:04.891Z,2026-10-12T04:32:35.178Z
