@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,5820,3950.5,15.8,26.3,395,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,9,2026-06-21T15:51:42.528Z,2026-10-12T04:31:32.669Z
-http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,false,6663,3987,24,21,281,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-12T04:32:04.671Z
-http,185.191.106.0,8081,http://185.191.106.0:8081,transparent,false,4373,3957,11.8,19.2,260,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-10-12T04:30:35.872Z
-http,93.187.25.12,58080,http://93.187.25.12:58080,transparent,false,7153,4799,29.3,18.9,338,93.187.25.12,1,it,Tuscany,Siena,Europe/Rome,43960,Consorzio Terrecablate,25,2026-06-17T15:58:14.889Z,2026-10-12T04:31:44.930Z
+http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,true,4970,4208.5,20.3,21,329,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-13T04:29:41.853Z

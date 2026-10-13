@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,false,652,722,71.8,66.2,779,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-12T04:27:07.858Z
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,1786,2269,50.6,43.4,587,82.118.30.35,1,cz,Prague,Prague,Europe/Prague,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T05:31:54.290Z,2026-10-12T04:33:21.840Z
-socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,815,3752.5,53.4,37.8,633,90.178.216.215,1,cz,Prague,Prague,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-10-12T04:32:01.488Z
-http,185.4.201.49,55443,http://185.4.201.49:55443,elite,false,3855,2185.5,37.8,29.2,264,79.98.72.136,1,cz,Prague,Prague,Europe/Prague,44002,Sys-DataCom s.r.o.,8,2026-09-28T12:16:11.253Z,2026-10-12T04:26:30.931Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,3937,1009.5,82.1,79.4,913,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-13T04:26:59.700Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,false,1298,1038,69.6,66.7,780,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-13T04:28:41.573Z
+http,85.239.156.66,5555,http://85.239.156.66:5555,elite,false,1502,1504,45.2,50.4,791,85.239.156.66,1,cz,Prague,Prague,Europe/Prague,202996,Ondrej Vrana,14,2026-10-05T14:39:12.971Z,2026-10-13T04:22:51.288Z

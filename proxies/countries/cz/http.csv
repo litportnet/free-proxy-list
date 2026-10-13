@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.4.201.49,55443,http://185.4.201.49:55443,elite,false,3855,2185.5,37.8,29.2,264,79.98.72.136,1,cz,Prague,Prague,Europe/Prague,44002,Sys-DataCom s.r.o.,8,2026-09-28T12:16:11.253Z,2026-10-12T04:26:30.931Z
+http,85.239.156.66,5555,http://85.239.156.66:5555,elite,false,1502,1504,45.2,50.4,791,85.239.156.66,1,cz,Prague,Prague,Europe/Prague,202996,Ondrej Vrana,14,2026-10-05T14:39:12.971Z,2026-10-13T04:22:51.288Z

@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://202.123.183.66:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 8472,
-    "latency_median_ms": 3739.5,
-    "uptime_24h": 72.4,
-    "uptime_7d": 58.7,
-    "checks_7d": 753,
+    "https": false,
+    "latency_ms": 1424,
+    "latency_median_ms": 2466,
+    "uptime_24h": 63.1,
+    "uptime_7d": 58.6,
+    "checks_7d": 744,
     "exit_ip": "202.123.183.66",
     "exit_shared": 1,
     "country": "la",
@@ -21,6 +21,6 @@
     "asn_org": "Skytelecom , Transit provider and ISP in Vientiene.",
     "sources_count": 14,
     "first_seen": "2025-09-05T20:06:32.166Z",
-    "last_checked": "2026-10-12T04:34:20.768Z"
+    "last_checked": "2026-10-13T04:23:25.906Z"
   }
 ]

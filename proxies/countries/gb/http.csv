@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.190.211.67,80,http://186.190.211.67:80,elite,true,5659,3669,44.1,41.5,205,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,19,2026-10-10T04:37:02.560Z,2026-10-12T04:33:51.287Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,false,3774,2858.5,75.9,79.3,632,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,21,2026-03-12T10:16:41.859Z,2026-10-13T04:24:54.097Z
+http,138.124.125.51,3128,http://138.124.125.51:3128,elite,true,1587,2015,81.5,,27,138.124.125.51,1,gb,England,Coventry,Europe/London,41745,Baykov Ilya Sergeevich,11,2026-10-12T23:12:04.262Z,2026-10-13T04:30:20.939Z

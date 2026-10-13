@@ -1,2 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,218.100.23.130,8080,http://218.100.23.130:8080,transparent,false,9983,3830,30.8,27.6,363,218.100.23.130,1,nz,Wellington Region,Wellington,Pacific/Auckland,132040,Vital Data Ltd,20,2026-09-27T06:00:26.030Z,2026-10-12T04:29:11.000Z
+socks5,45.74.31.47,10450,socks5://45.74.31.47:10450,elite,false,5174,5947,47.1,40.4,141,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,11,2026-10-10T04:36:57.105Z,2026-10-13T04:24:10.469Z
+socks5,45.74.31.40,17206,socks5://45.74.31.40:17206,elite,true,4050,7046,34.5,34.5,58,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,12,2026-10-12T07:03:34.141Z,2026-10-13T04:27:46.754Z
+socks5,45.74.31.46,4863,socks5://45.74.31.46:4863,elite,true,4377,4386,33.3,21.8,271,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,14,2026-10-02T07:57:51.482Z,2026-10-13T04:23:18.423Z
+socks5,45.74.31.42,35327,socks5://45.74.31.42:35327,elite,false,8923,5696.5,36.4,15.8,101,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,17,2026-09-15T10:50:55.309Z,2026-10-13T04:28:45.255Z
+socks5,45.74.31.47,12161,socks5://45.74.31.47:12161,elite,true,2958,3529.5,73.5,,34,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,2,2026-10-12T21:10:54.090Z,2026-10-13T04:25:54.805Z
+socks5,45.74.31.47,12207,socks5://45.74.31.47:12207,elite,true,4916,4916,50,,16,202.174.178.86,6,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,6,2026-10-11T22:59:13.808Z,2026-10-13T04:23:20.052Z

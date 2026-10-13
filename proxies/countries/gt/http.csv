@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.33.0.203,999,http://186.33.0.203:999,transparent,true,2013,1761.5,39.4,27.2,217,186.33.0.203,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,19,2026-10-07T22:08:36.042Z,2026-10-12T04:32:49.158Z
-http,24.152.53.68,999,http://24.152.53.68:999,transparent,false,8820,3616.5,17.9,20.9,388,24.152.53.68,1,gt,Jalapa,Jalapa,America/Guatemala,269964,TV CABLE UNIVERSAL S.A,17,2026-04-02T19:50:00.786Z,2026-10-12T04:33:55.536Z

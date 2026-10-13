@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.211.82.142,8080,http://89.211.82.142:8080,transparent,true,939,4759.5,12.3,25.1,379,89.211.82.142,1,qa,Baladiyat ad Dawhah,Doha,Asia/Qatar,8781,Ooredoo Q.S.C.,20,2026-10-05T08:36:01.265Z,2026-10-12T04:34:22.878Z

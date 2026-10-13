@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,350,1445,54,51,728,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-12T04:30:32.640Z
-socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,200,203.5,37.8,46,589,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-12T04:30:50.755Z
-socks4,173.182.69.5,5678,socks4://173.182.69.5:5678,elite,true,2707,3320,26.9,34,497,173.182.69.5,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,9,2025-10-22T11:08:58.956Z,2026-10-12T04:31:08.486Z
+socks4,148.113.175.17,1090,socks4://148.113.175.17:1090,elite,true,193,178.5,100,100,57,148.113.175.17,2,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,10,2026-10-12T19:09:49.877Z,2026-10-13T04:30:40.817Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,3412,1376.5,62,51.3,727,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-13T04:23:34.407Z
+socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,false,241,2258,19.7,17.7,459,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-10-13T04:24:50.891Z

@@ -6,11 +6,11 @@
     "url": "http://150.140.148.235:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2578,
-    "latency_median_ms": 2592.5,
-    "uptime_24h": 73.6,
-    "uptime_7d": 65.5,
-    "checks_7d": 861,
+    "latency_ms": 5471,
+    "latency_median_ms": 5344,
+    "uptime_24h": 80.3,
+    "uptime_7d": 65.2,
+    "checks_7d": 858,
     "exit_ip": "150.140.148.235",
     "exit_shared": 1,
     "country": "gr",
@@ -21,6 +21,6 @@
     "asn_org": "National Infrastructures for Research and Technology S.A.",
     "sources_count": 18,
     "first_seen": "2026-07-09T22:46:02.146Z",
-    "last_checked": "2026-10-12T04:28:56.068Z"
+    "last_checked": "2026-10-13T04:22:57.133Z"
   }
 ]

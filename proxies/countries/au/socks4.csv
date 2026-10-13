@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,13.55.46.35,1080,socks4://13.55.46.35:1080,elite,true,2774,2751,90.3,,31,13.55.46.35,4,au,New South Wales,Sydney,Australia/Sydney,16509,"Amazon.com, Inc.",2,2026-10-11T22:59:13.354Z,2026-10-12T04:29:23.851Z

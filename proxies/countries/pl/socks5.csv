@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,104.245.245.218,1080,socks5://104.245.245.218:1080,elite,true,704,721,76.9,24.7,81,104.245.245.218,1,pl,Mazovia,Warsaw,Europe/Warsaw,201814,MEVSPACE sp. z o.o.,18,2026-09-20T19:58:12.162Z,2026-10-12T04:24:56.189Z
+socks5,104.245.245.218,1080,socks5://104.245.245.218:1080,elite,true,704,718,100,75.3,219,104.245.245.218,1,pl,Mazovia,Warsaw,Europe/Warsaw,201814,MEVSPACE sp. z o.o.,19,2026-09-20T19:58:12.162Z,2026-10-13T04:28:26.731Z
+socks5,45.74.31.47,4400,socks5://45.74.31.47:4400,elite,false,2370,4354,12.5,17.2,192,85.128.143.145,2,pl,Mazovia,Warsaw,Europe/Warsaw,15967,Nazwa.pl Sp.z.o.o.,14,2026-10-02T19:03:40.712Z,2026-10-13T04:22:24.867Z
+socks5,45.74.31.47,5451,socks5://45.74.31.47:5451,elite,true,1387,3729.5,35.7,10.4,106,85.128.143.145,2,pl,Mazovia,Warsaw,Europe/Warsaw,15967,Nazwa.pl Sp.z.o.o.,14,2026-09-29T02:23:43.097Z,2026-10-13T04:28:08.637Z

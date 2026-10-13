@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.73.28.253,8080,http://154.73.28.253:8080,transparent,true,2709,2859.5,34.2,23.1,268,154.73.28.74,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),14,2025-09-05T20:06:34.652Z,2026-10-12T04:27:09.472Z
-http,102.209.0.138,8080,http://102.209.0.138:8080,transparent,false,5200,4300,22,13.2,242,102.209.0.138,1,ly,Banghazi,Benghazi,Africa/Tripoli,329435,Aljuman Aljadeed Limited Liability company,19,2026-05-31T01:20:21.874Z,2026-10-12T04:26:43.171Z
+http,165.16.27.43,1981,http://165.16.27.43:1981,transparent,false,3646,4100.5,22.4,15.3,190,165.16.27.22,1,ly,Darnah,Darnah,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,17,2025-09-04T23:50:00.334Z,2026-10-13T04:22:33.878Z
+http,154.73.29.217,8080,http://154.73.29.217:8080,transparent,false,4087,4372.5,27.1,14.5,228,154.73.28.74,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),12,2025-11-06T15:39:01.739Z,2026-10-13T04:25:32.481Z

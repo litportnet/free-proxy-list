@@ -6,11 +6,11 @@
     "url": "http://144.31.75.29:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 558,
-    "latency_median_ms": 560,
-    "uptime_24h": 100,
-    "uptime_7d": 98.1,
-    "checks_7d": 1008,
+    "latency_ms": 508,
+    "latency_median_ms": 537.5,
+    "uptime_24h": 98.6,
+    "uptime_7d": 97.9,
+    "checks_7d": 1006,
     "exit_ip": "144.31.75.29",
     "exit_shared": 1,
     "country": "fi",
@@ -21,7 +21,7 @@
     "asn_org": "U1 DIGITAL SERVICES LTD",
     "sources_count": 4,
     "first_seen": "2026-08-12T00:47:17.694Z",
-    "last_checked": "2026-10-12T04:30:33.166Z"
+    "last_checked": "2026-10-13T04:20:27.894Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://66.151.34.89:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 561,
-    "latency_median_ms": 560.5,
-    "uptime_24h": 95.7,
-    "uptime_7d": 93.7,
-    "checks_7d": 986,
+    "latency_ms": 600,
+    "latency_median_ms": 557,
+    "uptime_24h": 96.4,
+    "uptime_7d": 93.2,
+    "checks_7d": 981,
     "exit_ip": "66.151.34.89",
     "exit_shared": 1,
     "country": "fi",
@@ -45,7 +45,7 @@
     "asn_org": "HOSTKEY B.V.",
     "sources_count": 19,
     "first_seen": "2026-09-05T06:58:13.976Z",
-    "last_checked": "2026-10-12T04:30:29.430Z"
+    "last_checked": "2026-10-13T04:27:09.279Z"
   },
   {
     "protocol": "http",
@@ -53,12 +53,12 @@
     "port": 1080,
     "url": "http://85.209.156.148:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 3488,
-    "latency_median_ms": 3461,
-    "uptime_24h": 88.1,
-    "uptime_7d": 89.9,
-    "checks_7d": 936,
+    "https": false,
+    "latency_ms": 1595,
+    "latency_median_ms": 2565.5,
+    "uptime_24h": 76.2,
+    "uptime_7d": 87.2,
+    "checks_7d": 906,
     "exit_ip": "85.209.156.148",
     "exit_shared": 3,
     "country": "fi",
@@ -69,6 +69,6 @@
     "asn_org": "Oy Creanova Hosting Solutions Ltd.",
     "sources_count": 23,
     "first_seen": "2026-08-25T00:50:34.299Z",
-    "last_checked": "2026-10-12T04:31:26.748Z"
+    "last_checked": "2026-10-13T04:27:33.022Z"
   }
 ]

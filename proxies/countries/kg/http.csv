@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,95.87.73.121,8080,http://95.87.73.121:8080,transparent,false,1820,1820,37.5,,8,95.87.73.121,1,kg,Chuy Region,Lebedinovka,Asia/Bishkek,29061,CJSC SAIMA TELECOM,10,2026-10-13T02:13:33.681Z,2026-10-13T04:26:15.694Z

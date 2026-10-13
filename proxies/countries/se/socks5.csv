@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,3290,1818,95.7,95.4,979,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-12T04:25:58.943Z
-socks5,65.21.252.66,10813,socks5://65.21.252.66:10813,elite,true,1742,3395.5,46.2,38.3,579,128.90.159.18,1,se,Stockholm,Stockholm,Europe/Stockholm,22363,"Powerhouse Management, Inc.",19,2026-09-16T19:26:32.370Z,2026-10-12T04:29:54.168Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1818,2349.5,99.3,95.5,978,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-13T04:29:22.303Z
+socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,true,7946,4403.5,65.1,65,346,85.8.47.208,1,se,Stockholm,Stockholm,Europe/Stockholm,29518,Bredband2 AB,14,2026-10-10T06:38:00.990Z,2026-10-13T04:24:58.377Z
+socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,true,4832,3497,25.7,49.9,724,79.76.59.115,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-10-13T04:26:18.498Z
+socks5,143.198.239.45,10046,socks5://143.198.239.45:10046,elite,true,4146,2840,47.1,49.5,301,171.25.193.132,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,2,2026-10-10T05:37:33.730Z,2026-10-13T04:30:55.273Z
+socks5,91.90.25.82,1080,socks5://91.90.25.82:1080,elite,false,8277,6368.5,19.4,,37,91.90.25.82,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,10,2026-10-02T10:59:29.517Z,2026-10-13T04:25:06.307Z

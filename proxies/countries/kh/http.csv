@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,3831,4633.5,61.5,60.9,861,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-12T04:31:10.093Z
-http,110.74.195.34,25,http://110.74.195.34:25,elite,true,3922,4014,52.6,50,798,110.74.195.34,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38901,"EZECOM CO., LTD.",19,2025-09-10T21:13:42.082Z,2026-10-12T04:30:31.024Z
-http,119.15.84.74,8080,http://119.15.84.74:8080,transparent,false,7478,6417,18.2,12.1,248,119.15.84.74,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,23,2026-04-18T11:27:42.556Z,2026-10-12T04:33:37.883Z
+http,175.100.103.170,1256,http://175.100.103.170:1256,elite,false,1334,3601,33.3,26.2,363,175.100.103.170,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,26,2026-08-12T05:49:52.856Z,2026-10-13T04:24:34.913Z

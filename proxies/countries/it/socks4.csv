@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,630,608.5,65,50.4,696,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-12T04:29:42.995Z
-socks4,94.198.213.252,5678,socks4://94.198.213.252:5678,elite,false,7821,1623.5,44.1,37.5,616,109.70.206.178,1,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,13,2025-09-04T23:49:07.766Z,2026-10-12T04:25:19.196Z
-socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,true,728,1745,18.8,15.9,265,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-10-12T04:29:13.657Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,1786,2269,50.6,43.4,587,82.118.30.35,1,cz,Prague,Prague,Europe/Prague,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T05:31:54.290Z,2026-10-12T04:33:21.840Z

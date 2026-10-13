@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,1622,1635,62.2,63.3,875,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-12T04:34:56.235Z
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,1363,1290,95.7,94.5,977,193.149.187.228,1,gb,England,London,Europe/London,399629,BL Networks,13,2026-07-02T02:04:25.728Z,2026-10-13T04:29:52.105Z

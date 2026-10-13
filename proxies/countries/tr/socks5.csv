@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,11565,socks5://45.74.31.47:11565,elite,true,2561,5080,38.9,9.7,72,213.238.183.201,2,tr,Denizli,Denizli,Europe/Istanbul,213252,Cenuta Telekomunikasyon Anonim Sirketi,12,2026-09-23T21:17:51.043Z,2026-10-12T04:29:21.685Z
-socks5,45.74.31.40,12472,socks5://45.74.31.40:12472,elite,false,8517,4339,6.3,4.4,92,213.238.183.201,2,tr,Denizli,Denizli,Europe/Istanbul,213252,Cenuta Telekomunikasyon Anonim Sirketi,18,2026-09-15T03:47:12.852Z,2026-10-12T04:31:18.694Z

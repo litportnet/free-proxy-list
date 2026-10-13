@@ -1,6 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,85.209.156.148,1080,socks5://85.209.156.148:1080,elite,true,2714,2822.5,91.2,90.3,934,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-08-25T00:49:11.337Z,2026-10-12T04:27:59.006Z
-socks5,45.74.31.47,10698,socks5://45.74.31.47:10698,elite,true,1638,1283,45.2,74.6,165,65.108.132.246,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,2,2026-10-10T04:36:57.105Z,2026-10-12T04:26:28.277Z
-socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,1504,834,57.5,47.3,182,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-08-02T08:42:38.750Z,2026-10-12T04:28:56.604Z
-socks5,95.214.9.21,1080,socks5://95.214.9.21:1080,elite,true,829,797,47.1,47.1,51,95.214.9.21,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,7,2026-10-11T16:56:06.397Z,2026-10-12T04:27:49.917Z
-socks5,45.74.31.47,8983,socks5://45.74.31.47:8983,elite,true,3053,4586.5,50,47.1,140,65.108.132.246,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,11,2026-10-10T15:42:46.849Z,2026-10-12T04:30:05.410Z
+socks5,85.209.156.148,1080,socks5://85.209.156.148:1080,elite,false,5259,5458,74.6,87.5,907,85.209.156.148,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,19,2026-08-25T00:49:11.337Z,2026-10-13T04:28:27.247Z
+socks5,31.76.58.136,1080,socks5://31.76.58.136:1080,elite,false,823,1078,83.3,,12,31.76.58.136,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210546,CHSL ONE LTD,6,2026-10-13T02:13:36.874Z,2026-10-13T04:28:24.624Z

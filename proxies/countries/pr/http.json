@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "192.203.0.142",
+    "port": 999,
+    "url": "http://192.203.0.142:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4912,
+    "latency_median_ms": 4977.5,
+    "uptime_24h": 24.6,
+    "uptime_7d": 17.6,
+    "checks_7d": 290,
+    "exit_ip": "192.203.0.142",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "Caguas",
+    "city": "Caguas",
+    "timezone": "America/Puerto_Rico",
+    "asn": 63393,
+    "asn_org": "BOOM NET",
+    "sources_count": 23,
+    "first_seen": "2026-05-04T08:39:48.827Z",
+    "last_checked": "2026-10-13T04:23:50.311Z"
+  }
+]

@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,4214,4122.5,56.6,43.5,754,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,17,2026-08-07T01:44:07.721Z,2026-10-12T04:31:42.294Z
-http,95.67.121.206,45554,http://95.67.121.206:45554,transparent,false,3800,2425,33.3,30.8,361,95.67.121.206,1,ua,Kyiv City,Kyiv,Europe/Kyiv,34867,Cosmonova LLC,4,2025-09-10T08:57:11.759Z,2026-10-12T04:31:06.329Z
-http,92.249.110.22,8080,http://92.249.110.22:8080,transparent,false,7087,3231,27.5,27.5,69,178.150.37.113,1,ua,Kyiv City,Kyiv,Europe/Kyiv,13188,CONTENT DELIVERY NETWORK LTD,14,2026-10-11T04:49:46.625Z,2026-10-12T04:32:38.900Z
-http,176.37.21.46,41890,http://176.37.21.46:41890,transparent,true,4734,5304.5,20.7,19.9,226,176.37.21.46,1,ua,Kyiv City,Kyiv,Europe/Kyiv,39608,Lanet Network Ltd,13,2025-09-05T20:06:32.315Z,2026-10-12T04:32:56.088Z
-http,31.202.49.61,33761,http://31.202.49.61:33761,elite,false,648,2170,19.3,17,276,31.202.49.61,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,34700,"MAXNET TELECOM, LTD",23,2026-05-18T15:43:30.574Z,2026-10-12T04:33:41.599Z
+http,176.100.60.249,80,http://176.100.60.249:80,transparent,false,4775,4349.5,16.7,14.6,274,176.100.60.249,1,ua,Donetsk,Afiny,Europe/Kyiv,57460,PE Scherban Evgeniy Aleksandrovich,14,2025-12-07T04:42:47.085Z,2026-10-13T04:30:23.116Z

@@ -1,10 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1206,1887,95,97.3,990,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-12T04:33:40.527Z
-socks5,188.215.44.164,1080,socks5://188.215.44.164:1080,elite,true,1893,1514,51.3,55.1,817,188.215.44.164,1,it,Emilia-Romagna,Bologna,Europe/Rome,31638,Lepida S.c.p.A.,15,2026-09-29T16:31:09.393Z,2026-10-12T04:25:51.404Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,630,608.5,65,50.4,696,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-12T04:29:42.995Z
-socks4,94.198.213.252,5678,socks4://94.198.213.252:5678,elite,false,7821,1623.5,44.1,37.5,616,109.70.206.178,1,it,Lombardy,Milan,Europe/Rome,49979,LA Wireless Srl,13,2025-09-04T23:49:07.766Z,2026-10-12T04:25:19.196Z
-http,212.77.75.25,3129,http://212.77.75.25:3129,elite,false,5820,3950.5,15.8,26.3,395,212.77.75.20,2,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,9,2026-06-21T15:51:42.528Z,2026-10-12T04:31:32.669Z
-http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,false,6663,3987,24,21,281,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-12T04:32:04.671Z
-http,185.191.106.0,8081,http://185.191.106.0:8081,transparent,false,4373,3957,11.8,19.2,260,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-10-12T04:30:35.872Z
-http,93.187.25.12,58080,http://93.187.25.12:58080,transparent,false,7153,4799,29.3,18.9,338,93.187.25.12,1,it,Tuscany,Siena,Europe/Rome,43960,Consorzio Terrecablate,25,2026-06-17T15:58:14.889Z,2026-10-12T04:31:44.930Z
-socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,true,728,1745,18.8,15.9,265,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-10-12T04:29:13.657Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2763,1716.5,94.9,96.6,985,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-13T04:25:24.444Z
+http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,true,4970,4208.5,20.3,21,329,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-13T04:29:41.853Z
