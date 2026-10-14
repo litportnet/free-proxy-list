@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,10369,931.5,100,98.9,1001,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-10-13T04:28:33.124Z
-socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,5292,1918.5,42.1,45.5,686,95.181.235.86,1,ae,Dubai,Dubai,Asia/Dubai,9009,M247 Europe SRL,17,2026-09-22T16:21:33.920Z,2026-10-13T04:24:00.345Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,3323,1190,100,99.4,1000,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-10-14T04:29:16.652Z

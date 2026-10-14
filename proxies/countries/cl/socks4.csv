@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,4029,1956,56.3,52.8,729,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,21,2025-09-05T20:06:27.862Z,2026-10-13T04:22:37.021Z
-socks4,190.54.100.74,5678,socks4://190.54.100.74:5678,elite,true,733,1974,51,45.7,442,190.54.100.74,1,cl,Santiago Metropolitan,Santiago,America/Santiago,6429,Telmex Chile Internet S.A.,22,2025-09-08T19:34:49.363Z,2026-10-13T04:23:02.989Z
-socks4,152.231.81.19,1080,socks4://152.231.81.19:1080,elite,true,3860,2048.5,48.4,42.2,576,152.231.81.18,1,cl,Valparaiso,Viña del Mar,America/Santiago,27651,ENTEL CHILE S.A.,16,2026-10-05T23:44:01.078Z,2026-10-13T04:21:44.650Z
+socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,892,2936,42.7,51,702,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,21,2025-09-05T20:06:27.862Z,2026-10-14T04:31:32.974Z

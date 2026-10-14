@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.100.60.249,80,http://176.100.60.249:80,transparent,false,4775,4349.5,16.7,14.6,274,176.100.60.249,1,ua,Donetsk,Afiny,Europe/Kyiv,57460,PE Scherban Evgeniy Aleksandrovich,14,2025-12-07T04:42:47.085Z,2026-10-13T04:30:23.116Z
+http,95.67.121.206,45554,http://95.67.121.206:45554,transparent,true,994,1457.5,27.5,35,497,95.67.121.206,1,ua,Kyiv City,Kyiv,Europe/Kyiv,34867,Cosmonova LLC,6,2025-09-10T08:57:11.759Z,2026-10-14T04:27:59.753Z
+http,176.105.212.219,8080,http://176.105.212.219:8080,transparent,false,2995,3621,18.5,16.6,223,91.195.2.84,1,ua,Poltava,Poltava,Europe/Kyiv,49817,F-COM LLC,22,2025-09-05T20:06:37.098Z,2026-10-14T04:31:53.390Z
+http,188.190.177.47,8989,http://188.190.177.47:8989,transparent,true,7707,4669.5,27.6,14.1,192,188.190.177.47,1,ua,Khmelnytskyi,Khmelnytskyi,Europe/Kyiv,28773,Global Technologies of Ukraine LLC,23,2026-05-05T15:52:16.757Z,2026-10-14T04:33:00.327Z
+http,85.159.2.31,58080,http://85.159.2.31:58080,transparent,false,7913,3820,22.7,13.1,153,85.159.2.31,1,ua,Kyiv City,Kyiv,Europe/Kyiv,31520,Datagroup Retail,11,2026-05-11T03:03:10.653Z,2026-10-14T04:27:20.252Z

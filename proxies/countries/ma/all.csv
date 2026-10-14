@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.75.120.240,2080,http://196.75.120.240:2080,transparent,true,2083,4123.5,100,,1,196.75.230.193,1,ma,Rabat-Salé-Kénitra,Salé,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,16,2026-10-01T20:52:08.963Z,2026-10-13T04:25:59.069Z

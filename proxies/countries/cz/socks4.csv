@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,3937,1009.5,82.1,79.4,913,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-13T04:26:59.700Z
-socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,false,1298,1038,69.6,66.7,780,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-13T04:28:41.573Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,false,3723,1883,78.4,70.9,801,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-14T04:30:15.282Z

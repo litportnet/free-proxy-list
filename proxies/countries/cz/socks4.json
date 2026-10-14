@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "109.69.211.18",
-    "port": 1080,
-    "url": "socks4://109.69.211.18:1080",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3937,
-    "latency_median_ms": 1009.5,
-    "uptime_24h": 82.1,
-    "uptime_7d": 79.4,
-    "checks_7d": 913,
-    "exit_ip": "109.69.211.18",
-    "exit_shared": 1,
-    "country": "cz",
-    "region": "Olomouc Region",
-    "city": "Bochoř",
-    "timezone": "Europe/Prague",
-    "asn": 196815,
-    "asn_org": "LAN servis s.r.o.",
-    "sources_count": 19,
-    "first_seen": "2026-07-05T16:50:36.728Z",
-    "last_checked": "2026-10-13T04:26:59.700Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "217.197.151.182",
     "port": 5678,
     "url": "socks4://217.197.151.182:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1298,
-    "latency_median_ms": 1038,
-    "uptime_24h": 69.6,
-    "uptime_7d": 66.7,
-    "checks_7d": 780,
+    "latency_ms": 3723,
+    "latency_median_ms": 1883,
+    "uptime_24h": 78.4,
+    "uptime_7d": 70.9,
+    "checks_7d": 801,
     "exit_ip": "217.197.151.182",
     "exit_shared": 1,
     "country": "cz",
@@ -45,6 +21,6 @@
     "asn_org": "ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:02.661Z",
-    "last_checked": "2026-10-13T04:28:41.573Z"
+    "last_checked": "2026-10-14T04:30:15.282Z"
   }
 ]

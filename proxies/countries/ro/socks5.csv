@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,1199,813.5,56.8,54.3,744,45.128.116.2,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,51177,TIPZOR MEDIA SRL,18,2026-07-31T19:22:14.557Z,2026-10-13T04:30:09.353Z

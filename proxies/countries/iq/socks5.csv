@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,130.193.165.54,1080,socks5://130.193.165.54:1080,elite,false,1223,1228,49.4,52,502,130.193.165.54,1,iq,Erbil,Erbil,Asia/Baghdad,21277,Allay Nawroz Telecom Company for Communication/Ltd.,15,2026-10-09T13:29:04.342Z,2026-10-14T04:33:01.942Z
+socks5,130.255.94.32,5080,socks5://130.255.94.32:5080,elite,false,1155,2400.5,57,46.8,513,130.255.94.32,1,iq,Duhok,Zaxo,Asia/Baghdad,197882,Tarin General Trading and Setting Up Internet Device LTD,20,2026-08-25T00:49:11.335Z,2026-10-14T04:27:32.512Z

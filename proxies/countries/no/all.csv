@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,34.124.190.108,8080,socks4://34.124.190.108:8080,elite,true,8809,8164.5,30.7,41.1,577,185.243.218.233,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,22,2025-09-10T19:34:04.862Z,2026-10-13T04:29:21.239Z
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,836,2208.5,80.7,75.9,794,31.169.53.38,1,no,Oslo,Oslo,Europe/Oslo,50304,Blix Solutions AS,19,2026-09-20T17:57:13.183Z,2026-10-14T04:24:36.869Z
+http,54.255.249.161,7496,http://54.255.249.161:7496,unknown,true,1332,2431.5,25,9.1,88,54.255.249.161,1,no,Oslo,Oslo,Europe/Oslo,62248,MODIRUM MDPAY OU,7,2026-10-03T07:10:07.715Z,2026-10-14T04:27:37.846Z

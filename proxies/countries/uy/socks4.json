@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "200.125.40.38",
+    "port": 5678,
+    "url": "socks4://200.125.40.38:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8094,
+    "latency_median_ms": 2043,
+    "uptime_24h": 64.1,
+    "uptime_7d": 66.5,
+    "checks_7d": 857,
+    "exit_ip": "200.125.40.38",
+    "exit_shared": 1,
+    "country": "uy",
+    "region": "Montevideo Department",
+    "city": "Montevideo",
+    "timezone": "America/Montevideo",
+    "asn": 6057,
+    "asn_org": "Administracion Nacional de Telecomunicaciones",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:00.001Z",
+    "last_checked": "2026-10-14T04:29:47.499Z"
+  }
+]

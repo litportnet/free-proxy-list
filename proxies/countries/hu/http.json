@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "91.82.115.159",
+    "port": 8080,
+    "url": "http://91.82.115.159:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 9067,
+    "latency_median_ms": 2903,
+    "uptime_24h": 28.1,
+    "uptime_7d": 25.8,
+    "checks_7d": 271,
+    "exit_ip": "91.82.115.159",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Csongrád",
+    "city": "Makó",
+    "timezone": "Europe/Budapest",
+    "asn": 12301,
+    "asn_org": "Invitech",
+    "sources_count": 11,
+    "first_seen": "2025-12-11T16:40:58.523Z",
+    "last_checked": "2026-10-14T04:22:14.876Z"
+  }
+]

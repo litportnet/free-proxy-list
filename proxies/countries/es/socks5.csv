@@ -1,7 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.81.154.75,1080,socks5://45.81.154.75:1080,elite,true,1114,823,70.8,74,831,45.81.154.75,2,es,Madrid,Móstoles,Europe/Madrid,400992,ZhouyiSat Communications,15,2026-09-26T08:49:07.751Z,2026-10-13T04:28:44.190Z
-socks5,45.74.31.47,10159,socks5://45.74.31.47:10159,elite,false,2546,2510,50,44.2,190,188.164.194.190,3,es,Valencia,Valencia,Europe/Madrid,50926,"AXARNET COMUNICACIONES, S.L.",3,2026-10-10T04:36:57.105Z,2026-10-13T04:27:56.303Z
-socks5,45.74.31.42,5485,socks5://45.74.31.42:5485,elite,true,1475,2505,43.8,43.4,83,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,7,2026-09-25T14:39:37.614Z,2026-10-13T04:29:39.207Z
-socks5,45.74.31.42,11424,socks5://45.74.31.42:11424,elite,true,3591,4587.5,27.8,14.5,152,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,14,2026-09-10T23:55:20.796Z,2026-10-13T04:24:25.923Z
-socks5,45.74.31.42,5131,socks5://45.74.31.42:5131,elite,true,2526,4025,24.4,11,100,188.164.194.190,3,es,Valencia,Valencia,Europe/Madrid,50926,"AXARNET COMUNICACIONES, S.L.",15,2026-09-12T13:14:21.602Z,2026-10-13T04:28:39.992Z
-socks5,45.74.31.42,5098,socks5://45.74.31.42:5098,elite,false,3157,3966,8.7,2.6,78,188.164.194.190,3,es,Valencia,Valencia,Europe/Madrid,50926,"AXARNET COMUNICACIONES, S.L.",18,2026-09-09T02:47:29.824Z,2026-10-13T04:26:05.425Z
+socks5,45.74.31.42,9565,socks5://45.74.31.42:9565,elite,false,2684,3284,33.9,44.2,217,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,12,2026-09-02T16:41:04.782Z,2026-10-14T04:28:08.238Z
+socks5,45.74.31.46,6417,socks5://45.74.31.46:6417,elite,false,4606,3397.5,30,28.3,53,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,13,2026-10-12T05:02:25.712Z,2026-10-14T04:28:15.168Z

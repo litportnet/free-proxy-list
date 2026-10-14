@@ -6,11 +6,11 @@
     "url": "socks4://177.91.255.35:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 7735,
-    "latency_median_ms": 1577.5,
-    "uptime_24h": 63,
-    "uptime_7d": 56.3,
-    "checks_7d": 780,
+    "latency_ms": 1582,
+    "latency_median_ms": 1095.5,
+    "uptime_24h": 57.1,
+    "uptime_7d": 58.8,
+    "checks_7d": 776,
     "exit_ip": "177.91.255.35",
     "exit_shared": 1,
     "country": "pe",
@@ -21,7 +21,7 @@
     "asn_org": "EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA",
     "sources_count": 21,
     "first_seen": "2025-09-05T20:06:33.454Z",
-    "last_checked": "2026-10-13T04:27:59.448Z"
+    "last_checked": "2026-10-14T04:32:37.268Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 37209,
     "url": "socks4://190.12.95.170:37209",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 845,
-    "latency_median_ms": 861.5,
-    "uptime_24h": 57.4,
-    "uptime_7d": 50.7,
-    "checks_7d": 649,
+    "https": true,
+    "latency_ms": 3600,
+    "latency_median_ms": 2653,
+    "uptime_24h": 58.2,
+    "uptime_7d": 51.7,
+    "checks_7d": 632,
     "exit_ip": "190.12.95.170",
     "exit_shared": 1,
     "country": "pe",
@@ -45,6 +45,6 @@
     "asn_org": "ON EMPRESAS S.A.C.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:14.401Z",
-    "last_checked": "2026-10-13T04:26:57.079Z"
+    "last_checked": "2026-10-14T04:24:14.490Z"
   }
 ]

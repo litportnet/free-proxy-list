@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.13.182.212,8080,socks5://195.13.182.212:8080,elite,true,3981,3602,88.6,90,657,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-07T11:02:35.041Z,2026-10-13T04:23:22.711Z
-socks5,195.13.182.212,8888,socks5://195.13.182.212:8888,elite,true,2114,2688,81.6,88.7,733,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-06T20:55:05.468Z,2026-10-13T04:30:15.725Z
+socks5,195.13.182.212,8080,socks5://195.13.182.212:8080,elite,true,1090,2810.5,97.1,91.2,795,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-07T11:02:35.041Z,2026-10-14T04:27:05.340Z
+socks5,195.13.182.212,8888,socks5://195.13.182.212:8888,elite,true,2847,3340,94.9,89.3,824,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,15,2026-10-06T20:55:05.468Z,2026-10-14T04:28:11.437Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,true,1533,1890,65.3,62.9,652,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-07T11:02:35.488Z,2026-10-14T04:26:20.475Z
+socks5,212.3.206.215,10800,socks5://212.3.206.215:10800,elite,false,2499,3458.5,45.8,42.7,747,212.3.206.215,1,lv,Riga,Riga,Europe/Riga,24921,Latvijas Mobilais Telefons SIA,15,2026-09-29T12:28:59.410Z,2026-10-14T04:32:11.548Z
+socks5,5.75.133.113,10801,socks5://5.75.133.113:10801,elite,true,2295,3301,45.7,41.5,591,84.38.135.9,1,lv,Riga,Riga,Europe/Riga,52048,SIA RixHost,19,2026-08-26T01:01:55.581Z,2026-10-14T04:30:31.331Z
+socks5,159.194.253.45,1080,socks5://159.194.253.45:1080,elite,true,981,1110.5,80,,5,185.161.69.93,1,lv,Riga,Riga,Europe/Riga,41745,Baykov Ilya Sergeevich,6,2026-10-14T03:26:52.897Z,2026-10-14T04:27:38.907Z

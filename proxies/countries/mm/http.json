@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "37.111.51.146",
+    "port": 8080,
+    "url": "http://37.111.51.146:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2792,
+    "latency_median_ms": 2218,
+    "uptime_24h": 59.1,
+    "uptime_7d": 41.8,
+    "checks_7d": 618,
+    "exit_ip": "37.111.51.146",
+    "exit_shared": 1,
+    "country": "mm",
+    "region": "Shan State",
+    "city": "Nawnghkio",
+    "timezone": "Asia/Yangon",
+    "asn": 133385,
+    "asn_org": "Atom Myanmar Limited",
+    "sources_count": 9,
+    "first_seen": "2025-11-23T20:53:12.983Z",
+    "last_checked": "2026-10-14T04:23:14.956Z"
+  }
+]

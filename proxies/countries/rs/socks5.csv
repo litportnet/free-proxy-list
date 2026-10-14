@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,2678,4221.5,45.1,48.1,588,37.120.193.138,1,rs,Central Serbia,Belgrade,Europe/Belgrade,9009,M247 Europe SRL,19,2026-09-16T03:18:05.440Z,2026-10-13T04:23:42.371Z
+socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,false,2479,4913.5,75.5,67.5,455,185.72.11.71,1,rs,Central Serbia,Belgrade,Europe/Belgrade,205007,Maxim Azarov trading as eServer,14,2026-10-10T06:38:00.990Z,2026-10-14T04:24:20.368Z

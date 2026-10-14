@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,175.100.103.170,1256,http://175.100.103.170:1256,elite,false,1334,3601,33.3,26.2,363,175.100.103.170,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,26,2026-08-12T05:49:52.856Z,2026-10-13T04:24:34.913Z
+http,36.37.251.137,8080,http://36.37.251.137:8080,transparent,false,2162,4254,20.8,14.1,276,36.37.251.137,1,kh,Siem Reap,Siem Reap,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,25,2025-10-05T21:24:49.003Z,2026-10-14T04:30:47.407Z

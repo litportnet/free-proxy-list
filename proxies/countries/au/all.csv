@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,1989,2733.5,83.1,79.4,762,91.190.106.232,1,au,Victoria,Melbourne,Australia/Melbourne,136557,Host Universal Pty Ltd,18,2026-09-20T18:57:39.355Z,2026-10-13T04:25:07.893Z
-socks5,45.74.31.41,5891,socks5://45.74.31.41:5891,elite,true,2649,3043,61.5,61.5,91,43.250.141.107,1,au,New South Wales,Sydney,Australia/Sydney,45638,SYNERGY WHOLESALE PTY LTD,1,2026-10-12T05:02:25.712Z,2026-10-13T04:28:18.248Z
-http,51.161.131.235,8080,http://51.161.131.235:8080,elite,false,1194,1302,64.9,38.6,422,51.161.131.235,1,au,New South Wales,Sydney,Australia/Sydney,16276,OVH SAS,4,2025-11-09T09:42:56.998Z,2026-10-13T04:27:44.651Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,3639,2748.5,76.4,73.5,756,103.216.220.28,1,au,Queensland,Brisbane,Australia/Brisbane,136557,Host Universal Pty Ltd,17,2026-09-21T21:11:29.587Z,2026-10-14T04:28:52.124Z
+http,51.161.131.235,8080,http://51.161.131.235:8080,elite,false,914,840,71,48.3,462,51.161.131.235,1,au,New South Wales,Sydney,Australia/Sydney,16276,OVH SAS,4,2025-11-09T09:42:56.998Z,2026-10-14T04:27:09.609Z
+socks4,111.235.128.218,60606,socks4://111.235.128.218:60606,elite,false,2235,2223.5,50.6,47.6,780,111.235.128.218,1,au,Tasmania,Burnie,Australia/Hobart,134181,Burnie City Council,9,2026-04-14T04:25:18.761Z,2026-10-14T04:22:09.594Z

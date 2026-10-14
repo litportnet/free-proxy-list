@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,147.91.22.150,80,http://147.91.22.150:80,elite,false,591,577,91.9,76.8,911,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,12,2025-09-10T19:34:49.515Z,2026-10-13T04:25:35.109Z
-http,139.28.222.236,1080,http://139.28.222.236:1080,elite,true,957,1058,45.7,,35,185.72.11.71,1,rs,Central Serbia,Belgrade,Europe/Belgrade,205007,Maxim Azarov trading as eServer,7,2026-10-12T19:09:50.944Z,2026-10-13T04:25:07.373Z
+http,147.91.22.150,80,http://147.91.22.150:80,elite,false,587,594.5,90,77.1,907,147.91.22.150,1,rs,Vojvodina,Pančevo,Europe/Belgrade,13092,Akademska mreza Republike Srbije - AMRES,12,2025-09-10T19:34:49.515Z,2026-10-14T04:24:29.381Z

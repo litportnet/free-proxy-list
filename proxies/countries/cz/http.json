@@ -6,11 +6,11 @@
     "url": "http://85.239.156.66:5555",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1502,
-    "latency_median_ms": 1504,
-    "uptime_24h": 45.2,
-    "uptime_7d": 50.4,
-    "checks_7d": 791,
+    "latency_ms": 7736,
+    "latency_median_ms": 2521,
+    "uptime_24h": 67.9,
+    "uptime_7d": 52.1,
+    "checks_7d": 783,
     "exit_ip": "85.239.156.66",
     "exit_shared": 1,
     "country": "cz",
@@ -21,6 +21,6 @@
     "asn_org": "Ondrej Vrana",
     "sources_count": 14,
     "first_seen": "2026-10-05T14:39:12.971Z",
-    "last_checked": "2026-10-13T04:22:51.288Z"
+    "last_checked": "2026-10-14T04:27:06.405Z"
   }
 ]

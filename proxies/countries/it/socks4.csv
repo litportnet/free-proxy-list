@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,true,3829,1566.5,58.5,48.2,463,91.192.25.37,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-10-14T04:30:20.608Z

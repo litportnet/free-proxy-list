@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.55.126.184,8080,http://93.55.126.184:8080,transparent,true,4970,4208.5,20.3,21,329,93.55.126.170,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,21,2026-07-10T19:57:15.202Z,2026-10-13T04:29:41.853Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,479,502.5,87.9,79.1,837,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-14T04:24:03.367Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,540,561.5,69.6,69.6,464,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,9,2025-10-16T01:51:36.355Z,2026-10-14T04:25:51.275Z
+http,185.191.106.0,8081,http://185.191.106.0:8081,transparent,true,1555,4382,31.9,24.2,363,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-10-14T04:28:47.278Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,transparent,true,1757,3531.5,26.9,21.7,406,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-10-14T04:25:31.546Z
+http,85.208.200.185,8081,http://85.208.200.185:8081,transparent,false,3653,3843,25.9,15.4,136,195.36.26.60,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,23,2025-09-05T00:23:14.484Z,2026-10-14T04:26:59.469Z

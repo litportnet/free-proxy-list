@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "31.15.169.77",
+    "port": 808,
+    "url": "http://31.15.169.77:808",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8328,
+    "latency_median_ms": 4303,
+    "uptime_24h": 23.5,
+    "uptime_7d": 13,
+    "checks_7d": 239,
+    "exit_ip": "31.15.169.77",
+    "exit_shared": 1,
+    "country": "si",
+    "region": "Ljubljana",
+    "city": "Ljubljana",
+    "timezone": "Europe/Ljubljana",
+    "asn": 3212,
+    "asn_org": "Telemach Slovenija d.o.o.",
+    "sources_count": 23,
+    "first_seen": "2025-09-10T12:59:34.618Z",
+    "last_checked": "2026-10-14T04:31:09.309Z"
+  }
+]

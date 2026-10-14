@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,31.192.108.231,10808,socks4://31.192.108.231:10808,elite,true,1168,3239,98.3,98.3,58,178.170.116.166,3,fr,Grand Est,Reims,Europe/Paris,21409,Ikoula Net SAS,9,2026-09-29T10:28:10.835Z,2026-10-14T04:28:32.301Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,567,595.5,70.6,60.3,754,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-14T04:28:56.888Z

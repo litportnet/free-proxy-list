@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "181.79.178.109",
+    "port": 8080,
+    "url": "http://181.79.178.109:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3492,
+    "latency_median_ms": 3683.5,
+    "uptime_24h": 54.4,
+    "uptime_7d": 32.5,
+    "checks_7d": 206,
+    "exit_ip": "181.79.178.109",
+    "exit_shared": 1,
+    "country": "sv",
+    "region": "San Salvador Department",
+    "city": "San Salvador",
+    "timezone": "America/El_Salvador",
+    "asn": 52468,
+    "asn_org": "UFINET PANAMA S.A.",
+    "sources_count": 20,
+    "first_seen": "2026-10-08T03:11:00.556Z",
+    "last_checked": "2026-10-14T04:31:09.303Z"
+  }
+]

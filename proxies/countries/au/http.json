@@ -6,11 +6,11 @@
     "url": "http://51.161.131.235:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1194,
-    "latency_median_ms": 1302,
-    "uptime_24h": 64.9,
-    "uptime_7d": 38.6,
-    "checks_7d": 422,
+    "latency_ms": 914,
+    "latency_median_ms": 840,
+    "uptime_24h": 71,
+    "uptime_7d": 48.3,
+    "checks_7d": 462,
     "exit_ip": "51.161.131.235",
     "exit_shared": 1,
     "country": "au",
@@ -21,6 +21,6 @@
     "asn_org": "OVH SAS",
     "sources_count": 4,
     "first_seen": "2025-11-09T09:42:56.998Z",
-    "last_checked": "2026-10-13T04:27:44.651Z"
+    "last_checked": "2026-10-14T04:27:09.609Z"
   }
 ]

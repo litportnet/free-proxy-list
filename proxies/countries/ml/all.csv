@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,6617,socks5://45.74.31.47:6617,elite,true,1010,1666.5,48.5,48.5,66,197.155.134.251,2,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,1,2026-10-12T05:02:25.712Z,2026-10-13T04:24:10.462Z
-socks5,45.74.31.40,4710,socks5://45.74.31.40:4710,elite,false,5940,4110,37,30.7,127,197.155.134.251,2,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,11,2026-10-10T01:35:22.654Z,2026-10-13T04:30:55.792Z
-socks5,45.74.31.47,12628,socks5://45.74.31.47:12628,elite,true,1031,2234.5,61.5,,26,217.64.102.75,1,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),1,2026-10-12T21:10:54.090Z,2026-10-13T04:21:06.492Z

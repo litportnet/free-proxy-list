@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.40,12788,socks5://45.74.31.40:12788,elite,true,2160,2160,55.6,,9,85.208.254.229,2,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,4,2026-10-13T02:13:32.577Z,2026-10-13T04:25:26.062Z
-socks5,45.74.31.40,15945,socks5://45.74.31.40:15945,elite,false,3621,4629.5,45.8,,24,85.208.254.229,2,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,9,2026-10-12T21:10:54.090Z,2026-10-13T04:23:40.265Z
+socks5,45.74.31.40,11036,socks5://45.74.31.40:11036,elite,true,6549,3906,27.3,25,60,85.208.254.229,2,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,10,2026-10-10T13:41:43.308Z,2026-10-14T04:27:41.031Z
+socks5,45.74.31.40,12923,socks5://45.74.31.40:12923,elite,true,3104,3653.5,23.1,16.5,79,85.208.254.229,2,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,13,2026-10-10T11:40:39.825Z,2026-10-14T04:26:22.088Z
+socks5,87.107.68.231,1081,socks5://87.107.68.231:1081,elite,false,9237,3578,25.5,12.8,187,87.107.68.231,2,ir,Tehran,Tehran,Asia/Tehran,21341,Soroush Rasanheh Company Ltd,21,2026-07-14T16:43:30.275Z,2026-10-14T04:27:30.889Z

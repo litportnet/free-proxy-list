@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "90.146.196.18",
+    "port": 8080,
+    "url": "http://90.146.196.18:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8477,
+    "latency_median_ms": 2143,
+    "uptime_24h": 27.8,
+    "uptime_7d": 25.7,
+    "checks_7d": 404,
+    "exit_ip": "90.146.196.18",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Upper Austria",
+    "city": "Linz",
+    "timezone": "Europe/Vienna",
+    "asn": 12605,
+    "asn_org": "LIWEST Kabelmedien GmbH",
+    "sources_count": 24,
+    "first_seen": "2026-08-30T01:54:55.486Z",
+    "last_checked": "2026-10-14T04:26:09.301Z"
+  }
+]

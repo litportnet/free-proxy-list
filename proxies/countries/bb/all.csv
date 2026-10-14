@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,63.175.157.2,30005,http://63.175.157.2:30005,elite,false,1292,1876,11.9,12.7,110,63.175.157.2,1,bb,Saint Michael,Bridgetown,America/Barbados,14813,Columbus Telecommunications (Barbados) Limited,18,2026-09-30T19:45:37.253Z,2026-10-13T04:27:53.689Z

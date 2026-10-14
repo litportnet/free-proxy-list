@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,148.113.175.17,1090,socks4://148.113.175.17:1090,elite,true,193,178.5,100,100,57,148.113.175.17,2,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,10,2026-10-12T19:09:49.877Z,2026-10-13T04:30:40.817Z
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,3412,1376.5,62,51.3,727,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-13T04:23:34.407Z
-socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,false,241,2258,19.7,17.7,459,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-10-13T04:24:50.891Z

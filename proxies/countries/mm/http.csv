@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,true,2792,2218,59.1,41.8,618,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,9,2025-11-23T20:53:12.983Z,2026-10-14T04:23:14.956Z

@@ -1,11 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,9489,4082,77.5,75.4,787,146.70.132.33,1,gb,England,Manchester,Europe/London,9009,M247 Europe SRL,19,2026-09-20T17:57:13.183Z,2026-10-13T04:24:25.898Z
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,3390,1835,73.2,72.9,760,146.70.119.104,1,gb,England,London,Europe/London,9009,M247 Europe SRL,17,2026-09-21T21:11:29.587Z,2026-10-13T04:22:11.609Z
-socks5,45.74.31.47,6809,socks5://45.74.31.47:6809,elite,false,3786,3071,67.1,67.1,79,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,3,2026-10-12T07:03:28.740Z,2026-10-13T04:23:26.420Z
-socks5,45.74.31.47,9905,socks5://45.74.31.47:9905,elite,true,854,2231,51.9,51.9,79,104.128.190.174,2,gb,England,Coventry,Europe/London,199741,TransitX BYOIP,1,2026-10-12T05:02:25.712Z,2026-10-13T04:23:16.817Z
-socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,false,7976,2104,40.3,49.8,605,188.212.154.69,1,gb,Scotland,Edinburgh,Europe/London,25369,Hydra Communications Ltd,18,2026-09-16T03:18:14.821Z,2026-10-13T04:22:46.002Z
-socks5,49.13.22.249,10809,socks5://49.13.22.249:10809,elite,false,1160,1270.5,37.4,30.7,551,79.127.146.25,1,gb,England,London,Europe/London,212238,Datacamp Limited,19,2026-08-25T02:51:25.845Z,2026-10-13T04:22:05.269Z
-socks5,45.74.31.47,12750,socks5://45.74.31.47:12750,elite,true,4484,2773,21.4,30.3,76,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,10,2026-10-11T19:57:38.072Z,2026-10-13T04:22:59.244Z
-socks5,45.74.31.47,7807,socks5://45.74.31.47:7807,elite,true,1223,2648.5,34,16.4,104,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,7,2026-09-26T16:53:25.075Z,2026-10-13T04:25:28.182Z
-socks5,45.74.31.46,4409,socks5://45.74.31.46:4409,elite,false,699,5033.5,26.7,15.3,111,104.128.190.174,2,gb,England,Coventry,Europe/London,199741,TransitX BYOIP,12,2026-10-02T04:56:15.859Z,2026-10-13T04:23:45.010Z
-socks5,45.74.31.47,14051,socks5://45.74.31.47:14051,elite,true,5116,2420,22,,41,209.42.18.223,4,gb,England,London,Europe/London,51713,WHG Hosting Services Ltd,6,2026-10-12T05:02:25.712Z,2026-10-13T04:24:22.188Z
+socks5,45.74.31.47,16095,socks5://45.74.31.47:16095,elite,true,1173,830,29.3,,43,91.204.209.37,1,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,2,2026-10-12T05:02:25.712Z,2026-10-14T04:29:45.336Z

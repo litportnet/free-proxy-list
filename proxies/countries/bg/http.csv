@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,82.137.90.253,80,http://82.137.90.253:80,elite,false,7967,7357,23.5,23,331,82.137.90.253,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,10,2025-09-08T11:37:06.818Z,2026-10-13T04:28:11.804Z
+http,82.137.90.192,80,http://82.137.90.192:80,elite,false,1759,3701,45.5,30.1,429,82.137.90.192,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,5,2025-09-09T02:11:19.746Z,2026-10-14T04:28:55.281Z
+http,213.169.52.101,8185,http://213.169.52.101:8185,transparent,true,1278,2865,36.6,27.9,437,213.169.52.101,1,bg,Shumen,Veliki Preslav,Europe/Sofia,42086,RO&NI EOOD,13,2026-06-05T02:25:33.384Z,2026-10-14T04:28:51.576Z
+http,78.142.61.75,3128,http://78.142.61.75:3128,elite,false,9954,7229,28.1,15,194,78.142.61.75,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200628,BGO Cloud OOD,21,2026-09-04T18:52:11.715Z,2026-10-14T04:30:49.038Z

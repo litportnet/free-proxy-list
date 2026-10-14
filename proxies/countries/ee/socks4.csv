@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,176.192.207.249,1080,socks4://176.192.207.249:1080,elite,true,4082,7024,72.1,71.5,123,31.77.254.4,1,ee,Harjumaa,Tallinn,Europe/Tallinn,207083,HOSTSLIM OU,10,2026-10-12T02:00:49.733Z,2026-10-13T04:30:33.853Z
+socks4,146.19.143.200,1080,socks4://146.19.143.200:1080,elite,true,683,707,69.6,54.6,438,146.19.143.200,2,ee,Harjumaa,Tallinn,Europe/Tallinn,62005,BlueVPS OU,20,2026-09-09T02:45:26.049Z,2026-10-14T04:30:28.126Z

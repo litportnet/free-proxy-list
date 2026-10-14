@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "181.78.186.3",
+    "port": 999,
+    "url": "http://181.78.186.3:999",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2970,
+    "latency_median_ms": 769,
+    "uptime_24h": 39.4,
+    "uptime_7d": 28.9,
+    "checks_7d": 447,
+    "exit_ip": "181.78.186.3",
+    "exit_shared": 1,
+    "country": "pa",
+    "region": "Panamá",
+    "city": "Panama City",
+    "timezone": "America/Panama",
+    "asn": 52468,
+    "asn_org": "UFINET PANAMA S.A.",
+    "sources_count": 19,
+    "first_seen": "2026-10-03T07:10:03.162Z",
+    "last_checked": "2026-10-14T04:30:21.141Z"
+  }
+]

@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,965,988.5,79.5,76.7,915,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-13T04:22:43.866Z
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1846,909,67,57.4,746,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-13T04:29:05.973Z
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,895,908.5,47.3,54.2,742,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-13T04:26:39.001Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,915,916.5,71.6,60.1,755,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-14T04:32:36.721Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,true,992,3651,61.1,53.7,786,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-14T04:31:02.888Z
+http,45.222.101.111,8080,http://45.222.101.111:8080,transparent,false,2911,3775,28.3,23,361,102.221.238.237,1,ng,Lagos,Ikeja,Africa/Lagos,328722,Ciudad Infrastructure Limited,18,2026-07-18T16:34:52.683Z,2026-10-14T04:24:26.225Z

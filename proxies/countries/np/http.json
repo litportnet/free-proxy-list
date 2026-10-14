@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "110.34.13.4",
+    "port": 8080,
+    "url": "http://110.34.13.4:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4375,
+    "latency_median_ms": 3717.5,
+    "uptime_24h": 27.5,
+    "uptime_7d": 13.5,
+    "checks_7d": 171,
+    "exit_ip": "110.34.13.4",
+    "exit_shared": 1,
+    "country": "np",
+    "region": "Koshi",
+    "city": "Dharān",
+    "timezone": "Asia/Kathmandu",
+    "asn": 4007,
+    "asn_org": "Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",
+    "sources_count": 13,
+    "first_seen": "2025-09-08T12:19:31.672Z",
+    "last_checked": "2026-10-14T04:26:04.002Z"
+  }
+]

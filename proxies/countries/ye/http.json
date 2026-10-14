@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "209.198.150.223",
+    "port": 8085,
+    "url": "http://209.198.150.223:8085",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4382,
+    "latency_median_ms": 4693,
+    "uptime_24h": 38.6,
+    "uptime_7d": 33.4,
+    "checks_7d": 610,
+    "exit_ip": "209.198.150.223",
+    "exit_shared": 1,
+    "country": "ye",
+    "region": "Aden",
+    "city": "Aden",
+    "timezone": "Asia/Aden",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 18,
+    "first_seen": "2026-10-02T16:02:05.410Z",
+    "last_checked": "2026-10-14T04:32:23.436Z"
+  }
+]

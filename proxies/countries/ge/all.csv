@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,3862,1355,66.7,51.3,716,85.117.32.166,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-10-13T04:25:01.073Z
+http,85.117.56.147,8080,http://85.117.56.147:8080,transparent,true,5359,3873,20,13.5,193,85.117.56.147,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,11,2025-09-11T01:41:01.796Z,2026-10-14T04:30:14.747Z
+http,85.117.56.115,8080,http://85.117.56.115:8080,transparent,false,2386,2733.5,17.8,13.2,197,85.117.56.115,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2025-10-22T21:47:30.754Z,2026-10-14T04:31:06.083Z
+http,85.117.61.74,8080,http://85.117.61.74:8080,transparent,false,6158,5854,13.3,9.9,212,85.117.61.74,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,15,2025-09-05T20:06:33.424Z,2026-10-14T04:25:49.661Z
+http,45.143.108.10,8080,http://45.143.108.10:8080,transparent,false,2563,4243,13.3,6.1,82,45.143.109.99,1,ge,Imereti,Zestaponi,Asia/Tbilisi,208320,AIRMAX LLC,17,2025-09-13T04:01:21.191Z,2026-10-14T04:22:53.595Z
