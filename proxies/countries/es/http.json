@@ -6,11 +6,11 @@
     "url": "http://195.114.209.50:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 460,
+    "latency_ms": 463,
     "latency_median_ms": 456,
     "uptime_24h": 100,
-    "uptime_7d": 97.2,
-    "checks_7d": 987,
+    "uptime_7d": 98.7,
+    "checks_7d": 1002,
     "exit_ip": "195.114.209.50",
     "exit_shared": 1,
     "country": "es",
@@ -21,7 +21,7 @@
     "asn_org": "GIGAS HOSTING S.A.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:33.237Z",
-    "last_checked": "2026-10-14T04:32:59.256Z"
+    "last_checked": "2026-10-15T04:28:31.929Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://185.226.195.251:2222",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 3300,
-    "latency_median_ms": 3470.5,
-    "uptime_24h": 44.4,
-    "uptime_7d": 22.7,
-    "checks_7d": 256,
+    "latency_ms": 8518,
+    "latency_median_ms": 4522,
+    "uptime_24h": 22.5,
+    "uptime_7d": 19,
+    "checks_7d": 232,
     "exit_ip": "185.226.195.251",
     "exit_shared": 1,
     "country": "es",
@@ -45,6 +45,6 @@
     "asn_org": "PINKBEAR SLU",
     "sources_count": 20,
     "first_seen": "2026-10-07T15:04:54.995Z",
-    "last_checked": "2026-10-14T04:26:07.191Z"
+    "last_checked": "2026-10-15T04:26:03.876Z"
   }
 ]

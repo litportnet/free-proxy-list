@@ -1,6 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,195.13.182.212,8080,socks4://195.13.182.212:8080,elite,true,2675,1757.5,94.8,92.9,805,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T10:02:02.238Z,2026-10-14T04:25:51.810Z
-socks4,195.13.182.212,8888,socks4://195.13.182.212:8888,elite,true,1559,957,95.6,90.4,830,195.13.182.212,4,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-06T20:55:05.087Z,2026-10-14T04:29:47.502Z
-socks4,195.13.169.219,4153,socks4://195.13.169.219:4153,elite,true,809,813.5,67.3,57.3,736,195.13.169.219,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-04T14:26:30.766Z,2026-10-14T04:23:28.827Z
-socks4,195.13.182.211,8080,socks4://195.13.182.211:8080,elite,false,1181,2956.5,50,40.6,404,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,10,2026-10-07T10:02:02.238Z,2026-10-14T04:31:08.249Z
-socks4,159.148.146.65,5678,socks4://159.148.146.65:5678,elite,true,705,746.5,56.8,28.9,520,159.148.146.65,1,lv,Riga,Riga,Europe/Riga,2588,SIA BITE Latvija,22,2025-09-04T23:49:06.204Z,2026-10-14T04:29:48.571Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.143.29.161,1080,socks4://83.143.29.161:1080,elite,false,2301,1354.5,18.2,28.6,592,83.143.24.66,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,14,2025-09-04T23:49:08.242Z,2026-10-14T04:24:52.296Z
+socks4,83.143.24.29,5678,socks4://83.143.24.29:5678,elite,false,4351,4282.5,30.9,32.8,568,83.143.24.29,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,14,2025-09-04T23:48:58.196Z,2026-10-15T04:22:54.366Z

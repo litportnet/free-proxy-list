@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.242.58.9,8080,http://84.242.58.9:8080,transparent,true,5348,3049.5,26.7,18.7,225,84.242.58.9,1,ps,West Bank,Tarqūmyā,Asia/Hebron,51407,Mada Al-Arab General Services Company,23,2025-09-10T11:58:30.597Z,2026-10-14T04:28:55.263Z
-http,213.6.249.37,19000,http://213.6.249.37:19000,transparent,false,3857,3790.5,36,14.3,147,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,11,2026-05-27T03:23:13.655Z,2026-10-14T04:30:27.070Z
+http,213.6.240.211,19000,http://213.6.240.211:19000,transparent,false,4229,5257.5,23.9,16.1,305,213.6.240.211,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,24,2026-08-27T15:23:44.016Z,2026-10-15T04:24:07.547Z

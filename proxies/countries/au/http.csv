@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,51.161.131.235,8080,http://51.161.131.235:8080,elite,false,914,840,71,48.3,462,51.161.131.235,1,au,New South Wales,Sydney,Australia/Sydney,16276,OVH SAS,4,2025-11-09T09:42:56.998Z,2026-10-14T04:27:09.609Z

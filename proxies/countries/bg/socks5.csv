@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.46,5271,socks5://45.74.31.46:5271,elite,false,5712,5845.5,32.6,28,132,217.174.152.149,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,13,2026-10-10T04:36:57.105Z,2026-10-14T04:28:08.792Z
+socks5,45.74.31.42,25351,socks5://45.74.31.42:25351,elite,true,9472,5262,22.2,38.8,80,101.99.94.106,2,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,9,2026-10-12T21:10:54.090Z,2026-10-15T04:28:53.252Z
+socks5,45.74.31.46,5604,socks5://45.74.31.46:5604,elite,true,3471,3263,10,36.3,397,101.99.94.106,2,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,14,2026-10-02T04:56:15.859Z,2026-10-15T04:26:27.353Z

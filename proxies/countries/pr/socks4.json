@@ -6,11 +6,11 @@
     "url": "socks4://154.64.219.4:5555",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 378,
-    "latency_median_ms": 2338.5,
-    "uptime_24h": 49.4,
-    "uptime_7d": 41.3,
-    "checks_7d": 581,
+    "latency_ms": 303,
+    "latency_median_ms": 2333.5,
+    "uptime_24h": 47.1,
+    "uptime_7d": 40.6,
+    "checks_7d": 547,
     "exit_ip": "38.107.90.30",
     "exit_shared": 1,
     "country": "pr",
@@ -21,6 +21,6 @@
     "asn_org": "OSNET",
     "sources_count": 20,
     "first_seen": "2026-07-27T03:22:34.437Z",
-    "last_checked": "2026-10-14T04:22:41.368Z"
+    "last_checked": "2026-10-15T04:22:09.353Z"
   }
 ]

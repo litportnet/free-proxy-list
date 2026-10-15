@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,836,2208.5,80.7,75.9,794,31.169.53.38,1,no,Oslo,Oslo,Europe/Oslo,50304,Blix Solutions AS,19,2026-09-20T17:57:13.183Z,2026-10-14T04:24:36.869Z

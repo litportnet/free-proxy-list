@@ -6,11 +6,11 @@
     "url": "socks4://190.13.147.241:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 892,
-    "latency_median_ms": 2936,
-    "uptime_24h": 42.7,
-    "uptime_7d": 51,
-    "checks_7d": 702,
+    "latency_ms": 3918,
+    "latency_median_ms": 1454,
+    "uptime_24h": 51.5,
+    "uptime_7d": 51.5,
+    "checks_7d": 656,
     "exit_ip": "190.13.147.241",
     "exit_shared": 1,
     "country": "cl",
@@ -21,6 +21,6 @@
     "asn_org": "Telefonica del Sur S.A.",
     "sources_count": 21,
     "first_seen": "2025-09-05T20:06:27.862Z",
-    "last_checked": "2026-10-14T04:31:32.974Z"
+    "last_checked": "2026-10-15T04:25:01.054Z"
   }
 ]

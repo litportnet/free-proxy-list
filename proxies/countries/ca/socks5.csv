@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.160.245.79,10808,socks5://195.160.245.79:10808,elite,false,1317,2312.5,75.9,59.5,116,68.209.52.19,2,ca,Quebec,Montréal,America/Toronto,55286,B2 Net Solutions Inc.,11,2026-10-12T08:04:04.030Z,2026-10-14T04:28:56.885Z
-socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,false,8577,1750.5,56.5,57.9,805,144.217.107.25,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-14T04:27:04.257Z
-socks5,125.120.203.43,20001,socks5://125.120.203.43:20001,elite,true,3042,3042,100,,1,155.138.151.76,1,ca,Ontario,Toronto,America/Toronto,20473,"The Constant Company, LLC",1,2026-10-14T04:27:25.138Z,2026-10-14T04:27:25.570Z

@@ -1,7 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,460,456,100,97.2,987,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-14T04:32:59.256Z
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,1721,2746,77.3,76.2,899,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-10-14T04:30:58.581Z
-socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,true,7902,2668.5,58.1,50,794,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,9,2025-09-05T20:06:27.740Z,2026-10-14T04:26:09.294Z
-socks5,45.74.31.42,9565,socks5://45.74.31.42:9565,elite,false,2684,3284,33.9,44.2,217,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,12,2026-09-02T16:41:04.782Z,2026-10-14T04:28:08.238Z
-socks5,45.74.31.46,6417,socks5://45.74.31.46:6417,elite,false,4606,3397.5,30,28.3,53,167.17.71.189,2,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,13,2026-10-12T05:02:25.712Z,2026-10-14T04:28:15.168Z
-http,185.226.195.251,2222,http://185.226.195.251:2222,transparent,false,3300,3470.5,44.4,22.7,256,185.226.195.251,1,es,Andalusia,Dos Hermanas,Europe/Madrid,211141,PINKBEAR SLU,20,2026-10-07T15:04:54.995Z,2026-10-14T04:26:07.191Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,463,456,100,98.7,1002,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-15T04:28:31.929Z
+socks4,185.130.219.11,4153,socks4://185.130.219.11:4153,elite,false,7958,3639.5,31,38.8,577,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,12,2025-09-05T20:06:26.508Z,2026-10-15T04:29:17.795Z
+http,185.226.195.251,2222,http://185.226.195.251:2222,transparent,false,8518,4522,22.5,19,232,185.226.195.251,1,es,Andalusia,Dos Hermanas,Europe/Madrid,211141,PINKBEAR SLU,20,2026-10-07T15:04:54.995Z,2026-10-15T04:26:03.876Z
+socks5,45.74.31.46,7345,socks5://45.74.31.46:7345,elite,false,5346,2725.5,51.2,,43,167.17.71.189,1,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,13,2026-10-14T05:27:52.270Z,2026-10-15T04:30:29.929Z

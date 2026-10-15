@@ -6,11 +6,11 @@
     "url": "http://154.65.39.8:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 798,
-    "latency_median_ms": 1043,
-    "uptime_24h": 93.3,
-    "uptime_7d": 92.3,
-    "checks_7d": 973,
+    "latency_ms": 880,
+    "latency_median_ms": 856,
+    "uptime_24h": 97,
+    "uptime_7d": 93.5,
+    "checks_7d": 974,
     "exit_ip": "154.65.39.8",
     "exit_shared": 1,
     "country": "sn",
@@ -21,6 +21,6 @@
     "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
     "sources_count": 20,
     "first_seen": "2025-09-10T19:34:33.119Z",
-    "last_checked": "2026-10-14T04:31:39.397Z"
+    "last_checked": "2026-10-15T04:24:13.357Z"
   }
 ]

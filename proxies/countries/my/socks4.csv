@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.1.105.10,4153,socks4://103.1.105.10:4153,elite,false,4187,3179,50.6,43.2,697,103.1.105.10,1,my,Selangor,Rawang,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-05T20:06:27.398Z,2026-10-14T04:30:54.369Z
-socks4,60.54.19.45,1080,socks4://60.54.19.45:1080,elite,false,1232,1257,48.2,34.4,459,60.54.19.45,1,my,Selangor,Petaling Jaya,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,12,2025-12-07T12:46:34.467Z,2026-10-14T04:25:18.300Z
+socks4,175.139.201.193,4153,socks4://175.139.201.193:4153,elite,false,8319,4163,49.3,50.7,724,175.139.201.193,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:05.970Z,2026-10-15T04:24:59.466Z

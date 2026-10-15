@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,110.34.13.4,8080,http://110.34.13.4:8080,transparent,false,4375,3717.5,27.5,13.5,171,110.34.13.4,1,np,Koshi,Dharān,Asia/Kathmandu,4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",13,2025-09-08T12:19:31.672Z,2026-10-14T04:26:04.002Z
+http,103.124.97.12,8080,http://103.124.97.12:8080,transparent,false,4686,4658.5,18.4,12.9,225,103.124.97.12,1,np,Gandaki Pradesh,Pokhara,Asia/Kathmandu,138388,Pokhara Internet Pvt. Ltd.,13,2025-09-06T05:35:00.724Z,2026-10-15T04:22:09.869Z

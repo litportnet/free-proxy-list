@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,false,2479,4913.5,75.5,67.5,455,185.72.11.71,1,rs,Central Serbia,Belgrade,Europe/Belgrade,205007,Maxim Azarov trading as eServer,14,2026-10-10T06:38:00.990Z,2026-10-14T04:24:20.368Z

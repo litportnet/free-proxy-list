@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,892,2936,42.7,51,702,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,21,2025-09-05T20:06:27.862Z,2026-10-14T04:31:32.974Z
+socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,3918,1454,51.5,51.5,656,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,21,2025-09-05T20:06:27.862Z,2026-10-15T04:25:01.054Z

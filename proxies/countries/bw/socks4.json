@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks4",
-    "ip": "83.143.29.161",
-    "port": 1080,
-    "url": "socks4://83.143.29.161:1080",
+    "ip": "83.143.24.29",
+    "port": 5678,
+    "url": "socks4://83.143.24.29:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2301,
-    "latency_median_ms": 1354.5,
-    "uptime_24h": 18.2,
-    "uptime_7d": 28.6,
-    "checks_7d": 592,
-    "exit_ip": "83.143.24.66",
+    "latency_ms": 4351,
+    "latency_median_ms": 4282.5,
+    "uptime_24h": 30.9,
+    "uptime_7d": 32.8,
+    "checks_7d": 568,
+    "exit_ip": "83.143.24.29",
     "exit_shared": 1,
     "country": "bw",
     "region": "Gaborone",
@@ -20,7 +20,7 @@
     "asn": 328459,
     "asn_org": "VBN Services",
     "sources_count": 14,
-    "first_seen": "2025-09-04T23:49:08.242Z",
-    "last_checked": "2026-10-14T04:24:52.296Z"
+    "first_seen": "2025-09-04T23:48:58.196Z",
+    "last_checked": "2026-10-15T04:22:54.366Z"
   }
 ]

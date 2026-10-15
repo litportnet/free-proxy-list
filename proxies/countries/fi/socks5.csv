@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10807,socks5://65.21.252.66:10807,elite,false,9888,3439,32.8,39.5,592,188.126.89.58,1,fi,Uusimaa,Espoo,Europe/Helsinki,42708,Glesys AB,16,2026-09-21T09:05:03.337Z,2026-10-14T04:27:27.688Z
-socks5,185.239.141.194,10808,socks5://185.239.141.194:10808,elite,true,7953,7362,64.7,,34,185.239.141.194,3,fi,Uusimaa,Helsinki,Europe/Helsinki,50053,VDSka hosting,10,2026-10-13T19:22:38.310Z,2026-10-14T04:32:23.429Z

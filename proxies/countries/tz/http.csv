@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.188.176.158,3030,http://41.188.176.158:3030,transparent,false,5998,3359,63,63,54,41.188.176.158,1,tz,Arusha,Arusha,Africa/Dar_es_Salaam,37084,Simbanet (T) Limited,10,2026-10-02T21:04:44.996Z,2026-10-14T04:26:49.307Z
-http,41.78.170.178,8040,http://41.78.170.178:8040,transparent,false,4093,3882.5,35.7,23.7,409,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-10-14T04:24:21.420Z
-http,41.59.112.185,8090,http://41.59.112.185:8090,transparent,true,7775,3703,36.8,23.6,339,41.59.112.185,1,tz,Dodoma,Dodoma,Africa/Dar_es_Salaam,33765,TANZANIA TELECOMMUNICATIONS CO. LTD,20,2026-10-01T05:50:36.719Z,2026-10-14T04:30:50.648Z

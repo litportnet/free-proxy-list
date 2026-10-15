@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,1476,1270.5,80.3,75.2,817,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-10-14T04:26:46.130Z
-http,185.85.111.18,80,http://185.85.111.18:80,elite,false,5908,2861,69.5,67.7,721,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,18,2025-12-06T18:03:11.604Z,2026-10-14T04:29:35.732Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,612,638,86.4,79.2,811,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-10-15T04:22:25.245Z

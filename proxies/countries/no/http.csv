@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,54.255.249.161,7496,http://54.255.249.161:7496,unknown,true,1332,2431.5,25,9.1,88,54.255.249.161,1,no,Oslo,Oslo,Europe/Oslo,62248,MODIRUM MDPAY OU,7,2026-10-03T07:10:07.715Z,2026-10-14T04:27:37.846Z
