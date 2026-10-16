@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,false,2127,3923.5,39.7,37.3,555,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,10,2025-11-23T20:53:12.983Z,2026-10-15T04:24:12.844Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,false,3403,3382,37.4,38.6,534,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,10,2025-11-23T20:53:12.983Z,2026-10-16T04:21:34.626Z

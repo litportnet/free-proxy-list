@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.84.164.144,8080,http://45.84.164.144:8080,transparent,true,1336,3073.5,25.5,31,294,45.84.164.144,1,cz,Prague,Prague,Europe/Prague,208805,INTERCONNECT s.r.o.,18,2026-10-11T01:48:11.071Z,2026-10-15T04:23:37.347Z

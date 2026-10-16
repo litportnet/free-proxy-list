@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,158.160.135.195,1080,socks5://158.160.135.195:1080,elite,true,947,963.5,22.8,21.7,69,2.56.125.138,1,pl,Mazovia,Warsaw,Europe/Warsaw,203273,NetCrafters OU,12,2026-10-14T23:37:29.544Z,2026-10-16T04:31:07.450Z

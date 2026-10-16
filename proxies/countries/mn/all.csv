@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,202.21.101.37,8088,http://202.21.101.37:8088,elite,true,2026,3854.5,20.9,18.6,236,202.21.101.37,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9484,Mobinet LLC. AS Mobinet Internet Service Provider,20,2026-10-02T16:02:05.410Z,2026-10-15T04:24:10.749Z
+socks4,119.40.98.29,8069,socks4://119.40.98.29:8069,elite,false,1265,1800.5,38.5,32.6,423,119.40.98.26,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,10109,"Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",20,2025-11-28T16:54:54.581Z,2026-10-16T04:29:16.495Z

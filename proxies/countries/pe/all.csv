@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.119.185.157,999,http://190.119.185.157:999,transparent,false,3016,3472.5,14.6,13.3,166,190.119.185.154,1,pe,Cajamarca Department,Chota,America/Lima,12252,America Movil Peru S.A.C.,18,2026-10-07T08:01:14.762Z,2026-10-15T04:19:35.815Z
+socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,true,1636,3653,36.4,58.2,727,177.91.255.35,1,pe,Lima Province,Lima,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-10-16T04:31:10.643Z
+http,190.216.163.198,999,http://190.216.163.198:999,transparent,false,1281,3513.5,30.2,30.7,372,190.216.163.198,1,pe,Lima region,Vitarte,America/Lima,3549,"Level 3 Parent, LLC",25,2026-08-27T23:28:25.700Z,2026-10-16T04:31:51.304Z
+http,64.76.73.131,999,http://64.76.73.131:999,transparent,false,9717,3181,20,27.2,375,64.76.73.131,1,pe,Cuzco Department,Cusco,America/Lima,274087,FIBERLINK E.I.R.L.,26,2026-08-04T10:09:44.419Z,2026-10-16T04:28:30.548Z
+http,190.223.41.250,999,http://190.223.41.250:999,transparent,false,4441,4950.5,12.5,16.3,289,190.223.41.250,1,pe,Junin,Puerto Ocopa,America/Lima,12252,America Movil Peru S.A.C.,24,2026-06-08T01:58:03.336Z,2026-10-16T04:22:24.247Z

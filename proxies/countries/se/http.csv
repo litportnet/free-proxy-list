@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,2160,601,100,99.8,1005,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-15T04:22:24.716Z
-http,194.14.207.87,8001,http://194.14.207.87:8001,elite,false,8602,6424,61.7,58.4,743,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-07-08T17:29:52.111Z,2026-10-15T04:26:18.301Z
-http,18.166.56.240,8689,http://18.166.56.240:8689,unknown,false,1397,2954,19.1,16,50,18.166.56.240,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,9,2026-09-22T01:13:37.574Z,2026-10-15T04:20:39.783Z
-http,95.81.107.187,3128,http://95.81.107.187:3128,elite,true,612,739,100,,6,95.81.107.187,1,se,Stockholm,Stockholm,Europe/Stockholm,8849,Melbikomas UAB,2,2026-10-15T03:39:30.340Z,2026-10-15T04:30:43.870Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,538,572.5,98.6,99.6,1001,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-16T04:31:56.615Z
+http,95.81.107.187,3128,http://95.81.107.187:3128,elite,true,1109,802.5,95.7,95.9,147,95.81.107.187,1,se,Stockholm,Stockholm,Europe/Stockholm,8849,Melbikomas UAB,13,2026-10-15T03:39:30.340Z,2026-10-16T04:30:54.573Z
+http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,559,569,98.6,89,572,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-10-16T04:26:50.718Z
+http,46.59.120.87,81,http://46.59.120.87:81,transparent,false,4151,2987.5,14,22.9,350,46.59.120.87,1,se,Halland,Halmstad,Europe/Stockholm,8473,Bahnhof AB,19,2026-09-23T21:17:48.316Z,2026-10-16T04:21:38.349Z

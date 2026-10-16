@@ -1,5 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,854,1016,94.5,96.4,970,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-15T04:29:05.489Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,489,1321.5,92,83.8,862,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-15T04:21:56.077Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,551,553.5,85.7,72.7,576,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,9,2025-10-16T01:51:36.355Z,2026-10-15T04:27:35.392Z
-http,46.30.245.153,8080,http://46.30.245.153:8080,transparent,true,3744,3007,75,,4,46.30.245.153,1,it,Lazio,Rome,Europe/Rome,52030,Server Plan S.r.l.,2,2026-10-15T03:39:30.340Z,2026-10-15T04:28:57.992Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1315,1229,91.7,95.4,960,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-16T04:31:34.179Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,526,1158.5,80.3,84.3,846,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-16T04:28:26.781Z
+http,67.205.161.254,8118,http://67.205.161.254:8118,elite,false,880,547,81.5,77.8,427,64.190.76.10,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,25,2026-09-05T16:03:19.320Z,2026-10-16T04:31:13.866Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,2769,558.5,85.3,75,705,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,9,2025-10-16T01:51:36.355Z,2026-10-16T04:31:55.032Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,5627,2287.5,36.5,41.4,602,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-16T04:24:25.751Z
+http,18.230.23.72,48116,http://18.230.23.72:48116,unknown,false,1095,1833.5,10,,47,18.230.23.72,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,8,2026-09-04T05:46:12.955Z,2026-10-16T04:27:47.825Z

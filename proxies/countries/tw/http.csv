@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,1469,808.5,87.6,79.5,859,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-15T04:26:26.816Z
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,9772,6908.5,73.1,64.3,803,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-15T04:28:03.174Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,790,793,79.3,80.4,864,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-16T04:32:15.715Z
+http,220.134.5.4,8080,http://220.134.5.4:8080,transparent,true,7657,4711,22.6,32.2,245,220.134.5.4,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,24,2025-09-13T17:39:50.227Z,2026-10-16T04:23:11.529Z
+http,210.201.86.72,8080,http://210.201.86.72:8080,transparent,false,9556,3243.5,18,10,120,210.201.86.72,1,tw,Taiwan,Taichung,Asia/Taipei,7482,Asia Pacific On-line Service Inc.,21,2025-09-04T23:49:55.088Z,2026-10-16T04:25:34.647Z
+http,123.113.129.17,1081,http://123.113.129.17:1081,elite,true,1155,2250.5,34.9,,43,114.37.233.26,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,14,2026-10-06T02:45:34.136Z,2026-10-16T04:24:09.355Z

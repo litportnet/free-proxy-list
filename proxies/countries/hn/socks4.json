@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "181.115.75.102",
+    "port": 5678,
+    "url": "socks4://181.115.75.102:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3489,
+    "latency_median_ms": 968,
+    "uptime_24h": 28.8,
+    "uptime_7d": 62.7,
+    "checks_7d": 715,
+    "exit_ip": "181.115.75.102",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Cortés Department",
+    "city": "San Pedro Sula",
+    "timezone": "America/Tegucigalpa",
+    "asn": 14754,
+    "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
+    "sources_count": 22,
+    "first_seen": "2025-09-04T23:01:57.983Z",
+    "last_checked": "2026-10-16T04:30:09.294Z"
+  }
+]

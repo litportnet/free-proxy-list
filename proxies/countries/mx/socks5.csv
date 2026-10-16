@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.88.234.239,40017,socks5://103.88.234.239:40017,elite,true,491,582,89,82.8,903,104.28.193.187,1,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",16,2026-09-29T04:24:43.611Z,2026-10-15T04:26:04.932Z
-socks5,103.88.234.239,40005,socks5://103.88.234.239:40005,elite,true,445,893,85.7,80.8,891,104.28.225.188,4,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",16,2026-09-29T04:24:43.611Z,2026-10-15T04:23:24.579Z
-socks5,103.88.234.239,40016,socks5://103.88.234.239:40016,elite,false,3369,339.5,71.7,79.9,882,104.28.225.189,2,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",17,2026-09-28T23:22:10.876Z,2026-10-15T04:29:11.374Z
+socks5,103.88.234.239,40005,socks5://103.88.234.239:40005,elite,false,301,325,56.3,76.3,853,104.28.225.190,2,mx,Guanajuato,León de los Aldama,America/Mexico_City,13335,"Cloudflare, Inc.",16,2026-09-29T04:24:43.611Z,2026-10-16T04:23:53.422Z

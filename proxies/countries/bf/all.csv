@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,41.223.232.34,4145,socks4://41.223.232.34:4145,elite,true,1004,1507,64,,25,102.176.178.66,1,bf,Centre,Ouagadougou,Africa/Ouagadougou,328316,Point d'Atterissement Virtuel - Burkina Faso,4,2025-09-04T23:48:54.077Z,2026-10-15T04:29:16.736Z
+socks4,102.176.178.66,4145,socks4://102.176.178.66:4145,elite,false,971,1015.5,44.2,47.8,111,102.176.178.66,1,bf,Centre,Ouagadougou,Africa/Ouagadougou,328316,Point d'Atterissement Virtuel - Burkina Faso,8,2025-09-04T23:48:54.543Z,2026-10-16T04:27:23.268Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,164.77.99.83,1080,socks5://164.77.99.83:1080,elite,false,2323,1797,90.7,,43,164.77.99.82,1,cl,Santiago Metropolitan,Santiago,America/Santiago,27651,ENTEL CHILE S.A.,8,2026-02-15T12:58:09.104Z,2026-10-15T04:29:02.782Z

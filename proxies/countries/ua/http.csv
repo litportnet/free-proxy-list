@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.203.61.52,6789,http://91.203.61.52:6789,transparent,true,2850,3221,41.9,30.7,430,91.203.61.52,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,44894,Ukrchermetavtomatika LLC,23,2026-09-03T10:50:59.657Z,2026-10-15T04:22:35.331Z
+http,194.44.255.112,8080,http://194.44.255.112:8080,transparent,true,2532,2248.5,68.8,46.8,79,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,17,2026-10-01T09:52:43.632Z,2026-10-16T04:28:25.666Z
+http,82.207.117.120,8080,http://82.207.117.120:8080,elite,false,5486,7267,10,11.2,241,82.207.117.120,1,ua,Lviv,Lviv,Europe/Kyiv,6849,JSC Ukrtelecom,24,2026-06-11T00:36:11.110Z,2026-10-16T04:32:08.775Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,160.179.187.115,3129,http://160.179.187.115:3129,transparent,true,4832,1534.5,62.5,,18,105.158.159.249,1,ma,Beni Mellal-Khenifra,Beni Mellal,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,16,2026-10-10T23:47:02.914Z,2026-10-15T04:20:13.362Z

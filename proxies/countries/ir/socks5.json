@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 35266,
+    "url": "socks5://45.74.31.42:35266",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1655,
+    "latency_median_ms": 1566,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 6,
+    "exit_ip": "85.208.254.229",
+    "exit_shared": 1,
+    "country": "ir",
+    "region": "Fars",
+    "city": "Shiraz",
+    "timezone": "Asia/Tehran",
+    "asn": 61173,
+    "asn_org": "Green Web Samaneh Novin PJSC",
+    "sources_count": 1,
+    "first_seen": "2026-10-14T09:30:00.061Z",
+    "last_checked": "2026-10-16T04:32:01.896Z"
+  }
+]

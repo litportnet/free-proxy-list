@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10811,socks5://49.13.22.249:10811,elite,false,6309,3837,40,48.3,600,79.127.181.181,1,gr,Attica,Athens,Europe/Athens,212238,Datacamp Limited,19,2026-08-23T21:34:27.912Z,2026-10-16T04:24:48.051Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.134.34.219,10808,socks4://43.134.34.219:10808,elite,false,8613,7383,43.9,70.5,173,43.134.34.219,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",14,2026-10-13T07:16:21.585Z,2026-10-15T04:24:23.460Z
+socks4,8.219.69.210,443,socks4://8.219.69.210:443,elite,false,887,890,5.6,21.8,358,8.219.69.210,1,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",17,2026-10-02T22:05:21.480Z,2026-10-16T04:22:26.349Z

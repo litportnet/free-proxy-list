@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,67.206.213.202,3120,http://67.206.213.202:3120,transparent,false,2034,3425,38.1,29.7,508,67.206.213.202,2,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-10-16T04:31:06.356Z
+http,23.138.88.1,999,http://23.138.88.1:999,transparent,false,9493,5306.5,21.7,24.2,476,23.138.88.1,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,21,2026-05-17T05:24:49.448Z,2026-10-16T04:24:52.292Z
+http,23.138.88.96,999,http://23.138.88.96:999,transparent,false,4416,3085.5,20.7,20.6,423,23.138.88.97,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,20,2025-09-05T20:06:26.778Z,2026-10-16T04:23:03.591Z
+http,192.203.0.166,999,http://192.203.0.166:999,transparent,false,1257,3725,24.1,19.7,274,192.203.0.166,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,20,2025-09-05T23:19:59.349Z,2026-10-16T04:30:32.939Z

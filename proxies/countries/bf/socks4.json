@@ -1,16 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "41.223.232.34",
+    "ip": "102.176.178.66",
     "port": 4145,
-    "url": "socks4://41.223.232.34:4145",
+    "url": "socks4://102.176.178.66:4145",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1004,
-    "latency_median_ms": 1507,
-    "uptime_24h": 64,
-    "uptime_7d": null,
-    "checks_7d": 25,
+    "https": false,
+    "latency_ms": 971,
+    "latency_median_ms": 1015.5,
+    "uptime_24h": 44.2,
+    "uptime_7d": 47.8,
+    "checks_7d": 111,
     "exit_ip": "102.176.178.66",
     "exit_shared": 1,
     "country": "bf",
@@ -19,8 +19,8 @@
     "timezone": "Africa/Ouagadougou",
     "asn": 328316,
     "asn_org": "Point d'Atterissement Virtuel - Burkina Faso",
-    "sources_count": 4,
-    "first_seen": "2025-09-04T23:48:54.077Z",
-    "last_checked": "2026-10-15T04:29:16.736Z"
+    "sources_count": 8,
+    "first_seen": "2025-09-04T23:48:54.543Z",
+    "last_checked": "2026-10-16T04:27:23.268Z"
   }
 ]

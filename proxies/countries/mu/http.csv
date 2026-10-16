@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.113.187.154,3128,http://102.113.187.154:3128,elite,false,8374,3686.5,67.7,,31,102.113.187.154,1,mu,Plaines Wilhems,Curepipe,Indian/Mauritius,23889,Mauritius Telecom Ltd,12,2026-10-15T21:49:05.860Z,2026-10-16T04:31:11.693Z

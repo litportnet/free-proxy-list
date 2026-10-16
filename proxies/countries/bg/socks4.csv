@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,1767,1767.5,59.1,70.3,794,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-10-15T04:23:02.859Z
-socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,737,1467.5,68.9,66.2,823,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,13,2025-09-04T23:49:00.147Z,2026-10-15T04:29:53.050Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,756,2649.5,60.6,68.8,760,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-10-16T04:29:41.974Z
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,true,714,777,62.9,66.1,791,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,13,2025-09-04T23:49:00.147Z,2026-10-16T04:28:52.552Z
+socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,true,1712,703.5,41.8,64.3,723,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-04T23:48:54.819Z,2026-10-16T04:24:23.121Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,3739,2916.5,44.3,62.6,745,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-10-16T04:29:39.302Z
+socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,false,1739,817,29.2,60.9,686,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-10-16T04:31:13.869Z
+socks4,85.187.5.66,48293,socks4://85.187.5.66:48293,elite,false,3871,3131,34.4,37.6,534,85.187.5.66,1,bg,Silistra,Sitovo,Europe/Sofia,49147,ET ASNET - Altan Halim,12,2026-05-06T23:12:12.223Z,2026-10-16T04:27:01.428Z

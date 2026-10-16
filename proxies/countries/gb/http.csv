@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,697,687.5,98.6,97.5,990,162.158.216.120,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-15T04:25:55.466Z
-http,81.168.119.85,5443,http://81.168.119.85:5443,elite,false,3893,3089,26.7,21.1,199,81.168.119.85,2,gb,England,London,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,20,2026-08-15T13:34:39.246Z,2026-10-15T04:19:49.578Z
-http,81.168.119.85,443,http://81.168.119.85:443,elite,true,1513,2148.5,22.5,12.4,145,81.168.119.85,2,gb,England,London,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,13,2026-05-21T10:22:05.335Z,2026-10-15T04:29:08.172Z
-http,143.110.161.67,10000,http://143.110.161.67:10000,elite,true,8255,1148,7.1,11.5,174,143.110.161.67,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",17,2026-10-02T20:04:18.048Z,2026-10-15T04:21:24.299Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,712,763.5,98.6,97.3,989,172.71.178.9,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-16T04:30:34.048Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2840,3628,76.9,81.9,833,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-16T04:24:14.633Z
+http,78.17.144.104,18080,http://78.17.144.104:18080,elite,false,9240,6939.5,66,66,50,178.79.144.110,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,14,2026-10-15T14:45:22.441Z,2026-10-16T04:28:17.641Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,4766,2211,34.6,32.9,529,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,15,2025-10-03T21:41:53.577Z,2026-10-16T04:26:07.534Z

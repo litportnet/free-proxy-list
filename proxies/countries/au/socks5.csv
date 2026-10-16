@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,true,8380,2194.5,50,23.8,407,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,19,2026-05-09T06:34:30.972Z,2026-10-15T04:24:44.101Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2778,2734,47.4,54.3,645,45.133.6.3,1,au,Western Australia,Perth,Australia/Perth,137409,GSL Networks Pty LTD,18,2026-09-16T03:18:05.440Z,2026-10-16T04:27:15.322Z

@@ -1,10 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,152.67.217.8,1080,http://152.67.217.8:1080,elite,true,729,717,100,100,51,152.67.217.8,2,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,1,2026-05-23T10:44:41.364Z,2026-10-15T04:23:16.132Z
-http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,762,775.5,100,99.8,1001,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-15T04:21:14.256Z
-http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,623,793,99.3,98.8,996,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-15T04:27:15.956Z
-http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,833,1300.5,77.8,68.3,826,183.110.216.129,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.489Z,2026-10-15T04:30:14.433Z
-http,158.179.162.1,80,http://158.179.162.1:80,elite,false,753,1739,30.6,36.9,555,158.179.162.1,1,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,17,2025-12-07T12:47:41.109Z,2026-10-15T04:24:49.933Z
-http,112.169.99.71,8060,http://112.169.99.71:8060,elite,false,763,839,53.9,32.9,76,14.36.244.201,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,12,2026-09-21T00:00:23.954Z,2026-10-15T04:27:54.613Z
-http,112.169.99.71,8083,http://112.169.99.71:8083,elite,false,802,1847,47.5,31.9,91,61.77.25.30,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,22,2026-09-20T18:57:45.187Z,2026-10-15T04:22:29.477Z
-http,112.169.99.71,8095,http://112.169.99.71:8095,elite,true,716,900.5,42.1,24,75,121.170.34.220,1,kr,Gyeonggi-do,Bucheon-si,Asia/Seoul,4766,Korea Telecom,22,2026-09-20T11:53:53.370Z,2026-10-15T04:28:10.612Z
-http,223.72.47.33,6080,http://223.72.47.33:6080,elite,true,9630,2931.5,71.4,,14,151.245.106.241,1,kr,Seoul,Seoul,Asia/Seoul,63473,"HostHatch, LLC",1,2026-07-30T01:01:24.174Z,2026-10-15T04:25:34.320Z
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,2839,782.5,98.6,99.6,1000,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-16T04:26:37.121Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,777,787.5,100,99.4,997,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-16T04:32:25.295Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,3950,1829,66.7,63,784,183.110.216.129,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-10-16T04:25:21.421Z
+http,112.169.99.71,8004,http://112.169.99.71:8004,elite,true,3234,3976.5,40.7,36.7,90,119.201.5.20,1,kr,Gyeongsangbuk-do,Eisen,Asia/Seoul,4766,Korea Telecom,20,2026-09-21T02:01:26.974Z,2026-10-16T04:23:03.048Z
+http,158.179.162.1,80,http://158.179.162.1:80,elite,false,3749,3917,36.7,35.9,537,158.179.162.1,1,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,17,2025-12-07T12:47:41.109Z,2026-10-16T04:26:39.815Z

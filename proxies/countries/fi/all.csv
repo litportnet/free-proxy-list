@@ -1,6 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,593,568.5,94.8,96.7,822,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-15T04:26:16.664Z
-socks4,89.169.34.80,1080,socks4://89.169.34.80:1080,elite,true,1536,1107.5,95.9,95.9,98,89.169.34.80,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,11,2026-09-22T21:05:07.513Z,2026-10-15T04:29:46.059Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,572,563.5,97.1,95.5,989,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-15T04:21:28.525Z
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,546,540.5,91.8,94.2,171,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,1,2026-10-13T20:23:27.401Z,2026-10-15T04:24:39.871Z
-socks4,185.17.1.218,1080,socks4://185.17.1.218:1080,elite,false,2239,1998,36.4,44,377,185.17.1.218,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,14,2026-10-05T20:42:34.271Z,2026-10-15T04:20:55.030Z
+socks4,2.29.110.194,1080,socks4://2.29.110.194:1080,elite,true,675,816,100,100,107,2.29.110.194,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,11,2026-10-15T10:43:14.923Z,2026-10-16T04:26:08.591Z
+socks4,46.62.236.59,1080,socks4://46.62.236.59:1080,elite,true,883,1209,100,100,71,46.62.236.59,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,10,2026-10-15T16:46:29.633Z,2026-10-16T04:31:37.389Z
+socks5,2.29.110.194,1080,socks5://2.29.110.194:1080,elite,true,849,1133.5,99.1,99.1,112,2.29.110.194,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,12,2026-10-15T09:42:47.733Z,2026-10-16T04:24:56.525Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,525,544.5,99.3,96.6,819,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-16T04:32:03.485Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,4668,586,95.7,96.1,985,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-16T04:31:45.922Z
+socks5,45.74.31.46,5091,socks5://45.74.31.46:5091,elite,true,899,2030,25,17.2,116,65.109.86.90,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-10-10T04:36:57.105Z,2026-10-16T04:26:45.785Z

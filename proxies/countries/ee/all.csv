@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,94.183.170.105,1080,socks5://94.183.170.105:1080,elite,true,830,837,85.2,85.2,54,94.183.170.105,1,ee,Harjumaa,Tallinn,Europe/Tallinn,212743,ETERNITY INTERNATIONAL LIMITED,13,2026-10-15T17:46:58.008Z,2026-10-16T04:26:50.175Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,584,571,74.8,81.2,872,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-16T04:24:29.420Z
+socks4,146.19.143.200,1080,socks4://146.19.143.200:1080,elite,true,7833,3192.5,47.5,53.7,419,146.19.143.200,1,ee,Harjumaa,Tallinn,Europe/Tallinn,62005,BlueVPS OU,20,2026-09-09T02:45:26.049Z,2026-10-16T04:32:15.721Z

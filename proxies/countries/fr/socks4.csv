@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.142.195.110,995,socks4://45.142.195.110:995,elite,true,8792,4671,14.3,28.4,261,178.20.55.182,1,fr,Île-de-France,Paris,Europe/Paris,29075,IELO Main Network,13,2026-06-03T14:03:43.859Z,2026-10-15T04:26:30.018Z
-socks4,173.249.24.121,1080,socks4://173.249.24.121:1080,elite,true,719,601,100,,28,173.249.24.121,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,15,2026-09-16T01:17:00.632Z,2026-10-15T04:23:21.405Z
-socks4,198.252.108.20,9050,socks4://198.252.108.20:9050,elite,true,2363,3620,17.4,,33,163.172.84.90,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,20,2026-08-17T13:58:03.639Z,2026-10-15T04:28:16.510Z
+socks4,173.249.24.121,1080,socks4://173.249.24.121:1080,elite,true,576,738,97.9,98.2,169,173.249.24.121,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,15,2026-09-16T01:17:00.632Z,2026-10-16T04:28:40.241Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,691,555.5,5.3,62.7,662,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-16T04:24:42.194Z
+socks4,45.140.165.128,40001,socks4://45.140.165.128:40001,elite,false,5445,5522,61.7,61.7,81,104.28.248.184,3,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,13335,"Cloudflare, Inc.",12,2026-10-15T10:43:14.923Z,2026-10-16T04:21:52.072Z

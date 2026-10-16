@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,1717,1431,68.5,72,690,154.47.29.20,1,hr,Zagreb,Zagreb,Europe/Zagreb,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-10-16T04:28:31.632Z
+socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,true,3729,1693,46.7,58.5,646,82.132.19.108,1,hr,Zagreb,Zagreb,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-10-16T04:28:02.098Z
+http,188.129.8.242,81,http://188.129.8.242:81,elite,false,1550,1614.5,62.5,29.4,102,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-10-16T04:26:05.935Z

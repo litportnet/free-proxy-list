@@ -6,11 +6,11 @@
     "url": "http://185.135.69.34:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 364,
-    "latency_median_ms": 370,
+    "latency_ms": 368,
+    "latency_median_ms": 361,
     "uptime_24h": 100,
-    "uptime_7d": 99,
-    "checks_7d": 1003,
+    "uptime_7d": 99.1,
+    "checks_7d": 1008,
     "exit_ip": "185.135.69.34",
     "exit_shared": 1,
     "country": "iq",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Baghdad",
     "asn": 205889,
     "asn_org": "Giga Nineveh for internet services Ltd",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:31.436Z",
-    "last_checked": "2026-10-15T04:28:12.746Z"
+    "sources_count": 17,
+    "first_seen": "2025-12-06T17:01:45.042Z",
+    "last_checked": "2026-10-16T04:30:32.926Z"
   }
 ]

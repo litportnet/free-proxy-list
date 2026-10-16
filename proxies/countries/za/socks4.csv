@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,105.27.180.194,1080,socks4://105.27.180.194:1080,elite,true,8498,2224,74.7,70.1,846,105.27.180.194,1,za,Western Cape,Cape Town,Africa/Johannesburg,37100,SEACOM Limited,13,2026-02-08T01:22:48.172Z,2026-10-15T04:21:26.920Z
-socks4,102.215.245.6,4153,socks4://102.215.245.6:4153,elite,true,1263,3259,61.5,70,823,102.215.245.6,1,za,Gauteng,Johannesburg,Africa/Johannesburg,329058,INFINITY CONNECT (PTY) LTD,13,2026-07-04T23:41:39.889Z,2026-10-15T04:26:41.178Z
+socks4,105.214.51.178,5678,socks4://105.214.51.178:5678,elite,false,1355,2352.5,68.6,79.9,457,105.214.51.178,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,17,2026-10-12T04:01:58.947Z,2026-10-16T04:30:11.942Z
+socks4,105.214.74.10,5678,socks4://105.214.74.10:5678,elite,true,2419,2384,63.1,79,448,105.214.74.10,1,za,Gauteng,Benoni,Africa/Johannesburg,16637,MTN SA,15,2026-10-12T06:03:03.408Z,2026-10-16T04:23:44.378Z
+socks4,196.216.133.18,1080,socks4://196.216.133.18:1080,elite,false,2363,3978,33.3,44.4,547,196.216.133.18,1,za,North West,Ventersdorp,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,12,2025-09-05T20:06:36.654Z,2026-10-16T04:29:05.915Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,18.190.253.157,8880,http://18.190.253.157:8880,unknown,false,3833,1367.5,10,,30,18.190.253.157,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,7,2026-09-23T07:10:25.594Z,2026-10-15T04:21:52.367Z
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,false,3822,1824.5,52.1,77.1,803,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,1,2026-03-17T17:23:30.908Z,2026-10-16T04:31:19.768Z
+socks5,143.198.239.45,10025,socks5://143.198.239.45:10025,elite,true,982,4009,41.6,41.2,495,91.208.75.3,1,ro,Ilfov,Voluntari,Europe/Bucharest,6718,NAV COMMUNICATIONS SRL,2,2026-10-10T09:39:40.310Z,2026-10-16T04:26:01.109Z
+socks5,13.239.253.213,1981,socks5://13.239.253.213:1981,unknown,false,3336,3336,50,,3,13.239.253.213,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,1,2026-09-29T08:27:17.291Z,2026-10-16T04:30:30.215Z

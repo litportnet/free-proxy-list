@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "102.36.231.77",
+    "port": 1080,
+    "url": "socks4://102.36.231.77:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2001,
+    "latency_median_ms": 1955.5,
+    "uptime_24h": 53.6,
+    "uptime_7d": 75.4,
+    "checks_7d": 825,
+    "exit_ip": "102.36.231.77",
+    "exit_shared": 1,
+    "country": "ng",
+    "region": "Lagos",
+    "city": "Ikeja",
+    "timezone": "Africa/Lagos",
+    "asn": 328555,
+    "asn_org": "Timeless Network Services Ltd",
+    "sources_count": 13,
+    "first_seen": "2026-07-08T00:20:44.106Z",
+    "last_checked": "2026-10-16T04:25:30.911Z"
+  }
+]

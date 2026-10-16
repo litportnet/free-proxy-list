@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,593,568.5,94.8,96.7,822,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-15T04:26:16.664Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,572,563.5,97.1,95.5,989,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-15T04:21:28.525Z
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,546,540.5,91.8,94.2,171,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,1,2026-10-13T20:23:27.401Z,2026-10-15T04:24:39.871Z
+http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,525,544.5,99.3,96.6,819,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-16T04:32:03.485Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,4668,586,95.7,96.1,985,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-16T04:31:45.922Z

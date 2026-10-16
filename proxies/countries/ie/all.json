@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.138.114.111",
+    "port": 8080,
+    "url": "http://185.138.114.111:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4592,
+    "latency_median_ms": 4460,
+    "uptime_24h": 13.7,
+    "uptime_7d": 24.9,
+    "checks_7d": 397,
+    "exit_ip": "185.138.114.111",
+    "exit_shared": 1,
+    "country": "ie",
+    "region": "Munster",
+    "city": "Newcastle West",
+    "timezone": "Europe/Dublin",
+    "asn": 207044,
+    "asn_org": "Enet Telecommunications Networks Limited",
+    "sources_count": 16,
+    "first_seen": "2026-06-09T18:20:18.103Z",
+    "last_checked": "2026-10-16T04:26:10.726Z"
+  }
+]

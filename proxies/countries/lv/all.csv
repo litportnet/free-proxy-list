@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,831,975.5,37.1,53.9,700,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-10-15T04:28:19.176Z
+http,46.161.49.174,10809,http://46.161.49.174:10809,elite,true,3707,3183.5,81.7,72.3,159,45.130.60.20,1,lv,Riga,Riga,Europe/Riga,219335,COREVANCE LTD,17,2026-10-14T11:31:10.348Z,2026-10-16T04:23:28.971Z

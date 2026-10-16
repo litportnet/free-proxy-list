@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,1304,1300,79,92,839,185.231.33.38,1,ch,Zug,Zug,Europe/Zurich,211720,"Datashield, Inc.",13,2026-07-02T02:04:25.728Z,2026-10-15T04:25:00.505Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,612,638,86.4,79.2,811,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,10,2025-12-07T12:46:43.973Z,2026-10-15T04:22:25.245Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,626,711.5,87.3,81.3,809,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-16T04:29:11.714Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,6142,6718,65.4,71.1,788,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,18,2025-12-06T18:03:11.604Z,2026-10-16T04:25:16.074Z
+http,98.81.204.137,43960,http://98.81.204.137:43960,unknown,false,977,804.5,15.8,,45,98.81.204.137,1,ch,Ticino,Bellinzona,Europe/Zurich,51852,Private Layer INC,11,2026-09-29T01:23:11.230Z,2026-10-16T04:31:02.063Z

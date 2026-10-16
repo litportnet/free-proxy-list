@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "46.161.49.174",
+    "port": 10809,
+    "url": "http://46.161.49.174:10809",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3707,
+    "latency_median_ms": 3183.5,
+    "uptime_24h": 81.7,
+    "uptime_7d": 72.3,
+    "checks_7d": 159,
+    "exit_ip": "45.130.60.20",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 219335,
+    "asn_org": "COREVANCE LTD",
+    "sources_count": 17,
+    "first_seen": "2026-10-14T11:31:10.348Z",
+    "last_checked": "2026-10-16T04:23:28.971Z"
+  }
+]

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.206.188.190,5050,http://116.206.188.190:5050,transparent,false,1084,4105,37.7,24,271,111.125.152.42,1,af,Balkh,Mazār-e Sharīf,Asia/Kabul,45178,ROSHAN,18,2026-10-02T16:02:05.410Z,2026-10-15T04:22:17.790Z

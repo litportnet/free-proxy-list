@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,35.73.138.133,443,socks4://35.73.138.133:443,elite,true,849,1184,98.6,99,196,35.73.138.133,2,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",14,2026-10-13T19:22:40.369Z,2026-10-15T04:23:34.169Z
-socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,804,804,97,94.8,928,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-15T04:23:06.004Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,781,825,42.1,66.3,793,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-15T04:27:29.056Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,876,3219.5,36.2,39,495,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-15T04:25:51.209Z
-socks4,162.4.194.2,443,socks4://162.4.194.2:443,elite,true,3506,2218.5,97.5,,40,162.4.194.2,1,jp,Tokyo,Tokyo,Asia/Tokyo,197196,PANSTAR CLOUD LIMITED,12,2026-10-14T21:36:27.603Z,2026-10-15T04:29:40.246Z
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,848,809.5,91,94.8,920,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-16T04:29:46.225Z

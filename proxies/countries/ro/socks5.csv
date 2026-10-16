@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,143.198.239.45,10025,socks5://143.198.239.45:10025,elite,true,982,4009,41.6,41.2,495,91.208.75.3,1,ro,Ilfov,Voluntari,Europe/Bucharest,6718,NAV COMMUNICATIONS SRL,2,2026-10-10T09:39:40.310Z,2026-10-16T04:26:01.109Z
+socks5,13.239.253.213,1981,socks5://13.239.253.213:1981,unknown,false,3336,3336,50,,3,13.239.253.213,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,1,2026-09-29T08:27:17.291Z,2026-10-16T04:30:30.215Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,172.247.27.29,11080,socks4://172.247.27.29:11080,elite,true,3206,2317,98.6,95.2,971,172.247.27.26,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,40065,CNSERVERS LLC,16,2026-10-02T09:58:53.810Z,2026-10-15T04:29:31.118Z
+socks4,172.247.27.29,11080,socks4://172.247.27.29:11080,elite,true,970,2071,93.2,94.6,964,172.247.27.26,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,40065,CNSERVERS LLC,16,2026-10-02T09:58:53.810Z,2026-10-16T04:31:45.918Z
+socks4,121.46.226.221,10808,socks4://121.46.226.221:10808,elite,true,2061,1189,82.6,90.4,782,156.59.17.27,3,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,21859,Zenlayer Inc,15,2026-10-10T03:36:28.858Z,2026-10-16T04:32:32.233Z
+socks4,38.76.212.39,8181,socks4://38.76.212.39:8181,elite,true,3774,4828,69.8,81.4,840,38.76.212.39,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,401701,cognetcloud INC,19,2026-09-10T22:54:10.489Z,2026-10-16T04:31:36.291Z

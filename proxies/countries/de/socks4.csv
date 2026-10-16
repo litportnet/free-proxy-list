@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.205.161.254,9050,socks4://67.205.161.254:9050,elite,false,1873,1171,66.3,64.3,283,185.220.101.168,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,20,2026-09-05T02:55:02.030Z,2026-10-15T04:28:20.253Z
-socks4,178.215.236.16,1080,socks4://178.215.236.16:1080,elite,false,3223,2669.5,15.6,18.2,302,178.215.236.16,1,de,Hesse,Frankfurt am Main,Europe/Berlin,215439,PLAY2GO INTERNATIONAL LIMITED,19,2026-06-10T10:29:53.065Z,2026-10-15T04:20:01.682Z
+socks4,31.77.19.92,443,socks4://31.77.19.92:443,elite,true,564,555.5,98.6,95.5,966,31.77.19.92,2,de,Hesse,Frankfurt am Main,Europe/Berlin,219337,PLAY2GO - FZCO,17,2026-10-08T04:11:37.161Z,2026-10-16T04:26:56.071Z
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,1165,1535.5,98.6,92.2,837,185.220.100.249,1,de,Bavaria,Nuremberg,Europe/Berlin,205100,F3 Netze e.V.,13,2026-07-02T02:04:25.728Z,2026-10-16T04:27:23.801Z
+socks4,50.114.58.15,1080,socks4://50.114.58.15:1080,elite,false,7718,1113,37.8,63.1,347,50.114.58.15,1,de,Hesse,Frankfurt am Main,Europe/Berlin,213529,Sculk Ltd.,14,2026-10-12T11:05:40.263Z,2026-10-16T04:30:18.883Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,588,1110.5,32.8,58.6,662,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-10-16T04:24:23.119Z
+socks4,81.90.25.129,1080,socks4://81.90.25.129:1080,elite,true,7740,3904.5,18.2,48.1,640,81.90.25.129,1,de,Hesse,Frankfurt am Main,Europe/Berlin,198550,NODE HOST LIMITED,15,2026-09-30T18:44:59.671Z,2026-10-16T04:29:13.297Z

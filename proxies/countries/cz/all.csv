@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.84.164.144,8080,http://45.84.164.144:8080,transparent,true,1336,3073.5,25.5,31,294,45.84.164.144,1,cz,Prague,Prague,Europe/Prague,208805,INTERCONNECT s.r.o.,18,2026-10-11T01:48:11.071Z,2026-10-15T04:23:37.347Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,1718,730,34.6,68.5,729,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-16T04:28:54.112Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,3656,1155.5,48.2,63.7,667,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-10-16T04:24:17.856Z

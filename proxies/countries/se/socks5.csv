@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2073,2067.5,98.6,98.1,987,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-15T04:27:01.669Z
-socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,1658,1127.5,80,89.8,833,171.25.193.81,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,21,2026-07-02T02:04:25.816Z,2026-10-15T04:23:17.731Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2426,2609.5,96.4,98,983,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-16T04:31:17.609Z
+socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,true,746,2373.5,34.4,54.3,602,79.76.59.115,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-10-16T04:28:27.888Z
+socks5,79.76.52.220,1080,socks5://79.76.52.220:1080,elite,false,3723,3224.5,20,26.2,443,79.76.52.220,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,17,2026-07-12T14:21:31.857Z,2026-10-16T04:23:13.667Z
+socks5,185.87.199.40,1080,socks5://185.87.199.40:1080,elite,true,4975,5339.5,25.5,,47,62.182.195.22,1,se,Stockholm,Stockholm,Europe/Stockholm,42532,SIA VEESP,11,2026-10-15T04:40:05.497Z,2026-10-16T04:24:18.915Z

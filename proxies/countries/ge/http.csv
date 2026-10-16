@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,94.43.164.242,8080,http://94.43.164.242:8080,transparent,false,3244,4148,19.1,17.5,235,94.43.164.242,1,ge,Adjara,Batumi,Asia/Tbilisi,35805,JSC Silknet,25,2025-09-10T22:03:43.249Z,2026-10-16T04:21:38.865Z
