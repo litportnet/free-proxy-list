@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.65.224.74,999,http://45.65.224.74:999,transparent,false,2463,796.5,93.1,96.8,280,45.65.224.125,1,ar,Buenos Aires,Morón,America/Argentina/Buenos_Aires,266725,SOLUTION LAN S.A,10,2025-11-22T05:56:24.076Z,2026-10-17T18:57:55.480Z
+http,170.246.36.225,999,http://170.246.36.225:999,transparent,true,951,2049.5,41.5,41.5,53,170.246.36.225,1,ar,Santa Cruz,Caleta Olivia,America/Argentina/Rio_Gallegos,265653,CARRASCO LEONARDO JAVIER (NETLINK),15,2026-10-17T01:03:25.335Z,2026-10-17T18:55:47.100Z
+http,190.210.62.131,8080,http://190.210.62.131:8080,elite,false,3164,3358,25.4,21.2,345,190.210.62.131,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,16814,NSS S.A.,13,2025-11-28T15:53:47.208Z,2026-10-17T18:53:19.308Z

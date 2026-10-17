@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "171.25.158.95",
+    "port": 1080,
+    "url": "socks5://171.25.158.95:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1649,
+    "latency_median_ms": 1837.5,
+    "uptime_24h": 98.6,
+    "uptime_7d": 97.7,
+    "checks_7d": 981,
+    "exit_ip": "171.25.158.95",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Kronoberg",
+    "city": "Växjö",
+    "timezone": "Europe/Stockholm",
+    "asn": 35100,
+    "asn_org": "Patrik Lagerman",
+    "sources_count": 19,
+    "first_seen": "2026-05-02T10:06:59.800Z",
+    "last_checked": "2026-10-17T19:00:16.406Z"
+  }
+]

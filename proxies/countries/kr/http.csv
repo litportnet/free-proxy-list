@@ -1,0 +1,14 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,140.238.14.161,8080,http://140.238.14.161:8080,transparent,false,770,776.5,100,99.6,999,140.238.14.161,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,19,2026-09-06T11:13:08.921Z,2026-10-17T19:02:45.910Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,602,762.5,99.3,99.3,996,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-17T18:59:30.124Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,1864,873.5,88.3,69.2,765,183.110.216.129,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-10-17T19:00:13.729Z
+http,112.169.99.71,8072,http://112.169.99.71:8072,elite,true,1206,1973.5,64.3,64.3,56,220.88.8.214,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,12,2026-10-17T03:04:25.906Z,2026-10-17T19:00:41.479Z
+http,112.169.99.71,8063,http://112.169.99.71:8063,elite,true,1954,6013.5,64.3,64.3,56,222.117.80.129,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,12,2026-10-17T03:04:25.906Z,2026-10-17T19:00:13.746Z
+http,112.216.54.226,12121,http://112.216.54.226:12121,elite,false,796,787.5,60.2,54.9,683,112.216.54.227,1,kr,Incheon,Incheon,Asia/Seoul,3786,LG DACOM Corporation,26,2026-08-13T08:04:48.871Z,2026-10-17T19:01:51.018Z
+http,112.169.99.71,8055,http://112.169.99.71:8055,elite,false,3725,3243.5,62.2,33.8,136,59.14.177.115,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,18,2026-09-23T18:16:18.873Z,2026-10-17T18:56:13.127Z
+http,112.169.99.71,8093,http://112.169.99.71:8093,elite,false,969,2303,48.9,,45,211.55.128.197,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,13,2026-10-17T03:04:25.906Z,2026-10-17T18:59:16.897Z
+http,112.169.99.71,8036,http://112.169.99.71:8036,elite,true,1412,1716.5,36.8,,38,14.51.243.198,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,12,2026-10-17T03:04:25.906Z,2026-10-17T19:01:56.931Z
+http,223.72.47.14,6080,http://223.72.47.14:6080,elite,false,2100,2100,75,,4,151.245.106.241,1,kr,Seoul,Seoul,Asia/Seoul,63473,"HostHatch, LLC",4,2026-10-17T18:12:32.904Z,2026-10-17T18:57:46.998Z
+http,112.169.99.71,8052,http://112.169.99.71:8052,elite,true,3540,2394.5,51,,49,59.14.136.133,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,15,2026-10-17T03:04:25.906Z,2026-10-17T18:55:05.191Z
+http,112.169.99.71,8056,http://112.169.99.71:8056,elite,false,6170,3524,54.4,,46,183.101.98.107,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,13,2026-10-17T03:04:25.906Z,2026-10-17T18:58:58.879Z
+http,112.169.99.71,8049,http://112.169.99.71:8049,elite,false,7415,3597.5,76.9,,26,59.14.202.238,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,13,2026-10-17T13:09:44.662Z,2026-10-17T18:57:48.577Z

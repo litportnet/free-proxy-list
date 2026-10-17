@@ -1,0 +1,11 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.199.119.160,80,http://109.199.119.160:80,elite,false,240,226.5,100,99.9,1005,109.199.119.160,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-07-29T19:59:31.982Z,2026-10-17T19:01:30.164Z
+http,206.245.131.160,80,http://206.245.131.160:80,elite,false,489,463,100,99.6,1005,206.245.131.160,1,fr,Île-de-France,Paris,Europe/Paris,26383,Baxet Group Inc.,11,2026-07-09T13:39:53.205Z,2026-10-17T18:54:03.231Z
+http,202.133.88.173,80,http://202.133.88.173:80,elite,false,5632,1072.5,99.3,98.5,987,202.133.88.173,1,fr,Île-de-France,Paris,Europe/Paris,212552,BitCommand LLC,19,2025-12-07T12:12:09.766Z,2026-10-17T18:55:10.512Z
+http,51.75.206.209,80,http://51.75.206.209:80,elite,false,8417,1986,85.2,93.2,923,51.75.206.209,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,19,2025-09-10T19:35:12.669Z,2026-10-17T18:58:15.210Z
+http,62.210.215.36,80,http://62.210.215.36:80,anonymous,false,432,450.5,95.5,92.2,921,62.210.215.36,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,11,2025-09-10T20:05:18.991Z,2026-10-17T18:59:28.013Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,481,997.5,87.3,86.2,901,37.187.74.125,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,11,2025-09-05T00:24:28.901Z,2026-10-17T18:55:30.162Z
+http,188.165.199.207,80,http://188.165.199.207:80,elite,false,455,466.5,88.8,83.4,853,188.165.199.207,1,fr,Hauts-de-France,Roubaix,Europe/Paris,16276,OVH SAS,18,2025-12-06T18:37:17.689Z,2026-10-17T18:55:54.006Z
+http,207.180.254.198,8080,http://207.180.254.198:8080,elite,false,467,719.5,84.8,81,822,207.180.254.198,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-11-06T15:39:17.050Z,2026-10-17T18:55:54.011Z
+http,51.254.132.238,90,http://51.254.132.238:90,elite,false,3565,4600.5,55.1,50,624,51.254.132.238,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,20,2025-09-10T21:05:10.078Z,2026-10-17T18:56:36.012Z
+http,137.74.50.101,15054,http://137.74.50.101:15054,anonymous,true,206,454,100,,11,145.239.41.4,1,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,9,2026-10-17T17:12:03.298Z,2026-10-17T18:55:12.656Z

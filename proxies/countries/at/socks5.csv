@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,62.83.33.70,1080,socks5://62.83.33.70:1080,elite,true,882,752,100,80.8,266,62.83.33.70,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-09-26T03:46:28.172Z,2026-10-17T18:57:54.944Z
+socks5,62.83.34.101,1080,socks5://62.83.34.101:1080,elite,true,780,772.5,100,80.2,248,62.83.34.101,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,15,2026-09-24T03:21:02.509Z,2026-10-17T18:56:30.181Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.68.76.247,5566,http://102.68.76.247:5566,transparent,true,4326,4324.5,55,44.8,551,102.211.147.69,1,ke,Nairobi County,Nairobi,Africa/Nairobi,328490,Unwired Communications Limited,25,2026-08-12T03:48:56.642Z,2026-10-17T18:58:54.594Z
+http,102.0.35.28,8080,http://102.0.35.28:8080,transparent,false,4197,4198,23,26.4,349,102.0.35.28,1,ke,Bomet County,Sotik,Africa/Nairobi,36926,Airtel Networks Kenya Limited,18,2026-10-06T02:45:41.107Z,2026-10-17T19:01:59.100Z
+http,197.248.16.109,8080,http://197.248.16.109:8080,transparent,false,6237,4108.5,19.2,23.1,334,197.248.16.109,1,ke,Kitui County,Mwingi,Africa/Nairobi,37061,Safaricom Limited,25,2026-07-04T20:40:10.200Z,2026-10-17T18:55:22.705Z
+http,102.216.117.18,8080,http://102.216.117.18:8080,transparent,false,3480,4122,25.5,20.8,245,102.216.117.18,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329021,SAVENET LIMITED,25,2026-08-26T21:14:28.442Z,2026-10-17T18:55:13.723Z
+http,102.0.25.36,8080,http://102.0.25.36:8080,transparent,false,3394,4080.5,25,18.1,199,102.0.25.36,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,17,2026-08-01T08:29:25.916Z,2026-10-17T18:59:18.486Z

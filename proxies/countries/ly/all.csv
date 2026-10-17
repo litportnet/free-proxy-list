@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.68.132.5,19000,http://102.68.132.5:19000,transparent,true,4607,4876,28.3,17.6,330,102.68.132.5,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),16,2026-08-27T13:23:32.890Z,2026-10-17T18:53:38.387Z
+http,62.68.48.22,8080,http://62.68.48.22:8080,transparent,true,5712,3827.5,50,16.9,213,62.68.48.22,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),22,2025-11-05T22:29:47.778Z,2026-10-17T18:57:08.532Z

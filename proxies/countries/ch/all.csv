@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,2697,2547.5,91.3,84.2,859,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-17T18:57:22.464Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,484,761.5,78.3,74.8,792,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-10-17T18:55:31.216Z
+socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,false,572,592,20.9,32.5,495,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-17T18:58:04.097Z
+http,147.161.247.9,8800,http://147.161.247.9:8800,elite,true,497,487.5,100,,22,147.161.247.9,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,3,2026-06-08T14:04:25.723Z,2026-10-17T19:00:31.274Z

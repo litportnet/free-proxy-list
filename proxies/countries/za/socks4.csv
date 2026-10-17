@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,105.214.42.19,5678,socks4://105.214.42.19:5678,elite,true,4397,3346.5,82.8,79.5,777,105.214.42.19,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,17,2026-10-10T02:35:56.595Z,2026-10-17T18:59:28.539Z
+socks4,105.27.180.194,1080,socks4://105.27.180.194:1080,elite,true,1258,1260,82.9,74.4,792,105.27.180.194,1,za,Western Cape,Cape Town,Africa/Johannesburg,37100,SEACOM Limited,13,2026-02-08T01:22:48.172Z,2026-10-17T18:56:02.550Z
+socks4,102.215.245.6,4153,socks4://102.215.245.6:4153,elite,true,2285,2274.5,71.4,70.5,746,102.215.245.6,1,za,Gauteng,Johannesburg,Africa/Johannesburg,329058,INFINITY CONNECT (PTY) LTD,13,2026-07-04T23:41:39.889Z,2026-10-17T19:00:23.895Z
+socks4,105.214.95.149,5678,socks4://105.214.95.149:5678,elite,true,4396,2395.5,68.4,68.4,57,105.214.95.149,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,13,2026-10-17T04:05:04.872Z,2026-10-17T18:54:14.329Z
+socks4,105.214.105.25,5678,socks4://105.214.105.25:5678,elite,false,8459,1867,57.1,62.7,711,105.214.105.25,1,za,Gauteng,Johannesburg,Africa/Johannesburg,16637,MTN SA,21,2026-09-10T22:54:13.169Z,2026-10-17T19:02:31.580Z

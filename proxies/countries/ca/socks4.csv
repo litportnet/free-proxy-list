@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,4363,4274.5,95.5,95.5,112,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,12,2026-09-12T09:12:25.731Z,2026-10-17T18:56:48.252Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,6547,6408.5,86.8,82.8,145,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-10-17T18:53:15.629Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,3143,3143,45.2,44.1,605,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-17T18:56:01.500Z
+socks4,173.182.69.5,5678,socks4://173.182.69.5:5678,elite,true,1282,2144,9.5,37.4,380,173.182.69.5,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,9,2025-10-22T11:08:58.956Z,2026-10-17T18:59:01.530Z
+socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,3269,1246.5,25.4,36.5,572,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-10-17T18:56:56.214Z

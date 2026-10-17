@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,194.150.110.134,80,http://194.150.110.134:80,anonymous,false,545,487.5,89.7,87.1,876,194.150.110.70,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,31590,Rackhosting.com ApS,17,2025-09-06T05:36:00.329Z,2026-10-17T18:54:41.268Z
+http,18.191.250.90,8880,http://18.191.250.90:8880,elite,false,5424,1871.5,82.8,82.8,58,185.129.61.10,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,210731,Forening for DotSrc,4,2026-08-22T06:13:47.482Z,2026-10-17T18:54:50.231Z

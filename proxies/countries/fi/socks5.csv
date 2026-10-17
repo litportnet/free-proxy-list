@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,46.62.236.59,1080,socks5://46.62.236.59:1080,elite,true,1223,2336,100,97.3,297,46.62.236.59,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-10-15T15:45:57.005Z,2026-10-17T18:56:13.682Z

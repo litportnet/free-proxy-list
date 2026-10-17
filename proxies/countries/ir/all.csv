@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,78.38.67.210,3636,socks4://78.38.67.210:3636,elite,false,4018,3013,63.3,58.2,680,78.38.67.210,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,13,2025-09-04T23:49:11.801Z,2026-10-17T19:01:46.710Z
+http,185.100.45.93,8080,http://185.100.45.93:8080,transparent,false,1959,2010.5,48.2,46.7,606,185.100.45.93,1,ir,Tehran,Tehran,Asia/Tehran,200645,Fara Ertebat Mabna PJS,13,2026-05-30T13:08:05.554Z,2026-10-17T19:02:12.443Z
+http,185.95.152.38,8080,http://185.95.152.38:8080,transparent,true,2028,3454.5,27.4,18.4,223,185.95.152.38,1,ir,Bushehr,Nakhl-e Taqī,Asia/Tehran,200796,Data Pardaz Afraz Private Joint Stock Company,15,2026-08-15T21:37:15.904Z,2026-10-17T18:57:44.871Z
+socks4,94.183.225.168,1080,socks4://94.183.225.168:1080,elite,true,931,930.5,100,,24,94.183.225.168,1,ir,Tehran,Tehran,Asia/Tehran,214431,Mizban Gostar Dade Alvand Ltd,10,2026-10-17T15:10:55.284Z,2026-10-17T18:58:43.449Z

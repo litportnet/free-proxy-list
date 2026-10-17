@@ -1,0 +1,11 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,72.56.73.23,80,http://72.56.73.23:80,elite,false,525,502,100,100,1007,72.56.73.23,1,nl,North Holland,Amsterdam,Europe/Amsterdam,210976,"Timeweb, LLP",10,2026-08-27T12:22:51.054Z,2026-10-17T18:56:21.650Z
+http,195.26.224.135,80,http://195.26.224.135:80,elite,false,453,453,96.4,97,971,195.26.224.135,1,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,1,2026-03-17T17:23:33.821Z,2026-10-17T18:57:31.000Z
+http,145.220.227.187,8080,http://145.220.227.187:8080,elite,false,3293,766,98.6,96.7,152,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,14,2026-10-16T16:59:15.445Z,2026-10-17T18:57:10.153Z
+http,145.220.227.154,8080,http://145.220.227.154:8080,elite,false,214,235.5,97.1,95.6,159,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,14,2026-10-16T14:58:12.991Z,2026-10-17T18:58:47.686Z
+http,145.220.227.208,8080,http://145.220.227.208:8080,elite,false,3237,1224.5,95.5,94.9,157,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,14,2026-10-16T14:58:12.991Z,2026-10-17T18:59:35.428Z
+http,145.220.227.142,8080,http://145.220.227.142:8080,elite,false,198,847,91.5,91.2,147,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,14,2026-10-16T15:58:43.286Z,2026-10-17T18:55:11.043Z
+http,194.87.197.21,8080,http://194.87.197.21:8080,elite,true,2298,1659,81.8,73.1,253,89.105.219.180,1,nl,Flevoland,Lelystad,Europe/Amsterdam,24875,NovoServe B.V.,19,2026-10-09T23:34:18.748Z,2026-10-17T18:55:28.042Z
+http,62.84.245.79,80,http://62.84.245.79:80,elite,false,4017,3454,76.8,71.9,777,62.84.245.79,1,nl,Flevoland,Lelystad,Europe/Amsterdam,48635,Your Hosting B.V.,9,2025-09-10T19:34:57.308Z,2026-10-17T19:00:41.465Z
+http,213.183.61.198,3128,http://213.183.61.198:3128,elite,true,1102,1491.5,68.7,67.7,155,213.183.61.198,1,nl,North Holland,Amsterdam,Europe/Amsterdam,56630,Melbikomas UAB,16,2026-10-16T07:54:29.116Z,2026-10-17T19:00:46.297Z
+http,159.195.194.242,8080,http://159.195.194.242:8080,elite,true,4827,5734,63.5,62.6,716,82.196.1.169,1,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",25,2026-09-05T18:04:20.249Z,2026-10-17T19:02:13.492Z

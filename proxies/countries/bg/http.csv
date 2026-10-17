@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,82.137.90.253,80,http://82.137.90.253:80,elite,false,835,3792,66.7,39.1,548,82.137.90.253,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,10,2025-09-08T11:37:06.818Z,2026-10-17T18:57:36.846Z
+http,79.110.118.15,8085,http://79.110.118.15:8085,transparent,true,5832,1748.5,7.1,9.6,166,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,14,2026-05-28T19:52:14.036Z,2026-10-17T19:01:03.928Z
+http,78.154.10.164,3128,http://78.154.10.164:3128,elite,false,7913,4090,37.5,,48,78.154.10.164,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,14,2026-10-17T02:03:57.448Z,2026-10-17T18:54:50.253Z

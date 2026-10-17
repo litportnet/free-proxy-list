@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,143.198.90.221,1088,socks5://143.198.90.221:1088,elite,true,1313,1347,100,99.6,543,143.198.90.221,1,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",15,2026-10-13T23:24:45.621Z,2026-10-17T18:54:27.516Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,2231,1891,72.8,72,685,138.199.60.31,1,sg,Singapore,Singapore,Asia/Singapore,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-10-17T19:03:25.609Z
+socks5,8.219.122.8,9999,socks5://8.219.122.8:9999,elite,true,2252,2258.5,84.2,68.9,434,8.219.122.8,1,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",16,2026-10-04T18:28:41.408Z,2026-10-17T18:55:41.262Z
+socks5,45.74.31.41,7574,socks5://45.74.31.41:7574,elite,true,6114,2446.5,26.1,21.4,56,159.89.195.223,2,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",2,2026-10-14T07:28:57.155Z,2026-10-17T19:00:16.941Z
+socks5,45.74.31.42,4105,socks5://45.74.31.42:4105,elite,true,9649,3525.5,18.8,6.4,94,159.89.195.223,2,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",14,2026-09-10T22:54:11.022Z,2026-10-17T19:02:50.166Z

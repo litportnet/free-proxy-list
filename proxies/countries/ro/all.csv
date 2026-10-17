@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,true,3802,1810.5,87.8,79.5,795,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,14,2025-09-04T23:49:00.753Z,2026-10-17T19:02:19.896Z
+socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,false,1653,2833.5,52.2,66.7,736,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-17T18:54:13.261Z
+socks4,93.115.174.1,1080,socks4://93.115.174.1:1080,elite,false,716,1709,44.4,52.8,598,194.50.50.100,1,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,16,2026-10-10T03:36:30.009Z,2026-10-17T18:54:22.212Z
+socks4,109.166.207.162,3629,socks4://109.166.207.162:3629,elite,false,1727,1757.5,34.8,35.6,337,109.166.207.162,1,ro,Satu Mare County,Satu Mare,Europe/Bucharest,8953,Orange Romania S.A.,14,2025-09-30T19:01:43.512Z,2026-10-17T18:56:30.189Z

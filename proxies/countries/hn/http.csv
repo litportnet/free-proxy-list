@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.170.34.154,999,http://45.170.34.154:999,transparent,true,4945,4159.5,29.2,36.9,540,45.170.34.154,1,hn,El Paraíso Department,Danlí,America/Tegucigalpa,267761,Onda Network S de R.L,11,2026-10-03T04:08:28.750Z,2026-10-17T18:55:22.694Z
+http,45.190.184.105,8080,http://45.190.184.105:8080,transparent,false,1437,3162.5,34.8,27.7,231,45.190.184.105,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,17,2026-10-14T05:27:53.295Z,2026-10-17T18:56:09.977Z
+http,45.68.63.201,999,http://45.68.63.201:999,transparent,false,2056,4526,24,21.5,373,45.68.63.144,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,64150,PIT HONDURAS S. DE R.L. DE C.V.,22,2026-07-31T16:22:23.227Z,2026-10-17T18:57:09.073Z

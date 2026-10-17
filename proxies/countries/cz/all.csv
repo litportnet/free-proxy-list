@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,93.99.104.47,1080,socks5://93.99.104.47:1080,elite,true,710,731,100,100,120,93.99.104.47,1,cz,Prague,Prague,Europe/Prague,16019,Vodafone Czech Republic a.s.,13,2026-10-16T23:02:20.961Z,2026-10-17T18:55:08.372Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,8050,4246.5,60.4,65.5,666,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-17T18:56:53.030Z
+http,77.240.102.149,800,http://77.240.102.149:800,transparent,false,5953,4754,16.7,11,164,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-10-17T19:02:07.641Z

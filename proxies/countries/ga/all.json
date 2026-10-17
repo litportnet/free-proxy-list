@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.159.154.43",
+    "port": 3128,
+    "url": "http://41.159.154.43:3128",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 7977,
+    "latency_median_ms": 6418,
+    "uptime_24h": 20.4,
+    "uptime_7d": 18.5,
+    "checks_7d": 232,
+    "exit_ip": "41.159.154.43",
+    "exit_shared": 1,
+    "country": "ga",
+    "region": "Haut-Ogooué",
+    "city": "Moanda",
+    "timezone": "Africa/Libreville",
+    "asn": 16058,
+    "asn_org": "Gabon Telecom / Office of Posts and Telecommunications of Gabon",
+    "sources_count": 12,
+    "first_seen": "2025-09-06T19:41:35.878Z",
+    "last_checked": "2026-10-17T18:56:21.122Z"
+  }
+]

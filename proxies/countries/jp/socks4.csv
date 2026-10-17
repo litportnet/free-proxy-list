@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,816,821.5,99.3,95.1,922,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-17T19:03:17.053Z
+socks4,45.192.198.50,40001,socks4://45.192.198.50:40001,elite,false,2511,2490.5,59.4,51.5,660,104.28.243.105,2,jp,Tokyo,Tokyo,Asia/Tokyo,13335,"Cloudflare, Inc.",15,2026-10-07T10:01:58.949Z,2026-10-17T18:58:46.084Z

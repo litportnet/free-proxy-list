@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,692,1805,63,71.2,730,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-10-17T18:59:05.215Z
+socks4,176.195.81.251,1080,socks4://176.195.81.251:1080,elite,true,4989,4900,28.4,37.4,115,31.77.254.4,1,ee,Harjumaa,Tallinn,Europe/Tallinn,207083,HOSTSLIM OU,12,2026-10-16T07:54:23.889Z,2026-10-17T18:57:31.575Z

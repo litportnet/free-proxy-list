@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "104.248.151.220",
+    "port": 57554,
+    "url": "socks4://104.248.151.220:57554",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5612,
+    "latency_median_ms": 6201.5,
+    "uptime_24h": 11.1,
+    "uptime_7d": 22.3,
+    "checks_7d": 373,
+    "exit_ip": "104.248.151.220",
+    "exit_shared": 1,
+    "country": "sg",
+    "region": "Singapore",
+    "city": "Singapore",
+    "timezone": "Asia/Singapore",
+    "asn": 14061,
+    "asn_org": "DigitalOcean, LLC",
+    "sources_count": 12,
+    "first_seen": "2025-09-10T20:15:45.187Z",
+    "last_checked": "2026-10-17T19:00:52.720Z"
+  }
+]

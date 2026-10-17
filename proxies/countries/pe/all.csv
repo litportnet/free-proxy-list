@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,true,1727,1759.5,38.7,51.9,630,190.12.95.170,2,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-10-17T18:53:06.123Z
+http,64.76.106.145,999,http://64.76.106.145:999,transparent,false,4787,4978,37.7,32.9,243,38.250.228.162,1,pe,Lima Province,Lima,America/Lima,273067,LOA NETWORK JL S.A.C.,19,2026-10-13T22:24:10.591Z,2026-10-17T18:55:53.485Z
+http,64.76.73.131,999,http://64.76.73.131:999,transparent,false,2742,3360.5,26.5,28.5,453,64.76.73.131,1,pe,Cuzco Department,Cusco,America/Lima,274087,FIBERLINK E.I.R.L.,26,2026-08-04T10:09:44.419Z,2026-10-17T18:55:33.364Z
+http,190.12.95.170,47029,http://190.12.95.170:47029,elite,false,3222,5045,27.7,21.8,330,190.12.95.170,2,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,22,2025-09-06T08:33:41.003Z,2026-10-17T18:59:14.793Z
+http,38.252.215.109,999,http://38.252.215.109:999,transparent,false,1823,2584,24.1,13,253,38.252.215.109,1,pe,Lima Province,Lima,America/Lima,274156,TELDRA S.A.C.,11,2025-09-06T05:32:52.959Z,2026-10-17T19:02:03.355Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,1.4.141.80,80,http://1.4.141.80:80,transparent,false,6598,3714.5,36,36.8,106,1.4.141.80,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,15,2026-10-16T11:56:32.488Z,2026-10-17T18:55:38.117Z
+http,1.20.178.212,80,http://1.20.178.212:80,transparent,false,6585,4221.5,36.9,29,376,1.20.178.212,1,th,Nakhon Phanom,Nakhon Phanom,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-10-07T07:00:21.418Z,2026-10-17T18:54:34.374Z
+http,1.20.101.24,80,http://1.20.101.24:80,transparent,false,5712,3233.5,30,27.9,459,1.20.101.24,1,th,Sa Kaeo,Wang Nam Yen,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-10-09T05:24:46.350Z,2026-10-17T19:02:19.909Z
+http,1.20.178.221,80,http://1.20.178.221:80,transparent,false,4459,4595.5,23.7,21.6,315,1.20.178.221,1,th,Surin,Surin,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-10-08T06:12:35.542Z,2026-10-17T18:55:18.994Z
+http,180.180.156.117,80,http://180.180.156.117:80,transparent,false,5433,3978.5,54.6,,22,180.180.156.117,1,th,Chon Buri,Phan Thong,Asia/Bangkok,23969,TOT Public Company Limited,16,2026-10-17T12:09:16.892Z,2026-10-17T19:01:55.317Z

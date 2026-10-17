@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "94.183.170.105",
+    "port": 1080,
+    "url": "socks5://94.183.170.105:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2007,
+    "latency_median_ms": 1147.5,
+    "uptime_24h": 86.2,
+    "uptime_7d": 90.2,
+    "checks_7d": 264,
+    "exit_ip": "94.183.170.105",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "asn": 212743,
+    "asn_org": "ETERNITY INTERNATIONAL LIMITED",
+    "sources_count": 15,
+    "first_seen": "2026-10-15T17:46:58.008Z",
+    "last_checked": "2026-10-17T19:01:28.025Z"
+  }
+]

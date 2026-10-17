@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.4.136.106",
+    "port": 10801,
+    "url": "socks5://45.4.136.106:10801",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 583,
+    "latency_median_ms": 2169,
+    "uptime_24h": 14.3,
+    "uptime_7d": 10.4,
+    "checks_7d": 154,
+    "exit_ip": "190.92.48.162",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Choluteca Department",
+    "city": "Ciudad Choluteca",
+    "timezone": "America/Tegucigalpa",
+    "asn": 27884,
+    "asn_org": "CABLECOLOR S.A.",
+    "sources_count": 17,
+    "first_seen": "2026-06-30T13:43:52.141Z",
+    "last_checked": "2026-10-17T19:01:51.021Z"
+  }
+]

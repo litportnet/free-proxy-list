@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.171.28.162,59311,socks4://46.171.28.162:59311,elite,true,667,1185,48.8,51,625,46.171.28.162,1,pl,Łódź Voivodeship,Łódź,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,23,2025-09-04T23:48:54.320Z,2026-10-17T19:00:20.714Z
+socks4,185.32.4.102,4153,socks4://185.32.4.102:4153,elite,true,3708,660.5,41.3,46.5,596,185.32.4.102,1,pl,West Pomerania,Ińsko,Europe/Warsaw,60645,AS Consulting Sp. z o. o.,14,2025-09-04T23:48:59.986Z,2026-10-17T18:55:37.047Z

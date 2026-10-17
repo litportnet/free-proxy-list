@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,173.249.24.121,1080,socks4://173.249.24.121:1080,elite,true,1675,1250,99.3,98.7,396,173.249.24.121,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,16,2026-09-16T01:17:00.632Z,2026-10-17T19:02:39.566Z
+socks4,45.140.165.142,40001,socks4://45.140.165.142:40001,elite,false,5955,5954,64.3,64.8,250,104.28.248.185,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,13335,"Cloudflare, Inc.",14,2026-10-15T10:43:14.923Z,2026-10-17T19:01:30.180Z
+socks4,77.221.152.210,36219,socks4://77.221.152.210:36219,elite,false,961,3418.5,26.2,17.2,238,77.221.152.210,1,fr,Île-de-France,Paris,Europe/Paris,210644,AEZA GROUP LLC,11,2026-04-18T09:32:21.983Z,2026-10-17T18:53:25.658Z

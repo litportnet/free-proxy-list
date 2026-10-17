@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "103.110.110.20",
+    "port": 3128,
+    "url": "http://103.110.110.20:3128",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1530,
+    "latency_median_ms": 4598,
+    "uptime_24h": 26.3,
+    "uptime_7d": 26.2,
+    "checks_7d": 191,
+    "exit_ip": "103.110.109.155",
+    "exit_shared": 1,
+    "country": "mv",
+    "region": "Kaafu Atoll",
+    "city": "Male",
+    "timezone": "Indian/Maldives",
+    "asn": 136238,
+    "asn_org": "SatLink Pvt Ltd",
+    "sources_count": 19,
+    "first_seen": "2026-09-24T19:29:27.076Z",
+    "last_checked": "2026-10-17T18:53:58.991Z"
+  }
+]

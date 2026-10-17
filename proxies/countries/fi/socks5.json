@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "46.62.236.59",
+    "port": 1080,
+    "url": "socks5://46.62.236.59:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1223,
+    "latency_median_ms": 2336,
+    "uptime_24h": 100,
+    "uptime_7d": 97.3,
+    "checks_7d": 297,
+    "exit_ip": "46.62.236.59",
+    "exit_shared": 2,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 24940,
+    "asn_org": "Hetzner Online GmbH",
+    "sources_count": 13,
+    "first_seen": "2026-10-15T15:45:57.005Z",
+    "last_checked": "2026-10-17T18:56:13.682Z"
+  }
+]

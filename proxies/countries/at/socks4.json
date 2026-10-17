@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "83.218.186.22",
+    "port": 5678,
+    "url": "socks4://83.218.186.22:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3849,
+    "latency_median_ms": 3143.5,
+    "uptime_24h": 60.4,
+    "uptime_7d": 72.1,
+    "checks_7d": 761,
+    "exit_ip": "83.218.186.22",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Tyrol",
+    "city": "Bairbach",
+    "timezone": "Europe/Vienna",
+    "asn": 31543,
+    "asn_org": "myNet GmbH",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:48:59.120Z",
+    "last_checked": "2026-10-17T19:01:40.291Z"
+  }
+]

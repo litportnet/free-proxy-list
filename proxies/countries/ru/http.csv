@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,46.47.197.210,3128,http://46.47.197.210:3128,elite,false,576,649,100,99.9,1005,46.47.197.210,1,ru,Novgorod Oblast,Kresttsy,Europe/Moscow,20632,PJSC MegaFon,18,2025-09-10T21:05:12.166Z,2026-10-17T18:57:15.506Z
+http,147.45.163.13,80,http://147.45.163.13:80,elite,false,635,642,97.9,98.1,563,147.45.163.13,1,ru,Moscow,Moscow,Europe/Moscow,9123,JSC TIMEWEB,4,2026-10-13T19:22:56.472Z,2026-10-17T19:00:21.774Z
+http,31.28.4.192,80,http://31.28.4.192:80,elite,false,4988,2732.5,66.3,73,760,31.28.4.192,1,ru,Moscow,Moscow,Europe/Moscow,29076,Citytelecom LLC,11,2025-09-04T23:49:35.291Z,2026-10-17T19:00:10.571Z
+http,79.174.12.190,80,http://79.174.12.190:80,elite,false,2021,657,84.8,66.8,639,79.174.12.190,1,ru,Moscow,Moscow,Europe/Moscow,29182,JSC IOT,12,2025-09-10T19:34:45.087Z,2026-10-17T19:00:18.018Z
+http,82.148.13.136,80,http://82.148.13.136:80,elite,false,5478,5464.5,59.8,63.1,623,82.148.13.136,1,ru,Moscow,Moscow,Europe/Moscow,50340,JSC Selectel,17,2025-09-06T05:35:56.584Z,2026-10-17T18:54:20.627Z
+http,193.19.190.59,8095,http://193.19.190.59:8095,transparent,true,6878,5002.5,22.2,22.8,290,193.19.190.59,1,ru,Voronezh Oblast,Voronezh,Europe/Moscow,43991,Voronezh Telecom LLC,19,2026-09-30T18:44:49.455Z,2026-10-17T18:57:44.883Z
+http,91.234.96.45,9001,http://91.234.96.45:9001,anonymous,false,6869,4792.5,18,18,206,91.234.96.1,1,ru,Moscow,Moscow,Europe/Moscow,198083,Virtual Station LLC,17,2026-07-28T05:38:35.218Z,2026-10-17T18:57:01.577Z

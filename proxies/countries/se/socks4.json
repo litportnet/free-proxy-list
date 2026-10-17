@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "148.251.157.89",
+    "port": 9050,
+    "url": "socks4://148.251.157.89:9050",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1262,
+    "latency_median_ms": 1308,
+    "uptime_24h": 33.3,
+    "uptime_7d": null,
+    "checks_7d": 15,
+    "exit_ip": "193.189.100.197",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Stockholm",
+    "city": "Stockholm",
+    "timezone": "Europe/Stockholm",
+    "asn": 41281,
+    "asn_org": "KeFF Networks Ltd",
+    "sources_count": 1,
+    "first_seen": "2025-09-04T23:49:07.031Z",
+    "last_checked": "2026-10-17T18:55:44.449Z"
+  }
+]

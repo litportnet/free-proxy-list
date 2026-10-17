@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,7124,5033,96,96,125,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,13,2026-09-11T22:06:41.545Z,2026-10-17T18:57:24.043Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,9382,4630,84.6,69.4,284,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-10-17T19:02:42.726Z
+socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,2318,1635.5,71.7,58.8,611,138.199.57.38,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,20,2026-08-24T21:47:23.618Z,2026-10-17T18:53:47.879Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,325,227.5,56.4,55.6,684,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-10-17T18:56:41.865Z
+socks5,45.74.31.41,7175,socks5://45.74.31.41:7175,elite,true,1340,3503.5,31.6,26.6,139,178.128.236.171,3,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",10,2026-10-14T23:37:25.093Z,2026-10-17T19:01:33.937Z
+socks5,45.74.31.47,7035,socks5://45.74.31.47:7035,elite,false,3963,4034.5,26.1,16.2,167,178.128.236.171,3,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",13,2026-09-28T05:12:30.822Z,2026-10-17T18:59:44.497Z
+socks5,45.74.31.40,5754,socks5://45.74.31.40:5754,elite,true,1205,2006.5,43.3,,30,178.128.236.171,3,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",5,2026-10-17T03:04:28.395Z,2026-10-17T19:01:24.280Z

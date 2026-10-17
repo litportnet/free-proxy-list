@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "47.87.97.94",
+    "port": 1080,
+    "url": "socks5://47.87.97.94:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2587,
+    "latency_median_ms": 1794.5,
+    "uptime_24h": 100,
+    "uptime_7d": 99.8,
+    "checks_7d": 795,
+    "exit_ip": "47.87.97.94",
+    "exit_shared": 1,
+    "country": "th",
+    "region": "Bangkok",
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "asn": 45102,
+    "asn_org": "Alibaba (US) Technology Co., Ltd.",
+    "sources_count": 14,
+    "first_seen": "2026-10-12T05:02:25.712Z",
+    "last_checked": "2026-10-17T19:02:08.165Z"
+  }
+]

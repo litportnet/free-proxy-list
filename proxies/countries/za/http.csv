@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,20.33.10.132,80,http://20.33.10.132:80,elite,false,4427,3777,78.5,91,543,20.33.10.79,1,za,Gauteng,Johannesburg,Africa/Johannesburg,8069,Microsoft Corporation,10,2026-06-06T09:36:48.987Z,2026-10-17T18:59:54.023Z
+http,196.223.129.21,80,http://196.223.129.21:80,elite,false,968,1384,86,81.1,829,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-10-17T19:02:51.826Z
+http,156.155.51.117,8080,http://156.155.51.117:8080,transparent,false,4959,3764.5,34.7,32.1,464,156.155.51.117,1,za,KwaZulu-Natal,Durban,Africa/Johannesburg,37611,AFRIHOST SP (PTY) LTD,15,2026-05-20T22:11:50.999Z,2026-10-17T18:55:38.639Z
+http,41.78.184.38,8080,http://41.78.184.38:8080,transparent,false,6560,4397,30,28,421,41.78.184.38,1,za,Gauteng,Mogale City,Africa/Johannesburg,37675,SkyWire (PTY) LTD,18,2026-08-26T21:15:35.583Z,2026-10-17T19:00:58.573Z
+http,102.66.8.18,9999,http://102.66.8.18:9999,transparent,true,6363,3873.5,23.8,24.5,339,102.66.8.18,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,26,2026-08-26T21:14:28.868Z,2026-10-17T18:59:20.614Z

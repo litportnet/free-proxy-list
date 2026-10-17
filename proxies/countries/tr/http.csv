@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.98.32.97,8080,http://79.98.32.97:8080,transparent,false,7936,3476,26.9,28.5,400,79.98.32.97,1,tr,Adana,Adana,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,20,2026-10-04T00:19:04.366Z,2026-10-17T18:55:02.569Z
+http,176.88.65.164,8080,http://176.88.65.164:8080,transparent,false,3410,3321.5,28.9,22.4,321,176.88.65.164,1,tr,İzmir Province,İzmir,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,19,2026-09-29T21:33:38.008Z,2026-10-17T19:02:20.440Z
+http,212.252.71.20,8080,http://212.252.71.20:8080,transparent,false,5043,3578.5,33.3,19.3,228,212.252.71.20,1,tr,Kilis,Kilis,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,23,2026-04-07T15:51:37.132Z,2026-10-17T19:00:16.963Z
+http,176.88.166.201,8080,http://176.88.166.201:8080,transparent,false,8532,2291,18.2,19,237,176.88.166.201,1,tr,Istanbul,Silivri,Europe/Istanbul,34984,Superonline Iletisim Hizmetleri A.S.,22,2026-09-19T03:36:55.103Z,2026-10-17T18:59:39.194Z

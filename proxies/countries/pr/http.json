@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "192.203.0.250",
+    "port": 999,
+    "url": "http://192.203.0.250:999",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 4894,
+    "latency_median_ms": 2118.5,
+    "uptime_24h": 29.9,
+    "uptime_7d": 21.8,
+    "checks_7d": 289,
+    "exit_ip": "192.203.0.250",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "San Juan",
+    "city": "San Juan",
+    "timezone": "America/Puerto_Rico",
+    "asn": 63393,
+    "asn_org": "BOOM NET",
+    "sources_count": 22,
+    "first_seen": "2025-09-05T20:06:32.624Z",
+    "last_checked": "2026-10-17T18:54:53.405Z"
+  }
+]

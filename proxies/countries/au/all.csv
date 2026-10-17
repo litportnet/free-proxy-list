@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,2235,2301,48,50.9,548,45.67.96.81,1,au,New South Wales,Sydney,Australia/Sydney,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T05:31:54.290Z,2026-10-17T18:56:33.360Z
+socks5,66.59.197.61,3128,socks5://66.59.197.61:3128,elite,true,1138,1053.5,34.8,35.6,467,144.48.39.38,1,au,Queensland,Brisbane,Australia/Brisbane,136557,Host Universal Pty Ltd,18,2026-08-13T16:07:05.398Z,2026-10-17T18:56:23.793Z
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,8975,2272,50,32.4,179,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-17T19:02:51.823Z

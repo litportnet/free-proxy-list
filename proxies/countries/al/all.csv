@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.190.90.2,4145,socks4://185.190.90.2:4145,elite,true,7977,2703.5,48.3,58.6,601,185.190.90.2,1,al,Durrës County,Durrës,Europe/Tirane,212637,LightNet Sh.p.k.,21,2025-09-04T23:49:13.395Z,2026-10-17T18:55:56.650Z
+socks4,80.78.74.8,65530,socks4://80.78.74.8:65530,elite,true,1724,1723,47.5,54.6,641,80.78.74.8,1,al,Durrës County,Durrës,Europe/Tirane,21183,Vodafone Albania Sh.A.,21,2025-09-05T20:06:23.438Z,2026-10-17T18:54:09.034Z
+http,185.196.182.29,8080,http://185.196.182.29:8080,transparent,false,8944,2564.5,18.9,28.5,445,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,19,2026-10-01T11:53:48.940Z,2026-10-17T19:01:26.427Z

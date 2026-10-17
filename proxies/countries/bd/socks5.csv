@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,59.152.97.233,1080,socks5://59.152.97.233:1080,elite,false,4663,4706,58.7,56.8,688,157.10.243.17,1,bd,Chittagong,Chāndpur,Asia/Dhaka,147006,Star IT,18,2026-07-04T16:35:28.122Z,2026-10-17T18:56:34.435Z
+socks5,119.148.7.10,22122,socks5://119.148.7.10:22122,elite,true,5427,3798,59.1,52.6,660,119.148.7.10,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23923,Agni Systems Limited,20,2026-03-04T08:32:53.154Z,2026-10-17T18:55:38.103Z
+socks5,202.4.115.232,9090,socks5://202.4.115.232:9090,elite,true,2558,2828,46.6,52.3,608,202.4.115.232,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,16,2026-10-09T17:31:10.453Z,2026-10-17T18:55:42.866Z
+socks5,118.179.102.168,9090,socks5://118.179.102.168:9090,elite,false,2652,2659.5,56.3,44,455,118.179.102.168,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,19,2026-09-03T05:48:29.748Z,2026-10-17T18:57:15.502Z
+socks5,202.91.41.102,1080,socks5://202.91.41.102:1080,elite,false,2607,2753.5,57.1,42.6,550,202.91.43.253,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,136224,City Online Ltd.,19,2026-08-02T04:41:40.397Z,2026-10-17T19:01:28.559Z
+socks5,103.189.218.76,6969,socks5://103.189.218.76:6969,elite,false,4816,4224.5,32.8,40.8,559,103.189.218.76,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,149868,Comfort Solutions,20,2025-09-05T20:06:31.413Z,2026-10-17T18:54:58.877Z
+socks5,118.179.27.153,1080,socks5://118.179.27.153:1080,elite,true,2686,3688.5,26.3,39.3,481,118.179.27.157,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,58656,bdHUB Limited,15,2026-10-10T01:35:26.071Z,2026-10-17T18:54:14.867Z
+socks5,118.179.151.158,9090,socks5://118.179.151.158:9090,elite,false,2654,4684.5,35.3,39.2,523,118.179.151.158,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,15,2026-09-26T08:49:06.310Z,2026-10-17T18:52:47.588Z
+socks5,123.0.24.154,9090,socks5://123.0.24.154:9090,elite,false,8690,3665,41.2,36,497,123.0.24.149,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,56054,Icon Infotech Limited,20,2026-07-04T13:36:21.251Z,2026-10-17T19:01:11.485Z

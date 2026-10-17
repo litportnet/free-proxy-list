@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,145.220.227.187,8080,socks4://145.220.227.187:8080,elite,false,3359,325.5,97.1,97.1,138,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,9,2026-10-16T19:00:20.469Z,2026-10-17T19:01:49.960Z
+socks4,145.220.227.154,8080,socks4://145.220.227.154:8080,elite,false,314,1327.5,97,96.1,152,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,9,2026-10-16T15:58:44.616Z,2026-10-17T19:00:15.332Z
+socks4,145.220.227.142,8080,socks4://145.220.227.142:8080,elite,false,304,361,95.5,94.2,139,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,10,2026-10-16T17:59:56.280Z,2026-10-17T18:53:54.720Z
+socks4,145.220.227.208,8080,socks4://145.220.227.208:8080,elite,false,297,322,94,92.4,144,145.220.183.23,11,nl,Flevoland,Lelystad,Europe/Amsterdam,1101,IP-EEND BV,10,2026-10-16T16:59:17.161Z,2026-10-17T19:00:20.169Z
+socks4,51.15.253.45,8080,socks4://51.15.253.45:8080,elite,true,814,2338.5,68.1,67.5,711,192.42.116.115,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,11,2026-07-25T00:58:03.543Z,2026-10-17T18:58:31.199Z
+socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,true,827,3544,44.7,41.2,568,128.199.37.92,1,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",20,2025-09-10T19:34:11.853Z,2026-10-17T18:56:01.512Z
+socks4,46.175.148.45,1080,socks4://46.175.148.45:1080,elite,true,6649,2546,76,,25,46.175.148.45,1,nl,Overijssel,Zwolle,Europe/Amsterdam,50673,Serverius,10,2026-10-17T13:09:46.782Z,2026-10-17T18:55:22.175Z

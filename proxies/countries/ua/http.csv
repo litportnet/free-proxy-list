@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,194.44.255.112,8080,http://194.44.255.112:8080,transparent,true,8911,3797.5,40,41.5,123,194.44.255.112,2,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,17,2026-10-01T09:52:43.632Z,2026-10-17T18:54:26.983Z

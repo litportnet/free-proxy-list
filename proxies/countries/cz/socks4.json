@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "217.197.151.182",
+    "port": 5678,
+    "url": "socks4://217.197.151.182:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8050,
+    "latency_median_ms": 4246.5,
+    "uptime_24h": 60.4,
+    "uptime_7d": 65.5,
+    "checks_7d": 666,
+    "exit_ip": "217.197.151.182",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "Olomouc Region",
+    "city": "Přerov",
+    "timezone": "Europe/Prague",
+    "asn": 42908,
+    "asn_org": "ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:02.661Z",
+    "last_checked": "2026-10-17T18:56:53.030Z"
+  }
+]

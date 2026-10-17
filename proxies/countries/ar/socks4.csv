@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,200.80.227.234,4145,socks4://200.80.227.234:4145,elite,false,2006,2980,65.3,59.4,687,200.80.227.234,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,11664,Techtel LMDS Comunicaciones Interactivas S.A.,13,2025-09-04T23:02:18.350Z,2026-10-17T18:56:42.934Z
+socks4,190.220.25.42,4153,socks4://190.220.25.42:4153,elite,true,987,2000,51.1,47.8,624,190.220.25.42,1,ar,Cordoba,Córdoba,America/Argentina/Cordoba,11664,Techtel LMDS Comunicaciones Interactivas S.A.,13,2025-09-04T23:48:58.428Z,2026-10-17T18:56:13.169Z
+socks4,200.122.92.211,5678,socks4://200.122.92.211:5678,elite,false,1002,2081,20,24.2,352,200.122.92.211,1,ar,Cordoba,Bell Ville,America/Argentina/Cordoba,7303,Telecom Argentina S.A.,13,2025-09-06T05:32:30.432Z,2026-10-17T19:02:32.651Z

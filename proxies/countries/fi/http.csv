@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,600,571,96.4,97,978,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-17T18:56:14.220Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,567,567.5,97.1,93.5,520,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,5,2026-10-13T20:23:27.401Z,2026-10-17T18:53:11.394Z
+http,65.108.159.129,8081,http://65.108.159.129:8081,unknown,true,1572,1580.5,15,14.9,201,65.108.159.129,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,19,2025-09-06T16:40:16.585Z,2026-10-17T18:59:42.880Z

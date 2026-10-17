@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "95.140.118.34",
+    "port": 1080,
+    "url": "socks4://95.140.118.34:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 763,
+    "latency_median_ms": 899,
+    "uptime_24h": 63.6,
+    "uptime_7d": 66,
+    "checks_7d": 620,
+    "exit_ip": "95.140.118.34",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Central Serbia",
+    "city": "Savski Venac",
+    "timezone": "Europe/Belgrade",
+    "asn": 9125,
+    "asn_org": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "sources_count": 20,
+    "first_seen": "2026-07-11T02:57:55.862Z",
+    "last_checked": "2026-10-17T19:01:05.540Z"
+  }
+]

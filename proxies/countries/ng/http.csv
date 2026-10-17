@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1097,870,92.3,77.4,788,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-17T18:55:11.589Z
+http,155.93.96.210,8080,http://155.93.96.210:8080,transparent,false,4394,5400,20.4,15.9,176,155.93.96.210,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,16,2025-09-04T23:49:52.563Z,2026-10-17T18:58:41.844Z

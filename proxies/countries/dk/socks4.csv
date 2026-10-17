@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,92.113.147.54,1080,socks4://92.113.147.54:1080,elite,false,4085,4085,50,,4,92.113.147.54,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,44803,Webdock.io ApS,4,2026-10-05T06:34:59.510Z,2026-10-17T19:00:00.434Z

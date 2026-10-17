@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,358,248,97.9,91.4,933,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-17T18:55:06.243Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,true,7996,4397,25.5,19.6,373,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-10-17T18:58:55.134Z

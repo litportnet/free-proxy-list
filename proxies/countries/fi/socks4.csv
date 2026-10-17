@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.62.236.59,1080,socks4://46.62.236.59:1080,elite,true,847,1972,100,99,298,46.62.236.59,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-10-15T16:46:29.633Z,2026-10-17T19:02:39.035Z
+socks4,193.221.203.14,1080,socks4://193.221.203.14:1080,elite,false,2671,2442.5,20.4,22,200,193.221.203.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,13,2026-04-13T17:15:03.771Z,2026-10-17T18:53:55.235Z
+socks4,62.60.230.196,1080,socks4://62.60.230.196:1080,elite,true,2682,4064.5,11.1,13.1,176,62.60.230.196,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,19,2026-04-21T12:58:26.519Z,2026-10-17T18:58:01.416Z

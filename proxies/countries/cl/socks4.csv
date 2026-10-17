@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,152.231.81.19,1080,socks4://152.231.81.19:1080,elite,false,1850,1850.5,46.3,50.2,645,152.231.81.18,1,cl,Valparaiso,Viña del Mar,America/Santiago,27651,ENTEL CHILE S.A.,16,2026-10-05T23:44:01.078Z,2026-10-17T19:02:25.737Z

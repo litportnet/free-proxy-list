@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.30.104.170,1080,socks4://160.30.104.170:1080,elite,true,1196,1689.5,87.8,78.9,821,160.30.104.170,1,pk,Punjab,Khanpur,Asia/Karachi,134489,S. B Link Network,13,2026-08-09T01:08:58.379Z,2026-10-17T18:54:14.863Z
+socks4,110.38.234.74,1080,socks4://110.38.234.74:1080,elite,false,8232,2025.5,76.4,73.7,788,110.38.234.74,1,pk,Punjab,Kundian,Asia/Karachi,38264,National WiMAX/IMS environment,21,2026-07-04T20:40:07.186Z,2026-10-17T18:52:24.924Z
+socks4,110.39.135.194,1080,socks4://110.39.135.194:1080,elite,true,7384,1514.5,41.8,62.1,655,110.39.135.194,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,16,2026-10-10T02:35:58.526Z,2026-10-17T18:59:57.716Z
+socks4,103.178.120.53,1080,socks4://103.178.120.53:1080,elite,true,1423,1589,38.9,59.1,616,103.178.120.53,1,pk,Punjab,Lahore,Asia/Karachi,136969,KK Networks (Pvt) Ltd.,15,2026-10-09T18:31:45.163Z,2026-10-17T19:03:04.705Z
+socks4,125.209.110.83,1981,socks4://125.209.110.83:1981,elite,true,2184,2221,47,47.5,649,125.209.110.83,1,pk,Punjab,Lahore,Asia/Karachi,9260,Multinet Pakistan Pvt. Ltd.,22,2025-09-10T02:55:02.873Z,2026-10-17T18:56:06.282Z
+socks4,58.65.167.165,4145,socks4://58.65.167.165:4145,elite,false,1246,1779.5,43.1,46.1,607,124.109.44.126,1,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,13,2025-09-04T23:48:58.453Z,2026-10-17T19:01:08.259Z

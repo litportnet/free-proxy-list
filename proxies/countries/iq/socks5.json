@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "130.255.95.177",
+    "port": 4080,
+    "url": "socks5://130.255.95.177:4080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4108,
+    "latency_median_ms": 2169.5,
+    "uptime_24h": 28.8,
+    "uptime_7d": 41.7,
+    "checks_7d": 592,
+    "exit_ip": "130.255.95.177",
+    "exit_shared": 1,
+    "country": "iq",
+    "region": "Duhok",
+    "city": "Zaxo",
+    "timezone": "Asia/Baghdad",
+    "asn": 197882,
+    "asn_org": "Tarin General Trading and Setting Up Internet Device LTD",
+    "sources_count": 15,
+    "first_seen": "2026-10-04T21:30:14.325Z",
+    "last_checked": "2026-10-17T18:55:43.918Z"
+  }
+]

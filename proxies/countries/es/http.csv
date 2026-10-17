@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,471,464,89.2,97.1,969,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-17T18:56:28.565Z
+http,81.0.49.104,19775,http://81.0.49.104:19775,transparent,false,2161,4979.5,13.5,7.1,113,81.0.49.104,1,es,Madrid,Madrid,Europe/Madrid,15704,XTRA TELECOM S.A.,21,2026-05-18T19:49:35.475Z,2026-10-17T18:57:29.953Z

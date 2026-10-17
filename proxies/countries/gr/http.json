@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "150.140.148.235",
+    "port": 80,
+    "url": "http://150.140.148.235:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9015,
+    "latency_median_ms": 2158,
+    "uptime_24h": 84.1,
+    "uptime_7d": 79.9,
+    "checks_7d": 802,
+    "exit_ip": "150.140.148.235",
+    "exit_shared": 1,
+    "country": "gr",
+    "region": "Attica",
+    "city": "Athens",
+    "timezone": "Europe/Athens",
+    "asn": 5408,
+    "asn_org": "National Infrastructures for Research and Technology S.A.",
+    "sources_count": 18,
+    "first_seen": "2026-07-09T22:46:02.146Z",
+    "last_checked": "2026-10-17T18:55:40.731Z"
+  }
+]

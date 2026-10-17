@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,1727,2769,48.8,72.9,763,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-10-17T18:56:16.351Z
+socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,false,726,707.5,62.6,54.4,654,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,10,2025-09-05T20:06:27.740Z,2026-10-17T18:56:13.138Z

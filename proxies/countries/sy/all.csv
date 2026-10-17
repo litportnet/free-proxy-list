@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.235.16.12,80,http://185.235.16.12:80,unknown,false,713,730,100,100,1005,185.235.16.12,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,11,2025-09-10T20:03:32.461Z,2026-10-17T19:02:46.431Z
+http,89.43.132.194,8080,http://89.43.132.194:8080,transparent,false,1377,4473,34.4,37.2,129,89.43.132.194,1,sy,Idlib,Idlib,Asia/Damascus,216472,High Speed For Internet Services L.L.C,18,2026-10-16T01:51:13.995Z,2026-10-17T19:01:33.928Z
+http,89.43.133.229,8080,http://89.43.133.229:8080,transparent,false,2198,5060.5,31.3,27.1,365,89.43.133.229,1,sy,Idlib,Idlib,Asia/Damascus,216472,High Speed For Internet Services L.L.C,23,2026-05-31T06:22:59.413Z,2026-10-17T19:01:42.433Z
+http,89.43.132.226,8080,http://89.43.132.226:8080,transparent,false,3142,4555.5,22.2,20.8,279,89.43.132.226,1,sy,Idlib,Idlib,Asia/Damascus,216472,High Speed For Internet Services L.L.C,24,2026-04-13T04:01:17.219Z,2026-10-17T18:54:44.962Z
+http,193.43.140.255,8080,http://193.43.140.255:8080,transparent,false,4941,3934,17.4,13.2,189,185.225.42.134,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,8,2025-09-30T15:25:55.495Z,2026-10-17T18:57:29.951Z
