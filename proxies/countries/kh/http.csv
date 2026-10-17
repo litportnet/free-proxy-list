@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,4503,3594,69.1,66,787,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-16T04:30:34.036Z
-http,175.100.34.177,8080,http://175.100.34.177:8080,transparent,true,5269,4262,22.2,10.2,108,175.100.34.177,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,11,2025-09-05T20:06:32.809Z,2026-10-16T04:22:48.166Z
+http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,7384,5327,67.8,66.4,773,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-17T04:24:39.708Z

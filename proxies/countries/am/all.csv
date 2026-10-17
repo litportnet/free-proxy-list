@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,845,1623.5,45.5,54.3,724,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-10-16T04:28:05.274Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,false,973,1888.5,42.1,35.6,607,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-16T04:25:12.910Z
-socks4,212.34.230.102,4153,socks4://212.34.230.102:4153,elite,false,3827,2831,27.8,27.6,417,212.34.230.101,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,21,2026-07-06T02:53:45.276Z,2026-10-16T04:23:51.851Z
-http,45.133.107.64,81,http://45.133.107.64:81,transparent,false,3628,4300.5,13,9.6,166,45.133.107.246,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,12,2025-09-08T02:14:29.243Z,2026-10-16T04:26:13.956Z
-http,45.133.107.128,81,http://45.133.107.128:81,transparent,false,6115,3412.5,22.2,5.4,92,45.133.107.238,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,20,2026-09-16T17:25:31.374Z,2026-10-16T04:23:32.193Z
+socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,7991,2890.5,41.8,36.2,577,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-17T04:21:49.582Z

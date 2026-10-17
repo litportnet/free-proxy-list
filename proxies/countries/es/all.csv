@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,575,477,91.8,97.2,992,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-16T04:29:04.307Z
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,1707,1204.5,53.6,77.4,836,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-10-16T04:23:27.899Z
-http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,false,4862,4208.5,28.6,24.5,383,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-16T04:24:41.653Z
-http,91.126.244.112,8080,http://91.126.244.112:8080,transparent,false,2004,2629,20.3,23.4,376,91.126.244.112,1,es,Cantabria,Arnuero,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,26,2026-07-06T09:10:10.551Z,2026-10-16T04:23:19.489Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,727,3741,53.3,73.4,792,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-10-17T04:26:36.402Z
+socks4,77.225.198.220,4673,socks4://77.225.198.220:4673,elite,false,3701,3728,57.8,53.4,678,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,10,2025-09-05T20:06:27.740Z,2026-10-17T04:25:41.989Z
+http,90.161.186.147,3128,http://90.161.186.147:3128,transparent,false,5644,3737.5,17,17.4,294,90.161.186.147,1,es,Canary Islands,Santiago del Teide,Atlantic/Canary,12479,Orange Espagne SA,20,2025-09-06T21:22:58.878Z,2026-10-17T04:22:08.835Z

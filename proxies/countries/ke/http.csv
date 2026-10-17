@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.213.179.113,8080,http://102.213.179.113:8080,anonymous,false,2453,5829,22.7,33,552,102.202.6.18,1,ke,Kajiado County,Ongata Rongai,Africa/Nairobi,329773,Maisha Home Broadband Limited,18,2026-08-22T06:14:57.399Z,2026-10-16T04:25:10.273Z
-http,102.0.25.184,8080,http://102.0.25.184:8080,transparent,false,2951,3173,9.1,16.8,167,102.0.25.184,1,ke,Machakos County,Machakos,Africa/Nairobi,36926,Airtel Networks Kenya Limited,24,2026-04-12T14:54:57.216Z,2026-10-16T04:31:12.816Z

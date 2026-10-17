@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,51.17.99.135,40044,http://51.17.99.135:40044,unknown,false,895,1393,20,,28,51.17.99.135,1,lt,Vilnius,Vilnius,Europe/Vilnius,213790,Limited Network LTD,5,2026-10-08T02:10:43.706Z,2026-10-16T04:23:26.332Z

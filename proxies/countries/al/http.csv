@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.106.108.156,8079,http://79.106.108.156:8079,transparent,false,4177,3311,9.1,14.8,169,79.106.108.146,1,al,Gjirokastër County,Tepelenë,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2025-09-06T05:35:59.479Z,2026-10-16T04:25:02.929Z

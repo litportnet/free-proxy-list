@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.42,35266,socks5://45.74.31.42:35266,elite,true,1655,1566,100,,6,85.208.254.229,1,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,1,2026-10-14T09:30:00.061Z,2026-10-16T04:32:01.896Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2778,2734,47.4,54.3,645,45.133.6.3,1,au,Western Australia,Perth,Australia/Perth,137409,GSL Networks Pty LTD,18,2026-09-16T03:18:05.440Z,2026-10-16T04:27:15.322Z
+socks4,111.235.128.218,60606,socks4://111.235.128.218:60606,elite,true,8364,3345,56.5,51.4,689,111.235.128.218,1,au,Tasmania,Burnie,Australia/Hobart,134181,Burnie City Council,10,2026-04-14T04:25:18.761Z,2026-10-17T04:23:45.249Z

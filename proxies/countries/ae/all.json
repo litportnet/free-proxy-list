@@ -6,11 +6,11 @@
     "url": "http://47.91.104.88:3128",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 876,
-    "latency_median_ms": 879.5,
+    "latency_ms": 4081,
+    "latency_median_ms": 1522,
     "uptime_24h": 100,
-    "uptime_7d": 99.8,
-    "checks_7d": 1002,
+    "uptime_7d": 99.9,
+    "checks_7d": 1003,
     "exit_ip": "47.91.104.88",
     "exit_shared": 1,
     "country": "ae",
@@ -19,9 +19,9 @@
     "timezone": "Asia/Dubai",
     "asn": 45102,
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:31.958Z",
-    "last_checked": "2026-10-16T04:23:51.841Z"
+    "sources_count": 20,
+    "first_seen": "2025-09-07T07:15:56.592Z",
+    "last_checked": "2026-10-17T04:27:36.216Z"
   },
   {
     "protocol": "http",
@@ -29,12 +29,12 @@
     "port": 3128,
     "url": "http://91.73.223.206:3128",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 6911,
-    "latency_median_ms": 7821,
-    "uptime_24h": 37.5,
-    "uptime_7d": 8.8,
-    "checks_7d": 68,
+    "https": true,
+    "latency_ms": 6329,
+    "latency_median_ms": 7684,
+    "uptime_24h": 36.1,
+    "uptime_7d": 24.4,
+    "checks_7d": 131,
     "exit_ip": "91.73.223.206",
     "exit_shared": 1,
     "country": "ae",
@@ -43,8 +43,8 @@
     "timezone": "Asia/Dubai",
     "asn": 15802,
     "asn_org": "Emirates Integrated Telecommunications Company PJSC",
-    "sources_count": 8,
+    "sources_count": 9,
     "first_seen": "2026-06-16T19:51:19.582Z",
-    "last_checked": "2026-10-16T04:28:14.412Z"
+    "last_checked": "2026-10-17T04:29:40.794Z"
   }
 ]

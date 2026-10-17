@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,165.16.17.189,8080,http://165.16.17.189:8080,transparent,false,1307,5100,23.3,26.4,386,165.16.17.189,1,ly,Al Wahat,Ajdabiya,Africa/Tripoli,37284,Aljeel Aljadeed For Technology,14,2026-05-30T12:08:00.689Z,2026-10-16T04:23:23.676Z
-http,102.38.30.240,8080,http://102.38.30.240:8080,transparent,false,3365,4026,19.5,17,200,102.38.30.226,1,ly,Tripoli,Tripoli,Africa/Tripoli,328539,Giga for Telecommunication and Technology Limited,15,2026-08-26T21:15:35.402Z,2026-10-16T04:22:16.827Z
-http,154.73.29.130,8080,http://154.73.29.130:8080,transparent,true,2897,4562,13.3,7.6,118,154.73.28.75,1,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),13,2026-06-05T12:29:47.526Z,2026-10-16T04:27:05.688Z

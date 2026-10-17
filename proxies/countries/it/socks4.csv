@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,5627,2287.5,36.5,41.4,602,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-16T04:24:25.751Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,588,614.5,41.3,54.4,623,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-17T04:27:45.846Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,130.193.165.54,1080,socks5://130.193.165.54:1080,elite,true,1177,1174,50,48.5,623,130.193.165.54,1,iq,Erbil,Erbil,Asia/Baghdad,21277,Allay Nawroz Telecom Company for Communication/Ltd.,15,2026-10-09T13:29:04.342Z,2026-10-17T04:25:22.867Z

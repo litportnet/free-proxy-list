@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10808,
+    "url": "socks5://49.13.22.249:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1617,
+    "latency_median_ms": 2460,
+    "uptime_24h": 48.8,
+    "uptime_7d": 50.5,
+    "checks_7d": 566,
+    "exit_ip": "128.1.160.146",
+    "exit_shared": 1,
+    "country": "my",
+    "region": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "timezone": "Asia/Kuala_Lumpur",
+    "asn": 21859,
+    "asn_org": "Zenlayer Inc",
+    "sources_count": 19,
+    "first_seen": "2026-08-24T12:42:33.832Z",
+    "last_checked": "2026-10-17T04:22:03.547Z"
+  }
+]

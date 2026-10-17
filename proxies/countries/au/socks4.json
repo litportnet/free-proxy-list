@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "111.235.128.218",
+    "port": 60606,
+    "url": "socks4://111.235.128.218:60606",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8364,
+    "latency_median_ms": 3345,
+    "uptime_24h": 56.5,
+    "uptime_7d": 51.4,
+    "checks_7d": 689,
+    "exit_ip": "111.235.128.218",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "Tasmania",
+    "city": "Burnie",
+    "timezone": "Australia/Hobart",
+    "asn": 134181,
+    "asn_org": "Burnie City Council",
+    "sources_count": 10,
+    "first_seen": "2026-04-14T04:25:18.761Z",
+    "last_checked": "2026-10-17T04:23:45.249Z"
+  }
+]

@@ -6,11 +6,11 @@
     "url": "http://185.135.69.34:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 368,
-    "latency_median_ms": 361,
+    "latency_ms": 364,
+    "latency_median_ms": 364.5,
     "uptime_24h": 100,
-    "uptime_7d": 99.1,
-    "checks_7d": 1008,
+    "uptime_7d": 99.4,
+    "checks_7d": 1009,
     "exit_ip": "185.135.69.34",
     "exit_shared": 1,
     "country": "iq",
@@ -21,6 +21,6 @@
     "asn_org": "Giga Nineveh for internet services Ltd",
     "sources_count": 17,
     "first_seen": "2025-12-06T17:01:45.042Z",
-    "last_checked": "2026-10-16T04:30:32.926Z"
+    "last_checked": "2026-10-17T04:25:37.221Z"
   }
 ]

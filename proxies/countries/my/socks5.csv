@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,1617,2460,48.8,50.5,566,128.1.160.146,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,21859,Zenlayer Inc,19,2026-08-24T12:42:33.832Z,2026-10-17T04:22:03.547Z

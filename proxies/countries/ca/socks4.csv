@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,1345,850,29.7,53.6,696,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-16T04:24:12.003Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,true,2292,3487,80.5,80.5,77,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-10-17T04:28:21.643Z
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,1683,371,96.9,,32,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,9,2026-09-12T09:12:25.731Z,2026-10-17T04:24:38.055Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.59.112.185,8090,http://41.59.112.185:8090,transparent,false,6196,3955.5,28,24.3,305,41.59.112.185,1,tz,Dodoma,Dodoma,Africa/Dar_es_Salaam,33765,TANZANIA TELECOMMUNICATIONS CO. LTD,20,2026-10-01T05:50:36.719Z,2026-10-16T04:22:46.592Z
+http,154.0.155.133,8080,http://154.0.155.133:8080,transparent,false,4459,4406,20,32.3,378,154.0.155.133,1,tz,Mwanza,Mwanza,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,17,2026-08-31T04:10:01.273Z,2026-10-17T04:24:56.152Z

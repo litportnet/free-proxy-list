@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,24.152.53.68,999,http://24.152.53.68:999,transparent,false,2136,2700.5,22,27.2,386,24.152.53.68,1,gt,Jalapa,Jalapa,America/Guatemala,269964,TV CABLE UNIVERSAL S.A,18,2026-04-02T19:50:00.786Z,2026-10-16T04:28:36.461Z
+http,138.117.231.133,999,http://138.117.231.133:999,transparent,false,5848,4544.5,17.5,16.3,203,138.117.231.133,1,gt,Huehuetenango,Huehuetenango,America/Guatemala,269989,FIBERNET S.A,17,2025-09-05T20:06:32.073Z,2026-10-17T04:22:30.007Z

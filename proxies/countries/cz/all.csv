@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,1718,730,34.6,68.5,729,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-16T04:28:54.112Z
-socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,3656,1155.5,48.2,63.7,667,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-10-16T04:24:17.856Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,3948,2638.5,77.6,77.5,809,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-17T04:22:35.761Z
+http,185.205.210.154,8102,http://185.205.210.154:8102,elite,true,4810,1482.5,71.7,55.1,158,5.254.60.195,1,cz,Prague,Prague,Europe/Prague,3223,Voxility LLP,16,2026-08-08T15:04:31.977Z,2026-10-17T04:29:59.493Z
+http,85.239.156.66,5555,http://85.239.156.66:5555,elite,true,1567,3512.5,64.9,54,691,85.239.156.66,1,cz,Prague,Prague,Europe/Prague,202996,Ondrej Vrana,14,2026-10-05T14:39:12.971Z,2026-10-17T04:22:24.717Z
+socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,1707,1695.5,46.8,43,505,90.178.216.215,1,cz,Prague,Prague,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-10-17T04:22:31.063Z
+socks5,93.99.104.47,1080,socks5://93.99.104.47:1080,elite,true,1175,715.5,100,,33,93.99.104.47,1,cz,Prague,Prague,Europe/Prague,16019,Vodafone Czech Republic a.s.,11,2026-10-16T23:02:20.961Z,2026-10-17T04:28:53.676Z

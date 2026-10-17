@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,54.169.33.176,1080,socks5://54.169.33.176:1080,elite,true,1391,1350.5,100,100,53,54.169.33.176,1,sg,Singapore,Singapore,Asia/Singapore,16509,"Amazon.com, Inc.",10,2026-10-15T19:48:05.524Z,2026-10-16T04:26:07.532Z
-socks5,143.198.90.221,1088,socks5://143.198.90.221:1088,elite,true,1386,1366.5,100,99.4,313,143.198.90.221,1,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",15,2026-10-13T23:24:45.621Z,2026-10-16T04:25:01.813Z
-socks5,43.156.83.6,1080,socks5://43.156.83.6:1080,elite,false,1472,1476,9.1,22.8,272,43.156.83.6,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-10-07T10:02:02.873Z,2026-10-16T04:26:01.647Z
+socks5,143.198.90.221,1088,socks5://143.198.90.221:1088,elite,true,1294,1306,100,99.6,456,143.198.90.221,1,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",15,2026-10-13T23:24:45.621Z,2026-10-17T04:26:18.283Z
+socks5,43.156.154.226,12345,socks5://43.156.154.226:12345,elite,true,2673,3492,65.5,61.7,506,104.28.222.47,1,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",8,2026-10-12T03:01:25.801Z,2026-10-17T04:28:55.315Z
+socks5,45.74.31.41,13409,socks5://45.74.31.41:13409,elite,false,8877,7162.5,14.6,29.3,174,146.190.100.64,2,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",12,2026-10-10T13:41:43.308Z,2026-10-17T04:26:37.515Z
+socks5,45.74.31.41,9722,socks5://45.74.31.41:9722,elite,false,5563,4734,16.7,24.5,208,146.190.100.64,2,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",10,2026-10-10T04:36:57.105Z,2026-10-17T04:22:44.765Z

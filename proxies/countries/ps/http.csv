@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,213.244.95.175,8080,http://213.244.95.175:8080,transparent,false,5793,5003,8,19.9,251,213.244.95.175,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,21,2026-05-24T00:53:03.180Z,2026-10-16T04:23:14.204Z

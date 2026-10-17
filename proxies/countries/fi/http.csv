@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,144.31.75.29,1080,http://144.31.75.29:1080,elite,true,525,544.5,99.3,96.6,819,144.31.75.29,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,4,2026-08-12T00:47:17.694Z,2026-10-16T04:32:03.485Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,4668,586,95.7,96.1,985,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-16T04:31:45.922Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,600,583.5,97.9,97.2,984,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-17T04:29:46.156Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,563,1643.5,91.9,92.7,438,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,4,2026-10-13T20:23:27.401Z,2026-10-17T04:29:33.350Z
+http,31.76.58.136,3128,http://31.76.58.136:3128,elite,false,690,770,38.6,38.6,57,31.76.58.136,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210546,CHSL ONE LTD,12,2026-10-16T12:57:09.481Z,2026-10-17T04:29:52.011Z
+http,91.186.218.52,3128,http://91.186.218.52:3128,elite,false,606,630.5,16.7,11.8,170,91.186.218.52,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,20,2026-09-04T07:44:59.784Z,2026-10-17T04:29:57.897Z

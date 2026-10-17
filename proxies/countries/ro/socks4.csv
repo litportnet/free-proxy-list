@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,false,3822,1824.5,52.1,77.1,803,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,1,2026-03-17T17:23:30.908Z,2026-10-16T04:31:19.768Z
+socks4,46.214.153.223,5678,socks4://46.214.153.223:5678,elite,true,785,1023,81.9,78.6,805,46.214.153.223,1,ro,Suceava,Suceava,Europe/Bucharest,48161,NEXTGEN COMMUNICATIONS SRL,14,2025-09-04T23:49:00.753Z,2026-10-17T04:29:07.618Z
+socks4,93.115.174.1,1080,socks4://93.115.174.1:1080,elite,false,686,697.5,52.4,54.3,628,194.50.50.100,1,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,16,2026-10-10T03:36:30.009Z,2026-10-17T04:22:32.108Z

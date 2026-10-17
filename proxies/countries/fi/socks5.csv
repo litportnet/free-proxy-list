@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,2.29.110.194,1080,socks5://2.29.110.194:1080,elite,true,849,1133.5,99.1,99.1,112,2.29.110.194,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,12,2026-10-15T09:42:47.733Z,2026-10-16T04:24:56.525Z
-socks5,45.74.31.46,5091,socks5://45.74.31.46:5091,elite,true,899,2030,25,17.2,116,65.109.86.90,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-10-10T04:36:57.105Z,2026-10-16T04:26:45.785Z
+socks5,2.29.110.194,1080,socks5://2.29.110.194:1080,elite,true,1456,897,99.3,99.2,255,2.29.110.194,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,14,2026-10-15T09:42:47.733Z,2026-10-17T04:22:07.740Z
+socks5,46.62.236.59,1080,socks5://46.62.236.59:1080,elite,true,1420,1417,94.9,96.2,211,46.62.236.59,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-10-15T15:45:57.005Z,2026-10-17T04:20:28.215Z
+socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,3462,1559.5,100,40,175,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-08-02T08:42:38.750Z,2026-10-17T04:27:50.124Z

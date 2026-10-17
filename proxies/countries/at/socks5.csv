@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10808,socks5://5.75.133.113:10808,elite,true,1488,1313.5,40.9,45.8,587,185.9.19.90,1,at,Lower Austria,Langenzersdorf,Europe/Vienna,9009,M247 Europe SRL,19,2026-08-23T21:34:26.552Z,2026-10-16T04:26:46.336Z
+socks5,62.83.33.70,1080,socks5://62.83.33.70:1080,elite,true,1500,754.5,99.2,70.3,182,62.83.33.70,3,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-09-26T03:46:28.172Z,2026-10-17T04:29:11.357Z
+socks5,62.83.34.101,1080,socks5://62.83.34.101:1080,elite,true,819,756,99.1,67.5,166,62.83.34.101,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,15,2026-09-24T03:21:02.509Z,2026-10-17T04:21:49.576Z
+socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,true,8582,5983,54.4,62.2,728,62.83.33.70,3,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-10-10T06:38:00.990Z,2026-10-17T04:28:11.044Z

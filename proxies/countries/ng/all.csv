@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,2001,1955.5,53.6,75.4,825,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-16T04:25:30.911Z
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,904,910,82,70.2,765,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-16T04:24:28.896Z
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,893,895.5,50.5,53.4,670,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-16T04:25:09.752Z
-http,102.212.104.129,8082,http://102.212.104.129:8082,transparent,true,4570,4441,21.4,27.5,364,102.212.104.33,1,ng,Lagos,Lagos,Africa/Lagos,329236,Teltwine Networks Limited,24,2026-09-17T03:30:44.651Z,2026-10-16T04:22:07.849Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,940,3963.5,86.5,76.8,814,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-17T04:27:44.798Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,958,911.5,84.1,74,760,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-17T04:29:19.942Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,980,2019,46.2,55,637,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-17T04:20:10.245Z
+socks4,41.217.205.6,4153,socks4://41.217.205.6:4153,elite,true,1030,3072,32.9,32.9,79,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,12,2026-10-16T06:53:56.621Z,2026-10-17T04:22:45.843Z

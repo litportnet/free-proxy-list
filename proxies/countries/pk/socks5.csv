@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,72.255.38.180,1080,socks5://72.255.38.180:1080,elite,false,1366,3627,24.4,41,539,72.255.38.180,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,19,2026-08-02T04:41:37.409Z,2026-10-16T04:28:55.720Z
+socks5,103.151.42.242,1080,socks5://103.151.42.242:1080,elite,true,1933,2726,33.3,46.5,202,103.151.42.242,1,pk,Punjab,Lahore,Asia/Karachi,151330,PLAY BROADBAND (PRIVATE) LIMITED,14,2026-10-14T22:36:57.563Z,2026-10-17T04:22:09.387Z
+socks5,182.184.30.96,1080,socks5://182.184.30.96:1080,elite,true,1994,2771,32.1,38.6,575,182.184.30.96,1,pk,Punjab,Lahore,Asia/Karachi,17557,Pakistan Telecommunication Company Limited,15,2026-09-27T16:05:38.324Z,2026-10-17T04:28:09.454Z
+socks5,72.255.38.180,1080,socks5://72.255.38.180:1080,elite,false,5762,4681.5,37,38.1,517,72.255.38.180,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,19,2026-08-02T04:41:37.409Z,2026-10-17T04:23:52.701Z
+socks5,110.39.129.90,1080,socks5://110.39.129.90:1080,elite,false,2901,3070,87.5,,8,110.39.129.90,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,3,2026-10-17T03:04:32.430Z,2026-10-17T04:28:15.807Z

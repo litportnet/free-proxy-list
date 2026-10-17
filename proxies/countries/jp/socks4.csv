@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,848,809.5,91,94.8,920,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-16T04:29:46.225Z
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,779,828,99.3,94.7,922,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-17T04:22:16.252Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,1807,3794,65.2,64.4,716,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-17T04:23:00.676Z
+socks4,45.192.198.50,40001,socks4://45.192.198.50:40001,elite,true,828,2160,49.5,49.4,678,104.28.211.105,2,jp,Tokyo,Tokyo,Asia/Tokyo,13335,"Cloudflare, Inc.",15,2026-10-07T10:01:58.949Z,2026-10-17T04:29:25.304Z

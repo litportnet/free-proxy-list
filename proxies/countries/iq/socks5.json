@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "130.193.165.54",
+    "port": 1080,
+    "url": "socks5://130.193.165.54:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1177,
+    "latency_median_ms": 1174,
+    "uptime_24h": 50,
+    "uptime_7d": 48.5,
+    "checks_7d": 623,
+    "exit_ip": "130.193.165.54",
+    "exit_shared": 1,
+    "country": "iq",
+    "region": "Erbil",
+    "city": "Erbil",
+    "timezone": "Asia/Baghdad",
+    "asn": 21277,
+    "asn_org": "Allay Nawroz Telecom Company for Communication/Ltd.",
+    "sources_count": 15,
+    "first_seen": "2026-10-09T13:29:04.342Z",
+    "last_checked": "2026-10-17T04:25:22.867Z"
+  }
+]

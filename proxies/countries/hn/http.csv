@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.163.74.97,999,http://164.163.74.97:999,transparent,false,3998,3475,41.5,40.4,627,164.163.75.211,1,hn,Copán Department,Santa Rosa de Copán,America/Tegucigalpa,265767,GRUPO INMA S.A,17,2026-07-19T02:40:11.084Z,2026-10-16T04:30:13.021Z
-http,200.115.96.50,999,http://200.115.96.50:999,transparent,true,2546,2760.5,25,23.6,309,200.115.96.58,1,hn,Comayagua Department,Comayagua,America/Tegucigalpa,269919,HONDUVISION SRL,22,2025-09-09T01:42:01.411Z,2026-10-16T04:31:16.008Z

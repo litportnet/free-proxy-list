@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.14.5.164,5678,socks4://190.14.5.164:5678,elite,true,1462,1054.5,40,64.2,767,190.14.5.164,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,12,2026-05-31T05:22:35.276Z,2026-10-16T04:25:34.103Z
-socks4,38.41.225.174,8888,socks4://38.41.225.174:8888,elite,true,7588,2371,39.1,61.6,630,38.41.225.174,1,gt,Guatemala,Guatemala City,America/Guatemala,264764,Innova Outsourcing S.A,13,2026-07-06T07:56:30.881Z,2026-10-16T04:24:30.502Z
-http,24.152.53.68,999,http://24.152.53.68:999,transparent,false,2136,2700.5,22,27.2,386,24.152.53.68,1,gt,Jalapa,Jalapa,America/Guatemala,269964,TV CABLE UNIVERSAL S.A,18,2026-04-02T19:50:00.786Z,2026-10-16T04:28:36.461Z
+socks4,181.189.132.74,5678,socks4://181.189.132.74:5678,elite,false,3455,448.5,55.6,63.5,737,181.189.132.74,1,gt,Guatemala,Guatemala City,America/Guatemala,26617,Navega.com S.A.,21,2026-08-08T18:05:33.990Z,2026-10-17T04:25:17.479Z
+http,138.117.231.133,999,http://138.117.231.133:999,transparent,false,5848,4544.5,17.5,16.3,203,138.117.231.133,1,gt,Huehuetenango,Huehuetenango,America/Guatemala,269989,FIBERNET S.A,17,2025-09-05T20:06:32.073Z,2026-10-17T04:22:30.007Z
+socks4,176.52.253.14,4145,socks4://176.52.253.14:4145,elite,false,3392,3526,13.3,,30,176.52.253.14,1,gt,Guatemala,Guatemala City,America/Guatemala,12956,TELXIUS Cable,5,2025-09-05T00:23:09.463Z,2026-10-17T04:25:43.059Z

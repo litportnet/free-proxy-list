@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.0.111.194,34638,http://196.0.111.194:34638,elite,false,4419,4362.5,24.2,15.6,270,196.0.111.194,2,ug,Central Region,Kampala,Africa/Kampala,21491,Uganda Telecom,13,2025-09-10T21:05:10.338Z,2026-10-16T04:29:11.707Z
-http,41.220.217.54,8080,http://41.220.217.54:8080,elite,true,1311,1381.5,100,,3,41.220.217.54,1,ug,Central Region,Kampala,Africa/Kampala,29032,DATANET LLC,15,2026-09-09T03:47:19.299Z,2026-10-16T04:23:44.918Z

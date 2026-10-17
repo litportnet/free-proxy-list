@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,1617,1666,75.5,73.3,696,149.88.104.4,1,cl,Santiago Metropolitan,Santiago,America/Santiago,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-10-17T04:29:58.958Z

@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,false,2028,2057.5,53.6,69.5,804,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-10-16T04:28:44.583Z
-socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,true,496,500,31.8,68,740,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,1,2026-03-17T17:23:30.243Z,2026-10-16T04:29:44.647Z
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,557,1568.5,71.3,71.4,672,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-10-17T04:27:05.814Z
+socks4,160.20.165.242,8080,socks4://160.20.165.242:8080,elite,false,7812,3590,54.2,52.1,680,160.20.165.242,1,ec,Guayas,Guayaquil,America/Guayaquil,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:13.403Z,2026-10-17T04:19:25.300Z

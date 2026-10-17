@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.110.226.122,80,http://190.110.226.122:80,elite,false,762,762,81,79.7,837,201.222.53.102,1,py,Central Department,San Lorenzo,America/Asuncion,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),20,2025-09-10T19:34:28.101Z,2026-10-16T04:28:18.716Z
-http,181.78.27.38,999,http://181.78.27.38:999,transparent,false,3738,3985,33.3,10.6,142,181.78.27.38,1,py,Asuncion,Asunción,America/Asuncion,52468,UFINET PANAMA S.A.,14,2025-09-09T08:43:16.434Z,2026-10-16T04:30:55.115Z
+http,45.177.16.131,999,http://45.177.16.131:999,transparent,true,3760,4577,30.7,31,381,45.177.16.254,2,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,267885,MSW S.A.,16,2026-07-26T10:13:30.972Z,2026-10-17T04:24:12.548Z
+http,45.177.16.135,999,http://45.177.16.135:999,transparent,true,710,3902,28.1,27.8,382,45.177.16.254,2,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,267885,MSW S.A.,18,2026-07-03T15:22:17.389Z,2026-10-17T04:25:29.804Z

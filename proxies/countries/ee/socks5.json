@@ -6,11 +6,11 @@
     "url": "socks5://94.183.170.105:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 830,
-    "latency_median_ms": 837,
-    "uptime_24h": 85.2,
-    "uptime_7d": 85.2,
-    "checks_7d": 54,
+    "latency_ms": 1811,
+    "latency_median_ms": 1817.5,
+    "uptime_24h": 93.5,
+    "uptime_7d": 91.2,
+    "checks_7d": 192,
     "exit_ip": "94.183.170.105",
     "exit_shared": 1,
     "country": "ee",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Tallinn",
     "asn": 212743,
     "asn_org": "ETERNITY INTERNATIONAL LIMITED",
-    "sources_count": 13,
+    "sources_count": 14,
     "first_seen": "2026-10-15T17:46:58.008Z",
-    "last_checked": "2026-10-16T04:26:50.175Z"
+    "last_checked": "2026-10-17T04:23:26.119Z"
   }
 ]
