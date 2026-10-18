@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "18.163.182.106",
+    "port": 8888,
+    "url": "http://18.163.182.106:8888",
+    "anonymity": "unknown",
+    "https": false,
+    "latency_ms": 2674,
+    "latency_median_ms": 2589,
+    "uptime_24h": 10,
+    "uptime_7d": null,
+    "checks_7d": 20,
+    "exit_ip": "18.163.182.106",
+    "exit_shared": 2,
+    "country": "no",
+    "region": "Vestfold",
+    "city": "Sandefjord",
+    "timezone": "Europe/Oslo",
+    "asn": 56655,
+    "asn_org": "Gigahost AS",
+    "sources_count": 1,
+    "first_seen": "2026-10-17T08:07:15.865Z",
+    "last_checked": "2026-10-18T04:30:01.537Z"
+  }
+]

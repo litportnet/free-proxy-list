@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,4869,2233.5,98.6,97.8,983,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-17T04:23:19.231Z
-socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,true,2418,2128,48.1,54.1,586,79.76.59.115,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-10-17T04:23:45.779Z
-socks5,66.59.197.61,3128,socks5://66.59.197.61:3128,elite,false,1079,1063.5,35.8,34.9,498,187.15.111.15,1,se,Stockholm,Stockholm,Europe/Stockholm,136787,PacketHub S.A.,18,2026-08-13T16:07:05.398Z,2026-10-17T04:27:14.341Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2330,2956.5,97.8,98,980,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-18T04:22:45.791Z
+socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,false,2828,2533.5,58.5,54.3,547,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-10-18T04:30:28.857Z
+socks5,193.23.200.117,1085,socks5://193.23.200.117:1085,elite,false,9417,5899.5,22.2,14.3,147,172.232.148.103,1,se,Stockholm,Stockholm,Europe/Stockholm,63949,Akamai Connected Cloud,21,2026-09-17T15:37:11.990Z,2026-10-18T04:24:47.119Z
+socks5,185.135.81.149,9060,socks5://185.135.81.149:9060,elite,true,1590,5692,17.4,7.6,92,193.189.100.202,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,21,2026-06-03T14:03:44.460Z,2026-10-18T04:28:30.826Z

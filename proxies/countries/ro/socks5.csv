@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,85.122.120.46,30000,socks5://85.122.120.46:30000,elite,false,8667,3716.5,20,4.1,74,85.122.120.46,1,ro,Constanța County,Năvodari,Europe/Bucharest,39347,STYLISH BY A&L SRL,18,2026-07-12T06:12:21.006Z,2026-10-18T04:30:19.193Z

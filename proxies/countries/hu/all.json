@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "109.61.117.11",
+    "port": 1080,
+    "url": "socks4://109.61.117.11:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1658,
+    "latency_median_ms": 1659,
+    "uptime_24h": 68.1,
+    "uptime_7d": 70.3,
+    "checks_7d": 744,
+    "exit_ip": "109.61.64.9",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Baranya",
+    "city": "Pécs",
+    "timezone": "Europe/Budapest",
+    "asn": 197248,
+    "asn_org": "Dravanet Co Ltd.",
+    "sources_count": 16,
+    "first_seen": "2026-10-04T17:28:05.859Z",
+    "last_checked": "2026-10-18T04:27:26.895Z"
+  }
+]

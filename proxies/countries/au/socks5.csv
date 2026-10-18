@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10813,socks5://49.13.22.249:10813,elite,false,8554,4632,45,45.3,461,103.27.224.4,1,au,New South Wales,Sydney,Australia/Sydney,22363,"Powerhouse Management, Inc.",19,2026-09-16T03:18:05.440Z,2026-10-18T04:21:39.619Z

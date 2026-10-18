@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.29.186,80,http://190.181.29.186:80,transparent,false,897,723.5,100,100,159,45.225.75.15,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,266671,CONFIARED S.R.L.,1,2026-10-16T01:51:30.774Z,2026-10-17T04:25:17.481Z
-socks4,200.105.192.6,5678,socks4://200.105.192.6:5678,elite,false,687,2721.5,51.9,65.4,759,200.105.192.6,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,14,2025-09-05T00:23:06.350Z,2026-10-17T04:29:08.176Z
+socks4,190.104.26.227,33638,socks4://190.104.26.227:33638,elite,true,647,1174.5,39.3,51,616,190.104.26.227,1,bo,La Paz Department,La Paz,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,22,2025-09-04T23:49:14.390Z,2026-10-18T04:27:14.577Z

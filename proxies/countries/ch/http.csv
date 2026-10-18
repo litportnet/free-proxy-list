@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,797,649.5,81.6,83.2,863,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-17T04:20:31.405Z
-http,185.85.111.18,80,http://185.85.111.18:80,elite,false,7443,1357,70.1,73,792,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-10-17T04:23:06.531Z
-http,147.161.246.47,8800,http://147.161.246.47:8800,elite,true,499,488,100,,22,147.161.247.24,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,2,2026-08-27T07:19:53.164Z,2026-10-17T04:26:32.143Z
+http,147.161.247.9,8800,http://147.161.247.9:8800,elite,true,478,479,100,100,79,147.161.247.9,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,3,2026-06-08T14:04:25.723Z,2026-10-18T04:30:47.522Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,454,540.5,85.1,74.7,782,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-10-18T04:27:00.789Z
+http,217.182.195.221,30006,http://217.182.195.221:30006,transparent,true,1610,1597,50.7,40.1,464,190.211.254.218,1,ch,Ticino,Bellinzona,Europe/Zurich,51852,Private Layer INC,24,2026-08-08T15:04:14.907Z,2026-10-18T04:30:26.171Z

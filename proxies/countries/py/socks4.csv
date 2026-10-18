@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,143.105.108.210,1080,socks4://143.105.108.210:1080,elite,false,4044,2945,45.9,42.2,586,143.105.108.210,1,py,Asuncion,Asunción,America/Asuncion,14593,Space Exploration Technologies Corporation,20,2026-09-21T00:00:17.318Z,2026-10-17T04:27:39.979Z
-socks4,179.189.219.98,4145,socks4://179.189.219.98:4145,elite,false,8017,5930,39.4,39.5,625,179.189.219.98,1,py,Asuncion,Asunción,America/Asuncion,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),14,2025-09-04T23:48:58.729Z,2026-10-17T04:29:04.958Z

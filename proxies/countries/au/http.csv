@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,169.58.34.213,3137,http://169.58.34.213:3137,elite,false,1941,1379.5,41.8,29.4,119,103.24.232.17,1,au,New South Wales,Sydney,Australia/Sydney,203020,HostRoyale Technologies Pvt Ltd,23,2026-09-04T11:48:26.364Z,2026-10-18T04:29:00.205Z
+http,61.29.96.146,80,http://61.29.96.146:80,anonymous,false,4664,4401,31,24.3,338,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-08T23:11:07.370Z,2026-10-18T04:23:44.572Z
+http,209.38.16.51,3128,http://209.38.16.51:3128,elite,true,797,941.5,100,,2,209.38.16.51,1,au,New South Wales,Sydney,Australia/Sydney,14061,"DigitalOcean, LLC",2,2026-10-18T04:17:47.502Z,2026-10-18T04:26:51.771Z

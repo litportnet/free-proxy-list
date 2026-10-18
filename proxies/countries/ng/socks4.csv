@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,940,3963.5,86.5,76.8,814,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-17T04:27:44.798Z
-socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,980,2019,46.2,55,637,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-17T04:20:10.245Z
-socks4,41.217.205.6,4153,socks4://41.217.205.6:4153,elite,true,1030,3072,32.9,32.9,79,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,12,2026-10-16T06:53:56.621Z,2026-10-17T04:22:45.843Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,true,2000,3017,55,55,595,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-18T04:30:06.315Z
+socks4,41.217.205.6,4153,socks4://41.217.205.6:4153,elite,true,1017,4108.5,44.4,38,150,41.217.205.6,2,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,14,2026-10-16T06:53:56.621Z,2026-10-18T04:20:59.895Z

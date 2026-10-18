@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,95.140.118.34,1080,socks4://95.140.118.34:1080,elite,false,1458,1731.5,53.8,64.6,636,95.140.118.34,1,rs,Central Serbia,Savski Venac,Europe/Belgrade,9125,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,20,2026-07-11T02:57:55.862Z,2026-10-17T04:24:50.322Z
-socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,730,1758,51,60.5,669,109.245.110.145,1,rs,Vojvodina,Vojka,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-10-17T04:22:30.534Z
+socks4,95.140.118.34,1080,socks4://95.140.118.34:1080,elite,true,7837,1795,66.3,64.3,599,95.140.118.34,1,rs,Central Serbia,Savski Venac,Europe/Belgrade,9125,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,20,2026-07-11T02:57:55.862Z,2026-10-18T04:30:45.400Z
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,false,704,865,62.4,58.2,629,109.245.110.145,1,rs,Vojvodina,Vojka,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-10-18T04:29:10.307Z

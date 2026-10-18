@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "143.105.74.183",
+    "port": 1080,
+    "url": "socks4://143.105.74.183:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4170,
+    "latency_median_ms": 2160,
+    "uptime_24h": 59,
+    "uptime_7d": 53.7,
+    "checks_7d": 365,
+    "exit_ip": "143.105.74.183",
+    "exit_shared": 1,
+    "country": "ne",
+    "region": "Niamey",
+    "city": "Niamey",
+    "timezone": "Africa/Niamey",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 16,
+    "first_seen": "2026-09-25T21:43:16.302Z",
+    "last_checked": "2026-10-18T04:27:17.802Z"
+  }
+]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.92.193.18,999,http://192.92.193.18:999,transparent,true,369,2360,23.3,31.2,520,192.92.193.18,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,17,2026-08-27T12:22:09.816Z,2026-10-17T04:24:48.183Z
-http,192.203.0.142,999,http://192.203.0.142:999,transparent,true,7530,3558,28.1,23.1,402,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,23,2026-05-04T08:39:48.827Z,2026-10-17T04:26:16.174Z
+http,192.92.193.18,999,http://192.92.193.18:999,transparent,true,373,3461.5,38.8,32.9,492,192.92.193.18,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,17,2026-08-27T12:22:09.816Z,2026-10-18T04:27:10.340Z

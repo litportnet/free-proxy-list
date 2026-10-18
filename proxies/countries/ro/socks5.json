@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "85.122.120.46",
+    "port": 30000,
+    "url": "socks5://85.122.120.46:30000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8667,
+    "latency_median_ms": 3716.5,
+    "uptime_24h": 20,
+    "uptime_7d": 4.1,
+    "checks_7d": 74,
+    "exit_ip": "85.122.120.46",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Constanța County",
+    "city": "Năvodari",
+    "timezone": "Europe/Bucharest",
+    "asn": 39347,
+    "asn_org": "STYLISH BY A&L SRL",
+    "sources_count": 18,
+    "first_seen": "2026-07-12T06:12:21.006Z",
+    "last_checked": "2026-10-18T04:30:19.193Z"
+  }
+]

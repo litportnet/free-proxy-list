@@ -6,11 +6,11 @@
     "url": "socks4://200.108.50.254:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1505,
-    "latency_median_ms": 1523.5,
-    "uptime_24h": 46.5,
-    "uptime_7d": 52.4,
-    "checks_7d": 675,
+    "latency_ms": 1713,
+    "latency_median_ms": 3835,
+    "uptime_24h": 50.7,
+    "uptime_7d": 52,
+    "checks_7d": 623,
     "exit_ip": "200.108.50.254",
     "exit_shared": 1,
     "country": "pa",
@@ -21,6 +21,6 @@
     "asn_org": "Cable Onda",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:13.837Z",
-    "last_checked": "2026-10-17T04:26:02.763Z"
+    "last_checked": "2026-10-18T04:25:26.506Z"
   }
 ]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,90.161.186.147,3128,http://90.161.186.147:3128,transparent,false,5644,3737.5,17,17.4,294,90.161.186.147,1,es,Canary Islands,Santiago del Teide,Atlantic/Canary,12479,Orange Espagne SA,20,2025-09-06T21:22:58.878Z,2026-10-17T04:22:08.835Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,451,458,94.5,97,967,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-18T04:26:11.325Z

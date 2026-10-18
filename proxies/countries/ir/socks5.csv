@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.42,6355,socks5://45.74.31.42:6355,elite,true,5069,3259.5,33.3,17.4,178,85.208.254.229,4,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,13,2026-09-28T23:22:02.375Z,2026-10-18T04:29:03.399Z
+socks5,45.74.31.42,7194,socks5://45.74.31.42:7194,elite,false,5785,4900.5,57.1,12.1,66,85.208.254.229,4,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,13,2026-09-22T04:15:12.344Z,2026-10-18T04:28:58.591Z
+socks5,45.74.31.42,7500,socks5://45.74.31.42:7500,elite,true,8050,5788,29.2,9.1,77,85.208.254.229,4,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,14,2026-09-27T01:58:13.727Z,2026-10-18T04:30:24.532Z
+socks5,45.74.31.42,7251,socks5://45.74.31.42:7251,elite,true,5728,6235,26.9,8.9,79,85.208.254.229,4,ir,Fars,Shiraz,Asia/Tehran,61173,Green Web Samaneh Novin PJSC,12,2026-10-01T04:50:03.791Z,2026-10-18T04:23:15.392Z

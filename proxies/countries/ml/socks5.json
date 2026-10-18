@@ -2,15 +2,15 @@
   {
     "protocol": "socks5",
     "ip": "45.74.31.42",
-    "port": 12000,
-    "url": "socks5://45.74.31.42:12000",
+    "port": 13073,
+    "url": "socks5://45.74.31.42:13073",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2959,
-    "latency_median_ms": 3415,
-    "uptime_24h": 18.2,
-    "uptime_7d": 8.2,
-    "checks_7d": 73,
+    "latency_ms": 3589,
+    "latency_median_ms": 3309,
+    "uptime_24h": 13.6,
+    "uptime_7d": 7.9,
+    "checks_7d": 89,
     "exit_ip": "217.64.102.75",
     "exit_shared": 1,
     "country": "ml",
@@ -20,7 +20,7 @@
     "asn": 21271,
     "asn_org": "Society of Mali's Telecommunications (SOTELMA)",
     "sources_count": 10,
-    "first_seen": "2026-10-01T16:56:26.301Z",
-    "last_checked": "2026-10-17T04:27:24.991Z"
+    "first_seen": "2026-09-11T13:01:39.539Z",
+    "last_checked": "2026-10-18T04:27:04.504Z"
   }
 ]

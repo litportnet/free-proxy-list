@@ -6,11 +6,11 @@
     "url": "http://156.38.112.11:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1055,
-    "latency_median_ms": 1526.5,
-    "uptime_24h": 77.5,
-    "uptime_7d": 80.3,
-    "checks_7d": 832,
+    "latency_ms": 1059,
+    "latency_median_ms": 1580.5,
+    "uptime_24h": 85.2,
+    "uptime_7d": 80.9,
+    "checks_7d": 808,
     "exit_ip": "156.38.112.11",
     "exit_shared": 1,
     "country": "gh",
@@ -21,7 +21,7 @@
     "asn_org": "THE UNIVERSITY OF CAPE COAST",
     "sources_count": 19,
     "first_seen": "2025-09-10T19:34:54.808Z",
-    "last_checked": "2026-10-17T04:23:37.286Z"
+    "last_checked": "2026-10-18T04:30:48.587Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://197.255.125.12:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1451,
-    "latency_median_ms": 1588,
-    "uptime_24h": 71.1,
-    "uptime_7d": 37.7,
-    "checks_7d": 409,
+    "latency_ms": 1740,
+    "latency_median_ms": 1586.5,
+    "uptime_24h": 64.8,
+    "uptime_7d": 43.6,
+    "checks_7d": 438,
     "exit_ip": "197.255.125.12",
     "exit_shared": 1,
     "country": "gh",
@@ -45,6 +45,6 @@
     "asn_org": "University of Ghana",
     "sources_count": 11,
     "first_seen": "2025-09-10T21:05:11.415Z",
-    "last_checked": "2026-10-17T04:20:54.760Z"
+    "last_checked": "2026-10-18T04:23:26.488Z"
   }
 ]

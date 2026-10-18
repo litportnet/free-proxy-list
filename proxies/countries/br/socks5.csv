@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,7043,socks5://45.74.31.41:7043,elite,true,2453,4707.5,20,41.3,247,46.202.145.221,1,br,São Paulo,São Paulo,America/Sao_Paulo,47583,Hostinger International Limited,12,2026-10-10T11:40:39.825Z,2026-10-17T04:25:27.123Z
-socks5,45.74.31.47,4878,socks5://45.74.31.47:4878,elite,false,8155,5306,15,34.5,319,69.6.214.192,1,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,13,2026-10-10T04:36:57.105Z,2026-10-17T04:20:37.816Z
+socks5,192.141.74.246,1088,socks5://192.141.74.246:1088,elite,true,980,1042.5,95.4,64.4,160,192.141.74.246,1,br,Rio de Janeiro,Duque de Caxias,America/Sao_Paulo,267470,CX Pro,16,2026-09-30T16:43:57.241Z,2026-10-18T04:24:16.312Z
+socks5,45.74.31.41,4914,socks5://45.74.31.41:4914,elite,false,5273,5167.5,15,9.6,125,69.6.214.192,1,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,15,2026-09-29T09:27:29.934Z,2026-10-18T04:27:20.464Z

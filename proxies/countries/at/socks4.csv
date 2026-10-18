@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,true,1099,964,84.1,81.4,463,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,12,2026-07-05T02:40:57.084Z,2026-10-17T04:25:48.341Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,4556,4657,78.2,71.8,748,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-10-18T04:25:08.369Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,3701,2685,55.1,51.7,625,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,13,2026-07-06T13:59:25.623Z,2026-10-18T04:27:26.339Z
+socks4,46.161.49.174,10808,socks4://46.161.49.174:10808,elite,true,1971,1244.5,69,50.9,175,50.7.36.130,1,at,Vienna,Vienna,Europe/Vienna,30058,FDCservers.net,13,2026-10-14T00:25:13.943Z,2026-10-18T04:27:02.371Z

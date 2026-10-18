@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "91.187.113.68",
+    "port": 8080,
+    "url": "http://91.187.113.68:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 6503,
+    "latency_median_ms": 3095,
+    "uptime_24h": 30.4,
+    "uptime_7d": 24.4,
+    "checks_7d": 401,
+    "exit_ip": "91.187.113.68",
+    "exit_shared": 1,
+    "country": "xk",
+    "region": "Pristina",
+    "city": "Pristina",
+    "timezone": "Europe/Belgrade",
+    "asn": 21246,
+    "asn_org": "IPKO Telecommunications LLC",
+    "sources_count": 24,
+    "first_seen": "2025-09-05T20:06:33.854Z",
+    "last_checked": "2026-10-18T04:30:20.809Z"
+  }
+]

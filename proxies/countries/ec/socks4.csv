@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,557,1568.5,71.3,71.4,672,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-10-17T04:27:05.814Z
-socks4,160.20.165.242,8080,socks4://160.20.165.242:8080,elite,false,7812,3590,54.2,52.1,680,160.20.165.242,1,ec,Guayas,Guayaquil,America/Guayaquil,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:13.403Z,2026-10-17T04:19:25.300Z
+socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,1162,1067.5,76.2,72.9,761,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-10-18T04:26:40.651Z
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,1594,566.5,74.8,71.7,640,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-10-18T04:28:07.908Z

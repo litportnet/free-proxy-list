@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,138.117.231.133,999,http://138.117.231.133:999,transparent,false,5848,4544.5,17.5,16.3,203,138.117.231.133,1,gt,Huehuetenango,Huehuetenango,America/Guatemala,269989,FIBERNET S.A,17,2025-09-05T20:06:32.073Z,2026-10-17T04:22:30.007Z
+http,181.119.177.229,999,http://181.119.177.229:999,transparent,false,7590,3837.5,29.8,30.5,443,190.149.186.54,1,gt,Quetzaltenango,Quetzaltenango,America/Guatemala,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",20,2026-10-01T14:55:23.357Z,2026-10-18T04:28:47.422Z

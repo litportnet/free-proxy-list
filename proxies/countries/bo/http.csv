@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.29.186,80,http://190.181.29.186:80,transparent,false,897,723.5,100,100,159,45.225.75.15,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,266671,CONFIARED S.R.L.,1,2026-10-16T01:51:30.774Z,2026-10-17T04:25:17.481Z

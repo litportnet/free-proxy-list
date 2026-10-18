@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,859,1120.5,63.1,48.6,646,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-10-17T04:25:11.628Z
+http,31.56.117.71,443,http://31.56.117.71:443,elite,true,1001,1715,88.5,88.5,87,31.56.117.71,2,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,15,2026-10-17T10:08:19.242Z,2026-10-18T04:31:08.859Z
+socks5,31.56.117.71,443,socks5://31.56.117.71:443,elite,true,1563,1690,81.1,81.1,74,31.56.117.71,2,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,12,2026-10-17T11:08:48.141Z,2026-10-18T04:27:03.438Z
+http,46.161.49.174,10809,http://46.161.49.174:10809,elite,true,737,3034.5,70.8,70.2,362,45.130.60.20,2,lv,Riga,Riga,Europe/Riga,219335,COREVANCE LTD,18,2026-10-14T11:31:10.348Z,2026-10-18T04:25:39.465Z
+socks4,195.13.169.219,4153,socks4://195.13.169.219:4153,elite,true,704,716.5,47.9,58.2,550,195.13.169.219,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-04T14:26:30.766Z,2026-10-18T04:29:51.907Z
+socks5,46.161.49.174,10808,socks5://46.161.49.174:10808,elite,true,939,1792.5,64.3,43.7,318,45.130.60.20,2,lv,Riga,Riga,Europe/Riga,219335,COREVANCE LTD,15,2026-10-13T22:24:13.898Z,2026-10-18T04:25:35.730Z

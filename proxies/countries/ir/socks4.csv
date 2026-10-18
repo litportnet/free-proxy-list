@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.118.135.176,1080,socks4://93.118.135.176:1080,elite,true,1959,1945,54.7,62.6,724,93.118.135.176,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,13,2025-11-07T14:11:06.011Z,2026-10-17T04:26:48.163Z
-socks4,151.232.18.66,5678,socks4://151.232.18.66:5678,elite,false,975,1087,33,59.8,723,151.232.18.69,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,7,2025-09-04T23:49:03.157Z,2026-10-17T04:25:35.125Z
+socks4,78.38.67.210,3636,socks4://78.38.67.210:3636,elite,false,8015,1976.5,53.3,58.1,661,78.38.67.210,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,13,2025-09-04T23:49:11.801Z,2026-10-18T04:22:06.550Z
+socks4,151.232.18.66,5678,socks4://151.232.18.66:5678,elite,false,5515,3552,33.3,57,655,151.232.18.69,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,8,2025-09-04T23:49:03.157Z,2026-10-18T04:24:19.996Z
+socks4,87.107.68.231,1081,socks4://87.107.68.231:1081,elite,true,5958,3578.5,38.6,27.2,243,87.107.68.231,1,ir,Tehran,Tehran,Asia/Tehran,21341,Soroush Rasanheh Company Ltd,21,2026-07-14T15:47:52.362Z,2026-10-18T04:30:42.701Z
+socks4,94.184.32.211,1080,socks4://94.184.32.211:1080,elite,true,915,929,98,,49,94.184.32.211,1,ir,Tehran,Tehran,Asia/Tehran,60631,Vandad Vira Hooman LLC,13,2026-10-17T20:13:35.585Z,2026-10-18T04:30:30.449Z
+socks4,94.184.32.249,1080,socks4://94.184.32.249:1080,elite,true,1204,961,96.7,,30,94.184.32.249,1,ir,Tehran,Tehran,Asia/Tehran,60631,Vandad Vira Hooman LLC,9,2026-10-17T23:15:10.334Z,2026-10-18T04:28:43.670Z

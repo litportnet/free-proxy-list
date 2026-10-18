@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,3948,2638.5,77.6,77.5,809,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-17T04:22:35.761Z
-socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,1707,1695.5,46.8,43,505,90.178.216.215,1,cz,Prague,Prague,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-10-17T04:22:31.063Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,719,1591.5,80,77.1,777,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-18T04:22:22.450Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,659,761,66.7,64,650,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-18T04:21:39.617Z

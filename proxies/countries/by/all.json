@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "86.57.178.182",
-    "port": 4153,
-    "url": "socks4://86.57.178.182:4153",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 702,
-    "latency_median_ms": 1723.5,
-    "uptime_24h": 18.8,
-    "uptime_7d": 45.6,
-    "checks_7d": 574,
-    "exit_ip": "86.57.178.182",
-    "exit_shared": 1,
-    "country": "by",
-    "region": "Grodnenskaya",
-    "city": "Hrodna",
-    "timezone": "Europe/Minsk",
-    "asn": 6697,
-    "asn_org": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "sources_count": 21,
-    "first_seen": "2026-07-08T02:19:07.490Z",
-    "last_checked": "2026-10-17T04:28:14.217Z"
-  },
-  {
     "protocol": "http",
     "ip": "93.125.3.22",
     "port": 8080,
     "url": "http://93.125.3.22:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 6530,
-    "latency_median_ms": 3937.5,
-    "uptime_24h": 25.3,
-    "uptime_7d": 22.2,
-    "checks_7d": 378,
+    "latency_ms": 9486,
+    "latency_median_ms": 3936,
+    "uptime_24h": 27.7,
+    "uptime_7d": 24.1,
+    "checks_7d": 395,
     "exit_ip": "93.125.3.22",
     "exit_shared": 1,
     "country": "by",
@@ -45,6 +21,6 @@
     "asn_org": "Unitary enterprise A1",
     "sources_count": 15,
     "first_seen": "2025-09-05T20:06:33.865Z",
-    "last_checked": "2026-10-17T04:24:07.679Z"
+    "last_checked": "2026-10-18T04:26:15.622Z"
   }
 ]

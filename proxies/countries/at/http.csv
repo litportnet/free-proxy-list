@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,80.65.211.149,8888,http://80.65.211.149:8888,elite,true,3229,2667,63,48.5,654,62.83.33.70,3,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,20,2026-10-10T05:37:30.847Z,2026-10-17T04:23:10.209Z
-http,3.134.245.77,41236,http://3.134.245.77:41236,unknown,false,5011,2137.5,12.5,,33,3.134.245.77,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,9,2026-09-22T11:18:51.940Z,2026-10-17T04:25:26.044Z

@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,721,718.5,97.9,97.2,986,172.71.241.67,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-17T04:27:47.430Z
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,1549,1301,82.8,80.2,820,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-17T04:22:54.266Z
-http,51.68.199.41,8118,http://51.68.199.41:8118,elite,false,4483,1228,60,9.2,98,187.40.252.97,1,gb,England,London,Europe/London,136787,PacketHub S.A.,18,2026-08-11T04:35:07.749Z,2026-10-17T04:23:31.461Z
-http,178.62.83.124,32766,http://178.62.83.124:32766,transparent,false,8538,8406.5,9.1,6.6,121,178.62.83.124,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",24,2026-09-10T22:54:05.014Z,2026-10-17T04:25:23.911Z
-http,57.128.171.43,80,http://57.128.171.43:80,elite,false,8866,5634,12.5,2.7,75,57.128.171.43,1,gb,England,Bexley,Europe/London,16276,OVH SAS,7,2025-12-22T18:28:35.239Z,2026-10-17T04:25:31.400Z
-http,66.163.117.165,40000,http://66.163.117.165:40000,elite,true,1414,1258,100,,9,104.28.224.66,3,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",4,2026-10-17T03:04:25.906Z,2026-10-17T04:20:51.059Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,874,680.5,91.1,96.2,968,172.69.195.215,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-18T04:28:52.695Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2169,2734.5,82.2,80.3,791,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-18T04:26:35.875Z
+http,186.190.211.67,80,http://186.190.211.67:80,elite,true,4821,4517,36.2,40.2,555,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,19,2026-10-10T04:37:02.560Z,2026-10-18T04:27:16.734Z

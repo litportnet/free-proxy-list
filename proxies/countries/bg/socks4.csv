@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,false,2178,1976.5,74.6,69.8,747,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-10-17T04:22:39.465Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,3953,1767,69.2,67.6,760,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-10-17T04:27:24.468Z
-socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,true,985,755.5,49.5,57.7,650,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-10-17T04:23:41.030Z
-socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,true,691,1207,45.2,55.3,590,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-10-17T04:25:20.723Z
-socks4,87.126.64.193,4145,socks4://87.126.64.193:4145,elite,true,942,1238.5,13.3,36.2,254,87.126.64.193,1,bg,Burgas,Burgas,Europe/Sofia,8866,Vivacom Bulgaria EAD,6,2025-09-05T00:23:09.367Z,2026-10-17T04:19:20.502Z
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,749,1760.5,71.3,67.7,740,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-10-18T04:30:53.358Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,7922,2745,67.4,67.4,720,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-10-18T04:30:58.135Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,1722,1712.5,67.4,59.9,678,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-10-18T04:30:28.321Z
+socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,false,1863,1841,56.8,55.9,601,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-10-18T04:26:41.717Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,3884,1858.5,38.1,46.7,574,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-10-18T04:28:32.445Z

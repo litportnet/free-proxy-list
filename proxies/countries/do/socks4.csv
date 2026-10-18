@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.93.188.196,1080,socks4://190.93.188.196:1080,elite,true,367,353.5,20,33.1,305,190.93.188.194,1,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,269908,JOSE DIGITAL MEDIA DOMINICANA SRL,13,2026-07-24T19:53:06.148Z,2026-10-18T04:23:18.539Z

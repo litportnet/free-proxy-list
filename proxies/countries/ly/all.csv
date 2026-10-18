@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,154.73.28.205,8080,http://154.73.28.205:8080,transparent,true,2305,4771.5,25,17.8,225,154.73.28.74,2,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),13,2025-11-06T15:39:03.520Z,2026-10-18T04:28:41.553Z
+http,102.38.21.1,19000,http://102.38.21.1:19000,transparent,false,8953,3359.5,13.5,17.1,321,102.38.21.1,1,ly,Tripoli,Tripoli,Africa/Tripoli,328539,Giga for Telecommunication and Technology Limited,21,2026-08-15T21:37:08.638Z,2026-10-18T04:27:04.508Z
+http,154.73.28.173,8080,http://154.73.28.173:8080,transparent,false,6036,4719,17.4,10.9,129,154.73.28.74,2,ly,Tripoli,Tripoli,Africa/Tripoli,21003,General Post and Telecommunication Company (GPTC),14,2026-05-06T07:01:37.599Z,2026-10-18T04:29:39.131Z

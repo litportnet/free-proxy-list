@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,37.35.109.132,1080,socks5://37.35.109.132:1080,elite,false,715,1761.5,47.3,38.3,196,37.35.109.132,1,ch,Vaud,Lausanne,Europe/Zurich,198385,AlpineDC SA,14,2026-10-15T04:40:05.497Z,2026-10-18T04:22:27.736Z

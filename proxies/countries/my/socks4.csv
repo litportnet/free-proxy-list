@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,175.139.200.17,4153,socks4://175.139.200.17:4153,elite,true,2185,2172,46.9,52.8,674,175.139.200.17,2,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:06.505Z,2026-10-17T04:23:39.445Z
-socks4,175.139.201.193,4153,socks4://175.139.201.193:4153,elite,true,4186,2185,51.5,51.8,628,175.139.200.17,2,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:05.970Z,2026-10-17T04:24:25.315Z

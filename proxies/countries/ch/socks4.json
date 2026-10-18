@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "195.225.116.14",
+    "port": 4145,
+    "url": "socks4://195.225.116.14:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 577,
+    "latency_median_ms": 1597,
+    "uptime_24h": 29.8,
+    "uptime_7d": 31.4,
+    "checks_7d": 500,
+    "exit_ip": "195.225.116.14",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Zurich",
+    "city": "Wädenswil",
+    "timezone": "Europe/Zurich",
+    "asn": 48971,
+    "asn_org": "DATAWIRE AG",
+    "sources_count": 22,
+    "first_seen": "2026-07-04T21:40:46.867Z",
+    "last_checked": "2026-10-18T04:29:26.306Z"
+  }
+]

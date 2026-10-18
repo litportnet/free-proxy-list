@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.142.195.110,995,socks5://45.142.195.110:995,elite,true,4547,2275,40.5,23.6,199,91.206.26.26,2,pl,Greater Poland,Poznań,Europe/Warsaw,51290,BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI,19,2026-06-03T14:03:44.686Z,2026-10-17T04:29:49.360Z
+socks5,222.167.246.25,5000,socks5://222.167.246.25:5000,elite,false,5735,737,80,,15,222.167.246.25,2,pl,Pomerania,Gdańsk,Europe/Warsaw,202051,NETGRID HOST LTD,8,2026-10-18T01:16:15.380Z,2026-10-18T04:29:59.935Z

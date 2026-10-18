@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,31.77.19.92,443,socks4://31.77.19.92:443,elite,true,573,567.5,98.6,95.2,966,31.77.19.92,2,de,Hesse,Frankfurt am Main,Europe/Berlin,219337,PLAY2GO - FZCO,17,2026-10-08T04:11:37.161Z,2026-10-17T04:25:18.555Z
-socks4,193.158.12.140,4153,socks4://193.158.12.140:4153,elite,true,581,590,53.5,63.8,636,193.158.12.140,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2025-09-05T20:06:32.865Z,2026-10-17T04:25:01.487Z
-socks4,2.27.206.180,1080,socks4://2.27.206.180:1080,elite,true,6437,1468,84.6,55,80,2.27.206.180,2,de,State of Berlin,Berlin,Europe/Berlin,219337,PLAY2GO - FZCO,6,2026-10-10T03:36:28.070Z,2026-10-17T04:22:50.027Z
-socks4,5.61.30.85,8080,socks4://5.61.30.85:8080,elite,true,986,1410.5,55.1,39.8,561,168.119.182.21,1,de,Saxony,Falkenstein,Europe/Berlin,24940,Hetzner Online GmbH,8,2026-08-17T18:59:05.341Z,2026-10-17T04:26:42.897Z
-socks4,185.133.239.244,16299,socks4://185.133.239.244:16299,elite,false,2185,3565.5,24.6,16.3,190,185.133.239.244,1,de,Thuringia,Erfurt,Europe/Berlin,202252,OCKNet GmbH,13,2025-09-10T21:05:13.430Z,2026-10-17T04:25:02.539Z
+socks4,31.77.19.92,443,socks4://31.77.19.92:443,elite,true,595,757,97.1,95.9,961,31.77.19.92,2,de,Hesse,Frankfurt am Main,Europe/Berlin,219337,PLAY2GO - FZCO,17,2026-10-08T04:11:37.161Z,2026-10-18T04:29:35.892Z
+socks4,2.27.206.180,1080,socks4://2.27.206.180:1080,elite,true,4428,2831,92.9,86.6,187,2.27.206.180,2,de,State of Berlin,Berlin,Europe/Berlin,219337,PLAY2GO - FZCO,6,2026-10-10T03:36:28.070Z,2026-10-18T04:29:40.169Z
+socks4,46.101.148.225,10000,socks4://46.101.148.225:10000,elite,true,508,528.5,74,74,73,46.101.148.225,2,de,Hesse,Frankfurt am Main,Europe/Berlin,14061,"DigitalOcean, LLC",11,2026-10-17T11:08:49.204Z,2026-10-18T04:21:53.332Z
+socks4,50.114.58.15,1080,socks4://50.114.58.15:1080,elite,false,562,3111.5,60.2,63.5,545,50.114.58.15,1,de,Hesse,Frankfurt am Main,Europe/Berlin,213529,Sculk Ltd.,14,2026-10-12T11:05:40.263Z,2026-10-18T04:26:50.178Z
+socks4,72.56.106.48,1080,socks4://72.56.106.48:1080,elite,true,1024,3000,28.6,16.1,118,72.56.106.48,2,de,Hesse,Frankfurt am Main,Europe/Berlin,210976,"Timeweb, LLP",20,2026-05-31T07:16:29.946Z,2026-10-18T04:25:06.252Z
