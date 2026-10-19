@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,4545,2544,62.2,54.1,547,37.120.193.138,1,rs,Central Serbia,Belgrade,Europe/Belgrade,9009,M247 Europe SRL,18,2026-09-18T12:48:20.513Z,2026-10-18T04:26:06.049Z
-socks5,143.198.239.45,10000,socks5://143.198.239.45:10000,elite,true,2582,3797.5,50.7,48.8,609,150.40.126.115,1,rs,Central Serbia,Belgrade,Europe/Belgrade,211619,MAXKO d.o.o.,2,2026-10-01T12:54:25.369Z,2026-10-18T04:20:49.321Z

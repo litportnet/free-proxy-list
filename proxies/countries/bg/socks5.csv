@@ -1,2 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,true,1862,1882,42.9,42.5,576,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,22,2025-09-04T23:48:55.053Z,2026-10-18T04:26:33.735Z
+socks5,45.74.31.47,14756,socks5://45.74.31.47:14756,elite,false,5775,4736,14.7,46.2,104,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,10,2026-10-17T03:04:28.395Z,2026-10-19T04:32:59.804Z
+socks5,45.74.31.47,15628,socks5://45.74.31.47:15628,elite,true,2185,2419,60.8,46.1,230,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,2,2026-10-12T05:02:25.712Z,2026-10-19T04:29:25.820Z
+socks5,45.74.31.41,11921,socks5://45.74.31.41:11921,elite,true,3576,5120,44.1,26.1,142,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,13,2026-09-17T23:41:29.446Z,2026-10-19T04:32:17.195Z
+socks5,45.74.31.47,13268,socks5://45.74.31.47:13268,elite,true,872,2022,100,,7,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,2,2026-10-19T03:30:00.384Z,2026-10-19T04:30:08.620Z
+socks5,45.74.31.47,17919,socks5://45.74.31.47:17919,elite,true,1238,2019.5,67.9,,28,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,4,2026-10-18T20:26:17.235Z,2026-10-19T04:25:09.599Z
+socks5,45.74.31.47,17060,socks5://45.74.31.47:17060,elite,true,2635,2352.5,72.7,,11,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,2,2026-10-19T01:28:56.754Z,2026-10-19T04:24:53.161Z
+socks5,45.74.31.46,14843,socks5://45.74.31.46:14843,elite,false,8215,2537,75,,4,101.99.94.106,7,bg,Sofia-Capital,Sofia,Europe/Sofia,45839,Shinjiru Technology Sdn Bhd,1,2026-10-19T03:30:00.384Z,2026-10-19T04:24:24.613Z

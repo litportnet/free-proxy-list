@@ -1,16 +1,40 @@
 [
   {
     "protocol": "socks4",
+    "ip": "181.189.132.74",
+    "port": 5678,
+    "url": "socks4://181.189.132.74:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1432,
+    "latency_median_ms": 1466,
+    "uptime_24h": 63.9,
+    "uptime_7d": 61.7,
+    "checks_7d": 661,
+    "exit_ip": "181.189.132.74",
+    "exit_shared": 1,
+    "country": "gt",
+    "region": "Guatemala",
+    "city": "Guatemala City",
+    "timezone": "America/Guatemala",
+    "asn": 26617,
+    "asn_org": "Navega.com S.A.",
+    "sources_count": 21,
+    "first_seen": "2026-08-08T18:05:33.990Z",
+    "last_checked": "2026-10-19T04:31:37.565Z"
+  },
+  {
+    "protocol": "socks4",
     "ip": "38.41.225.174",
     "port": 8888,
     "url": "socks4://38.41.225.174:8888",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 7419,
-    "latency_median_ms": 1387.5,
-    "uptime_24h": 65.5,
-    "uptime_7d": 61.1,
-    "checks_7d": 597,
+    "latency_ms": 3394,
+    "latency_median_ms": 1380.5,
+    "uptime_24h": 55.3,
+    "uptime_7d": 57.1,
+    "checks_7d": 546,
     "exit_ip": "38.41.225.174",
     "exit_shared": 1,
     "country": "gt",
@@ -21,6 +45,6 @@
     "asn_org": "Innova Outsourcing S.A",
     "sources_count": 13,
     "first_seen": "2026-07-06T07:56:30.881Z",
-    "last_checked": "2026-10-18T04:25:25.974Z"
+    "last_checked": "2026-10-19T04:33:28.073Z"
   }
 ]

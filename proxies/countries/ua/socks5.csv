@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,false,851,1859.5,48.6,46.9,587,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-18T04:29:48.222Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,194.67.120.148,10808,socks4://194.67.120.148:10808,elite,true,849,967,68.3,68.3,63,84.32.99.177,1,se,Stockholm,Stockholm,Europe/Stockholm,214159,UAB Cherry Servers,11,2026-10-17T12:10:32.151Z,2026-10-18T04:24:22.109Z
-socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,false,1647,1658,61.9,57.7,636,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-18T04:27:47.695Z

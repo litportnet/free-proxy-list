@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,124.41.225.101,1080,socks5://124.41.225.101:1080,elite,false,4716,2757.5,41.7,33.8,474,124.41.225.101,1,np,Madhesh,Birgañj,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,20,2026-08-02T19:49:17.370Z,2026-10-18T04:27:21.536Z
+socks5,124.41.225.101,1080,socks5://124.41.225.101:1080,elite,false,2705,2731.5,35.6,35,454,124.41.225.101,1,np,Madhesh,Birgañj,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,20,2026-08-02T19:49:17.370Z,2026-10-19T04:26:01.960Z

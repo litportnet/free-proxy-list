@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,true,1818,1805.5,100,95.2,923,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-18T04:27:38.078Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,7912,1790,60.8,63,671,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-18T04:20:43.511Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,8442,3980,46.6,41.7,487,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-18T04:25:33.060Z
+socks4,217.142.236.180,1080,socks4://217.142.236.180:1080,elite,false,7788,819.5,98.6,97.1,964,217.142.236.180,2,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,13,2026-09-27T07:01:07.793Z,2026-10-19T04:23:55.091Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,7886,1788.5,54.1,60.3,619,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-19T04:28:32.306Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,812,926.5,36.7,35.4,429,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-03-19T19:50:21.621Z,2026-10-19T04:24:58.425Z

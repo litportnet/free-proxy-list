@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,14.32.24.79,1080,socks5://14.32.24.79:1080,elite,true,2011,2753.5,76.5,76.5,486,14.32.24.79,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,14,2026-10-13T15:20:30.741Z,2026-10-18T04:22:12.909Z
-socks5,14.36.232.55,1080,socks5://14.36.232.55:1080,elite,true,1199,1178.5,100,,19,14.36.232.55,2,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,9,2026-10-18T01:16:15.380Z,2026-10-18T04:21:33.793Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,7409,2011,97,95.4,958,59.24.42.101,1,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-19T04:23:57.696Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,3973,3735,84.6,74.4,747,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-19T04:27:26.951Z
+socks5,112.169.210.64,1080,socks5://112.169.210.64:1080,elite,true,6086,4185.5,44.4,58.6,469,112.169.210.64,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,14,2026-10-10T07:38:36.033Z,2026-10-19T04:26:59.377Z

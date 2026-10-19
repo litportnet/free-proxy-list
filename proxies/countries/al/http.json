@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "79.106.44.66",
+    "port": 2095,
+    "url": "http://79.106.44.66:2095",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3311,
+    "latency_median_ms": 3161,
+    "uptime_24h": 34.7,
+    "uptime_7d": 21.7,
+    "checks_7d": 337,
+    "exit_ip": "79.106.44.66",
+    "exit_shared": 1,
+    "country": "al",
+    "region": "Durrës County",
+    "city": "Durrës",
+    "timezone": "Europe/Tirane",
+    "asn": 42313,
+    "asn_org": "ONE ALBANIA SH.A.",
+    "sources_count": 23,
+    "first_seen": "2026-09-09T08:49:52.257Z",
+    "last_checked": "2026-10-19T04:24:32.504Z"
+  }
+]

@@ -6,11 +6,11 @@
     "url": "socks5://93.99.104.47:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 798,
-    "latency_median_ms": 750.5,
-    "uptime_24h": 100,
-    "uptime_7d": 100,
-    "checks_7d": 177,
+    "latency_ms": 1234,
+    "latency_median_ms": 1209,
+    "uptime_24h": 97.1,
+    "uptime_7d": 98.7,
+    "checks_7d": 314,
     "exit_ip": "93.99.104.47",
     "exit_shared": 1,
     "country": "cz",
@@ -21,6 +21,6 @@
     "asn_org": "Vodafone Czech Republic a.s.",
     "sources_count": 14,
     "first_seen": "2026-10-16T23:02:20.961Z",
-    "last_checked": "2026-10-18T04:25:01.474Z"
+    "last_checked": "2026-10-19T04:33:11.511Z"
   }
 ]

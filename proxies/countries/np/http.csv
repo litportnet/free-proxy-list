@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.90.234.106,8080,http://116.90.234.106:8080,elite,true,4411,4695.5,29.6,22.7,269,116.90.234.106,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,26,2026-08-26T20:14:03.077Z,2026-10-18T04:30:24.014Z
+http,103.232.228.138,8080,http://103.232.228.138:8080,transparent,false,9411,5716.5,27.6,10.6,132,103.232.228.138,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,55427,Broadlink Nepal,9,2025-09-08T18:26:33.162Z,2026-10-19T04:28:19.245Z

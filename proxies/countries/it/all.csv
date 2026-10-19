@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,796,1443.5,95.5,94.3,942,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,15,2026-06-29T15:31:05.719Z,2026-10-18T04:27:08.759Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,2836,2574,80.7,84.3,854,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-18T04:30:53.878Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,2509,599.5,80.6,78.5,822,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-18T04:27:30.630Z
-http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,4756,1001.5,44.9,33.1,478,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-18T04:26:08.679Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2614,1925,97.1,94.6,938,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-19T04:25:14.856Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,493,984,61.8,82.3,791,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-19T04:31:34.318Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,564,570,87.9,81.4,815,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-19T04:31:15.586Z
+http,185.8.148.81,8085,http://185.8.148.81:8085,transparent,true,1665,2500,50,33.9,330,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,18,2026-10-12T20:10:22.760Z,2026-10-19T04:23:02.871Z

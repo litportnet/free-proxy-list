@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.223.154.177",
+    "port": 8080,
+    "url": "http://102.223.154.177:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 5783,
+    "latency_median_ms": 4655.5,
+    "uptime_24h": 21.4,
+    "uptime_7d": 13.5,
+    "checks_7d": 170,
+    "exit_ip": "102.223.154.177",
+    "exit_shared": 1,
+    "country": "sl",
+    "region": "Western Area",
+    "city": "Freetown",
+    "timezone": "Africa/Freetown",
+    "asn": 329109,
+    "asn_org": "Zoodlabs(SL) Limited",
+    "sources_count": 19,
+    "first_seen": "2025-09-09T13:49:02.959Z",
+    "last_checked": "2026-10-19T04:31:44.535Z"
+  }
+]

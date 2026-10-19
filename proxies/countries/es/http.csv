@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,451,458,94.5,97,967,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-18T04:26:11.325Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,467,472.5,87.6,95.7,939,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-19T04:29:49.934Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,true,1590,3016.5,45.5,37.8,497,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-10-19T04:33:39.774Z
+http,90.161.220.67,3128,http://90.161.220.67:3128,transparent,true,9274,2275.5,47.8,28.9,356,90.161.220.67,1,es,Andalusia,Conil de la Frontera,Europe/Madrid,12479,Orange Espagne SA,24,2026-09-05T02:55:03.785Z,2026-10-19T04:27:43.960Z
+http,81.0.49.104,20500,http://81.0.49.104:20500,transparent,false,1433,4634,33.3,25,324,81.0.49.104,1,es,Madrid,Madrid,Europe/Madrid,15704,XTRA TELECOM S.A.,25,2026-05-18T15:42:53.879Z,2026-10-19T04:25:05.897Z

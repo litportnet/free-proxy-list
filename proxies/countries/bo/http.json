@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "190.181.59.147",
+    "port": 999,
+    "url": "http://190.181.59.147:999",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4403,
+    "latency_median_ms": 4234.5,
+    "uptime_24h": 45.6,
+    "uptime_7d": 34.6,
+    "checks_7d": 466,
+    "exit_ip": "190.181.59.147",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "Santa Cruz Department",
+    "city": "Santa Cruz de la Sierra",
+    "timezone": "America/La_Paz",
+    "asn": 26210,
+    "asn_org": "AXS Bolivia S. A.",
+    "sources_count": 13,
+    "first_seen": "2026-07-31T06:15:27.005Z",
+    "last_checked": "2026-10-19T04:32:13.487Z"
+  }
+]

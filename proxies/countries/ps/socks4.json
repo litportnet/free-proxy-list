@@ -6,11 +6,11 @@
     "url": "socks4://103.231.105.158:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1771,
-    "latency_median_ms": 1806,
-    "uptime_24h": 44.9,
-    "uptime_7d": 44.7,
-    "checks_7d": 584,
+    "latency_ms": 770,
+    "latency_median_ms": 1381,
+    "uptime_24h": 35.7,
+    "uptime_7d": 42.7,
+    "checks_7d": 529,
     "exit_ip": "103.231.105.158",
     "exit_shared": 1,
     "country": "ps",
@@ -21,6 +21,6 @@
     "asn_org": "PALTEL Autonomous System",
     "sources_count": 22,
     "first_seen": "2026-07-06T01:59:45.801Z",
-    "last_checked": "2026-10-18T04:20:27.137Z"
+    "last_checked": "2026-10-19T04:24:33.057Z"
   }
 ]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.151.88.97,8080,http://103.151.88.97:8080,transparent,true,1953,1982.5,27.5,15.2,250,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,15,2026-09-24T06:22:34.030Z,2026-10-19T04:27:53.546Z

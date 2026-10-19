@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,173.249.24.121,1080,socks4://173.249.24.121:1080,elite,true,585,1303,99.3,98.9,453,173.249.24.121,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,16,2026-09-16T01:17:00.632Z,2026-10-18T04:26:20.417Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,1557,560,61.2,59.5,592,95.178.108.189,1,fr,Rhône-Alpes,Lyon,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-18T04:21:36.963Z
+socks4,45.140.165.128,40001,socks4://45.140.165.128:40001,elite,true,2244,1698.5,60.8,63.5,362,104.28.216.185,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,13335,"Cloudflare, Inc.",15,2026-10-15T10:43:14.923Z,2026-10-19T04:28:12.812Z

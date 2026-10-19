@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,62.83.33.70,1080,socks5://62.83.33.70:1080,elite,true,736,748,100,84.2,322,62.83.33.70,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,14,2026-09-26T03:46:28.172Z,2026-10-18T04:29:49.793Z
-socks5,62.83.34.101,1080,socks5://62.83.34.101:1080,elite,true,749,745.5,100,84.2,303,62.83.34.101,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,15,2026-09-24T03:21:02.509Z,2026-10-18T04:22:34.112Z
-socks5,195.26.219.87,1080,socks5://195.26.219.87:1080,elite,false,1758,1757,79.2,79.2,72,195.26.219.87,1,at,Lower Austria,Ebreichsdorf,Europe/Vienna,8245,Video-Broadcast GmbH,13,2026-10-17T12:09:20.052Z,2026-10-18T04:31:02.430Z
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,4556,4657,78.2,71.8,748,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-10-18T04:25:08.369Z
-socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,3701,2685,55.1,51.7,625,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,13,2026-07-06T13:59:25.623Z,2026-10-18T04:27:26.339Z
-socks4,46.161.49.174,10808,socks4://46.161.49.174:10808,elite,true,1971,1244.5,69,50.9,175,50.7.36.130,1,at,Vienna,Vienna,Europe/Vienna,30058,FDCservers.net,13,2026-10-14T00:25:13.943Z,2026-10-18T04:27:02.371Z
+socks5,62.83.34.101,1080,socks5://62.83.34.101:1080,elite,true,729,731.5,98.6,91,432,62.83.34.101,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,15,2026-09-24T03:21:02.509Z,2026-10-19T04:29:32.276Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,true,693,1661.5,59,51.7,586,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,14,2026-07-06T13:59:25.623Z,2026-10-19T04:32:46.493Z
+socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,1963,3035,70.3,48.3,528,95.177.87.12,1,at,Vienna,Vienna,Europe/Vienna,212238,Datacamp Limited,20,2026-09-16T03:18:05.440Z,2026-10-19T04:24:57.901Z

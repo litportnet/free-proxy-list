@@ -6,11 +6,11 @@
     "url": "socks5://124.41.225.101:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4716,
-    "latency_median_ms": 2757.5,
-    "uptime_24h": 41.7,
-    "uptime_7d": 33.8,
-    "checks_7d": 474,
+    "latency_ms": 2705,
+    "latency_median_ms": 2731.5,
+    "uptime_24h": 35.6,
+    "uptime_7d": 35,
+    "checks_7d": 454,
     "exit_ip": "124.41.225.101",
     "exit_shared": 1,
     "country": "np",
@@ -21,6 +21,6 @@
     "asn_org": "WorldLink Communications Pvt Ltd",
     "sources_count": 20,
     "first_seen": "2026-08-02T19:49:17.370Z",
-    "last_checked": "2026-10-18T04:27:21.536Z"
+    "last_checked": "2026-10-19T04:26:01.960Z"
   }
 ]

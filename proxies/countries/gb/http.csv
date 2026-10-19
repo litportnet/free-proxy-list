@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,874,680.5,91.1,96.2,968,172.69.195.215,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-18T04:28:52.695Z
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2169,2734.5,82.2,80.3,791,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-18T04:26:35.875Z
-http,186.190.211.67,80,http://186.190.211.67:80,elite,true,4821,4517,36.2,40.2,555,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,19,2026-10-10T04:37:02.560Z,2026-10-18T04:27:16.734Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2563,2213.5,89,81.2,789,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-19T04:30:48.500Z
+http,186.190.211.67,80,http://186.190.211.67:80,elite,false,5372,5113,51.5,40.9,530,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,19,2026-10-10T04:37:02.560Z,2026-10-19T04:33:05.183Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,771,2795.5,29.6,35.5,496,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-10-19T04:26:50.245Z

@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2330,2956.5,97.8,98,980,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-18T04:22:45.791Z
-socks5,79.76.59.115,1080,socks5://79.76.59.115:1080,elite,false,2828,2533.5,58.5,54.3,547,79.76.59.115,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,18,2026-07-15T05:50:37.347Z,2026-10-18T04:30:28.857Z
-socks5,193.23.200.117,1085,socks5://193.23.200.117:1085,elite,false,9417,5899.5,22.2,14.3,147,172.232.148.103,1,se,Stockholm,Stockholm,Europe/Stockholm,63949,Akamai Connected Cloud,21,2026-09-17T15:37:11.990Z,2026-10-18T04:24:47.119Z
-socks5,185.135.81.149,9060,socks5://185.135.81.149:9060,elite,true,1590,5692,17.4,7.6,92,193.189.100.202,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,21,2026-06-03T14:03:44.460Z,2026-10-18T04:28:30.826Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1199,1874,99.3,98.5,981,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-19T04:30:00.113Z
+socks5,13.49.0.120,1080,socks5://13.49.0.120:1080,elite,true,1061,1061,100,,1,13.49.0.120,1,se,Stockholm,Stockholm,Europe/Stockholm,16509,"Amazon.com, Inc.",2,2026-10-19T04:30:36.814Z,2026-10-19T04:30:37.409Z
+socks5,91.90.25.88,1080,socks5://91.90.25.88:1080,elite,false,7008,7008,17.7,,23,91.90.25.87,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,12,2026-10-07T11:02:34.797Z,2026-10-19T04:25:06.948Z

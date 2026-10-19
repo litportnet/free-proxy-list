@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,1920,1522,86.2,84.3,848,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-18T04:23:53.033Z
+socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,true,987,1508,61.3,49.1,578,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-19T04:29:36.030Z
+http,210.61.216.63,60808,http://210.61.216.63:60808,elite,false,2733,3682.5,31.3,22.8,202,118.160.193.65,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,24,2025-09-05T20:06:26.024Z,2026-10-19T04:28:52.551Z
+http,210.201.86.72,8080,http://210.201.86.72:8080,transparent,false,3436,3705.5,29.2,15.6,167,210.201.86.72,1,tw,Taiwan,Taichung,Asia/Taipei,7482,Asia Pacific On-line Service Inc.,21,2025-09-04T23:49:55.088Z,2026-10-19T04:29:20.479Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,85.117.56.29,8080,http://85.117.56.29:8080,transparent,false,4072,3511,40,26.9,376,85.117.56.29,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,19,2026-10-08T03:11:00.556Z,2026-10-19T04:25:51.850Z
+http,95.104.123.18,8080,http://95.104.123.18:8080,transparent,false,2444,3031,41.4,23.8,357,95.104.123.18,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2026-09-28T14:17:13.126Z,2026-10-19T04:28:14.447Z

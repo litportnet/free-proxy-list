@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.11.193.76,8080,http://103.11.193.76:8080,transparent,true,4353,3850.5,37.1,28.5,446,103.11.193.76,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,13,2026-09-21T10:05:33.015Z,2026-10-19T04:32:52.366Z

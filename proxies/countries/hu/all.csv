@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.61.117.11,1080,socks4://109.61.117.11:1080,elite,true,1658,1659,68.1,70.3,744,109.61.64.9,1,hu,Baranya,Pécs,Europe/Budapest,197248,Dravanet Co Ltd.,16,2026-10-04T17:28:05.859Z,2026-10-18T04:27:26.895Z
+socks4,109.61.117.11,1080,socks4://109.61.117.11:1080,elite,true,630,1136,76,69.6,713,109.61.64.9,1,hu,Baranya,Pécs,Europe/Budapest,197248,Dravanet Co Ltd.,16,2026-10-04T17:28:05.859Z,2026-10-19T04:27:14.720Z
+socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,false,3852,753.5,46.3,48,527,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-09-04T23:48:59.215Z,2026-10-19T04:25:46.046Z
+http,79.137.78.133,8006,http://79.137.78.133:8006,elite,false,716,630,12.5,3,67,146.70.120.157,1,hu,Budapest,Budapest,Europe/Budapest,9009,M247 Europe SRL,21,2026-08-15T14:34:16.045Z,2026-10-19T04:26:13.118Z

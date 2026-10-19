@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,132.243.239.87,80,http://132.243.239.87:80,elite,false,542,554.5,100,100,67,132.243.239.87,1,bg,Sofia-Capital,Sofia,Europe/Sofia,26383,Baxet Group Inc.,1,2026-10-18T17:25:02.279Z,2026-10-19T04:30:56.997Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,262,261.5,100,96,124,93.123.16.14,2,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,7,2026-07-30T12:07:52.703Z,2026-10-19T04:33:32.332Z
+http,18.191.250.90,8880,http://18.191.250.90:8880,elite,false,957,817.5,64.7,73.5,185,45.137.201.100,1,bg,Sofia-Capital,Sofia,Europe/Sofia,211507,Julian Achter,4,2026-08-22T06:13:47.482Z,2026-10-19T04:29:06.547Z
+http,213.169.33.3,8001,http://213.169.33.3:8001,transparent,false,2339,3679.5,38.2,20.3,325,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,19,2025-09-05T20:06:37.898Z,2026-10-19T04:31:36.484Z
+http,78.142.61.74,3128,http://78.142.61.74:3128,elite,true,6568,5820,22.2,18.7,166,78.142.61.74,1,bg,Sofia-Capital,Sofia,Europe/Sofia,200628,BGO Cloud OOD,24,2026-09-02T05:36:03.505Z,2026-10-19T04:30:31.565Z
+http,213.169.33.12,8001,http://213.169.33.12:8001,transparent,true,5207,4082,19.5,16.5,267,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,21,2025-09-05T20:06:27.889Z,2026-10-19T04:24:51.002Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,240,246.5,100,,29,93.123.16.14,2,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,3,2026-07-31T01:14:40.188Z,2026-10-19T04:26:22.117Z

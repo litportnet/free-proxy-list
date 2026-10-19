@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,true,1682,5782,15.2,24.7,365,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-10-18T04:24:06.823Z
+socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,4281,2292,84.6,73,732,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,9,2025-11-01T10:33:30.995Z,2026-10-19T04:23:58.224Z

@@ -1,12 +1,10 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.244.78.61,8084,http://102.244.78.61:8084,elite,true,850,832,96.3,92.1,924,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T06:47:45.688Z,2026-10-18T04:23:20.663Z
-http,102.244.78.61,8088,http://102.244.78.61:8088,elite,true,823,828.5,95.5,91.7,922,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T04:46:36.379Z,2026-10-18T04:26:23.566Z
-http,102.244.78.61,8085,http://102.244.78.61:8085,elite,true,814,822,94.7,90.6,911,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T15:26:57.326Z,2026-10-18T04:23:47.755Z
-http,102.244.78.61,8090,http://102.244.78.61:8090,elite,true,807,819,95.5,90.2,914,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-03T20:16:56.994Z,2026-10-18T04:25:23.855Z
-http,102.244.78.61,8089,http://102.244.78.61:8089,elite,true,809,825,96.3,90.2,909,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T06:35:00.733Z,2026-10-18T04:24:31.150Z
-http,102.244.78.61,8082,http://102.244.78.61:8082,elite,true,823,824,96.3,90,906,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T05:34:25.752Z,2026-10-18T04:25:57.485Z
-http,102.244.78.61,8080,http://102.244.78.61:8080,elite,true,814,831,92.3,89.6,903,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T00:19:10.603Z,2026-10-18T04:25:31.939Z
-http,102.244.78.61,8083,http://102.244.78.61:8083,elite,true,814,828,94.7,89.5,904,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T14:26:33.928Z,2026-10-18T04:24:18.409Z
-http,102.244.78.61,8086,http://102.244.78.61:8086,elite,true,1107,828.5,93.1,89.3,894,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T23:44:03.938Z,2026-10-18T04:24:29.034Z
-http,102.244.78.61,8087,http://102.244.78.61:8087,elite,true,803,816.5,92.1,88.9,886,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T18:28:41.562Z,2026-10-18T04:27:47.704Z
-http,102.244.78.61,8081,http://102.244.78.61:8081,elite,true,830,847.5,95.5,88.8,896,102.244.78.57,11,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-06T19:54:38.900Z,2026-10-18T04:23:38.190Z
+http,102.244.78.61,8088,http://102.244.78.61:8088,elite,true,901,795,88.9,91.8,901,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T04:46:36.379Z,2026-10-19T04:27:57.800Z
+http,102.244.78.61,8085,http://102.244.78.61:8085,elite,true,786,780.5,88.9,90.7,891,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T15:26:57.326Z,2026-10-19T04:29:27.984Z
+http,102.244.78.61,8082,http://102.244.78.61:8082,elite,true,798,782.5,89.9,90.4,887,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T05:34:25.752Z,2026-10-19T04:30:39.005Z
+http,102.244.78.61,8086,http://102.244.78.61:8086,elite,true,1082,805,91,90.4,883,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T23:44:03.938Z,2026-10-19T04:28:32.303Z
+http,102.244.78.61,8089,http://102.244.78.61:8089,elite,true,785,790.5,89,90.1,888,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T06:35:00.733Z,2026-10-19T04:33:33.428Z
+http,102.244.78.61,8080,http://102.244.78.61:8080,elite,true,791,791.5,93.7,90.1,892,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T00:19:10.603Z,2026-10-19T04:33:10.978Z
+http,102.244.78.61,8083,http://102.244.78.61:8083,elite,true,794,815,88.6,89.8,883,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T14:26:33.928Z,2026-10-19T04:25:22.798Z
+http,102.244.78.61,8087,http://102.244.78.61:8087,elite,true,767,793.5,89.8,89.2,867,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T18:28:41.562Z,2026-10-19T04:29:51.553Z
+http,102.244.78.61,8081,http://102.244.78.61:8081,elite,true,777,790.5,89,89,878,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-06T19:54:38.900Z,2026-10-19T04:26:13.643Z

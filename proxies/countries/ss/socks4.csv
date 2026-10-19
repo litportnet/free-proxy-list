@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,169.255.139.5,60279,socks4://169.255.139.5:60279,elite,false,2349,3284.5,31,32.5,437,169.255.136.8,2,ss,Central Equatoria,Juba,Africa/Juba,36892,IPTEC Limited,12,2025-09-04T23:49:03.309Z,2026-10-18T04:27:57.343Z
-socks4,169.255.136.8,60279,socks4://169.255.136.8:60279,elite,false,4233,2252,32.2,27.6,445,169.255.136.8,2,ss,Central Equatoria,Juba,Africa/Juba,36892,IPTEC Limited,13,2025-09-04T23:48:58.578Z,2026-10-18T04:28:43.664Z

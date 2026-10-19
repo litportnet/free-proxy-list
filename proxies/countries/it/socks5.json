@@ -6,11 +6,11 @@
     "url": "socks5://212.77.75.25:1088",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 796,
-    "latency_median_ms": 1443.5,
-    "uptime_24h": 95.5,
-    "uptime_7d": 94.3,
-    "checks_7d": 942,
+    "latency_ms": 2614,
+    "latency_median_ms": 1925,
+    "uptime_24h": 97.1,
+    "uptime_7d": 94.6,
+    "checks_7d": 938,
     "exit_ip": "212.77.75.20",
     "exit_shared": 1,
     "country": "it",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Rome",
     "asn": 15691,
     "asn_org": "UAN COMPANY S.R.L.",
-    "sources_count": 15,
+    "sources_count": 16,
     "first_seen": "2026-06-29T15:31:05.719Z",
-    "last_checked": "2026-10-18T04:27:08.759Z"
+    "last_checked": "2026-10-19T04:25:14.856Z"
   }
 ]

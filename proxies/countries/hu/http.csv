@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.137.78.133,8006,http://79.137.78.133:8006,elite,false,716,630,12.5,3,67,146.70.120.157,1,hu,Budapest,Budapest,Europe/Budapest,9009,M247 Europe SRL,21,2026-08-15T14:34:16.045Z,2026-10-19T04:26:13.118Z

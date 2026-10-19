@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "77.235.31.24",
+    "port": 8080,
+    "url": "http://77.235.31.24:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8908,
+    "latency_median_ms": 4051,
+    "uptime_24h": 27.3,
+    "uptime_7d": 10.8,
+    "checks_7d": 111,
+    "exit_ip": "77.235.31.24",
+    "exit_shared": 1,
+    "country": "kg",
+    "region": "Chuy Region",
+    "city": "Kant",
+    "timezone": "Asia/Bishkek",
+    "asn": 41750,
+    "asn_org": "Mega-Line Ltd.",
+    "sources_count": 17,
+    "first_seen": "2025-09-10T19:35:11.224Z",
+    "last_checked": "2026-10-19T04:26:00.894Z"
+  }
+]

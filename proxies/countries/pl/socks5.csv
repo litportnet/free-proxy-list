@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,222.167.246.25,5000,socks5://222.167.246.25:5000,elite,false,5735,737,80,,15,222.167.246.25,2,pl,Pomerania,Gdańsk,Europe/Warsaw,202051,NETGRID HOST LTD,8,2026-10-18T01:16:15.380Z,2026-10-18T04:29:59.935Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2256,1956.5,70.9,61.1,568,188.212.135.227,1,pl,Mazovia,Warsaw,Europe/Warsaw,206092,F.N.S. HOLDINGS LIMITED,18,2026-09-16T03:18:05.440Z,2026-10-19T04:28:23.031Z

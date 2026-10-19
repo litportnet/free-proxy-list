@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,719,1591.5,80,77.1,777,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-18T04:22:22.450Z
-socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,659,761,66.7,64,650,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-18T04:21:39.617Z
+socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,699,703,56.6,61.4,603,217.197.151.182,1,cz,Olomouc Region,Přerov,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-19T04:32:50.757Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,647,1665.5,57.7,58.1,551,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-10-19T04:31:39.695Z

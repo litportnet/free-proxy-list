@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.87.123",
+    "port": 1235,
+    "url": "socks5://49.13.87.123:1235",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 982,
+    "latency_median_ms": 784.5,
+    "uptime_24h": 81.4,
+    "uptime_7d": null,
+    "checks_7d": 43,
+    "exit_ip": "141.98.253.43",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Oslo",
+    "city": "Oslo",
+    "timezone": "Europe/Oslo",
+    "asn": 39351,
+    "asn_org": "31173 Services AB",
+    "sources_count": 13,
+    "first_seen": "2026-10-18T18:25:20.211Z",
+    "last_checked": "2026-10-19T04:29:03.855Z"
+  }
+]
