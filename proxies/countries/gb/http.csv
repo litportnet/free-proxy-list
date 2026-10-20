@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2563,2213.5,89,81.2,789,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-19T04:30:48.500Z
-http,186.190.211.67,80,http://186.190.211.67:80,elite,false,5372,5113,51.5,40.9,530,186.190.211.67,1,gb,England,London,Europe/London,63023,GTHost,19,2026-10-10T04:37:02.560Z,2026-10-19T04:33:05.183Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,771,2795.5,29.6,35.5,496,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-10-19T04:26:50.245Z
+http,158.220.93.104,3128,http://158.220.93.104:3128,transparent,true,478,531,98.1,93.6,109,158.220.93.104,1,gb,England,Portsmouth,Europe/London,51167,Contabo GmbH,12,2026-08-31T04:09:06.759Z,2026-10-20T04:26:41.895Z
+http,104.194.146.9,80,http://104.194.146.9:80,transparent,true,403,422,90.8,85.9,92,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,13,2026-06-21T05:46:31.165Z,2026-10-20T04:24:31.767Z
+http,81.19.210.10,80,http://81.19.210.10:80,transparent,true,405,429.5,88.9,73,122,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,13,2026-06-09T01:11:00.416Z,2026-10-20T04:23:31.191Z
+http,78.17.144.104,18080,http://78.17.144.104:18080,elite,true,6885,4776.5,86.4,70.4,368,178.79.182.72,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,19,2026-10-15T14:45:22.441Z,2026-10-20T04:21:53.295Z
+http,141.147.100.148,3128,http://141.147.100.148:3128,transparent,false,7742,4168.5,47.1,31.8,359,141.147.100.148,1,gb,England,London,Europe/London,31898,Oracle Corporation,11,2026-09-17T03:30:44.651Z,2026-10-20T04:22:49.407Z
+http,2.189.86.33,8080,http://2.189.86.33:8080,anonymous,false,8026,7954,29.8,28.4,416,85.234.91.252,1,gb,England,Chester,Europe/London,59437,Northern Data AG,2,2025-09-28T19:01:36.493Z,2026-10-20T04:22:58.397Z

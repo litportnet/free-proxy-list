@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,131.163.89.148,3128,http://131.163.89.148:3128,elite,true,4524,3387.5,25,13.1,107,131.163.89.148,1,no,Oslo,Oslo,Europe/Oslo,8075,Microsoft Corporation,21,2026-06-24T01:23:04.387Z,2026-10-19T04:23:59.330Z
-socks5,49.13.87.123,1235,socks5://49.13.87.123:1235,elite,true,982,784.5,81.4,,43,141.98.253.43,1,no,Oslo,Oslo,Europe/Oslo,39351,31173 Services AB,13,2026-10-18T18:25:20.211Z,2026-10-19T04:29:03.855Z

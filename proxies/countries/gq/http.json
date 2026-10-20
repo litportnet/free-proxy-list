@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.164.252.150",
+    "port": 8080,
+    "url": "http://102.164.252.150:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 4007,
+    "latency_median_ms": 4008.5,
+    "uptime_24h": 54.1,
+    "uptime_7d": 44,
+    "checks_7d": 518,
+    "exit_ip": "102.164.252.150",
+    "exit_shared": 1,
+    "country": "gq",
+    "region": "Litoral",
+    "city": "Bata",
+    "timezone": "Africa/Malabo",
+    "asn": 328311,
+    "asn_org": "Conexxia Guinea Equatorial, S.L",
+    "sources_count": 16,
+    "first_seen": "2025-09-10T19:34:38.873Z",
+    "last_checked": "2026-10-20T04:27:15.378Z"
+  }
+]

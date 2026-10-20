@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,202.144.134.150,5678,socks4://202.144.134.150:5678,elite,false,4437,2436.5,56,50.8,583,202.144.134.150,1,bt,Chukha,Phuntsholing,Asia/Thimphu,18024,Bhutan Telecom Ltd,14,2025-09-04T23:48:55.730Z,2026-10-19T04:28:13.894Z
+socks4,202.144.134.150,5678,socks4://202.144.134.150:5678,elite,false,1381,4427,56.3,52,554,202.144.134.150,1,bt,Chukha,Phuntsholing,Asia/Thimphu,18024,Bhutan Telecom Ltd,14,2025-09-04T23:48:55.730Z,2026-10-20T04:25:56.699Z

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,1325,640.5,100,99.3,997,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-10-19T04:28:46.591Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,620,639.5,89.3,74,741,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-10-19T04:26:19.996Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,2670,2800,85.7,72.3,737,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-10-19T04:29:34.968Z
-http,160.248.7.177,80,http://160.248.7.177:80,elite,false,7820,3640.5,66.7,66.8,686,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-10-19T04:29:52.070Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,631,666.5,100,99.5,997,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-10-20T04:30:24.719Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,649,645,93.6,79.1,760,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-10-20T04:26:58.313Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,false,8602,2280,83.7,75.6,730,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-10-20T04:30:33.856Z
+http,61.118.38.234,60808,http://61.118.38.234:60808,elite,false,3249,5391,35.4,24.1,299,61.118.38.234,1,jp,Okinawa,Ishigaki,Asia/Tokyo,4713,"NTT DOCOMO BUSINESS,Inc.",26,2025-09-04T23:49:24.297Z,2026-10-20T04:26:26.997Z

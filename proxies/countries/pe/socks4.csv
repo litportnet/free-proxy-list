@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,177.91.255.35,5678,socks4://177.91.255.35:5678,elite,false,591,601.5,60.3,53.2,604,177.91.255.35,1,pe,Lima Province,Lima,America/Lima,263224,EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA,21,2025-09-05T20:06:33.454Z,2026-10-19T04:24:50.455Z

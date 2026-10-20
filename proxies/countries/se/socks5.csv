@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1199,1874,99.3,98.5,981,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-19T04:30:00.113Z
-socks5,13.49.0.120,1080,socks5://13.49.0.120:1080,elite,true,1061,1061,100,,1,13.49.0.120,1,se,Stockholm,Stockholm,Europe/Stockholm,16509,"Amazon.com, Inc.",2,2026-10-19T04:30:36.814Z,2026-10-19T04:30:37.409Z
-socks5,91.90.25.88,1080,socks5://91.90.25.88:1080,elite,false,7008,7008,17.7,,23,91.90.25.87,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,12,2026-10-07T11:02:34.797Z,2026-10-19T04:25:06.948Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1244,2067,97,98.2,972,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-20T04:25:37.553Z
+socks5,5.75.133.113,10808,socks5://5.75.133.113:10808,elite,true,1067,4841,57.6,52.7,533,45.130.87.2,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,19,2026-08-23T21:34:26.552Z,2026-10-20T04:21:12.545Z
+socks5,79.76.52.220,1080,socks5://79.76.52.220:1080,elite,false,1895,2325.5,38.2,29,338,79.76.52.220,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,17,2026-07-12T14:21:31.857Z,2026-10-20T04:30:11.326Z
+socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,4826,3980.5,81.4,,43,141.98.255.214,1,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,8,2026-07-13T09:34:11.062Z,2026-10-20T04:29:10.235Z

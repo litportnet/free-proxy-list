@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,false,2579,4545.5,71.6,46.9,527,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-10-20T04:27:38.879Z
+http,202.165.92.206,8080,http://202.165.92.206:8080,transparent,false,1315,2089.5,76.7,44.1,510,202.165.92.206,1,mm,Yangon,Yangon,Asia/Yangon,136255,"Telecom International Myanmar Co., Ltd",12,2025-09-08T12:19:06.894Z,2026-10-20T04:25:55.085Z
+http,202.165.94.170,8082,http://202.165.94.170:8082,transparent,false,3117,3625.5,35.4,31.1,212,202.165.94.170,1,mm,Yangon,Yangon,Asia/Yangon,136255,"Telecom International Myanmar Co., Ltd",5,2026-06-08T15:05:14.221Z,2026-10-20T04:23:30.672Z

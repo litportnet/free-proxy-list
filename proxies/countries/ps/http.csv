@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,213.6.249.37,19000,http://213.6.249.37:19000,transparent,false,1585,4037,30,20,150,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,12,2026-05-27T03:23:13.655Z,2026-10-19T04:29:45.661Z
-http,82.213.29.53,18000,http://82.213.29.53:18000,transparent,true,9455,2154.5,31.6,19.5,159,213.6.68.29,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,11,2026-09-07T01:20:42.605Z,2026-10-19T04:32:40.649Z
+http,188.161.150.217,9090,http://188.161.150.217:9090,transparent,false,3041,3018.5,37.3,30,347,188.161.150.217,1,ps,Gaza Strip,Gaza,Asia/Gaza,12975,PALTEL Autonomous System,19,2026-09-30T17:44:28.400Z,2026-10-20T04:23:19.001Z

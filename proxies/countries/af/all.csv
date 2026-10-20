@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.151.88.97,8080,http://103.151.88.97:8080,transparent,true,1953,1982.5,27.5,15.2,250,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,15,2026-09-24T06:22:34.030Z,2026-10-19T04:27:53.546Z
+http,103.151.88.65,8080,http://103.151.88.65:8080,transparent,false,2083,3228.5,43.1,20,240,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,20,2026-09-18T01:42:28.795Z,2026-10-20T04:22:56.831Z
+http,203.171.115.116,8080,http://203.171.115.116:8080,transparent,true,3689,4644.5,21.1,15.7,217,203.171.115.116,1,af,Sar-e Pol Province,Tukzār,Asia/Kabul,131284,Etisalat Afghan,15,2026-05-21T20:15:23.503Z,2026-10-20T04:29:45.552Z

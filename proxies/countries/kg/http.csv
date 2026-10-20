@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.235.31.24,8080,http://77.235.31.24:8080,transparent,false,8908,4051,27.3,10.8,111,77.235.31.24,1,kg,Chuy Region,Kant,Asia/Bishkek,41750,Mega-Line Ltd.,17,2025-09-10T19:35:11.224Z,2026-10-19T04:26:00.894Z
+http,95.87.73.121,8080,http://95.87.73.121:8080,transparent,false,1791,3211.5,47.2,34.1,402,95.87.73.121,1,kg,Chuy Region,Lebedinovka,Asia/Bishkek,29061,CJSC SAIMA TELECOM,20,2026-10-13T02:13:33.681Z,2026-10-20T04:20:04.198Z

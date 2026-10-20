@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.185.193.115,8080,http://91.185.193.115:8080,elite,false,4374,3922,29.4,24.1,303,91.185.193.115,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,41828,Telemach Slovenija d.o.o.,20,2026-09-28T20:20:30.554Z,2026-10-19T04:30:05.933Z
+http,91.185.193.115,8080,http://91.185.193.115:8080,elite,true,2044,3431,41.5,26,281,91.185.193.115,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,41828,Telemach Slovenija d.o.o.,20,2026-09-28T20:20:30.554Z,2026-10-20T04:25:10.999Z
+http,109.127.199.102,9999,http://109.127.199.102:9999,elite,true,872,990,57.7,,26,109.127.199.102,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,2107,ARNES,16,2026-09-26T20:55:35.976Z,2026-10-20T04:22:09.137Z

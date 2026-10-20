@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "109.111.179.206",
+    "port": 1090,
+    "url": "socks5://109.111.179.206:1090",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3929,
+    "latency_median_ms": 3442,
+    "uptime_24h": 22.2,
+    "uptime_7d": null,
+    "checks_7d": 15,
+    "exit_ip": "213.155.20.84",
+    "exit_shared": 2,
+    "country": "kz",
+    "region": "Almaty",
+    "city": "Almaty",
+    "timezone": "Asia/Almaty",
+    "asn": 48716,
+    "asn_org": "PS Internet Company LLP",
+    "sources_count": 12,
+    "first_seen": "2026-07-18T22:37:54.704Z",
+    "last_checked": "2026-10-20T04:30:09.716Z"
+  }
+]

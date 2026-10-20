@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.231.105.158,4145,socks4://103.231.105.158:4145,elite,true,770,1381,35.7,42.7,529,103.231.105.158,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,22,2026-07-06T01:59:45.801Z,2026-10-19T04:24:33.057Z
-http,213.6.249.37,19000,http://213.6.249.37:19000,transparent,false,1585,4037,30,20,150,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,12,2026-05-27T03:23:13.655Z,2026-10-19T04:29:45.661Z
-http,82.213.29.53,18000,http://82.213.29.53:18000,transparent,true,9455,2154.5,31.6,19.5,159,213.6.68.29,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,11,2026-09-07T01:20:42.605Z,2026-10-19T04:32:40.649Z
+socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,806,816,66.2,57,514,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-10-20T04:28:09.212Z
+http,188.161.150.217,9090,http://188.161.150.217:9090,transparent,false,3041,3018.5,37.3,30,347,188.161.150.217,1,ps,Gaza Strip,Gaza,Asia/Gaza,12975,PALTEL Autonomous System,19,2026-09-30T17:44:28.400Z,2026-10-20T04:23:19.001Z
+socks4,93.184.7.217,1080,socks4://93.184.7.217:1080,elite,false,7969,800,31.9,26.1,226,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,20,2026-04-14T22:23:51.684Z,2026-10-20T04:27:53.833Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,62.210.189.192,19414,http://62.210.189.192:19414,elite,false,4047,6954.5,16.7,8.1,111,83.130.120.174,1,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,12400,Partner Communications Ltd.,7,2026-09-26T19:55:09.651Z,2026-10-20T04:23:05.266Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,15.152.38.117,40491,http://15.152.38.117:40491,unknown,false,5529,4057,14.3,,14,15.152.38.117,2,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,3,2026-10-09T19:32:15.037Z,2026-10-20T04:25:29.045Z
+http,43.207.141.180,1011,http://43.207.141.180:1011,unknown,true,6340,4605,20,,15,43.207.141.180,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,1,2026-10-19T18:38:06.582Z,2026-10-20T04:25:31.719Z

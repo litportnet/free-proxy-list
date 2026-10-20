@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,2453,3426.5,79.2,84.2,815,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-19T04:27:06.280Z
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,505,549.5,89,75.6,757,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-19T04:25:45.508Z
-socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,false,1612,1608.5,45.2,32.8,445,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-19T04:24:56.310Z
-socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,3625,1631.5,44.8,32.4,476,195.225.116.14,2,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-10-19T04:30:52.760Z
+http,165.225.66.42,8800,http://165.225.66.42:8800,elite,true,472,473,100,97.9,96,165.225.67.35,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,4,2026-10-13T11:18:38.832Z,2026-10-20T04:25:18.380Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,2788,658,86.3,84.4,789,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-20T04:22:14.958Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,800,2851.5,92.5,78,756,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-20T04:21:41.091Z

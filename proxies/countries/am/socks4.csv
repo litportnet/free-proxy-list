@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,3900,1876.5,61.5,41.7,509,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-19T04:33:03.580Z
+socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,892,1311,80.2,60,620,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-10-20T04:24:46.655Z
+socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,1868,1361,87.9,52,533,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-20T04:28:36.589Z
+socks4,185.215.53.253,3629,socks4://185.215.53.253:3629,elite,false,1828,1902.5,15.2,15.7,140,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,8,2025-09-04T23:48:57.881Z,2026-10-20T04:22:42.007Z
+socks4,185.215.53.205,3629,socks4://185.215.53.205:3629,elite,false,3861,3845.5,22.2,15.4,143,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,9,2025-09-04T23:02:33.013Z,2026-10-20T04:23:37.573Z

@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,true,1910,1920,72.5,74.5,745,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,21,2025-09-04T23:48:54.923Z,2026-10-19T04:25:13.808Z
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,8096,3915.5,72.2,67.7,702,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-10-19T04:27:25.906Z
-socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,true,1902,1422,52.9,47.3,564,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-10-19T04:31:30.595Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,1896,930,98.5,95.7,951,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-10-20T04:30:21.509Z
+socks4,14.36.232.55,1080,socks4://14.36.232.55:1080,elite,true,959,2143,94.3,94.7,265,14.36.232.55,2,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,14,2026-10-18T02:16:42.600Z,2026-10-20T04:28:42.430Z
+socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,true,895,1417,61.4,74.2,704,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,21,2025-09-04T23:48:54.923Z,2026-10-20T04:24:39.741Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,2012,1963,74.1,67.5,670,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-10-20T04:25:58.313Z
+socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,true,1908,948.5,63.4,49.5,544,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-10-20T04:21:34.743Z

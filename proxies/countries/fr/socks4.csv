@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.140.165.128,40001,socks4://45.140.165.128:40001,elite,true,2244,1698.5,60.8,63.5,362,104.28.216.185,2,fr,Provence-Alpes-Côte d'Azur,Marseille,Europe/Paris,13335,"Cloudflare, Inc.",15,2026-10-15T10:43:14.923Z,2026-10-19T04:28:12.812Z
+socks4,109.199.115.190,8080,socks4://109.199.115.190:8080,elite,true,1089,708.5,96.3,96.3,109,109.199.115.190,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,13,2026-10-19T08:32:47.241Z,2026-10-20T04:20:56.128Z
+socks4,212.47.71.179,10800,socks4://212.47.71.179:10800,elite,true,1364,3178,88.5,88.5,96,212.47.71.179,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,9,2026-10-19T07:32:08.111Z,2026-10-20T04:25:24.224Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,false,7353,1987,93.8,57.3,131,157.173.115.35,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T10:50:54.475Z,2026-10-20T04:21:26.279Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,573,569,57.4,55.5,494,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-20T04:30:34.394Z

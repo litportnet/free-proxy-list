@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2256,1956.5,70.9,61.1,568,188.212.135.227,1,pl,Mazovia,Warsaw,Europe/Warsaw,206092,F.N.S. HOLDINGS LIMITED,18,2026-09-16T03:18:05.440Z,2026-10-19T04:28:23.031Z
+socks5,193.176.244.151,1011,socks5://193.176.244.151:1011,elite,true,790,782,100,100,60,146.70.85.166,2,pl,Mazovia,Ursynów,Europe/Warsaw,9009,M247 Europe SRL,10,2026-10-19T18:38:06.140Z,2026-10-20T04:26:12.108Z

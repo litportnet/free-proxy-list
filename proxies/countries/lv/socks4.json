@@ -6,13 +6,13 @@
     "url": "socks4://46.161.49.174:10808",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 879,
-    "latency_median_ms": 923.5,
-    "uptime_24h": 75.3,
-    "uptime_7d": 59.4,
-    "checks_7d": 271,
-    "exit_ip": "45.130.60.10",
-    "exit_shared": 3,
+    "latency_ms": 4546,
+    "latency_median_ms": 1985,
+    "uptime_24h": 90.2,
+    "uptime_7d": 68.4,
+    "checks_7d": 383,
+    "exit_ip": "45.130.60.20",
+    "exit_shared": 4,
     "country": "lv",
     "region": "Riga",
     "city": "Riga",
@@ -21,6 +21,6 @@
     "asn_org": "COREVANCE LTD",
     "sources_count": 13,
     "first_seen": "2026-10-14T00:25:13.943Z",
-    "last_checked": "2026-10-19T04:24:56.842Z"
+    "last_checked": "2026-10-20T04:30:10.241Z"
   }
 ]

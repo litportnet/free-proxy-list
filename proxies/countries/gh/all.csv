@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,197.255.125.12,80,http://197.255.125.12:80,elite,false,1375,1261,64.5,51.4,444,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-10-19T04:25:15.905Z
+http,41.189.171.186,8080,http://41.189.171.186:8080,transparent,false,5030,4981,21.2,14.3,203,41.189.171.186,1,gh,Greater Accra,Accra,Africa/Accra,30986,Scancom Limited,14,2025-10-06T08:54:46.380Z,2026-10-20T04:21:44.820Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.59.147,999,http://190.181.59.147:999,transparent,false,4403,4234.5,45.6,34.6,466,190.181.59.147,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,26210,AXS Bolivia S. A.,13,2026-07-31T06:15:27.005Z,2026-10-19T04:32:13.487Z
+http,190.181.29.186,80,http://190.181.29.186:80,transparent,false,709,981.5,90.3,89.7,300,45.225.75.15,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,266671,CONFIARED S.R.L.,1,2026-10-16T01:51:30.774Z,2026-10-20T04:27:13.789Z

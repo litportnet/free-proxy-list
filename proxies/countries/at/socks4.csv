@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,true,693,1661.5,59,51.7,586,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,14,2026-07-06T13:59:25.623Z,2026-10-19T04:32:46.493Z
+socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,true,3805,2731.5,90.2,81.9,769,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,13,2026-07-05T02:40:57.084Z,2026-10-20T04:20:17.416Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,3539,2958.5,83.8,71.8,680,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-20T04:27:30.361Z
+socks4,38.180.143.77,40000,socks4://38.180.143.77:40000,elite,true,560,564.5,43.8,48.3,207,104.28.207.41,2,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",13,2026-10-16T23:02:20.641Z,2026-10-20T04:21:34.214Z
+socks4,43.200.174.95,6238,socks4://43.200.174.95:6238,unknown,false,1643,2366,18.8,,16,43.200.174.95,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,1,2026-10-07T09:01:52.618Z,2026-10-20T04:28:56.323Z

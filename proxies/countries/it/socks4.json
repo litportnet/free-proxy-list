@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "5.95.121.180",
+    "port": 4153,
+    "url": "socks4://5.95.121.180:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1682,
+    "latency_median_ms": 1677,
+    "uptime_24h": 54,
+    "uptime_7d": 27.2,
+    "checks_7d": 228,
+    "exit_ip": "5.95.121.180",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Campania",
+    "city": "Naples",
+    "timezone": "Europe/Rome",
+    "asn": 30722,
+    "asn_org": "Fastweb SpA",
+    "sources_count": 13,
+    "first_seen": "2025-09-05T20:05:42.438Z",
+    "last_checked": "2026-10-20T04:25:30.634Z"
+  }
+]
