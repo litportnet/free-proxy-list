@@ -6,11 +6,11 @@
     "url": "socks5://64.176.166.106:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1041,
-    "latency_median_ms": 1034,
-    "uptime_24h": 100,
-    "uptime_7d": null,
-    "checks_7d": 44,
+    "latency_ms": 1014,
+    "latency_median_ms": 1969.5,
+    "uptime_24h": 81.5,
+    "uptime_7d": 86.5,
+    "checks_7d": 163,
     "exit_ip": "64.176.166.106",
     "exit_shared": 1,
     "country": "il",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Jerusalem",
     "asn": 20473,
     "asn_org": "The Constant Company, LLC",
-    "sources_count": 8,
+    "sources_count": 9,
     "first_seen": "2026-09-22T16:21:29.103Z",
-    "last_checked": "2026-10-20T04:25:52.953Z"
+    "last_checked": "2026-10-21T04:30:43.202Z"
   }
 ]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,193.176.244.151,1011,socks5://193.176.244.151:1011,elite,true,790,782,100,100,60,146.70.85.166,2,pl,Mazovia,Ursynów,Europe/Warsaw,9009,M247 Europe SRL,10,2026-10-19T18:38:06.140Z,2026-10-20T04:26:12.108Z
+socks5,92.62.251.177,1080,socks5://92.62.251.177:1080,elite,true,2644,2096,10.3,23.2,69,92.62.251.157,1,pl,Mazovia,Wyszków,Europe/Warsaw,215703,FREAKHOSTING LTD,14,2026-10-19T14:35:57.158Z,2026-10-21T04:31:43.480Z

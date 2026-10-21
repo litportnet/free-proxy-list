@@ -1,5 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,7278,117,97.8,95.6,945,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-20T04:25:29.035Z
-http,81.90.158.110,3128,http://81.90.158.110:3128,elite,false,1053,1433,33.3,25.8,387,104.234.135.152,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,24,2026-08-17T10:57:40.545Z,2026-10-20T04:29:02.727Z
-http,185.196.61.251,8081,http://185.196.61.251:8081,elite,false,1126,1129,39.6,24.8,246,104.28.208.123,1,ca,Ontario,Toronto,America/Toronto,13335,"Cloudflare, Inc.",20,2026-06-15T11:35:10.604Z,2026-10-20T04:30:13.448Z
-http,192.99.44.178,3128,http://192.99.44.178:3128,transparent,false,9666,8213,8.3,1.6,63,192.99.44.178,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,21,2025-10-08T08:20:04.898Z,2026-10-20T04:27:57.558Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,114,116,96.4,95.6,948,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-21T04:26:30.700Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3212,2197.5,72.8,74.6,693,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-21T04:23:55.180Z
+http,173.181.142.228,80,http://173.181.142.228:80,elite,false,1887,3702,54.8,42.4,396,173.181.142.228,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-10-21T04:32:02.139Z
+http,62.210.189.192,13459,http://62.210.189.192:13459,elite,false,6239,5999,10.3,8.3,108,104.158.10.117,1,ca,Ontario,Niagara Falls,America/Toronto,5769,Videotron Ltee,9,2026-09-26T14:52:23.003Z,2026-10-21T04:25:13.102Z
+http,158.69.49.179,8080,http://158.69.49.179:8080,transparent,true,240,274,50,,18,158.69.49.179,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,1,2026-07-08T06:23:55.341Z,2026-10-21T04:33:16.420Z
+http,158.69.49.178,8080,http://158.69.49.178:8080,transparent,true,5724,5552,42.9,,14,158.69.49.178,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,2,2026-07-02T13:10:06.322Z,2026-10-21T04:25:56.388Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.40,14700,socks5://45.74.31.40:14700,elite,true,3947,2690.5,20,,32,202.174.178.86,1,nz,Wellington Region,Wellington,Pacific/Auckland,24183,DTS LTD,3,2026-10-17T03:04:28.395Z,2026-10-20T04:23:38.119Z

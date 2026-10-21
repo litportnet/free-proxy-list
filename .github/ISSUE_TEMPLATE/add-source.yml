@@ -1,5 +1,5 @@
 name: Suggest a proxy source
-description: Suggest a list for the litport scraper to pull additional candidate proxies from.
+description: Suggest a list for the Litport scraper to pull additional candidate proxies from.
 title: "add source: "
 labels: ["add-source"]
 body:

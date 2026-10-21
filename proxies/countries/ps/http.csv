@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.161.150.217,9090,http://188.161.150.217:9090,transparent,false,3041,3018.5,37.3,30,347,188.161.150.217,1,ps,Gaza Strip,Gaza,Asia/Gaza,12975,PALTEL Autonomous System,19,2026-09-30T17:44:28.400Z,2026-10-20T04:23:19.001Z

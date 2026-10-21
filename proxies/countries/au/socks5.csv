@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,5183,2412,77.5,77.4,702,103.141.60.89,1,au,New South Wales,Sydney,Australia/Sydney,203020,HostRoyale Technologies Pvt Ltd,19,2026-09-20T17:57:13.183Z,2026-10-21T04:29:26.548Z
+socks5,108.61.185.188,1080,socks5://108.61.185.188:1080,elite,false,8681,4012.5,36.5,33.4,311,45.77.235.30,1,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",13,2026-10-01T10:53:20.451Z,2026-10-21T04:23:40.980Z
+socks5,13.239.198.180,1080,socks5://13.239.198.180:1080,elite,true,1137,1205.5,100,,4,13.239.198.180,1,au,New South Wales,Sydney,Australia/Sydney,16509,"Amazon.com, Inc.",1,2026-10-21T03:55:36.276Z,2026-10-21T04:25:17.861Z

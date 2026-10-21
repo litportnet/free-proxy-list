@@ -1,6 +1,6 @@
 [![Litport free proxies: latest published counts, protocol chart, API and SDKs](https://raw.githubusercontent.com/litportnet/free-proxy-list/live/proxies/banner.svg)](https://litport.net/free-proxy)
 
-# Free proxy list by litport
+# Free proxy list by Litport
 
 [Browse the live Litport free proxy list](https://litport.net/free-proxy).
 

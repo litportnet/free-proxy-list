@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,2612,3428.5,45.8,45.4,416,152.233.3.5,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,212238,Datacamp Limited,19,2026-09-16T10:21:51.712Z,2026-10-20T04:21:05.683Z

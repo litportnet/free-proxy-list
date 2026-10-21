@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.189.171.186,8080,http://41.189.171.186:8080,transparent,false,5030,4981,21.2,14.3,203,41.189.171.186,1,gh,Greater Accra,Accra,Africa/Accra,30986,Scancom Limited,14,2025-10-06T08:54:46.380Z,2026-10-20T04:21:44.820Z

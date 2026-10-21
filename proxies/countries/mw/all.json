@@ -6,11 +6,11 @@
     "url": "socks4://41.190.92.50:60606",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2662,
-    "latency_median_ms": 2263.5,
-    "uptime_24h": 72.8,
-    "uptime_7d": 42.7,
-    "checks_7d": 267,
+    "latency_ms": 2440,
+    "latency_median_ms": 1592.5,
+    "uptime_24h": 51.1,
+    "uptime_7d": 47.7,
+    "checks_7d": 329,
     "exit_ip": "41.190.92.50",
     "exit_shared": 1,
     "country": "mw",
@@ -21,6 +21,6 @@
     "asn_org": "Inq. Digital Limited",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:14.559Z",
-    "last_checked": "2026-10-20T04:21:00.367Z"
+    "last_checked": "2026-10-21T04:27:19.990Z"
   }
 ]

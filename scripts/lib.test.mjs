@@ -234,7 +234,7 @@ test('buildFileSet always writes proxies/https.* even when it is empty', () => {
 
 test('renderReadme replaces marker blocks and leaves the rest of the template untouched', () => {
   const template = [
-    '# Free proxy list by litport',
+    '# Free proxy list by Litport',
     'Intro paragraph.',
     '<!-- STATS:START -->old stats<!-- STATS:END -->',
     '<!-- DOWNLOADS:START -->old downloads<!-- DOWNLOADS:END -->',
@@ -246,7 +246,7 @@ test('renderReadme replaces marker blocks and leaves the rest of the template un
   const { stats } = buildFileSet(sampleList(), { generatedAt: '2026-09-09T18:00:00.000Z', intervalSec: 300, maxAgeMin: 30 })
   const readme = renderReadme(template, stats)
 
-  assert.match(readme, /# Free proxy list by litport/)
+  assert.match(readme, /# Free proxy list by Litport/)
   assert.match(readme, /Footer text\./)
   assert.match(readme, /3 working proxies from 2 countries/)
   assert.match(readme, /\| List \| Count \| \.txt \| \.json \| \.csv \| Browse online \|/)
@@ -282,7 +282,7 @@ test('findMissingReadmeLinks flags relative links that do not exist in the outpu
 
 test('the snapshot README names the live branch and reads its counts from live badges', () => {
   const template = [
-    '# Free proxy list by litport',
+    '# Free proxy list by Litport',
     '<!-- STATS:START -->old stats<!-- STATS:END -->',
     '<!-- DOWNLOADS:START -->old downloads<!-- DOWNLOADS:END -->',
     '<!-- VERIFICATION:START -->old verification<!-- VERIFICATION:END -->',

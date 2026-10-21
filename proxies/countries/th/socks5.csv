@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1474,1508.5,100,99.9,998,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-20T04:28:50.482Z
-socks5,102.129.229.131,1081,socks5://102.129.229.131:1081,elite,true,3800,5540,80,79.6,755,102.129.229.131,2,th,Bangkok,Bangkok,Asia/Bangkok,138156,"CSNE Co., Ltd.",16,2026-09-23T17:15:43.069Z,2026-10-20T04:24:23.741Z
+socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1557,1495.5,99.3,99.8,996,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-21T04:28:07.102Z
+socks5,103.114.201.100,2080,socks5://103.114.201.100:2080,elite,true,8465,8323.5,100,,22,103.114.201.100,2,th,Bangkok,Bangkok,Asia/Bangkok,56309,"Siamdata Communication Co.,Ltd.",10,2026-10-21T00:53:53.822Z,2026-10-21T04:26:36.039Z

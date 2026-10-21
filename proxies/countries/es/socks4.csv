@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,1719,1341.5,82.1,70.1,695,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-10-20T04:26:54.117Z
-socks4,185.130.219.12,4153,socks4://185.130.219.12:4153,elite,false,632,1138.5,27.9,30.7,355,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,13,2025-09-06T19:42:47.705Z,2026-10-20T04:23:44.997Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,675,1733.5,75.4,69.1,692,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-10-21T04:32:12.765Z
+socks4,84.236.185.247,61710,socks4://84.236.185.247:61710,elite,false,3659,1259.5,11.1,5.9,102,84.236.185.247,1,es,Madrid,Madrid,Europe/Madrid,29119,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,13,2025-09-04T23:02:13.590Z,2026-10-21T04:27:45.906Z

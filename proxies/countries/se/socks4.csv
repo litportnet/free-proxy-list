@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,false,614,628.5,65.3,58.5,574,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-20T04:27:44.773Z
-socks4,18.142.95.213,58921,socks4://18.142.95.213:58921,unknown,false,1537,3821,20,,32,18.142.95.213,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,1,2026-09-21T02:01:48.957Z,2026-10-20T04:24:48.782Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,false,5230,3550.5,73.4,76.9,143,141.98.255.214,1,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,3,2026-07-13T12:28:32.242Z,2026-10-21T04:31:46.114Z

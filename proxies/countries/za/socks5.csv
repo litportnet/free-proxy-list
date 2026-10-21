@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,10326,socks5://45.74.31.47:10326,elite,true,2360,2745.5,75,30.8,185,41.79.212.13,2,za,KwaZulu-Natal,Durban,Africa/Johannesburg,328366,FIRSTNET TECHNOLOGY SERVICES (PTY) LTD,2,2026-10-12T19:09:50.190Z,2026-10-20T04:25:06.748Z
-socks5,45.74.31.41,4254,socks5://45.74.31.41:4254,elite,false,3036,3689.5,26.1,10.3,97,41.79.212.13,2,za,KwaZulu-Natal,Durban,Africa/Johannesburg,328366,FIRSTNET TECHNOLOGY SERVICES (PTY) LTD,13,2026-09-28T05:12:30.822Z,2026-10-20T04:24:09.961Z

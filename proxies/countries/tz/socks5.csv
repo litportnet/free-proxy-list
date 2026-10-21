@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,165.16.192.205,1080,socks5://165.16.192.205:1080,elite,false,4814,2977.5,7.4,7.6,118,41.175.45.10,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,30844,Liquid Telecommunications Ltd,18,2026-05-10T13:59:06.786Z,2026-10-21T04:25:08.345Z

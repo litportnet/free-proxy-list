@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,475,466,86.4,94,899,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-20T04:29:56.790Z
-http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,false,2817,3052.5,51.7,31.3,431,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-20T04:29:11.848Z
-http,91.126.244.112,8080,http://91.126.244.112:8080,transparent,true,6449,3089.5,35.4,27.2,408,91.126.244.112,1,es,Cantabria,Arnuero,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,26,2026-07-06T09:10:10.551Z,2026-10-20T04:20:34.992Z
-http,77.225.198.220,9812,http://77.225.198.220:9812,elite,true,1386,4332.5,25.7,24.4,316,77.225.198.220,1,es,Murcia,San Pedro del Pinatar,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,14,2025-09-10T20:03:30.040Z,2026-10-20T04:28:01.781Z
-http,141.227.128.55,3128,http://141.227.128.55:3128,transparent,true,9183,1700.5,80,,10,141.227.128.55,1,es,Madrid,Madrid,Europe/Madrid,16276,OVH SAS,5,2026-04-12T11:53:22.977Z,2026-10-20T04:28:03.366Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,458,470,98.6,93.7,897,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-21T04:32:10.135Z

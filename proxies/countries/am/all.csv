@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,892,1311,80.2,60,620,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-10-20T04:24:46.655Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,1868,1361,87.9,52,533,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-20T04:28:36.589Z
-socks4,185.215.53.253,3629,socks4://185.215.53.253:3629,elite,false,1828,1902.5,15.2,15.7,140,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,8,2025-09-04T23:48:57.881Z,2026-10-20T04:22:42.007Z
-http,91.204.190.140,81,http://91.204.190.140:81,transparent,false,3008,4511,21.1,15.4,195,91.204.190.140,1,am,Yerevan,Yerevan,Asia/Yerevan,42991,BioNet LLC,24,2025-09-06T15:38:29.945Z,2026-10-20T04:27:51.666Z
-socks4,185.215.53.205,3629,socks4://185.215.53.205:3629,elite,false,3861,3845.5,22.2,15.4,143,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,9,2025-09-04T23:02:33.013Z,2026-10-20T04:23:37.573Z
+socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,863,910.5,61.2,59.5,620,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-10-21T04:32:04.295Z
+socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,8079,3877,76.7,59.3,597,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-10-21T04:30:44.800Z
+http,45.133.107.234,81,http://45.133.107.234:81,transparent,true,2830,2812,29.3,17.8,231,45.133.107.234,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,16,2025-09-08T14:19:32.433Z,2026-10-21T04:28:00.196Z
+socks4,185.215.53.193,3629,socks4://185.215.53.193:3629,elite,false,963,1855.5,20,14,157,185.215.53.146,1,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,17,2025-09-05T00:21:43.925Z,2026-10-21T04:26:22.786Z

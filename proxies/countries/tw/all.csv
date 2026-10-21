@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,4089,4794,86,74.8,717,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-20T04:26:04.651Z
-http,123.113.129.17,1081,http://123.113.129.17:1081,elite,false,1188,2023.5,37.3,30.9,272,114.37.219.22,2,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,15,2026-10-06T02:45:34.136Z,2026-10-20T04:27:01.530Z
-socks4,123.113.129.17,1081,socks4://123.113.129.17:1081,elite,false,1236,2166.5,39.3,27.6,163,114.37.219.22,2,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,14,2026-10-06T03:46:03.425Z,2026-10-20T04:30:09.172Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,760,896.5,82.8,81.7,750,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-21T04:26:25.434Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2815,4943,73.9,74.7,718,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-21T04:31:28.517Z
+http,220.134.5.4,8080,http://220.134.5.4:8080,transparent,false,3852,3246,31.9,32.3,372,220.134.5.4,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,25,2025-09-13T17:39:50.227Z,2026-10-21T04:30:26.239Z
+socks5,220.135.195.152,10801,socks5://220.135.195.152:10801,elite,false,4184,3193.5,24.6,18.1,227,220.135.195.152,1,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,19,2026-08-28T05:30:50.532Z,2026-10-21T04:29:52.213Z

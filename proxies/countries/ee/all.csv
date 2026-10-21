@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,538,565,97,84,826,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-20T04:21:58.043Z
-socks4,146.19.143.200,1080,socks4://146.19.143.200:1080,elite,true,3767,2704,67.2,55.7,368,146.19.143.200,1,ee,Harjumaa,Tallinn,Europe/Tallinn,62005,BlueVPS OU,20,2026-09-09T02:45:26.049Z,2026-10-20T04:26:44.575Z
-http,93.113.98.206,8080,http://93.113.98.206:8080,transparent,false,3005,3146.5,46.3,35.8,193,93.113.98.206,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202759,RJ Network OU,18,2026-10-16T16:59:15.445Z,2026-10-20T04:29:49.279Z
-socks4,176.195.81.251,1080,socks4://176.195.81.251:1080,elite,true,7751,7128.5,26.5,34.1,226,31.77.254.4,1,ee,Harjumaa,Tallinn,Europe/Tallinn,207083,HOSTSLIM OU,13,2026-10-16T07:54:23.889Z,2026-10-20T04:26:42.982Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,554,573,90.2,85,837,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-21T04:26:04.832Z

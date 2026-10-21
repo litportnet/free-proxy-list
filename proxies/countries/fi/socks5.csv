@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,3673,3361,75,51.9,187,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-08-02T08:42:38.750Z,2026-10-21T04:29:57.533Z
+socks5,193.221.203.14,1080,socks5://193.221.203.14:1080,elite,false,4598,3422,9.7,22.2,266,193.221.203.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,19,2026-04-14T02:12:53.502Z,2026-10-21T04:28:02.331Z
+socks5,82.26.171.31,1081,socks5://82.26.171.31:1081,elite,false,4196,5728,16.7,8.6,81,82.26.171.31,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,15,2026-10-16T11:56:35.349Z,2026-10-21T04:26:58.227Z

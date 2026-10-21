@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,62.210.189.192,19079,http://62.210.189.192:19079,elite,false,4267,5599.5,66.7,,3,94.76.6.218,1,bh,Manama,Jidd Ḩafş,Asia/Bahrain,51375,STC BAHRAIN B.S.C CLOSED,2,2026-10-20T03:42:51.419Z,2026-10-20T04:27:20.139Z

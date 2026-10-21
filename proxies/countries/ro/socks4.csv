@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,1750,1754,85.2,69.8,692,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-20T04:23:25.853Z
-socks4,92.86.92.126,42740,socks4://92.86.92.126:42740,elite,false,758,1767.5,31,30.6,383,92.86.92.126,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,9050,Orange Romania S.A.,13,2025-09-04T23:49:05.773Z,2026-10-20T04:22:47.812Z
+socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,1721,1750.5,80.8,71.3,707,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-21T04:25:31.575Z
+socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,true,3735,1889,53.9,44,470,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,13,2025-09-04T23:48:59.822Z,2026-10-21T04:23:04.118Z
+socks4,85.122.120.119,30016,socks4://85.122.120.119:30016,elite,false,1642,4821.5,21.1,6.7,75,85.122.120.119,1,ro,Constanța County,Năvodari,Europe/Bucharest,39347,STYLISH BY A&L SRL,21,2026-07-15T15:58:19.543Z,2026-10-21T04:25:37.347Z
