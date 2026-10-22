@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10802,
+    "url": "socks5://49.13.22.249:10802",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2649,
+    "latency_median_ms": 3980,
+    "uptime_24h": 39,
+    "uptime_7d": 55.1,
+    "checks_7d": 510,
+    "exit_ip": "37.77.56.132",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Hüüru",
+    "timezone": "Europe/Tallinn",
+    "asn": 206804,
+    "asn_org": "EstNOC OU",
+    "sources_count": 18,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-10-22T04:21:45.984Z"
+  }
+]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.135.59.71,8090,http://89.135.59.71:8090,transparent,false,3317,3661,13.8,13.8,145,89.135.59.71,1,hu,Budapest,Budapest,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,16,2025-09-06T12:38:44.678Z,2026-10-21T04:27:16.799Z
-http,95.214.123.144,8080,http://95.214.123.144:8080,transparent,true,1954,2272.5,76.9,,39,95.214.123.144,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,13,2026-09-02T06:36:00.777Z,2026-10-21T04:30:45.354Z
+http,91.83.0.253,8080,http://91.83.0.253:8080,transparent,true,2856,2508,31.1,,45,91.83.0.253,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,12,2026-10-21T18:02:59.697Z,2026-10-22T04:20:27.690Z

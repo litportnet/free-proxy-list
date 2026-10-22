@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,false,7998,1897,48.9,41.3,492,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-21T04:23:32.017Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,true,1993,3214,42.3,42,522,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-10-22T04:21:49.719Z
+socks5,49.13.22.249,10809,socks5://49.13.22.249:10809,elite,false,2768,2281,31.2,28.8,361,159.26.120.54,1,ua,Kyiv City,Kyiv,Europe/Kyiv,208172,Proton AG,19,2026-08-25T02:51:25.845Z,2026-10-22T04:21:43.820Z
+socks5,193.24.222.150,33500,socks5://193.24.222.150:33500,elite,false,947,2939,33.3,21.8,335,193.107.75.242,1,ua,Zhytomyr Oblast,Zhytomyr,Europe/Kyiv,50633,NET-CITY 2020 LLC,19,2026-05-16T14:14:23.844Z,2026-10-22T04:28:31.731Z
+socks5,45.74.31.42,14385,socks5://45.74.31.42:14385,elite,false,4751,4328.5,26.3,11.4,79,185.156.42.119,1,ua,Kyiv City,Kyiv,Europe/Kyiv,196645,HOSTPRO LAB LLC,12,2026-09-28T15:17:48.503Z,2026-10-22T04:23:30.669Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,51.17.99.135,50400,http://51.17.99.135:50400,unknown,true,849,1215.5,9.5,6.3,111,51.17.99.135,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,10,2026-10-06T19:54:37.882Z,2026-10-21T04:32:37.320Z

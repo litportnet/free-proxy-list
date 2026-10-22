@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks4",
-    "ip": "181.115.74.172",
+    "ip": "181.115.75.102",
     "port": 5678,
-    "url": "socks4://181.115.74.172:5678",
+    "url": "socks4://181.115.75.102:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 411,
-    "latency_median_ms": 422,
-    "uptime_24h": 76.5,
-    "uptime_7d": 69.7,
-    "checks_7d": 686,
-    "exit_ip": "181.115.74.172",
+    "https": false,
+    "latency_ms": 1483,
+    "latency_median_ms": 3480,
+    "uptime_24h": 42.2,
+    "uptime_7d": 48,
+    "checks_7d": 556,
+    "exit_ip": "181.115.75.102",
     "exit_shared": 1,
     "country": "hn",
     "region": "Cortés Department",
@@ -19,8 +19,8 @@
     "timezone": "America/Tegucigalpa",
     "asn": 14754,
     "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
-    "sources_count": 14,
-    "first_seen": "2025-09-04T23:49:05.467Z",
-    "last_checked": "2026-10-21T04:30:09.798Z"
+    "sources_count": 22,
+    "first_seen": "2025-09-04T23:01:57.983Z",
+    "last_checked": "2026-10-22T04:24:56.667Z"
   }
 ]

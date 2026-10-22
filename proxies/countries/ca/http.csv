@@ -1,7 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,114,116,96.4,95.6,948,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-21T04:26:30.700Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3212,2197.5,72.8,74.6,693,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-21T04:23:55.180Z
-http,173.181.142.228,80,http://173.181.142.228:80,elite,false,1887,3702,54.8,42.4,396,173.181.142.228,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-10-21T04:32:02.139Z
-http,62.210.189.192,13459,http://62.210.189.192:13459,elite,false,6239,5999,10.3,8.3,108,104.158.10.117,1,ca,Ontario,Niagara Falls,America/Toronto,5769,Videotron Ltee,9,2026-09-26T14:52:23.003Z,2026-10-21T04:25:13.102Z
-http,158.69.49.179,8080,http://158.69.49.179:8080,transparent,true,240,274,50,,18,158.69.49.179,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,1,2026-07-08T06:23:55.341Z,2026-10-21T04:33:16.420Z
-http,158.69.49.178,8080,http://158.69.49.178:8080,transparent,true,5724,5552,42.9,,14,158.69.49.178,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,2,2026-07-02T13:10:06.322Z,2026-10-21T04:25:56.388Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,137,112.5,96.5,96.1,963,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-22T04:27:58.317Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,2465,3050,67,71.9,702,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-22T04:28:48.700Z
+http,155.248.219.12,3128,http://155.248.219.12:3128,transparent,false,172,1258.5,62.1,62.1,66,155.248.219.12,1,ca,Ontario,Toronto,America/Toronto,31898,Oracle Corporation,9,2026-10-21T16:01:48.440Z,2026-10-22T04:22:38.329Z
+http,173.181.142.228,80,http://173.181.142.228:80,elite,false,8788,4463,51.8,46.9,465,173.181.142.228,1,ca,Ontario,Toronto,America/Toronto,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-10-22T04:20:38.551Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,true,402,722.5,31.9,33,397,23.234.85.99,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",23,2026-09-12T17:16:29.342Z,2026-10-22T04:23:47.119Z

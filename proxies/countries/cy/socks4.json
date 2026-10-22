@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "87.228.228.101",
+    "port": 4145,
+    "url": "socks4://87.228.228.101:4145",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 786,
+    "latency_median_ms": 1794,
+    "uptime_24h": 44.3,
+    "uptime_7d": 49.5,
+    "checks_7d": 580,
+    "exit_ip": "87.228.228.101",
+    "exit_shared": 1,
+    "country": "cy",
+    "region": "Pafos",
+    "city": "Pégeia",
+    "timezone": "Asia/Nicosia",
+    "asn": 6866,
+    "asn_org": "Cyprus Telecommunications Authority",
+    "sources_count": 21,
+    "first_seen": "2026-07-06T01:00:13.598Z",
+    "last_checked": "2026-10-22T04:29:16.226Z"
+  }
+]

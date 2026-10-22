@@ -6,11 +6,11 @@
     "url": "socks4://202.87.210.20:57833",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1170,
-    "latency_median_ms": 2198,
-    "uptime_24h": 42.2,
-    "uptime_7d": 41.9,
-    "checks_7d": 509,
+    "latency_ms": 4197,
+    "latency_median_ms": 2238.5,
+    "uptime_24h": 49.5,
+    "uptime_7d": 43.6,
+    "checks_7d": 555,
     "exit_ip": "202.87.210.20",
     "exit_shared": 1,
     "country": "ws",
@@ -21,6 +21,6 @@
     "asn_org": "Digicel Samoa Ltd",
     "sources_count": 13,
     "first_seen": "2026-02-23T07:37:28.712Z",
-    "last_checked": "2026-10-21T04:29:33.487Z"
+    "last_checked": "2026-10-22T04:19:44.801Z"
   }
 ]

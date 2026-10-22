@@ -1,10 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,132.243.239.87,80,http://132.243.239.87:80,elite,false,547,553.5,100,100,355,132.243.239.87,1,bg,Sofia-Capital,Sofia,Europe/Sofia,26383,Baxet Group Inc.,1,2026-10-18T17:25:02.279Z,2026-10-21T04:31:38.147Z
-http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,1277,259.5,100,100,317,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-07-31T01:14:40.188Z,2026-10-21T04:28:19.795Z
-http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,252,259.5,99.3,99,409,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,7,2026-07-30T12:07:52.703Z,2026-10-21T04:26:59.261Z
-http,213.169.33.10,8001,http://213.169.33.10:8001,transparent,true,5346,4244,34.8,27.9,351,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-05T20:06:37.091Z,2026-10-21T04:22:15.255Z
-http,213.169.52.101,8185,http://213.169.52.101:8185,transparent,false,2795,2940.5,30,27.2,379,213.169.52.101,1,bg,Shumen,Veliki Preslav,Europe/Sofia,42086,RO&NI EOOD,13,2026-06-05T02:25:33.384Z,2026-10-21T04:27:28.468Z
-http,92.247.12.136,9510,http://92.247.12.136:9510,transparent,false,2811,1457.5,8,24.1,108,92.247.12.130,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,21,2025-09-10T19:34:35.895Z,2026-10-21T04:23:00.985Z
-http,87.126.65.11,1388,http://87.126.65.11:1388,transparent,false,4922,4958,28,22.8,136,87.126.65.11,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,23,2025-09-04T23:49:15.508Z,2026-10-21T04:22:27.865Z
-http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,249,264,100,,21,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-21T04:27:34.277Z
-http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,252,255,100,,27,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-21T04:24:27.755Z
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,243,259,100,100,171,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-22T04:26:47.195Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,260,262.5,100,100,164,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-22T04:20:27.676Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,262,261.5,99.3,99.8,460,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-22T04:22:44.650Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,243,258,100,99.3,552,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-22T04:29:38.590Z
+http,213.169.33.7,8001,http://213.169.33.7:8001,transparent,false,5758,3930.5,32.9,30.6,284,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:28.237Z,2026-10-22T04:28:43.929Z

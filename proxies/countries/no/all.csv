@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,13.208.246.143,33125,http://13.208.246.143:33125,unknown,false,4268,3187,12.5,,27,13.208.246.143,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,4,2026-09-01T11:25:43.656Z,2026-10-21T04:27:41.154Z
+socks4,38.76.196.46,9050,socks4://38.76.196.46:9050,elite,true,3176,2885.5,22.7,15.8,221,185.243.218.233,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,9,2026-08-17T13:58:03.533Z,2026-10-22T04:27:38.737Z

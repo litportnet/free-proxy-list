@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,34.142.210.154,40001,socks4://34.142.210.154:40001,elite,true,7503,3266.5,72,73.1,134,104.28.254.47,1,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",13,2026-10-19T21:39:34.633Z,2026-10-21T04:27:50.127Z
+socks4,34.142.210.154,40001,socks4://34.142.210.154:40001,elite,true,4064,1806,76.4,74.6,260,104.28.254.47,4,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",13,2026-10-19T21:39:34.633Z,2026-10-22T04:22:53.652Z
+socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,1646,1762.5,70.8,72.9,756,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-10-22T04:21:05.346Z
+socks4,209.182.234.151,40000,socks4://209.182.234.151:40000,elite,false,6385,5281,33.9,24,129,104.28.222.47,2,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",6,2026-06-03T10:04:10.963Z,2026-10-22T04:21:30.715Z
+socks4,43.159.62.17,40001,socks4://43.159.62.17:40001,elite,false,8755,1486.5,80.7,,31,104.28.254.47,4,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",11,2026-10-21T23:05:51.398Z,2026-10-22T04:27:02.583Z

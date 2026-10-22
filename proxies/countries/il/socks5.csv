@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,64.176.166.106,1080,socks5://64.176.166.106:1080,elite,true,1014,1969.5,81.5,86.5,163,64.176.166.106,1,il,Central District,Rosh Ha‘Ayin,Asia/Jerusalem,20473,"The Constant Company, LLC",9,2026-09-22T16:21:29.103Z,2026-10-21T04:30:43.202Z

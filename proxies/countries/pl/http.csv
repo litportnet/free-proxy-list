@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.64.158.156,8080,http://195.64.158.156:8080,transparent,true,2445,2532.5,87.5,,48,195.64.158.156,1,pl,Silesia,Blachownia,Europe/Warsaw,61154,IDHosting Sp. z o. o.,4,2025-10-08T16:08:49.447Z,2026-10-22T04:25:17.405Z

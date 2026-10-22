@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.30.211.34,80,http://103.30.211.34:80,elite,false,740,748,99.3,66.5,349,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-21T04:27:34.270Z
-http,180.181.215.232,3128,http://180.181.215.232:3128,transparent,false,5417,3828,30.3,26.8,410,180.181.215.232,1,au,Queensland,Brisbane,Australia/Brisbane,4764,Aussie Fibre Pty Ltd,22,2026-05-20T21:13:51.425Z,2026-10-21T04:30:15.056Z
-http,130.162.192.208,8080,http://130.162.192.208:8080,elite,false,3930,2888.5,17.3,22.3,269,130.162.192.208,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,24,2026-09-02T19:45:06.799Z,2026-10-21T04:31:13.115Z
+http,103.192.80.81,3129,http://103.192.80.81:3129,elite,false,7786,5831,90,90,60,103.192.80.81,1,au,Victoria,Melbourne,Australia/Melbourne,136557,Host Universal Pty Ltd,12,2026-10-21T18:02:59.205Z,2026-10-22T04:20:36.333Z
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,747,745.5,100,76.3,493,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-22T04:28:05.227Z
+http,51.161.131.235,8080,http://51.161.131.235:8080,elite,false,1461,2067.5,50.9,60.2,605,51.161.131.235,1,au,New South Wales,Sydney,Australia/Sydney,16276,OVH SAS,4,2025-11-09T09:42:56.998Z,2026-10-22T04:27:53.589Z

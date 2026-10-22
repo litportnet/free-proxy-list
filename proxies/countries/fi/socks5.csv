@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,3673,3361,75,51.9,187,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-08-02T08:42:38.750Z,2026-10-21T04:29:57.533Z
-socks5,193.221.203.14,1080,socks5://193.221.203.14:1080,elite,false,4598,3422,9.7,22.2,266,193.221.203.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,41745,Baykov Ilya Sergeevich,19,2026-04-14T02:12:53.502Z,2026-10-21T04:28:02.331Z
-socks5,82.26.171.31,1081,socks5://82.26.171.31:1081,elite,false,4196,5728,16.7,8.6,81,82.26.171.31,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,15,2026-10-16T11:56:35.349Z,2026-10-21T04:26:58.227Z
+socks5,103.71.22.231,1080,socks5://103.71.22.231:1080,elite,true,2908,1855.5,59.5,68.1,279,103.71.22.231,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,13,2026-04-17T05:53:07.872Z,2026-10-22T04:22:51.031Z
+socks5,89.22.229.195,1080,socks5://89.22.229.195:1080,elite,true,2979,1961.5,56.8,56.1,205,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-08-02T08:42:38.750Z,2026-10-22T04:26:29.131Z
+socks5,103.71.23.31,1080,socks5://103.71.23.31:1080,elite,false,1866,1878.5,46.6,46.6,73,103.71.23.31,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,10,2026-10-21T13:00:15.195Z,2026-10-22T04:28:11.071Z
+socks5,91.186.211.105,1080,socks5://91.186.211.105:1080,elite,false,1357,4449.5,27.9,20.1,219,91.186.211.105,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,15,2026-10-04T21:30:10.361Z,2026-10-22T04:27:13.717Z
+socks5,37.27.212.86,40001,socks5://37.27.212.86:40001,elite,true,774,835,85.7,,14,104.28.254.16,3,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",2,2026-10-22T02:07:16.525Z,2026-10-22T04:24:40.940Z

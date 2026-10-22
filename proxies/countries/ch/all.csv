@@ -1,25 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,165.225.66.42,8800,http://165.225.66.42:8800,elite,true,466,480,100,100,238,165.225.67.35,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,5,2026-10-13T11:18:38.832Z,2026-10-21T04:31:14.183Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,880,5148,75.4,83.7,787,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-21T04:25:06.193Z
-http,147.161.247.9,8800,http://147.161.247.9:8800,elite,true,481,501,60.9,81.8,264,147.161.247.9,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,7,2026-06-08T14:04:25.723Z,2026-10-21T04:29:05.875Z
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,498,967.5,96.4,81,780,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-21T04:23:56.744Z
-http,18.191.250.90,8880,http://18.191.250.90:8880,elite,false,560,3003,71.2,73,381,107.189.8.181,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,4,2026-08-22T06:13:47.482Z,2026-10-21T04:24:34.059Z
-socks5,45.74.31.41,7441,socks5://45.74.31.41:7441,elite,true,1317,1055,68.4,58.6,193,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,1,2026-10-11T04:49:41.086Z,2026-10-21T04:22:54.679Z
-socks5,45.74.31.47,17075,socks5://45.74.31.47:17075,elite,false,5429,996.5,53.6,48.8,80,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,2,2026-10-14T05:27:52.270Z,2026-10-21T04:32:24.521Z
-socks5,45.74.31.41,9415,socks5://45.74.31.41:9415,elite,true,1630,1288.5,70.3,45.9,159,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,2,2026-10-12T05:02:25.712Z,2026-10-21T04:25:17.871Z
-socks5,45.74.31.47,9906,socks5://45.74.31.47:9906,elite,true,1332,1259.5,51,41.9,62,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,3,2026-10-10T04:36:57.105Z,2026-10-21T04:27:17.323Z
-socks5,45.74.31.41,5154,socks5://45.74.31.41:5154,elite,true,1152,2008,46.7,21.7,97,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,18,2026-09-19T04:37:26.707Z,2026-10-21T04:24:30.906Z
-socks5,45.74.31.40,17893,socks5://45.74.31.40:17893,elite,true,764,2964,27.8,20.3,133,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-10-13T03:14:08.935Z,2026-10-21T04:29:54.358Z
-socks5,45.74.31.41,9090,socks5://45.74.31.41:9090,elite,false,7726,4203.5,14.3,7.7,91,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,12,2026-10-10T15:42:46.849Z,2026-10-21T04:24:14.096Z
-socks5,45.74.31.42,11794,socks5://45.74.31.42:11794,elite,true,1351,3482,57.1,6.9,58,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,18,2026-09-11T11:00:35.734Z,2026-10-21T04:23:03.079Z
-http,147.161.247.20,8800,http://147.161.247.20:8800,elite,true,608,616,100,,15,147.161.247.20,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,3,2026-05-07T13:18:21.341Z,2026-10-21T04:27:59.133Z
-http,52.214.92.206,51038,http://52.214.92.206:51038,unknown,true,663,1802,14.3,,36,52.214.92.206,1,ch,Zug,Zug,Europe/Zurich,211720,"Datashield, Inc.",1,2026-10-19T21:39:41.478Z,2026-10-21T04:29:25.503Z
-socks5,45.74.31.41,16867,socks5://45.74.31.41:16867,elite,true,734,864.5,100,,4,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,1,2026-10-21T03:55:30.044Z,2026-10-21T04:26:18.039Z
-socks5,45.74.31.42,14085,socks5://45.74.31.42:14085,elite,true,963,1362,100,,4,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,1,2026-10-21T03:55:30.044Z,2026-10-21T04:23:41.490Z
-socks5,45.74.31.41,10044,socks5://45.74.31.41:10044,elite,true,1337,1545,100,,4,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,2,2026-10-21T03:55:30.044Z,2026-10-21T04:27:02.487Z
-socks5,45.74.31.41,6010,socks5://45.74.31.41:6010,elite,true,1732,3002.5,100,,49,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,2,2026-10-14T05:27:52.270Z,2026-10-21T04:28:38.793Z
-socks5,45.74.31.40,15341,socks5://45.74.31.40:15341,elite,true,2229,1929,100,,4,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,1,2026-10-21T03:55:30.044Z,2026-10-21T04:24:52.547Z
-socks5,45.74.31.47,15462,socks5://45.74.31.47:15462,elite,true,2286,1705,100,,4,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,2,2026-10-13T02:13:32.577Z,2026-10-21T04:28:49.944Z
-socks5,45.74.31.41,4621,socks5://45.74.31.41:4621,elite,true,3839,4898,53.9,,45,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,11,2026-10-04T04:21:10.887Z,2026-10-21T04:29:06.939Z
-http,15.217.214.40,36318,http://15.217.214.40:36318,unknown,false,4070,2079,25,,12,15.217.214.40,2,ch,Zug,Zug,Europe/Zurich,211720,"Datashield, Inc.",4,2026-09-04T01:41:55.351Z,2026-10-21T04:32:14.392Z
-socks5,45.74.31.42,14804,socks5://45.74.31.42:14804,elite,true,4473,1643,100,,38,83.228.218.146,16,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,1,2026-10-17T01:03:24.343Z,2026-10-21T04:29:53.304Z
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,false,8185,1105.5,97.9,98.8,982,185.150.28.13,1,ch,Lucerne,Luzern,Europe/Zurich,59891,FSIT AG,13,2026-07-02T02:04:25.728Z,2026-10-22T04:21:15.556Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,4963,5303,79,82.7,808,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-22T04:22:07.673Z
+http,5.161.50.82,8118,http://5.161.50.82:8118,elite,true,2245,2357,49,42.8,505,185.56.83.10,1,ch,Lucerne,Luzern,Europe/Zurich,211720,"Datashield, Inc.",17,2026-04-03T12:59:02.577Z,2026-10-22T04:19:56.702Z
+socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,true,568,1615,36.3,33,470,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-22T04:29:02.483Z

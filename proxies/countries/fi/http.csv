@@ -1,7 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,528,600.5,90.9,96.4,959,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-21T04:25:25.783Z
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,609,576,91.7,93.7,917,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-21T04:31:45.071Z
-http,150.251.152.212,80,http://150.251.152.212:80,elite,false,3747,1668.5,59.3,40.5,79,150.251.152.212,1,fi,Uusimaa,Helsinki,Europe/Helsinki,209378,Inios Oy,14,2026-10-03T05:08:59.400Z,2026-10-21T04:26:48.705Z
-http,95.81.126.73,3128,http://95.81.126.73:3128,elite,false,8968,2981.5,62.5,16.2,105,95.81.126.73,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-05-23T09:43:52.812Z,2026-10-21T04:30:43.205Z
-http,2.27.47.146,3128,http://2.27.47.146:3128,transparent,true,8652,7272.5,31.3,8.1,74,2.27.47.146,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,18,2026-09-16T20:27:05.067Z,2026-10-21T04:32:13.314Z
-http,31.181.61.56,10809,http://31.181.61.56:10809,elite,true,2875,2216,75,,4,193.84.3.248,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,1,2026-10-21T03:55:34.519Z,2026-10-21T04:29:42.512Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,552,575,97.9,96.5,966,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-22T04:28:43.921Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,1931,1127.5,94.2,94,934,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-22T04:22:36.737Z
+http,31.76.58.136,3128,http://31.76.58.136:3128,elite,false,1497,2411,23.1,32.7,385,31.76.58.136,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210546,CHSL ONE LTD,17,2026-10-16T12:57:09.481Z,2026-10-22T04:29:42.819Z
+http,95.81.126.73,3128,http://95.81.126.73:3128,elite,true,9040,3734.5,29.6,22.7,185,95.81.126.73,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-05-23T09:43:52.812Z,2026-10-22T04:23:02.647Z
+http,185.239.141.194,10808,http://185.239.141.194:10808,elite,true,8558,6267,22.4,16.9,195,185.239.141.194,1,fi,Uusimaa,Helsinki,Europe/Helsinki,50053,VDSka hosting,11,2026-10-13T21:23:34.689Z,2026-10-22T04:25:31.148Z
+http,65.108.159.129,1080,http://65.108.159.129:1080,unknown,true,3579,549,15.9,13.9,216,65.108.159.129,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,9,2025-09-05T20:06:14.779Z,2026-10-22T04:22:13.462Z
+http,37.27.212.86,40001,http://37.27.212.86:40001,elite,true,550,568.5,75,,8,104.28.254.16,3,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",3,2026-10-22T03:07:46.591Z,2026-10-22T04:22:51.552Z

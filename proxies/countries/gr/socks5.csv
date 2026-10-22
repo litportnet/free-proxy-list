@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,false,8508,5026.5,41.7,51.3,429,45.92.33.82,1,gr,Attica,Athens,Europe/Athens,9009,M247 Europe SRL,19,2026-09-16T03:18:05.440Z,2026-10-21T04:29:00.568Z

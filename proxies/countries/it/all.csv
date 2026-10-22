@@ -1,8 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1812,1700,89.3,93.9,927,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-21T04:31:59.458Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,534,552.5,92.5,86.6,834,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-21T04:31:49.827Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,502,495,70.2,77.2,709,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-21T04:31:03.527Z
-socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,4203,3918,36.2,39.5,476,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-21T04:30:38.430Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,625,620.5,38.5,38.1,420,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-21T04:31:16.295Z
-http,185.191.106.0,8081,http://185.191.106.0:8081,transparent,false,3200,3031.5,36.7,30.6,422,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-10-21T04:26:36.567Z
-http,78.134.20.48,8080,http://78.134.20.48:8080,transparent,false,5649,4488.5,20.8,12.6,111,78.134.20.48,1,it,Tuscany,Pitigliano,Europe/Rome,35612,EOLO S.p.A.,23,2025-09-11T19:14:01.392Z,2026-10-21T04:29:32.956Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1260,1294,90.3,93.3,934,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-22T04:23:15.799Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,611,666.5,89.9,87.2,860,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-22T04:23:37.009Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,480,501.5,78.7,74.8,706,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-22T04:27:12.106Z
+socks4,45.66.207.175,1080,socks4://45.66.207.175:1080,elite,false,878,1212,100,,8,45.66.206.18,1,it,Sicily,Sortino,Europe/Rome,209410,SiciLink s.r.l.s,16,2026-10-04T21:30:09.919Z,2026-10-22T04:21:37.572Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "41.223.234.116",
+    "port": 37259,
+    "url": "socks4://41.223.234.116:37259",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1026,
+    "latency_median_ms": 1037.5,
+    "uptime_24h": 64.7,
+    "uptime_7d": 66.6,
+    "checks_7d": 592,
+    "exit_ip": "41.223.234.116",
+    "exit_shared": 1,
+    "country": "bf",
+    "region": "Centre",
+    "city": "Ouagadougou",
+    "timezone": "Africa/Ouagadougou",
+    "asn": 37008,
+    "asn_org": "Sancfis Faso SA",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:59.587Z",
+    "last_checked": "2026-10-22T04:28:28.049Z"
+  }
+]

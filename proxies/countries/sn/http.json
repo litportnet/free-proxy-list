@@ -6,11 +6,11 @@
     "url": "http://196.1.97.198:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 740,
-    "latency_median_ms": 741,
-    "uptime_24h": 87.2,
-    "uptime_7d": 92.6,
-    "checks_7d": 631,
+    "latency_ms": 1344,
+    "latency_median_ms": 1427.5,
+    "uptime_24h": 92.8,
+    "uptime_7d": 93.4,
+    "checks_7d": 761,
     "exit_ip": "196.1.97.198",
     "exit_shared": 1,
     "country": "sn",
@@ -21,7 +21,7 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 19,
     "first_seen": "2025-12-06T18:03:11.613Z",
-    "last_checked": "2026-10-21T04:30:15.594Z"
+    "last_checked": "2026-10-22T04:26:41.382Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://154.65.39.8:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 810,
-    "latency_median_ms": 825.5,
-    "uptime_24h": 97.1,
-    "uptime_7d": 89.3,
-    "checks_7d": 833,
+    "latency_ms": 4479,
+    "latency_median_ms": 4302,
+    "uptime_24h": 81.7,
+    "uptime_7d": 86.9,
+    "checks_7d": 829,
     "exit_ip": "154.65.39.8",
     "exit_shared": 1,
     "country": "sn",
@@ -45,7 +45,7 @@
     "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
     "sources_count": 20,
     "first_seen": "2025-09-10T19:34:33.119Z",
-    "last_checked": "2026-10-21T04:28:11.290Z"
+    "last_checked": "2026-10-22T04:23:39.671Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://196.1.93.16:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 737,
-    "latency_median_ms": 732.5,
-    "uptime_24h": 76.9,
-    "uptime_7d": 81.5,
-    "checks_7d": 750,
+    "latency_ms": 755,
+    "latency_median_ms": 698.5,
+    "uptime_24h": 80.8,
+    "uptime_7d": 80.1,
+    "checks_7d": 758,
     "exit_ip": "196.1.93.16",
     "exit_shared": 1,
     "country": "sn",
@@ -69,6 +69,6 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 12,
     "first_seen": "2025-09-10T21:05:10.863Z",
-    "last_checked": "2026-10-21T04:31:18.434Z"
+    "last_checked": "2026-10-22T04:28:57.140Z"
   }
 ]

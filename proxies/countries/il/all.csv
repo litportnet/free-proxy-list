@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,64.176.166.106,1080,socks5://64.176.166.106:1080,elite,true,1014,1969.5,81.5,86.5,163,64.176.166.106,1,il,Central District,Rosh Ha‘Ayin,Asia/Jerusalem,20473,"The Constant Company, LLC",9,2026-09-22T16:21:29.103Z,2026-10-21T04:30:43.202Z
-socks4,31.168.143.90,1080,socks4://31.168.143.90:1080,elite,true,3838,810.5,70,63.4,642,31.168.143.90,1,il,Jerusalem,Jerusalem,Asia/Jerusalem,8551,Bezeq International Ltd.,13,2026-07-04T23:41:40.294Z,2026-10-21T04:31:40.294Z
-http,147.236.181.86,50009,http://147.236.181.86:50009,transparent,false,2535,3196.5,24.2,23.5,349,147.236.181.86,1,il,Tel Aviv,Tel Aviv,Asia/Jerusalem,202940,ITC NG ltd,19,2026-10-02T16:02:05.410Z,2026-10-21T04:31:37.625Z
+socks4,31.168.143.90,1080,socks4://31.168.143.90:1080,elite,true,3869,3843.5,60.4,62.5,669,31.168.143.90,1,il,Jerusalem,Jerusalem,Asia/Jerusalem,8551,Bezeq International Ltd.,13,2026-07-04T23:41:40.294Z,2026-10-22T04:28:42.315Z

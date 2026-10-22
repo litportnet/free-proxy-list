@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,972,3025.5,77.6,74.5,725,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-21T04:23:29.935Z
-http,110.74.195.34,25,http://110.74.195.34:25,elite,true,3671,2443,53.2,51.6,549,110.74.195.34,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38901,"EZECOM CO., LTD.",19,2025-09-10T21:13:42.082Z,2026-10-21T04:30:35.809Z
-http,36.37.180.40,8080,http://36.37.180.40:8080,transparent,false,8465,4475,28.8,27.8,273,36.37.180.40,1,kh,Siem Reap,Siem Reap,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,23,2025-09-08T06:31:09.513Z,2026-10-21T04:24:46.696Z
+http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,false,4276,2099.5,77.2,74.3,752,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-10-22T04:21:14.862Z

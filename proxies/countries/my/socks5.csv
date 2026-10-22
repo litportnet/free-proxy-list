@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,43.160.229.63,1080,socks5://43.160.229.63:1080,elite,true,2773,2790,61.7,59.7,62,195.86.248.216,2,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,984,OCTOPUS WEB SOLUTION INC,8,2026-10-20T15:49:39.058Z,2026-10-22T04:28:00.446Z

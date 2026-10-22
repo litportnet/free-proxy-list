@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "195.64.158.156",
+    "port": 8080,
+    "url": "http://195.64.158.156:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 2445,
+    "latency_median_ms": 2532.5,
+    "uptime_24h": 87.5,
+    "uptime_7d": null,
+    "checks_7d": 48,
+    "exit_ip": "195.64.158.156",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Silesia",
+    "city": "Blachownia",
+    "timezone": "Europe/Warsaw",
+    "asn": 61154,
+    "asn_org": "IDHosting Sp. z o. o.",
+    "sources_count": 4,
+    "first_seen": "2025-10-08T16:08:49.447Z",
+    "last_checked": "2026-10-22T04:25:17.405Z"
+  }
+]

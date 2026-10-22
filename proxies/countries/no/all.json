@@ -1,17 +1,17 @@
 [
   {
-    "protocol": "http",
-    "ip": "13.208.246.143",
-    "port": 33125,
-    "url": "http://13.208.246.143:33125",
-    "anonymity": "unknown",
-    "https": false,
-    "latency_ms": 4268,
-    "latency_median_ms": 3187,
-    "uptime_24h": 12.5,
-    "uptime_7d": null,
-    "checks_7d": 27,
-    "exit_ip": "13.208.246.143",
+    "protocol": "socks4",
+    "ip": "38.76.196.46",
+    "port": 9050,
+    "url": "socks4://38.76.196.46:9050",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3176,
+    "latency_median_ms": 2885.5,
+    "uptime_24h": 22.7,
+    "uptime_7d": 15.8,
+    "checks_7d": 221,
+    "exit_ip": "185.243.218.233",
     "exit_shared": 1,
     "country": "no",
     "region": "Vestfold",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Oslo",
     "asn": 56655,
     "asn_org": "Gigahost AS",
-    "sources_count": 4,
-    "first_seen": "2026-09-01T11:25:43.656Z",
-    "last_checked": "2026-10-21T04:27:41.154Z"
+    "sources_count": 9,
+    "first_seen": "2026-08-17T13:58:03.533Z",
+    "last_checked": "2026-10-22T04:27:38.737Z"
   }
 ]
