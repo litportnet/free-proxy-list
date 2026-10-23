@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,78.101.198.138,8080,http://78.101.198.138:8080,transparent,false,2286,3494.5,23,26.4,360,78.101.198.138,1,qa,Baladiyat ad Dawhah,Doha,Asia/Qatar,8781,Ooredoo Q.S.C.,16,2026-08-26T20:14:02.113Z,2026-10-23T04:30:00.088Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.220.217.50",
+    "port": 8080,
+    "url": "http://41.220.217.50:8080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 6146,
+    "latency_median_ms": 2559,
+    "uptime_24h": 84,
+    "uptime_7d": 84,
+    "checks_7d": 50,
+    "exit_ip": "41.220.217.50",
+    "exit_shared": 1,
+    "country": "ug",
+    "region": "Central Region",
+    "city": "Kampala",
+    "timezone": "Africa/Kampala",
+    "asn": 36901,
+    "asn_org": "DATANET.COM LLC",
+    "sources_count": 14,
+    "first_seen": "2026-10-03T07:10:03.162Z",
+    "last_checked": "2026-10-23T04:24:00.782Z"
+  }
+]

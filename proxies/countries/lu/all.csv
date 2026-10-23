@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,1084,3448.5,44.1,51.4,535,185.221.132.246,1,lu,Luxembourg,Luxembourg,Europe/Luxembourg,206804,EstNOC GLOBAL,20,2026-09-16T03:18:05.440Z,2026-10-22T04:26:47.713Z

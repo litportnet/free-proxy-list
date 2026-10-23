@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,2.50.191.129,10800,socks5://2.50.191.129:10800,elite,true,4427,3868.5,40.4,,49,2.50.191.129,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,12,2026-10-20T17:50:15.957Z,2026-10-22T04:29:35.419Z
+socks5,2.50.191.129,10800,socks5://2.50.191.129:10800,elite,true,9241,4957,51.6,47.7,172,2.50.191.129,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,13,2026-10-20T17:50:15.957Z,2026-10-23T04:24:19.797Z

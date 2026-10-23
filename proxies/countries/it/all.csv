@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1260,1294,90.3,93.3,934,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-22T04:23:15.799Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,611,666.5,89.9,87.2,860,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-22T04:23:37.009Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,480,501.5,78.7,74.8,706,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-22T04:27:12.106Z
-socks4,45.66.207.175,1080,socks4://45.66.207.175:1080,elite,false,878,1212,100,,8,45.66.206.18,1,it,Sicily,Sortino,Europe/Rome,209410,SiciLink s.r.l.s,16,2026-10-04T21:30:09.919Z,2026-10-22T04:21:37.572Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,947,1155.5,89.1,92.9,939,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-23T04:26:49.353Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,7735,1278,52.9,43.6,468,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-23T04:27:04.259Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,1013,2457.5,49.6,39.4,525,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-23T04:31:17.683Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,936,595.5,37.9,39.2,510,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-23T04:28:07.282Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,602,2332,25,33.5,397,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-23T04:32:22.697Z

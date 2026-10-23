@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,611,666.5,89.9,87.2,860,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-22T04:23:37.009Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,480,501.5,78.7,74.8,706,77.242.177.57,1,it,Piedmont,Valdengo,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-22T04:27:12.106Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,602,2332,25,33.5,397,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-23T04:32:22.697Z

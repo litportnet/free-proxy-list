@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,2619,2689.5,46.3,45.7,484,158.173.79.178,1,lt,Siauliai,Šiauliai,Europe/Vilnius,61272,UAB Bacloud,17,2026-09-22T16:21:33.920Z,2026-10-22T04:26:57.287Z

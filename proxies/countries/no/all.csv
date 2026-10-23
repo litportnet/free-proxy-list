@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,38.76.196.46,9050,socks4://38.76.196.46:9050,elite,true,3176,2885.5,22.7,15.8,221,185.243.218.233,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,9,2026-08-17T13:58:03.533Z,2026-10-22T04:27:38.737Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,851,941.5,38.1,51.3,521,91.219.215.34,1,no,Oslo,Oslo,Europe/Oslo,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-10-23T04:26:18.564Z

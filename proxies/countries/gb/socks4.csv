@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.157.64.213,1080,socks4://5.157.64.213:1080,elite,true,3579,1589,55.4,58.5,595,5.157.64.213,1,gb,England,London,Europe/London,62163,IP River Limited,14,2025-09-05T20:05:56.736Z,2026-10-22T04:23:03.713Z
-socks4,83.147.18.168,1080,socks4://83.147.18.168:1080,elite,false,2634,3652,29.8,34.5,223,83.147.18.168,1,gb,England,London,Europe/London,215311,Regxa Company for Information Technology Ltd,4,2026-08-09T00:08:37.973Z,2026-10-22T04:20:35.248Z
-socks4,149.248.194.233,9000,socks4://149.248.194.233:9000,elite,true,484,1132,29.4,21.7,281,79.127.165.77,1,gb,England,London,Europe/London,60068,Datacamp Limited,16,2026-10-15T05:40:43.518Z,2026-10-22T04:22:42.545Z

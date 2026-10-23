@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.160.229.63,1080,socks4://43.160.229.63:1080,elite,true,4503,3448,57.4,63.4,183,195.86.248.216,2,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,984,OCTOPUS WEB SOLUTION INC,11,2026-10-20T14:48:46.209Z,2026-10-22T04:23:56.890Z
-socks4,45.117.228.97,4145,socks4://45.117.228.97:4145,elite,false,2200,2160.5,48.2,43.3,469,103.58.16.106,2,my,Selangor,Sepang,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,14,2025-09-05T20:06:24.532Z,2026-10-22T04:24:21.972Z
-socks4,103.58.16.106,4145,socks4://103.58.16.106:4145,elite,false,2159,2167.5,48.1,42.5,546,103.58.16.106,2,my,Selangor,Sepang,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,14,2025-09-04T23:02:04.839Z,2026-10-22T04:21:14.793Z
+socks4,103.58.16.106,4145,socks4://103.58.16.106:4145,elite,false,1155,4200,48.3,45.4,546,103.58.16.106,1,my,Selangor,Petaling Jaya,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,1,2026-03-17T17:23:29.916Z,2026-10-23T04:28:50.823Z

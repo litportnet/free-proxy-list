@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.90.224.50,8080,http://116.90.224.50:8080,transparent,false,6493,5125.5,19.5,23.5,315,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,14,2025-11-22T22:41:34.602Z,2026-10-22T04:26:29.675Z
+http,202.166.220.40,8080,http://202.166.220.40:8080,transparent,false,2043,3495.5,26.4,29.8,474,202.166.220.40,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,17,2026-07-05T19:51:49.712Z,2026-10-23T04:30:33.598Z

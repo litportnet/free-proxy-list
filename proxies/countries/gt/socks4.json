@@ -6,11 +6,11 @@
     "url": "socks4://181.189.132.74:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 391,
-    "latency_median_ms": 659,
-    "uptime_24h": 54.8,
-    "uptime_7d": 56.8,
-    "checks_7d": 651,
+    "latency_ms": 397,
+    "latency_median_ms": 956,
+    "uptime_24h": 56.7,
+    "uptime_7d": 58,
+    "checks_7d": 678,
     "exit_ip": "181.189.132.74",
     "exit_shared": 1,
     "country": "gt",
@@ -21,7 +21,7 @@
     "asn_org": "Navega.com S.A.",
     "sources_count": 21,
     "first_seen": "2026-08-08T18:05:33.990Z",
-    "last_checked": "2026-10-22T04:28:59.298Z"
+    "last_checked": "2026-10-23T04:27:16.414Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 8888,
     "url": "socks4://38.41.225.174:8888",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 347,
-    "latency_median_ms": 1372,
-    "uptime_24h": 53.9,
-    "uptime_7d": 54.3,
-    "checks_7d": 578,
+    "https": true,
+    "latency_ms": 1906,
+    "latency_median_ms": 1391,
+    "uptime_24h": 49.2,
+    "uptime_7d": 54.5,
+    "checks_7d": 650,
     "exit_ip": "38.41.225.174",
     "exit_shared": 1,
     "country": "gt",
@@ -45,6 +45,6 @@
     "asn_org": "Innova Outsourcing S.A",
     "sources_count": 13,
     "first_seen": "2026-07-06T07:56:30.881Z",
-    "last_checked": "2026-10-22T04:23:32.277Z"
+    "last_checked": "2026-10-23T04:26:09.939Z"
   }
 ]

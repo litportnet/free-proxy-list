@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,160.119.159.98,1080,socks4://160.119.159.98:1080,elite,false,4308,4272.5,67.8,72.8,750,160.119.159.98,1,mz,Maputo City,Maputo,Africa/Maputo,328223,VOIPTECH LIMITADA,21,2026-09-17T12:35:37.101Z,2026-10-22T04:27:25.425Z
-socks4,196.40.117.114,5678,socks4://196.40.117.114:5678,elite,false,8683,2904.5,6.7,14.6,239,196.40.117.114,1,mz,Maputo City,Maputo,Africa/Maputo,42235,INTRA DATA COMMUNICATION,14,2025-09-04T23:01:39.026Z,2026-10-22T04:27:17.454Z
+socks4,160.119.159.98,1080,socks4://160.119.159.98:1080,elite,false,4296,3262,67.7,73.3,774,160.119.159.98,1,mz,Maputo City,Maputo,Africa/Maputo,328223,VOIPTECH LIMITADA,21,2026-09-17T12:35:37.101Z,2026-10-23T04:23:45.040Z

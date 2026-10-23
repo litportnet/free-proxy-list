@@ -6,11 +6,11 @@
     "url": "socks5://176.9.107.170:1081",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2751,
-    "latency_median_ms": 701,
-    "uptime_24h": 81,
-    "uptime_7d": 60.5,
-    "checks_7d": 263,
+    "latency_ms": 662,
+    "latency_median_ms": 1054,
+    "uptime_24h": 63.1,
+    "uptime_7d": 61.5,
+    "checks_7d": 345,
     "exit_ip": "217.9.244.86",
     "exit_shared": 2,
     "country": "mk",
@@ -21,6 +21,6 @@
     "asn_org": "Cyberzone S.A.",
     "sources_count": 20,
     "first_seen": "2026-06-25T09:36:53.359Z",
-    "last_checked": "2026-10-22T04:24:54.554Z"
+    "last_checked": "2026-10-23T04:26:24.884Z"
   }
 ]

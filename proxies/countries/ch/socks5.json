@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10802,
+    "url": "socks5://65.21.252.66:10802",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2078,
+    "latency_median_ms": 2705,
+    "uptime_24h": 55.1,
+    "uptime_7d": 51.8,
+    "checks_7d": 575,
+    "exit_ip": "37.140.254.81",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Zurich",
+    "city": "Oberhausen-Böschenwiesen",
+    "timezone": "Europe/Zurich",
+    "asn": 206092,
+    "asn_org": "F.N.S. HOLDINGS LIMITED",
+    "sources_count": 17,
+    "first_seen": "2026-09-17T05:31:54.290Z",
+    "last_checked": "2026-10-23T04:21:59.443Z"
+  }
+]

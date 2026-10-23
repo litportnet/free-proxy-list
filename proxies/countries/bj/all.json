@@ -6,11 +6,11 @@
     "url": "http://41.216.57.75:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 7339,
-    "latency_median_ms": 6200.5,
-    "uptime_24h": 32.5,
-    "uptime_7d": 21.2,
-    "checks_7d": 292,
+    "latency_ms": 3932,
+    "latency_median_ms": 4321,
+    "uptime_24h": 16.4,
+    "uptime_7d": 21.8,
+    "checks_7d": 330,
     "exit_ip": "41.216.57.75",
     "exit_shared": 1,
     "country": "bj",
@@ -21,6 +21,6 @@
     "asn_org": "SOCIETE BENINOISE D'INFRASTRUCTURES NUMERIQUES",
     "sources_count": 25,
     "first_seen": "2026-06-30T11:42:54.719Z",
-    "last_checked": "2026-10-22T04:20:36.349Z"
+    "last_checked": "2026-10-23T04:29:49.422Z"
   }
 ]

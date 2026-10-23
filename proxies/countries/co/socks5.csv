@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,7921,socks5://45.74.31.41:7921,elite,true,1434,3945.5,11.8,23.9,67,190.6.176.90,2,co,Valle del Cauca Department,Cali,America/Bogota,27845,Empresa de Recursos Tecnologicos S.A E.S.P,3,2026-10-18T00:15:39.230Z,2026-10-22T04:21:09.180Z
-socks5,45.74.31.46,14072,socks5://45.74.31.46:14072,elite,true,5779,4281,100,,5,190.6.176.90,2,co,Valle del Cauca Department,Cali,America/Bogota,27845,Empresa de Recursos Tecnologicos S.A E.S.P,7,2026-10-19T03:30:00.384Z,2026-10-22T04:21:16.592Z
+socks5,45.74.31.41,6810,socks5://45.74.31.41:6810,elite,false,1403,3541.5,25,8.8,80,190.6.176.90,1,co,Valle del Cauca Department,Cali,America/Bogota,27845,Empresa de Recursos Tecnologicos S.A E.S.P,12,2026-10-11T04:49:41.086Z,2026-10-23T04:25:38.909Z

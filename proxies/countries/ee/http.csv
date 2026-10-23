@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,563,573.5,96.5,87.9,882,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-22T04:29:16.217Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,553,555,85.6,89.2,905,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-23T04:28:35.454Z

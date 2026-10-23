@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,563,573.5,96.5,87.9,882,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-22T04:29:16.217Z
-socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2649,3980,39,55.1,510,37.77.56.132,1,ee,Harjumaa,Hüüru,Europe/Tallinn,206804,EstNOC OU,18,2026-09-16T03:18:05.440Z,2026-10-22T04:21:45.984Z
+http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,553,555,85.6,89.2,905,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-23T04:28:35.454Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,1152,2387,60.2,57.3,543,37.77.56.132,1,ee,Harjumaa,Hüüru,Europe/Tallinn,206804,EstNOC OU,18,2026-09-16T03:18:05.440Z,2026-10-23T04:24:31.895Z

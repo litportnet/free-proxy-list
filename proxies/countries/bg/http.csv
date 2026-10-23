@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,243,259,100,100,171,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-22T04:26:47.195Z
-http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,260,262.5,100,100,164,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-22T04:20:27.676Z
-http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,262,261.5,99.3,99.8,460,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-22T04:22:44.650Z
-http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,243,258,100,99.3,552,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-22T04:29:38.590Z
-http,213.169.33.7,8001,http://213.169.33.7:8001,transparent,false,5758,3930.5,32.9,30.6,284,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:28.237Z,2026-10-22T04:28:43.929Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,238,252,100,100,308,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-23T04:22:53.856Z
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,247,251.5,100,100,315,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-23T04:31:44.898Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,252,255,100,99.8,605,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-23T04:28:31.701Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,262,258.5,100,99.6,694,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-23T04:30:42.115Z
+http,85.187.224.21,8080,http://85.187.224.21:8080,transparent,false,9565,5002,24.7,20.7,310,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,22,2025-09-05T20:05:36.749Z,2026-10-23T04:23:33.442Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "54.198.140.56",
+    "port": 48293,
+    "url": "http://54.198.140.56:48293",
+    "anonymity": "unknown",
+    "https": true,
+    "latency_ms": 804,
+    "latency_median_ms": 1069.5,
+    "uptime_24h": 14.6,
+    "uptime_7d": 9,
+    "checks_7d": 111,
+    "exit_ip": "54.198.140.56",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Ilfov",
+    "city": "Voluntari",
+    "timezone": "Europe/Bucharest",
+    "asn": 6718,
+    "asn_org": "NAV COMMUNICATIONS SRL",
+    "sources_count": 11,
+    "first_seen": "2026-09-29T05:25:20.567Z",
+    "last_checked": "2026-10-23T04:30:07.578Z"
+  }
+]

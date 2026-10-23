@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://154.18.220.190:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1183,
-    "latency_median_ms": 2259,
-    "uptime_24h": 68.3,
-    "uptime_7d": 74.1,
-    "checks_7d": 752,
+    "https": false,
+    "latency_ms": 4313,
+    "latency_median_ms": 3263,
+    "uptime_24h": 66.2,
+    "uptime_7d": 74.8,
+    "checks_7d": 781,
     "exit_ip": "154.18.220.190",
     "exit_shared": 1,
     "country": "mm",
@@ -21,6 +21,6 @@
     "asn_org": "Global Technology",
     "sources_count": 9,
     "first_seen": "2025-11-01T10:33:30.995Z",
-    "last_checked": "2026-10-22T04:20:17.853Z"
+    "last_checked": "2026-10-23T04:21:32.110Z"
   }
 ]

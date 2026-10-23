@@ -6,11 +6,11 @@
     "url": "socks4://129.205.244.158:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1339,
-    "latency_median_ms": 2381,
-    "uptime_24h": 52.1,
-    "uptime_7d": 52.9,
-    "checks_7d": 539,
+    "latency_ms": 1369,
+    "latency_median_ms": 2360.5,
+    "uptime_24h": 62.2,
+    "uptime_7d": 56.8,
+    "checks_7d": 590,
     "exit_ip": "129.205.244.158",
     "exit_shared": 1,
     "country": "bw",
@@ -21,6 +21,6 @@
     "asn_org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:02:33.696Z",
-    "last_checked": "2026-10-22T04:29:10.924Z"
+    "last_checked": "2026-10-23T04:24:21.895Z"
   }
 ]

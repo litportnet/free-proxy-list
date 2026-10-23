@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "81.162.123.152",
+    "port": 10808,
+    "url": "socks4://81.162.123.152:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3002,
+    "latency_median_ms": 2158,
+    "uptime_24h": 51,
+    "uptime_7d": 58.1,
+    "checks_7d": 117,
+    "exit_ip": "89.222.117.8",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Fujairah",
+    "city": "Fujairah",
+    "timezone": "Asia/Dubai",
+    "asn": 60068,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 8,
+    "first_seen": "2026-10-22T01:06:49.891Z",
+    "last_checked": "2026-10-23T04:31:40.606Z"
+  }
+]

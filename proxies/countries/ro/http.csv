@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,54.198.140.56,48293,http://54.198.140.56:48293,unknown,true,804,1069.5,14.6,9,111,54.198.140.56,1,ro,Ilfov,Voluntari,Europe/Bucharest,6718,NAV COMMUNICATIONS SRL,11,2026-09-29T05:25:20.567Z,2026-10-23T04:30:07.578Z

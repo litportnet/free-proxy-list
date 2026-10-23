@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,111.235.128.218,60606,socks4://111.235.128.218:60606,elite,true,1117,1228.5,39.8,48.6,617,111.235.128.218,1,au,Tasmania,Burnie,Australia/Hobart,134181,Burnie City Council,12,2026-04-14T04:25:18.761Z,2026-10-23T04:29:20.073Z

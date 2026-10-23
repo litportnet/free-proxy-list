@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "16.51.53.116",
+    "port": 32753,
+    "url": "http://16.51.53.116:32753",
+    "anonymity": "unknown",
+    "https": false,
+    "latency_ms": 3059,
+    "latency_median_ms": 3059,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 2,
+    "exit_ip": "16.51.53.116",
+    "exit_shared": 1,
+    "country": "dk",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "timezone": "Europe/Copenhagen",
+    "asn": 210731,
+    "asn_org": "Forening for DotSrc",
+    "sources_count": 3,
+    "first_seen": "2026-10-08T17:18:37.292Z",
+    "last_checked": "2026-10-23T04:25:19.332Z"
+  }
+]

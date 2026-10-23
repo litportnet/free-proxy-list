@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.54.100.74,5678,socks4://190.54.100.74:5678,elite,true,1004,1731,47.7,42.2,535,190.54.100.74,1,cl,Santiago Metropolitan,Santiago,America/Santiago,6429,Telmex Chile Internet S.A.,22,2025-09-08T19:34:49.363Z,2026-10-22T04:21:14.772Z
+socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,true,7970,1893.5,55,49.6,609,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,21,2025-09-05T20:06:27.862Z,2026-10-23T04:28:40.731Z
