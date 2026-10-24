@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,101.36.104.239,10808,socks5://101.36.104.239:10808,elite,true,872,897,98.6,94.7,941,101.36.104.239,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-21T08:09:48.039Z,2026-10-24T21:49:19.000Z
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,890,868,97.9,94.1,938,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-10-24T21:41:06.092Z
+socks5,103.100.158.115,10809,socks5://103.100.158.115:10809,elite,true,1231,1237,97.9,92.9,906,103.100.158.115,1,jp,Tokyo,Tokyo,Asia/Tokyo,51847,Nearoute Limited,15,2026-10-05T01:32:22.649Z,2026-10-24T21:44:58.749Z
+socks5,120.204.84.132,7890,socks5://120.204.84.132:7890,elite,true,2445,3638.5,78.9,78.9,52,64.118.148.214,3,jp,Tokyo,Tokyo,Asia/Tokyo,138997,Eons Data Communications Limited,11,2026-10-24T12:38:03.820Z,2026-10-24T21:44:31.965Z
+socks5,151.242.164.121,80,socks5://151.242.164.121:80,elite,false,6005,3907,65.6,68.8,253,151.242.164.121,1,jp,Tokyo,Tokyo,Asia/Tokyo,61112,AkileCloud Network,14,2026-10-22T21:17:20.215Z,2026-10-24T21:49:32.568Z
+socks5,58.89.82.209,1080,socks5://58.89.82.209:1080,elite,false,926,994,58.3,57.2,698,58.89.82.209,1,jp,Tokyo,Tokyo,Asia/Tokyo,4713,"NTT DOCOMO BUSINESS,Inc.",15,2026-10-14T06:28:29.252Z,2026-10-24T21:45:47.402Z
+socks5,58.32.16.138,7000,socks5://58.32.16.138:7000,elite,true,1879,1869,39,46.8,203,202.182.121.184,1,jp,Tokyo,Ebara,Asia/Tokyo,20473,"The Constant Company, LLC",14,2026-10-20T06:44:25.522Z,2026-10-24T21:44:19.071Z
+socks5,64.83.34.73,1080,socks5://64.83.34.73:1080,elite,true,4631,1087,100,36.1,83,64.83.34.73,1,jp,Tokyo,Tokyo,Asia/Tokyo,979,NetLab Global,13,2026-10-17T16:11:28.333Z,2026-10-24T21:44:20.698Z

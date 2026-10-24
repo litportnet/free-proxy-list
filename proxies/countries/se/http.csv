@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,693,576,97.9,99.5,1001,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-10-24T21:43:59.767Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,748,587,97.2,99.4,1002,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-24T21:41:44.295Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,666,675,98.6,96.4,956,104.23.223.104,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-24T21:47:57.868Z
+http,5.161.50.82,8118,http://5.161.50.82:8118,elite,true,1589,2577.5,51.3,45.2,591,171.25.193.79,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,17,2026-04-03T12:59:02.577Z,2026-10-24T21:46:59.346Z
+http,193.181.35.135,8118,http://193.181.35.135:8118,elite,true,590,596.5,42,42,138,193.181.35.135,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,5,2025-10-22T03:04:10.203Z,2026-10-24T21:48:53.690Z
+http,193.181.35.80,8118,http://193.181.35.80:8118,elite,false,4581,1473.5,21.4,28.4,141,193.181.35.80,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,8,2025-12-25T03:57:46.649Z,2026-10-24T21:43:38.292Z
+http,193.181.35.212,8118,http://193.181.35.212:8118,elite,false,1480,1490.5,17.8,22.8,127,193.181.35.212,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,8,2026-07-03T12:22:27.030Z,2026-10-24T21:42:17.809Z

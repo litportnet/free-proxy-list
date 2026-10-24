@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "148.230.27.77",
+    "port": 999,
+    "url": "http://148.230.27.77:999",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 4012,
+    "latency_median_ms": 4125,
+    "uptime_24h": 22.8,
+    "uptime_7d": 33.6,
+    "checks_7d": 482,
+    "exit_ip": "148.230.27.73",
+    "exit_shared": 1,
+    "country": "gt",
+    "region": "Guatemala",
+    "city": "Guatemala City",
+    "timezone": "America/Guatemala",
+    "asn": 23243,
+    "asn_org": "COMCEL GUATEMALA S.A.",
+    "sources_count": 16,
+    "first_seen": "2026-04-07T13:49:48.793Z",
+    "last_checked": "2026-10-24T21:44:03.496Z"
+  }
+]

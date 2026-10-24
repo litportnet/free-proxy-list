@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "197.156.240.66",
+    "port": 5678,
+    "url": "socks4://197.156.240.66:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2058,
+    "latency_median_ms": 2059,
+    "uptime_24h": 58.7,
+    "uptime_7d": 51.1,
+    "checks_7d": 307,
+    "exit_ip": "197.156.240.66",
+    "exit_shared": 1,
+    "country": "ng",
+    "region": "Lagos",
+    "city": "Lagos",
+    "timezone": "Africa/Lagos",
+    "asn": 30988,
+    "asn_org": "IS InternetSolutions Limited",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:53.737Z",
+    "last_checked": "2026-10-24T21:48:45.568Z"
+  }
+]

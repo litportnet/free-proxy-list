@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.78.38.197",
+    "port": 8005,
+    "url": "http://41.78.38.197:8005",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4960,
+    "latency_median_ms": 5420,
+    "uptime_24h": 28.9,
+    "uptime_7d": 23,
+    "checks_7d": 405,
+    "exit_ip": "41.78.36.250",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Gauteng",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "asn": 37157,
+    "asn_org": "Benwest Internet Services ta Imagine IPS",
+    "sources_count": 24,
+    "first_seen": "2026-08-06T07:33:48.856Z",
+    "last_checked": "2026-10-24T21:40:20.435Z"
+  }
+]

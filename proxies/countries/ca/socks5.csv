@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,3540,4706.5,92.8,90.8,901,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,15,2026-09-11T22:06:41.545Z,2026-10-24T21:41:37.855Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,5782,5760,82.1,75.7,785,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-10-24T21:46:34.723Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,3286,3245.5,72.4,66.7,604,104.193.135.203,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,17,2026-09-21T21:11:29.587Z,2026-10-24T21:44:22.287Z
+socks5,5.75.133.113,10807,socks5://5.75.133.113:10807,elite,true,2610,2905.5,50,51.8,558,140.228.24.128,1,ca,Quebec,Montréal,America/Toronto,174,"Cogent Communications, LLC",19,2026-09-22T02:14:04.469Z,2026-10-24T21:45:26.971Z

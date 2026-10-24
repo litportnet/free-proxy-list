@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "168.138.9.147",
+    "port": 1080,
+    "url": "socks4://168.138.9.147:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4557,
+    "latency_median_ms": 4271,
+    "uptime_24h": 19.1,
+    "uptime_7d": 19.5,
+    "checks_7d": 231,
+    "exit_ip": "168.138.9.147",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "Victoria",
+    "city": "Melbourne",
+    "timezone": "Australia/Melbourne",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 19,
+    "first_seen": "2026-03-18T02:28:35.700Z",
+    "last_checked": "2026-10-24T21:43:18.921Z"
+  }
+]

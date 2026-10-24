@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,90.156.160.234,3128,http://90.156.160.234:3128,elite,true,2863,2539,97.9,95.6,977,90.156.160.234,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,13,2026-10-06T03:46:09.506Z,2026-10-24T21:43:53.911Z
+http,195.158.8.123,3128,http://195.158.8.123:3128,elite,true,1731,1837.5,92.8,88.3,909,195.158.8.123,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,25,2025-09-08T17:35:24.862Z,2026-10-24T21:43:54.452Z
+socks5,213.230.121.41,1080,socks5://213.230.121.41:1080,elite,false,2357,2356,31.1,38.3,598,213.230.121.41,1,uz,Tashkent,Tashkent,Asia/Tashkent,8193,Uzbektelekom Joint Stock Company,18,2026-04-27T23:11:43.611Z,2026-10-24T21:43:54.460Z

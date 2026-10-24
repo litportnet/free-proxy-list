@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.47,5711,socks5://45.74.31.47:5711,elite,true,4387,3791.5,25,22.4,116,185.156.42.119,1,ua,Kyiv City,Kyiv,Europe/Kyiv,196645,HOSTPRO LAB LLC,16,2026-09-20T21:59:18.820Z,2026-10-24T21:42:32.980Z
+socks5,31.40.17.49,1080,socks5://31.40.17.49:1080,elite,false,920,2100.5,20.5,21.3,122,31.40.17.49,1,ua,Odesa,Bilyayivka,Europe/Kyiv,197131,Ketnet Telecom Ltd,9,2026-10-23T09:23:52.200Z,2026-10-24T21:44:09.469Z
+socks5,46.35.227.251,1082,socks5://46.35.227.251:1082,elite,false,1184,2193.5,87,,23,104.28.255.119,1,ua,Sevastopol City,Sevastopol,Europe/Simferopol,13335,"Cloudflare, Inc.",14,2026-10-05T09:36:36.918Z,2026-10-24T21:42:57.921Z
+socks5,91.222.66.144,1080,socks5://91.222.66.144:1080,elite,true,2131,3030,67.9,,28,91.222.66.144,1,ua,Kyiv Oblast,Myronivka,Europe/Kyiv,8870,Overseas Technologies LLC,9,2026-10-24T16:40:10.893Z,2026-10-24T21:49:56.435Z

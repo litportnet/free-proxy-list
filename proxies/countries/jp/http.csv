@@ -1,0 +1,13 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,487,482,100,99.9,1005,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-10-24T21:43:36.670Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,2151,2339,81.2,78.2,835,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-10-24T21:44:49.711Z
+http,133.18.234.13,80,http://133.18.234.13:80,elite,false,4314,3796,49,77.8,442,133.18.234.13,2,jp,Kyoto,Sugai,Asia/Tokyo,24282,KAGOYA JAPAN Inc.,9,2025-09-10T19:34:45.894Z,2026-10-24T21:41:46.449Z
+http,120.204.84.132,7890,http://120.204.84.132:7890,elite,true,4344,4433,76.9,76.9,52,64.118.148.214,3,jp,Tokyo,Tokyo,Asia/Tokyo,138997,Eons Data Communications Limited,13,2026-10-24T12:38:06.255Z,2026-10-24T21:46:18.579Z
+http,116.80.65.235,3128,http://116.80.65.235:3128,anonymous,true,1620,3617,61.5,75.1,445,116.80.65.235,1,jp,Tokyo,Tokyo,Asia/Tokyo,2514,"NTT PC Communications, Inc.",9,2026-07-08T05:23:15.914Z,2026-10-24T21:46:15.337Z
+http,139.59.103.183,80,http://139.59.103.183:80,transparent,false,4393,3706.5,52.9,75.1,446,133.18.234.13,2,jp,Kyoto,Sugai,Asia/Tokyo,24282,KAGOYA JAPAN Inc.,14,2025-12-22T22:04:14.546Z,2026-10-24T21:46:02.996Z
+http,157.120.37.23,3128,http://157.120.37.23:3128,anonymous,true,1620,3611.5,67.7,69.1,450,157.120.37.23,1,jp,Tokyo,Tokyo,Asia/Tokyo,2514,"NTT PC Communications, Inc.",11,2026-05-15T15:56:34.205Z,2026-10-24T21:49:58.601Z
+http,160.248.7.177,80,http://160.248.7.177:80,elite,false,1592,5666.5,50.9,56.1,699,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-10-24T21:48:48.236Z
+http,151.243.153.157,8118,http://151.243.153.157:8118,elite,false,2224,561,50,56,559,151.243.153.157,1,jp,Tokyo,Tokyo,Asia/Tokyo,400506,Black Apple,25,2026-06-06T22:41:19.122Z,2026-10-24T21:40:58.577Z
+http,175.161.96.22,666,http://175.161.96.22:666,elite,false,2292,4662.5,51.2,41.6,149,212.135.214.6,2,jp,Tokyo,Tokyo,Asia/Tokyo,216211,CYBERVERSE LLC,11,2026-10-08T19:19:26.199Z,2026-10-24T21:44:14.280Z
+http,117.74.67.26,1080,http://117.74.67.26:1080,elite,true,1127,1510,71.4,,35,43.207.172.117,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",2,2026-10-24T15:39:31.336Z,2026-10-24T21:50:00.728Z
+http,43.165.135.162,60000,http://43.165.135.162:60000,elite,true,2180,3045,45.8,,24,43.165.135.162,2,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",10,2026-10-24T16:40:10.082Z,2026-10-24T21:47:35.960Z

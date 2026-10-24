@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.40",
+    "port": 4053,
+    "url": "socks5://45.74.31.40:4053",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 9603,
+    "latency_median_ms": 7378.5,
+    "uptime_24h": 34.9,
+    "uptime_7d": 17.6,
+    "checks_7d": 148,
+    "exit_ip": "135.236.141.8",
+    "exit_shared": 1,
+    "country": "ie",
+    "region": "Leinster",
+    "city": "Dublin",
+    "timezone": "Europe/Dublin",
+    "asn": 8075,
+    "asn_org": "Microsoft Corporation",
+    "sources_count": 14,
+    "first_seen": "2026-10-02T04:56:15.859Z",
+    "last_checked": "2026-10-24T21:45:13.927Z"
+  }
+]

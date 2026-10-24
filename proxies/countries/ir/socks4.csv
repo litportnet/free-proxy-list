@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,94.183.225.168,1080,socks4://94.183.225.168:1080,elite,true,5032,2174,84.9,87.7,496,94.183.225.168,1,ir,Tehran,Tehran,Asia/Tehran,214431,Mizban Gostar Dade Alvand Ltd,14,2026-10-17T15:10:55.284Z,2026-10-24T21:41:59.376Z
+socks4,46.100.44.35,1085,socks4://46.100.44.35:1085,elite,false,3923,970.5,59.3,62.9,676,46.100.44.35,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,15,2026-10-13T23:24:50.796Z,2026-10-24T21:41:08.808Z
+socks4,151.232.18.66,5678,socks4://151.232.18.66:5678,elite,true,1000,1642,38.5,39.4,571,151.232.18.69,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,8,2025-09-04T23:49:03.157Z,2026-10-24T21:40:13.472Z

@@ -1,0 +1,17 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,141.11.1.75,80,http://141.11.1.75:80,elite,false,530,505,100,100,391,141.11.1.75,1,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,1,2026-10-22T04:08:39.702Z,2026-10-24T21:47:35.954Z
+http,109.199.119.160,80,http://109.199.119.160:80,elite,false,236,232.5,100,99.9,1004,109.199.119.160,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-07-29T19:59:31.982Z,2026-10-24T21:44:53.442Z
+http,206.245.131.160,80,http://206.245.131.160:80,elite,false,491,1094.5,97.2,99.6,1006,206.245.131.160,1,fr,Île-de-France,Paris,Europe/Paris,26383,Baxet Group Inc.,11,2026-07-09T13:39:53.205Z,2026-10-24T21:47:40.844Z
+http,202.133.88.173,80,http://202.133.88.173:80,elite,false,590,1058.5,97.9,98.1,992,202.133.88.173,1,fr,Île-de-France,Paris,Europe/Paris,212552,BitCommand LLC,19,2025-12-07T12:12:09.766Z,2026-10-24T21:47:00.963Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,466,1954,76.9,87.7,909,37.187.74.125,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,11,2025-09-05T00:24:28.901Z,2026-10-24T21:48:00.017Z
+http,163.172.53.142,80,http://163.172.53.142:80,elite,false,7367,5571.5,88.2,87.3,876,163.172.53.142,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,18,2025-09-06T06:34:26.456Z,2026-10-24T21:47:04.192Z
+http,51.75.206.209,80,http://51.75.206.209:80,elite,false,2429,2256.5,90.7,85.3,839,51.75.206.209,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,19,2025-09-10T19:35:12.669Z,2026-10-24T21:45:10.698Z
+http,163.172.167.48,80,http://163.172.167.48:80,elite,false,1689,939,74.6,75.7,773,163.172.167.48,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,19,2025-09-05T23:19:59.164Z,2026-10-24T21:45:02.006Z
+http,51.159.28.39,80,http://51.159.28.39:80,elite,false,451,504,84.4,74.4,698,51.159.28.39,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,11,2025-09-10T19:34:30.596Z,2026-10-24T21:46:26.113Z
+http,176.191.124.3,80,http://176.191.124.3:80,anonymous,false,3169,3134,68.5,74,773,176.191.124.3,1,fr,Auvergne-Rhône-Alpes,Grenoble,Europe/Paris,5410,Bouygues Telecom SA,11,2025-12-06T17:01:43.838Z,2026-10-24T21:47:21.062Z
+http,157.173.115.35,1081,http://157.173.115.35:1081,elite,true,7863,4621,71.5,74,707,157.173.115.35,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,22,2026-09-15T08:49:52.699Z,2026-10-24T21:47:07.965Z
+http,31.220.78.244,80,http://31.220.78.244:80,elite,false,1428,3447,70.4,68.5,696,31.220.78.244,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-09-10T21:05:05.683Z,2026-10-24T21:47:02.563Z
+http,213.199.53.16,8889,http://213.199.53.16:8889,elite,true,2827,2659.5,63,62.8,129,213.199.53.16,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,13,2026-10-23T21:30:05.894Z,2026-10-24T21:46:52.079Z
+http,207.180.254.198,8080,http://207.180.254.198:8080,elite,false,8422,6102,56,59.1,665,207.180.254.198,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-11-06T15:39:17.050Z,2026-10-24T21:45:47.399Z
+http,37.187.109.70,10111,http://37.187.109.70:10111,transparent,true,9090,3499.5,61.2,43.5,526,37.187.109.70,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,25,2025-09-10T19:34:44.841Z,2026-10-24T21:44:27.703Z
+http,51.254.132.238,90,http://51.254.132.238:90,elite,false,5251,5016,45.2,37.6,519,51.254.132.238,1,fr,Hauts-de-France,Dunkirk,Europe/Paris,16276,OVH SAS,20,2025-09-10T21:05:10.078Z,2026-10-24T21:44:12.691Z

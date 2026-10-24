@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "82.132.19.108",
+    "port": 4153,
+    "url": "socks4://82.132.19.108:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3714,
+    "latency_median_ms": 692,
+    "uptime_24h": 54.3,
+    "uptime_7d": 60.4,
+    "checks_7d": 707,
+    "exit_ip": "82.132.19.108",
+    "exit_shared": 1,
+    "country": "hr",
+    "region": "Krapina-Zagorje",
+    "city": "Oroslavje",
+    "timezone": "Europe/Zagreb",
+    "asn": 2108,
+    "asn_org": "Croatian Academic and Research Network",
+    "sources_count": 11,
+    "first_seen": "2025-09-04T23:01:27.495Z",
+    "last_checked": "2026-10-24T21:44:06.770Z"
+  }
+]

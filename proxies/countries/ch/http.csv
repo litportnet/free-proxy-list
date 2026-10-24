@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,734,1017,92,89.7,908,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-24T21:46:29.326Z
+http,18.163.182.106,8091,http://18.163.182.106:8091,elite,false,5242,1358,73.5,77,291,94.230.208.147,1,ch,Zurich,Zürich,Europe/Zurich,29691,Nine Internet Solutions AG,7,2026-09-05T11:59:56.190Z,2026-10-24T21:43:11.965Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,3166,2973,68.3,74.5,737,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-24T21:41:35.163Z

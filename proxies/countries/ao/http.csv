@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,105.174.43.194,8080,http://105.174.43.194:8080,transparent,true,3901,5780,12.3,18.6,318,105.174.43.194,1,ao,Bengo,Calumbo,Africa/Luanda,37119,UNITEL SA,23,2025-09-05T20:06:32.637Z,2026-10-24T21:40:00.426Z

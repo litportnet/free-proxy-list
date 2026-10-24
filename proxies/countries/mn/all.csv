@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,202.179.2.250,8080,http://202.179.2.250:8080,transparent,false,3224,4536.5,32.4,29.3,525,202.179.2.250,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9934,Mongolia Telecom,13,2025-09-05T20:06:32.203Z,2026-10-24T21:40:31.736Z

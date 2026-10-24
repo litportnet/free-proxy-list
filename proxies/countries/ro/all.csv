@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,80.96.232.14,8085,http://80.96.232.14:8085,transparent,false,625,601.5,92.4,92.4,66,80.96.232.14,1,ro,Brăila County,Brăila,Europe/Bucharest,12302,Vodafone Romania S.A.,2,2026-02-26T04:14:57.090Z,2026-10-24T21:41:08.255Z
+socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,1740,1745,71.1,76.2,824,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-24T21:49:33.109Z
+socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,false,1069,2732.5,53.9,50.4,631,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,13,2025-09-04T23:48:59.822Z,2026-10-24T21:41:18.525Z
+http,92.86.207.198,8080,http://92.86.207.198:8080,transparent,false,5240,5279.5,37.7,31.3,441,92.86.207.198,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,9050,Orange Romania S.A.,25,2025-09-05T20:06:33.735Z,2026-10-24T21:44:37.307Z

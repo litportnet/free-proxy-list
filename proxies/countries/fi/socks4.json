@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "103.71.23.31",
+    "port": 1080,
+    "url": "socks4://103.71.23.31:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1404,
+    "latency_median_ms": 1668,
+    "uptime_24h": 95.8,
+    "uptime_7d": 74.9,
+    "checks_7d": 431,
+    "exit_ip": "103.71.23.31",
+    "exit_shared": 2,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 207569,
+    "asn_org": "IHOR HOSTING LTD",
+    "sources_count": 12,
+    "first_seen": "2026-10-21T13:00:14.805Z",
+    "last_checked": "2026-10-24T21:48:30.920Z"
+  }
+]

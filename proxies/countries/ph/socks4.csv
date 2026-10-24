@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,119.93.82.236,1080,socks4://119.93.82.236:1080,elite,true,4323,2270.5,72.5,75.4,808,119.93.82.236,1,ph,Calabarzon,San Pascual,Asia/Manila,9299,Philippine Long Distance Telephone Company,16,2026-10-04T05:21:46.477Z,2026-10-24T21:41:43.220Z
+socks4,161.49.100.131,1080,socks4://161.49.100.131:1080,elite,false,2172,1656.5,55.8,61.6,724,161.49.100.131,1,ph,Calabarzon,Polillo,Asia/Manila,17639,Converge ICT Solutions Inc.,15,2025-09-04T23:49:11.913Z,2026-10-24T21:41:54.029Z
+socks4,124.105.40.93,1080,socks4://124.105.40.93:1080,elite,true,4322,1272.5,66.4,60.5,726,124.105.40.93,1,ph,Eastern Visayas,Cabucgayan,Asia/Manila,9299,Philippine Long Distance Telephone Company,13,2026-07-23T16:38:33.871Z,2026-10-24T21:41:01.791Z

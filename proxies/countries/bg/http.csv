@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,257,253.5,100,100,563,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-24T21:46:44.369Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,284,261,100,100,556,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-24T21:44:39.995Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,261,258.5,100,99.9,939,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-24T21:49:22.231Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,266,262,100,99.8,852,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-24T21:40:52.134Z
+http,89.167.124.218,8888,http://89.167.124.218:8888,transparent,true,754,856,98.6,98.6,145,217.138.221.130,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,9,2026-07-10T04:49:32.675Z,2026-10-24T21:48:03.808Z

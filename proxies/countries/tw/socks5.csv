@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,116.118.147.196,1080,socks5://116.118.147.196:1080,elite,true,1224,1286.5,28.4,17.5,217,116.118.147.196,1,tw,Taiwan,Taichung,Asia/Taipei,18049,Taiwan Infrastructure Network Technologie,18,2026-09-12T02:56:43.722Z,2026-10-24T21:49:19.012Z

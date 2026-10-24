@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,5229,1202,100,95.4,953,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-24T21:44:45.368Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,565,574.5,94.3,94.9,969,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-24T21:46:08.378Z
+http,62.238.125.255,40001,http://62.238.125.255:40001,elite,false,619,2466.5,51.5,51.5,66,104.28.222.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",12,2026-10-24T08:35:59.011Z,2026-10-24T21:41:29.232Z
+http,65.108.159.129,8081,http://65.108.159.129:8081,unknown,true,546,559.5,11.1,12.1,199,65.108.159.129,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,19,2025-09-06T16:40:16.585Z,2026-10-24T21:40:33.327Z

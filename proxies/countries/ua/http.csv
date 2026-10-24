@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.226.213.251,8888,http://195.226.213.251:8888,transparent,false,5657,4493.5,49.6,52.7,687,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,17,2026-08-07T01:44:07.721Z,2026-10-24T21:42:35.097Z
+http,81.162.60.120,8080,http://81.162.60.120:8080,transparent,false,1857,4041.5,53.1,47.3,55,81.162.60.120,1,ua,Crimea,Kerch,Europe/Simferopol,42238,Bospor-Telecom LLC,11,2025-11-06T14:38:47.788Z,2026-10-24T21:41:30.858Z
+http,5.58.7.214,8080,http://5.58.7.214:8080,transparent,true,2967,5140.5,39,38.5,559,5.58.7.214,1,ua,Ternopil,Ternopil,Europe/Kyiv,16223,"MAXNET TELECOM, LTD",13,2025-11-25T12:54:20.042Z,2026-10-24T21:44:36.234Z
+http,134.249.185.223,41890,http://134.249.185.223:41890,transparent,false,6451,6807,16,19.9,342,134.249.185.223,1,ua,Zhytomyr Oblast,Berdychiv,Europe/Kyiv,15895,Kyivstar PJSC,22,2025-09-26T19:03:43.611Z,2026-10-24T21:44:13.229Z
+http,195.66.197.169,39724,http://195.66.197.169:39724,elite,false,7497,2278.5,27.5,18.6,242,195.66.197.169,1,ua,Odesa,Odesa,Europe/Kyiv,8192,"LIMITED LIABILITY COMPANY ""INFOLINK""",14,2026-05-18T15:42:54.074Z,2026-10-24T21:48:46.645Z

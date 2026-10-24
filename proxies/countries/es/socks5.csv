@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,193.218.118.128,1080,socks5://193.218.118.128:1080,elite,true,1180,948.5,91.9,87.5,367,93.115.205.65,1,es,Murcia,Murcia,Europe/Madrid,29119,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,11,2026-10-22T04:08:14.303Z,2026-10-24T21:47:44.163Z

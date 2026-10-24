@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,148.230.27.77,999,http://148.230.27.77:999,transparent,true,4012,4125,22.8,33.6,482,148.230.27.73,1,gt,Guatemala,Guatemala City,America/Guatemala,23243,COMCEL GUATEMALA S.A.,16,2026-04-07T13:49:48.793Z,2026-10-24T21:44:03.496Z

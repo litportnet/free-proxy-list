@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,4719,4391.5,94.2,92,919,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,14,2026-09-12T09:12:25.731Z,2026-10-24T21:44:28.786Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,9751,5509,80,77.2,802,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-10-24T21:47:51.326Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,110,1144.5,71.5,70.1,785,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-24T21:41:27.638Z
+socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,true,1232,1233,54.1,56.2,671,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-10-24T21:45:15.562Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,1364,3384.5,52.1,50.5,656,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-24T21:47:14.017Z

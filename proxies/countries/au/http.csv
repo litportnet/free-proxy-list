@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.30.211.34,80,http://103.30.211.34:80,elite,false,978,772,98.6,90.5,821,103.30.211.34,1,au,New South Wales,Sydney,Australia/Sydney,202422,G-Core Labs S.A.,11,2025-12-06T20:03:19.878Z,2026-10-24T21:40:35.446Z
+http,103.199.83.239,8080,http://103.199.83.239:8080,transparent,false,8608,4188,52.9,55.6,277,103.199.83.239,1,au,Victoria,Sale,Australia/Melbourne,140051,Gippsland Wifi Pty Ltd,22,2026-09-16T03:18:00.803Z,2026-10-24T21:41:41.607Z
+http,159.196.182.72,8080,http://159.196.182.72:8080,transparent,false,2396,3632,21.7,19.8,242,159.196.182.72,1,au,Victoria,Melbourne,Australia/Melbourne,4764,Aussie Fibre Pty Ltd,24,2026-05-20T21:13:51.533Z,2026-10-24T21:40:03.680Z

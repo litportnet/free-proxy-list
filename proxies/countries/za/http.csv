@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.78.38.197,8005,http://41.78.38.197:8005,transparent,false,4960,5420,28.9,23,405,41.78.36.250,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37157,Benwest Internet Services ta Imagine IPS,24,2026-08-06T07:33:48.856Z,2026-10-24T21:40:20.435Z

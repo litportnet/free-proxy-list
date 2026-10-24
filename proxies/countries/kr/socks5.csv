@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1129,1123.5,100,98.9,986,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-24T21:45:41.435Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,false,5270,3862.5,83.6,81.3,840,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-24T21:44:08.349Z
+socks5,144.24.94.153,1080,socks5://144.24.94.153:1080,elite,true,1176,1184,100,29.2,96,144.24.94.153,2,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,13,2026-10-05T18:41:22.193Z,2026-10-24T21:46:52.105Z
+socks5,59.6.108.215,1080,socks5://59.6.108.215:1080,elite,false,1326,1199.5,10,25.5,388,59.6.108.215,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,14,2026-09-21T00:00:23.210Z,2026-10-24T21:49:22.772Z
+socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,937,1210,82.6,25.3,75,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-09-24T19:29:29.857Z,2026-10-24T21:41:51.316Z

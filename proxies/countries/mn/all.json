@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "202.179.2.250",
+    "port": 8080,
+    "url": "http://202.179.2.250:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3224,
+    "latency_median_ms": 4536.5,
+    "uptime_24h": 32.4,
+    "uptime_7d": 29.3,
+    "checks_7d": 525,
+    "exit_ip": "202.179.2.250",
+    "exit_shared": 1,
+    "country": "mn",
+    "region": "Ulaanbaatar",
+    "city": "Ulan Bator",
+    "timezone": "Asia/Ulaanbaatar",
+    "asn": 9934,
+    "asn_org": "Mongolia Telecom",
+    "sources_count": 13,
+    "first_seen": "2025-09-05T20:06:32.203Z",
+    "last_checked": "2026-10-24T21:40:31.736Z"
+  }
+]

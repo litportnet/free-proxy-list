@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.79.183.158,1080,socks4://103.79.183.158:1080,elite,true,1312,2313,72.2,61.5,702,103.79.183.158,1,bd,Khulna Division,Khulna,Asia/Dhaka,136009,SpeedNet,13,2026-08-12T08:51:47.724Z,2026-10-24T21:43:01.757Z
+socks4,27.147.161.10,1080,socks4://27.147.161.10:1080,elite,true,2380,2384.5,54.6,56.9,694,27.147.161.10,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,16,2026-08-28T00:27:10.156Z,2026-10-24T21:43:45.875Z
+socks4,103.155.42.38,1080,socks4://103.155.42.38:1080,elite,false,2300,3304,45.1,52.9,652,103.155.42.38,1,bd,Chittagong,Comilla,Asia/Dhaka,141038,Chauddagram Broadband,14,2026-07-05T06:43:06.275Z,2026-10-24T21:47:16.199Z
+socks4,121.200.60.122,4153,socks4://121.200.60.122:4153,elite,false,1292,1803.5,46.6,48.7,629,121.200.60.122,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,55828,Drik ICT Ltd,13,2025-09-04T23:49:06.175Z,2026-10-24T21:48:39.602Z
+socks4,103.216.57.43,1080,socks4://103.216.57.43:1080,elite,false,1373,2413.5,21.3,19.1,424,103.216.58.115,1,bd,Dhaka Division,Gazipur,Asia/Dhaka,45766,Triangle Services Limited.,6,2025-09-05T20:06:32.479Z,2026-10-24T21:43:43.178Z

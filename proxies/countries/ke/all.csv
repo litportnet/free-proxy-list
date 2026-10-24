@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.207.191.161,8081,http://102.207.191.161:8081,transparent,true,4048,3534,45.4,51,155,102.207.191.161,1,ke,Nairobi County,Nairobi,Africa/Nairobi,329497,Avitech Solutions LTD,25,2026-09-17T03:30:44.651Z,2026-10-24T21:48:50.962Z
+http,102.68.76.247,5566,http://102.68.76.247:5566,transparent,false,2155,2595.5,40.5,50.1,633,102.211.147.69,1,ke,Nairobi County,Nairobi,Africa/Nairobi,328490,Unwired Communications Limited,25,2026-08-12T03:48:56.642Z,2026-10-24T21:48:45.033Z
+http,102.0.14.38,8080,http://102.0.14.38:8080,transparent,false,4343,5011.5,16.7,26.2,413,102.0.14.38,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,24,2025-09-11T01:36:37.333Z,2026-10-24T21:41:47.575Z
+http,102.0.21.148,8080,http://102.0.21.148:8080,transparent,false,8513,3516,17.1,24.4,434,102.0.21.148,1,ke,Nakuru County,Kijabe,Africa/Nairobi,36926,Airtel Networks Kenya Limited,21,2026-04-08T19:06:12.592Z,2026-10-24T21:44:25.009Z

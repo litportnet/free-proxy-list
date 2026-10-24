@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.40,4053,socks5://45.74.31.40:4053,elite,true,9603,7378.5,34.9,17.6,148,135.236.141.8,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,14,2026-10-02T04:56:15.859Z,2026-10-24T21:45:13.927Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "116.118.147.196",
+    "port": 1080,
+    "url": "socks5://116.118.147.196:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1224,
+    "latency_median_ms": 1286.5,
+    "uptime_24h": 28.4,
+    "uptime_7d": 17.5,
+    "checks_7d": 217,
+    "exit_ip": "116.118.147.196",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taichung",
+    "timezone": "Asia/Taipei",
+    "asn": 18049,
+    "asn_org": "Taiwan Infrastructure Network Technologie",
+    "sources_count": 18,
+    "first_seen": "2026-09-12T02:56:43.722Z",
+    "last_checked": "2026-10-24T21:49:19.012Z"
+  }
+]

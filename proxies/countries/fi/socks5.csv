@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.71.23.31,1080,socks5://103.71.23.31:1080,elite,true,1435,2620,92.9,74.9,422,103.71.23.31,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,13,2026-10-21T13:00:15.195Z,2026-10-24T21:45:14.459Z
+socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,3301,3347,65.5,46.9,522,37.143.129.152,1,fi,Uusimaa,Helsinki,Europe/Helsinki,136258,"BrainStorm Network, Inc",19,2026-09-16T03:18:05.440Z,2026-10-24T21:41:40.022Z
+socks5,31.76.58.136,1080,socks5://31.76.58.136:1080,elite,false,3554,3694.5,33,44.6,626,31.76.58.136,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210546,CHSL ONE LTD,15,2026-10-13T02:13:36.874Z,2026-10-24T21:49:08.164Z
+socks5,89.22.238.229,11080,socks5://89.22.238.229:11080,elite,true,1530,1538.5,100,,19,89.22.238.229,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,12,2026-10-24T18:41:14.497Z,2026-10-24T21:43:27.014Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "93.184.7.73",
+    "port": 1080,
+    "url": "socks4://93.184.7.73:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1805,
+    "latency_median_ms": 1796,
+    "uptime_24h": 26.2,
+    "uptime_7d": 31.9,
+    "checks_7d": 508,
+    "exit_ip": "93.184.7.26",
+    "exit_shared": 1,
+    "country": "ps",
+    "region": "West Bank",
+    "city": "Janīn",
+    "timezone": "Asia/Hebron",
+    "asn": 47253,
+    "asn_org": "BCI Telecommunication & Advanced Technology Company",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:59.794Z",
+    "last_checked": "2026-10-24T21:42:50.783Z"
+  }
+]

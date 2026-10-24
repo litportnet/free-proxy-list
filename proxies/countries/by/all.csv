@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,86.57.178.182,4153,socks4://86.57.178.182:4153,elite,false,3763,1334.5,36,39.9,541,86.57.178.182,1,by,Grodnenskaya,Hrodna,Europe/Minsk,6697,Republican Unitary Telecommunication Enterprise Beltelecom,21,2026-07-08T02:19:07.490Z,2026-10-24T21:45:50.600Z
+http,178.124.195.80,8080,http://178.124.195.80:8080,transparent,false,4443,4152,32.1,34.1,548,178.124.195.80,1,by,Brest,Pinsk,Europe/Minsk,6697,Republican Unitary Telecommunication Enterprise Beltelecom,19,2026-09-26T19:55:01.435Z,2026-10-24T21:42:32.446Z

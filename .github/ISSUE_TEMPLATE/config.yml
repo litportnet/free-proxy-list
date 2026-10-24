@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Free proxy list on litport.net
+    url: https://litport.net/free-proxy
+    about: Browse, filter and sort the same data on the web.
+  - name: Live API docs
+    url: https://litport.net/docs/free-proxy-api
+    about: Query the list programmatically, no API key required.

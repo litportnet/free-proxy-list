@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,498,485.5,95.8,95.3,929,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-24T21:48:51.513Z
+socks5,193.218.118.128,1080,socks5://193.218.118.128:1080,elite,true,1180,948.5,91.9,87.5,367,93.115.205.65,1,es,Murcia,Murcia,Europe/Madrid,29119,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,11,2026-10-22T04:08:14.303Z,2026-10-24T21:47:44.163Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,true,8486,3568.5,30.2,36.7,540,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-10-24T21:44:04.568Z
+socks4,185.130.219.10,4153,socks4://185.130.219.10:4153,elite,false,1643,1661,48.7,35.9,554,185.130.219.10,2,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,13,2025-09-04T23:49:12.078Z,2026-10-24T21:49:13.073Z
+socks4,185.130.219.11,4153,socks4://185.130.219.11:4153,elite,false,1646,2652.5,41.2,33.7,537,185.130.219.10,2,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,12,2025-09-05T20:06:26.508Z,2026-10-24T21:45:52.733Z
+http,45.13.185.217,3128,http://45.13.185.217:3128,transparent,true,2598,5250,21.4,32.6,172,45.13.185.217,1,es,Madrid,Madrid,Europe/Madrid,201446,Soluciones web on line s.l.,13,2026-04-12T14:54:58.724Z,2026-10-24T21:47:32.693Z
+http,85.85.187.31,8080,http://85.85.187.31:8080,transparent,false,5078,4429.5,21.1,24.9,346,85.85.187.31,1,es,Catalonia,Barcelona,Europe/Madrid,15704,XTRA TELECOM S.A.,22,2026-08-30T00:53:57.034Z,2026-10-24T21:44:33.034Z

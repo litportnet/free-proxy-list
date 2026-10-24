@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1110,1233.5,50,47.3,592,31.58.214.137,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-10-24T21:45:24.799Z
+socks5,143.198.239.45,10048,socks5://143.198.239.45:10048,elite,true,1291,2168,40.4,45.3,627,178.79.154.219,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,2,2026-10-13T04:14:40.332Z,2026-10-24T21:49:45.587Z
+socks5,45.74.31.46,4635,socks5://45.74.31.46:4635,elite,true,6280,4877,51,35.4,311,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",13,2026-10-02T04:56:15.859Z,2026-10-24T21:49:05.485Z
+socks5,45.74.31.46,5244,socks5://45.74.31.46:5244,elite,false,7566,3583.5,21.4,35.3,204,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",11,2026-10-21T03:55:30.044Z,2026-10-24T21:40:41.972Z
+socks5,45.74.31.46,4601,socks5://45.74.31.46:4601,elite,false,773,3566.5,48.5,33.6,235,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",11,2026-10-18T11:21:30.088Z,2026-10-24T21:47:17.812Z
+socks5,45.74.31.46,4039,socks5://45.74.31.46:4039,elite,true,5808,4974,52.9,31.3,233,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",13,2026-10-16T04:52:48.868Z,2026-10-24T21:49:13.069Z
+socks5,45.74.31.46,4275,socks5://45.74.31.46:4275,elite,false,2568,3622.5,36.5,24,204,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",13,2026-10-11T22:59:13.808Z,2026-10-24T21:43:27.547Z
+socks5,45.74.31.46,9648,socks5://45.74.31.46:9648,elite,true,1853,2763,9.1,21.1,175,91.204.209.37,1,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,11,2026-10-17T15:10:51.903Z,2026-10-24T21:43:23.856Z
+socks5,45.74.31.46,4941,socks5://45.74.31.46:4941,elite,false,7658,4950,50,13.9,72,138.68.158.60,6,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",13,2026-10-11T02:48:37.470Z,2026-10-24T21:44:19.091Z
