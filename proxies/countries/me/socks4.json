@@ -5,12 +5,12 @@
     "port": 48293,
     "url": "socks4://109.72.100.113:48293",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 9579,
-    "latency_median_ms": 2907,
-    "uptime_24h": 70.5,
-    "uptime_7d": 65.3,
-    "checks_7d": 700,
+    "https": true,
+    "latency_ms": 1741,
+    "latency_median_ms": 1443.5,
+    "uptime_24h": 74,
+    "uptime_7d": 68.8,
+    "checks_7d": 735,
     "exit_ip": "109.72.100.113",
     "exit_shared": 1,
     "country": "me",
@@ -21,6 +21,6 @@
     "asn_org": "Drustvo za telekomunikacije MTEL DOO",
     "sources_count": 17,
     "first_seen": "2025-12-14T12:16:49.089Z",
-    "last_checked": "2026-10-23T04:28:26.415Z"
+    "last_checked": "2026-10-24T04:29:56.075Z"
   }
 ]

@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,207.180.212.59,1080,socks4://207.180.212.59:1080,elite,true,1984,1312,100,100,104,207.180.212.59,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,10,2026-10-22T11:11:57.500Z,2026-10-23T04:26:00.313Z
-socks4,130.93.99.225,7080,socks4://130.93.99.225:7080,elite,true,914,571,93.7,93.9,409,130.93.99.225,2,fr,Grand Est,Saint-Martin-sur-le-Pré,Europe/Paris,25540,Alphalink SASU,10,2026-10-17T01:03:23.992Z,2026-10-23T04:23:24.465Z
-socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,true,1654,4388,75.4,74.2,465,157.173.115.35,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T10:50:54.475Z,2026-10-23T04:28:20.058Z
+socks4,207.180.212.59,1080,socks4://207.180.212.59:1080,elite,true,2307,2466.5,98.6,99.2,246,207.180.212.59,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,11,2026-10-22T11:11:57.500Z,2026-10-24T04:33:00.229Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,true,1421,2229,90.4,80,585,157.173.115.35,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T10:50:54.475Z,2026-10-24T04:31:23.876Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,7777,571,39.8,50.5,632,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-24T04:29:41.304Z
+socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,835,906.5,43,47,604,51.254.44.49,1,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,21,2026-07-31T20:24:15.555Z,2026-10-24T04:29:18.616Z

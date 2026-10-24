@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,1129,1621,61.8,56.7,549,85.203.20.36,1,hr,Zagreb,Zagreb,Europe/Zagreb,212238,Datacamp Limited,18,2026-09-16T03:18:05.440Z,2026-10-24T04:25:39.847Z

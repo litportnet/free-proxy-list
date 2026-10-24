@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,2297,2028,100,100,1002,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-10-23T04:28:06.765Z
-socks4,81.162.123.152,10808,socks4://81.162.123.152:10808,elite,true,3002,2158,51,58.1,117,89.222.117.8,1,ae,Fujairah,Fujairah,Asia/Dubai,60068,Datacamp Limited,8,2026-10-22T01:06:49.891Z,2026-10-23T04:31:40.606Z
-http,89.36.162.217,3128,http://89.36.162.217:3128,elite,false,3709,4092.5,48.3,53.7,339,89.36.162.217,1,ae,Fujairah,Fujairah,Asia/Dubai,8849,Melbikomas UAB,13,2026-10-16T21:01:18.748Z,2026-10-23T04:27:43.922Z
-socks5,2.50.191.129,10800,socks5://2.50.191.129:10800,elite,true,9241,4957,51.6,47.7,172,2.50.191.129,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,13,2026-10-20T17:50:15.957Z,2026-10-23T04:24:19.797Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,872,898,100,100,1002,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-10-24T04:30:03.474Z

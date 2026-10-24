@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,2078,2705,55.1,51.8,575,37.140.254.81,1,ch,Zurich,Oberhausen-Böschenwiesen,Europe/Zurich,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T05:31:54.290Z,2026-10-23T04:21:59.443Z
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,1414,2636.5,52.9,56.3,620,45.148.4.2,1,ch,Zurich,Zürich,Europe/Zurich,42201,PVDataNet AB,19,2026-08-24T12:42:33.832Z,2026-10-24T04:32:58.104Z

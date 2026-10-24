@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.95.2.9,8080,http://77.95.2.9:8080,transparent,true,920,1065.5,96.8,96.8,95,77.95.2.9,1,tj,Dushanbe,Dushanbe,Asia/Dushanbe,43030,Tajik Academician Research and Educational Network Association,14,2026-10-23T12:25:19.094Z,2026-10-24T04:29:57.638Z

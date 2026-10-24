@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,true,550,589.5,63.5,70.2,336,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,9,2026-06-25T08:39:56.195Z,2026-10-23T04:31:28.853Z
-socks5,176.9.107.170,1081,socks5://176.9.107.170:1081,elite,true,662,1054,63.1,61.5,345,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,20,2026-06-25T09:36:53.359Z,2026-10-23T04:26:24.884Z
+socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,true,1619,573.5,59,67.7,436,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,9,2026-06-25T08:39:56.195Z,2026-10-24T04:31:29.643Z
+socks5,176.9.107.170,1081,socks5://176.9.107.170:1081,elite,true,729,695.5,61.9,64,433,217.9.244.86,2,mk,Grad Skopje,Skopje,Europe/Skopje,209854,Cyberzone S.A.,20,2026-06-25T09:36:53.359Z,2026-10-24T04:29:48.175Z
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,2560,3263.5,59.4,50.2,514,185.233.210.83,1,mk,Grad Skopje,Skopje,Europe/Skopje,205119,TELEKS DOOEL Skopje,17,2026-09-22T16:21:33.920Z,2026-10-24T04:32:36.377Z

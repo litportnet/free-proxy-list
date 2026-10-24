@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "185.157.111.3",
+    "port": 5678,
+    "url": "socks4://185.157.111.3:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 659,
+    "latency_median_ms": 1196,
+    "uptime_24h": 84.1,
+    "uptime_7d": 79.2,
+    "checks_7d": 677,
+    "exit_ip": "185.157.111.3",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "asn": 202652,
+    "asn_org": "Elevi AS",
+    "sources_count": 22,
+    "first_seen": "2026-07-04T17:38:40.433Z",
+    "last_checked": "2026-10-24T04:26:52.473Z"
+  }
+]

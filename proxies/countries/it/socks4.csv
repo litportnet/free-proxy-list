@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,7735,1278,52.9,43.6,468,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-23T04:27:04.259Z
-socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,1013,2457.5,49.6,39.4,525,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-23T04:31:17.683Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,936,595.5,37.9,39.2,510,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-23T04:28:07.282Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,8130,2699.5,52.3,47.5,541,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-24T04:28:00.512Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,true,1992,2794.5,43.5,39.5,522,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-24T04:23:47.042Z
+socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1707,1706.5,23.5,12.6,190,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-10-24T04:29:37.577Z

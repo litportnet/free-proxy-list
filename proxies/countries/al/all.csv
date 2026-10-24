@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,80.78.74.8,65530,socks4://80.78.74.8:65530,elite,false,685,695.5,55.9,53.1,620,80.78.74.8,1,al,Durrës County,Nikël,Europe/Tirane,21183,Vodafone Albania Sh.A.,21,2025-09-05T20:06:23.438Z,2026-10-23T04:23:11.929Z
-socks4,80.78.74.66,65530,socks4://80.78.74.66:65530,elite,false,688,3815,43.4,43.8,560,80.78.74.66,1,al,Tirana,Tirana,Europe/Tirane,21183,Vodafone Albania Sh.A.,13,2025-09-05T20:06:32.078Z,2026-10-23T04:23:06.610Z
-http,79.106.108.147,8079,http://79.106.108.147:8079,transparent,false,2845,3553.5,26.2,23.8,290,79.106.108.146,1,al,Gjirokastër County,Tepelenë,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2025-09-19T22:59:58.751Z,2026-10-23T04:31:12.861Z
+http,185.196.182.29,8080,http://185.196.182.29:8080,transparent,false,2892,3995.5,46.2,34.5,519,185.196.182.22,2,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,19,2026-10-01T11:53:48.940Z,2026-10-24T04:31:17.502Z
+http,185.196.182.22,8080,http://185.196.182.22:8080,transparent,true,4725,2894,39.3,33.6,506,185.196.182.22,2,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,26,2026-03-03T22:27:34.847Z,2026-10-24T04:28:39.501Z
+http,79.106.108.147,8079,http://79.106.108.147:8079,transparent,false,2781,2859.5,22.2,24.4,344,79.106.108.146,1,al,Gjirokastër County,Tepelenë,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2025-09-19T22:59:58.751Z,2026-10-24T04:32:12.560Z

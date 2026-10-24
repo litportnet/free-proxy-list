@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,3442,1965,93.5,97.3,978,185.247.224.89,1,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,21,2026-07-02T02:04:25.816Z,2026-10-23T04:27:39.087Z

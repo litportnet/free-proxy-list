@@ -6,8 +6,8 @@
     "url": "http://47.91.104.88:3128",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2297,
-    "latency_median_ms": 2028,
+    "latency_ms": 872,
+    "latency_median_ms": 898,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1002,
@@ -21,30 +21,6 @@
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
     "sources_count": 20,
     "first_seen": "2025-09-07T07:15:56.592Z",
-    "last_checked": "2026-10-23T04:28:06.765Z"
-  },
-  {
-    "protocol": "http",
-    "ip": "89.36.162.217",
-    "port": 3128,
-    "url": "http://89.36.162.217:3128",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3709,
-    "latency_median_ms": 4092.5,
-    "uptime_24h": 48.3,
-    "uptime_7d": 53.7,
-    "checks_7d": 339,
-    "exit_ip": "89.36.162.217",
-    "exit_shared": 1,
-    "country": "ae",
-    "region": "Fujairah",
-    "city": "Fujairah",
-    "timezone": "Asia/Dubai",
-    "asn": 8849,
-    "asn_org": "Melbikomas UAB",
-    "sources_count": 13,
-    "first_seen": "2026-10-16T21:01:18.748Z",
-    "last_checked": "2026-10-23T04:27:43.922Z"
+    "last_checked": "2026-10-24T04:30:03.474Z"
   }
 ]

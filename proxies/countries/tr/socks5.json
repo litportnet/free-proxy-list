@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "155.103.69.127",
+    "port": 1314,
+    "url": "socks5://155.103.69.127:1314",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2143,
+    "latency_median_ms": 886,
+    "uptime_24h": 75.7,
+    "uptime_7d": 25.8,
+    "checks_7d": 357,
+    "exit_ip": "155.103.69.127",
+    "exit_shared": 3,
+    "country": "tr",
+    "region": "Istanbul",
+    "city": "Maltepe",
+    "timezone": "Europe/Istanbul",
+    "asn": 44382,
+    "asn_org": "Fiba Cloud Operation Company, LLC",
+    "sources_count": 17,
+    "first_seen": "2026-10-07T20:07:22.007Z",
+    "last_checked": "2026-10-24T04:30:59.414Z"
+  }
+]

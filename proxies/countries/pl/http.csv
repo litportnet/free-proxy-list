@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,78.9.234.55,8080,http://78.9.234.55:8080,transparent,true,2616,2646.5,18.2,14.8,216,78.9.234.55,1,pl,West Pomerania,Świnoujście,Europe/Warsaw,12741,Netia SA,25,2025-09-05T20:06:36.697Z,2026-10-23T04:27:01.104Z
+http,185.32.4.210,8070,http://185.32.4.210:8070,transparent,false,4301,3866.5,13,22.8,312,212.127.88.213,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,26,2026-09-09T21:28:51.484Z,2026-10-24T04:26:57.196Z

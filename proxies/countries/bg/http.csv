@@ -1,6 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,238,252,100,100,308,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-23T04:22:53.856Z
-http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,247,251.5,100,100,315,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-23T04:31:44.898Z
-http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,252,255,100,99.8,605,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-23T04:28:31.701Z
-http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,262,258.5,100,99.6,694,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-23T04:30:42.115Z
-http,85.187.224.21,8080,http://85.187.224.21:8080,transparent,false,9565,5002,24.7,20.7,310,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,22,2025-09-05T20:05:36.749Z,2026-10-23T04:23:33.442Z
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,247,256,100,100,459,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-24T04:32:37.436Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,257,259,100,100,452,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-24T04:28:09.995Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,252,258,100,99.8,836,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-24T04:26:15.081Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,248,255.5,99.3,99.7,749,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-24T04:28:37.388Z
+http,82.137.90.192,80,http://82.137.90.192:80,elite,false,7448,5395.5,33.7,33.3,471,82.137.90.192,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,6,2025-09-09T02:11:19.746Z,2026-10-24T04:28:58.007Z
+http,85.187.224.21,8080,http://85.187.224.21:8080,transparent,true,4236,4206.5,28.6,22.7,379,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,22,2025-09-05T20:05:36.749Z,2026-10-24T04:30:18.275Z
+http,89.167.124.218,8888,http://89.167.124.218:8888,transparent,true,728,747,100,,43,217.138.221.130,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,7,2026-07-10T04:49:32.675Z,2026-10-24T04:33:43.775Z

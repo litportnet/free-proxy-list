@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.40,4476,socks5://45.74.31.40:4476,elite,false,8701,6478,21.1,11.2,98,185.156.42.119,2,ua,Kyiv City,Kyiv,Europe/Kyiv,196645,HOSTPRO LAB LLC,13,2026-10-09T04:24:14.103Z,2026-10-23T04:30:27.740Z
-socks5,45.74.31.42,8644,socks5://45.74.31.42:8644,elite,true,1909,5615,21.2,8.8,91,185.156.42.119,2,ua,Kyiv City,Kyiv,Europe/Kyiv,196645,HOSTPRO LAB LLC,13,2026-09-01T09:24:21.207Z,2026-10-23T04:32:29.666Z
+socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,false,809,1317,53.9,47.2,583,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-24T04:32:18.911Z
+socks5,178.214.201.74,7080,socks5://178.214.201.74:7080,elite,true,8152,1882,29.4,17.4,230,178.214.201.74,1,ua,Kyiv City,Kyiv,Europe/Kyiv,41985,Stargroup LLC,19,2026-07-01T09:54:43.706Z,2026-10-24T04:28:41.074Z
+socks5,212.115.235.223,1080,socks5://212.115.235.223:1080,elite,true,974,1544.5,9.8,11,209,212.115.235.223,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,15377,TRADITIONAL LLC,11,2026-06-08T21:08:18.919Z,2026-10-24T04:31:09.509Z

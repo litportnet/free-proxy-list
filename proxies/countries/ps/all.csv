@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,798,817.5,46.3,54.7,642,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-10-23T04:23:46.095Z
-http,82.213.29.53,19000,http://82.213.29.53:19000,transparent,true,1467,4283.5,27.3,39.4,538,213.6.68.29,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2026-09-08T19:42:55.825Z,2026-10-23T04:27:23.274Z
-socks4,93.184.7.26,1080,socks4://93.184.7.26:1080,elite,true,796,2805,32.6,30.8,464,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,15,2025-09-04T23:48:57.645Z,2026-10-23T04:29:57.420Z

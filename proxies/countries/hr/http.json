@@ -5,12 +5,12 @@
     "port": 8080,
     "url": "http://161.53.43.203:8080",
     "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 1151,
-    "latency_median_ms": 5145,
-    "uptime_24h": 20.3,
-    "uptime_7d": 28.1,
-    "checks_7d": 370,
+    "https": true,
+    "latency_ms": 8965,
+    "latency_median_ms": 3913,
+    "uptime_24h": 30.9,
+    "uptime_7d": 29,
+    "checks_7d": 442,
     "exit_ip": "161.53.43.203",
     "exit_shared": 1,
     "country": "hr",
@@ -21,6 +21,6 @@
     "asn_org": "Croatian Academic and Research Network",
     "sources_count": 23,
     "first_seen": "2026-07-27T04:26:01.738Z",
-    "last_checked": "2026-10-23T04:29:55.800Z"
+    "last_checked": "2026-10-24T04:24:31.381Z"
   }
 ]

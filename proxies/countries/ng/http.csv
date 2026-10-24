@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,102.213.84.244,8080,http://102.213.84.244:8080,transparent,true,3555,4490,22.5,19.9,246,102.89.110.22,1,ng,Ogun State,Ado-Odo,Africa/Lagos,29465,MTN NIGERIA Communication limited,21,2026-09-03T18:41:47.333Z,2026-10-23T04:29:14.197Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,898,895,74.2,74.7,754,41.184.92.218,1,ng,Lagos,Lagos,Africa/Lagos,29091,ipNX Nigeria Limited,11,2026-04-12T22:59:20.773Z,2026-10-24T04:27:07.294Z
+http,102.90.0.149,8080,http://102.90.0.149:8080,transparent,false,1059,4034.5,41.4,34.4,395,102.90.0.149,1,ng,Delta,Warri,Africa/Lagos,29465,MTN NIGERIA Communication limited,15,2026-09-03T05:48:46.627Z,2026-10-24T04:25:50.319Z

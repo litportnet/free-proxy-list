@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,43.160.229.63,1080,socks5://43.160.229.63:1080,elite,false,1477,1533,46.7,51.2,168,195.86.248.216,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,984,OCTOPUS WEB SOLUTION INC,11,2026-10-20T15:49:39.058Z,2026-10-23T04:24:39.866Z
-socks5,49.13.22.249,10813,socks5://49.13.22.249:10813,elite,true,1946,2392.5,23.3,47.4,449,45.120.203.7,1,my,Kuala Lumpur,Kuala Lumpur,Asia/Kuala_Lumpur,22363,"Powerhouse Management, Inc.",19,2026-09-16T03:18:05.440Z,2026-10-23T04:25:38.363Z

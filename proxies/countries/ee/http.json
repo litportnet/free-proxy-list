@@ -6,11 +6,11 @@
     "url": "http://5.45.126.128:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 553,
-    "latency_median_ms": 555,
-    "uptime_24h": 85.6,
-    "uptime_7d": 89.2,
-    "checks_7d": 905,
+    "latency_ms": 563,
+    "latency_median_ms": 573,
+    "uptime_24h": 94.3,
+    "uptime_7d": 91.2,
+    "checks_7d": 918,
     "exit_ip": "5.45.126.128",
     "exit_shared": 1,
     "country": "ee",
@@ -21,6 +21,6 @@
     "asn_org": "CLOUD.DOG OU",
     "sources_count": 19,
     "first_seen": "2025-09-10T19:34:46.751Z",
-    "last_checked": "2026-10-23T04:28:35.454Z"
+    "last_checked": "2026-10-24T04:28:45.812Z"
   }
 ]

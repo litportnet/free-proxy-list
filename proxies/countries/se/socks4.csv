@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,false,8458,3401.5,82.4,81,411,89.37.63.73,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,4,2026-07-13T12:28:32.242Z,2026-10-23T04:31:44.384Z
-socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,false,3671,634,47.5,55,666,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-23T04:29:29.138Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,4611,4316,78.7,80.5,538,89.37.63.73,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,4,2026-07-13T12:28:32.242Z,2026-10-24T04:33:21.504Z
+socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,7732,1801,33.3,43.5,527,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-10-24T04:27:42.088Z
+socks4,31.220.168.10,10808,socks4://31.220.168.10:10808,elite,true,2017,2970.5,75,,16,13.143.216.3,3,se,Stockholm,Stockholm,Europe/Stockholm,219302,SEALLY LTD,5,2026-10-24T01:32:08.429Z,2026-10-24T04:32:27.387Z

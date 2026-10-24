@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,121,132,92.2,96.4,971,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-23T04:31:17.680Z
-http,51.79.71.106,8080,http://51.79.71.106:8080,transparent,true,253,1741,9.5,15.5,155,51.79.71.106,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,21,2025-09-07T13:18:22.153Z,2026-10-23T04:32:21.121Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,113,117.5,94.2,95.8,966,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-24T04:27:14.619Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,4062,4692.5,55.3,68.6,665,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-24T04:27:59.975Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,1122,798,49.1,38.4,510,23.234.85.99,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",23,2026-09-12T17:16:29.342Z,2026-10-24T04:32:35.335Z
+http,173.180.22.3,8080,http://173.180.22.3:8080,transparent,false,3138,3104.5,30.1,29,456,173.180.22.3,1,ca,British Columbia,Vancouver,America/Vancouver,852,TELUS Communications Inc.,19,2026-10-12T17:08:47.120Z,2026-10-24T04:31:04.706Z

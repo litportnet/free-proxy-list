@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "85.117.61.74",
-    "port": 8080,
-    "url": "http://85.117.61.74:8080",
-    "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 3703,
-    "latency_median_ms": 2830.5,
-    "uptime_24h": 26.5,
-    "uptime_7d": 24.4,
-    "checks_7d": 320,
-    "exit_ip": "85.117.61.74",
-    "exit_shared": 1,
-    "country": "ge",
-    "region": "Tbilisi",
-    "city": "Tbilisi",
-    "timezone": "Asia/Tbilisi",
-    "asn": 20771,
-    "asn_org": "Caucasus Online Ltd.",
-    "sources_count": 15,
-    "first_seen": "2025-09-05T20:06:33.424Z",
-    "last_checked": "2026-10-23T04:25:57.689Z"
-  },
-  {
-    "protocol": "http",
     "ip": "94.43.164.242",
     "port": 8080,
     "url": "http://94.43.164.242:8080",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 2245,
-    "latency_median_ms": 3398.5,
-    "uptime_24h": 18,
-    "uptime_7d": 13.9,
-    "checks_7d": 295,
+    "latency_ms": 3413,
+    "latency_median_ms": 3628,
+    "uptime_24h": 30.1,
+    "uptime_7d": 18.5,
+    "checks_7d": 319,
     "exit_ip": "94.43.164.242",
     "exit_shared": 1,
     "country": "ge",
@@ -45,6 +21,6 @@
     "asn_org": "JSC Silknet",
     "sources_count": 25,
     "first_seen": "2025-09-10T22:03:43.249Z",
-    "last_checked": "2026-10-23T04:27:36.448Z"
+    "last_checked": "2026-10-24T04:30:13.017Z"
   }
 ]

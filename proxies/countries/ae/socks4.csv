@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.162.123.152,10808,socks4://81.162.123.152:10808,elite,true,3002,2158,51,58.1,117,89.222.117.8,1,ae,Fujairah,Fujairah,Asia/Dubai,60068,Datacamp Limited,8,2026-10-22T01:06:49.891Z,2026-10-23T04:31:40.606Z

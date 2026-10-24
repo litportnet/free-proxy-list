@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.71.22.231,1080,socks4://103.71.22.231:1080,elite,true,628,2241.5,71.9,72.6,412,103.71.22.231,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,3,2026-04-17T04:09:58.424Z,2026-10-23T04:31:26.741Z
-socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,1522,3099,47.4,53.2,218,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-08-02T11:44:29.944Z,2026-10-23T04:29:29.660Z
-socks4,103.71.23.31,1080,socks4://103.71.23.31:1080,elite,true,1804,766,46,45.2,186,103.71.23.31,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,10,2026-10-21T13:00:14.805Z,2026-10-23T04:29:59.552Z
-socks4,109.120.129.13,1081,socks4://109.120.129.13:1081,elite,true,6514,2357.5,100,,13,109.120.129.13,2,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,7,2026-10-23T02:19:55.367Z,2026-10-23T04:24:22.428Z
+socks4,103.71.23.31,1080,socks4://103.71.23.31:1080,elite,true,803,935.5,100,69,329,103.71.23.31,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,12,2026-10-21T13:00:14.805Z,2026-10-24T04:26:47.748Z
+socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,3190,1960,60.9,54.2,262,89.22.229.195,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-08-02T11:44:29.944Z,2026-10-24T04:32:14.686Z
+socks4,95.81.126.73,1080,socks4://95.81.126.73:1080,elite,false,1484,4763,30.8,26.9,432,95.81.126.73,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,10,2026-05-19T22:05:31.688Z,2026-10-24T04:29:22.797Z

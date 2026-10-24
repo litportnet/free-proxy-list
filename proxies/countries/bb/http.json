@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "63.175.157.2",
+    "port": 30005,
+    "url": "http://63.175.157.2:30005",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1808,
+    "latency_median_ms": 2124,
+    "uptime_24h": 6.9,
+    "uptime_7d": 15.2,
+    "checks_7d": 191,
+    "exit_ip": "63.175.157.2",
+    "exit_shared": 1,
+    "country": "bb",
+    "region": "Saint Michael",
+    "city": "Bridgetown",
+    "timezone": "America/Barbados",
+    "asn": 14813,
+    "asn_org": "Columbus Telecommunications (Barbados) Limited",
+    "sources_count": 19,
+    "first_seen": "2026-09-30T19:45:37.253Z",
+    "last_checked": "2026-10-24T04:26:25.112Z"
+  }
+]

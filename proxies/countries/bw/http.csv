@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,129.205.198.122,8080,http://129.205.198.122:8080,transparent,true,5200,5132,21.1,19.2,235,129.205.198.122,1,bw,Kweneng,Molepolole,Africa/Gaborone,37678,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,22,2025-09-06T08:35:14.439Z,2026-10-24T04:27:37.362Z

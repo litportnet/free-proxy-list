@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.42,6861,socks5://45.74.31.42:6861,elite,false,5807,7094.5,17,17.5,171,135.236.141.8,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,12,2026-10-16T04:52:48.868Z,2026-10-23T04:28:38.587Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,5947,2109,47.6,51.4,518,146.70.130.218,1,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-10-24T04:25:28.784Z
+socks5,45.74.31.40,4351,socks5://45.74.31.40:4351,elite,true,4422,2757,24.4,17.8,180,135.236.141.8,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,14,2026-09-27T01:58:13.727Z,2026-10-24T04:24:48.742Z

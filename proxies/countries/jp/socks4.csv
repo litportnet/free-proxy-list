@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,756,775,59.7,64.4,696,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-23T04:28:34.917Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,true,1120,2911.5,27.6,40.6,500,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-23T04:26:47.750Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,7907,1802,70.5,65.3,705,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-24T04:24:10.400Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,false,7510,1058.5,33.3,29.9,438,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-03-19T19:50:21.621Z,2026-10-24T04:27:05.127Z
+socks4,8.216.40.169,7890,socks4://8.216.40.169:7890,elite,false,1758,1470.5,32.6,29.3,150,8.216.40.169,2,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",13,2026-10-20T12:47:31.602Z,2026-10-24T04:24:05.516Z
+socks4,103.230.147.50,10808,socks4://103.230.147.50:10808,elite,true,2806,2983,59.4,,32,142.91.108.235,1,jp,Tokyo,Tokyo,Asia/Tokyo,134351,Leaseweb Japan K.K.,11,2026-10-13T15:20:37.999Z,2026-10-24T04:31:10.031Z

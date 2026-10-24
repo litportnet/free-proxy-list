@@ -1,6 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1493,1494.5,100,99.9,997,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-23T04:25:13.028Z
-socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,false,2335,2774,58.3,56,602,103.27.203.82,1,th,Bangkok,Bangkok,Asia/Bangkok,58955,"Bangmod Enterprise Co., Ltd.",19,2026-08-24T12:42:33.832Z,2026-10-23T04:32:07.279Z
-socks5,45.74.31.40,4169,socks5://45.74.31.40:4169,elite,false,8191,6156.5,40.9,19.6,92,202.29.224.10,3,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-10-02T04:56:15.859Z,2026-10-23T04:21:51.226Z
-socks5,45.74.31.47,5441,socks5://45.74.31.47:5441,elite,false,7022,5995,85.7,18.5,81,202.29.224.10,3,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-09-26T16:53:25.075Z,2026-10-23T04:32:02.478Z
-socks5,45.74.31.42,5197,socks5://45.74.31.42:5197,elite,false,2174,4928.5,42.1,17.4,98,202.29.224.10,3,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,17,2026-09-09T14:52:58.082Z,2026-10-23T04:30:56.950Z
+socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1535,1497,100,99.9,997,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-24T04:30:12.993Z
+socks5,45.74.31.41,12996,socks5://45.74.31.41:12996,elite,true,3031,2477.5,62.8,37.6,178,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,3,2026-10-16T04:52:48.868Z,2026-10-24T04:32:59.172Z
+socks5,45.74.31.42,5394,socks5://45.74.31.42:5394,elite,true,8506,5137,27.9,22.6,124,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,14,2026-09-25T19:42:17.845Z,2026-10-24T04:24:55.583Z
+socks5,45.74.31.42,6812,socks5://45.74.31.42:6812,elite,true,7862,4748.5,27.6,22.3,197,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-09-26T01:45:25.808Z,2026-10-24T04:32:40.612Z
+socks5,45.74.31.40,6188,socks5://45.74.31.40:6188,elite,false,8170,6519.5,42.2,18.2,121,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-10-04T04:21:10.887Z,2026-10-24T04:28:20.571Z
+socks5,45.74.31.42,6788,socks5://45.74.31.42:6788,elite,false,7132,8278,16.1,17.7,181,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,14,2026-09-29T16:31:04.431Z,2026-10-24T04:33:38.506Z
+socks5,45.74.31.42,4052,socks5://45.74.31.42:4052,elite,true,4037,5575.5,24.4,14.1,92,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,15,2026-09-11T05:57:56.297Z,2026-10-24T04:24:58.743Z

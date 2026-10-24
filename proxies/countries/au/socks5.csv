@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.77.235.30,1080,socks5://45.77.235.30:1080,elite,false,2538,4073,40,27.1,255,45.77.235.30,2,au,New South Wales,Sydney,Australia/Sydney,20473,"The Constant Company, LLC",12,2026-10-19T07:32:22.196Z,2026-10-24T04:26:34.069Z
+socks5,159.196.163.64,80,socks5://159.196.163.64:80,elite,true,1163,1168,30.2,25.7,269,159.196.163.64,1,au,New South Wales,Sydney,Australia/Sydney,4764,Aussie Fibre Pty Ltd,9,2026-10-05T08:36:04.345Z,2026-10-24T04:28:08.949Z
+socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,false,2218,2221.5,20.9,24,275,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,19,2026-05-09T06:34:30.972Z,2026-10-24T04:32:09.400Z

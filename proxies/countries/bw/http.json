@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "129.205.198.122",
+    "port": 8080,
+    "url": "http://129.205.198.122:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 5200,
+    "latency_median_ms": 5132,
+    "uptime_24h": 21.1,
+    "uptime_7d": 19.2,
+    "checks_7d": 235,
+    "exit_ip": "129.205.198.122",
+    "exit_shared": 1,
+    "country": "bw",
+    "region": "Kweneng",
+    "city": "Molepolole",
+    "timezone": "Africa/Gaborone",
+    "asn": 37678,
+    "asn_org": "BOTSWANA FIBRE NETWORKS (Proprietary) Limited",
+    "sources_count": 22,
+    "first_seen": "2025-09-06T08:35:14.439Z",
+    "last_checked": "2026-10-24T04:27:37.362Z"
+  }
+]

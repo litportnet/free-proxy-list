@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,1870,852,84.9,84.9,849,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-23T04:32:24.841Z
-http,43.216.197.62,8787,http://43.216.197.62:8787,elite,false,1136,3395,68.6,68.6,105,81.17.30.247,1,ch,Ticino,Bellinzona,Europe/Zurich,51852,Private Layer INC,5,2026-09-17T21:40:19.709Z,2026-10-23T04:29:04.067Z
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,true,2078,2705,55.1,51.8,575,37.140.254.81,1,ch,Zurich,Oberhausen-Böschenwiesen,Europe/Zurich,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T05:31:54.290Z,2026-10-23T04:21:59.443Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,transparent,true,591,2613.5,89,87,864,185.191.239.248,1,ch,Ticino,Bellinzona,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-10-24T04:28:43.207Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,4184,6309,58.8,76.7,734,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-10-24T04:31:10.040Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,2125,2936.5,53.1,61.7,593,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-10-24T04:27:49.459Z
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,1414,2636.5,52.9,56.3,620,45.148.4.2,1,ch,Zurich,Zürich,Europe/Zurich,42201,PVDataNet AB,19,2026-08-24T12:42:33.832Z,2026-10-24T04:32:58.104Z
+http,104.244.78.150,5555,http://104.244.78.150:5555,elite,false,566,567.5,22.6,16.7,210,104.244.78.150,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,13,2025-09-06T18:18:16.954Z,2026-10-24T04:27:16.728Z
+socks4,51.94.221.175,8180,socks4://51.94.221.175:8180,unknown,false,725,2380.5,12.5,,17,51.94.221.175,2,ch,Zug,Zug,Europe/Zurich,211720,"Datashield, Inc.",1,2026-10-03T01:07:13.652Z,2026-10-24T04:28:54.290Z

@@ -1,2 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,602,2332,25,33.5,397,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-23T04:32:22.697Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,635,659,80.6,84.9,861,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-24T04:24:33.969Z
+http,185.8.148.81,8085,http://185.8.148.81:8085,transparent,false,2331,3659,36.5,38.4,537,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,19,2026-10-12T20:10:22.760Z,2026-10-24T04:23:10.772Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,4819,2983.5,28.1,34.4,424,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-24T04:32:19.459Z
+http,185.191.106.41,8081,http://185.191.106.41:8081,transparent,false,1639,2949,34.4,26.9,450,185.191.106.41,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-07T02:44:03.537Z,2026-10-24T04:32:46.967Z
+http,89.40.143.28,7788,http://89.40.143.28:7788,transparent,true,8277,7303,35.3,19,121,89.40.143.28,1,it,Lombardy,Milan,Europe/Rome,64445,NetJoin srl,12,2025-09-29T03:34:49.103Z,2026-10-24T04:26:00.333Z
+http,80.225.88.28,8082,http://80.225.88.28:8082,elite,false,2277,3777.5,19.7,14.1,198,80.225.88.28,1,it,Lombardy,Siziano,Europe/Rome,31898,Oracle Corporation,18,2026-10-02T04:56:16.867Z,2026-10-24T04:30:57.820Z

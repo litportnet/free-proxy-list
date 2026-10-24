@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://200.105.252.170:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 8123,
-    "latency_median_ms": 3013,
-    "uptime_24h": 70.2,
-    "uptime_7d": 72.3,
-    "checks_7d": 758,
+    "https": false,
+    "latency_ms": 972,
+    "latency_median_ms": 1972.5,
+    "uptime_24h": 60,
+    "uptime_7d": 69.6,
+    "checks_7d": 752,
     "exit_ip": "200.105.252.170",
     "exit_shared": 1,
     "country": "ec",
@@ -21,6 +21,6 @@
     "asn_org": "PUNTONET S.A.",
     "sources_count": 13,
     "first_seen": "2025-09-05T20:06:36.438Z",
-    "last_checked": "2026-10-23T04:31:36.331Z"
+    "last_checked": "2026-10-24T04:25:58.220Z"
   }
 ]
