@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.36.168.185,8080,http://102.36.168.185:8080,elite,true,1571,4767.5,37.8,33.8,216,41.174.134.134,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,30844,Liquid Telecommunications Ltd,11,2025-09-21T05:36:57.504Z,2026-10-25T04:23:24.460Z
+http,102.222.231.25,2333,http://102.222.231.25:2333,transparent,false,9469,5300.5,17.1,21.2,372,102.222.229.17,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37638,Orioncom SPRL,16,2025-09-06T12:38:45.074Z,2026-10-25T04:20:28.752Z

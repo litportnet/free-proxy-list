@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.140.137.151,80,http://34.140.137.151:80,elite,false,6500,4063.5,55.7,65.7,691,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,19,2025-10-14T21:28:47.989Z,2026-10-24T04:24:45.057Z
+http,34.140.137.151,80,http://34.140.137.151:80,elite,false,4741,3682,54.1,62.4,699,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,19,2025-10-14T21:28:47.989Z,2026-10-25T04:25:39.222Z

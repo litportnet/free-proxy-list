@@ -6,11 +6,11 @@
     "url": "socks5://5.191.253.56:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 5422,
-    "latency_median_ms": 2122,
-    "uptime_24h": 85.2,
-    "uptime_7d": null,
-    "checks_7d": 27,
+    "latency_ms": 1196,
+    "latency_median_ms": 2119,
+    "uptime_24h": 56.2,
+    "uptime_7d": 61.2,
+    "checks_7d": 147,
     "exit_ip": "5.191.253.56",
     "exit_shared": 1,
     "country": "az",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Baku",
     "asn": 200729,
     "asn_org": "AzInTelecom LLC",
-    "sources_count": 5,
+    "sources_count": 7,
     "first_seen": "2026-10-23T23:31:11.531Z",
-    "last_checked": "2026-10-24T04:31:08.440Z"
+    "last_checked": "2026-10-25T04:25:42.810Z"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "159.195.62.125",
+    "port": 9050,
+    "url": "socks4://159.195.62.125:9050",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2071,
+    "latency_median_ms": 6131,
+    "uptime_24h": 9.5,
+    "uptime_7d": 6.4,
+    "checks_7d": 94,
+    "exit_ip": "185.243.218.233",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Vestfold",
+    "city": "Sandefjord",
+    "timezone": "Europe/Oslo",
+    "asn": 56655,
+    "asn_org": "Gigahost AS",
+    "sources_count": 20,
+    "first_seen": "2026-08-13T20:10:15.527Z",
+    "last_checked": "2026-10-25T04:23:48.985Z"
+  }
+]

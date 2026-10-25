@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "157.90.113.23",
+    "port": 9052,
+    "url": "socks5://157.90.113.23:9052",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1140,
+    "latency_median_ms": 885,
+    "uptime_24h": 56.5,
+    "uptime_7d": 57.4,
+    "checks_7d": 653,
+    "exit_ip": "45.128.116.2",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Giurgiu County",
+    "city": "Giurgiu",
+    "timezone": "Europe/Bucharest",
+    "asn": 51177,
+    "asn_org": "TIPZOR MEDIA SRL",
+    "sources_count": 19,
+    "first_seen": "2026-07-31T19:22:14.557Z",
+    "last_checked": "2026-10-25T04:21:15.920Z"
+  }
+]

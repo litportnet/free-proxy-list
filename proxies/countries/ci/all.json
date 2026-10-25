@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://160.155.90.26:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 936,
-    "latency_median_ms": 1474,
-    "uptime_24h": 74,
-    "uptime_7d": 68.8,
-    "checks_7d": 744,
+    "https": false,
+    "latency_ms": 955,
+    "latency_median_ms": 1297,
+    "uptime_24h": 70.8,
+    "uptime_7d": 67.5,
+    "checks_7d": 767,
     "exit_ip": "160.155.90.26",
     "exit_shared": 1,
     "country": "ci",
@@ -21,6 +21,6 @@
     "asn_org": "Orange Côte d'Ivoire",
     "sources_count": 13,
     "first_seen": "2026-07-05T17:50:49.617Z",
-    "last_checked": "2026-10-24T04:27:41.563Z"
+    "last_checked": "2026-10-25T04:22:26.552Z"
   }
 ]

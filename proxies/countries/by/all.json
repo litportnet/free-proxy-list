@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "178.124.195.80",
+    "port": 8080,
+    "url": "http://178.124.195.80:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 4303,
+    "latency_median_ms": 3965,
+    "uptime_24h": 36.1,
+    "uptime_7d": 35.2,
+    "checks_7d": 565,
+    "exit_ip": "178.124.195.80",
+    "exit_shared": 1,
+    "country": "by",
+    "region": "Brest",
+    "city": "Pinsk",
+    "timezone": "Europe/Minsk",
+    "asn": 6697,
+    "asn_org": "Republican Unitary Telecommunication Enterprise Beltelecom",
+    "sources_count": 19,
+    "first_seen": "2026-09-26T19:55:01.435Z",
+    "last_checked": "2026-10-25T04:30:36.006Z"
+  }
+]

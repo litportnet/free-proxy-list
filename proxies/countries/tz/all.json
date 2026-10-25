@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "169.255.48.50",
-    "port": 1080,
-    "url": "socks4://169.255.48.50:1080",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 4482,
-    "latency_median_ms": 3480,
-    "uptime_24h": 41.7,
-    "uptime_7d": 48.8,
-    "checks_7d": 623,
-    "exit_ip": "169.255.48.30",
-    "exit_shared": 1,
-    "country": "tz",
-    "region": "Dar es Salaam Region",
-    "city": "Dar es Salaam",
-    "timezone": "Africa/Dar_es_Salaam",
-    "asn": 327792,
-    "asn_org": "Computer Sales & Services",
-    "sources_count": 16,
-    "first_seen": "2026-10-04T01:19:38.223Z",
-    "last_checked": "2026-10-24T04:25:13.028Z"
-  },
-  {
     "protocol": "http",
     "ip": "154.0.155.133",
     "port": 8080,
     "url": "http://154.0.155.133:8080",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 3696,
-    "latency_median_ms": 4084,
-    "uptime_24h": 48.6,
-    "uptime_7d": 42.7,
-    "checks_7d": 581,
+    "latency_ms": 2309,
+    "latency_median_ms": 2968,
+    "uptime_24h": 49.1,
+    "uptime_7d": 44.6,
+    "checks_7d": 633,
     "exit_ip": "154.0.155.133",
     "exit_shared": 1,
     "country": "tz",
@@ -45,6 +21,6 @@
     "asn_org": "Habari Node Public Limited",
     "sources_count": 17,
     "first_seen": "2026-08-31T04:10:01.273Z",
-    "last_checked": "2026-10-24T04:29:21.246Z"
+    "last_checked": "2026-10-25T04:20:59.050Z"
   }
 ]

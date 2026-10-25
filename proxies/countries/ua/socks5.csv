@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,false,809,1317,53.9,47.2,583,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-24T04:32:18.911Z
-socks5,178.214.201.74,7080,socks5://178.214.201.74:7080,elite,true,8152,1882,29.4,17.4,230,178.214.201.74,1,ua,Kyiv City,Kyiv,Europe/Kyiv,41985,Stargroup LLC,19,2026-07-01T09:54:43.706Z,2026-10-24T04:28:41.074Z
-socks5,212.115.235.223,1080,socks5://212.115.235.223:1080,elite,true,974,1544.5,9.8,11,209,212.115.235.223,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,15377,TRADITIONAL LLC,11,2026-06-08T21:08:18.919Z,2026-10-24T04:31:09.509Z
+socks5,46.35.227.251,1082,socks5://46.35.227.251:1082,elite,true,7085,2055.5,81.7,81.7,60,104.28.255.119,2,ua,Sevastopol City,Sevastopol,Europe/Simferopol,13335,"Cloudflare, Inc.",14,2026-10-05T09:36:36.918Z,2026-10-25T04:30:05.736Z
+socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,3835,1809,50,47.6,635,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-25T04:27:18.216Z
+socks5,193.24.222.150,33500,socks5://193.24.222.150:33500,elite,false,953,3214.5,25.3,22.9,437,193.107.75.242,1,ua,Zhytomyr Oblast,Zhytomyr,Europe/Kyiv,50633,NET-CITY 2020 LLC,19,2026-05-16T14:14:23.844Z,2026-10-25T04:25:07.677Z

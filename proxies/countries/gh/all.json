@@ -6,11 +6,11 @@
     "url": "http://156.38.112.11:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1534,
-    "latency_median_ms": 1520.5,
-    "uptime_24h": 71,
-    "uptime_7d": 67.4,
-    "checks_7d": 577,
+    "latency_ms": 1219,
+    "latency_median_ms": 1287,
+    "uptime_24h": 83.2,
+    "uptime_7d": 67.6,
+    "checks_7d": 599,
     "exit_ip": "156.38.112.11",
     "exit_shared": 1,
     "country": "gh",
@@ -21,6 +21,6 @@
     "asn_org": "THE UNIVERSITY OF CAPE COAST",
     "sources_count": 19,
     "first_seen": "2025-09-10T19:34:54.808Z",
-    "last_checked": "2026-10-24T04:31:20.174Z"
+    "last_checked": "2026-10-25T04:24:46.391Z"
   }
 ]

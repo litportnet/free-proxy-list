@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,742,1753.5,78.7,76,792,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-24T04:25:58.753Z
+socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,3907,735,75,76.9,836,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-25T04:26:13.381Z
+socks4,93.115.174.1,1080,socks4://93.115.174.1:1080,elite,false,693,1210.5,37,48.6,642,194.50.50.100,1,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,16,2026-10-10T03:36:30.009Z,2026-10-25T04:28:28.412Z
+socks4,92.86.92.126,42740,socks4://92.86.92.126:42740,elite,false,732,2756,43.5,38.6,572,92.86.92.126,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,9050,Orange Romania S.A.,13,2025-09-04T23:49:05.773Z,2026-10-25T04:23:22.842Z

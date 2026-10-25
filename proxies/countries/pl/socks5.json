@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.142.212.32",
+    "port": 40001,
+    "url": "socks5://45.142.212.32:40001",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 826,
+    "latency_median_ms": 905.5,
+    "uptime_24h": 90.9,
+    "uptime_7d": null,
+    "checks_7d": 22,
+    "exit_ip": "104.28.212.231",
+    "exit_shared": 3,
+    "country": "pl",
+    "region": "Kujawsko-Pomorskie",
+    "city": "Bydgoszcz",
+    "timezone": "Europe/Warsaw",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 10,
+    "first_seen": "2026-10-25T00:44:25.891Z",
+    "last_checked": "2026-10-25T04:28:42.128Z"
+  }
+]

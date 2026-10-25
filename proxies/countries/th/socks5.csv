@@ -1,8 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1535,1497,100,99.9,997,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-24T04:30:12.993Z
-socks5,45.74.31.41,12996,socks5://45.74.31.41:12996,elite,true,3031,2477.5,62.8,37.6,178,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,3,2026-10-16T04:52:48.868Z,2026-10-24T04:32:59.172Z
-socks5,45.74.31.42,5394,socks5://45.74.31.42:5394,elite,true,8506,5137,27.9,22.6,124,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,14,2026-09-25T19:42:17.845Z,2026-10-24T04:24:55.583Z
-socks5,45.74.31.42,6812,socks5://45.74.31.42:6812,elite,true,7862,4748.5,27.6,22.3,197,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-09-26T01:45:25.808Z,2026-10-24T04:32:40.612Z
-socks5,45.74.31.40,6188,socks5://45.74.31.40:6188,elite,false,8170,6519.5,42.2,18.2,121,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,13,2026-10-04T04:21:10.887Z,2026-10-24T04:28:20.571Z
-socks5,45.74.31.42,6788,socks5://45.74.31.42:6788,elite,false,7132,8278,16.1,17.7,181,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,14,2026-09-29T16:31:04.431Z,2026-10-24T04:33:38.506Z
-socks5,45.74.31.42,4052,socks5://45.74.31.42:4052,elite,true,4037,5575.5,24.4,14.1,92,202.29.224.10,6,th,Loei,Loei,Asia/Bangkok,4621,UNINET-TH,15,2026-09-11T05:57:56.297Z,2026-10-24T04:24:58.743Z
+socks5,47.87.97.94,1080,socks5://47.87.97.94:1080,elite,true,1512,1495,100,99.9,997,47.87.97.94,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",15,2026-10-12T05:02:25.712Z,2026-10-25T04:29:31.307Z
+socks5,125.24.156.113,7080,socks5://125.24.156.113:7080,elite,false,8775,2684.5,20.6,24.1,420,1.20.143.87,1,th,Chumphon,Lang Suan,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-04-08T09:00:00.596Z,2026-10-25T04:29:56.216Z

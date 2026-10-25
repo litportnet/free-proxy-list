@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,8130,2699.5,52.3,47.5,541,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-24T04:28:00.512Z
-socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,true,1992,2794.5,43.5,39.5,522,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-24T04:23:47.042Z
-socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1707,1706.5,23.5,12.6,190,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-10-24T04:29:37.577Z
+socks4,34.154.195.225,40001,socks4://34.154.195.225:40001,elite,true,858,645.5,52.7,54.3,127,104.28.202.185,2,it,Lombardy,Milan,Europe/Rome,13335,"Cloudflare, Inc.",13,2026-10-24T01:32:08.429Z,2026-10-25T04:26:17.610Z
+socks4,67.205.161.254,9050,socks4://67.205.161.254:9050,elite,false,747,889.5,55.3,46.9,535,64.190.76.2,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,20,2026-09-05T02:55:02.030Z,2026-10-25T04:24:42.459Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,8069,4099.5,38.1,39.6,556,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-25T04:20:23.315Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,false,608,615.5,38,37.9,546,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-25T04:23:33.127Z

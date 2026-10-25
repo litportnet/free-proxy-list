@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,91.204.190.140,81,http://91.204.190.140:81,transparent,false,3643,4555,11.4,16.9,237,91.204.190.140,1,am,Yerevan,Yerevan,Asia/Yerevan,42991,BioNet LLC,24,2025-09-06T15:38:29.945Z,2026-10-25T04:24:27.724Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,218.100.23.130,8080,http://218.100.23.130:8080,transparent,true,827,3022.5,51.2,31.4,408,218.100.23.130,1,nz,Wellington Region,Wellington,Pacific/Auckland,132040,Vital Data Ltd,20,2026-09-27T06:00:26.030Z,2026-10-24T04:30:43.627Z
-http,5.161.204.82,8888,http://5.161.204.82:8888,transparent,true,5006,4855,27.2,26.8,392,103.75.11.35,1,nz,Auckland,Auckland,Pacific/Auckland,136557,Host Universal Pty Ltd,13,2026-07-24T09:51:38.410Z,2026-10-24T04:24:05.590Z

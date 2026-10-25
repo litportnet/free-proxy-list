@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,155.103.69.127,1314,socks5://155.103.69.127:1314,elite,true,2143,886,75.7,25.8,357,155.103.69.127,3,tr,Istanbul,Maltepe,Europe/Istanbul,44382,"Fiba Cloud Operation Company, LLC",17,2026-10-07T20:07:22.007Z,2026-10-24T04:30:59.414Z
+socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,false,2217,2179.5,38.2,44.8,581,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-09-29T01:23:09.783Z,2026-10-25T04:27:39.908Z
+socks5,194.124.36.7,1080,socks5://194.124.36.7:1080,elite,false,4205,4402,35.6,37.1,105,194.124.36.7,1,tr,Istanbul,Istanbul,Europe/Istanbul,202561,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,11,2026-10-24T03:33:18.558Z,2026-10-25T04:19:21.777Z
+socks5,78.187.157.235,1080,socks5://78.187.157.235:1080,elite,true,1583,4064.5,40.7,,27,78.187.157.235,1,tr,Adana,Adana,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,5,2026-10-24T22:43:21.952Z,2026-10-25T04:22:08.075Z

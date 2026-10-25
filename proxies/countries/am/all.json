@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "91.204.190.140",
+    "port": 81,
+    "url": "http://91.204.190.140:81",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3643,
+    "latency_median_ms": 4555,
+    "uptime_24h": 11.4,
+    "uptime_7d": 16.9,
+    "checks_7d": 237,
+    "exit_ip": "91.204.190.140",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 42991,
+    "asn_org": "BioNet LLC",
+    "sources_count": 24,
+    "first_seen": "2025-09-06T15:38:29.945Z",
+    "last_checked": "2026-10-25T04:24:27.724Z"
+  }
+]

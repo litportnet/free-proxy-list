@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1983,1958,91.1,92.8,940,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-24T04:26:49.844Z
-socks5,167.99.3.26,8095,socks5://167.99.3.26:8095,elite,false,842,856,25,,24,81.57.58.125,1,it,Lombardy,Milan,Europe/Rome,29447,Iliad Italia S.p.A,3,2026-10-23T21:30:39.062Z,2026-10-24T04:26:49.858Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2719,1459,85.5,91.3,945,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-25T04:25:30.375Z

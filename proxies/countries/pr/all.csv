@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,1489,1496.5,55.9,62.6,759,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-10-25T04:21:51.785Z
+http,192.203.0.198,999,http://192.203.0.198:999,transparent,true,2008,2447,24.5,29.2,472,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-10-25T04:22:17.324Z
+http,192.203.0.210,999,http://192.203.0.210:999,transparent,false,7622,4104,19.5,25.2,322,192.203.0.210,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,14,2025-09-06T10:21:42.213Z,2026-10-25T04:24:09.668Z
+http,192.203.0.142,999,http://192.203.0.142:999,transparent,false,10000,4045.5,20.5,23.5,379,192.203.0.142,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,23,2026-05-04T08:39:48.827Z,2026-10-25T04:20:09.840Z
+http,192.203.0.70,999,http://192.203.0.70:999,transparent,false,1946,3872.5,20.3,23,396,192.203.0.70,1,pr,Yabucoa,Yabucoa,America/Puerto_Rico,63393,BOOM NET,12,2025-09-05T20:06:33.026Z,2026-10-25T04:24:32.082Z
+http,192.203.0.166,999,http://192.203.0.166:999,transparent,false,1098,2139.5,25,22.3,390,192.203.0.166,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,21,2025-09-05T23:19:59.349Z,2026-10-25T04:22:06.983Z

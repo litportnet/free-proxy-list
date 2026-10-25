@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,181.115.74.172,5678,socks4://181.115.74.172:5678,elite,true,1388,1436,76.2,75.2,791,181.115.74.172,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",14,2025-09-04T23:49:05.467Z,2026-10-24T04:32:58.113Z
+socks4,181.115.74.172,5678,socks4://181.115.74.172:5678,elite,true,1422,1399.5,84.6,77.6,839,181.115.74.172,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",14,2025-09-04T23:49:05.467Z,2026-10-25T04:24:56.198Z

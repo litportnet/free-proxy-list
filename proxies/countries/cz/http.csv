@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,109.123.219.11,80,http://109.123.219.11:80,elite,false,464,2334,80.4,80.4,97,109.123.219.11,1,cz,Prague,Prague,Europe/Prague,15685,CASABLANCA INT a.s.,11,2026-10-23T10:24:19.168Z,2026-10-24T04:25:23.049Z
-http,77.240.102.149,800,http://77.240.102.149:800,transparent,false,4918,4324,40.4,32.6,470,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-10-24T04:32:34.282Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,8356,6120.5,68,61,657,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-10-25T04:30:24.264Z

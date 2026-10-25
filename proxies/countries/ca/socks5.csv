@@ -1,6 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,5101,3707,89.6,91.2,897,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,15,2026-09-11T22:06:41.545Z,2026-10-24T04:31:55.607Z
-socks5,201.79.50.139,10000,socks5://201.79.50.139:10000,elite,true,645,515.5,76.1,76.1,88,201.79.50.139,1,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",11,2026-10-23T12:25:19.675Z,2026-10-24T04:25:05.059Z
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,823,7370.5,78.3,76,767,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-10-24T04:25:43.007Z
-socks5,144.217.107.25,1080,socks5://144.217.107.25:1080,elite,true,8335,3386.5,62.5,69.4,745,144.217.107.25,2,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,15,2026-09-24T03:21:03.909Z,2026-10-24T04:26:11.397Z
-socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,true,1071,2497,36.4,50.1,493,187.15.143.243,1,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,18,2026-09-16T03:18:14.821Z,2026-10-24T04:27:07.292Z

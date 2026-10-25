@@ -6,11 +6,11 @@
     "url": "http://154.0.155.133:8080",
     "anonymity": "transparent",
     "https": true,
-    "latency_ms": 3696,
-    "latency_median_ms": 4084,
-    "uptime_24h": 48.6,
-    "uptime_7d": 42.7,
-    "checks_7d": 581,
+    "latency_ms": 2309,
+    "latency_median_ms": 2968,
+    "uptime_24h": 49.1,
+    "uptime_7d": 44.6,
+    "checks_7d": 633,
     "exit_ip": "154.0.155.133",
     "exit_shared": 1,
     "country": "tz",
@@ -21,6 +21,6 @@
     "asn_org": "Habari Node Public Limited",
     "sources_count": 17,
     "first_seen": "2026-08-31T04:10:01.273Z",
-    "last_checked": "2026-10-24T04:29:21.246Z"
+    "last_checked": "2026-10-25T04:20:59.050Z"
   }
 ]

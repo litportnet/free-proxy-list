@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,92.63.83.23,3129,http://92.63.83.23:3129,transparent,false,4764,6665.5,9.7,7.8,102,92.63.83.23,1,lv,Riga,Riga,Europe/Riga,44575,SIA MWTV,11,2026-07-07T02:08:14.385Z,2026-10-25T04:23:08.077Z

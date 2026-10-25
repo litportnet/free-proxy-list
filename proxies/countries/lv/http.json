@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "92.63.83.23",
+    "port": 3129,
+    "url": "http://92.63.83.23:3129",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4764,
+    "latency_median_ms": 6665.5,
+    "uptime_24h": 9.7,
+    "uptime_7d": 7.8,
+    "checks_7d": 102,
+    "exit_ip": "92.63.83.23",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 44575,
+    "asn_org": "SIA MWTV",
+    "sources_count": 11,
+    "first_seen": "2026-07-07T02:08:14.385Z",
+    "last_checked": "2026-10-25T04:23:08.077Z"
+  }
+]
