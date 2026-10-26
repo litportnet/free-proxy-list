@@ -1,7 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,120.204.84.132,7890,socks4://120.204.84.132:7890,elite,true,1846,2064.5,91.3,91.3,92,64.118.148.214,2,jp,Tokyo,Tokyo,Asia/Tokyo,138997,Eons Data Communications Limited,11,2026-10-24T12:38:34.441Z,2026-10-25T04:28:28.406Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,1773,1766.5,66.2,65.9,756,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-25T04:21:21.860Z
-socks4,43.165.135.162,60000,socks4://43.165.135.162:60000,elite,false,4770,864.5,58.8,58.8,51,43.165.135.162,2,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",9,2026-10-24T17:40:37.836Z,2026-10-25T04:25:30.512Z
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,2668,3075.5,45.3,41.1,584,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-25T04:30:02.036Z
-socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,793,887.5,27.5,29,455,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-03-19T19:50:21.621Z,2026-10-25T04:26:47.193Z
-socks4,103.27.133.77,1080,socks4://103.27.133.77:1080,elite,true,765,774,81.3,,16,103.27.133.77,2,jp,Tokyo,Tokyo,Asia/Tokyo,395092,Shock Hosting LLC,9,2026-10-25T01:44:57.626Z,2026-10-25T04:30:41.345Z
+socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,false,5384,4732.5,43.1,39.8,618,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-26T04:27:30.488Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,148.81.121.5,8080,http://148.81.121.5:8080,transparent,true,4659,2595,31.6,28.7,328,148.81.121.5,1,pl,Mazovia,Warsaw,Europe/Warsaw,1887,NAUKOWA I AKADEMICKA SIEC KOMPUTEROWA - PANSTWOWY INSTYTUT BADAWCZY,25,2026-02-05T18:53:44.999Z,2026-10-25T04:25:48.738Z
-http,45.142.212.32,40001,http://45.142.212.32:40001,elite,true,643,641,90,,10,104.28.212.231,3,pl,Kujawsko-Pomorskie,Bydgoszcz,Europe/Warsaw,13335,"Cloudflare, Inc.",2,2026-10-25T02:45:21.992Z,2026-10-25T04:22:47.880Z

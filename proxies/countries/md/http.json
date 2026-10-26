@@ -5,12 +5,12 @@
     "port": 8443,
     "url": "http://89.28.81.217:8443",
     "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 5785,
-    "latency_median_ms": 4282.5,
-    "uptime_24h": 30.9,
-    "uptime_7d": 27.5,
-    "checks_7d": 396,
+    "https": true,
+    "latency_ms": 1315,
+    "latency_median_ms": 4419.5,
+    "uptime_24h": 29.8,
+    "uptime_7d": 28.4,
+    "checks_7d": 483,
     "exit_ip": "89.28.81.217",
     "exit_shared": 1,
     "country": "md",
@@ -21,6 +21,6 @@
     "asn_org": "StarNet Solutii SRL",
     "sources_count": 15,
     "first_seen": "2026-06-08T12:03:15.567Z",
-    "last_checked": "2026-10-25T04:21:32.155Z"
+    "last_checked": "2026-10-26T04:26:16.747Z"
   }
 ]

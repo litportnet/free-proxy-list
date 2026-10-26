@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.161.49.174,10808,socks4://46.161.49.174:10808,elite,true,815,1998.5,37.2,52.6,405,45.130.60.10,1,lv,Riga,Riga,Europe/Riga,219335,COREVANCE LTD,13,2026-10-14T00:25:13.943Z,2026-10-26T04:26:08.530Z

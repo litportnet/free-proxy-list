@@ -6,8 +6,8 @@
     "url": "http://94.78.67.171:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 321,
-    "latency_median_ms": 337,
+    "latency_ms": 332,
+    "latency_median_ms": 348.5,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1009,
@@ -21,6 +21,30 @@
     "asn_org": "Netonline Bilisim Sirketi LTD",
     "sources_count": 17,
     "first_seen": "2026-07-26T20:20:40.472Z",
-    "last_checked": "2026-10-25T04:23:57.171Z"
+    "last_checked": "2026-10-26T04:23:40.200Z"
+  },
+  {
+    "protocol": "socks4",
+    "ip": "213.7.196.26",
+    "port": 4153,
+    "url": "socks4://213.7.196.26:4153",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 767,
+    "latency_median_ms": 778.5,
+    "uptime_24h": 43.6,
+    "uptime_7d": 39.4,
+    "checks_7d": 647,
+    "exit_ip": "213.7.196.26",
+    "exit_shared": 1,
+    "country": "cy",
+    "region": "Larnaka",
+    "city": "Ágios Týchon",
+    "timezone": "Asia/Nicosia",
+    "asn": 6866,
+    "asn_org": "Cyprus Telecommunications Authority",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:03.510Z",
+    "last_checked": "2026-10-26T04:29:02.439Z"
   }
 ]

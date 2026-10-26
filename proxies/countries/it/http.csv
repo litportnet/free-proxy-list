@@ -1,6 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,1549,562,64.3,82.4,881,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-25T04:28:45.813Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,518,515,58.9,61.9,654,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-25T04:27:37.251Z
-http,34.154.195.225,40001,http://34.154.195.225:40001,elite,true,580,576,52,54.4,138,104.28.202.185,2,it,Lombardy,Milan,Europe/Rome,13335,"Cloudflare, Inc.",5,2026-10-24T01:32:05.248Z,2026-10-25T04:22:00.463Z
-http,185.191.106.41,8081,http://185.191.106.41:8081,transparent,true,2806,3176.5,35.7,27.6,486,185.191.106.41,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-07T02:44:03.537Z,2026-10-25T04:22:14.051Z
-http,217.61.13.36,8888,http://217.61.13.36:8888,elite,true,1693,1783,75,,34,217.61.13.36,1,it,Tuscany,Arezzo,Europe/Rome,31034,Aruba S.p.A.,5,2026-09-27T19:07:08.419Z,2026-10-25T04:27:57.864Z

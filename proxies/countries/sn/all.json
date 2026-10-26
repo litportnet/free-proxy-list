@@ -6,11 +6,11 @@
     "url": "http://196.1.97.198:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 662,
-    "latency_median_ms": 738,
-    "uptime_24h": 88.3,
-    "uptime_7d": 91.2,
-    "checks_7d": 940,
+    "latency_ms": 6062,
+    "latency_median_ms": 2179,
+    "uptime_24h": 83.6,
+    "uptime_7d": 88.8,
+    "checks_7d": 938,
     "exit_ip": "196.1.97.198",
     "exit_shared": 1,
     "country": "sn",
@@ -21,7 +21,7 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 19,
     "first_seen": "2025-12-06T18:03:11.613Z",
-    "last_checked": "2026-10-25T04:24:46.384Z"
+    "last_checked": "2026-10-26T04:31:07.403Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://154.65.39.8:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 693,
-    "latency_median_ms": 767.5,
-    "uptime_24h": 93.6,
-    "uptime_7d": 83.2,
-    "checks_7d": 867,
+    "latency_ms": 765,
+    "latency_median_ms": 2335.5,
+    "uptime_24h": 88.5,
+    "uptime_7d": 83.6,
+    "checks_7d": 900,
     "exit_ip": "154.65.39.8",
     "exit_shared": 1,
     "country": "sn",
@@ -45,7 +45,7 @@
     "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
     "sources_count": 20,
     "first_seen": "2025-09-10T19:34:33.119Z",
-    "last_checked": "2026-10-25T04:30:29.058Z"
+    "last_checked": "2026-10-26T04:28:01.982Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://196.1.93.16:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 701,
-    "latency_median_ms": 750,
-    "uptime_24h": 79.4,
-    "uptime_7d": 74.9,
-    "checks_7d": 777,
+    "latency_ms": 1224,
+    "latency_median_ms": 3521,
+    "uptime_24h": 78,
+    "uptime_7d": 75,
+    "checks_7d": 820,
     "exit_ip": "196.1.93.16",
     "exit_shared": 1,
     "country": "sn",
@@ -69,6 +69,6 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 12,
     "first_seen": "2025-09-10T21:05:10.863Z",
-    "last_checked": "2026-10-25T04:23:58.793Z"
+    "last_checked": "2026-10-26T04:26:15.651Z"
   }
 ]

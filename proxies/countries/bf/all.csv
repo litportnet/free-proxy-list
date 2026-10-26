@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,41.223.234.116,37259,socks4://41.223.234.116:37259,elite,true,1007,1064.5,70.2,70.6,815,41.223.234.116,1,bf,Centre,Ouagadougou,Africa/Ouagadougou,37008,Sancfis Faso SA,13,2025-09-04T23:48:59.587Z,2026-10-26T04:24:17.188Z

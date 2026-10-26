@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "43.242.241.47",
+    "port": 8080,
+    "url": "http://43.242.241.47:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 983,
+    "latency_median_ms": 2307.5,
+    "uptime_24h": 22.4,
+    "uptime_7d": 19,
+    "checks_7d": 368,
+    "exit_ip": "43.242.241.47",
+    "exit_shared": 1,
+    "country": "mn",
+    "region": "Ulaanbaatar",
+    "city": "Ulan Bator",
+    "timezone": "Asia/Ulaanbaatar",
+    "asn": 17882,
+    "asn_org": "Univision LLC",
+    "sources_count": 23,
+    "first_seen": "2025-09-19T06:17:10.425Z",
+    "last_checked": "2026-10-26T04:31:24.180Z"
+  }
+]

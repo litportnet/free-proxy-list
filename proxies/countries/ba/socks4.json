@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "212.39.114.139",
+    "port": 5678,
+    "url": "socks4://212.39.114.139:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 7829,
+    "latency_median_ms": 1708,
+    "uptime_24h": 41.2,
+    "uptime_7d": 52.2,
+    "checks_7d": 698,
+    "exit_ip": "212.39.114.139",
+    "exit_shared": 1,
+    "country": "ba",
+    "region": "Federation of B&H",
+    "city": "Čitluk",
+    "timezone": "Europe/Sarajevo",
+    "asn": 20875,
+    "asn_org": "JP HT d.d. Mostar",
+    "sources_count": 22,
+    "first_seen": "2025-09-04T23:48:53.450Z",
+    "last_checked": "2026-10-26T04:23:03.835Z"
+  }
+]

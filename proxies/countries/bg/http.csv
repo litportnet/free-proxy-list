@@ -1,7 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,249,256.5,100,100,597,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-25T04:29:14.370Z
-http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,254,264.5,100,100,603,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-25T04:27:34.113Z
-http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,259,258.5,100,99.9,979,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-25T04:27:29.328Z
-http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,246,267,100,99.8,892,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-25T04:29:45.074Z
-http,89.167.124.218,8888,http://89.167.124.218:8888,transparent,true,766,751.5,95,96.2,182,217.138.221.130,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,9,2026-07-10T04:49:32.675Z,2026-10-25T04:21:08.265Z
-http,85.187.224.21,8080,http://85.187.224.21:8080,transparent,true,1375,3540,39.3,27.1,451,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,23,2025-09-05T20:05:36.749Z,2026-10-25T04:20:26.599Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,264,268,100,100,742,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-26T04:31:22.591Z
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,278,274,100,100,747,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-26T04:25:51.147Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,255,259,100,99.9,1004,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-26T04:29:37.634Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,257,262,99.3,99.7,1006,93.123.16.14,4,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-26T04:28:10.366Z
+http,89.167.124.218,8888,http://89.167.124.218:8888,transparent,true,754,754,100,97.9,325,217.138.221.130,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,10,2026-07-10T04:49:32.675Z,2026-10-26T04:26:18.938Z

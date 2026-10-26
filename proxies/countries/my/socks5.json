@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "43.160.229.63",
+    "port": 1080,
+    "url": "socks5://43.160.229.63:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1522,
+    "latency_median_ms": 3992,
+    "uptime_24h": 57.7,
+    "uptime_7d": 51.6,
+    "checks_7d": 498,
+    "exit_ip": "195.86.248.216",
+    "exit_shared": 2,
+    "country": "my",
+    "region": "Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "timezone": "Asia/Kuala_Lumpur",
+    "asn": 984,
+    "asn_org": "OCTOPUS WEB SOLUTION INC",
+    "sources_count": 11,
+    "first_seen": "2026-10-20T15:49:39.058Z",
+    "last_checked": "2026-10-26T04:28:55.530Z"
+  }
+]

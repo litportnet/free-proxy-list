@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,625,1352,75,77.7,831,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-25T04:26:31.866Z
+socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,false,1708,1827,85,84,896,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,13,2026-07-05T02:40:57.084Z,2026-10-26T04:26:37.966Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,3739,3729,76.9,77.7,868,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-10-26T04:27:44.093Z
+socks4,38.180.143.77,40000,socks4://38.180.143.77:40000,elite,true,549,1589.5,39.6,41,666,104.28.239.41,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",14,2026-10-16T23:02:20.641Z,2026-10-26T04:28:20.861Z

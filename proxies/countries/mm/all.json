@@ -1,16 +1,40 @@
 [
   {
+    "protocol": "socks4",
+    "ip": "154.18.220.190",
+    "port": 5678,
+    "url": "socks4://154.18.220.190:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1240,
+    "latency_median_ms": 1253,
+    "uptime_24h": 71.1,
+    "uptime_7d": 72.2,
+    "checks_7d": 838,
+    "exit_ip": "154.18.220.190",
+    "exit_shared": 1,
+    "country": "mm",
+    "region": "Yangon",
+    "city": "Yangon",
+    "timezone": "Asia/Yangon",
+    "asn": 136975,
+    "asn_org": "Global Technology",
+    "sources_count": 9,
+    "first_seen": "2025-11-01T10:33:30.995Z",
+    "last_checked": "2026-10-26T04:28:07.237Z"
+  },
+  {
     "protocol": "http",
     "ip": "202.165.92.206",
     "port": 8080,
     "url": "http://202.165.92.206:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 1045,
-    "latency_median_ms": 2784.5,
-    "uptime_24h": 53.3,
-    "uptime_7d": 55,
-    "checks_7d": 698,
+    "latency_ms": 4047,
+    "latency_median_ms": 3341.5,
+    "uptime_24h": 49.1,
+    "uptime_7d": 54.3,
+    "checks_7d": 739,
     "exit_ip": "202.165.92.206",
     "exit_shared": 1,
     "country": "mm",
@@ -21,6 +45,6 @@
     "asn_org": "Telecom International Myanmar Co., Ltd",
     "sources_count": 12,
     "first_seen": "2025-09-08T12:19:06.894Z",
-    "last_checked": "2026-10-25T04:26:47.719Z"
+    "last_checked": "2026-10-26T04:28:20.859Z"
   }
 ]

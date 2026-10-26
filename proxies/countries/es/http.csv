@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,469,490,96.5,95.3,927,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-25T04:24:50.776Z
-http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,false,1930,5133.5,21.4,28.4,472,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-25T04:26:16.545Z
-http,185.226.195.251,2222,http://185.226.195.251:2222,transparent,false,2514,3117,29.8,27.3,260,185.226.195.251,1,es,Andalusia,Dos Hermanas,Europe/Madrid,211141,PINKBEAR SLU,20,2026-10-07T15:04:54.995Z,2026-10-25T04:29:24.428Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,474,479.5,96.4,96.2,954,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-10-26T04:31:49.941Z

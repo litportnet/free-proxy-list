@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.192.6,5678,socks4://200.105.192.6:5678,elite,false,699,2702,48.5,55.4,666,200.105.192.6,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,14,2025-09-05T00:23:06.350Z,2026-10-25T04:21:47.481Z
+socks4,190.104.26.227,33638,socks4://190.104.26.227:33638,elite,false,1845,1261.5,67.7,57.3,745,190.104.26.227,1,bo,La Paz Department,La Paz,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,22,2025-09-04T23:49:14.390Z,2026-10-26T04:26:55.382Z
+socks4,200.105.192.6,5678,socks4://200.105.192.6:5678,elite,false,1740,1680,62.8,56.2,717,200.105.192.6,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,14,2025-09-05T00:23:06.350Z,2026-10-26T04:22:19.796Z
+http,158.172.153.36,999,http://158.172.153.36:999,transparent,true,962,4040,29.8,34.7,554,158.172.153.36,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,23,2025-12-29T19:57:24.905Z,2026-10-26T04:26:13.474Z

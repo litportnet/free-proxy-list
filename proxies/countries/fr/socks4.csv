@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,207.180.212.59,1080,socks4://207.180.212.59:1080,elite,true,936,1952.5,97.9,98.7,388,207.180.212.59,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,11,2026-10-22T11:11:57.500Z,2026-10-25T04:29:15.944Z
-socks4,107.191.47.162,1081,socks4://107.191.47.162:1081,elite,true,555,545.5,93.7,93.7,63,107.191.47.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",1,2026-10-24T17:40:37.836Z,2026-10-25T04:26:01.812Z
+socks4,107.191.47.162,1081,socks4://107.191.47.162:1081,elite,true,525,550.5,78.8,83.5,194,107.191.47.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",1,2026-10-24T17:40:37.836Z,2026-10-26T04:25:00.173Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,true,7696,7308.5,41.7,73.2,817,157.173.115.35,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T10:50:54.475Z,2026-10-26T04:26:09.087Z
+socks4,178.239.114.171,1080,socks4://178.239.114.171:1080,elite,true,2603,2945.5,53.3,,15,178.239.114.171,1,fr,Île-de-France,Paris,Europe/Paris,200829,Hugo Corbin trading as AzurHOSTS,2,2026-10-26T01:57:36.995Z,2026-10-26T04:23:39.140Z

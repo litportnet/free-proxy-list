@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.220.217.50,8080,http://41.220.217.50:8080,elite,false,2233,1368.5,61.6,65.4,292,41.220.217.50,1,ug,Central Region,Kampala,Africa/Kampala,36901,DATANET.COM LLC,14,2026-10-03T07:10:03.162Z,2026-10-25T04:23:47.876Z
+http,41.220.217.50,8080,http://41.220.217.50:8080,elite,true,2998,3671.5,35.4,59,371,41.220.217.50,1,ug,Central Region,Kampala,Africa/Kampala,36901,DATANET.COM LLC,14,2026-10-03T07:10:03.162Z,2026-10-26T04:31:32.099Z

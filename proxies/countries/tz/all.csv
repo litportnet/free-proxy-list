@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.0.155.133,8080,http://154.0.155.133:8080,transparent,true,2309,2968,49.1,44.6,633,154.0.155.133,1,tz,Mwanza,Mwanza,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,17,2026-08-31T04:10:01.273Z,2026-10-25T04:20:59.050Z
+http,41.78.170.178,8040,http://41.78.170.178:8040,transparent,true,1712,2884,27.5,29,217,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-10-26T04:31:39.962Z
+http,41.93.63.66,8080,http://41.93.63.66:8080,transparent,true,2460,3602.5,12.5,22.2,369,41.93.63.66,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,37182,Tanzania Education And Research Network,23,2025-09-07T02:44:03.924Z,2026-10-26T04:26:06.898Z

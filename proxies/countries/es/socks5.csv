@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,193.218.118.128,1080,socks5://193.218.118.128:1080,elite,true,1175,1634,96.4,88.7,407,93.115.205.65,1,es,Murcia,Murcia,Europe/Madrid,29119,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,11,2026-10-22T04:08:14.303Z,2026-10-25T04:28:59.052Z
-socks5,45.150.33.190,4801,socks5://45.150.33.190:4801,elite,false,4841,2876,33.3,,34,77.26.218.197,1,es,Galicia,Vigo,Europe/Madrid,12334,"R Cable y Telecable Telecomunicaciones, S.A.U.",7,2026-10-15T12:44:22.008Z,2026-10-25T04:23:21.193Z
+socks5,85.117.248.36,1080,socks5://85.117.248.36:1080,elite,false,7874,3155,17,25.1,479,85.117.248.36,1,es,Catalonia,Sant Feliu de Llobregat,Europe/Madrid,210086,CONNECTA 1876 SLU,20,2026-04-27T13:05:58.882Z,2026-10-26T04:27:15.798Z

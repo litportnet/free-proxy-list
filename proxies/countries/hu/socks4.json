@@ -6,11 +6,11 @@
     "url": "socks4://109.61.117.11:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1658,
-    "latency_median_ms": 1655,
-    "uptime_24h": 64,
-    "uptime_7d": 73.6,
-    "checks_7d": 811,
+    "latency_ms": 674,
+    "latency_median_ms": 1646,
+    "uptime_24h": 68.2,
+    "uptime_7d": 72.5,
+    "checks_7d": 848,
     "exit_ip": "109.61.64.9",
     "exit_shared": 1,
     "country": "hu",
@@ -21,7 +21,7 @@
     "asn_org": "Dravanet Co Ltd.",
     "sources_count": 16,
     "first_seen": "2026-10-04T17:28:05.859Z",
-    "last_checked": "2026-10-25T04:23:03.736Z"
+    "last_checked": "2026-10-26T04:25:00.170Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://91.147.235.162:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 951,
-    "latency_median_ms": 3092.5,
-    "uptime_24h": 32.6,
-    "uptime_7d": 40.6,
-    "checks_7d": 594,
+    "latency_ms": 4116,
+    "latency_median_ms": 3000.5,
+    "uptime_24h": 47.5,
+    "uptime_7d": 41.8,
+    "checks_7d": 648,
     "exit_ip": "91.147.235.162",
     "exit_shared": 1,
     "country": "hu",
@@ -45,6 +45,6 @@
     "asn_org": "Magyar Telekom Plc.",
     "sources_count": 14,
     "first_seen": "2025-10-26T21:46:56.038Z",
-    "last_checked": "2026-10-25T04:28:15.762Z"
+    "last_checked": "2026-10-26T04:25:41.339Z"
   }
 ]

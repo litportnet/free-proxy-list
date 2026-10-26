@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10814,socks5://5.75.133.113:10814,elite,true,1855,3069,34.5,49,596,185.165.170.5,1,is,South,Þorlákshöfn,Atlantic/Reykjavik,200651,FlokiNET ehf,19,2026-09-16T10:21:51.712Z,2026-10-25T04:23:54.474Z

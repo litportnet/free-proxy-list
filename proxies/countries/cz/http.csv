@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,8356,6120.5,68,61,657,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-10-25T04:30:24.264Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,8619,6762.5,58,61.6,672,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-10-26T04:24:46.505Z
+http,77.240.102.149,800,http://77.240.102.149:800,transparent,false,1691,1859,24.6,30.1,528,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-10-26T04:32:38.374Z
+http,91.139.78.174,3128,http://91.139.78.174:3128,transparent,true,6225,3451.5,6.7,7.9,114,91.139.78.174,1,cz,Plzeň Region,Třemošná,Europe/Prague,13036,T-Mobile Czech Republic a.s.,24,2026-05-22T05:33:26.144Z,2026-10-26T04:26:11.842Z

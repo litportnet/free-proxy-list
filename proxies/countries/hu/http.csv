@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,43.216.197.62,8787,http://43.216.197.62:8787,elite,false,1083,1271,73.7,73,363,45.9.168.62,1,hu,Budapest,Budapest,Europe/Budapest,211619,MAXKO d.o.o.,5,2026-09-17T21:40:19.709Z,2026-10-25T04:28:01.536Z

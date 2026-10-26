@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,54.198.140.56,4645,http://54.198.140.56:4645,unknown,true,3944,3767,21.6,15.8,114,54.198.140.56,2,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,7,2026-10-19T15:36:29.088Z,2026-10-25T04:22:36.363Z
-http,78.12.136.220,52990,http://78.12.136.220:52990,unknown,true,3906,2164,16.7,11.1,81,78.12.136.220,2,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,7,2026-08-29T06:44:50.874Z,2026-10-25T04:30:34.953Z
+http,18.61.230.250,6218,http://18.61.230.250:6218,unknown,true,2691,2590,16.7,11.5,200,18.61.230.250,2,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,8,2026-09-04T22:53:05.808Z,2026-10-26T04:32:04.144Z
+http,52.195.147.51,53446,http://52.195.147.51:53446,unknown,false,2634,2639.5,13.8,11.2,116,52.195.147.51,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,2,2026-10-21T06:57:09.817Z,2026-10-26T04:32:05.725Z

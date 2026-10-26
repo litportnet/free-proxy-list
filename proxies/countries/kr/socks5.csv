@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1140,1147,100,99.1,988,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-25T04:28:53.174Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,false,4169,4388.5,81.3,81.7,854,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-25T04:21:38.770Z
-socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,1080,1022.5,92.1,53.7,108,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-09-24T19:29:29.857Z,2026-10-25T04:25:30.451Z
-socks5,144.24.94.153,1080,socks5://144.24.94.153:1080,elite,true,1129,1107,100,49.6,135,144.24.94.153,2,kr,Gangwon-do,Chuncheon,Asia/Seoul,31898,Oracle Corporation,13,2026-10-05T18:41:22.193Z,2026-10-25T04:23:00.443Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,2032,1425,99.3,99.4,996,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-26T04:23:11.941Z
+socks5,141.164.58.134,1080,socks5://141.164.58.134:1080,elite,true,4197,1581,81.4,81.4,86,141.164.58.134,2,kr,Seoul,Seoul,Asia/Seoul,20473,"The Constant Company, LLC",5,2026-08-07T18:51:30.906Z,2026-10-26T04:31:40.477Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,3903,3662,72.4,80,879,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-26T04:23:34.735Z
+socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,912,1755.5,92.1,79.2,236,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-09-24T19:29:29.857Z,2026-10-26T04:32:35.768Z

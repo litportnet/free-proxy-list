@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.95.2.9,8080,http://77.95.2.9:8080,transparent,true,3593,2223.5,96.5,96.6,235,77.95.2.9,1,tj,Dushanbe,Dushanbe,Asia/Dushanbe,43030,Tajik Academician Research and Educational Network Association,17,2026-10-23T12:25:19.094Z,2026-10-25T04:22:03.717Z
-http,46.20.207.166,9145,http://46.20.207.166:9145,transparent,true,1911,4209.5,18.8,18.3,349,46.20.207.166,1,tj,Dushanbe,Dushanbe,Asia/Dushanbe,24722,Babilon,19,2026-10-02T16:02:05.410Z,2026-10-25T04:25:40.260Z
+http,77.95.2.9,8080,http://77.95.2.9:8080,transparent,false,3813,3729,99.3,97.6,377,77.95.2.9,1,tj,Dushanbe,Dushanbe,Asia/Dushanbe,43030,Tajik Academician Research and Educational Network Association,17,2026-10-23T12:25:19.094Z,2026-10-26T04:31:07.398Z
