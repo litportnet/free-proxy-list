@@ -6,11 +6,11 @@
     "url": "socks4://85.117.32.166:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 825,
-    "latency_median_ms": 829,
-    "uptime_24h": 48.7,
-    "uptime_7d": 50.3,
-    "checks_7d": 724,
+    "latency_ms": 7903,
+    "latency_median_ms": 832,
+    "uptime_24h": 55.1,
+    "uptime_7d": 49.9,
+    "checks_7d": 791,
     "exit_ip": "85.117.32.166",
     "exit_shared": 1,
     "country": "ge",
@@ -21,6 +21,6 @@
     "asn_org": "Caucasus Online Ltd.",
     "sources_count": 21,
     "first_seen": "2026-07-04T18:38:41.976Z",
-    "last_checked": "2026-10-26T04:23:10.889Z"
+    "last_checked": "2026-10-27T04:20:45.906Z"
   }
 ]

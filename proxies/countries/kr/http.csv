@@ -1,5 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,755,787.5,100,99.4,998,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-26T04:32:33.672Z
-http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,8024,1744,78.7,83.9,893,183.110.216.129,2,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.489Z,2026-10-26T04:30:53.177Z
-http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,7841,1289.5,73.5,82.9,904,183.110.216.129,2,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-10-26T04:31:41.000Z
-http,112.216.54.226,12121,http://112.216.54.226:12121,elite,false,798,799.5,46.8,50.6,720,112.216.54.227,1,kr,Incheon,Incheon,Asia/Seoul,3786,LG DACOM Corporation,26,2026-08-13T08:04:48.871Z,2026-10-26T04:29:15.079Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,839,779.5,100,99.6,999,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-10-27T04:27:41.551Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,3783,1320,85.8,85.2,934,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-10-27T04:24:07.456Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,3819,1836.5,81.3,81.9,919,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-10-27T04:26:38.626Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,1731,1761.5,85.2,81.8,921,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-10-27T04:24:31.219Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,3779,1749.5,78.6,81.8,925,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-10-27T04:22:22.451Z
+http,220.81.123.23,48678,http://220.81.123.23:48678,transparent,false,3605,4003.5,11.7,21,424,220.81.123.23,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2025-09-05T23:20:17.028Z,2026-10-27T04:26:09.248Z
+http,103.195.102.123,10807,http://103.195.102.123:10807,elite,false,1338,701.5,73.7,,19,61.110.3.94,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,7,2026-10-27T01:10:02.483Z,2026-10-27T04:22:44.766Z

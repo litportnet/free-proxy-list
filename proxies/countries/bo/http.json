@@ -5,12 +5,12 @@
     "port": 999,
     "url": "http://158.172.153.36:999",
     "anonymity": "transparent",
-    "https": true,
-    "latency_ms": 962,
-    "latency_median_ms": 4040,
-    "uptime_24h": 29.8,
-    "uptime_7d": 34.7,
-    "checks_7d": 554,
+    "https": false,
+    "latency_ms": 2627,
+    "latency_median_ms": 3434,
+    "uptime_24h": 33.6,
+    "uptime_7d": 34.5,
+    "checks_7d": 627,
     "exit_ip": "158.172.153.36",
     "exit_shared": 1,
     "country": "bo",
@@ -21,6 +21,6 @@
     "asn_org": "Telefónica Celular de Bolivia S.A.",
     "sources_count": 23,
     "first_seen": "2025-12-29T19:57:24.905Z",
-    "last_checked": "2026-10-26T04:26:13.474Z"
+    "last_checked": "2026-10-27T04:19:43.288Z"
   }
 ]

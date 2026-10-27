@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,409,5080.5,56.5,85.1,908,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,14,2026-09-12T09:12:25.731Z,2026-10-26T04:27:11.555Z
-socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,true,6808,6219.5,54,72.5,828,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-10-26T04:26:55.317Z
-socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,true,3252,733,55.5,57.1,748,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-10-26T04:31:43.633Z
+socks4,38.49.208.67,1080,socks4://38.49.208.67:1080,elite,true,162,170,98.5,98.5,68,38.49.208.67,2,ca,Quebec,Montréal,America/Toronto,26832,Rica Web Services,9,2026-10-26T17:05:38.210Z,2026-10-27T04:23:57.062Z
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,3365,5912.5,75.5,83.1,935,149.22.81.208,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,14,2026-09-12T09:12:25.731Z,2026-10-27T04:29:04.906Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,3187,1185.5,84.4,73,888,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-27T04:23:29.786Z
+socks4,201.79.50.139,10000,socks4://201.79.50.139:10000,elite,true,122,122.5,62.7,66.2,467,201.79.50.139,2,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",12,2026-10-23T12:25:23.640Z,2026-10-27T04:28:17.489Z
+socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,true,240,767,60.5,57.7,818,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-10-27T04:24:47.641Z

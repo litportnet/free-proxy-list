@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,1472,634.5,46.3,59,791,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-10-26T04:28:38.714Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,1498,482,51.5,55.9,833,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-10-27T04:23:26.568Z
+http,192.203.0.198,999,http://192.203.0.198:999,transparent,false,5805,4485,19.2,22.6,492,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-10-27T04:20:14.531Z
+http,192.203.0.70,999,http://192.203.0.70:999,transparent,true,9907,2691.5,23.2,22.5,453,192.203.0.70,1,pr,Yabucoa,Yabucoa,America/Puerto_Rico,63393,BOOM NET,13,2025-09-05T20:06:33.026Z,2026-10-27T04:23:36.399Z

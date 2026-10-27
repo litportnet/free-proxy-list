@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "102.222.231.25",
+    "port": 2333,
+    "url": "http://102.222.231.25:2333",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 7355,
+    "latency_median_ms": 3424,
+    "uptime_24h": 7.1,
+    "uptime_7d": 16.6,
+    "checks_7d": 355,
+    "exit_ip": "102.222.229.17",
+    "exit_shared": 1,
+    "country": "cd",
+    "region": "Kinshasa",
+    "city": "Kinshasa",
+    "timezone": "Africa/Kinshasa",
+    "asn": 37638,
+    "asn_org": "Orioncom SPRL",
+    "sources_count": 16,
+    "first_seen": "2025-09-06T12:38:45.074Z",
+    "last_checked": "2026-10-27T04:23:09.190Z"
+  }
+]

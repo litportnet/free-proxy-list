@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,825,829,48.7,50.3,724,85.117.32.166,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-10-26T04:23:10.889Z
-http,95.104.123.18,8080,http://95.104.123.18:8080,transparent,true,1890,4395,24.7,35.9,590,95.104.123.18,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2026-09-28T14:17:13.126Z,2026-10-26T04:25:58.669Z
+socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,7903,832,55.1,49.9,791,85.117.32.166,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-10-27T04:20:45.906Z
+http,80.241.251.54,8080,http://80.241.251.54:8080,transparent,false,4062,1008.5,35.7,44.5,721,80.241.251.54,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2025-09-10T20:03:30.659Z,2026-10-27T04:19:52.431Z
+http,85.117.61.74,8080,http://85.117.61.74:8080,transparent,false,3804,3462,15.8,21.7,341,85.117.61.74,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,15,2025-09-05T20:06:33.424Z,2026-10-27T04:21:02.057Z
+http,85.117.61.112,8080,http://85.117.61.112:8080,transparent,false,2861,3967.5,16.4,14.8,264,85.117.61.112,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,25,2026-02-02T01:07:03.351Z,2026-10-27T04:19:48.143Z
+http,45.143.108.114,8080,http://45.143.108.114:8080,transparent,false,5504,4467.5,13.2,8.1,149,45.143.108.114,1,ge,Imereti,Zestaponi,Asia/Tbilisi,208320,AIRMAX LLC,21,2025-09-06T05:35:04.634Z,2026-10-27T04:29:23.953Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,175.100.34.177,8080,http://175.100.34.177:8080,transparent,false,1095,1238,27.7,28,510,175.100.34.177,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38623,ISP/IXP IN CAMBODIA WITH THE BEST VERVICE IN THERE.,13,2025-09-05T20:06:32.809Z,2026-10-26T04:25:59.254Z

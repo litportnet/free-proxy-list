@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,85.117.248.36,1080,socks5://85.117.248.36:1080,elite,false,7874,3155,17,25.1,479,85.117.248.36,1,es,Catalonia,Sant Feliu de Llobregat,Europe/Madrid,210086,CONNECTA 1876 SLU,20,2026-04-27T13:05:58.882Z,2026-10-26T04:27:15.798Z

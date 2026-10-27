@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.170.34.154,999,http://45.170.34.154:999,transparent,false,6736,3850,31.4,43.5,662,45.170.34.154,1,hn,El Paraíso Department,Danlí,America/Tegucigalpa,267761,Onda Network S de R.L,11,2026-10-03T04:08:28.750Z,2026-10-27T04:22:51.293Z
+http,190.61.37.142,999,http://190.61.37.142:999,transparent,false,3888,5601.5,10.3,18.8,389,190.61.37.142,1,hn,Francisco Morazán Department,Tegucigalpa,America/Tegucigalpa,52468,UFINET PANAMA S.A.,20,2026-10-18T09:20:32.974Z,2026-10-27T04:23:14.041Z
+http,190.61.80.68,999,http://190.61.80.68:999,transparent,true,433,3372.5,46.2,,13,190.61.80.68,1,hn,Francisco Morazán Department,Tegucigalpa,America/Tegucigalpa,52468,UFINET PANAMA S.A.,9,2026-10-27T02:10:27.629Z,2026-10-27T04:25:55.659Z

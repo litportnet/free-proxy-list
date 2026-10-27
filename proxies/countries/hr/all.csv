@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,false,6279,2318,61.9,58,626,149.102.247.134,1,hr,Zagreb,Zagreb,Europe/Zagreb,212238,Datacamp Limited,20,2026-08-24T21:47:23.618Z,2026-10-26T04:26:55.365Z
+http,188.129.8.242,81,http://188.129.8.242:81,elite,false,1420,2413.5,43.9,47.7,753,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-10-27T04:26:48.872Z

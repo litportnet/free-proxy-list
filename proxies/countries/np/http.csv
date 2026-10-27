@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,110.44.115.83,8080,http://110.44.115.83:8080,elite,false,4211,2726.5,17.8,19.2,402,110.44.115.83,1,np,Koshi,Biratnagar,Asia/Kathmandu,45650,VIA NET COMMUNICATION LTD.,26,2025-09-10T21:03:19.441Z,2026-10-26T04:26:35.237Z
+http,110.34.8.110,8080,http://110.34.8.110:8080,transparent,false,7579,5736,7.7,9.5,200,110.34.13.4,1,np,Koshi,Dharān,Asia/Kathmandu,4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",18,2025-09-05T20:06:38.031Z,2026-10-27T04:21:54.663Z

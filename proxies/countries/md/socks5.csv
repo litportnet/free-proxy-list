@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,95.65.99.157,1080,socks5://95.65.99.157:1080,elite,true,933,1920.5,35.9,36.2,628,95.65.99.157,1,md,Cahul,Cahul,Europe/Chisinau,31252,StarNet Solutii SRL,15,2026-10-10T04:37:01.209Z,2026-10-26T04:26:20.557Z

@@ -1,7 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,3958,2552,73.7,75.3,841,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-26T04:29:14.026Z
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,902,910.5,82.8,71.6,772,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-26T04:24:47.573Z
-socks4,196.1.182.130,1080,socks4://196.1.182.130:1080,elite,true,1522,3074,52.9,48.8,687,196.1.182.130,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,14,2026-07-06T20:02:55.749Z,2026-10-26T04:31:42.050Z
-socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,991,1495.5,45.3,44.7,675,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-26T04:27:13.714Z
-socks4,105.235.201.234,32639,socks4://105.235.201.234:32639,elite,false,2356,2094.5,52.7,43.8,607,105.235.201.234,1,ng,Lagos,Lagos,Africa/Lagos,37269,Information Connectivity Solutions Limited,13,2025-09-05T00:23:07.143Z,2026-10-26T04:26:55.338Z
-http,102.90.0.149,8080,http://102.90.0.149:8080,transparent,false,4017,2012,24.4,33.5,568,102.90.0.149,1,ng,Delta,Warri,Africa/Lagos,29465,MTN NIGERIA Communication limited,15,2026-09-03T05:48:46.627Z,2026-10-26T04:32:12.620Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,941,1453.5,80.6,76.4,900,102.36.231.77,1,ng,Lagos,Ikeja,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-10-27T04:26:14.175Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,907,859,70.2,70,816,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-27T04:23:57.595Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,true,978,3009,45.1,44.8,752,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-27T04:29:50.893Z
+socks5,102.69.146.59,7080,socks5://102.69.146.59:7080,elite,false,2288,3573,24.6,30.6,530,102.69.146.59,1,ng,Lagos,Ikeja,Africa/Lagos,328451,IP Express Ltd,21,2026-03-05T04:43:40.305Z,2026-10-27T04:29:03.347Z

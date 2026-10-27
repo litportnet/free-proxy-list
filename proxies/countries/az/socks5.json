@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.191.253.56",
+    "port": 1080,
+    "url": "socks5://5.191.253.56:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8830,
+    "latency_median_ms": 2224,
+    "uptime_24h": 37.8,
+    "uptime_7d": 45.1,
+    "checks_7d": 348,
+    "exit_ip": "5.191.253.56",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 200729,
+    "asn_org": "AzInTelecom LLC",
+    "sources_count": 7,
+    "first_seen": "2026-10-23T23:31:11.531Z",
+    "last_checked": "2026-10-27T04:22:12.688Z"
+  }
+]

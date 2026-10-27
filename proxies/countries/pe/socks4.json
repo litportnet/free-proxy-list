@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "38.253.80.35",
+    "port": 5678,
+    "url": "socks4://38.253.80.35:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 7175,
+    "latency_median_ms": 7175,
+    "uptime_24h": 55.7,
+    "uptime_7d": 47.7,
+    "checks_7d": 407,
+    "exit_ip": "38.187.11.53",
+    "exit_shared": 1,
+    "country": "pe",
+    "region": "Lima Province",
+    "city": "Lima",
+    "timezone": "America/Lima",
+    "asn": 271814,
+    "asn_org": "NEXTNET SAC",
+    "sources_count": 11,
+    "first_seen": "2026-10-23T15:27:00.598Z",
+    "last_checked": "2026-10-27T04:27:13.897Z"
+  }
+]

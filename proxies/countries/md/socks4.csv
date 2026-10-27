@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.55.3.113,4145,socks4://46.55.3.113:4145,elite,true,764,769,42.9,51.4,718,46.55.3.113,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,8926,Moldtelecom SA,19,2026-07-05T09:46:45.288Z,2026-10-26T04:28:33.457Z
+socks4,46.55.3.113,4145,socks4://46.55.3.113:4145,elite,true,744,767.5,50.4,50.3,779,46.55.3.113,1,md,Chișinău Municipality,Chisinau,Europe/Chisinau,8926,Moldtelecom SA,19,2026-07-05T09:46:45.288Z,2026-10-27T04:23:57.602Z

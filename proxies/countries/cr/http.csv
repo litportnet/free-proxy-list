@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.210.160.159,8080,http://38.210.160.159:8080,transparent,true,599,3058,38.6,40.2,620,38.210.160.159,1,cr,San José,San José,America/Costa_Rica,266853,"Comunicaciones Metropolitanas METROCOM, S.A.",19,2026-10-16T22:01:50.670Z,2026-10-26T04:31:45.751Z
-http,181.78.57.230,999,http://181.78.57.230:999,transparent,false,774,2381,27.6,36.6,134,181.78.57.231,1,cr,San José,San José,America/Costa_Rica,52468,UFINET PANAMA S.A.,15,2026-10-24T12:38:05.096Z,2026-10-26T04:31:01.632Z
+http,181.78.57.231,999,http://181.78.57.231:999,transparent,false,1467,4033.5,17.8,29.8,215,181.78.57.231,1,cr,San José,San José,America/Costa_Rica,52468,UFINET PANAMA S.A.,16,2026-10-24T12:38:03.820Z,2026-10-27T04:27:26.334Z

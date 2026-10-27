@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks4",
-    "ip": "179.27.86.36",
-    "port": 4153,
-    "url": "socks4://179.27.86.36:4153",
+    "ip": "200.125.40.38",
+    "port": 5678,
+    "url": "socks4://200.125.40.38:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1832,
-    "latency_median_ms": 1329.5,
-    "uptime_24h": 49.2,
-    "uptime_7d": 52,
-    "checks_7d": 742,
-    "exit_ip": "179.27.86.36",
+    "https": true,
+    "latency_ms": 1891,
+    "latency_median_ms": 1913.5,
+    "uptime_24h": 67.4,
+    "uptime_7d": 64.1,
+    "checks_7d": 850,
+    "exit_ip": "200.125.40.38",
     "exit_shared": 1,
     "country": "uy",
     "region": "Montevideo Department",
@@ -19,8 +19,8 @@
     "timezone": "America/Montevideo",
     "asn": 6057,
     "asn_org": "Administracion Nacional de Telecomunicaciones",
-    "sources_count": 22,
-    "first_seen": "2025-09-04T23:49:06.130Z",
-    "last_checked": "2026-10-26T04:28:48.710Z"
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:00.001Z",
+    "last_checked": "2026-10-27T04:22:43.662Z"
   }
 ]

@@ -6,11 +6,11 @@
     "url": "socks4://179.189.219.98:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1424,
-    "latency_median_ms": 1923.5,
-    "uptime_24h": 70,
-    "uptime_7d": 70.4,
-    "checks_7d": 821,
+    "latency_ms": 1812,
+    "latency_median_ms": 2814,
+    "uptime_24h": 69.3,
+    "uptime_7d": 69.7,
+    "checks_7d": 874,
     "exit_ip": "179.189.219.98",
     "exit_shared": 1,
     "country": "py",
@@ -21,7 +21,7 @@
     "asn_org": "TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A)",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:58.729Z",
-    "last_checked": "2026-10-26T04:23:52.208Z"
+    "last_checked": "2026-10-27T04:24:17.954Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://190.104.143.94:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2009,
-    "latency_median_ms": 1993.5,
-    "uptime_24h": 44.1,
-    "uptime_7d": 40.8,
-    "checks_7d": 669,
+    "latency_ms": 4051,
+    "latency_median_ms": 3017.5,
+    "uptime_24h": 34.5,
+    "uptime_7d": 39.2,
+    "checks_7d": 730,
     "exit_ip": "190.104.143.94",
     "exit_shared": 1,
     "country": "py",
@@ -45,6 +45,6 @@
     "asn_org": "Núcleo S.A.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:02.139Z",
-    "last_checked": "2026-10-26T04:22:42.094Z"
+    "last_checked": "2026-10-27T04:28:02.211Z"
   }
 ]

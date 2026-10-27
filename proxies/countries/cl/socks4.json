@@ -6,11 +6,11 @@
     "url": "socks4://190.54.100.74:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2637,
-    "latency_median_ms": 4528,
-    "uptime_24h": 52.5,
-    "uptime_7d": 46,
-    "checks_7d": 698,
+    "latency_ms": 738,
+    "latency_median_ms": 966,
+    "uptime_24h": 57.3,
+    "uptime_7d": 48.1,
+    "checks_7d": 780,
     "exit_ip": "190.54.100.74",
     "exit_shared": 1,
     "country": "cl",
@@ -21,6 +21,6 @@
     "asn_org": "Telmex Chile Internet S.A.",
     "sources_count": 22,
     "first_seen": "2025-09-08T19:34:49.363Z",
-    "last_checked": "2026-10-26T04:24:54.157Z"
+    "last_checked": "2026-10-27T04:28:12.014Z"
   }
 ]

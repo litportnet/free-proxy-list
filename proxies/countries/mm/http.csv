@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,202.165.92.206,8080,http://202.165.92.206:8080,transparent,false,4047,3341.5,49.1,54.3,739,202.165.92.206,1,mm,Yangon,Yangon,Asia/Yangon,136255,"Telecom International Myanmar Co., Ltd",12,2025-09-08T12:19:06.894Z,2026-10-26T04:28:20.859Z

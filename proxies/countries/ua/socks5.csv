@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,143.198.239.45,10023,socks5://143.198.239.45:10023,elite,true,5728,6129,63.1,76.6,371,193.218.118.128,1,ua,Kyiv City,Kyiv,Europe/Kyiv,207656,Epinatura LLC,1,2026-10-23T06:22:26.691Z,2026-10-26T04:23:36.359Z
-socks5,46.35.227.251,1082,socks5://46.35.227.251:1082,elite,false,2108,2257.5,63.3,69,187,104.28.255.119,2,ua,Sevastopol City,Sevastopol,Europe/Simferopol,13335,"Cloudflare, Inc.",15,2026-10-05T09:36:36.918Z,2026-10-26T04:22:37.771Z
-socks5,91.222.66.144,1080,socks5://91.222.66.144:1080,elite,false,2191,2061.5,46.1,50.3,175,91.222.66.144,1,ua,Kyiv Oblast,Myronivka,Europe/Kyiv,8870,Overseas Technologies LLC,12,2026-10-24T16:40:10.893Z,2026-10-26T04:23:17.929Z
-socks5,2.63.188.78,1080,socks5://2.63.188.78:1080,elite,false,2248,2270,44.4,45.3,309,2.63.188.78,1,ua,Zaporizhzhia,Melitopol,Europe/Kyiv,201776,Miranda-Media Ltd,16,2025-09-16T03:38:42.674Z,2026-10-26T04:27:10.961Z
-socks5,193.200.85.129,1080,socks5://193.200.85.129:1080,elite,false,7999,1916.5,23.4,23.9,414,193.200.85.129,1,ua,Kyiv City,Kyiv,Europe/Kyiv,206907,UAGROUP LLC,14,2026-10-11T12:54:00.184Z,2026-10-26T04:30:40.523Z
+socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,1799,1820.5,35.5,46.6,755,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-10-27T04:23:26.549Z
+socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,true,2162,2051.5,53.9,46.2,697,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-10-27T04:21:48.156Z
+socks5,193.200.85.129,1080,socks5://193.200.85.129:1080,elite,true,860,1944.5,36.9,24.5,469,193.200.85.129,1,ua,Kyiv City,Kyiv,Europe/Kyiv,206907,UAGROUP LLC,14,2026-10-11T12:54:00.184Z,2026-10-27T04:23:12.976Z

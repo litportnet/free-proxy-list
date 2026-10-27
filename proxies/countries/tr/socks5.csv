@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,213.142.159.108,11080,socks5://213.142.159.108:11080,elite,true,947,1577,100,100,88,213.142.159.108,2,tr,Istanbul,Istanbul,Europe/Istanbul,212219,HOSTING DUNYAM,12,2026-10-25T13:51:20.120Z,2026-10-26T04:29:52.324Z
-socks5,78.187.157.235,1080,socks5://78.187.157.235:1080,elite,false,8788,2477,49.6,47.9,144,78.187.157.235,1,tr,Adana,Adana,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,11,2026-10-24T22:43:21.952Z,2026-10-26T04:31:05.804Z
+socks5,213.142.159.108,11080,socks5://213.142.159.108:11080,elite,true,1615,943.5,99.3,99.6,232,213.142.159.108,2,tr,Istanbul,Istanbul,Europe/Istanbul,212219,HOSTING DUNYAM,13,2026-10-25T13:51:20.120Z,2026-10-27T04:27:11.717Z
+socks5,78.187.157.235,1080,socks5://78.187.157.235:1080,elite,false,2143,4126.5,51.5,49.5,273,78.187.157.235,1,tr,Adana,Adana,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,11,2026-10-24T22:43:21.952Z,2026-10-27T04:22:38.277Z
+socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,false,4184,4192.5,55.8,45.9,663,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-09-29T01:23:09.783Z,2026-10-27T04:21:03.137Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,4209,1297.5,70.8,65.6,627,135.136.63.105,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,17,2026-09-21T21:11:29.587Z,2026-10-26T04:25:54.932Z
+socks5,56.155.73.159,4443,socks5://56.155.73.159:4443,unknown,false,5006,1834.5,18.2,,26,56.155.73.159,2,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,1,2026-08-07T16:51:11.196Z,2026-10-27T04:22:59.422Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,false,6709,882,64.1,52.8,634,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-10-26T04:24:38.962Z
-socks5,212.3.206.215,10800,socks5://212.3.206.215:10800,elite,false,2145,1887,41.7,37.7,562,212.3.206.215,1,lv,Riga,Riga,Europe/Riga,24921,Latvijas Mobilais Telefons SIA,15,2026-09-29T12:28:59.410Z,2026-10-26T04:25:58.658Z

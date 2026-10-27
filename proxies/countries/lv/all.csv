@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,false,6709,882,64.1,52.8,634,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,19,2026-07-06T17:06:50.617Z,2026-10-26T04:24:38.962Z
-socks4,46.161.49.174,10808,socks4://46.161.49.174:10808,elite,true,815,1998.5,37.2,52.6,405,45.130.60.10,1,lv,Riga,Riga,Europe/Riga,219335,COREVANCE LTD,13,2026-10-14T00:25:13.943Z,2026-10-26T04:26:08.530Z
-socks5,212.3.206.215,10800,socks5://212.3.206.215:10800,elite,false,2145,1887,41.7,37.7,562,212.3.206.215,1,lv,Riga,Riga,Europe/Riga,24921,Latvijas Mobilais Telefons SIA,15,2026-09-29T12:28:59.410Z,2026-10-26T04:25:58.658Z
+socks4,159.148.146.65,5678,socks4://159.148.146.65:5678,elite,true,1740,1220.5,54.2,40.8,679,159.148.146.65,1,lv,Riga,Riga,Europe/Riga,2588,SIA BITE Latvija,22,2025-09-04T23:49:06.204Z,2026-10-27T04:21:29.087Z

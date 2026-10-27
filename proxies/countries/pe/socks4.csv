@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,38.253.80.35,5678,socks4://38.253.80.35:5678,elite,true,7175,7175,55.7,47.7,407,38.187.11.53,1,pe,Lima Province,Lima,America/Lima,271814,NEXTNET SAC,11,2026-10-23T15:27:00.598Z,2026-10-27T04:27:13.897Z

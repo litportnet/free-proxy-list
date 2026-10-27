@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "46.38.138.184",
+    "port": 1080,
+    "url": "socks5://46.38.138.184:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1388,
+    "latency_median_ms": 1840.5,
+    "uptime_24h": 37.5,
+    "uptime_7d": 37.5,
+    "checks_7d": 88,
+    "exit_ip": "46.38.138.184",
+    "exit_shared": 2,
+    "country": "ir",
+    "region": "Tehran",
+    "city": "Tehran",
+    "timezone": "Asia/Tehran",
+    "asn": 204104,
+    "asn_org": "Giti Secure Cloud LLC",
+    "sources_count": 6,
+    "first_seen": "2026-10-26T11:02:50.228Z",
+    "last_checked": "2026-10-27T04:30:15.679Z"
+  }
+]

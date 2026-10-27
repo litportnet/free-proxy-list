@@ -5,12 +5,12 @@
     "port": 8998,
     "url": "http://84.255.40.228:8998",
     "anonymity": "transparent",
-    "https": true,
-    "latency_ms": 1120,
-    "latency_median_ms": 4130,
-    "uptime_24h": 28.1,
-    "uptime_7d": 31.9,
-    "checks_7d": 493,
+    "https": false,
+    "latency_ms": 2858,
+    "latency_median_ms": 4833,
+    "uptime_24h": 25.8,
+    "uptime_7d": 28.7,
+    "checks_7d": 522,
     "exit_ip": "84.255.40.228",
     "exit_shared": 1,
     "country": "mt",
@@ -21,6 +21,6 @@
     "asn_org": "Melita Limited",
     "sources_count": 18,
     "first_seen": "2025-09-05T00:24:10.314Z",
-    "last_checked": "2026-10-26T04:30:57.954Z"
+    "last_checked": "2026-10-27T04:21:16.117Z"
   }
 ]

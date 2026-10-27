@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.117.136.137,1080,socks4://103.117.136.137:1080,elite,true,2238,2602.5,98.2,98.2,56,103.117.136.137,2,hk,Islands,Tung Chung,Asia/Hong_Kong,401696,cognetcloud INC,9,2026-10-26T19:06:48.959Z,2026-10-27T04:27:22.530Z
+socks4,38.76.212.39,8181,socks4://38.76.212.39:8181,elite,false,7901,7576,66.4,78.5,908,38.76.212.39,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,401701,cognetcloud INC,19,2026-09-10T22:54:10.489Z,2026-10-27T04:26:15.261Z
+socks4,165.154.20.187,10808,socks4://165.154.20.187:10808,elite,false,5105,5454,39.8,57,823,165.154.20.187,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-08-10T03:23:28.713Z,2026-10-27T04:26:48.875Z
+socks4,103.38.81.159,1080,socks4://103.38.81.159:1080,elite,false,8734,4127,23.9,24.3,532,103.38.81.159,1,hk,Islands,Tung Chung,Asia/Hong_Kong,401696,cognetcloud INC,15,2026-10-06T22:56:08.515Z,2026-10-27T04:26:48.354Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,212.39.114.139,5678,socks4://212.39.114.139:5678,elite,true,7829,1708,41.2,52.2,698,212.39.114.139,1,ba,Federation of B&H,Čitluk,Europe/Sarajevo,20875,JP HT d.d. Mostar,22,2025-09-04T23:48:53.450Z,2026-10-26T04:23:03.835Z
+socks4,212.39.114.139,5678,socks4://212.39.114.139:5678,elite,true,702,773,57.6,52.9,769,212.39.114.139,1,ba,Federation of B&H,Čitluk,Europe/Sarajevo,20875,JP HT d.d. Mostar,22,2025-09-04T23:48:53.450Z,2026-10-27T04:21:26.942Z
