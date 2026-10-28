@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,197.234.13.55,4145,socks4://197.234.13.55:4145,elite,false,4338,4338,100,,7,197.234.14.2,1,sc,Takamaka,Takamaka,Indian/Mahe,36902,Intelvision Ltd,2,2025-09-04T23:49:06.771Z,2026-10-28T04:27:09.169Z

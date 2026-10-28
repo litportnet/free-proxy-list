@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,54.198.140.56,26214,http://54.198.140.56:26214,unknown,false,1972,954,22.2,,47,54.198.140.56,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,1,2026-09-29T06:25:58.093Z,2026-10-27T04:28:03.884Z
+http,16.26.208.68,29549,http://16.26.208.68:29549,unknown,false,4757,4757,100,,1,16.26.208.68,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,1,2026-10-28T04:24:17.864Z,2026-10-28T04:24:21.879Z

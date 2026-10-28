@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,2127,1189,74.1,66.8,852,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-10-27T04:28:20.849Z
-socks4,212.34.230.102,4153,socks4://212.34.230.102:4153,elite,true,1437,1630.5,36.5,28.8,517,212.34.230.101,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,21,2026-07-06T02:53:45.276Z,2026-10-27T04:29:12.876Z
-socks4,185.215.53.129,3629,socks4://185.215.53.129:3629,elite,false,825,3850.5,14,10.6,179,185.215.53.146,1,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,10,2025-09-04T23:48:54.331Z,2026-10-27T04:19:44.908Z

@@ -6,11 +6,11 @@
     "url": "socks4://212.39.114.139:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 702,
-    "latency_median_ms": 773,
-    "uptime_24h": 57.6,
-    "uptime_7d": 52.9,
-    "checks_7d": 769,
+    "latency_ms": 1901,
+    "latency_median_ms": 688,
+    "uptime_24h": 55,
+    "uptime_7d": 52.8,
+    "checks_7d": 801,
     "exit_ip": "212.39.114.139",
     "exit_shared": 1,
     "country": "ba",
@@ -21,6 +21,6 @@
     "asn_org": "JP HT d.d. Mostar",
     "sources_count": 22,
     "first_seen": "2025-09-04T23:48:53.450Z",
-    "last_checked": "2026-10-27T04:21:26.942Z"
+    "last_checked": "2026-10-28T04:26:46.806Z"
   }
 ]

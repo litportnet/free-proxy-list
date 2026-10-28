@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.184.72.130,8080,http://93.184.72.130:8080,transparent,true,1049,4816.5,35.5,28.7,522,93.184.72.130,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,29405,VNET a.s.,25,2026-09-02T00:32:15.563Z,2026-10-28T04:32:31.853Z

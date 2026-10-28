@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.191.253.56,1080,socks5://5.191.253.56:1080,elite,true,8830,2224,37.8,45.1,348,5.191.253.56,1,az,Baki,Baku,Asia/Baku,200729,AzInTelecom LLC,7,2026-10-23T23:31:11.531Z,2026-10-27T04:22:12.688Z
-socks4,185.43.189.253,3629,socks4://185.43.189.253:3629,elite,false,8107,1984.5,40.4,27.4,427,185.43.189.253,1,az,Gǝncǝ,Ganja,Asia/Baku,201167,Caspian Telecom LLC,22,2026-04-17T19:00:26.783Z,2026-10-27T04:24:15.721Z
+socks5,5.191.253.56,1080,socks5://5.191.253.56:1080,elite,true,1464,2287.5,46.5,45.5,462,5.191.253.56,1,az,Baki,Baku,Asia/Baku,200729,AzInTelecom LLC,7,2026-10-23T23:31:11.531Z,2026-10-28T04:28:38.239Z

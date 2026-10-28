@@ -6,11 +6,11 @@
     "url": "http://41.184.92.220:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 907,
-    "latency_median_ms": 859,
-    "uptime_24h": 70.2,
-    "uptime_7d": 70,
-    "checks_7d": 816,
+    "latency_ms": 896,
+    "latency_median_ms": 907,
+    "uptime_24h": 71.7,
+    "uptime_7d": 72,
+    "checks_7d": 852,
     "exit_ip": "41.73.242.219",
     "exit_shared": 1,
     "country": "ng",
@@ -21,6 +21,6 @@
     "asn_org": "Inq. Digital Nigeria",
     "sources_count": 11,
     "first_seen": "2026-04-12T22:59:20.773Z",
-    "last_checked": "2026-10-27T04:23:57.595Z"
+    "last_checked": "2026-10-28T04:29:37.635Z"
   }
 ]

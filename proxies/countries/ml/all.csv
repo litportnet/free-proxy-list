@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.47,17385,socks5://45.74.31.47:17385,elite,true,1804,1611.5,47.6,54.6,77,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),2,2026-10-17T03:04:28.395Z,2026-10-28T04:29:22.871Z
+socks5,45.74.31.47,15945,socks5://45.74.31.47:15945,elite,true,8325,1446,48.4,53.3,120,197.155.134.251,2,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,2,2026-10-17T03:04:28.395Z,2026-10-28T04:23:31.185Z
+socks5,45.74.31.47,16129,socks5://45.74.31.47:16129,elite,true,1128,1626.5,76.7,39,249,197.155.134.251,2,ml,Bamako,Bamako,Africa/Bamako,30985,Orange Mali SA,1,2026-10-11T12:53:55.042Z,2026-10-28T04:26:46.225Z
+socks5,45.74.31.46,12651,socks5://45.74.31.46:12651,elite,true,7362,3865.5,40,36,50,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),11,2026-10-13T19:22:33.857Z,2026-10-28T04:25:09.748Z
+socks5,45.74.31.41,14063,socks5://45.74.31.41:14063,elite,true,1209,1500,42.9,23.4,77,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),2,2026-10-14T00:25:14.272Z,2026-10-28T04:27:16.800Z
+socks5,45.74.31.47,17388,socks5://45.74.31.47:17388,elite,false,4019,3751.5,39.3,23.4,128,217.64.102.75,4,ml,Bamako,Bamako,Africa/Bamako,21271,Society of Mali's Telecommunications (SOTELMA),9,2026-10-16T04:52:48.868Z,2026-10-28T04:29:45.984Z

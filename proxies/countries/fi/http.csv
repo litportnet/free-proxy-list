@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,3770,1037,98.6,96.4,979,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-27T04:20:31.871Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,607,606.5,94.4,93.9,982,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-27T04:27:48.611Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,566,753.5,96.5,97.1,989,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-28T04:26:28.072Z
+http,66.151.34.89,80,http://66.151.34.89:80,elite,false,748,595,86.3,93.3,980,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-10-28T04:26:22.113Z
+http,45.130.127.14,3128,http://45.130.127.14:3128,transparent,false,6440,5250,42.6,27,523,45.130.127.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,18,2026-10-12T16:08:15.580Z,2026-10-28T04:25:40.250Z
+http,95.81.126.73,3128,http://95.81.126.73:3128,elite,false,5970,6004.5,18.6,22,327,95.81.126.73,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,14,2026-05-23T09:43:52.812Z,2026-10-28T04:31:19.671Z

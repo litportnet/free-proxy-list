@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,107.191.47.162,1081,socks4://107.191.47.162:1081,elite,true,517,531.5,82.4,83,329,107.191.47.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",2,2026-10-24T17:40:37.836Z,2026-10-27T04:22:44.221Z
+socks4,107.191.47.162,1081,socks4://107.191.47.162:1081,elite,true,529,549,92.1,85.7,468,107.191.47.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",2,2026-10-24T17:40:37.836Z,2026-10-28T04:23:46.965Z
+socks4,107.191.62.162,1080,socks4://107.191.62.162:1080,elite,true,2600,2602.5,72.9,72.9,70,107.191.62.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",8,2026-10-27T16:17:47.991Z,2026-10-28T04:30:27.170Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,true,8297,8478,17.2,59.9,706,157.173.115.35,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T10:50:54.475Z,2026-10-28T04:27:46.816Z

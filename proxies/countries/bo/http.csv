@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,158.172.153.36,999,http://158.172.153.36:999,transparent,false,2627,3434,33.6,34.5,627,158.172.153.36,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,23,2025-12-29T19:57:24.905Z,2026-10-27T04:19:43.288Z

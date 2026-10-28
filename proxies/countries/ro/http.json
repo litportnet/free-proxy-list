@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "34.229.190.39",
+    "port": 603,
+    "url": "http://34.229.190.39:603",
+    "anonymity": "unknown",
+    "https": false,
+    "latency_ms": 1751,
+    "latency_median_ms": 1751,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 1,
+    "exit_ip": "34.229.190.39",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Bucharest",
+    "city": "Bucharest",
+    "timezone": "Europe/Bucharest",
+    "asn": 214209,
+    "asn_org": "Internet Magnate (Pty) Ltd",
+    "sources_count": 1,
+    "first_seen": "2026-10-28T04:24:17.864Z",
+    "last_checked": "2026-10-28T04:24:19.704Z"
+  }
+]

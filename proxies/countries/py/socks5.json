@@ -5,12 +5,12 @@
     "port": 13049,
     "url": "socks5://181.94.197.37:13049",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1167,
-    "latency_median_ms": 3280.5,
-    "uptime_24h": 46.3,
-    "uptime_7d": 38.7,
-    "checks_7d": 661,
+    "https": true,
+    "latency_ms": 2312,
+    "latency_median_ms": 3319,
+    "uptime_24h": 44.7,
+    "uptime_7d": 39.7,
+    "checks_7d": 706,
     "exit_ip": "181.94.197.37",
     "exit_shared": 1,
     "country": "py",
@@ -21,6 +21,6 @@
     "asn_org": "Núcleo S.A.",
     "sources_count": 21,
     "first_seen": "2026-09-16T07:20:15.450Z",
-    "last_checked": "2026-10-27T04:21:17.200Z"
+    "last_checked": "2026-10-28T04:31:35.437Z"
   }
 ]

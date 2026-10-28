@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.165.185.211,4153,socks4://213.165.185.211:4153,elite,false,3774,1780.5,62.2,58.5,817,213.165.185.211,1,mt,In-Naxxar,Naxxar,Europe/Malta,12709,Melita Limited,22,2025-09-04T23:02:08.138Z,2026-10-27T04:28:59.156Z
+socks4,213.165.185.211,4153,socks4://213.165.185.211:4153,elite,true,781,778.5,68.2,60.5,859,213.165.185.211,1,mt,In-Naxxar,Naxxar,Europe/Malta,12709,Melita Limited,22,2025-09-04T23:02:08.138Z,2026-10-28T04:25:10.278Z

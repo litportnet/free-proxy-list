@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,125.24.156.113,7080,socks5://125.24.156.113:7080,elite,true,1543,1580.5,33.6,25.3,529,1.20.143.87,1,th,Chumphon,Lang Suan,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-04-08T09:00:00.596Z,2026-10-27T04:28:51.235Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "169.255.48.50",
+    "port": 1080,
+    "url": "socks4://169.255.48.50:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8656,
+    "latency_median_ms": 1516,
+    "uptime_24h": 58.7,
+    "uptime_7d": 49.8,
+    "checks_7d": 803,
+    "exit_ip": "169.255.48.30",
+    "exit_shared": 1,
+    "country": "tz",
+    "region": "Dar es Salaam Region",
+    "city": "Dar es Salaam",
+    "timezone": "Africa/Dar_es_Salaam",
+    "asn": 327792,
+    "asn_org": "Computer Sales & Services",
+    "sources_count": 16,
+    "first_seen": "2026-10-04T01:19:38.223Z",
+    "last_checked": "2026-10-28T04:26:42.408Z"
+  }
+]

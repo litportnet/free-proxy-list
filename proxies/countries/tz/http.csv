@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.78.170.178,8040,http://41.78.170.178:8040,transparent,false,5123,3459.5,23.1,20,230,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-10-27T04:20:45.919Z

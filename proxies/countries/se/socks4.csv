@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,false,6698,7417,77.7,77.6,900,89.37.63.73,1,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,6,2026-07-13T12:28:32.242Z,2026-10-27T04:26:50.490Z
-socks4,160.187.1.225,9050,socks4://160.187.1.225:9050,elite,true,3250,3280.5,18.7,11.3,150,171.25.193.82,2,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,18,2026-06-10T09:31:19.184Z,2026-10-27T04:26:16.373Z
+socks4,85.228.42.180,4153,socks4://85.228.42.180:4153,elite,true,636,634,47.8,51.7,807,85.228.42.180,1,se,Stockholm,Upplands Väsby,Europe/Stockholm,8434,Telenor Sverige AB,21,2026-08-14T19:21:43.347Z,2026-10-28T04:28:04.934Z

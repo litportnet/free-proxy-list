@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,95.85.249.247,1080,socks5://95.85.249.247:1080,elite,true,3843,3392.5,64.7,,17,95.85.249.247,2,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,7,2026-10-28T01:22:39.762Z,2026-10-28T04:22:39.041Z

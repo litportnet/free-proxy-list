@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,144.76.165.249,9050,socks4://144.76.165.249:9050,elite,true,8674,7616,42.9,13.9,115,104.244.72.115,2,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,7,2026-07-21T06:07:20.683Z,2026-10-27T04:26:18.514Z
+socks4,195.225.116.15,4145,socks4://195.225.116.15:4145,elite,false,1648,603,45,37.6,726,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,21,2026-07-16T04:05:54.735Z,2026-10-28T04:23:34.958Z

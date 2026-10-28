@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,1498,482,51.5,55.9,833,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-10-27T04:23:26.568Z
+socks4,172.99.187.33,4145,socks4://172.99.187.33:4145,elite,false,379,380,44.3,30.2,225,172.99.184.65,1,pr,San Juan,San Juan,America/Puerto_Rico,396899,Natural G.C. Inc.,14,2025-09-04T23:49:03.873Z,2026-10-28T04:32:10.756Z

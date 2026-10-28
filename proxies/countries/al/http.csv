@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.196.182.29,8080,http://185.196.182.29:8080,transparent,false,4383,3778,37.7,35.2,688,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,19,2026-10-01T11:53:48.940Z,2026-10-27T04:20:44.832Z
-http,79.106.231.17,8080,http://79.106.231.17:8080,transparent,false,3498,4445.5,9.1,14.3,196,79.106.231.17,1,al,Fier County,Lushnjë,Europe/Tirane,42313,ONE ALBANIA SH.A.,24,2025-09-08T11:37:17.486Z,2026-10-27T04:27:20.934Z
+http,185.196.182.29,8080,http://185.196.182.29:8080,transparent,false,2303,3011,35.1,33.7,715,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,19,2026-10-01T11:53:48.940Z,2026-10-28T04:30:23.027Z

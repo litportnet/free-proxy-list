@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,1126,1079.5,61.3,66.9,695,149.88.22.177,1,mx,Querétaro,Santiago de Querétaro,America/Mexico_City,212238,Datacamp Limited,19,2026-09-20T17:57:13.183Z,2026-10-28T04:24:27.380Z
