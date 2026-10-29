@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,212.237.125.216,6969,socks5://212.237.125.216:6969,elite,true,1203,2187.5,38,41.2,729,212.237.125.216,1,iq,Duhok,Dihok,Asia/Baghdad,206206,Kurdistan Net Company for Computer and Internet Ltd.,21,2025-09-05T20:06:16.156Z,2026-10-29T04:33:07.515Z

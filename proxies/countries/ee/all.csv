@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,5.45.126.128,8080,http://5.45.126.128:8080,elite,false,619,622,85.2,91.8,973,5.45.126.128,1,ee,Ida-Virumaa,Jõhvi,Europe/Tallinn,198068,CLOUD.DOG OU,19,2025-09-10T19:34:46.751Z,2026-10-28T04:26:30.866Z
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,764,1680.5,90,81.4,921,185.157.111.3,1,ee,Harjumaa,Tallinn,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-10-28T04:30:16.682Z
-socks4,95.85.249.247,1080,socks4://95.85.249.247:1080,elite,false,3775,3918,84.2,,19,95.85.249.247,2,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,8,2026-10-28T01:22:48.872Z,2026-10-28T04:32:31.849Z
-socks5,95.85.249.247,1080,socks5://95.85.249.247:1080,elite,true,3843,3392.5,64.7,,17,95.85.249.247,2,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,7,2026-10-28T01:22:39.762Z,2026-10-28T04:22:39.041Z
+socks5,95.85.249.247,1080,socks5://95.85.249.247:1080,elite,true,2064,2118.5,24.7,32,103,95.85.249.247,1,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,11,2026-10-28T01:22:39.762Z,2026-10-29T04:33:48.412Z

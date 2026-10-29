@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,213.142.159.108,11080,socks5://213.142.159.108:11080,elite,true,1268,945,96.5,98.4,374,213.142.159.108,2,tr,Istanbul,Istanbul,Europe/Istanbul,212219,HOSTING DUNYAM,13,2026-10-25T13:51:20.120Z,2026-10-28T04:29:26.101Z
-socks5,78.187.157.235,1080,socks5://78.187.157.235:1080,elite,true,4139,1921,52.3,50.4,403,78.187.157.235,1,tr,Adana,Adana,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,12,2026-10-24T22:43:21.952Z,2026-10-28T04:31:38.066Z
-socks5,194.124.36.7,1080,socks5://194.124.36.7:1080,elite,true,4125,3144.5,40,39.6,369,194.124.36.7,1,tr,Istanbul,Istanbul,Europe/Istanbul,202561,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,13,2026-10-24T03:33:18.558Z,2026-10-28T04:30:43.497Z
+socks5,194.124.36.7,1080,socks5://194.124.36.7:1080,elite,false,8197,4140,48.2,41.4,478,194.124.36.7,1,tr,Istanbul,Istanbul,Europe/Istanbul,202561,High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.,13,2026-10-24T03:33:18.558Z,2026-10-29T04:24:25.025Z

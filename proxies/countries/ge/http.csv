@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.217.74.76,8080,http://178.217.74.76:8080,transparent,true,6814,6137,54.6,,11,178.217.74.76,1,ge,Abkhazia,Sokhumi,Europe/Moscow,51112,OSS Ltd,6,2026-10-28T02:23:13.988Z,2026-10-28T04:24:02.760Z

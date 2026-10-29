@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.171.94.166,1081,socks5://217.171.94.166:1081,elite,false,4253,6728.5,36.2,39.6,617,217.171.94.166,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,43256,Global Broadband Solution Inc,16,2026-10-02T18:03:11.507Z,2026-10-28T04:31:09.195Z
-http,41.79.233.182,8080,http://41.79.233.182:8080,transparent,false,5673,5085.5,38.5,27.6,460,41.79.233.182,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37677,Societe Congolaise des Postes et Telecommunications (SCPT),13,2026-05-21T19:28:42.984Z,2026-10-28T04:30:47.172Z
-http,102.222.231.1,2333,http://102.222.231.1:2333,transparent,false,5936,5547.5,29.3,22.3,305,102.222.229.17,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37638,Orioncom SPRL,12,2025-09-05T20:06:35.483Z,2026-10-28T04:32:22.322Z
+socks5,217.171.94.166,1081,socks5://217.171.94.166:1081,elite,true,2164,2789.5,35.7,39.5,633,217.171.94.166,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,43256,Global Broadband Solution Inc,16,2026-10-02T18:03:11.507Z,2026-10-29T04:27:22.563Z
+http,102.222.231.1,2333,http://102.222.231.1:2333,transparent,true,3014,5257,26.5,23.5,332,102.222.229.17,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37638,Orioncom SPRL,13,2025-09-05T20:06:35.483Z,2026-10-29T04:30:24.880Z

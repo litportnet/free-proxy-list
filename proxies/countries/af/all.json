@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "111.125.154.22",
-    "port": 1080,
-    "url": "socks4://111.125.154.22:1080",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1091,
-    "latency_median_ms": 1585.5,
-    "uptime_24h": 73.3,
-    "uptime_7d": 50.7,
-    "checks_7d": 773,
-    "exit_ip": "111.125.154.22",
-    "exit_shared": 1,
-    "country": "af",
-    "region": "Takhar",
-    "city": "Darqad",
-    "timezone": "Asia/Kabul",
-    "asn": 45178,
-    "asn_org": "ROSHAN",
-    "sources_count": 16,
-    "first_seen": "2026-10-01T22:53:09.008Z",
-    "last_checked": "2026-10-28T04:24:04.933Z"
-  },
-  {
     "protocol": "socks5",
     "ip": "103.96.233.10",
     "port": 1080,
     "url": "socks5://103.96.233.10:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4541,
-    "latency_median_ms": 3083,
-    "uptime_24h": 44.8,
-    "uptime_7d": 40.7,
-    "checks_7d": 631,
+    "latency_ms": 2067,
+    "latency_median_ms": 3242.5,
+    "uptime_24h": 47.6,
+    "uptime_7d": 42.4,
+    "checks_7d": 675,
     "exit_ip": "103.96.233.10",
     "exit_shared": 1,
     "country": "af",
@@ -45,6 +21,6 @@
     "asn_org": "Easy Connect- ISP",
     "sources_count": 18,
     "first_seen": "2026-06-12T04:50:44.329Z",
-    "last_checked": "2026-10-28T04:23:02.362Z"
+    "last_checked": "2026-10-29T04:29:41.376Z"
   }
 ]

@@ -6,11 +6,11 @@
     "url": "socks4://172.99.187.33:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 379,
-    "latency_median_ms": 380,
-    "uptime_24h": 44.3,
-    "uptime_7d": 30.2,
-    "checks_7d": 225,
+    "latency_ms": 357,
+    "latency_median_ms": 1405.5,
+    "uptime_24h": 34.4,
+    "uptime_7d": 32.4,
+    "checks_7d": 340,
     "exit_ip": "172.99.184.65",
     "exit_shared": 1,
     "country": "pr",
@@ -21,6 +21,6 @@
     "asn_org": "Natural G.C. Inc.",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:03.873Z",
-    "last_checked": "2026-10-28T04:32:10.756Z"
+    "last_checked": "2026-10-29T04:31:57.646Z"
   }
 ]

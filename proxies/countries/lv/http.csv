@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,80.232.224.144,8080,http://80.232.224.144:8080,transparent,true,6804,3944,53.3,,45,80.232.224.144,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,13,2026-10-27T20:20:02.006Z,2026-10-28T04:29:11.694Z

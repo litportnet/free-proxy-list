@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "212.237.125.216",
+    "port": 6969,
+    "url": "socks5://212.237.125.216:6969",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1203,
+    "latency_median_ms": 2187.5,
+    "uptime_24h": 38,
+    "uptime_7d": 41.2,
+    "checks_7d": 729,
+    "exit_ip": "212.237.125.216",
+    "exit_shared": 1,
+    "country": "iq",
+    "region": "Duhok",
+    "city": "Dihok",
+    "timezone": "Asia/Baghdad",
+    "asn": 206206,
+    "asn_org": "Kurdistan Net Company for Computer and Internet Ltd.",
+    "sources_count": 21,
+    "first_seen": "2025-09-05T20:06:16.156Z",
+    "last_checked": "2026-10-29T04:33:07.515Z"
+  }
+]

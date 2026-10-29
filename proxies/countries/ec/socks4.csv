@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,4072,2012,75,70.5,902,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-10-28T04:22:09.754Z
-socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,1550,1546.5,63.3,60.3,857,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-10-28T04:30:38.764Z
-socks4,45.163.207.18,1080,socks4://45.163.207.18:1080,elite,false,550,2582.5,48.8,46.1,816,45.163.207.18,1,ec,Los Ríos,Ventanas,America/Guayaquil,267684,VISIONMAGICA SOCIEDAD ANONIMA,14,2026-07-13T05:24:59.944Z,2026-10-28T04:31:31.776Z
-socks4,45.71.115.17,1080,socks4://45.71.115.17:1080,elite,false,3514,1505,30.2,31.8,526,45.238.57.129,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,20,2026-08-29T03:42:44.739Z,2026-10-28T04:31:07.086Z
+socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,1009,1561,68.7,70.8,915,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-10-29T04:34:03.215Z

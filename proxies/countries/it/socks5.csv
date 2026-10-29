@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2662,2276,82,87.9,963,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-28T04:28:33.845Z
-socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,2543,2290.5,42.9,42.9,77,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,10,2026-10-27T13:16:17.724Z,2026-10-28T04:25:46.841Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,814,794,90.8,87.9,969,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-29T04:33:52.620Z
+socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,4077,4093.5,36.3,38.5,200,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,13,2026-10-27T13:16:17.724Z,2026-10-29T04:24:50.118Z

@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.197.74.126,2080,socks4://185.197.74.126:2080,elite,true,1966,3522,25.6,25.2,568,185.197.74.126,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,13,2026-06-25T18:45:00.146Z,2026-10-28T04:27:43.869Z
-socks4,185.239.141.194,10808,socks4://185.239.141.194:10808,elite,false,8843,6368.5,27.6,18.1,354,185.239.141.194,1,fi,Uusimaa,Helsinki,Europe/Helsinki,50053,VDSka hosting,14,2026-10-13T21:23:37.677Z,2026-10-28T04:23:58.970Z
+socks4,103.71.22.231,1080,socks4://103.71.22.231:1080,elite,true,631,2722,51.2,61.6,320,103.71.22.231,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,4,2026-04-17T04:09:58.424Z,2026-10-29T04:30:14.653Z
+socks4,95.81.126.73,1080,socks4://95.81.126.73:1080,elite,false,2712,3411.5,24.4,25.8,507,95.81.126.73,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,10,2026-05-19T22:05:31.688Z,2026-10-29T04:29:45.614Z

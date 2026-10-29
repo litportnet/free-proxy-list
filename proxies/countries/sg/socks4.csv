@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,35.240.177.77,40001,socks4://35.240.177.77:40001,elite,false,1100,1098,77.1,77.1,105,104.28.254.46,3,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",11,2026-10-27T10:14:36.906Z,2026-10-28T04:23:45.889Z
-socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,1854,5183.5,59.5,64.4,882,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-10-28T04:27:20.646Z
-socks4,34.142.210.154,40001,socks4://34.142.210.154:40001,elite,true,1381,1418.5,62.4,61.9,860,104.28.222.46,2,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",13,2026-10-19T21:39:34.633Z,2026-10-28T04:30:16.157Z
+socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,6589,1469.5,61.8,63.1,898,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-10-29T04:27:26.857Z
+socks4,34.142.210.154,40001,socks4://34.142.210.154:40001,elite,false,8681,6240.5,66.2,60.4,869,104.28.254.47,3,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",13,2026-10-19T21:39:34.633Z,2026-10-29T04:27:22.558Z

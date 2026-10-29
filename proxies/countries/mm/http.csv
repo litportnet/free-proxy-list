@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,1237,1241,100,47.9,165,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,16,2025-09-08T05:28:14.758Z,2026-10-28T04:27:31.051Z
-http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,false,6054,2681,46.3,36.9,710,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-10-28T04:23:17.594Z
-http,185.205.142.142,8080,http://185.205.142.142:8080,transparent,false,1276,2246.5,34.3,27.3,545,185.205.142.142,1,mm,Yangon,Yangon,Asia/Yangon,134739,"AGB Communication Co., Ltd",13,2025-09-25T11:48:21.869Z,2026-10-28T04:23:13.194Z
-http,185.133.213.86,8074,http://185.133.213.86:8074,transparent,true,2091,4136.5,30.7,21.6,366,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-10-28T04:30:27.180Z
+http,103.27.118.138,8080,http://103.27.118.138:8080,transparent,false,5118,1805,57.4,54.6,183,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,16,2025-09-08T05:28:14.758Z,2026-10-29T04:31:11.160Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,transparent,false,7319,3880,34.2,36.4,692,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-10-29T04:26:18.352Z

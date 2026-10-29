@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.229.190.39,603,http://34.229.190.39:603,unknown,false,1751,1751,100,,1,34.229.190.39,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,1,2026-10-28T04:24:17.864Z,2026-10-28T04:24:19.704Z
+http,52.214.92.206,59335,http://52.214.92.206:59335,unknown,false,1109,1128.5,19.4,11,245,52.214.92.206,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,6,2026-09-30T04:37:24.430Z,2026-10-29T04:25:29.673Z

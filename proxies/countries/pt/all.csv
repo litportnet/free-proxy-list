@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.228.160.145,1080,socks4://185.228.160.145:1080,elite,false,3683,3693.5,16.7,18.2,428,185.228.160.145,1,pt,Lisbon,Lisbon,Europe/Lisbon,50666,LigaT Telecom Sociedade Unipessoal LDA,16,2026-06-12T09:53:07.654Z,2026-10-29T04:26:13.488Z

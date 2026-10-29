@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,197.255.125.12,80,http://197.255.125.12:80,elite,false,1756,1269,29.6,42,507,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-10-28T04:23:37.121Z

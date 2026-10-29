@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "34.229.190.39",
-    "port": 603,
-    "url": "http://34.229.190.39:603",
+    "ip": "52.214.92.206",
+    "port": 59335,
+    "url": "http://52.214.92.206:59335",
     "anonymity": "unknown",
     "https": false,
-    "latency_ms": 1751,
-    "latency_median_ms": 1751,
-    "uptime_24h": 100,
-    "uptime_7d": null,
-    "checks_7d": 1,
-    "exit_ip": "34.229.190.39",
+    "latency_ms": 1109,
+    "latency_median_ms": 1128.5,
+    "uptime_24h": 19.4,
+    "uptime_7d": 11,
+    "checks_7d": 245,
+    "exit_ip": "52.214.92.206",
     "exit_shared": 1,
     "country": "ro",
     "region": "Bucharest",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Bucharest",
     "asn": 214209,
     "asn_org": "Internet Magnate (Pty) Ltd",
-    "sources_count": 1,
-    "first_seen": "2026-10-28T04:24:17.864Z",
-    "last_checked": "2026-10-28T04:24:19.704Z"
+    "sources_count": 6,
+    "first_seen": "2026-09-30T04:37:24.430Z",
+    "last_checked": "2026-10-29T04:25:29.673Z"
   }
 ]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,197.218.16.16,3128,http://197.218.16.16:3128,transparent,true,1088,1095.5,100,100,66,197.218.16.16,1,mz,Maputo City,Maputo,Africa/Maputo,37342,"Movitel, SA",6,2025-10-11T10:46:25.186Z,2026-10-29T04:25:08.275Z

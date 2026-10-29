@@ -6,11 +6,11 @@
     "url": "http://90.156.160.234:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1275,
-    "latency_median_ms": 1142,
-    "uptime_24h": 100,
-    "uptime_7d": 95.2,
-    "checks_7d": 987,
+    "latency_ms": 1374,
+    "latency_median_ms": 2509,
+    "uptime_24h": 95.8,
+    "uptime_7d": 95.8,
+    "checks_7d": 990,
     "exit_ip": "90.156.160.234",
     "exit_shared": 1,
     "country": "uz",
@@ -21,7 +21,7 @@
     "asn_org": "Uzbektelekom Joint Stock Company",
     "sources_count": 14,
     "first_seen": "2026-10-06T03:46:09.506Z",
-    "last_checked": "2026-10-28T04:24:45.839Z"
+    "last_checked": "2026-10-29T04:24:27.142Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://195.158.8.123:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2491,
-    "latency_median_ms": 2222,
-    "uptime_24h": 95,
-    "uptime_7d": 86.7,
-    "checks_7d": 950,
+    "latency_ms": 1799,
+    "latency_median_ms": 3338.5,
+    "uptime_24h": 84.2,
+    "uptime_7d": 87.9,
+    "checks_7d": 962,
     "exit_ip": "195.158.8.123",
     "exit_shared": 1,
     "country": "uz",
@@ -45,6 +45,6 @@
     "asn_org": "Uzbektelekom Joint Stock Company",
     "sources_count": 25,
     "first_seen": "2025-09-08T17:35:24.862Z",
-    "last_checked": "2026-10-28T04:28:00.546Z"
+    "last_checked": "2026-10-29T04:28:36.538Z"
   }
 ]

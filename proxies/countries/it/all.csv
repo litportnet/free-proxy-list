@@ -1,7 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,625,579,100,100,50,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-10-28T04:25:25.519Z
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,2662,2276,82,87.9,963,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-28T04:28:33.845Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,3472,651.5,84.2,78.1,943,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-28T04:32:00.273Z
-socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,true,910,2138.5,57.3,45.6,753,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-28T04:26:23.172Z
-socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,2543,2290.5,42.9,42.9,77,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,10,2026-10-27T13:16:17.724Z,2026-10-28T04:25:46.841Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,621,619.5,48.1,40.2,709,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-28T04:30:59.741Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,560,568,100,100,193,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-10-29T04:28:34.953Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,814,794,90.8,87.9,969,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-29T04:33:52.620Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,551,931,71.4,75.4,946,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-29T04:33:45.268Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,3329,590,19.1,61.6,679,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-29T04:28:48.323Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,660,1259,60,55.7,793,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-29T04:31:24.254Z
+socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,4077,4093.5,36.3,38.5,200,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,13,2026-10-27T13:16:17.724Z,2026-10-29T04:24:50.118Z

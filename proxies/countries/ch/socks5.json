@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "194.87.96.31",
+    "port": 1080,
+    "url": "socks5://194.87.96.31:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8913,
+    "latency_median_ms": 4744.5,
+    "uptime_24h": 78,
+    "uptime_7d": 78,
+    "checks_7d": 59,
+    "exit_ip": "104.28.221.246",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Zurich",
+    "city": "Zürich",
+    "timezone": "Europe/Zurich",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 11,
+    "first_seen": "2026-10-28T18:31:41.954Z",
+    "last_checked": "2026-10-29T04:33:38.474Z"
+  }
+]

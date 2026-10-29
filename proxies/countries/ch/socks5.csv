@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,194.87.96.31,1080,socks5://194.87.96.31:1080,elite,true,8913,4744.5,78,78,59,104.28.221.246,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",11,2026-10-28T18:31:41.954Z,2026-10-29T04:33:38.474Z

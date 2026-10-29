@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,62.217.77.159,1080,socks5://62.217.77.159:1080,elite,true,1006,1034,34.2,27.8,245,62.217.77.159,1,gr,Attica,Áno Liósia,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,12,2026-10-25T14:51:50.499Z,2026-10-29T04:26:17.287Z

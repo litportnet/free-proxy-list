@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,5813,3563,51,50.4,651,46.102.153.134,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,19,2026-09-16T03:18:05.440Z,2026-10-28T04:26:03.332Z
