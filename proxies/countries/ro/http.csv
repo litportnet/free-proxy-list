@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,52.214.92.206,59335,http://52.214.92.206:59335,unknown,false,1109,1128.5,19.4,11,245,52.214.92.206,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,6,2026-09-30T04:37:24.430Z,2026-10-29T04:25:29.673Z
+http,82.78.114.56,8080,http://82.78.114.56:8080,transparent,true,5087,6134,19.8,28.9,218,82.78.114.54,1,ro,Harghita County,Miercurea-Ciuc,Europe/Bucharest,8708,DIGI ROMANIA S.A.,16,2026-10-27T17:18:26.176Z,2026-10-30T04:29:14.591Z
+http,18.163.182.106,9175,http://18.163.182.106:9175,unknown,false,1363,2627.5,12.5,,35,18.163.182.106,2,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,9,2026-09-01T15:29:44.512Z,2026-10-30T04:22:29.657Z

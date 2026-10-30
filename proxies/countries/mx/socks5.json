@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "38.224.220.75",
+    "port": 1080,
+    "url": "socks5://38.224.220.75:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1776,
+    "latency_median_ms": 1012.5,
+    "uptime_24h": 67.9,
+    "uptime_7d": null,
+    "checks_7d": 28,
+    "exit_ip": "38.224.220.75",
+    "exit_shared": 1,
+    "country": "mx",
+    "region": "Tabasco",
+    "city": "Cunduacán",
+    "timezone": "America/Mexico_City",
+    "asn": 28435,
+    "asn_org": "JAVIER TAMAYO GARCIA",
+    "sources_count": 8,
+    "first_seen": "2026-10-29T23:47:07.517Z",
+    "last_checked": "2026-10-30T04:30:14.366Z"
+  }
+]

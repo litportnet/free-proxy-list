@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,true,657,679,38.5,48.9,718,82.132.19.108,1,hr,Krapina-Zagorje,Oroslavje,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-10-30T04:28:34.253Z

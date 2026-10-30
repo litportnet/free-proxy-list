@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.87.96.31,1080,socks5://194.87.96.31:1080,elite,true,8913,4744.5,78,78,59,104.28.221.246,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",11,2026-10-28T18:31:41.954Z,2026-10-29T04:33:38.474Z
+socks5,194.87.96.31,1080,socks5://194.87.96.31:1080,elite,true,738,741.5,54.8,61.7,193,104.28.253.246,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",13,2026-10-28T18:31:41.954Z,2026-10-30T04:30:14.330Z
+socks5,45.74.31.41,13421,socks5://45.74.31.41:13421,elite,false,4539,2650.5,60.7,58.6,58,83.228.218.146,4,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,9,2026-10-25T18:53:54.318Z,2026-10-30T04:24:54.726Z
+socks5,45.74.31.42,19753,socks5://45.74.31.42:19753,elite,true,694,4128.5,53.3,23.8,147,83.228.218.146,4,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,12,2026-09-12T13:14:21.602Z,2026-10-30T04:26:08.790Z
+socks5,45.74.31.40,4075,socks5://45.74.31.40:4075,elite,false,4631,5030.5,26.1,20.8,236,83.228.218.146,4,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,14,2026-09-27T00:57:35.256Z,2026-10-30T04:28:43.992Z
+socks5,45.74.31.47,4504,socks5://45.74.31.47:4504,elite,false,9235,3482.5,38.5,18.3,153,83.228.218.146,4,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-09-26T11:50:46.230Z,2026-10-30T04:29:23.716Z

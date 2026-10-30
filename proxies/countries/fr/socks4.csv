@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,107.191.47.162,1081,socks4://107.191.47.162:1081,elite,true,524,537,57,79.5,596,107.191.47.162,2,fr,Île-de-France,Aubervilliers,Europe/Paris,20473,"The Constant Company, LLC",2,2026-10-24T17:40:37.836Z,2026-10-29T04:26:18.350Z
+socks4,157.173.115.35,1081,socks4://157.173.115.35:1081,elite,false,9125,3906.5,58.1,52.8,684,157.173.115.35,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-09-15T10:50:54.475Z,2026-10-30T04:28:46.114Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,578,815,40.7,43.6,786,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-10-30T04:26:21.131Z

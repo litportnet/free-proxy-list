@@ -1,6 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,723,1236,97.9,99.2,1001,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-29T04:28:09.192Z
-http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,3995,1757,83.6,82.3,951,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-10-29T04:31:11.181Z
-http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,730,1257,82.9,81.7,948,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-10-29T04:24:50.644Z
-http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,1763,3844.5,75.4,80.2,941,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,19,2025-11-22T16:37:20.344Z,2026-10-29T04:32:09.158Z
-http,119.28.155.151,3128,http://119.28.155.151:3128,transparent,true,734,733,58.8,37.3,142,119.28.155.151,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",16,2026-10-05T16:40:15.340Z,2026-10-29T04:34:01.601Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,transparent,false,836,1139,97.9,99,1001,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-10-30T04:28:21.350Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,814,1718,79.6,82,953,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-10-30T04:25:04.935Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,3774,2738,80.7,81.5,955,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-10-30T04:25:53.799Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,1768,1793.5,81.9,79.9,950,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-10-30T04:29:55.986Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,3771,1735,71.7,79.5,949,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.489Z,2026-10-30T04:28:49.859Z
+http,85.121.149.232,18080,http://85.121.149.232:18080,elite,false,4017,2295,58.9,72.4,467,45.93.31.127,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,16,2026-10-26T15:04:35.232Z,2026-10-30T04:25:16.635Z
+http,222.111.130.73,8080,http://222.111.130.73:8080,elite,true,2123,2069.5,52.9,59.5,111,222.111.130.73,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,15,2026-10-27T05:11:54.731Z,2026-10-30T04:24:27.973Z

@@ -6,13 +6,13 @@
     "url": "socks4://190.12.95.170:37209",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 7905,
-    "latency_median_ms": 3652,
-    "uptime_24h": 71.1,
-    "uptime_7d": 63.1,
-    "checks_7d": 886,
+    "latency_ms": 1615,
+    "latency_median_ms": 692,
+    "uptime_24h": 58.9,
+    "uptime_7d": 63.2,
+    "checks_7d": 891,
     "exit_ip": "190.12.95.170",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "pe",
     "region": "Lima Province",
     "city": "Lima",
@@ -21,7 +21,7 @@
     "asn_org": "ON EMPRESAS S.A.C.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:14.401Z",
-    "last_checked": "2026-10-29T04:27:01.737Z"
+    "last_checked": "2026-10-30T04:22:45.292Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://177.91.255.35:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 587,
-    "latency_median_ms": 1628.5,
-    "uptime_24h": 44.7,
-    "uptime_7d": 56.5,
-    "checks_7d": 861,
+    "latency_ms": 2632,
+    "latency_median_ms": 1648,
+    "uptime_24h": 41.3,
+    "uptime_7d": 53.5,
+    "checks_7d": 863,
     "exit_ip": "177.91.255.35",
     "exit_shared": 1,
     "country": "pe",
@@ -45,6 +45,6 @@
     "asn_org": "EMPRESA DE TELECOMUNICACIONES MULTIMEDIA ALFA",
     "sources_count": 21,
     "first_seen": "2025-09-05T20:06:33.454Z",
-    "last_checked": "2026-10-29T04:26:22.121Z"
+    "last_checked": "2026-10-30T04:21:09.714Z"
   }
 ]

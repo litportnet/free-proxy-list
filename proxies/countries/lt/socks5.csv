@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,2174,2294.5,32.3,29.1,670,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",21,2025-09-04T23:50:04.655Z,2026-10-30T04:22:57.514Z

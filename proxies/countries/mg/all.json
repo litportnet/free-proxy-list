@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 11612,
+    "url": "socks5://45.74.31.42:11612",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 6404,
+    "latency_median_ms": 5945,
+    "uptime_24h": 16.7,
+    "uptime_7d": 9.5,
+    "checks_7d": 63,
+    "exit_ip": "154.120.133.86",
+    "exit_shared": 1,
+    "country": "mg",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "timezone": "Indian/Antananarivo",
+    "asn": 37037,
+    "asn_org": "Orange Madagascar",
+    "sources_count": 17,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-10-30T04:28:07.951Z"
+  }
+]

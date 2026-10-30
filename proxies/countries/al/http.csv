@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.242.21.133,8080,http://77.242.21.133:8080,transparent,false,4164,3908,16.7,22.9,446,77.242.21.133,1,al,Elbasan County,Cërrik,Europe/Tirane,35047,Abissnet sh.a.,25,2025-09-05T20:06:31.953Z,2026-10-30T04:24:22.141Z
+http,79.106.44.66,2095,http://79.106.44.66:2095,transparent,false,3260,3871.5,18.2,18.5,329,79.106.44.66,1,al,Durrës County,Durrës,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2026-09-09T08:49:52.257Z,2026-10-30T04:29:55.453Z

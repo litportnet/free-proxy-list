@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.253.55.228,80,http://178.253.55.228:80,transparent,false,723,713,98.6,97.8,994,172.70.160.234,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-15T22:15:47.054Z,2026-10-29T04:31:31.434Z
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4876,3894.5,82.3,86.8,965,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-29T04:32:11.284Z
-http,104.194.146.9,80,http://104.194.146.9:80,transparent,true,426,406,59.2,71.2,895,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,17,2026-06-21T05:46:31.165Z,2026-10-29T04:30:53.851Z
-http,81.19.210.10,80,http://81.19.210.10:80,transparent,true,393,396,56.9,68.6,892,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-10-29T04:32:25.974Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,528,1352.5,28.6,30.2,550,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-10-29T04:30:23.802Z
-http,91.193.253.9,8080,http://91.193.253.9:8080,transparent,true,661,988,94.4,,18,91.193.253.8,1,gb,England,Leeds,Europe/London,273232,CORPORACION CABLE LASER SOCIEDAD ANÓNIMA CERRADA,10,2026-10-29T01:35:25.624Z,2026-10-29T04:28:04.338Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,6279,4006,83.7,85.9,968,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-10-30T04:22:44.200Z
+http,104.194.146.9,80,http://104.194.146.9:80,transparent,false,411,418,81.4,70.1,893,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,17,2026-06-21T05:46:31.165Z,2026-10-30T04:23:21.622Z
+http,81.19.210.10,80,http://81.19.210.10:80,transparent,true,387,408,71,67.6,892,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-10-30T04:29:27.446Z

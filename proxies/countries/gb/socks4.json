@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "149.248.213.249",
+    "port": 9000,
+    "url": "socks4://149.248.213.249:9000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2653,
+    "latency_median_ms": 1345.5,
+    "uptime_24h": 30.8,
+    "uptime_7d": 25.8,
+    "checks_7d": 516,
+    "exit_ip": "79.127.165.77",
+    "exit_shared": 2,
+    "country": "gb",
+    "region": "England",
+    "city": "London",
+    "timezone": "Europe/London",
+    "asn": 60068,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 16,
+    "first_seen": "2026-10-15T01:38:35.632Z",
+    "last_checked": "2026-10-30T04:22:17.407Z"
+  }
+]

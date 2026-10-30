@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,92.249.221.91,8080,http://92.249.221.91:8080,transparent,true,2207,3553,41.4,43.6,605,92.249.221.91,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,18,2026-10-23T05:21:36.463Z,2026-10-29T04:32:34.388Z
-http,84.1.150.66,8080,http://84.1.150.66:8080,transparent,true,715,1534,80,,30,84.1.150.66,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,5483,Magyar Telekom Plc.,7,2026-02-09T09:40:01.320Z,2026-10-29T04:26:18.885Z
-http,145.236.156.1,8080,http://145.236.156.1:8080,transparent,true,2939,4417.5,91.7,,24,145.236.156.1,1,hu,Hajdú-Bihar,Berettyóújfalu,Europe/Budapest,5483,Magyar Telekom Plc.,12,2026-10-29T00:34:53.986Z,2026-10-29T04:25:24.853Z
+http,145.236.156.234,8080,http://145.236.156.234:8080,transparent,false,3296,3147.5,53.1,53.1,98,145.236.156.234,1,hu,Hajdú-Bihar,Berettyóújfalu,Europe/Budapest,5483,Magyar Telekom Plc.,14,2026-10-29T10:40:12.484Z,2026-10-30T04:21:04.387Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,31.15.169.77,808,http://31.15.169.77:808,elite,false,3867,3500,13.2,12.3,261,31.15.169.77,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,3212,Telemach Slovenija d.o.o.,25,2025-09-10T12:59:34.618Z,2026-10-30T04:30:31.554Z

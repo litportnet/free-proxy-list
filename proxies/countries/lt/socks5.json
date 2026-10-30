@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "78.63.115.20",
+    "port": 8899,
+    "url": "socks5://78.63.115.20:8899",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2174,
+    "latency_median_ms": 2294.5,
+    "uptime_24h": 32.3,
+    "uptime_7d": 29.1,
+    "checks_7d": 670,
+    "exit_ip": "78.63.115.20",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Vilnius",
+    "city": "Vilnius",
+    "timezone": "Europe/Vilnius",
+    "asn": 8764,
+    "asn_org": "Telia Lietuva, AB",
+    "sources_count": 21,
+    "first_seen": "2025-09-04T23:50:04.655Z",
+    "last_checked": "2026-10-30T04:22:57.514Z"
+  }
+]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,183.172.126.63,10808,socks4://183.172.126.63:10808,elite,true,2512,2565.5,45.5,38.5,130,137.220.142.47,3,jp,Tokyo,Tokyo,Asia/Tokyo,152194,CTG Server Limited,19,2026-09-20T06:51:17.106Z,2026-10-29T04:28:04.882Z
+socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,true,1865,3391.5,43.4,39.3,699,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-30T04:22:10.474Z

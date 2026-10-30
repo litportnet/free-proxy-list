@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "180.93.102.159",
+    "port": 40002,
+    "url": "socks5://180.93.102.159:40002",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6448,
+    "latency_median_ms": 6803,
+    "uptime_24h": 45,
+    "uptime_7d": 27.2,
+    "checks_7d": 169,
+    "exit_ip": "154.45.167.254",
+    "exit_shared": 1,
+    "country": "ve",
+    "region": "Barinas",
+    "city": "Barinas",
+    "timezone": "America/Caracas",
+    "asn": 272809,
+    "asn_org": "THUNDERNET, C.A.",
+    "sources_count": 9,
+    "first_seen": "2026-10-09T21:33:18.519Z",
+    "last_checked": "2026-10-30T04:26:52.779Z"
+  }
+]

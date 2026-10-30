@@ -1,7 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,560,568,100,100,193,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-10-29T04:28:34.953Z
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,814,794,90.8,87.9,969,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-29T04:33:52.620Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,551,931,71.4,75.4,946,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-29T04:33:45.268Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,3329,590,19.1,61.6,679,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-29T04:28:48.323Z
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,660,1259,60,55.7,793,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-29T04:31:24.254Z
-socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,4077,4093.5,36.3,38.5,200,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,13,2026-10-27T13:16:17.724Z,2026-10-29T04:24:50.118Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,565,564,99.3,99.7,335,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-10-30T04:23:21.620Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,805,805,100,89.5,974,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-10-30T04:25:06.531Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,565,563.5,71.2,74.5,950,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-10-30T04:29:15.126Z
+http,217.197.100.249,8000,http://217.197.100.249:8000,transparent,true,1178,2780,72.5,72.5,80,217.197.100.249,1,it,Tuscany,Florence,Europe/Rome,205219,WISP.ONE S.R.L.,9,2025-10-02T15:25:17.079Z,2026-10-30T04:26:57.584Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,1538,514,75,65.7,715,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-30T04:21:14.498Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,673,826,49.6,55.2,797,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-30T04:23:00.208Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,603,608,35.5,39.2,609,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-30T04:22:34.997Z
+socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,2172,3766,37.4,37.9,314,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,14,2026-10-27T13:16:17.724Z,2026-10-30T04:22:30.718Z

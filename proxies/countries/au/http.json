@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "61.29.96.146",
+    "port": 8000,
+    "url": "http://61.29.96.146:8000",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 3824,
+    "latency_median_ms": 3878.5,
+    "uptime_24h": 23.4,
+    "uptime_7d": 20.5,
+    "checks_7d": 356,
+    "exit_ip": "61.29.96.146",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Hornsby",
+    "timezone": "Australia/Sydney",
+    "asn": 2764,
+    "asn_org": "AAPT Limited",
+    "sources_count": 23,
+    "first_seen": "2025-09-10T23:06:35.873Z",
+    "last_checked": "2026-10-30T04:23:29.125Z"
+  }
+]

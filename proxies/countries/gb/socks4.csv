@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,149.248.213.249,9000,socks4://149.248.213.249:9000,elite,false,2653,1345.5,30.8,25.8,516,79.127.165.77,2,gb,England,London,Europe/London,60068,Datacamp Limited,16,2026-10-15T01:38:35.632Z,2026-10-30T04:22:17.407Z

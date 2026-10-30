@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10813,socks5://5.75.133.113:10813,elite,true,7512,3615,31.9,39.8,538,128.90.165.18,1,lu,Luxembourg,Luxembourg,Europe/Luxembourg,22363,"Powerhouse Management, Inc.",20,2026-09-16T14:24:02.370Z,2026-10-30T04:26:20.562Z

@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,197.157.194.10,1080,socks4://197.157.194.10:1080,elite,true,1644,1724.5,55,70.7,905,197.157.194.10,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37429,SPIDERNET SPRL BURUNDI,20,2026-09-20T02:49:09.966Z,2026-10-29T04:30:31.350Z
-socks4,197.157.192.168,1080,socks4://197.157.192.168:1080,elite,true,1817,2708,68.5,67.3,857,197.157.192.168,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37429,SPIDERNET SPRL BURUNDI,13,2026-08-15T04:28:13.653Z,2026-10-29T04:32:44.389Z
-socks4,197.157.195.154,1080,socks4://197.157.195.154:1080,elite,true,1658,1752.5,73,58.5,728,197.157.195.154,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37429,SPIDERNET SPRL BURUNDI,14,2026-08-08T13:03:28.732Z,2026-10-29T04:32:11.815Z

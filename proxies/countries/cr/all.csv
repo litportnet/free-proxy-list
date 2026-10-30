@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,false,1451,1024,51.6,59.2,871,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,1,2026-03-17T17:23:29.573Z,2026-10-29T04:33:11.188Z
-http,186.15.187.158,999,http://186.15.187.158:999,transparent,false,3187,3009.5,20,31.4,420,186.15.187.158,1,cr,Puntarenas Province,San Juan Grande,America/Costa_Rica,262202,"Telefonica de Costa Rica TC, SA",19,2026-09-29T10:28:00.376Z,2026-10-29T04:31:50.839Z
+http,186.15.187.158,999,http://186.15.187.158:999,transparent,true,7737,3755.5,33.9,32.8,461,186.15.187.158,1,cr,Puntarenas Province,San Juan Grande,America/Costa_Rica,262202,"Telefonica de Costa Rica TC, SA",19,2026-09-29T10:28:00.376Z,2026-10-30T04:29:58.683Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.71.22.231,1080,socks5://103.71.22.231:1080,elite,true,3874,3353.5,66.1,53.7,296,103.71.22.231,2,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,13,2026-04-17T05:53:07.872Z,2026-10-29T04:27:39.607Z

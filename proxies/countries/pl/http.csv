@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,148.253.212.68,8080,http://148.253.212.68:8080,elite,false,2663,2686,53.4,57.5,179,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,16,2026-10-28T20:32:45.482Z,2026-10-30T04:22:46.350Z

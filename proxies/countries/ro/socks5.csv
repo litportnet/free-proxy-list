@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,3771,3809,46.2,45.5,574,194.36.109.250,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,20,2026-09-16T03:18:05.440Z,2026-10-30T04:29:11.935Z

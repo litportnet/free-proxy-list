@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,125.27.147.150,9999,socks5://125.27.147.150:9999,elite,true,1328,1278.5,96.5,96.5,114,125.27.147.150,1,th,Prachuap Khiri Khan,Pran Buri,Asia/Bangkok,23969,TOT Public Company Limited,13,2026-10-28T09:26:55.750Z,2026-10-29T04:31:26.553Z
-socks5,125.24.156.113,7080,socks5://125.24.156.113:7080,elite,false,2580,1739,32.6,29.5,655,1.20.143.87,1,th,Chumphon,Lang Suan,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-04-08T09:00:00.596Z,2026-10-29T04:29:28.437Z
+socks5,125.27.147.150,9999,socks5://125.27.147.150:9999,elite,true,1281,1295,100,98.4,256,125.27.147.150,1,th,Prachuap Khiri Khan,Pran Buri,Asia/Bangkok,23969,TOT Public Company Limited,14,2026-10-28T09:26:55.750Z,2026-10-30T04:21:34.722Z

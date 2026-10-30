@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,91.218.234.54,11080,socks5://91.218.234.54:11080,elite,false,850,1877,57.3,60.4,154,91.218.234.54,1,cz,Plzeň Region,Stříbro,Europe/Prague,51424,Jiri Sperl,13,2026-10-29T00:34:52.256Z,2026-10-30T04:29:30.109Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,false,5865,4735.5,42.1,52.7,713,82.118.30.35,1,cz,Prague,Prague,Europe/Prague,206092,F.N.S. HOLDINGS LIMITED,18,2026-09-16T03:18:05.440Z,2026-10-30T04:30:40.690Z
+socks5,188.127.247.6,1080,socks5://188.127.247.6:1080,elite,true,769,727,100,,5,188.127.247.6,2,cz,South Moravian,Veselí nad Moravou,Europe/Prague,62212,SmartApe OU,3,2026-10-30T03:49:13.826Z,2026-10-30T04:29:06.533Z

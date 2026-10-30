@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "129.151.128.225",
+    "port": 1080,
+    "url": "socks5://129.151.128.225:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7577,
+    "latency_median_ms": 4275,
+    "uptime_24h": 36.8,
+    "uptime_7d": 38.7,
+    "checks_7d": 728,
+    "exit_ip": "129.151.128.225",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Abu Dhabi",
+    "city": "Masdar City",
+    "timezone": "Asia/Dubai",
+    "asn": 31898,
+    "asn_org": "Oracle Corporation",
+    "sources_count": 15,
+    "first_seen": "2026-06-14T08:18:53.054Z",
+    "last_checked": "2026-10-30T04:21:01.247Z"
+  }
+]

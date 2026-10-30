@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,196.1.182.130,1080,socks4://196.1.182.130:1080,elite,true,1051,1580.5,44.5,48.2,825,196.1.182.130,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,14,2026-07-06T20:02:55.749Z,2026-10-29T04:33:30.613Z
-socks4,154.113.170.129,5678,socks4://154.113.170.129:5678,elite,false,923,3049,15.6,13.8,240,154.113.167.70,1,ng,Lagos,Lagos,Africa/Lagos,37282,Main one Cable Company Nigeria Limited,12,2025-09-07T10:15:31.892Z,2026-10-29T04:29:07.000Z
+socks4,196.1.182.130,1080,socks4://196.1.182.130:1080,elite,true,2082,1739.5,46.7,49.3,844,196.1.182.130,1,ng,Lagos,Lagos,Africa/Lagos,37629,eStream Networks,14,2026-07-06T20:02:55.749Z,2026-10-30T04:30:24.038Z
+socks4,41.75.84.86,4153,socks4://41.75.84.86:4153,elite,false,963,2012.5,27.5,42.8,801,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,21,2026-07-05T00:42:24.200Z,2026-10-30T04:23:07.160Z

@@ -6,11 +6,11 @@
     "url": "socks5://80.72.180.122:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4382,
-    "latency_median_ms": 4367.5,
-    "uptime_24h": 46.5,
-    "uptime_7d": 40.9,
-    "checks_7d": 781,
+    "latency_ms": 1292,
+    "latency_median_ms": 2458.5,
+    "uptime_24h": 41.3,
+    "uptime_7d": 41,
+    "checks_7d": 795,
     "exit_ip": "80.72.180.122",
     "exit_shared": 1,
     "country": "kg",
@@ -21,6 +21,6 @@
     "asn_org": "OJSC Kyrgyztelecom",
     "sources_count": 20,
     "first_seen": "2026-04-16T06:47:08.732Z",
-    "last_checked": "2026-10-29T04:25:05.613Z"
+    "last_checked": "2026-10-30T04:26:29.662Z"
   }
 ]

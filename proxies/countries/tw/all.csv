@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,220.134.5.4,8080,http://220.134.5.4:8080,transparent,true,8081,3962.5,38.3,34.4,636,220.134.5.4,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,25,2025-09-13T17:39:50.227Z,2026-10-29T04:32:16.056Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,7978,2395.5,85,64.3,875,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-30T04:21:33.120Z
