@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,false,1751,1762.5,68.4,73.9,911,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-10-30T04:24:07.193Z
-socks4,93.115.174.1,1080,socks4://93.115.174.1:1080,elite,false,708,2721.5,53.6,47,694,194.50.50.100,1,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,16,2026-10-10T03:36:30.009Z,2026-10-30T04:20:56.438Z
-socks5,49.13.22.249,10814,socks5://49.13.22.249:10814,elite,true,3771,3809,46.2,45.5,574,194.36.109.250,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,20,2026-09-16T03:18:05.440Z,2026-10-30T04:29:11.935Z
-http,82.78.114.56,8080,http://82.78.114.56:8080,transparent,true,5087,6134,19.8,28.9,218,82.78.114.54,1,ro,Harghita County,Miercurea-Ciuc,Europe/Bucharest,8708,DIGI ROMANIA S.A.,16,2026-10-27T17:18:26.176Z,2026-10-30T04:29:14.591Z
-http,18.163.182.106,9175,http://18.163.182.106:9175,unknown,false,1363,2627.5,12.5,,35,18.163.182.106,2,ro,Bucharest,Bucharest,Europe/Bucharest,200651,FlokiNET ehf,9,2026-09-01T15:29:44.512Z,2026-10-30T04:22:29.657Z
+socks4,109.166.207.162,3629,socks4://109.166.207.162:3629,elite,false,3729,2719,39.7,39.4,594,109.166.207.162,1,ro,Satu Mare County,Satu Mare,Europe/Bucharest,8953,Orange Romania S.A.,14,2025-09-30T19:01:43.512Z,2026-10-31T04:25:13.886Z

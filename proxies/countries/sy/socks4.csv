@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,193.43.159.161,1080,socks4://193.43.159.161:1080,elite,true,7982,1938.5,51.9,48.7,768,193.43.159.161,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,11,2026-05-31T07:16:37.570Z,2026-10-30T04:25:03.858Z
-socks4,82.137.245.41,1080,socks4://82.137.245.41:1080,elite,true,804,809.5,30.8,27.7,530,82.137.245.41,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,12,2025-09-05T00:23:06.925Z,2026-10-30T04:23:34.506Z
+socks4,193.43.159.161,1080,socks4://193.43.159.161:1080,elite,true,3843,1829,51.9,48.6,792,193.43.159.161,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,11,2026-05-31T07:16:37.570Z,2026-10-31T04:31:14.258Z
+socks4,82.137.245.41,1080,socks4://82.137.245.41:1080,elite,false,831,851,41.2,31.4,599,82.137.245.41,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,12,2025-09-05T00:23:06.925Z,2026-10-31T04:26:44.236Z
+socks4,205.209.66.105,1080,socks4://205.209.66.105:1080,elite,true,868,877.5,30.3,30.8,552,205.209.66.79,1,sy,Al-Hasakah,Al Ḩasakah,Asia/Damascus,214707,RCell LLC,20,2026-07-04T16:35:37.796Z,2026-10-31T04:33:43.196Z

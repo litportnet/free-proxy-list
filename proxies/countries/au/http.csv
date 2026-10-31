@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,61.29.96.146,8000,http://61.29.96.146:8000,anonymous,true,3824,3878.5,23.4,20.5,356,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-10T23:06:35.873Z,2026-10-30T04:23:29.125Z
+http,103.192.80.81,3129,http://103.192.80.81:3129,elite,false,3106,5566,42.2,45,651,103.192.80.81,1,au,Victoria,Melbourne,Australia/Melbourne,136557,Host Universal Pty Ltd,16,2026-10-21T18:02:59.205Z,2026-10-31T04:27:54.172Z

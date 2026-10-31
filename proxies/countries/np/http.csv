@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,139.5.75.83,8080,http://139.5.75.83:8080,transparent,false,1253,3679.5,31.3,22,413,139.5.75.83,1,np,Koshi,Dharān,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,25,2026-06-06T12:37:50.090Z,2026-10-31T04:31:13.708Z

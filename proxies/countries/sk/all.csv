@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.145.199.45,56746,socks4://217.145.199.45:56746,elite,true,708,733,45.5,49.8,813,217.145.199.45,1,sk,Nitra Region,Kolárovo,Europe/Bratislava,12426,Slovanet a.s.,7,2026-10-22T15:14:09.218Z,2026-10-30T04:21:29.901Z
+socks4,217.145.199.45,56746,socks4://217.145.199.45:56746,elite,false,1751,1750.5,50.4,49.8,827,217.145.199.45,1,sk,Nitra Region,Kolárovo,Europe/Bratislava,12426,Slovanet a.s.,7,2026-10-22T15:14:09.218Z,2026-10-31T04:25:14.430Z
+socks4,185.98.208.98,28000,socks4://185.98.208.98:28000,elite,false,754,1220,53.2,49.1,807,185.98.208.98,1,sk,Trnava Region,Cífer,Europe/Bratislava,30929,GOLEM TECH s.r.o.,13,2026-02-25T19:09:07.562Z,2026-10-31T04:25:37.738Z

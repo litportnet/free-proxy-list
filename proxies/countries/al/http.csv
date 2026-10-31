@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.21.133,8080,http://77.242.21.133:8080,transparent,false,4164,3908,16.7,22.9,446,77.242.21.133,1,al,Elbasan County,Cërrik,Europe/Tirane,35047,Abissnet sh.a.,25,2025-09-05T20:06:31.953Z,2026-10-30T04:24:22.141Z
-http,79.106.44.66,2095,http://79.106.44.66:2095,transparent,false,3260,3871.5,18.2,18.5,329,79.106.44.66,1,al,Durrës County,Durrës,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2026-09-09T08:49:52.257Z,2026-10-30T04:29:55.453Z
+http,185.196.182.22,8080,http://185.196.182.22:8080,transparent,false,2412,4134.5,31.8,30,607,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,26,2026-03-03T22:27:34.847Z,2026-10-31T04:24:20.326Z
+http,79.106.108.147,8079,http://79.106.108.147:8079,transparent,false,3083,5838,21.9,21,295,79.106.108.146,2,al,Durrës County,Durrës,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2025-09-19T22:59:58.751Z,2026-10-31T04:24:53.310Z
+http,79.106.229.208,8989,http://79.106.229.208:8989,transparent,true,2008,3245,28.3,19.1,283,79.106.229.208,1,al,Berat County,Berat,Europe/Tirane,42313,ONE ALBANIA SH.A.,19,2026-10-14T19:35:19.748Z,2026-10-31T04:28:18.571Z
+http,79.106.108.156,8079,http://79.106.108.156:8079,transparent,false,1721,5396,16.3,16.7,264,79.106.108.146,2,al,Durrës County,Durrës,Europe/Tirane,42313,ONE ALBANIA SH.A.,23,2025-09-06T05:35:59.479Z,2026-10-31T04:25:31.785Z

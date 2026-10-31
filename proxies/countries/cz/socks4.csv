@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,217.197.151.182,5678,socks4://217.197.151.182:5678,elite,true,710,681.5,47.1,53.6,742,217.197.151.182,1,cz,Olomouc Region,Olomouc,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,14,2025-09-04T23:49:02.661Z,2026-10-30T04:25:47.319Z
-socks4,188.127.247.6,1080,socks4://188.127.247.6:1080,elite,true,656,614,100,,5,188.127.247.6,2,cz,South Moravian,Veselí nad Moravou,Europe/Prague,62212,SmartApe OU,3,2026-10-30T03:49:20.095Z,2026-10-30T04:30:39.086Z
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,true,728,1728.5,78,76.6,930,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-31T04:28:05.562Z
+socks4,46.174.23.200,5678,socks4://46.174.23.200:5678,elite,false,4855,7014.5,25,17,348,46.174.23.200,1,cz,Plzeň Region,Nýřany,Europe/Prague,16019,Vodafone Czech Republic a.s.,12,2025-09-05T23:19:51.914Z,2026-10-31T04:25:31.249Z

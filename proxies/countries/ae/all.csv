@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,883,877.5,100,99.7,1004,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-10-30T04:24:52.048Z
-socks5,129.151.128.225,1080,socks5://129.151.128.225:1080,elite,false,7577,4275,36.8,38.7,728,129.151.128.225,1,ae,Abu Dhabi,Masdar City,Asia/Dubai,31898,Oracle Corporation,15,2026-06-14T08:18:53.054Z,2026-10-30T04:21:01.247Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,876,879,100,99.7,1005,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-10-31T04:29:21.496Z
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,false,4701,4065.5,76.7,44.7,544,45.9.249.58,1,ae,Dubai,Dubai,Asia/Dubai,9009,M247 Europe SRL,19,2026-08-24T12:42:33.832Z,2026-10-31T04:29:35.443Z
+socks5,2.50.191.129,10800,socks5://2.50.191.129:10800,elite,false,2014,2895,39.2,28,558,2.50.191.129,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,13,2026-10-20T17:50:15.957Z,2026-10-31T04:30:34.486Z
+socks5,217.165.51.161,10800,socks5://217.165.51.161:10800,elite,false,8612,1941.5,33.3,12.6,87,217.165.51.161,1,ae,Ajman,Ajman,Asia/Dubai,5384,Emirates Internet,15,2026-10-05T07:35:31.956Z,2026-10-31T04:30:20.553Z

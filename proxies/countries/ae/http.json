@@ -6,11 +6,11 @@
     "url": "http://47.91.104.88:3128",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 883,
-    "latency_median_ms": 877.5,
+    "latency_ms": 876,
+    "latency_median_ms": 879,
     "uptime_24h": 100,
     "uptime_7d": 99.7,
-    "checks_7d": 1004,
+    "checks_7d": 1005,
     "exit_ip": "47.91.104.88",
     "exit_shared": 1,
     "country": "ae",
@@ -21,6 +21,6 @@
     "asn_org": "Alibaba (US) Technology Co., Ltd.",
     "sources_count": 1,
     "first_seen": "2026-03-17T17:23:31.958Z",
-    "last_checked": "2026-10-30T04:24:52.048Z"
+    "last_checked": "2026-10-31T04:29:21.496Z"
   }
 ]

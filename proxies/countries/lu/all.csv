@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10813,socks5://5.75.133.113:10813,elite,true,7512,3615,31.9,39.8,538,128.90.165.18,1,lu,Luxembourg,Luxembourg,Europe/Luxembourg,22363,"Powerhouse Management, Inc.",20,2026-09-16T14:24:02.370Z,2026-10-30T04:26:20.562Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,2229,2684.5,54.1,51.6,721,158.173.162.95,1,lu,Luxembourg,Luxembourg,Europe/Luxembourg,206804,EstNOC OU,18,2026-09-16T03:18:05.440Z,2026-10-31T04:27:53.612Z

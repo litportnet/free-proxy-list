@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,2817,1141,91.6,97.7,998,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-30T04:24:40.305Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,5813,3666,68.6,74.1,946,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,22,2025-09-04T23:50:06.749Z,2026-10-30T04:23:27.006Z
-socks5,222.102.194.158,1111,socks5://222.102.194.158:1111,elite,false,5841,6913.5,11.1,5.5,91,222.102.194.158,1,kr,Jeollanam-do,Sinan,Asia/Seoul,4766,Korea Telecom,19,2026-04-25T19:44:30.786Z,2026-10-30T04:22:57.545Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,2152,1638,86.6,95.8,996,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-10-31T04:32:23.149Z
+socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,false,6473,3469.5,96.5,90,906,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-09-24T19:29:29.857Z,2026-10-31T04:26:35.091Z
+socks5,47.80.63.214,1080,socks5://47.80.63.214:1080,elite,true,1163,1225,100,,10,47.80.63.214,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",7,2026-10-31T03:01:26.686Z,2026-10-31T04:32:56.051Z
+socks5,47.80.63.0,1080,socks5://47.80.63.0:1080,elite,true,1197,1253,100,,10,47.80.63.0,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",6,2026-10-31T03:01:26.686Z,2026-10-31T04:31:24.963Z
+socks5,47.80.16.177,1080,socks5://47.80.16.177:1080,elite,false,1416,1671.5,100,,10,47.80.16.177,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",6,2026-10-31T03:01:26.686Z,2026-10-31T04:32:53.366Z
+socks5,47.80.15.108,1080,socks5://47.80.15.108:1080,elite,false,9001,1399.5,88.9,,9,47.80.15.108,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",7,2026-10-31T03:01:26.686Z,2026-10-31T04:23:31.086Z

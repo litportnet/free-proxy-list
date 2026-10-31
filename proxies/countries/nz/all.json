@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "218.100.23.130",
+    "port": 8080,
+    "url": "http://218.100.23.130:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 4013,
+    "latency_median_ms": 3030,
+    "uptime_24h": 30.9,
+    "uptime_7d": 28.7,
+    "checks_7d": 627,
+    "exit_ip": "218.100.23.130",
+    "exit_shared": 1,
+    "country": "nz",
+    "region": "Wellington Region",
+    "city": "Wellington",
+    "timezone": "Pacific/Auckland",
+    "asn": 132040,
+    "asn_org": "Vital Data Ltd",
+    "sources_count": 20,
+    "first_seen": "2026-09-27T06:00:26.030Z",
+    "last_checked": "2026-10-31T04:27:03.181Z"
+  }
+]

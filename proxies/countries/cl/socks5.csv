@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,38.7.195.108,1080,socks5://38.7.195.108:1080,elite,true,1327,1998,100,,5,38.7.195.111,1,cl,Santiago Metropolitan,Santiago,America/Santiago,263702,GRUPO ZGH SPA,1,2026-10-30T03:49:14.678Z,2026-10-30T04:29:03.819Z

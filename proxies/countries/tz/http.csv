@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.0.155.133,8080,http://154.0.155.133:8080,transparent,false,5428,4050.5,44.9,39.8,731,154.0.155.133,1,tz,Mwanza,Mwanza,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,17,2026-08-31T04:10:01.273Z,2026-10-30T04:25:53.266Z
-http,41.78.170.178,8040,http://41.78.170.178:8040,transparent,false,3199,5031.5,35.6,28.2,451,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-10-30T04:29:22.614Z
-http,41.220.138.55,8080,http://41.220.138.55:8080,transparent,true,3498,3501,93.8,,16,41.220.138.55,1,tz,Arusha,Arusha,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,5,2026-10-30T01:48:09.514Z,2026-10-30T04:25:36.485Z

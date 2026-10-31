@@ -6,11 +6,11 @@
     "url": "socks4://41.70.9.10:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 9020,
-    "latency_median_ms": 1763.5,
-    "uptime_24h": 33.3,
-    "uptime_7d": 46.9,
-    "checks_7d": 546,
+    "latency_ms": 4741,
+    "latency_median_ms": 2692,
+    "uptime_24h": 36.5,
+    "uptime_7d": 45,
+    "checks_7d": 574,
     "exit_ip": "41.70.9.10",
     "exit_shared": 1,
     "country": "mw",
@@ -21,6 +21,6 @@
     "asn_org": "Malawi Research and Education Network - MAREN",
     "sources_count": 17,
     "first_seen": "2026-09-24T12:25:46.845Z",
-    "last_checked": "2026-10-30T04:25:51.654Z"
+    "last_checked": "2026-10-31T04:32:19.941Z"
   }
 ]

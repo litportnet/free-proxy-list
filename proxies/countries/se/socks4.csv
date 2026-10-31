@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,8904,6454,69.6,63.1,860,185.213.154.239,1,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,6,2026-07-13T12:28:32.242Z,2026-10-31T04:30:49.011Z

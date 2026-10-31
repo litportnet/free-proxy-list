@@ -6,11 +6,11 @@
     "url": "socks4://102.64.116.100:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8372,
-    "latency_median_ms": 3109,
-    "uptime_24h": 28.6,
-    "uptime_7d": 20.6,
-    "checks_7d": 378,
+    "latency_ms": 4122,
+    "latency_median_ms": 2098,
+    "uptime_24h": 23.6,
+    "uptime_7d": 22.7,
+    "checks_7d": 432,
     "exit_ip": "102.129.89.170",
     "exit_shared": 1,
     "country": "cg",
@@ -21,6 +21,6 @@
     "asn_org": "CONGO TELECOM",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:48:58.981Z",
-    "last_checked": "2026-10-30T04:25:36.501Z"
+    "last_checked": "2026-10-31T04:32:05.884Z"
   }
 ]

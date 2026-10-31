@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.96.233.10,1080,socks5://103.96.233.10:1080,elite,false,1391,2097,42.2,41.2,673,103.96.233.10,1,af,Nangarhar,Jalālābād,Asia/Kabul,133894,Easy Connect- ISP,18,2026-06-12T04:50:44.329Z,2026-10-30T04:21:10.776Z
+socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,true,1065,1625.5,57,58.1,903,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,16,2026-10-01T22:53:09.008Z,2026-10-31T04:26:46.383Z
+http,103.151.88.5,8080,http://103.151.88.5:8080,transparent,false,6927,2387,24.2,17.7,396,149.54.7.238,1,af,Jowzjan,Shibirghān,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,12,2026-09-01T12:26:10.017Z,2026-10-31T04:25:07.327Z
+http,111.125.154.86,8080,http://111.125.154.86:8080,transparent,true,4715,5216,64.6,,48,111.125.154.86,1,af,Badakhshan,Fayzabad,Asia/Kabul,45178,ROSHAN,12,2026-10-30T19:57:46.265Z,2026-10-31T04:25:46.349Z

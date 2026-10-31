@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,1021,2251,98.6,98.5,996,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-30T04:24:16.820Z
-socks4,89.22.229.195,1080,socks4://89.22.229.195:1080,elite,true,3012,2349.5,40,63.4,434,89.22.229.195,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,5,2026-08-02T11:44:29.944Z,2026-10-30T04:27:47.990Z
-http,82.40.58.188,8080,http://82.40.58.188:8080,elite,false,1523,4219.5,32.6,32.6,86,82.40.58.188,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,12,2026-10-29T09:39:39.721Z,2026-10-30T04:26:26.461Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,558,809.5,95.8,97.9,994,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-10-31T04:32:54.977Z

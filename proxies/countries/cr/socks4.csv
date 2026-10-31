@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,true,3471,1484.5,59.8,58.1,886,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,1,2026-03-17T17:23:29.573Z,2026-10-31T04:29:42.404Z

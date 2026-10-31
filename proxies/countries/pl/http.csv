@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,148.253.212.68,8080,http://148.253.212.68:8080,elite,false,2663,2686,53.4,57.5,179,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,16,2026-10-28T20:32:45.482Z,2026-10-30T04:22:46.350Z
+http,148.253.212.68,8080,http://148.253.212.68:8080,elite,false,2757,3133,50,54.3,313,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,17,2026-10-28T20:32:45.482Z,2026-10-31T04:33:06.281Z
+http,45.137.43.44,8080,http://45.137.43.44:8080,elite,false,1359,1656,23.3,41,378,45.137.43.44,1,pl,Mazovia,Warsaw,Europe/Warsaw,203273,NetCrafters OU,5,2026-10-26T11:02:21.596Z,2026-10-31T04:31:53.393Z
+http,185.32.4.210,8070,http://185.32.4.210:8070,transparent,false,1721,2795.5,28.1,15.9,251,212.127.88.213,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,26,2026-09-09T21:28:51.484Z,2026-10-31T04:32:03.739Z
+http,178.212.144.7,80,http://178.212.144.7:80,transparent,false,274,289,100,15.4,65,178.212.144.7,1,pl,Podlasie,Sokółka,Europe/Warsaw,51436,IDEALAN Sp. z o.o.,17,2025-12-06T19:03:04.342Z,2026-10-31T04:33:15.068Z

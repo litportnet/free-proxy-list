@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10802,
+    "url": "socks5://5.75.133.113:10802",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4817,
+    "latency_median_ms": 4329.5,
+    "uptime_24h": 47.3,
+    "uptime_7d": 45.6,
+    "checks_7d": 642,
+    "exit_ip": "155.2.217.11",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Budapest",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 17,
+    "first_seen": "2026-09-17T17:38:15.449Z",
+    "last_checked": "2026-10-31T04:28:05.596Z"
+  }
+]

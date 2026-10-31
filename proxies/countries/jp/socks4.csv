@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.246.198.172,1080,socks4://43.246.198.172:1080,elite,true,1865,3391.5,43.4,39.3,699,43.246.198.172,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T06:26:06.378Z,2026-10-30T04:22:10.474Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,1778,795.5,49.5,61.8,887,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-10-31T04:33:01.929Z

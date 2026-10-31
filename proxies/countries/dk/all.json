@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "194.150.110.134",
+    "port": 80,
+    "url": "http://194.150.110.134:80",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 2445,
+    "latency_median_ms": 494,
+    "uptime_24h": 76.6,
+    "uptime_7d": 76.7,
+    "checks_7d": 806,
+    "exit_ip": "194.150.110.70",
+    "exit_shared": 1,
+    "country": "dk",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "timezone": "Europe/Copenhagen",
+    "asn": 31590,
+    "asn_org": "Rackhosting.com ApS",
+    "sources_count": 17,
+    "first_seen": "2025-09-06T05:36:00.329Z",
+    "last_checked": "2026-10-31T04:24:21.946Z"
+  }
+]

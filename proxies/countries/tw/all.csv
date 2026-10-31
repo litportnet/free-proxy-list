@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,7978,2395.5,85,64.3,875,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-30T04:21:33.120Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,6251,5418,91.4,67.8,897,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-10-31T04:33:06.804Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,1294,877,82.4,66.7,875,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-10-31T04:26:47.474Z
+socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,true,2017,2046.5,48,58.1,802,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-10-31T04:32:59.269Z
+http,203.73.62.104,60808,http://203.73.62.104:60808,elite,false,2534,6177.5,12.5,4.1,73,106.104.177.158,1,tw,Taiwan,Taichung,Asia/Taipei,4780,Digital United Inc.,23,2025-09-06T16:40:27.950Z,2026-10-31T04:25:16.580Z

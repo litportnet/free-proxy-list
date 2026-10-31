@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.242.119.123,50002,http://41.242.119.123:50002,transparent,false,8726,7027.5,33.3,9.5,105,41.242.117.3,1,yt,Mamoudzou,Mamoudzou,Indian/Mayotte,37614,STOI Internet,20,2026-10-03T03:07:56.958Z,2026-10-31T04:25:42.088Z

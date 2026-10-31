@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,507,488,93.7,94.9,991,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-30T04:26:51.148Z
-http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,false,2745,3939.5,28.2,25.9,455,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-10-30T04:21:19.837Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,479,488.5,97.2,94.7,993,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-10-31T04:32:05.338Z
+http,79.154.0.209,8080,http://79.154.0.209:8080,transparent,true,9345,4079,63.8,63.8,58,79.154.0.209,1,es,Catalonia,Premià de Mar,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,13,2026-10-30T17:56:42.028Z,2026-10-31T04:26:35.108Z
+http,95.60.60.204,3128,http://95.60.60.204:3128,transparent,true,9129,3304.5,34.5,28.7,534,95.60.60.204,1,es,Balearic Islands,Sant Josep de sa Talaia,Europe/Madrid,12430,VODAFONE ESPANA S.A.U.,24,2026-07-06T03:59:02.945Z,2026-10-31T04:30:26.487Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,transparent,true,1816,1765,39.8,26.7,476,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-10-31T04:25:35.581Z
+http,2.139.41.14,3128,http://2.139.41.14:3128,transparent,true,4357,4035,22.6,18.5,428,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-10-31T04:26:08.013Z

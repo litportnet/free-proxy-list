@@ -1,6 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.17.43.219,7890,socks4://46.17.43.219:7890,elite,false,2003,1470.5,62.5,52.9,813,145.79.120.61,2,de,Hesse,Frankfurt am Main,Europe/Berlin,401783,TOKALA COMMUNICATIONS INC.,13,2026-07-08T19:28:13.176Z,2026-10-30T04:26:52.789Z
-socks4,81.90.25.129,1080,socks4://81.90.25.129:1080,elite,true,1883,2122,28.6,36,639,81.90.25.129,1,de,Hesse,Frankfurt am Main,Europe/Berlin,198550,NODE HOST LIMITED,15,2026-09-30T18:44:59.671Z,2026-10-30T04:24:05.064Z
-socks4,77.239.96.194,1081,socks4://77.239.96.194:1081,elite,false,2372,572.5,13.3,15.6,199,77.239.96.194,1,de,Hesse,Frankfurt am Main,Europe/Berlin,216127,INTERNATIONAL HOSTING COMPANY LIMITED,11,2026-06-15T02:28:56.129Z,2026-10-30T04:20:52.703Z
-socks4,144.91.83.56,9050,socks4://144.91.83.56:9050,elite,true,794,6051,22.2,7.6,118,185.220.101.14,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,16,2026-05-13T01:24:16.708Z,2026-10-30T04:22:27.505Z
-socks4,80.76.32.52,80,socks4://80.76.32.52:80,elite,true,566,2075,100,,4,80.76.32.52,2,de,Hesse,Frankfurt am Main,Europe/Berlin,200740,FIRST SERVER LIMITED,2,2026-06-07T04:47:17.274Z,2026-10-30T04:21:26.188Z

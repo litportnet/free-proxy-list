@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,82.213.29.53,19000,http://82.213.29.53:19000,transparent,false,8728,4532,44,36.6,632,213.6.68.29,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,14,2026-09-08T19:42:55.825Z,2026-10-31T04:28:08.911Z
+http,213.6.249.37,19000,http://213.6.249.37:19000,transparent,false,4531,6206.5,26.5,20.3,286,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2026-05-27T03:23:13.655Z,2026-10-31T04:27:23.465Z
+http,82.213.29.53,18000,http://82.213.29.53:18000,transparent,false,9489,7894.5,30.9,19.8,344,213.6.68.29,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2026-09-07T01:20:42.605Z,2026-10-31T04:28:24.459Z

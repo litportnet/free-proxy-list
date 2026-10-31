@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10808,
+    "url": "socks5://5.75.133.113:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3175,
+    "latency_median_ms": 2905.5,
+    "uptime_24h": 45.5,
+    "uptime_7d": 46.5,
+    "checks_7d": 579,
+    "exit_ip": "82.221.113.209",
+    "exit_shared": 1,
+    "country": "is",
+    "region": "South",
+    "city": "Þorlákshöfn",
+    "timezone": "Atlantic/Reykjavik",
+    "asn": 50613,
+    "asn_org": "Advania Island ehf",
+    "sources_count": 19,
+    "first_seen": "2026-08-23T21:34:26.552Z",
+    "last_checked": "2026-10-31T04:24:41.422Z"
+  }
+]

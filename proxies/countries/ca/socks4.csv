@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,6728,4894.5,83.5,77,934,149.22.81.208,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,15,2026-09-12T09:12:25.731Z,2026-10-30T04:29:27.967Z
-socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,true,8156,7020,64.7,68.3,905,23.234.85.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-10-30T04:26:07.146Z
-socks4,201.79.50.139,10000,socks4://201.79.50.139:10000,elite,true,377,180.5,42.9,59.4,818,201.79.50.139,2,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",12,2026-10-23T12:25:23.640Z,2026-10-30T04:27:25.368Z
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,343,862.5,58.9,53.9,755,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-30T04:30:23.492Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,true,1182,1180.5,68.9,69.3,935,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-31T04:22:56.743Z

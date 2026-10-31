@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.86.55.240",
+    "port": 88,
+    "url": "http://41.86.55.240:88",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2835,
+    "latency_median_ms": 4151,
+    "uptime_24h": 23.9,
+    "uptime_7d": 17.1,
+    "checks_7d": 369,
+    "exit_ip": "41.86.55.240",
+    "exit_shared": 1,
+    "country": "sc",
+    "region": "Mont Fleuri",
+    "city": "Ile au Cerf",
+    "timezone": "Indian/Mahe",
+    "asn": 36958,
+    "asn_org": "Cable & Wireless (Seychelles) Ltd",
+    "sources_count": 26,
+    "first_seen": "2026-08-27T11:22:20.370Z",
+    "last_checked": "2026-10-31T04:28:55.121Z"
+  }
+]

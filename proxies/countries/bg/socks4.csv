@@ -1,8 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,false,4535,1736,70.8,81.5,954,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-10-30T04:26:08.237Z
-socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,758,1244.5,55,73.9,915,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-10-30T04:26:59.153Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,1737,1231,51.5,69.8,887,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-10-30T04:30:29.899Z
-socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,true,702,2722,36.9,53.1,811,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-04T23:48:54.819Z,2026-10-30T04:26:30.203Z
-socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,true,1844,1881.5,45.8,51,863,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-10-30T04:23:54.363Z
-socks4,46.10.198.10,4153,socks4://46.10.198.10:4153,elite,true,1706,1214,29.7,47.1,733,46.10.198.10,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,21,2026-07-04T21:40:44.439Z,2026-10-30T04:25:32.167Z
-socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,true,731,1226.5,33.3,41,683,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,14,2025-09-04T23:49:06.550Z,2026-10-30T04:25:48.387Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,false,729,1956.5,79.9,74.7,936,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-10-31T04:26:20.470Z
+socks4,91.92.78.207,4145,socks4://91.92.78.207:4145,elite,false,859,2752,22.1,26.5,690,91.92.78.207,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,12,2025-09-04T23:49:05.473Z,2026-10-31T04:27:47.144Z

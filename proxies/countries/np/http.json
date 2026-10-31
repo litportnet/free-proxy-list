@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "139.5.75.83",
+    "port": 8080,
+    "url": "http://139.5.75.83:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 1253,
+    "latency_median_ms": 3679.5,
+    "uptime_24h": 31.3,
+    "uptime_7d": 22,
+    "checks_7d": 413,
+    "exit_ip": "139.5.75.83",
+    "exit_shared": 1,
+    "country": "np",
+    "region": "Koshi",
+    "city": "Dharān",
+    "timezone": "Asia/Kathmandu",
+    "asn": 17501,
+    "asn_org": "WorldLink Communications Pvt Ltd",
+    "sources_count": 25,
+    "first_seen": "2026-06-06T12:37:50.090Z",
+    "last_checked": "2026-10-31T04:31:13.708Z"
+  }
+]

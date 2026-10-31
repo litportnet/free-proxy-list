@@ -6,11 +6,11 @@
     "url": "http://188.129.8.242:81",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1936,
-    "latency_median_ms": 2970.5,
-    "uptime_24h": 39.7,
-    "uptime_7d": 42.8,
-    "checks_7d": 717,
+    "latency_ms": 4039,
+    "latency_median_ms": 3814.5,
+    "uptime_24h": 47.7,
+    "uptime_7d": 42.7,
+    "checks_7d": 749,
     "exit_ip": "188.129.8.242",
     "exit_shared": 1,
     "country": "hr",
@@ -21,6 +21,6 @@
     "asn_org": "A1 Hrvatska d.o.o.",
     "sources_count": 19,
     "first_seen": "2026-06-14T10:16:56.085Z",
-    "last_checked": "2026-10-30T04:30:47.169Z"
+    "last_checked": "2026-10-31T04:25:28.564Z"
   }
 ]

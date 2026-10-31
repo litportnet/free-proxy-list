@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "82.132.19.108",
-    "port": 4153,
-    "url": "socks4://82.132.19.108:4153",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 657,
-    "latency_median_ms": 679,
-    "uptime_24h": 38.5,
-    "uptime_7d": 48.9,
-    "checks_7d": 718,
-    "exit_ip": "82.132.19.108",
-    "exit_shared": 1,
-    "country": "hr",
-    "region": "Krapina-Zagorje",
-    "city": "Oroslavje",
-    "timezone": "Europe/Zagreb",
-    "asn": 2108,
-    "asn_org": "Croatian Academic and Research Network",
-    "sources_count": 11,
-    "first_seen": "2025-09-04T23:01:27.495Z",
-    "last_checked": "2026-10-30T04:28:34.253Z"
-  },
-  {
     "protocol": "http",
     "ip": "188.129.8.242",
     "port": 81,
     "url": "http://188.129.8.242:81",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1936,
-    "latency_median_ms": 2970.5,
-    "uptime_24h": 39.7,
-    "uptime_7d": 42.8,
-    "checks_7d": 717,
+    "latency_ms": 4039,
+    "latency_median_ms": 3814.5,
+    "uptime_24h": 47.7,
+    "uptime_7d": 42.7,
+    "checks_7d": 749,
     "exit_ip": "188.129.8.242",
     "exit_shared": 1,
     "country": "hr",
@@ -45,6 +21,6 @@
     "asn_org": "A1 Hrvatska d.o.o.",
     "sources_count": 19,
     "first_seen": "2026-06-14T10:16:56.085Z",
-    "last_checked": "2026-10-30T04:30:47.169Z"
+    "last_checked": "2026-10-31T04:25:28.564Z"
   }
 ]

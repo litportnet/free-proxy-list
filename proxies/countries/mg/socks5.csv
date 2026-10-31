@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.42,11612,socks5://45.74.31.42:11612,elite,true,6404,5945,16.7,9.5,63,154.120.133.86,1,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,17,2026-09-16T03:18:05.440Z,2026-10-30T04:28:07.951Z

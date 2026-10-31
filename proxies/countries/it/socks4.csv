@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,673,826,49.6,55.2,797,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-30T04:23:00.208Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,603,608,35.5,39.2,609,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-10-30T04:22:34.997Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,680,4711,55.9,55.7,823,5.95.121.180,1,it,Campania,Naples,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-10-31T04:31:11.540Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,true,3907,4081,50.4,44.4,768,91.192.25.158,1,it,Tuscany,Terranuova Bracciolini,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-10-31T04:31:21.202Z
+socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,true,714,1738.5,29.5,26.9,614,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-10-31T04:31:20.689Z

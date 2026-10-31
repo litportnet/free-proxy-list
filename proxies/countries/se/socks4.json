@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "37.27.245.106",
+    "port": 1080,
+    "url": "socks4://37.27.245.106:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8904,
+    "latency_median_ms": 6454,
+    "uptime_24h": 69.6,
+    "uptime_7d": 63.1,
+    "checks_7d": 860,
+    "exit_ip": "185.213.154.239",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Västra Götaland",
+    "city": "Gothenburg",
+    "timezone": "Europe/Stockholm",
+    "asn": 39351,
+    "asn_org": "31173 Services AB",
+    "sources_count": 6,
+    "first_seen": "2026-07-13T12:28:32.242Z",
+    "last_checked": "2026-10-31T04:30:49.011Z"
+  }
+]

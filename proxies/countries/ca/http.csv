@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,155,119,92.4,96.5,999,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-30T04:28:47.191Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3583,3580,64.7,52.9,703,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-10-30T04:30:23.503Z
-http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,false,8873,5435,22,18.8,292,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,13,2025-11-06T15:40:16.476Z,2026-10-30T04:20:36.187Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,102,117,98.6,97.1,1004,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-10-31T04:26:35.626Z
+http,201.79.50.139,10000,http://201.79.50.139:10000,elite,true,317,278.5,53.7,51.8,759,201.79.50.139,2,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",15,2026-10-23T12:25:22.651Z,2026-10-31T04:29:32.739Z
+http,54.39.154.107,8082,http://54.39.154.107:8082,anonymous,false,4117,4046,31.4,22.2,351,54.39.154.107,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,13,2025-11-06T15:40:16.476Z,2026-10-31T04:28:00.685Z
