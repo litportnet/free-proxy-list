@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,130.110.103.245,3128,http://130.110.103.245:3128,transparent,true,774,838,100,97.1,832,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,22,2026-08-06T11:36:30.247Z,2026-10-31T20:42:50.757Z
+http,93.112.221.198,8080,http://93.112.221.198:8080,transparent,true,4967,3130.5,59.5,61.4,210,93.112.221.198,1,sa,Mecca Region,Jeddah,Asia/Riyadh,25019,Saudi Telecom Company JSC,15,2026-10-30T05:50:18.435Z,2026-10-31T20:41:30.315Z

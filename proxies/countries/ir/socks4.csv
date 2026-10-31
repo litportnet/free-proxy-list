@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,5.160.103.246,8080,socks4://5.160.103.246:8080,elite,false,947,946.5,52.1,46.1,835,5.160.103.246,1,ir,Tehran,Tehran,Asia/Tehran,42337,Respina Networks & Beyond PJSC,13,2025-09-04T23:49:14.919Z,2026-10-31T20:43:17.280Z
+socks4,46.38.138.184,1080,socks4://46.38.138.184:1080,elite,false,3278,2633.5,27.4,28.6,441,46.38.138.184,1,ir,Tehran,Tehran,Asia/Tehran,204104,Giti Secure Cloud LLC,10,2026-10-26T11:02:23.106Z,2026-10-31T20:41:10.333Z
+socks4,81.12.89.74,4153,socks4://81.12.89.74:4153,elite,true,970,2040,9.8,14.8,223,81.12.89.74,1,ir,Tehran,Tehran,Asia/Tehran,42337,Respina Networks & Beyond PJSC,20,2026-08-01T19:38:37.132Z,2026-10-31T20:43:32.626Z

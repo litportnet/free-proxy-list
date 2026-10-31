@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.244.78.61,8080,http://102.244.78.61:8080,elite,false,745,803,93.1,89.1,986,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T00:19:10.603Z,2026-10-31T20:39:43.396Z
+http,102.244.78.61,8081,http://102.244.78.61:8081,elite,true,760,794,94.4,88.7,975,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,19,2026-10-06T19:54:38.900Z,2026-10-31T20:37:07.228Z
+http,102.244.78.61,8083,http://102.244.78.61:8083,elite,false,812,805,94.4,88.6,987,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T14:26:33.928Z,2026-10-31T20:34:04.593Z
+http,102.244.78.61,8090,http://102.244.78.61:8090,elite,true,932,805,90.9,88.6,985,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-03T20:16:56.994Z,2026-10-31T20:43:19.913Z
+http,102.244.78.61,8087,http://102.244.78.61:8087,elite,true,803,803.5,92.3,88.2,980,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T18:28:41.562Z,2026-10-31T20:43:47.969Z
+http,102.244.78.61,8089,http://102.244.78.61:8089,elite,true,780,790,91.6,87.8,984,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-05T06:35:00.733Z,2026-10-31T20:39:52.865Z
+http,102.244.78.61,8085,http://102.244.78.61:8085,elite,false,784,795,90.1,87.8,981,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-04T15:26:57.326Z,2026-10-31T20:39:42.878Z
+http,102.244.78.61,8088,http://102.244.78.61:8088,elite,false,759,800.5,90.1,87.6,983,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T04:46:36.379Z,2026-10-31T20:40:35.515Z
+http,102.244.78.61,8084,http://102.244.78.61:8084,elite,true,798,826.5,93,86.8,974,102.244.78.57,9,cm,North,Garoua,Africa/Douala,36912,Orange Cameroun SA,20,2026-10-06T06:47:45.688Z,2026-10-31T20:44:05.460Z

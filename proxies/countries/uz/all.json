@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "195.158.8.123",
+    "port": 3128,
+    "url": "http://195.158.8.123:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 7457,
+    "latency_median_ms": 4808,
+    "uptime_24h": 89.9,
+    "uptime_7d": 88,
+    "checks_7d": 972,
+    "exit_ip": "195.158.8.123",
+    "exit_shared": 1,
+    "country": "uz",
+    "region": "Tashkent",
+    "city": "Tashkent",
+    "timezone": "Asia/Tashkent",
+    "asn": 8193,
+    "asn_org": "Uzbektelekom Joint Stock Company",
+    "sources_count": 25,
+    "first_seen": "2025-09-08T17:35:24.862Z",
+    "last_checked": "2026-10-31T20:39:28.679Z"
+  }
+]

@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,553,577,100,99.8,578,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-10-31T20:37:49.965Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,805,752,80.4,74.7,791,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-10-31T20:40:20.274Z
+http,185.8.148.81,8085,http://185.8.148.81:8085,transparent,false,2897,2979.5,48.4,35.1,641,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,19,2026-10-12T20:10:22.760Z,2026-10-31T20:36:26.753Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,transparent,false,9731,4437.5,24.5,27.5,364,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-10-31T20:43:01.893Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,transparent,false,3416,3509,42.7,24.3,375,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-10-31T20:40:36.050Z
+http,84.8.248.36,3128,http://84.8.248.36:3128,elite,true,2669,6640.5,23,15.3,307,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,24,2026-08-12T10:52:28.127Z,2026-10-31T20:41:48.261Z

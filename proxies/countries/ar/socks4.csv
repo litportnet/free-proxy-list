@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.220.25.42,4153,socks4://190.220.25.42:4153,elite,true,1961,1063.5,55.4,56.9,898,190.220.25.42,1,ar,Cordoba,Córdoba,America/Argentina/Cordoba,11664,Techtel LMDS Comunicaciones Interactivas S.A.,13,2025-09-04T23:48:58.428Z,2026-10-31T20:38:54.998Z

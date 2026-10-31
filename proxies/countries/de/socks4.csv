@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,46.17.43.219,7890,socks4://46.17.43.219:7890,elite,true,2901,2377,31.8,54.4,868,145.79.120.61,2,de,Hesse,Frankfurt am Main,Europe/Berlin,401783,TOKALA COMMUNICATIONS INC.,13,2026-07-08T19:28:13.176Z,2026-10-31T20:36:31.966Z
+socks4,81.90.25.129,1080,socks4://81.90.25.129:1080,elite,true,2397,2763,41.5,37.9,663,81.90.25.129,1,de,Hesse,Frankfurt am Main,Europe/Berlin,198550,NODE HOST LIMITED,15,2026-09-30T18:44:59.671Z,2026-10-31T20:41:17.705Z
+socks4,13.208.246.143,8000,socks4://13.208.246.143:8000,unknown,false,2590,2590,15.6,9.1,55,13.208.246.143,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,1,2026-10-20T07:45:19.738Z,2026-10-31T20:34:34.059Z

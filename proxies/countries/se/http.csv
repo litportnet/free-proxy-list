@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,811,848,100,99.8,1004,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-10-31T20:36:15.245Z
+http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,3733,795,96.5,98.4,1002,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-10-31T20:44:02.257Z
+http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,694,727.5,96.5,97.9,995,104.23.221.45,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-10-31T20:40:01.804Z
+http,194.14.207.87,80,http://194.14.207.87:80,elite,false,3890,4917,63.4,46.5,706,194.14.207.87,2,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-06-08T13:04:45.237Z,2026-10-31T20:38:17.510Z
+http,194.14.207.87,8001,http://194.14.207.87:8001,elite,false,4876,4399.5,52.3,46.2,734,194.14.207.87,2,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-07-08T17:29:52.111Z,2026-10-31T20:38:53.411Z

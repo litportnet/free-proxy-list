@@ -1,0 +1,19 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,197.221.240.176,80,http://197.221.240.176:80,anonymous,false,1025,1044.5,88.3,96,992,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-07T15:13:20.738Z,2026-10-31T20:40:55.537Z
+http,197.221.234.149,80,http://197.221.234.149:80,anonymous,false,1373,1129.5,91.2,96,987,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-06T18:37:38.297Z,2026-10-31T20:35:01.487Z
+http,197.221.249.197,80,http://197.221.249.197:80,anonymous,false,4662,1038.5,87,95.7,988,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,7,2025-12-06T19:02:42.108Z,2026-10-31T20:44:18.652Z
+http,197.221.240.247,80,http://197.221.240.247:80,anonymous,false,7853,1247,86,95.7,987,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-06T18:02:11.448Z,2026-10-31T20:37:20.423Z
+http,197.221.249.198,80,http://197.221.249.198:80,anonymous,false,5337,3601,88.4,95.5,993,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:33.517Z,2026-10-31T20:35:20.366Z
+http,41.220.22.7,80,http://41.220.22.7:80,anonymous,false,4365,1391,87.6,95.4,991,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:32.271Z,2026-10-31T20:35:39.579Z
+http,41.220.16.214,80,http://41.220.16.214:80,anonymous,false,6073,1157,89.3,95.4,989,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-07T12:13:00.012Z,2026-10-31T20:36:41.406Z
+http,41.220.16.210,80,http://41.220.16.210:80,anonymous,false,1022,1318,86.8,95.1,988,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2026-02-20T07:59:30.716Z,2026-10-31T20:40:34.471Z
+http,197.221.249.196,80,http://197.221.249.196:80,anonymous,false,1692,1057,86.9,95.1,986,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:33.782Z,2026-10-31T20:34:43.743Z
+http,41.220.16.208,80,http://41.220.16.208:80,anonymous,false,1143,1039,85.3,95,987,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:31.427Z,2026-10-31T20:34:56.230Z
+http,197.221.235.122,80,http://197.221.235.122:80,anonymous,false,1048,1047,85.4,94.9,987,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,4,2025-12-31T21:24:58.093Z,2026-10-31T20:34:04.065Z
+http,197.221.234.252,80,http://197.221.234.252:80,anonymous,false,1762,1199,84.4,94.8,986,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-06T18:37:17.770Z,2026-10-31T20:41:33.495Z
+http,197.221.240.240,80,http://197.221.240.240:80,anonymous,false,4701,1850,86,94.3,988,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-06T18:02:09.669Z,2026-10-31T20:36:53.466Z
+http,41.220.16.215,80,http://41.220.16.215:80,anonymous,false,2807,1343.5,85.4,94.2,984,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-06T21:03:56.669Z,2026-10-31T20:38:27.027Z
+http,197.221.234.253,80,http://197.221.234.253:80,anonymous,false,5900,1035,81.8,94.2,985,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,7,2025-09-04T23:49:28.103Z,2026-10-31T20:36:57.149Z
+http,41.220.16.219,80,http://41.220.16.219:80,anonymous,false,3093,1035.5,85.3,94.1,986,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,9,2026-09-09T21:22:41.910Z,2026-10-31T20:41:53.038Z
+http,41.220.16.218,80,http://41.220.16.218:80,anonymous,false,1311,1515.5,88.4,94,985,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,8,2025-12-07T12:46:46.809Z,2026-10-31T20:41:42.999Z
+http,197.221.237.248,80,http://197.221.237.248:80,anonymous,false,2167,1046,84.6,94,990,41.220.17.62,18,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,1,2026-03-17T17:23:33.444Z,2026-10-31T20:42:07.321Z

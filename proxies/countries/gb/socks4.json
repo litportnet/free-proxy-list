@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "89.238.128.230",
+    "port": 1080,
+    "url": "socks4://89.238.128.230:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 548,
+    "latency_median_ms": 3541,
+    "uptime_24h": 36.2,
+    "uptime_7d": 36.6,
+    "checks_7d": 747,
+    "exit_ip": "84.39.116.22",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "Ringway",
+    "timezone": "Europe/London",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 12,
+    "first_seen": "2026-10-22T02:07:16.416Z",
+    "last_checked": "2026-10-31T20:41:55.160Z"
+  }
+]

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,47.80.63.214,1080,socks5://47.80.63.214:1080,elite,true,1287,1459.5,82.5,82.5,97,47.80.63.214,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",12,2026-10-31T03:01:26.686Z,2026-10-31T20:37:52.078Z
+socks5,47.80.16.177,1080,socks5://47.80.16.177:1080,elite,true,8096,1734,70.5,70.5,95,47.80.16.177,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",11,2026-10-31T03:01:26.686Z,2026-10-31T20:41:50.904Z
+socks5,47.80.15.108,1080,socks5://47.80.15.108:1080,elite,true,1307,1392.5,65.3,65.3,98,47.80.15.108,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",11,2026-10-31T03:01:26.686Z,2026-10-31T20:42:21.095Z

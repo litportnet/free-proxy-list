@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "109.69.211.18",
+    "port": 1080,
+    "url": "socks4://109.69.211.18:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 706,
+    "latency_median_ms": 1729,
+    "uptime_24h": 75.6,
+    "uptime_7d": 76.7,
+    "checks_7d": 930,
+    "exit_ip": "109.69.211.18",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "Olomouc Region",
+    "city": "Bochoř",
+    "timezone": "Europe/Prague",
+    "asn": 196815,
+    "asn_org": "LAN servis s.r.o.",
+    "sources_count": 19,
+    "first_seen": "2026-07-05T16:50:36.728Z",
+    "last_checked": "2026-10-31T20:37:27.255Z"
+  }
+]

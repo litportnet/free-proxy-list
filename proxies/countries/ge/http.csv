@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,80.241.251.54,8080,http://80.241.251.54:8080,transparent,false,4798,3812,33.3,39.7,688,80.241.251.54,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2025-09-10T20:03:30.659Z,2026-10-31T20:36:57.669Z
+http,95.104.123.18,8080,http://95.104.123.18:8080,transparent,true,3844,3124.5,28.7,24,455,95.104.123.18,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2026-09-28T14:17:13.126Z,2026-10-31T20:42:30.639Z
+http,85.117.56.85,8080,http://85.117.56.85:8080,transparent,false,693,1897,31.2,19.2,349,85.117.56.85,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,17,2026-04-17T21:09:46.427Z,2026-10-31T20:40:02.921Z
+http,85.117.61.74,8080,http://85.117.61.74:8080,transparent,false,3757,4876.5,21.9,15.2,191,85.117.61.74,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,15,2025-09-05T20:06:33.424Z,2026-10-31T20:39:46.558Z
+http,45.143.109.137,8080,http://45.143.109.137:8080,transparent,false,2271,5332.5,20,6.5,108,45.143.109.98,1,ge,Imereti,Vani,Asia/Tbilisi,208320,AIRMAX LLC,7,2025-11-08T16:04:52.614Z,2026-10-31T20:40:15.552Z

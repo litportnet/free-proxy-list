@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,605,633.5,99.3,99.6,1003,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-10-31T20:44:11.817Z
+http,180.53.81.127,8080,http://180.53.81.127:8080,transparent,true,671,656.5,93.7,94.8,400,180.53.81.127,1,jp,Kanagawa,Yokohama,Asia/Tokyo,4713,"NTT DOCOMO BUSINESS,Inc.",15,2026-10-29T01:35:25.294Z,2026-10-31T20:39:10.280Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,false,4808,3566.5,77.2,73.7,957,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-10-31T20:35:59.474Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,1641,1647.5,94.3,73.6,880,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-10-31T20:36:32.497Z
+http,140.227.61.201,3128,http://140.227.61.201:3128,transparent,true,3645,3618.5,37.4,42.2,787,140.227.61.201,1,jp,Hyōgo,Sasayama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-10-31T20:35:32.780Z

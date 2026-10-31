@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,183.6.57.161,5678,socks4://183.6.57.161:5678,elite,false,2108,2103.5,85.9,73.3,912,183.6.57.161,1,cn,Guangdong,Guangzhou,Asia/Shanghai,4134,CHINANET BACKBONE,12,2025-09-04T23:49:05.298Z,2026-10-31T20:34:40.540Z
+socks4,210.22.100.242,1080,socks4://210.22.100.242:1080,elite,false,1175,2863.5,52.2,50.8,754,210.22.100.242,1,cn,Shanghai,Shanghai,Asia/Shanghai,17621,China Unicom Shanghai network,13,2025-09-05T20:06:36.277Z,2026-10-31T20:36:36.183Z
+socks4,122.96.62.178,1080,socks4://122.96.62.178:1080,elite,false,4191,4236.5,52.9,49.3,805,122.96.62.178,1,cn,Jiangsu,Nanjing,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,11,2025-09-05T20:06:06.427Z,2026-10-31T20:41:49.336Z
+socks4,27.115.33.94,4153,socks4://27.115.33.94:4153,elite,true,4228,2253,59.8,45.7,750,27.115.33.94,1,cn,Shanghai,Shanghai,Asia/Shanghai,17621,China Unicom Shanghai network,12,2025-09-04T23:49:04.845Z,2026-10-31T20:38:22.237Z

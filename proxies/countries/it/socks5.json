@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "212.77.75.25",
+    "port": 1088,
+    "url": "socks5://212.77.75.25:1088",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4517,
+    "latency_median_ms": 1298.5,
+    "uptime_24h": 87.1,
+    "uptime_7d": 89.8,
+    "checks_7d": 980,
+    "exit_ip": "212.77.75.20",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Tuscany",
+    "city": "Empoli",
+    "timezone": "Europe/Rome",
+    "asn": 15691,
+    "asn_org": "UAN COMPANY S.R.L.",
+    "sources_count": 16,
+    "first_seen": "2026-06-29T15:31:05.719Z",
+    "last_checked": "2026-10-31T20:36:49.830Z"
+  }
+]

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.100.158.115,10809,socks5://103.100.158.115:10809,elite,true,1217,1231.5,97.9,98,995,103.100.158.115,1,jp,Tokyo,Tokyo,Asia/Tokyo,51847,Nearoute Limited,15,2026-10-05T01:32:22.649Z,2026-10-31T20:40:11.849Z
+socks5,101.36.104.239,10808,socks5://101.36.104.239:10808,elite,true,861,928,97.2,97.1,997,101.36.104.239,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-21T08:09:48.039Z,2026-10-31T20:37:52.614Z
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,1626,1423,90,93.7,992,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-10-31T20:35:49.041Z
+socks5,43.246.198.172,1080,socks5://43.246.198.172:1080,elite,false,2079,2878.5,39.1,36.6,781,43.246.198.172,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,15,2026-09-29T05:25:15.553Z,2026-10-31T20:40:14.504Z

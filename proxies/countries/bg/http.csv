@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.123.16.102,80,http://93.123.16.102:80,transparent,false,264,271.5,100,100,555,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T22:19:33.119Z,2026-10-31T20:39:00.756Z
+http,93.123.16.101,80,http://93.123.16.101:80,transparent,false,249,271,100,99.8,555,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T20:18:33.113Z,2026-10-31T20:37:12.499Z
+http,93.123.16.69,80,http://93.123.16.69:80,transparent,false,252,271,100,99.8,552,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T20:18:31.145Z,2026-10-31T20:35:50.068Z
+http,93.123.16.23,80,http://93.123.16.23:80,transparent,false,256,265,100,99.8,1007,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T23:19:52.704Z,2026-10-31T20:38:52.869Z
+http,93.123.16.38,80,http://93.123.16.38:80,transparent,false,257,259,100,99.8,1004,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,8,2026-07-30T12:07:52.703Z,2026-10-31T20:37:37.313Z
+http,93.123.16.66,80,http://93.123.16.66:80,transparent,false,260,262.5,100,99.6,1010,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,1,2026-09-06T21:18:52.286Z,2026-10-31T20:38:29.122Z
+http,93.123.16.14,80,http://93.123.16.14:80,transparent,false,263,266,100,99,1004,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,5,2026-07-31T01:14:40.188Z,2026-10-31T20:43:05.638Z
+http,213.169.33.7,8001,http://213.169.33.7:8001,transparent,false,5494,4116,39.1,26,524,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:28.237Z,2026-10-31T20:36:16.293Z

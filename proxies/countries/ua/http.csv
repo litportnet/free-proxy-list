@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.226.213.254,8888,http://195.226.213.254:8888,transparent,true,3201,3571,62.3,59.4,900,195.226.213.254,1,ua,Odesa,Fontanka,Europe/Kyiv,197192,Private Enterprise KTV AIDA,25,2026-08-07T02:43:06.398Z,2026-10-31T20:35:20.885Z
+http,93.171.218.52,8080,http://93.171.218.52:8080,transparent,false,5577,5886,36.3,31.1,518,217.175.9.100,1,ua,Crimea,Kerch,Europe/Simferopol,25591,BCLan LLC,19,2026-10-11T22:59:18.009Z,2026-10-31T20:43:09.313Z
+http,95.67.121.206,45554,http://95.67.121.206:45554,transparent,false,9114,3869.5,39.3,28.5,403,95.67.121.206,1,ua,Kyiv City,Kyiv,Europe/Kyiv,34867,Cosmonova LLC,10,2025-09-10T08:57:11.759Z,2026-10-31T20:42:05.751Z
+http,5.58.7.214,8080,http://5.58.7.214:8080,transparent,false,4414,4100,28.2,26.8,526,5.58.7.214,1,ua,Ternopil,Ternopil,Europe/Kyiv,16223,"MAXNET TELECOM, LTD",13,2025-11-25T12:54:20.042Z,2026-10-31T20:39:57.593Z
+http,193.24.30.50,37777,http://193.24.30.50:37777,transparent,false,7814,3685,23.5,17.1,258,193.24.30.50,1,ua,Kharkiv,Kharkiv,Europe/Kyiv,31187,Ukrtechstroy Ltd,14,2025-09-05T20:06:28.189Z,2026-10-31T20:34:28.551Z

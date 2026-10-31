@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10808,
+    "url": "socks5://49.13.22.249:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1722,
+    "latency_median_ms": 3899.5,
+    "uptime_24h": 54.2,
+    "uptime_7d": 42.8,
+    "checks_7d": 538,
+    "exit_ip": "130.185.255.230",
+    "exit_shared": 1,
+    "country": "mt",
+    "region": "Is-Swieqi",
+    "city": "Swieqi",
+    "timezone": "Europe/Malta",
+    "asn": 200805,
+    "asn_org": "Melita Limited",
+    "sources_count": 19,
+    "first_seen": "2026-08-24T12:42:33.832Z",
+    "last_checked": "2026-10-31T20:43:10.355Z"
+  }
+]

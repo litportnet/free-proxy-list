@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,125.27.147.150,9999,socks5://125.27.147.150:9999,elite,true,1253,1300.5,100,99.2,496,125.27.147.150,1,th,Prachuap Khiri Khan,Pran Buri,Asia/Bangkok,23969,TOT Public Company Limited,14,2026-10-28T09:26:55.750Z,2026-10-31T20:39:40.748Z
+socks5,8.213.193.151,1080,socks5://8.213.193.151:1080,elite,true,1597,1582.5,72.1,72.1,61,8.213.193.151,1,th,Bangkok,Bangkok,Asia/Bangkok,45102,"Alibaba (US) Technology Co., Ltd.",10,2026-10-31T08:04:05.851Z,2026-10-31T20:43:34.723Z

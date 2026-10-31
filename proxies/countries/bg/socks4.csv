@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,true,671,700.5,41.2,50.2,827,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-04T23:48:54.819Z,2026-10-31T20:38:49.708Z
+socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,false,683,689.5,40.2,45.1,739,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-10-31T20:36:54.000Z

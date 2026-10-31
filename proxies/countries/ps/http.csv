@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,178.214.80.45,8080,http://178.214.80.45:8080,transparent,false,7968,4167.5,32.4,21.5,372,178.214.80.99,1,ps,West Bank,Dhannābah,Asia/Hebron,51336,Gemzo information technology Private Joint-Stock company,13,2026-05-24T00:52:43.198Z,2026-10-31T20:35:36.456Z

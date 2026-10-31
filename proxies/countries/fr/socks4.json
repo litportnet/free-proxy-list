@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "103.74.93.217",
+    "port": 10808,
+    "url": "socks4://103.74.93.217:10808",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2165,
+    "latency_median_ms": 4381.5,
+    "uptime_24h": 81.5,
+    "uptime_7d": 84,
+    "checks_7d": 187,
+    "exit_ip": "88.218.78.101",
+    "exit_shared": 2,
+    "country": "fr",
+    "region": "Grand Est",
+    "city": "Strasbourg",
+    "timezone": "Europe/Paris",
+    "asn": 29066,
+    "asn_org": "velia.net Internetdienste GmbH",
+    "sources_count": 9,
+    "first_seen": "2026-10-03T12:12:40.947Z",
+    "last_checked": "2026-10-31T20:42:12.588Z"
+  }
+]

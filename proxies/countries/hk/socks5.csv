@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,34.150.120.78,1080,socks5://34.150.120.78:1080,elite,true,1932,2855.5,99.3,99.4,160,34.150.120.78,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,396982,Google LLC,11,2026-10-30T17:56:41.442Z,2026-10-31T20:40:37.094Z
+socks5,45.149.92.160,1080,socks5://45.149.92.160:1080,elite,false,1060,1147,72,68.7,661,207.45.11.118,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,9304,HGC Global Communications Limited,14,2026-10-03T21:17:27.968Z,2026-10-31T20:38:52.860Z
+socks5,43.161.199.217,1080,socks5://43.161.199.217:1080,elite,true,1292,1519.5,50.9,48.1,484,43.161.199.217,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-10-27T23:21:32.147Z,2026-10-31T20:37:54.733Z
+socks5,222.211.216.201,7890,socks5://222.211.216.201:7890,elite,true,1544,5572,54.6,47.1,393,45.196.238.22,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,53808,MoeDove,12,2026-10-27T21:20:33.344Z,2026-10-31T20:38:50.765Z

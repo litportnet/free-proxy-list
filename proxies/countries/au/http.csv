@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,159.196.182.72,8080,http://159.196.182.72:8080,transparent,false,3570,2566,32.9,27.1,580,159.196.182.72,1,au,Victoria,Melbourne,Australia/Melbourne,4764,Aussie Fibre Pty Ltd,24,2026-05-20T21:13:51.533Z,2026-10-31T20:39:18.705Z

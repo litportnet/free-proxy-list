@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.41,4827,socks5://45.74.31.41:4827,elite,true,6326,2510,21.4,21.5,158,201.76.149.85,1,br,Paraíba,João Pessoa,America/Fortaleza,27656,DCN Soluções em Tecnologia Ltda - EPP,14,2026-09-15T03:47:12.852Z,2026-10-31T20:36:42.453Z

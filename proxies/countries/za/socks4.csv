@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,105.27.180.194,1080,socks4://105.27.180.194:1080,elite,true,1196,1898,77.6,75.9,943,105.27.180.194,1,za,Western Cape,Cape Town,Africa/Johannesburg,37100,SEACOM Limited,13,2026-02-08T01:22:48.172Z,2026-10-31T20:41:42.475Z
+socks4,105.30.248.241,1080,socks4://105.30.248.241:1080,elite,true,2443,2607,59.4,66.8,916,105.23.242.198,1,za,KwaZulu-Natal,Durban,Africa/Johannesburg,37100,SEACOM Limited,15,2026-07-05T02:41:00.284Z,2026-10-31T20:41:28.731Z
+socks4,196.216.133.18,1080,socks4://196.216.133.18:1080,elite,true,8525,4419.5,54.8,53.1,835,196.216.133.18,1,za,North West,Klerksdorp,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,12,2025-09-05T20:06:36.654Z,2026-10-31T20:36:01.043Z
+socks4,213.150.221.198,4153,socks4://213.150.221.198:4153,elite,true,1313,1783.5,41.4,50.8,860,41.79.222.90,1,za,Gauteng,Johannesburg,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,14,2025-09-04T23:49:06.644Z,2026-10-31T20:36:06.358Z

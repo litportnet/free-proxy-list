@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,false,1821,1837.5,79.4,74.2,807,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,14,2026-07-05T02:40:57.084Z,2026-10-31T20:40:49.773Z
+socks4,185.196.178.238,60606,socks4://185.196.178.238:60606,elite,true,604,606,66.2,67.3,808,185.196.178.238,1,at,Tyrol,Längenfeld,Europe/Vienna,206091,Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG,20,2025-09-05T20:06:33.498Z,2026-10-31T20:36:40.893Z
+socks4,213.171.26.67,8008,socks4://213.171.26.67:8008,elite,true,1107,3682,12.9,10.8,223,109.70.100.13,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,20,2026-09-11T07:59:01.863Z,2026-10-31T20:40:18.715Z

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,false,706,1729,75.6,76.7,930,109.69.211.18,1,cz,Olomouc Region,Bochoř,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-10-31T20:37:27.255Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,8955,7454,75.2,57.7,473,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-10-31T20:42:39.599Z
+socks5,91.218.234.54,11080,socks5://91.218.234.54:11080,elite,true,3735,3781.5,56.3,54.6,357,91.218.234.54,1,cz,Plzeň Region,Stříbro,Europe/Prague,51424,Jiri Sperl,13,2026-10-29T00:34:52.256Z,2026-10-31T20:40:28.650Z

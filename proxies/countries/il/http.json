@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.28.155.163",
+    "port": 1433,
+    "url": "http://185.28.155.163:1433",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 1021,
+    "latency_median_ms": 1021,
+    "uptime_24h": 50,
+    "uptime_7d": null,
+    "checks_7d": 2,
+    "exit_ip": "185.28.155.163",
+    "exit_shared": 1,
+    "country": "il",
+    "region": "Central District",
+    "city": "Petaẖ Tiqva",
+    "timezone": "Asia/Jerusalem",
+    "asn": 44709,
+    "asn_org": "O.M.C. COMPUTERS & COMMUNICATIONS LTD",
+    "sources_count": 5,
+    "first_seen": "2026-07-04T15:36:56.810Z",
+    "last_checked": "2026-10-31T20:37:29.916Z"
+  }
+]

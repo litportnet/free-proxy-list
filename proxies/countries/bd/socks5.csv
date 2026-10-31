@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,113.212.109.40,1080,socks5://113.212.109.40:1080,elite,true,2798,2319.5,50,44.2,837,113.212.109.40,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,136224,City Online Ltd.,15,2025-10-06T03:53:48.844Z,2026-10-31T20:40:36.046Z
+socks5,103.136.107.70,1080,socks5://103.136.107.70:1080,elite,false,1675,1979.5,32.7,33.3,630,103.136.107.70,1,bd,Chittagong,Cox’s Bāzār,Asia/Dhaka,134599,Digital Dot Net (DDN),18,2025-10-08T12:11:11.075Z,2026-10-31T20:38:49.177Z
+socks5,115.127.112.178,1080,socks5://115.127.112.178:1080,elite,true,2864,2897,51.5,31.5,707,115.127.112.178,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,24342,BRACNet Limited,19,2025-09-25T08:45:33.657Z,2026-10-31T20:43:53.236Z
+socks5,118.179.27.153,1080,socks5://118.179.27.153:1080,elite,false,2585,2609.5,38.7,25.6,398,118.179.26.6,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,58656,bdHUB Limited,15,2026-10-10T01:35:26.071Z,2026-10-31T20:42:08.389Z
+socks5,103.138.145.150,1999,socks5://103.138.145.150:1999,elite,false,2865,4788,20.7,18.5,319,103.138.145.150,1,bd,Dhaka Division,Kishorganj,Asia/Dhaka,139008,NEEF IT LIMITED,19,2026-05-19T07:59:33.501Z,2026-10-31T20:41:10.323Z
+socks5,103.151.75.21,2025,socks5://103.151.75.21:2025,elite,false,9739,4120,15.6,15.7,305,45.117.62.29,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,135341,Orange Communication,18,2026-01-01T18:09:41.806Z,2026-10-31T20:38:50.236Z

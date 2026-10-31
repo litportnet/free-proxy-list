@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "190.220.25.42",
+    "port": 4153,
+    "url": "socks4://190.220.25.42:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1961,
+    "latency_median_ms": 1063.5,
+    "uptime_24h": 55.4,
+    "uptime_7d": 56.9,
+    "checks_7d": 898,
+    "exit_ip": "190.220.25.42",
+    "exit_shared": 1,
+    "country": "ar",
+    "region": "Cordoba",
+    "city": "Córdoba",
+    "timezone": "America/Argentina/Cordoba",
+    "asn": 11664,
+    "asn_org": "Techtel LMDS Comunicaciones Interactivas S.A.",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:48:58.428Z",
+    "last_checked": "2026-10-31T20:38:54.998Z"
+  }
+]

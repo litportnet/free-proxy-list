@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.28.155.163,1433,http://185.28.155.163:1433,transparent,true,1021,1021,50,,2,185.28.155.163,1,il,Central District,Petaẖ Tiqva,Asia/Jerusalem,44709,O.M.C. COMPUTERS & COMMUNICATIONS LTD,5,2026-07-04T15:36:56.810Z,2026-10-31T20:37:29.916Z

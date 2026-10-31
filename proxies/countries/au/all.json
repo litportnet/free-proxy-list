@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "159.196.182.72",
+    "port": 8080,
+    "url": "http://159.196.182.72:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 3570,
+    "latency_median_ms": 2566,
+    "uptime_24h": 32.9,
+    "uptime_7d": 27.1,
+    "checks_7d": 580,
+    "exit_ip": "159.196.182.72",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "Victoria",
+    "city": "Melbourne",
+    "timezone": "Australia/Melbourne",
+    "asn": 4764,
+    "asn_org": "Aussie Fibre Pty Ltd",
+    "sources_count": 24,
+    "first_seen": "2026-05-20T21:13:51.533Z",
+    "last_checked": "2026-10-31T20:39:18.705Z"
+  }
+]

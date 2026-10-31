@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,91.107.179.68,10809,socks5://91.107.179.68:10809,elite,true,6576,1594,86.2,72.4,789,104.28.207.218,1,de,Saxony,Leipzig,Europe/Berlin,13335,"Cloudflare, Inc.",20,2026-09-13T03:21:50.152Z,2026-10-31T20:43:34.733Z
+socks5,51.15.253.45,8080,socks5://51.15.253.45:8080,elite,true,1147,2385,61.1,69.3,924,185.220.101.101,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,20,2026-07-25T02:56:56.408Z,2026-10-31T20:36:24.166Z
+socks5,31.58.144.19,1080,socks5://31.58.144.19:1080,elite,false,654,676.5,42.5,57,916,31.58.144.19,1,de,Hesse,Frankfurt am Main,Europe/Berlin,215607,dataforest GmbH,13,2026-10-19T18:38:03.499Z,2026-10-31T20:44:14.981Z
+socks5,46.17.43.219,7890,socks5://46.17.43.219:7890,elite,false,8576,2620.5,32.6,45.7,817,145.79.120.61,2,de,Hesse,Frankfurt am Main,Europe/Berlin,401783,TOKALA COMMUNICATIONS INC.,20,2026-07-08T19:28:08.922Z,2026-10-31T20:37:30.967Z
+socks5,31.58.144.15,1080,socks5://31.58.144.15:1080,elite,false,642,694.5,10,17.1,164,31.58.144.15,1,de,Hesse,Frankfurt am Main,Europe/Berlin,215607,dataforest GmbH,12,2026-10-19T18:38:03.499Z,2026-10-31T20:38:31.780Z
+socks5,186.246.31.197,9050,socks5://186.246.31.197:9050,elite,false,2737,3101.5,14.3,2.6,78,185.220.101.106,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,20,2026-08-28T15:36:07.728Z,2026-10-31T20:42:09.446Z

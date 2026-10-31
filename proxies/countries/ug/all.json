@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "196.0.111.194",
+    "port": 48009,
+    "url": "socks4://196.0.111.194:48009",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1466,
+    "latency_median_ms": 2259.5,
+    "uptime_24h": 64.3,
+    "uptime_7d": 72,
+    "checks_7d": 932,
+    "exit_ip": "196.0.111.194",
+    "exit_shared": 1,
+    "country": "ug",
+    "region": "Central Region",
+    "city": "Kampala",
+    "timezone": "Africa/Kampala",
+    "asn": 21491,
+    "asn_org": "Uganda Telecom",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:13.039Z",
+    "last_checked": "2026-10-31T20:38:01.564Z"
+  }
+]

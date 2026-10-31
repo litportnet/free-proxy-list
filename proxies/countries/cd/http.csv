@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.79.233.182,8080,http://41.79.233.182:8080,transparent,false,2986,4180,25.9,29,586,41.79.233.182,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37677,Societe Congolaise des Postes et Telecommunications (SCPT),13,2026-05-21T19:28:42.984Z,2026-10-31T20:39:41.274Z

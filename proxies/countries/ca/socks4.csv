@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,4063,6068,68.2,73.2,933,149.22.81.195,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,15,2026-09-12T09:12:25.731Z,2026-10-31T20:36:51.387Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,true,1225,2191.5,70.2,68.9,932,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,13,2025-09-04T23:49:01.331Z,2026-10-31T20:43:12.473Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,3376,921,42,52.1,758,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-10-31T20:39:04.501Z

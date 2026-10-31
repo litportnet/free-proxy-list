@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "152.231.81.18",
+    "port": 1080,
+    "url": "socks4://152.231.81.18:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8111,
+    "latency_median_ms": 2896,
+    "uptime_24h": 59.2,
+    "uptime_7d": 58.7,
+    "checks_7d": 230,
+    "exit_ip": "152.231.81.18",
+    "exit_shared": 1,
+    "country": "cl",
+    "region": "Valparaiso",
+    "city": "Viña del Mar",
+    "timezone": "America/Santiago",
+    "asn": 27651,
+    "asn_org": "ENTEL CHILE S.A.",
+    "sources_count": 11,
+    "first_seen": "2026-10-30T02:48:42.459Z",
+    "last_checked": "2026-10-31T20:44:07.560Z"
+  }
+]

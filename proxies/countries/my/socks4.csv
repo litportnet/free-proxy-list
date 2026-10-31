@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.1.105.10,4153,socks4://103.1.105.10:4153,elite,true,2186,2233.5,54.8,54.6,878,219.93.248.80,1,my,Perak,Bidur,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-05T20:06:27.398Z,2026-10-31T20:42:58.686Z

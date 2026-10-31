@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,193.200.85.129,1080,socks5://193.200.85.129:1080,elite,true,1896,949,45,33,669,193.200.85.129,1,ua,Kyiv City,Kyiv,Europe/Kyiv,206907,UAGROUP LLC,14,2026-10-11T12:54:00.184Z,2026-10-31T20:36:03.215Z

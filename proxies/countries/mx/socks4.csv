@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,170.81.141.254,61437,socks4://170.81.141.254:61437,elite,false,3293,1293.5,43.3,47.2,860,170.81.140.79,2,mx,Aguascalientes,Aguascalientes,America/Mexico_City,28418,NUEVA RED INTERNET DE MEXICO S DE RL DE CV,12,2025-09-04T23:49:08.371Z,2026-10-31T20:37:09.880Z
+socks4,170.81.140.79,61437,socks4://170.81.140.79:61437,elite,false,240,1260,38.8,44.1,810,170.81.140.79,2,mx,Aguascalientes,Aguascalientes,America/Mexico_City,28418,NUEVA RED INTERNET DE MEXICO S DE RL DE CV,13,2025-09-04T23:49:06.246Z,2026-10-31T20:35:47.405Z
+socks4,189.201.187.3,4145,socks4://189.201.187.3:4145,elite,true,1235,1251.5,19.1,15.5,284,189.201.187.162,1,mx,Aguascalientes,Aguascalientes,America/Mexico_City,32098,Transtelco Inc,13,2025-09-04T23:49:03.053Z,2026-10-31T20:35:16.563Z

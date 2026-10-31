@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,86.110.194.159,1080,socks4://86.110.194.159:1080,elite,true,4169,4348.5,41.9,37.4,131,171.25.193.78,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,4,2026-09-08T11:38:23.356Z,2026-10-31T20:36:19.457Z
