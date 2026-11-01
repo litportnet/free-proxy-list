@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,159.196.163.64,80,socks5://159.196.163.64:80,elite,true,1228,1195,51.2,39.4,470,220.158.199.184,1,au,New South Wales,Sydney,Australia/Sydney,137409,GSL Networks Pty LTD,9,2026-10-05T08:36:04.345Z,2026-10-31T04:29:15.022Z
+socks5,180.93.102.159,40007,socks5://180.93.102.159:40007,elite,false,3899,3457.5,16.7,25.6,219,106.71.207.215,1,au,Victoria,Melbourne,Australia/Melbourne,4804,Microplex PTY LTD,5,2026-10-21T16:02:12.151Z,2026-11-01T04:30:46.985Z

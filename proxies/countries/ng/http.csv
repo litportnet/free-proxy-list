@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,947,860.5,69.9,73.1,930,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-10-31T04:23:41.863Z
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,799,902.5,63.4,57.5,811,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-10-31T04:25:44.771Z
-http,45.222.101.111,8080,http://45.222.101.111:8080,transparent,false,2457,1954,36.6,24.2,364,102.221.238.237,1,ng,Lagos,Ikeja,Africa/Lagos,328722,Ciudad Infrastructure Limited,18,2026-07-18T16:34:52.683Z,2026-10-31T04:26:04.758Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,901,905.5,90.8,74.6,935,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-11-01T04:26:16.420Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,808,807.5,71.5,60,840,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-11-01T04:29:03.355Z
+http,129.222.204.27,10000,http://129.222.204.27:10000,transparent,true,7382,4164.5,28.7,20.9,350,129.222.204.27,1,ng,Lagos,Lagos,Africa/Lagos,14593,Space Exploration Technologies Corporation,26,2026-06-05T03:24:43.724Z,2026-11-01T04:21:31.774Z

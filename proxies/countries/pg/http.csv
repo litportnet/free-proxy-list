@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.110.31.155,8080,http://103.110.31.155:8080,transparent,false,1625,2963.5,53.6,37,552,103.110.31.155,1,pg,National Capital,Port Moresby,Pacific/Port_Moresby,136239,CLICK PACIFIC LTD,15,2026-08-09T12:14:16.453Z,2026-10-31T04:26:41.560Z
+http,202.165.201.74,3128,http://202.165.201.74:3128,transparent,false,6082,3849.5,27.7,25.9,205,202.165.201.74,1,pg,National Capital,Port Moresby,Pacific/Port_Moresby,17828,PNG DATACO LTD,19,2026-09-17T05:31:55.422Z,2026-11-01T04:30:33.543Z

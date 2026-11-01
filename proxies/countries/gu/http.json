@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "54.150.198.214",
+    "port": 10800,
+    "url": "http://54.150.198.214:10800",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8970,
+    "latency_median_ms": 4773.5,
+    "uptime_24h": 54.2,
+    "uptime_7d": null,
+    "checks_7d": 24,
+    "exit_ip": "103.112.0.120",
+    "exit_shared": 1,
+    "country": "gu",
+    "region": "Santa Rita",
+    "city": "Apra Harbor",
+    "timezone": "Pacific/Guam",
+    "asn": 140627,
+    "asn_org": "OneQode",
+    "sources_count": 6,
+    "first_seen": "2026-11-01T00:12:28.427Z",
+    "last_checked": "2026-11-01T04:26:01.874Z"
+  }
+]

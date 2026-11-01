@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,212.3.127.242,10801,socks5://212.3.127.242:10801,elite,false,864,1954.5,52.4,43.8,601,212.3.127.242,1,ua,Dnipropetrovsk,Dnipro,Europe/Kyiv,6702,Science Production Company Trifle Ltd.,18,2026-06-29T21:35:38.005Z,2026-10-31T04:29:24.149Z
+socks5,37.53.90.82,12542,socks5://37.53.90.82:12542,elite,false,1909,3930,11.4,9,145,37.53.90.82,1,ua,Sumy,Lebedyn,Europe/Kyiv,6849,JSC Ukrtelecom,16,2025-09-04T23:49:00.375Z,2026-11-01T04:25:27.720Z

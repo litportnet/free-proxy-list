@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "196.64.106.232",
+    "port": 2367,
+    "url": "http://196.64.106.232:2367",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 733,
+    "latency_median_ms": 783,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 20,
+    "exit_ip": "160.178.229.60",
+    "exit_shared": 1,
+    "country": "ma",
+    "region": "Rabat-Salé-Kénitra",
+    "city": "Temara",
+    "timezone": "Africa/Casablanca",
+    "asn": 36903,
+    "asn_org": "Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM",
+    "sources_count": 12,
+    "first_seen": "2026-11-01T01:13:10.017Z",
+    "last_checked": "2026-11-01T04:21:52.143Z"
+  }
+]

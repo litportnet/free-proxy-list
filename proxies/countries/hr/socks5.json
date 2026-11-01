@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 7341,
+    "url": "socks5://45.74.31.42:7341",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2377,
+    "latency_median_ms": 3001.5,
+    "uptime_24h": 5.9,
+    "uptime_7d": 19.2,
+    "checks_7d": 104,
+    "exit_ip": "178.23.184.123",
+    "exit_shared": 1,
+    "country": "hr",
+    "region": "Zagreb",
+    "city": "Zagreb",
+    "timezone": "Europe/Zagreb",
+    "asn": 61094,
+    "asn_org": "CRATIS Ltd.",
+    "sources_count": 14,
+    "first_seen": "2026-10-08T13:16:17.173Z",
+    "last_checked": "2026-11-01T04:27:25.380Z"
+  }
+]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,217.16.130.83,4145,socks4://217.16.130.83:4145,elite,true,690,707.5,40.6,42,817,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,16,2026-10-18T03:17:19.217Z,2026-11-01T04:24:40.372Z

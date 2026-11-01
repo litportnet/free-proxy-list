@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "79.175.107.227",
+    "port": 6666,
+    "url": "http://79.175.107.227:6666",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 6089,
+    "latency_median_ms": 4675.5,
+    "uptime_24h": 53.7,
+    "uptime_7d": 53.7,
+    "checks_7d": 227,
+    "exit_ip": "79.175.107.227",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Central Serbia",
+    "city": "Vračar",
+    "timezone": "Europe/Belgrade",
+    "asn": 9125,
+    "asn_org": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "sources_count": 14,
+    "first_seen": "2026-10-30T07:51:12.938Z",
+    "last_checked": "2026-11-01T04:28:25.552Z"
+  }
+]

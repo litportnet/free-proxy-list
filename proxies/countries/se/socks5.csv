@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2202,2819,95.1,96.5,989,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-10-31T04:25:58.821Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,7839,4857,94.3,96.3,986,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-01T04:21:34.491Z
+socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,9838,8548.5,65.1,55.7,824,185.213.154.239,2,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,13,2026-07-13T09:34:11.062Z,2026-11-01T04:21:23.714Z
+socks5,65.21.252.66,10811,socks5://65.21.252.66:10811,elite,false,9367,5382.5,45.2,35.5,518,94.154.124.84,1,se,Stockholm,Stockholm,Europe/Stockholm,209854,Cyberzone S.A.,20,2026-08-16T16:46:45.162Z,2026-11-01T04:27:49.502Z

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.244.158.4,3129,socks4://185.244.158.4:3129,elite,true,667,681.5,73.3,65.8,453,185.244.158.4,1,ua,Kyiv City,Kyiv,Europe/Kyiv,41985,Stargroup LLC,21,2026-07-05T01:42:53.908Z,2026-10-31T04:27:59.052Z
-socks4,185.132.1.221,4145,socks4://185.132.1.221:4145,elite,false,7859,1724,55.2,56.2,898,185.132.1.221,1,ua,Odesa,Odesa,Europe/Kyiv,203447,Miratel Ltd,22,2025-09-04T23:48:58.354Z,2026-10-31T04:31:33.507Z
-socks4,193.105.62.11,58973,socks4://193.105.62.11:58973,elite,true,692,681,57.9,52.6,802,193.105.62.11,1,ua,Zhytomyr Oblast,Baranivka,Europe/Kyiv,196906,PE Brunarsky Andrey Romanovich,21,2025-09-04T23:49:01.402Z,2026-10-31T04:31:10.475Z
-socks4,176.120.32.135,5678,socks4://176.120.32.135:5678,elite,true,728,705.5,51.5,45.4,811,176.120.32.135,1,ua,Chernivtsi,Chernivtsi,Europe/Kyiv,58309,Langate Ltd,1,2026-03-17T17:23:29.830Z,2026-10-31T04:27:26.175Z
+socks4,194.31.212.115,1080,socks4://194.31.212.115:1080,elite,true,1704,1715.5,51,61,846,194.31.212.115,1,ua,Kyiv Oblast,Irpin,Europe/Kyiv,209548,IrpenComunikaciaService LLC,13,2026-07-08T07:24:08.963Z,2026-11-01T04:30:45.889Z
+socks4,185.132.1.221,4145,socks4://185.132.1.221:4145,elite,true,3759,714.5,36.4,53,881,185.132.1.221,1,ua,Odesa,Odesa,Europe/Kyiv,203447,Miratel Ltd,22,2025-09-04T23:48:58.354Z,2026-11-01T04:28:56.320Z
+socks4,31.43.63.70,4145,socks4://31.43.63.70:4145,elite,true,739,748,50.4,48.9,840,31.43.63.70,1,ua,Kyiv Oblast,Kaharlyk,Europe/Kyiv,50581,Ukrainian Telecommunication Group LLC,12,2025-09-04T23:49:01.032Z,2026-11-01T04:30:10.348Z
+socks4,195.78.113.38,4153,socks4://195.78.113.38:4153,elite,true,690,710,40.8,47.9,794,195.78.113.38,1,ua,Kyiv City,Kyiv,Europe/Kyiv,49971,PrJSC Valex,14,2026-07-05T22:00:19.279Z,2026-11-01T04:22:49.518Z
