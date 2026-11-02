@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,8306,921,57.1,51.1,738,45.128.116.4,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,51177,TIPZOR MEDIA SRL,19,2026-07-31T19:22:14.557Z,2026-11-01T04:26:51.708Z
-socks5,54.198.140.56,13835,socks5://54.198.140.56:13835,unknown,false,2200,1917.5,30,,36,54.198.140.56,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,1,2026-10-01T17:57:28.948Z,2026-11-01T04:23:28.235Z

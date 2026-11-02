@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,576,576,100,99.8,1004,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-01T04:20:42.459Z
-http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,737,573,100,98.4,1003,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-11-01T04:30:15.711Z
-http,79.137.192.114,80,http://79.137.192.114:80,transparent,false,700,693.5,97.2,98,995,104.23.221.44,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",1,2026-09-21T12:07:00.964Z,2026-11-01T04:24:26.382Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,transparent,true,578,595,100,99.8,1004,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-02T04:24:54.702Z
+http,176.111.37.216,39811,http://176.111.37.216:39811,transparent,true,564,573.5,100,98.4,1003,176.111.37.216,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:52.506Z,2026-11-02T04:24:08.678Z
+http,194.14.207.87,80,http://194.14.207.87:80,elite,false,4878,5116,55.8,48.7,762,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-06-08T13:04:45.237Z,2026-11-02T04:25:33.883Z
+http,193.181.35.188,8118,http://193.181.35.188:8118,elite,false,637,642,33.3,,18,193.181.35.188,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,8,2026-10-19T05:31:05.595Z,2026-11-02T04:22:26.734Z
+http,18.175.170.244,8466,http://18.175.170.244:8466,unknown,false,876,1971.5,100,,1,18.175.170.244,1,se,Stockholm,Stockholm,Europe/Stockholm,8473,Bahnhof AB,9,2026-09-19T10:40:46.792Z,2026-11-02T04:28:00.183Z

@@ -5,12 +5,12 @@
     "port": 4153,
     "url": "socks4://5.95.121.180:4153",
     "anonymity": "elite",
-    "https": false,
+    "https": true,
     "latency_ms": 3721,
-    "latency_median_ms": 3687,
-    "uptime_24h": 55.8,
-    "uptime_7d": 57,
-    "checks_7d": 834,
+    "latency_median_ms": 3692.5,
+    "uptime_24h": 52.8,
+    "uptime_7d": 56.8,
+    "checks_7d": 836,
     "exit_ip": "5.95.121.180",
     "exit_shared": 1,
     "country": "it",
@@ -21,6 +21,6 @@
     "asn_org": "Fastweb SpA",
     "sources_count": 13,
     "first_seen": "2025-09-05T20:05:42.438Z",
-    "last_checked": "2026-11-01T04:26:48.505Z"
+    "last_checked": "2026-11-02T04:23:58.057Z"
   }
 ]

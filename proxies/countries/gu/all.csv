@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,54.150.198.214,10800,http://54.150.198.214:10800,elite,true,8970,4773.5,54.2,,24,103.112.0.120,1,gu,Santa Rita,Apra Harbor,Pacific/Guam,140627,OneQode,6,2026-11-01T00:12:28.427Z,2026-11-01T04:26:01.874Z

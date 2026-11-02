@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,103.100.158.115,10809,socks5://103.100.158.115:10809,elite,true,1348,1245,98.6,98,995,103.100.158.115,1,jp,Tokyo,Tokyo,Asia/Tokyo,51847,Nearoute Limited,15,2026-10-05T01:32:22.649Z,2026-11-01T04:24:04.318Z
-socks5,101.36.104.239,10808,socks5://101.36.104.239:10808,elite,true,956,913.5,97.9,97.1,998,101.36.104.239,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-21T08:09:48.039Z,2026-11-01T04:27:44.016Z
-socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,915,1397,89.9,93.1,990,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-11-01T04:25:15.376Z
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,1319,1210.5,90.7,92.1,986,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-11-02T04:27:42.698Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,180.93.102.159,40007,socks5://180.93.102.159:40007,elite,false,3899,3457.5,16.7,25.6,219,106.71.207.215,1,au,Victoria,Melbourne,Australia/Melbourne,4804,Microplex PTY LTD,5,2026-10-21T16:02:12.151Z,2026-11-01T04:30:46.985Z
+socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,2620,2425.5,64.4,76.6,838,103.141.60.253,1,au,New South Wales,Sydney,Australia/Sydney,203020,HostRoyale Technologies Pvt Ltd,18,2026-09-20T18:57:39.355Z,2026-11-02T04:28:47.164Z

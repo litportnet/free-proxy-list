@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "95.178.108.189",
+    "port": 5678,
+    "url": "socks4://95.178.108.189:5678",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1597,
+    "latency_median_ms": 574.5,
+    "uptime_24h": 43.3,
+    "uptime_7d": 41.1,
+    "checks_7d": 662,
+    "exit_ip": "95.178.108.189",
+    "exit_shared": 1,
+    "country": "fr",
+    "region": "Auvergne-Rhône-Alpes",
+    "city": "Tassin-la-Demi-Lune",
+    "timezone": "Europe/Paris",
+    "asn": 200780,
+    "asn_org": "Eurofiber France SAS",
+    "sources_count": 23,
+    "first_seen": "2025-09-04T23:02:38.074Z",
+    "last_checked": "2026-11-02T04:24:16.175Z"
+  }
+]

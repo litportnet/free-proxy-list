@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.90.25.129,1080,socks4://81.90.25.129:1080,elite,false,643,2139.5,40.9,37.8,669,81.90.25.129,1,de,Hesse,Frankfurt am Main,Europe/Berlin,198550,NODE HOST LIMITED,15,2026-09-30T18:44:59.671Z,2026-11-01T04:26:28.843Z
-socks4,178.83.46.167,1080,socks4://178.83.46.167:1080,elite,false,7925,5733,25,25.3,507,178.83.46.167,1,de,Hesse,Limburg an der Lahn,Europe/Berlin,16276,OVH SAS,14,2026-10-16T21:01:22.522Z,2026-11-01T04:25:32.128Z
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,1142,1147,95,97,994,185.220.101.50,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,13,2026-07-02T02:04:25.728Z,2026-11-02T04:31:10.131Z
+socks4,37.18.73.60,5566,socks4://37.18.73.60:5566,elite,false,932,884.5,95,71.9,953,89.58.26.216,1,de,Bavaria,Nuremberg,Europe/Berlin,197540,netcup GmbH,12,2025-09-10T19:33:55.836Z,2026-11-02T04:26:56.569Z
+socks4,193.158.12.140,4153,socks4://193.158.12.140:4153,elite,true,599,599.5,46.9,48.4,690,193.158.12.140,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2025-09-05T20:06:32.865Z,2026-11-02T04:32:22.839Z

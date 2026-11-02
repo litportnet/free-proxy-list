@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,976,1458.5,25,57.5,749,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-01T04:28:10.335Z
-socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,true,5401,4039.5,44.7,47,844,104.28.211.30,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-11-01T04:27:58.260Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,905,926.5,89,92.7,984,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-02T04:24:18.309Z
+socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,false,3953,1982,59.4,63.2,649,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,21,2025-09-04T23:48:54.923Z,2026-11-02T04:29:09.277Z
+socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,true,1102,2187.5,43,48.8,871,104.28.243.31,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-11-02T04:24:24.162Z
+socks4,223.72.47.245,6080,socks4://223.72.47.245:6080,elite,false,9267,3470,46.2,,26,151.245.106.241,1,kr,Seoul,Seoul,Asia/Seoul,63473,"HostHatch, LLC",10,2026-11-01T23:24:51.795Z,2026-11-02T04:26:37.717Z

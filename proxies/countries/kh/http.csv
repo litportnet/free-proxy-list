@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,49.156.44.115,8080,http://49.156.44.115:8080,transparent,true,4931,3891,84.3,72.6,419,49.156.44.115,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,24492,WiCAM Corporation Ltd.,17,2025-09-15T10:27:03.073Z,2026-11-01T04:23:05.630Z
-http,110.74.195.34,25,http://110.74.195.34:25,elite,true,2874,3060.5,57.4,35.9,682,110.74.195.34,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38901,"EZECOM CO., LTD.",20,2025-09-10T21:13:42.082Z,2026-11-01T04:24:12.916Z
+http,110.74.195.34,25,http://110.74.195.34:25,elite,true,2655,4013,54.2,40.1,753,110.74.195.34,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,38901,"EZECOM CO., LTD.",20,2025-09-10T21:13:42.082Z,2026-11-02T04:32:00.087Z
+http,103.216.48.124,8080,http://103.216.48.124:8080,transparent,false,6001,4072,23.9,24.8,556,103.216.48.124,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",16,2025-09-05T20:06:35.344Z,2026-11-02T04:27:12.762Z

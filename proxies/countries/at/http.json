@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "15.232.45.244",
+    "port": 52473,
+    "url": "http://15.232.45.244:52473",
+    "anonymity": "unknown",
+    "https": false,
+    "latency_ms": 2032,
+    "latency_median_ms": 2910.5,
+    "uptime_24h": 19.4,
+    "uptime_7d": 11.9,
+    "checks_7d": 201,
+    "exit_ip": "15.232.45.244",
+    "exit_shared": 2,
+    "country": "at",
+    "region": "Vienna",
+    "city": "Vienna",
+    "timezone": "Europe/Vienna",
+    "asn": 208323,
+    "asn_org": "Foundation for Applied Privacy",
+    "sources_count": 1,
+    "first_seen": "2026-10-27T09:14:11.714Z",
+    "last_checked": "2026-11-02T04:25:52.062Z"
+  }
+]

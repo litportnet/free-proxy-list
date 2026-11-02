@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,false,4037,2092.5,58.1,68.6,922,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-11-01T04:26:09.954Z
-socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,3625,2598,47.8,55,811,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-11-01T04:29:32.377Z
-socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,true,510,501.5,41.8,42.4,717,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,14,2025-09-04T23:49:13.193Z,2026-11-01T04:30:40.558Z
+socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,true,510,504.5,37.1,43.9,738,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,1,2026-03-17T17:23:30.243Z,2026-11-02T04:31:04.728Z

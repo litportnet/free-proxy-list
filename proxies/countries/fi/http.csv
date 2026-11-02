@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,537,821,97.9,97.6,993,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-01T04:22:41.436Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,558,584,95.1,88.1,981,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-11-01T04:28:50.387Z
-http,65.108.159.129,4145,http://65.108.159.129:4145,unknown,true,549,551.5,9.4,13.8,282,65.108.159.129,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,18,2025-09-06T06:34:28.497Z,2026-11-01T04:22:16.200Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,610,579.5,99.3,97.7,993,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-02T04:29:15.834Z

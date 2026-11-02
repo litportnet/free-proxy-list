@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.198,999,http://192.203.0.198:999,transparent,false,6714,4997.5,33,27.2,626,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-01T04:26:59.841Z
-http,192.203.0.118,999,http://192.203.0.118:999,transparent,false,9660,3621,29.1,25.3,525,192.203.0.118,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,26,2025-09-06T13:38:12.247Z,2026-11-01T04:27:21.015Z
-http,192.203.0.210,999,http://192.203.0.210:999,transparent,false,1700,1598,14.6,22.6,456,192.203.0.210,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,14,2025-09-06T10:21:42.213Z,2026-11-01T04:25:53.217Z
-http,67.206.213.202,3120,http://67.206.213.202:3120,transparent,false,2099,3552.5,28.2,17,401,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-11-01T04:24:14.013Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,false,1455,3484,58.9,53.7,635,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-11-02T04:32:28.247Z
+http,72.46.158.193,8087,http://72.46.158.193:8087,transparent,true,2859,3262,13,12.6,309,200.5.26.1,1,pr,Humacao,Humacao,America/Puerto_Rico,401436,Dimelo Network,15,2026-07-04T13:36:29.274Z,2026-11-02T04:30:47.399Z
+http,154.64.211.145,999,http://154.64.211.145:999,transparent,false,4714,4645.5,17.4,11.6,241,198.52.241.102,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,15,2025-09-05T20:06:35.987Z,2026-11-02T04:23:11.873Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.220.138.55,8080,http://41.220.138.55:8080,transparent,false,2576,3321.5,23.2,40.8,316,41.220.138.55,1,tz,Arusha,Arusha,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,10,2026-10-30T01:48:09.514Z,2026-11-02T04:24:35.456Z

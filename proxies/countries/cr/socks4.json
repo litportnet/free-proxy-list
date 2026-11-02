@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://200.192.236.242:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 444,
-    "latency_median_ms": 477,
-    "uptime_24h": 51.7,
-    "uptime_7d": 57.8,
-    "checks_7d": 883,
+    "https": true,
+    "latency_ms": 440,
+    "latency_median_ms": 464.5,
+    "uptime_24h": 49.2,
+    "uptime_7d": 57.1,
+    "checks_7d": 904,
     "exit_ip": "200.192.236.242",
     "exit_shared": 1,
     "country": "cr",
@@ -19,8 +19,8 @@
     "timezone": "America/Costa_Rica",
     "asn": 263248,
     "asn_org": "GCI SERVICE PROVIDER S.A.",
-    "sources_count": 1,
-    "first_seen": "2026-03-17T17:23:29.573Z",
-    "last_checked": "2026-11-01T04:28:21.128Z"
+    "sources_count": 14,
+    "first_seen": "2025-09-17T00:22:38.251Z",
+    "last_checked": "2026-11-02T04:30:09.940Z"
   }
 ]

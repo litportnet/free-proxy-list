@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,true,1959,2954,71.7,73.3,936,102.36.231.77,1,ng,Lagos,Lagos,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-11-01T04:28:26.616Z
+socks4,41.217.205.6,4153,socks4://41.217.205.6:4153,elite,false,2073,4026,40.4,42.2,793,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,17,2026-10-16T06:53:56.621Z,2026-11-02T04:27:21.322Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,37.53.90.82,12542,socks5://37.53.90.82:12542,elite,false,1909,3930,11.4,9,145,37.53.90.82,1,ua,Sumy,Lebedyn,Europe/Kyiv,6849,JSC Ukrtelecom,16,2025-09-04T23:49:00.375Z,2026-11-01T04:25:27.720Z
+socks5,195.114.7.6,1080,socks5://195.114.7.6:1080,elite,false,8266,4235,21.9,19.8,324,195.114.7.6,1,ua,Crimea,Simferopol,Europe/Simferopol,41161,Artem Zubkov,20,2026-04-07T02:43:59.656Z,2026-11-02T04:29:10.903Z

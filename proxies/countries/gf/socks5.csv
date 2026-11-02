@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,170.233.72.43,1080,socks5://170.233.72.43:1080,elite,false,637,2656.5,29.7,31.5,283,170.233.72.43,1,gf,Guyane,Cayenne,America/Cayenne,33392,Dauphin Telecom,14,2026-10-14T06:28:29.252Z,2026-11-02T04:30:28.908Z

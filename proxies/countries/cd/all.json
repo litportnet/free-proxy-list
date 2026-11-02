@@ -5,12 +5,12 @@
     "port": 8080,
     "url": "http://41.79.233.182:8080",
     "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 4210,
-    "latency_median_ms": 4029,
-    "uptime_24h": 30.5,
-    "uptime_7d": 29.2,
-    "checks_7d": 590,
+    "https": true,
+    "latency_ms": 4195,
+    "latency_median_ms": 4243,
+    "uptime_24h": 23.6,
+    "uptime_7d": 28.5,
+    "checks_7d": 586,
     "exit_ip": "41.79.233.182",
     "exit_shared": 1,
     "country": "cd",
@@ -19,8 +19,8 @@
     "timezone": "Africa/Kinshasa",
     "asn": 37677,
     "asn_org": "Societe Congolaise des Postes et Telecommunications (SCPT)",
-    "sources_count": 13,
+    "sources_count": 14,
     "first_seen": "2026-05-21T19:28:42.984Z",
-    "last_checked": "2026-11-01T04:25:01.456Z"
+    "last_checked": "2026-11-02T04:22:43.349Z"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks4",
-    "ip": "197.157.195.154",
+    "ip": "197.157.192.168",
     "port": 1080,
-    "url": "socks4://197.157.195.154:1080",
+    "url": "socks4://197.157.192.168:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1673,
-    "latency_median_ms": 2658,
-    "uptime_24h": 60.8,
-    "uptime_7d": 61.4,
-    "checks_7d": 795,
-    "exit_ip": "197.157.195.154",
+    "https": false,
+    "latency_ms": 2722,
+    "latency_median_ms": 2666,
+    "uptime_24h": 68,
+    "uptime_7d": 64.2,
+    "checks_7d": 759,
+    "exit_ip": "197.157.192.168",
     "exit_shared": 1,
     "country": "bi",
     "region": "Bujumbura Mairie",
@@ -19,8 +19,8 @@
     "timezone": "Africa/Bujumbura",
     "asn": 37429,
     "asn_org": "SPIDERNET SPRL BURUNDI",
-    "sources_count": 14,
-    "first_seen": "2026-08-08T13:03:28.732Z",
-    "last_checked": "2026-11-01T04:27:59.351Z"
+    "sources_count": 13,
+    "first_seen": "2026-08-15T04:28:13.653Z",
+    "last_checked": "2026-11-02T04:32:35.778Z"
   }
 ]
