@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,34.150.120.78,1080,socks4://34.150.120.78:1080,elite,true,1118,2251.5,89.9,95.3,339,34.150.120.78,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,396982,Google LLC,11,2026-10-30T18:57:21.512Z,2026-11-02T04:23:32.209Z
-socks4,156.225.31.18,7890,socks4://156.225.31.18:7890,elite,true,4365,4188.5,79.6,33.1,360,156.225.31.18,3,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,401701,cognetcloud INC,17,2026-09-25T23:44:28.082Z,2026-11-02T04:24:08.671Z
-socks4,154.221.24.92,1080,socks4://154.221.24.92:1080,elite,false,1994,2232.5,21.9,17.2,361,154.221.24.92,1,hk,Islands,Tung Chung,Asia/Hong_Kong,142403,YISU CLOUD LTD,14,2026-10-08T22:21:12.095Z,2026-11-02T04:28:22.498Z
-socks4,68.64.179.186,1080,socks4://68.64.179.186:1080,elite,false,4413,3814.5,20,16.8,327,68.64.179.186,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,139659,LUCIDACLOUD LIMITED,10,2025-12-11T17:41:35.329Z,2026-11-02T04:31:49.740Z
+socks4,149.104.24.86,40001,socks4://149.104.24.86:40001,elite,true,1266,1064,78,61,228,104.28.247.70,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,13335,"Cloudflare, Inc.",16,2026-09-26T21:55:59.372Z,2026-11-03T04:27:53.025Z

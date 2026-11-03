@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,489,483.5,98.6,95.5,995,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-02T04:31:17.153Z
-http,80.78.128.94,8080,http://80.78.128.94:8080,transparent,false,3196,3233.5,31.8,29.7,526,80.78.128.94,1,es,Valencia,Benidorm,Europe/Madrid,202913,"CLOUDWIFI, SL",17,2025-09-05T20:06:21.937Z,2026-11-02T04:29:34.653Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,480,490,98.6,95.8,997,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-03T04:34:23.732Z

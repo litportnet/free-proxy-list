@@ -1,11 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.129.8.242,81,http://188.129.8.242:81,elite,false,3635,4082,32.7,39.8,746,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-11-02T04:23:54.772Z
-socks5,45.74.31.41,4017,socks5://45.74.31.41:4017,elite,false,4650,4906.5,47,37.9,161,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,14,2026-09-29T09:27:23.632Z,2026-11-02T04:26:01.750Z
-socks5,45.74.31.42,5143,socks5://45.74.31.42:5143,elite,true,9093,4344,100,14.4,132,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,17,2026-09-08T16:41:24.313Z,2026-11-02T04:28:12.689Z
-socks5,45.74.31.46,4468,socks5://45.74.31.46:4468,elite,true,777,5763,14.3,,14,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,13,2026-10-02T04:56:15.859Z,2026-11-02T04:27:01.483Z
-socks5,45.74.31.40,8693,socks5://45.74.31.40:8693,elite,true,886,4083,100,,10,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,9,2026-10-10T04:36:57.105Z,2026-11-02T04:28:13.235Z
-socks5,45.74.31.46,4387,socks5://45.74.31.46:4387,elite,true,1519,1435,25,,24,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,13,2026-10-14T05:27:52.270Z,2026-11-02T04:26:16.765Z
-socks5,45.74.31.46,11102,socks5://45.74.31.46:11102,elite,true,1611,3441,100,,7,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,14,2026-10-04T12:25:23.951Z,2026-11-02T04:28:26.460Z
-socks5,45.74.31.40,8707,socks5://45.74.31.40:8707,elite,true,2560,3767.5,5.3,,37,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,13,2026-10-10T04:36:57.105Z,2026-11-02T04:23:28.466Z
-socks5,45.74.31.40,9192,socks5://45.74.31.40:9192,elite,true,3060,3573,5.3,,47,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,12,2026-10-14T05:27:52.270Z,2026-11-02T04:25:59.057Z
-socks5,45.74.31.46,10616,socks5://45.74.31.46:10616,elite,true,4552,2009,100,,1,178.23.184.123,9,hr,Zagreb,Zagreb,Europe/Zagreb,61094,CRATIS Ltd.,10,2026-10-17T15:10:51.903Z,2026-11-02T04:28:27.040Z
+http,188.129.8.242,81,http://188.129.8.242:81,elite,false,7429,4210,33,38.1,716,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-11-03T04:31:10.490Z

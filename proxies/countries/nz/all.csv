@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,1913,2750.5,51.9,48.7,723,45.133.7.9,1,nz,Auckland,Auckland,Pacific/Auckland,137409,GSL Networks Pty LTD,18,2026-09-16T03:18:05.440Z,2026-11-02T04:32:00.675Z

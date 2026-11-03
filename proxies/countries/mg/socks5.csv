@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.47,48087,socks5://45.74.31.47:48087,elite,true,2980,4380.5,24.6,25.8,128,154.120.133.86,3,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,10,2026-10-31T03:01:22.566Z,2026-11-02T04:24:58.510Z
-socks5,45.74.31.40,17276,socks5://45.74.31.40:17276,elite,true,4950,4950,100,,3,154.120.133.86,3,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,7,2026-11-01T01:13:03.212Z,2026-11-02T04:28:13.786Z
-socks5,45.74.31.42,15557,socks5://45.74.31.42:15557,elite,true,9494,4904,100,,1,154.120.133.86,3,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,13,2026-10-13T21:23:38.025Z,2026-11-02T04:28:13.242Z

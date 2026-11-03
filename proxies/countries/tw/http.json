@@ -6,11 +6,11 @@
     "url": "http://34.81.160.132:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1253,
-    "latency_median_ms": 862.5,
-    "uptime_24h": 78.8,
-    "uptime_7d": 71.8,
-    "checks_7d": 891,
+    "latency_ms": 5989,
+    "latency_median_ms": 4230.5,
+    "uptime_24h": 70.9,
+    "uptime_7d": 71.4,
+    "checks_7d": 887,
     "exit_ip": "34.81.160.132",
     "exit_shared": 1,
     "country": "tw",
@@ -21,6 +21,6 @@
     "asn_org": "Google LLC",
     "sources_count": 18,
     "first_seen": "2025-09-10T19:35:10.419Z",
-    "last_checked": "2026-11-02T04:25:46.698Z"
+    "last_checked": "2026-11-03T04:31:24.475Z"
   }
 ]

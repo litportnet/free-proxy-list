@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,102.36.127.231,1080,socks5://102.36.127.231:1080,elite,false,1517,2103,23.1,16.9,301,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,18,2025-09-05T20:06:32.510Z,2026-11-02T04:30:57.111Z
-socks5,45.74.31.41,4022,socks5://45.74.31.41:4022,elite,true,1346,1925.5,25,,29,102.130.121.150,1,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,17,2026-09-16T03:18:05.440Z,2026-11-02T04:22:29.414Z
+socks5,45.74.31.41,4186,socks5://45.74.31.41:4186,elite,false,5865,3227.5,30.2,19.9,191,41.185.8.144,1,za,Western Cape,Cape Town,Africa/Johannesburg,36943,1 GRID (PTY) LTD,13,2026-10-04T04:21:10.887Z,2026-11-03T04:33:03.631Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,18.200.106.125,3128,http://18.200.106.125:3128,transparent,true,899,899,100,,1,18.200.106.125,1,ie,Leinster,Dublin,Europe/Dublin,16509,"Amazon.com, Inc.",1,2026-11-02T04:27:29.252Z,2026-11-02T04:27:52.547Z

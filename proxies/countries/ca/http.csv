@@ -1,5 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3343,4930,62.6,53.1,746,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-02T04:25:05.510Z
-http,201.79.50.139,10000,http://201.79.50.139:10000,elite,false,950,866.5,48.7,51.5,815,201.79.50.139,1,ca,Ontario,Toronto,America/Toronto,14061,"DigitalOcean, LLC",15,2026-10-23T12:25:22.651Z,2026-11-02T04:29:21.203Z
-http,173.181.143.245,80,http://173.181.143.245:80,elite,false,9137,6410.5,28.6,40.2,781,173.181.143.245,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,15,2025-09-09T19:49:52.324Z,2026-11-02T04:30:15.390Z
-http,192.99.44.178,3128,http://192.99.44.178:3128,transparent,true,9811,9201,17.3,8.7,115,192.99.44.178,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,21,2025-10-08T08:20:04.898Z,2026-11-02T04:28:49.280Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,113,130.5,94.7,91.6,873,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-03T04:31:31.361Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,2037,2265,64.4,55.6,752,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-03T04:29:39.115Z
+http,173.181.143.245,80,http://173.181.143.245:80,elite,false,9899,6876.5,51.2,41.2,777,173.181.143.245,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,15,2025-09-09T19:49:52.324Z,2026-11-03T04:33:04.160Z
+http,173.181.142.228,80,http://173.181.142.228:80,elite,false,7880,3344.5,63.7,38,708,173.181.142.228,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-11-03T04:31:05.693Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,transparent,true,5397,3827,41,37.4,743,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-03T04:33:45.475Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,true,691,720.5,32.4,34.5,615,23.234.84.113,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",23,2026-09-12T17:16:29.342Z,2026-11-03T04:34:33.527Z
+http,81.90.158.110,3128,http://81.90.158.110:3128,elite,true,1192,1398.5,32.7,25,573,104.234.135.152,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,24,2026-08-17T10:57:40.545Z,2026-11-03T04:30:10.933Z

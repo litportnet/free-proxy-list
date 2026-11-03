@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,89.238.128.230,1080,socks4://89.238.128.230:1080,elite,false,3609,557,20.3,36.7,765,84.39.116.22,1,gb,England,Ringway,Europe/London,9009,M247 Europe SRL,13,2026-10-22T02:07:16.416Z,2026-11-02T04:25:56.326Z
-socks4,83.147.18.168,1080,socks4://83.147.18.168:1080,elite,false,3041,4815,21.2,30.5,436,83.147.18.168,1,gb,England,London,Europe/London,215311,Regxa Company for Information Technology Ltd,5,2026-08-09T00:08:37.973Z,2026-11-02T04:29:34.672Z
+socks4,149.248.213.249,9000,socks4://149.248.213.249:9000,elite,true,1151,1513.5,30.6,25.6,458,79.127.165.77,3,gb,England,London,Europe/London,60068,Datacamp Limited,17,2026-10-15T01:38:35.632Z,2026-11-03T04:27:07.146Z
+socks4,149.248.201.109,9000,socks4://149.248.201.109:9000,elite,false,551,1392.5,24.2,21.3,417,79.127.165.77,3,gb,England,London,Europe/London,60068,Datacamp Limited,16,2026-10-15T07:41:47.124Z,2026-11-03T04:29:05.656Z
+socks4,167.99.3.26,9090,socks4://167.99.3.26:9090,elite,false,715,330,25,9.3,108,109.121.43.88,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,8,2026-10-26T04:59:25.949Z,2026-11-03T04:34:34.616Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,false,3809,2802,39.4,46.7,167,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,10,2026-10-31T14:07:16.201Z,2026-11-02T04:30:18.114Z
-socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,false,773,1827.5,33,37.4,179,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,11,2026-10-31T14:07:16.201Z,2026-11-02T04:25:50.445Z
+socks5,91.218.234.54,11080,socks5://91.218.234.54:11080,elite,false,1815,2384,56.3,54.5,648,91.218.234.54,1,cz,Plzeň Region,Stříbro,Europe/Prague,51424,Jiri Sperl,14,2026-10-29T00:34:52.256Z,2026-11-03T04:29:07.830Z
+socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,2628,3150,50,43.7,558,185.156.174.178,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,19,2026-08-24T12:42:33.832Z,2026-11-03T04:30:38.843Z
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,true,2210,2103.5,48.7,42.7,564,187.14.124.203,1,cz,Prague,Prague,Europe/Prague,136787,PacketHub S.A.,18,2026-09-16T03:18:14.821Z,2026-11-03T04:27:16.822Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,43.242.241.47,8080,http://43.242.241.47:8080,transparent,false,3155,4939,31.4,21.8,463,43.242.241.47,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,23,2025-09-19T06:17:10.425Z,2026-11-03T04:24:24.759Z

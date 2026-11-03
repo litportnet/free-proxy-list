@@ -6,11 +6,11 @@
     "url": "http://178.212.144.7:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 302,
-    "latency_median_ms": 299.5,
+    "latency_ms": 273,
+    "latency_median_ms": 288,
     "uptime_24h": 100,
-    "uptime_7d": 89.2,
-    "checks_7d": 332,
+    "uptime_7d": 94,
+    "checks_7d": 468,
     "exit_ip": "178.212.144.7",
     "exit_shared": 1,
     "country": "pl",
@@ -21,6 +21,6 @@
     "asn_org": "IDEALAN Sp. z o.o.",
     "sources_count": 17,
     "first_seen": "2025-12-06T19:03:04.342Z",
-    "last_checked": "2026-11-02T04:23:49.889Z"
+    "last_checked": "2026-11-03T04:25:56.847Z"
   }
 ]

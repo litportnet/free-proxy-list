@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "102.132.17.30",
-    "port": 1080,
-    "url": "socks4://102.132.17.30:1080",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 4072,
-    "latency_median_ms": 3046.5,
-    "uptime_24h": 60.3,
-    "uptime_7d": 69.8,
-    "checks_7d": 802,
-    "exit_ip": "102.132.17.30",
-    "exit_shared": 1,
-    "country": "cm",
-    "region": "Littoral",
-    "city": "Douala",
-    "timezone": "Africa/Douala",
-    "asn": 327820,
-    "asn_org": "SWECOM PLC",
-    "sources_count": 14,
-    "first_seen": "2026-07-04T16:35:29.162Z",
-    "last_checked": "2026-11-02T04:26:09.266Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "41.216.232.213",
     "port": 4153,
     "url": "socks4://41.216.232.213:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 8269,
-    "latency_median_ms": 1719,
-    "uptime_24h": 53.3,
-    "uptime_7d": 45.7,
-    "checks_7d": 667,
+    "latency_ms": 1188,
+    "latency_median_ms": 2198.5,
+    "uptime_24h": 59.7,
+    "uptime_7d": 47.7,
+    "checks_7d": 702,
     "exit_ip": "217.14.84.154",
     "exit_shared": 1,
     "country": "cm",
@@ -45,6 +21,6 @@
     "asn_org": "INQ DIGITAL CAMEROON SA",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:59.324Z",
-    "last_checked": "2026-11-02T04:30:31.092Z"
+    "last_checked": "2026-11-03T04:25:37.583Z"
   }
 ]

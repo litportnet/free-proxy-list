@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.87.96.31,1080,socks5://194.87.96.31:1080,elite,false,4075,3030.5,55.7,53.7,469,104.28.253.246,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",14,2026-10-28T18:31:41.954Z,2026-11-02T04:23:44.540Z
-socks5,65.21.252.66,10806,socks5://65.21.252.66:10806,elite,false,7613,3647.5,40.4,37.6,526,86.104.249.112,1,ch,Zurich,Zürich,Europe/Zurich,25369,Hydra Communications Ltd,17,2026-09-18T22:34:19.200Z,2026-11-02T04:26:25.908Z
-socks5,195.201.246.53,1090,socks5://195.201.246.53:1090,elite,false,1094,927,21.2,25.2,103,82.206.73.211,1,ch,Aargau,Baden,Europe/Zurich,9009,M247 Europe SRL,10,2026-10-31T13:06:45.136Z,2026-11-02T04:26:37.186Z

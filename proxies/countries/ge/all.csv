@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,80.241.251.54,8080,http://80.241.251.54:8080,transparent,false,4730,3821,49.6,43.2,715,80.241.251.54,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2025-09-10T20:03:30.659Z,2026-11-02T04:31:12.291Z
-http,85.117.62.70,8080,http://85.117.62.70:8080,transparent,true,4880,4669.5,23.4,24.6,492,85.117.62.70,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,25,2025-11-28T16:18:53.886Z,2026-11-02T04:30:30.533Z
-http,92.51.122.174,8080,http://92.51.122.174:8080,transparent,true,3514,5076,13.5,9.1,154,92.51.122.174,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,44327,DELTA COMM LLC,23,2025-09-07T13:17:52.796Z,2026-11-02T04:28:23.651Z
+socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,true,814,831.5,44,45.5,712,85.117.32.166,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-11-03T04:31:27.659Z
+http,85.117.63.207,8080,http://85.117.63.207:8080,transparent,false,4329,4626,29.1,28.9,540,85.117.63.207,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,24,2025-09-06T05:36:01.084Z,2026-11-03T04:31:56.672Z
+http,85.117.62.70,8080,http://85.117.62.70:8080,transparent,true,2038,4078,30.9,27.1,550,85.117.62.70,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,25,2025-11-28T16:18:53.886Z,2026-11-03T04:31:02.486Z
+http,94.43.164.242,8080,http://94.43.164.242:8080,transparent,false,3822,4277.5,19.4,26.3,586,94.43.164.242,1,ge,Adjara,Batumi,Asia/Tbilisi,35805,JSC Silknet,25,2025-09-10T22:03:43.249Z,2026-11-03T04:34:29.725Z

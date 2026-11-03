@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,1.168.186.112,10808,socks5://1.168.186.112:10808,elite,true,1204,1803.5,37.5,32.5,265,1.168.186.112,2,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,10,2026-10-30T05:50:24.628Z,2026-11-02T04:22:23.460Z
+socks5,210.61.97.16,7071,socks5://210.61.97.16:7071,elite,false,965,1151,33.6,34.3,324,210.61.97.17,1,tw,Taiwan,Taoyuan,Asia/Taipei,3462,Data Communication Business Group,12,2026-10-31T05:02:26.990Z,2026-11-03T04:33:22.905Z

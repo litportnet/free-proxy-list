@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,110.93.227.229,1080,socks5://110.93.227.229:1080,elite,false,1340,1910,37.7,46.6,840,110.93.227.229,1,pk,Punjab,Lahore,Asia/Karachi,135407,Trans World Enterprise Services (Private) Limited,13,2026-10-23T01:19:28.816Z,2026-11-02T04:28:48.226Z
-socks5,110.39.13.162,1080,socks5://110.39.13.162:1080,elite,false,2406,2455,36.5,40.8,787,110.39.13.162,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,15,2026-10-09T06:25:20.908Z,2026-11-02T04:29:47.668Z
-socks5,203.99.54.238,1080,socks5://203.99.54.238:1080,elite,false,1808,2815.5,34.1,33.9,743,203.99.54.238,1,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,15,2026-09-27T13:04:02.524Z,2026-11-02T04:30:32.185Z
-socks5,113.203.237.210,1080,socks5://113.203.237.210:1080,elite,true,2149,3620.5,30,25.6,133,58.65.211.24,2,pk,Sindh,Karachi,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,15,2026-09-30T04:37:23.775Z,2026-11-02T04:26:29.674Z
+socks5,103.178.121.234,1080,socks5://103.178.121.234:1080,elite,false,4642,4097,32.6,42.1,774,103.178.121.234,1,pk,Punjab,Lahore,Asia/Karachi,136969,KK Networks (Pvt) Ltd.,14,2026-10-08T03:11:03.456Z,2026-11-03T04:29:21.287Z

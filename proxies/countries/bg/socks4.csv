@@ -1,8 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,9534,1779.5,83.1,76.7,849,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-02T04:28:09.407Z
-socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,783,791.5,67.4,71.1,924,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-11-02T04:29:48.759Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,737,740.5,67.7,62.9,776,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-11-02T04:25:42.418Z
-socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,true,8132,1826.5,58.8,54.7,762,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-02T04:27:12.241Z
-socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,846,1894.5,53.1,49.9,772,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-02T04:32:07.115Z
-socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,false,696,1720.5,48.7,46.3,736,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-11-02T04:25:13.479Z
-socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,false,801,804,48.8,40.9,621,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-11-02T04:26:05.530Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,1772,759.5,77,69.8,917,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-11-03T04:32:16.016Z
+socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,false,683,691.5,49.6,46.4,735,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-11-03T04:33:19.750Z
+socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,false,806,800,44.9,42.3,615,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-11-03T04:33:31.568Z
+socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,false,3911,1746,21.7,37.4,658,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,1,2026-03-17T17:23:29.950Z,2026-11-03T04:31:04.107Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,3679,6611.5,69,74.6,941,149.22.81.195,2,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,16,2026-09-11T22:06:41.545Z,2026-11-02T04:27:49.790Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,false,3293,7365.5,47.9,56,869,23.234.84.19,2,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-11-03T04:33:46.017Z

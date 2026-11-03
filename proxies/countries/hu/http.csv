@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.214.123.76,8080,http://95.214.123.76:8080,transparent,true,733,4624.5,30.4,32.1,259,95.214.123.76,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,12,2025-09-05T20:06:36.832Z,2026-11-02T04:24:06.577Z
+http,51.16.4.39,19443,http://51.16.4.39:19443,elite,false,8941,2555,67.4,63.6,538,45.9.168.69,1,hu,Budapest,Budapest,Europe/Budapest,211619,MAXKO d.o.o.,1,2026-09-01T03:21:39.039Z,2026-11-03T04:26:00.047Z
+http,92.249.162.233,8080,http://92.249.162.233:8080,transparent,true,4948,2937,52.5,49.3,489,92.249.162.233,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,16,2026-10-30T01:48:09.514Z,2026-11-03T04:32:18.760Z
+http,84.1.150.26,8080,http://84.1.150.26:8080,transparent,false,4140,4635.5,35.6,35.6,87,84.1.150.26,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,5483,Magyar Telekom Plc.,3,2025-09-15T03:25:08.953Z,2026-11-03T04:34:11.951Z

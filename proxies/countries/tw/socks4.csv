@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,true,4023,1976.5,46.6,55.7,774,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-11-02T04:29:36.831Z
-socks4,1.168.186.112,10808,socks4://1.168.186.112:10808,elite,true,938,1057.5,29.1,31.7,278,1.168.186.112,2,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,10,2026-10-29T21:46:18.171Z,2026-11-02T04:29:37.374Z

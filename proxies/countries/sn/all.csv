@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.65.39.8,80,http://154.65.39.8:80,elite,false,721,776.5,87,81,963,154.65.39.8,1,sn,Dakar,Dakar,Africa/Dakar,37649,SAGA AFRICA HOLDINGS LIMITED,20,2025-09-10T19:34:33.119Z,2026-11-02T04:30:40.912Z
-http,196.1.93.10,80,http://196.1.93.10:80,elite,false,2422,2054.5,89.1,77.8,775,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-11-02T04:26:21.063Z
-http,196.1.93.16,80,http://196.1.93.16:80,elite,false,4222,690.5,75.2,72.2,839,196.1.93.16,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,12,2025-09-10T21:05:10.863Z,2026-11-02T04:23:35.454Z
+http,196.1.97.198,80,http://196.1.97.198:80,elite,false,733,737,80.2,84.9,972,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,19,2025-12-06T18:03:11.613Z,2026-11-03T04:29:33.202Z
+http,154.65.39.8,80,http://154.65.39.8:80,elite,false,709,748.5,81.2,81.2,962,154.65.39.8,1,sn,Dakar,Dakar,Africa/Dakar,37649,SAGA AFRICA HOLDINGS LIMITED,20,2025-09-10T19:34:33.119Z,2026-11-03T04:34:41.036Z
+http,196.1.93.10,80,http://196.1.93.10:80,elite,false,808,807,83.5,78.9,911,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-11-03T04:27:15.210Z
+http,196.1.93.16,80,http://196.1.93.16:80,elite,false,699,736.5,72.6,71.7,841,196.1.93.16,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,12,2025-09-10T21:05:10.863Z,2026-11-03T04:33:05.767Z

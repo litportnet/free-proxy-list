@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "43.156.137.7",
+    "port": 10808,
+    "url": "socks4://43.156.137.7:10808",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5232,
+    "latency_median_ms": 3919,
+    "uptime_24h": 96.8,
+    "uptime_7d": 96.8,
+    "checks_7d": 95,
+    "exit_ip": "43.156.137.7",
+    "exit_shared": 2,
+    "country": "sg",
+    "region": "Singapore",
+    "city": "Singapore",
+    "timezone": "Asia/Singapore",
+    "asn": 132203,
+    "asn_org": "Tencent Building, Kejizhongyi Avenue",
+    "sources_count": 5,
+    "first_seen": "2026-05-14T00:49:25.849Z",
+    "last_checked": "2026-11-03T04:33:49.280Z"
+  }
+]

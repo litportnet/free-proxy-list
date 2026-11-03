@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://93.93.61.153:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1066,
-    "latency_median_ms": 1799.5,
-    "uptime_24h": 61.1,
-    "uptime_7d": 57.5,
-    "checks_7d": 905,
+    "https": true,
+    "latency_ms": 1554,
+    "latency_median_ms": 2329,
+    "uptime_24h": 50.8,
+    "uptime_7d": 58.4,
+    "checks_7d": 898,
     "exit_ip": "93.93.61.153",
     "exit_shared": 1,
     "country": "lt",
@@ -21,6 +21,6 @@
     "asn_org": "Ogmios centras AS number",
     "sources_count": 21,
     "first_seen": "2026-07-05T07:46:21.191Z",
-    "last_checked": "2026-11-02T04:26:17.310Z"
+    "last_checked": "2026-11-03T04:34:53.960Z"
   }
 ]

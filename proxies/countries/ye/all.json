@@ -5,12 +5,12 @@
     "port": 8085,
     "url": "http://209.198.150.223:8085",
     "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 5792,
-    "latency_median_ms": 3681.5,
-    "uptime_24h": 35.9,
-    "uptime_7d": 40.4,
-    "checks_7d": 802,
+    "https": true,
+    "latency_ms": 6661,
+    "latency_median_ms": 3707,
+    "uptime_24h": 34.1,
+    "uptime_7d": 41.5,
+    "checks_7d": 808,
     "exit_ip": "209.198.150.223",
     "exit_shared": 1,
     "country": "ye",
@@ -21,6 +21,6 @@
     "asn_org": "Space Exploration Technologies Corporation",
     "sources_count": 18,
     "first_seen": "2026-10-02T16:02:05.410Z",
-    "last_checked": "2026-11-02T04:32:14.733Z"
+    "last_checked": "2026-11-03T04:32:50.681Z"
   }
 ]

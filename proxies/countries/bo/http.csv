@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,190.181.59.147,999,http://190.181.59.147:999,transparent,false,9649,4063,34.3,36.7,357,190.181.59.147,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,26210,AXS Bolivia S. A.,13,2026-07-31T06:15:27.005Z,2026-11-03T04:32:09.061Z
+http,186.121.244.178,8080,http://186.121.244.178:8080,transparent,false,2741,2409,44,35.5,584,186.121.244.178,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,25,2026-09-19T02:36:24.799Z,2026-11-03T04:33:16.501Z
+http,200.58.180.75,999,http://200.58.180.75:999,transparent,false,3203,4815.5,33.3,22.4,321,200.58.180.78,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,25620,COTAS LTDA.,18,2026-10-19T10:33:51.677Z,2026-11-03T04:31:32.453Z

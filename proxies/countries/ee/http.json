@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "193.42.112.26",
+    "port": 8080,
+    "url": "http://193.42.112.26:8080",
+    "anonymity": "transparent",
+    "https": false,
+    "latency_ms": 8294,
+    "latency_median_ms": 6448.5,
+    "uptime_24h": 16.3,
+    "uptime_7d": 22.4,
+    "checks_7d": 406,
+    "exit_ip": "193.42.112.26",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Kuusalu",
+    "timezone": "Europe/Tallinn",
+    "asn": 199144,
+    "asn_org": "HexCore cloud s.r.o.",
+    "sources_count": 25,
+    "first_seen": "2026-09-02T17:42:35.785Z",
+    "last_checked": "2026-11-03T04:26:07.093Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "139.59.98.137",
+    "port": 1080,
+    "url": "socks5://139.59.98.137:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1678,
+    "latency_median_ms": 1623,
+    "uptime_24h": 42.3,
+    "uptime_7d": 20.6,
+    "checks_7d": 107,
+    "exit_ip": "115.84.121.218",
+    "exit_shared": 1,
+    "country": "la",
+    "region": "Vientiane Prefecture",
+    "city": "Vientiane",
+    "timezone": "Asia/Vientiane",
+    "asn": 9873,
+    "asn_org": "Lao Telecom Communication, LTC",
+    "sources_count": 16,
+    "first_seen": "2026-09-16T01:17:01.478Z",
+    "last_checked": "2026-11-03T04:30:42.626Z"
+  }
+]
