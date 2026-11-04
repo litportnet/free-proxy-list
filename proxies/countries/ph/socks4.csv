@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,119.93.82.236,1080,socks4://119.93.82.236:1080,elite,true,4340,2303,70.9,73.5,939,119.93.82.236,1,ph,Calabarzon,San Pascual,Asia/Manila,9299,Philippine Long Distance Telephone Company,16,2026-10-04T05:21:46.477Z,2026-11-03T04:28:24.223Z
+socks4,202.57.46.138,4145,socks4://202.57.46.138:4145,elite,true,981,1127,62.6,62,925,202.57.46.138,1,ph,National Capital Region,Pasig City,Asia/Manila,9927,Philippine Global Communications Corporation,17,2026-09-25T02:33:11.625Z,2026-11-04T04:28:06.266Z

@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,5989,4230.5,70.9,71.4,887,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-03T04:31:24.475Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,8045,7997.5,87.4,81.8,935,164.52.11.194,1,tw,Taipei,Banqiao,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-04T04:28:05.725Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,877,876,73.7,72.1,893,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-04T04:26:48.390Z
+http,220.128.223.136,8084,http://220.128.223.136:8084,anonymous,false,784,1466,22.6,21,167,220.128.223.136,3,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,18,2026-08-11T22:44:49.676Z,2026-11-04T04:28:31.429Z
+http,220.128.223.136,8082,http://220.128.223.136:8082,anonymous,false,747,972,25.6,18.7,198,220.128.223.136,3,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,12,2025-09-21T03:42:48.190Z,2026-11-04T04:23:22.462Z
+http,220.128.223.136,8081,http://220.128.223.136:8081,anonymous,false,758,1319,21.1,10.3,175,220.128.223.136,3,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,13,2025-11-15T03:58:21.768Z,2026-11-04T04:22:45.733Z

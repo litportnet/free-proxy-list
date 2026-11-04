@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.104.24.86,40001,socks4://149.104.24.86:40001,elite,true,1266,1064,78,61,228,104.28.247.70,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,13335,"Cloudflare, Inc.",16,2026-09-26T21:55:59.372Z,2026-11-03T04:27:53.025Z
+socks4,165.154.20.187,10808,socks4://165.154.20.187:10808,elite,true,4941,4351,67.2,70.6,925,165.154.20.187,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-08-10T03:23:28.713Z,2026-11-04T04:25:43.353Z
+socks4,101.36.112.205,1081,socks4://101.36.112.205:1081,elite,false,2098,1964,65.8,62.3,881,101.36.112.205,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,21,2026-09-16T00:16:41.363Z,2026-11-04T04:22:42.540Z
+socks4,156.225.31.18,7890,socks4://156.225.31.18:7890,elite,true,3923,4826.5,65.5,45.2,414,156.225.31.18,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,401701,cognetcloud INC,17,2026-09-25T23:44:28.082Z,2026-11-04T04:22:24.940Z
+socks4,70.39.201.229,1081,socks4://70.39.201.229:1081,elite,true,1507,2983,88.9,,27,70.39.201.229,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,979,NetLab Global,9,2026-11-03T23:50:25.109Z,2026-11-04T04:26:24.064Z

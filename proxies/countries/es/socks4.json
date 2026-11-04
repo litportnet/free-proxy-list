@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://83.56.15.57:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 7870,
-    "latency_median_ms": 731,
-    "uptime_24h": 77.4,
-    "uptime_7d": 70.1,
-    "checks_7d": 933,
+    "https": true,
+    "latency_ms": 7827,
+    "latency_median_ms": 1228.5,
+    "uptime_24h": 75.4,
+    "uptime_7d": 69,
+    "checks_7d": 928,
     "exit_ip": "83.56.15.57",
     "exit_shared": 1,
     "country": "es",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Madrid",
     "asn": 3352,
     "asn_org": "TELEFONICA DE ESPANA S.A.U.",
-    "sources_count": 23,
-    "first_seen": "2025-09-04T23:48:54.216Z",
-    "last_checked": "2026-11-03T04:29:33.187Z"
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:30.560Z",
+    "last_checked": "2026-11-04T04:26:44.032Z"
   }
 ]

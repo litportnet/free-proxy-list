@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,true,7489,1217.5,53.8,48.2,658,87.120.102.89,1,al,Tirana,Tirana,Europe/Tirane,198890,Albanian Fiber Telecommunications SHPK,18,2026-09-18T09:46:47.006Z,2026-11-03T04:24:41.897Z

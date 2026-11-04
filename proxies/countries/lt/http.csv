@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,46.166.167.60,8080,http://46.166.167.60:8080,transparent,true,4498,3437,42.6,31,491,46.166.167.60,1,lt,Siauliai,Šiauliai,Europe/Vilnius,16125,"UAB ""Cherry Servers""",18,2026-10-28T08:26:23.349Z,2026-11-04T04:29:04.574Z

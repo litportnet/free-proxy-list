@@ -6,11 +6,11 @@
     "url": "socks4://67.206.213.202:55555",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 437,
-    "latency_median_ms": 497,
-    "uptime_24h": 58.8,
-    "uptime_7d": 55.2,
-    "checks_7d": 636,
+    "latency_ms": 522,
+    "latency_median_ms": 510.5,
+    "uptime_24h": 53.1,
+    "uptime_7d": 53.6,
+    "checks_7d": 638,
     "exit_ip": "67.206.213.202",
     "exit_shared": 1,
     "country": "pr",
@@ -21,6 +21,6 @@
     "asn_org": "Liberty Mobile Puerto Rico Inc.",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:14.427Z",
-    "last_checked": "2026-11-03T04:30:47.434Z"
+    "last_checked": "2026-11-04T04:23:38.469Z"
   }
 ]

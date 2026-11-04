@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,5579,4355,33.3,46.7,628,195.191.219.69,1,gb,England,London,Europe/London,3170,VeloxServ Communications Ltd,18,2026-09-16T15:24:29.706Z,2026-11-03T04:30:38.846Z
-socks5,45.74.31.46,6137,socks5://45.74.31.46:6137,elite,false,5455,4355.5,27,27,463,138.68.158.60,2,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",11,2026-10-19T15:36:23.271Z,2026-11-03T04:24:41.908Z
-socks5,45.74.31.47,8396,socks5://45.74.31.47:8396,elite,false,9851,4025.5,23.8,26.1,69,138.68.158.60,2,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",9,2026-10-10T04:36:57.105Z,2026-11-03T04:24:45.087Z
-socks5,149.248.213.249,9000,socks5://149.248.213.249:9000,elite,true,1241,1257,36,24.3,486,79.127.165.77,3,gb,England,London,Europe/London,60068,Datacamp Limited,17,2026-10-15T01:38:33.420Z,2026-11-03T04:26:32.780Z
-socks5,167.99.3.26,9052,socks5://167.99.3.26:9052,elite,false,522,515.5,10.7,6.5,93,109.121.43.208,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,10,2026-10-13T17:21:49.076Z,2026-11-03T04:34:28.095Z
+socks5,193.218.118.128,1080,socks5://193.218.118.128:1080,elite,true,1993,1226,96.5,97.3,989,82.25.184.203,1,gb,England,London,Europe/London,42689,Glide Student & Residential Limited,11,2026-10-22T04:08:14.303Z,2026-11-04T04:23:28.819Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,4186,socks5://45.74.31.41:4186,elite,false,5865,3227.5,30.2,19.9,191,41.185.8.144,1,za,Western Cape,Cape Town,Africa/Johannesburg,36943,1 GRID (PTY) LTD,13,2026-10-04T04:21:10.887Z,2026-11-03T04:33:03.631Z
+socks5,45.74.31.47,11418,socks5://45.74.31.47:11418,elite,true,5232,4722,28.6,10.2,88,102.130.121.150,1,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,13,2026-10-13T02:13:32.577Z,2026-11-04T04:26:37.548Z

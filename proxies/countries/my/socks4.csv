@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.1.105.10,4153,socks4://103.1.105.10:4153,elite,false,2210,2235.5,55.8,52.4,869,219.93.248.80,1,my,Perak,Bidur,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-05T20:06:27.398Z,2026-11-03T04:33:01.462Z
-socks4,175.139.200.17,4153,socks4://175.139.200.17:4153,elite,false,2163,2160,48.4,42.2,737,175.139.201.193,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:06.505Z,2026-11-03T04:31:18.016Z
+socks4,175.139.200.17,4153,socks4://175.139.200.17:4153,elite,false,2163,4133,56.8,43.3,742,175.139.200.17,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:06.505Z,2026-11-04T04:22:25.489Z
+socks4,103.58.16.106,4145,socks4://103.58.16.106:4145,elite,false,2242,2222.5,32.4,38.1,538,103.58.16.106,1,my,Selangor,Petaling Jaya,Asia/Kuala_Lumpur,134202,E-WORLD COMMUNICATION SDN BHD,1,2026-03-17T17:23:29.916Z,2026-11-04T04:28:42.612Z

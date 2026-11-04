@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,801,810.5,32.7,47.5,671,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-11-03T04:28:46.794Z
-socks4,93.184.7.26,1080,socks4://93.184.7.26:1080,elite,false,1812,1884.5,15.2,24.9,345,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,15,2025-09-04T23:48:57.645Z,2026-11-03T04:26:04.918Z
+http,82.213.29.53,19000,http://82.213.29.53:19000,transparent,false,6596,3335.5,52,40.7,774,213.6.68.29,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,14,2026-09-08T19:42:55.825Z,2026-11-04T04:21:42.710Z
+http,82.213.29.53,18000,http://82.213.29.53:18000,transparent,false,806,1021,20.9,23.8,407,213.6.68.29,2,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2026-09-07T01:20:42.605Z,2026-11-04T04:24:10.062Z
+http,178.214.80.27,1981,http://178.214.80.27:1981,transparent,true,6931,5528.5,15.4,10.5,172,178.214.80.12,1,ps,West Bank,Kafr Rā‘ī,Asia/Hebron,51336,Gemzo information technology Private Joint-Stock company,14,2025-09-10T21:05:09.966Z,2026-11-04T04:23:48.639Z

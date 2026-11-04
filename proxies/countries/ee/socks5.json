@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "95.85.249.247",
+    "port": 1080,
+    "url": "socks5://95.85.249.247:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1026,
+    "latency_median_ms": 3366.5,
+    "uptime_24h": 34.9,
+    "uptime_7d": 23.8,
+    "checks_7d": 484,
+    "exit_ip": "95.85.249.247",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "asn": 209693,
+    "asn_org": "OC NETWORKS LIMITED",
+    "sources_count": 14,
+    "first_seen": "2026-10-28T01:22:39.762Z",
+    "last_checked": "2026-11-04T04:29:36.752Z"
+  }
+]

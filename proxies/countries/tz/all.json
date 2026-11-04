@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "41.78.170.178",
+    "port": 8040,
+    "url": "http://41.78.170.178:8040",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 8441,
+    "latency_median_ms": 3257,
+    "uptime_24h": 36.9,
+    "uptime_7d": 33.2,
+    "checks_7d": 635,
+    "exit_ip": "41.78.170.178",
+    "exit_shared": 1,
+    "country": "tz",
+    "region": "Kilimanjaro",
+    "city": "Moshi",
+    "timezone": "Africa/Dar_es_Salaam",
+    "asn": 36909,
+    "asn_org": "Habari Node Public Limited",
+    "sources_count": 21,
+    "first_seen": "2026-09-02T14:40:55.994Z",
+    "last_checked": "2026-11-04T04:28:41.506Z"
+  }
+]

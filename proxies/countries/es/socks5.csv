@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,2267,1295,67,70.7,791,193.19.207.219,1,es,Madrid,Madrid,Europe/Madrid,203020,HostRoyale Technologies Pvt Ltd,17,2026-09-21T21:11:29.587Z,2026-11-03T04:30:22.737Z

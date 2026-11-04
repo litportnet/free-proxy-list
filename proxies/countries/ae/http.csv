@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,931,909.5,100,99.8,1005,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-11-03T04:33:26.737Z
-http,151.253.146.146,8080,http://151.253.146.146:8080,transparent,false,2435,3556,46.9,35.9,697,151.253.146.146,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,20,2026-10-12T05:02:22.190Z,2026-11-03T04:34:42.123Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,868,867.5,100,99.8,1004,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-07T07:15:56.592Z,2026-11-04T04:29:43.231Z
+http,151.253.146.146,8080,http://151.253.146.146:8080,transparent,false,8611,2811.5,48.8,37.6,729,151.253.146.146,1,ae,Dubai,Dubai,Asia/Dubai,5384,Emirates Internet,20,2026-10-12T05:02:22.190Z,2026-11-04T04:30:25.236Z
+http,94.200.195.220,8080,http://94.200.195.220:8080,transparent,false,3963,3634.5,28,24.9,366,94.200.195.220,1,ae,Dubai,Dubai,Asia/Dubai,15802,Emirates Integrated Telecommunications Company PJSC,15,2026-03-10T22:57:16.205Z,2026-11-04T04:23:29.951Z

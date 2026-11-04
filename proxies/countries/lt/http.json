@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "46.166.167.60",
+    "port": 8080,
+    "url": "http://46.166.167.60:8080",
+    "anonymity": "transparent",
+    "https": true,
+    "latency_ms": 4498,
+    "latency_median_ms": 3437,
+    "uptime_24h": 42.6,
+    "uptime_7d": 31,
+    "checks_7d": 491,
+    "exit_ip": "46.166.167.60",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Siauliai",
+    "city": "Šiauliai",
+    "timezone": "Europe/Vilnius",
+    "asn": 16125,
+    "asn_org": "UAB \"Cherry Servers\"",
+    "sources_count": 18,
+    "first_seen": "2026-10-28T08:26:23.349Z",
+    "last_checked": "2026-11-04T04:29:04.574Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.61.129.165",
+    "port": 9050,
+    "url": "socks5://45.61.129.165:9050",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2638,
+    "latency_median_ms": 1228.5,
+    "uptime_24h": 97.2,
+    "uptime_7d": 96.9,
+    "checks_7d": 994,
+    "exit_ip": "151.242.242.39",
+    "exit_shared": 1,
+    "country": "cl",
+    "region": "Santiago Metropolitan",
+    "city": "Santiago",
+    "timezone": "America/Santiago",
+    "asn": 270013,
+    "asn_org": "J AND J SPA (INFOFRACTAL)",
+    "sources_count": 21,
+    "first_seen": "2026-07-02T02:04:25.816Z",
+    "last_checked": "2026-11-04T04:28:49.630Z"
+  }
+]

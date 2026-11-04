@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "46.21.186.252",
+    "port": 1080,
+    "url": "socks4://46.21.186.252:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 607,
+    "latency_median_ms": 636.5,
+    "uptime_24h": 30,
+    "uptime_7d": 36.4,
+    "checks_7d": 580,
+    "exit_ip": "46.21.186.252",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Lombardy",
+    "city": "Milan",
+    "timezone": "Europe/Rome",
+    "asn": 47217,
+    "asn_org": "Planetel SPA",
+    "sources_count": 13,
+    "first_seen": "2025-09-05T20:06:32.117Z",
+    "last_checked": "2026-11-04T04:30:11.901Z"
+  }
+]

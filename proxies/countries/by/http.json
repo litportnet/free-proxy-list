@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "178.124.67.27",
+    "ip": "178.124.68.191",
     "port": 8080,
-    "url": "http://178.124.67.27:8080",
+    "url": "http://178.124.68.191:8080",
     "anonymity": "transparent",
-    "https": false,
-    "latency_ms": 4503,
-    "latency_median_ms": 4362.5,
-    "uptime_24h": 60.8,
-    "uptime_7d": 60.8,
-    "checks_7d": 97,
-    "exit_ip": "178.124.67.27",
+    "https": true,
+    "latency_ms": 5071,
+    "latency_median_ms": 3277.5,
+    "uptime_24h": 54.2,
+    "uptime_7d": 54.2,
+    "checks_7d": 83,
+    "exit_ip": "178.124.68.191",
     "exit_shared": 1,
     "country": "by",
     "region": "Homyel’ Voblasc’",
@@ -19,9 +19,9 @@
     "timezone": "Europe/Minsk",
     "asn": 6697,
     "asn_org": "Republican Unitary Telecommunication Enterprise Beltelecom",
-    "sources_count": 13,
-    "first_seen": "2026-11-02T10:30:39.326Z",
-    "last_checked": "2026-11-03T04:31:00.307Z"
+    "sources_count": 14,
+    "first_seen": "2026-11-03T12:44:30.290Z",
+    "last_checked": "2026-11-04T04:25:43.898Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://93.125.3.22:8080",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 4056,
-    "latency_median_ms": 4204,
-    "uptime_24h": 14.1,
-    "uptime_7d": 18.2,
-    "checks_7d": 390,
+    "latency_ms": 7632,
+    "latency_median_ms": 5525,
+    "uptime_24h": 15.6,
+    "uptime_7d": 18.5,
+    "checks_7d": 356,
     "exit_ip": "93.125.3.22",
     "exit_shared": 1,
     "country": "by",
@@ -45,6 +45,6 @@
     "asn_org": "Unitary enterprise A1",
     "sources_count": 16,
     "first_seen": "2025-09-05T20:06:33.865Z",
-    "last_checked": "2026-11-03T04:28:45.719Z"
+    "last_checked": "2026-11-04T04:27:58.217Z"
   }
 ]

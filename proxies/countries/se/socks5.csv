@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,6564,2785,90.7,94,980,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-03T04:34:02.235Z
-socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,false,8758,4580.5,62.6,50.4,811,185.213.154.239,2,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,14,2026-07-13T09:34:11.062Z,2026-11-03T04:24:24.761Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,4261,3780,95.7,94,979,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-04T04:24:59.939Z
+socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,1683,1715.5,50,40.4,560,91.226.58.5,1,se,Stockholm,Stockholm,Europe/Stockholm,9009,M247 Europe SRL,19,2026-09-16T03:18:05.440Z,2026-11-04T04:24:18.142Z
+socks5,79.76.52.220,1080,socks5://79.76.52.220:1080,elite,false,1252,2982,36.1,28.8,560,79.76.52.220,2,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,17,2026-07-12T14:21:31.857Z,2026-11-04T04:27:15.309Z

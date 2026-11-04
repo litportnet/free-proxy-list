@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks5://183.106.215.208:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1077,
-    "latency_median_ms": 1160.5,
-    "uptime_24h": 91.6,
-    "uptime_7d": 90.4,
-    "checks_7d": 982,
+    "https": true,
+    "latency_ms": 2915,
+    "latency_median_ms": 1165,
+    "uptime_24h": 90.7,
+    "uptime_7d": 89.1,
+    "checks_7d": 978,
     "exit_ip": "59.24.42.101",
     "exit_shared": 2,
     "country": "kr",
@@ -21,7 +21,7 @@
     "asn_org": "Korea Telecom",
     "sources_count": 15,
     "first_seen": "2026-10-05T02:32:54.806Z",
-    "last_checked": "2026-11-03T04:32:32.902Z"
+    "last_checked": "2026-11-04T04:27:05.054Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://121.169.46.116:1090",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3757,
-    "latency_median_ms": 1126.5,
-    "uptime_24h": 73,
-    "uptime_7d": 72.3,
-    "checks_7d": 948,
+    "latency_ms": 2896,
+    "latency_median_ms": 2951.5,
+    "uptime_24h": 84.7,
+    "uptime_7d": 73.4,
+    "checks_7d": 950,
     "exit_ip": "121.169.46.116",
     "exit_shared": 1,
     "country": "kr",
@@ -45,7 +45,7 @@
     "asn_org": "Korea Telecom",
     "sources_count": 22,
     "first_seen": "2025-09-04T23:50:06.749Z",
-    "last_checked": "2026-11-03T04:32:05.868Z"
+    "last_checked": "2026-11-04T04:23:59.308Z"
   },
   {
     "protocol": "socks5",
@@ -54,11 +54,11 @@
     "url": "socks5://152.70.237.238:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1964,
-    "latency_median_ms": 4753,
-    "uptime_24h": 47.5,
-    "uptime_7d": 49.7,
-    "checks_7d": 870,
+    "latency_ms": 1141,
+    "latency_median_ms": 3872.5,
+    "uptime_24h": 42.7,
+    "uptime_7d": 48.3,
+    "checks_7d": 859,
     "exit_ip": "104.28.243.32",
     "exit_shared": 2,
     "country": "kr",
@@ -69,6 +69,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 20,
     "first_seen": "2026-03-18T13:34:09.638Z",
-    "last_checked": "2026-11-03T04:25:02.710Z"
+    "last_checked": "2026-11-04T04:21:59.327Z"
   }
 ]

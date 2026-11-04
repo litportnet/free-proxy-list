@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "92.205.186.129",
+    "port": 1080,
+    "url": "socks4://92.205.186.129:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4371,
+    "latency_median_ms": 7007,
+    "uptime_24h": 28.6,
+    "uptime_7d": 22.8,
+    "checks_7d": 281,
+    "exit_ip": "92.205.186.129",
+    "exit_shared": 1,
+    "country": "fr",
+    "region": "Grand Est",
+    "city": "Strasbourg",
+    "timezone": "Europe/Paris",
+    "asn": 21499,
+    "asn_org": "Host Europe GmbH",
+    "sources_count": 11,
+    "first_seen": "2026-06-13T08:09:02.541Z",
+    "last_checked": "2026-11-04T04:29:21.757Z"
+  }
+]

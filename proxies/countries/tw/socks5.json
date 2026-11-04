@@ -6,11 +6,11 @@
     "url": "socks5://210.61.97.16:7071",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 965,
-    "latency_median_ms": 1151,
-    "uptime_24h": 33.6,
-    "uptime_7d": 34.3,
-    "checks_7d": 324,
+    "latency_ms": 1010,
+    "latency_median_ms": 1052,
+    "uptime_24h": 35.7,
+    "uptime_7d": 34.4,
+    "checks_7d": 421,
     "exit_ip": "210.61.97.17",
     "exit_shared": 1,
     "country": "tw",
@@ -21,6 +21,6 @@
     "asn_org": "Data Communication Business Group",
     "sources_count": 12,
     "first_seen": "2026-10-31T05:02:26.990Z",
-    "last_checked": "2026-11-03T04:33:22.905Z"
+    "last_checked": "2026-11-04T04:22:58.036Z"
   }
 ]

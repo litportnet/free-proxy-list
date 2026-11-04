@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,139.59.98.137,1080,socks5://139.59.98.137:1080,elite,false,1678,1623,42.3,20.6,107,115.84.121.218,1,la,Vientiane Prefecture,Vientiane,Asia/Vientiane,9873,"Lao Telecom Communication, LTC",16,2026-09-16T01:17:01.478Z,2026-11-03T04:30:42.626Z

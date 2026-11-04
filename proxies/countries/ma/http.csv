@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,105.159.55.163,2022,http://105.159.55.163:2022,transparent,true,685,717.5,82.4,,17,105.159.59.238,1,ma,Rabat-Salé-Kénitra,Ain El Aouda,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,9,2026-11-03T01:38:42.329Z,2026-11-03T04:32:55.525Z
