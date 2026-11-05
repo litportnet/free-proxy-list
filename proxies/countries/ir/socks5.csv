@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,94.183.150.152,1080,socks5://94.183.150.152:1080,elite,true,2261,2034.5,72,72,100,94.183.150.152,1,ir,Tehran,Tehran,Asia/Tehran,214957,"Nahor Hadish Design and Architecture Co., Ltd",9,2026-11-03T10:43:25.250Z,2026-11-04T04:30:07.041Z
-socks5,46.38.138.184,1080,socks5://46.38.138.184:1080,elite,false,3089,2986,28.2,20.9,363,46.38.138.184,1,ir,Tehran,Tehran,Asia/Tehran,204104,Giti Secure Cloud LLC,13,2026-10-26T11:02:50.228Z,2026-11-04T04:26:19.778Z
-socks5,87.107.68.231,1081,socks5://87.107.68.231:1081,elite,false,9061,3532,8.3,20.8,428,87.107.68.231,1,ir,Tehran,Tehran,Asia/Tehran,21341,Soroush Rasanheh Company Ltd,21,2026-07-14T16:43:30.275Z,2026-11-04T04:21:57.717Z
+socks5,94.183.150.152,1080,socks5://94.183.150.152:1080,elite,true,1758,1456,70.9,71.3,202,94.183.150.152,1,ir,Tehran,Tehran,Asia/Tehran,214957,"Nahor Hadish Design and Architecture Co., Ltd",9,2026-11-03T10:43:25.250Z,2026-11-05T04:29:46.425Z

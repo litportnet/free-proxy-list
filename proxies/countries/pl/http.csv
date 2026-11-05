@@ -1,6 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,78.17.173.220,8081,http://78.17.173.220:8081,elite,true,813,678,96.9,96.9,64,78.17.173.220,1,pl,Pomerania,Gdańsk,Europe/Warsaw,213459,Snowd Security OU,14,2026-11-03T17:47:08.810Z,2026-11-04T04:24:04.710Z
-http,178.212.144.7,80,http://178.212.144.7:80,transparent,false,305,298.5,100,95.6,612,178.212.144.7,1,pl,Podlasie,Sokółka,Europe/Warsaw,51436,IDEALAN Sp. z o.o.,17,2025-12-06T19:03:04.342Z,2026-11-04T04:30:07.592Z
-http,185.32.4.210,8070,http://185.32.4.210:8070,transparent,true,6151,3684.5,22.1,23.3,408,212.127.88.213,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,26,2026-09-09T21:28:51.484Z,2026-11-04T04:26:53.251Z
-http,78.9.232.205,8080,http://78.9.232.205:8080,transparent,true,7318,6634,28.6,21.4,252,78.9.232.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,12741,Netia SA,24,2025-09-05T20:06:37.908Z,2026-11-04T04:29:01.947Z
-http,51.38.129.42,3169,http://51.38.129.42:3169,elite,false,5109,7696,29.4,10.7,140,51.38.129.42,1,pl,Mazovia,Warsaw,Europe/Warsaw,16276,OVH SAS,24,2026-09-05T06:58:31.776Z,2026-11-04T04:30:40.242Z
+http,212.127.95.235,8081,http://212.127.95.235:8081,elite,false,548,535,95.7,84.9,53,212.127.95.235,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,9,2025-09-10T19:34:32.015Z,2026-11-05T04:32:56.281Z
+http,148.253.212.68,8080,http://148.253.212.68:8080,elite,true,8563,3963,51.2,44.9,778,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,17,2026-10-28T20:32:45.482Z,2026-11-05T04:24:51.718Z
+http,80.51.61.1,8080,http://80.51.61.1:8080,anonymous,false,6879,3312,31.3,19.2,271,195.117.211.22,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,21,2026-06-03T04:56:56.768Z,2026-11-05T04:31:47.929Z
+http,51.38.129.42,3169,http://51.38.129.42:3169,elite,false,6855,7728.5,25.9,17.2,145,51.38.129.42,1,pl,Mazovia,Warsaw,Europe/Warsaw,16276,OVH SAS,25,2026-09-05T06:58:31.776Z,2026-11-05T04:31:51.121Z
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,514,532,93.1,,35,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-05T04:31:32.621Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,526,541.5,95.1,,47,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-05T04:32:30.310Z

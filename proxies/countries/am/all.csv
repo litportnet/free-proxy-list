@@ -1,8 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,4005,1991,66.9,59.7,452,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-04T04:23:56.080Z
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,862,1430,64.3,59,592,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-11-04T04:21:52.354Z
-http,170.168.102.55,3128,http://170.168.102.55:3128,transparent,true,7958,4843,49,34.6,240,170.168.102.55,1,am,Yerevan,Yerevan,Asia/Yerevan,48207,GLB Bulut Teknolojisi Limited Sirketi,23,2026-07-10T04:49:32.711Z,2026-11-04T04:26:27.279Z
-http,85.90.207.232,3128,http://85.90.207.232:3128,elite,false,2358,2732,38.5,24.6,175,85.90.207.232,1,am,Yerevan,Yerevan,Asia/Yerevan,202422,G-Core Labs S.A.,19,2026-10-07T17:05:42.777Z,2026-11-04T04:29:08.361Z
-socks4,185.215.54.66,3629,socks4://185.215.54.66:3629,elite,false,1852,2853,16.7,20.5,171,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,8,2025-09-04T23:49:07.365Z,2026-11-04T04:26:19.768Z
-socks4,185.215.53.205,3629,socks4://185.215.53.205:3629,elite,false,864,2854.5,19.4,20.3,439,185.215.53.146,2,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,11,2025-09-04T23:02:33.013Z,2026-11-04T04:26:53.226Z
-http,91.204.190.140,81,http://91.204.190.140:81,transparent,false,3883,4045,19.6,15.6,320,91.204.190.140,1,am,Yerevan,Yerevan,Asia/Yerevan,42991,BioNet LLC,24,2025-09-06T15:38:29.945Z,2026-11-04T04:22:35.561Z
+socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,1969,1934,73.1,63.1,548,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-05T04:24:37.649Z
+http,45.133.107.10,81,http://45.133.107.10:81,anonymous,false,9294,4601,23.1,23.9,310,45.133.107.250,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,15,2025-09-07T19:04:03.345Z,2026-11-05T04:33:31.445Z
+socks4,37.186.66.36,3629,socks4://37.186.66.36:3629,elite,true,1854,1146,60,,11,37.186.66.36,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,13,2025-09-04T23:49:02.751Z,2026-11-05T04:31:20.992Z

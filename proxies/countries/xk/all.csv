@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.187.113.68,8080,http://91.187.113.68:8080,transparent,false,4341,2523.5,30,29.8,655,91.187.113.68,1,xk,Pristina,Pristina,Europe/Belgrade,21246,IPKO Telecommunications LLC,25,2025-09-05T20:06:33.854Z,2026-11-04T04:22:47.933Z
-http,84.22.48.28,8080,http://84.22.48.28:8080,transparent,true,4477,2826.5,25.5,20.1,414,84.22.48.28,1,xk,Pristina,Kosovo Polje,Europe/Belgrade,33983,ARTMOTION SH.P.K.,21,2025-09-04T23:49:01.988Z,2026-11-04T04:29:42.695Z
+http,84.22.48.28,8080,http://84.22.48.28:8080,anonymous,false,3691,6749.5,20.4,21,410,84.22.48.28,1,xk,Pristina,Kosovo Polje,Europe/Belgrade,33983,ARTMOTION SH.P.K.,21,2025-09-04T23:49:01.988Z,2026-11-05T04:25:39.207Z

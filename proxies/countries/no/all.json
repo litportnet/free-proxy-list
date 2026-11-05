@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10814,
+    "url": "socks5://49.13.22.249:10814",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3123,
+    "latency_median_ms": 1957,
+    "uptime_24h": 55.7,
+    "uptime_7d": 43.1,
+    "checks_7d": 566,
+    "exit_ip": "91.219.215.167",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Oslo",
+    "city": "Oslo",
+    "timezone": "Europe/Oslo",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 20,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-11-05T04:23:41.514Z"
+  }
+]

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.40,4635,socks5://45.74.31.40:4635,elite,false,4345,5612,27.5,23.1,229,197.221.227.141,2,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,14,2026-10-03T07:10:02.508Z,2026-11-04T04:24:13.888Z
-socks5,45.74.31.41,7526,socks5://45.74.31.41:7526,elite,true,8884,2120,77.8,,46,197.221.227.141,2,zw,Harare,Harare,Africa/Harare,37204,Telone PVT Ltd,9,2026-10-20T19:51:14.445Z,2026-11-04T04:24:29.913Z

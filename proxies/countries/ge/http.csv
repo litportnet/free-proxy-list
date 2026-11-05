@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.134.100.66,80,http://178.134.100.66:80,transparent,false,1088,2945,47.1,46.8,186,178.134.100.66,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,35805,"JSC ""Silknet""",15,2026-11-02T14:32:47.923Z,2026-11-04T04:28:46.890Z
-http,85.117.56.85,8080,http://85.117.56.85:8080,transparent,false,3788,4588.5,27.8,24.1,328,85.117.56.85,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,17,2026-04-17T21:09:46.427Z,2026-11-04T04:23:47.030Z
-http,85.117.56.117,8080,http://85.117.56.117:8080,transparent,false,1867,2437.5,18.3,12.6,263,85.117.56.115,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,15,2025-09-07T14:19:59.156Z,2026-11-04T04:24:35.303Z
+http,178.134.100.66,80,http://178.134.100.66:80,anonymous,false,2725,2941.5,50,47.8,272,178.134.100.66,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,35805,"JSC ""Silknet""",18,2026-11-02T14:32:47.923Z,2026-11-05T04:28:26.726Z
+http,80.241.251.54,8080,http://80.241.251.54:8080,anonymous,false,7047,4627.5,54.2,43.8,689,80.241.251.54,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,16010,Magticom Ltd.,20,2025-09-10T20:03:30.659Z,2026-11-05T04:23:12.212Z
+http,85.117.56.85,8080,http://85.117.56.85:8080,anonymous,false,4427,4192,39.7,28,379,85.117.56.38,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,17,2026-04-17T21:09:46.427Z,2026-11-05T04:28:39.317Z

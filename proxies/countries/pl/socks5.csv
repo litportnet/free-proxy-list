@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,false,3219,3183,43.5,42.9,597,188.212.135.227,1,pl,Mazovia,Warsaw,Europe/Warsaw,206092,F.N.S. HOLDINGS LIMITED,17,2026-09-17T17:38:15.449Z,2026-11-04T04:24:18.170Z
-socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,true,802,820.5,35.5,41.2,772,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,15,2026-10-05T12:38:11.693Z,2026-11-04T04:23:11.303Z
+socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,false,3804,1799,43,38,721,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,15,2026-10-05T12:38:11.693Z,2026-11-05T04:32:20.209Z

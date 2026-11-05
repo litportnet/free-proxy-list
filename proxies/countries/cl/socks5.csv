@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,2638,1228.5,97.2,96.9,994,151.242.242.39,1,cl,Santiago Metropolitan,Santiago,America/Santiago,270013,J AND J SPA (INFOFRACTAL),21,2026-07-02T02:04:25.816Z,2026-11-04T04:28:49.630Z

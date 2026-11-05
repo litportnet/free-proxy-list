@@ -1,7 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,transparent,false,643,642,96.5,99.1,1003,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-11-04T04:23:25.118Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,631,636.5,95.7,83.9,954,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-04T04:26:57.595Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,681,2037,80,71.7,935,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-04T04:22:16.422Z
-http,140.227.61.201,3128,http://140.227.61.201:3128,transparent,false,3620,1654.5,43.6,36.2,744,140.227.61.201,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-11-04T04:25:25.629Z
-http,133.232.89.179,80,http://133.232.89.179:80,elite,false,903,5346.5,20.9,21.8,206,133.232.89.179,1,jp,Tokyo,Tokyo,Asia/Tokyo,2514,"NTT PC Communications, Inc.",9,2025-09-08T18:26:29.202Z,2026-11-04T04:30:34.833Z
-http,221.141.140.132,8118,http://221.141.140.132:8118,elite,false,1260,1700.5,23.5,13,146,187.15.134.241,1,jp,Tokyo,Tokyo,Asia/Tokyo,137409,GSL Networks Pty LTD,24,2026-08-08T09:59:31.594Z,2026-11-04T04:22:22.283Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,605,612.5,100,98.8,1003,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-05T04:32:01.678Z
+http,133.232.89.179,80,http://133.232.89.179:80,elite,false,8882,7342.5,15.2,16.3,160,133.232.89.179,1,jp,Tokyo,Tokyo,Asia/Tokyo,2514,"NTT PC Communications, Inc.",9,2025-09-08T18:26:29.202Z,2026-11-05T04:29:29.024Z
+http,47.79.33.142,3128,http://47.79.33.142:3128,anonymous,false,4192,1982,18,11.7,137,47.79.33.142,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",21,2026-07-24T16:54:24.008Z,2026-11-05T04:24:00.928Z

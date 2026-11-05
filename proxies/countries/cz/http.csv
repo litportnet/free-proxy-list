@@ -1,6 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,7040,6819.5,75,71.2,569,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-04T04:25:20.812Z
-http,88.146.222.250,8000,http://88.146.222.250:8000,transparent,false,3248,3874.5,36.4,26.6,467,81.19.4.118,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,20,2026-10-07T08:00:56.884Z,2026-11-04T04:24:04.700Z
-http,77.240.102.149,800,http://77.240.102.149:800,transparent,true,8814,2096.5,32.7,22.8,579,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-04T04:21:34.688Z
-http,217.75.208.181,8080,http://217.75.208.181:8080,transparent,true,8125,3287,25.6,18.5,238,217.75.208.178,1,cz,Hradec Králové Region,Nové Město,Europe/Prague,210712,ISP Alliance a.s.,24,2026-09-03T21:41:17.247Z,2026-11-04T04:27:13.663Z
-http,185.73.103.23,3128,http://185.73.103.23:3128,transparent,true,7869,5005,20.5,16.5,272,185.73.103.23,1,cz,Carlsbad Region,Karlovy Vary,Europe/Prague,201476,ISP Alliance a.s.,16,2025-09-05T20:06:29.948Z,2026-11-04T04:22:07.838Z
+http,85.207.89.34,8080,http://85.207.89.34:8080,elite,true,9819,3216.5,58.1,55.2,281,85.207.89.34,1,cz,Prague,Stodůlky,Europe/Prague,25248,RADIOKOMUNIKACE a.s.,17,2026-11-02T15:33:22.240Z,2026-11-05T04:27:30.386Z

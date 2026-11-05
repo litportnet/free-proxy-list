@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,43.106.60.21,1080,socks5://43.106.60.21:1080,elite,false,1931,1669.5,43.6,33.9,614,156.254.117.187,1,ph,National Capital Region,Quezon City,Asia/Manila,401783,TOKALA COMMUNICATIONS INC.,19,2026-05-13T04:35:06.541Z,2026-11-05T04:24:20.398Z

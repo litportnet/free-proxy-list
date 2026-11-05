@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,95.85.249.247,1080,socks5://95.85.249.247:1080,elite,false,1026,3366.5,34.9,23.8,484,95.85.249.247,1,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,14,2026-10-28T01:22:39.762Z,2026-11-04T04:29:36.752Z
+socks5,95.85.249.247,1080,socks5://95.85.249.247:1080,elite,false,2909,2369,38.4,25.7,471,95.85.249.247,1,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,14,2026-10-28T01:22:39.762Z,2026-11-05T04:24:55.480Z

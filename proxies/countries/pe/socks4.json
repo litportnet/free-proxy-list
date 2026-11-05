@@ -6,11 +6,11 @@
     "url": "socks4://190.12.95.170:37209",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4659,
-    "latency_median_ms": 1200.5,
-    "uptime_24h": 35.4,
-    "uptime_7d": 55.9,
-    "checks_7d": 775,
+    "latency_ms": 3615,
+    "latency_median_ms": 2246,
+    "uptime_24h": 71.2,
+    "uptime_7d": 55.2,
+    "checks_7d": 743,
     "exit_ip": "190.12.95.170",
     "exit_shared": 1,
     "country": "pe",
@@ -21,6 +21,6 @@
     "asn_org": "ON EMPRESAS S.A.C.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:14.401Z",
-    "last_checked": "2026-11-04T04:20:42.582Z"
+    "last_checked": "2026-11-05T04:28:49.354Z"
   }
 ]

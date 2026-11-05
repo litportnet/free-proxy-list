@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,504,550,97.2,97.1,991,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-04T04:21:44.883Z
-http,45.9.72.212,2080,http://45.9.72.212:2080,elite,true,1151,1150,92.1,92.1,63,45.9.72.212,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,13,2026-11-03T17:47:08.810Z,2026-11-04T04:28:18.510Z
-http,66.151.34.89,80,http://66.151.34.89:80,elite,false,545,576,95.8,88.6,991,66.151.34.89,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,19,2026-09-05T06:58:13.976Z,2026-11-04T04:25:04.715Z
-http,65.108.159.129,8080,http://65.108.159.129:8080,unknown,false,1575,665,19.6,16.4,519,65.108.159.129,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,17,2025-10-15T14:38:47.521Z,2026-11-04T04:23:14.521Z
-http,91.186.218.52,3128,http://91.186.218.52:3128,elite,false,712,1169,12.5,5.2,96,91.186.218.52,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,21,2026-09-04T07:44:59.784Z,2026-11-04T04:27:05.066Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,648,767,97.1,97.1,987,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-05T04:24:43.051Z
+http,45.130.127.14,3128,http://45.130.127.14:3128,transparent,true,6223,4507.5,47.2,29.4,589,45.130.127.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,18,2026-10-12T16:08:15.580Z,2026-11-05T04:31:38.461Z
+http,144.31.66.195,8888,http://144.31.66.195:8888,transparent,false,8660,4889,31.7,21.9,210,144.31.66.195,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213877,U1 DIGITAL SERVICES LTD,17,2026-11-01T05:15:08.202Z,2026-11-05T04:26:39.861Z
+http,138.124.26.172,8118,http://138.124.26.172:8118,anonymous,true,2694,2666,27.3,19.2,235,138.124.26.172,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,8,2026-05-24T23:10:51.141Z,2026-11-05T04:24:52.778Z

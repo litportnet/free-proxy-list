@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,true,852,1890.5,28.9,40.2,774,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,22,2025-09-04T23:48:55.053Z,2026-11-04T04:29:28.179Z
+socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,true,915,1947.5,41,40.4,716,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,22,2025-09-04T23:48:55.053Z,2026-11-05T04:33:55.231Z

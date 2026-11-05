@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.124.68.191,8080,http://178.124.68.191:8080,transparent,true,5071,3277.5,54.2,54.2,83,178.124.68.191,1,by,Homyel’ Voblasc’,Homyel',Europe/Minsk,6697,Republican Unitary Telecommunication Enterprise Beltelecom,14,2026-11-03T12:44:30.290Z,2026-11-04T04:25:43.898Z
-http,93.125.3.22,8080,http://93.125.3.22:8080,transparent,false,7632,5525,15.6,18.5,356,93.125.3.22,1,by,Minsk City,Minsk,Europe/Minsk,42772,Unitary enterprise A1,16,2025-09-05T20:06:33.865Z,2026-11-04T04:27:58.217Z
+http,93.125.3.22,8080,http://93.125.3.22:8080,anonymous,true,3983,3541.5,30,21.7,374,93.125.3.22,1,by,Minsk City,Minsk,Europe/Minsk,42772,Unitary enterprise A1,16,2025-09-05T20:06:33.865Z,2026-11-05T04:31:12.011Z
