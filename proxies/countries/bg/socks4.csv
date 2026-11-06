@@ -1,9 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,4201,1276.5,73.3,69.9,896,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,1,2026-03-17T17:23:30.579Z,2026-11-05T04:33:50.437Z
-socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,770,753.5,85.8,69.2,738,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-05T04:23:44.204Z
-socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,true,1178,1400.5,82.6,66.1,608,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-05T04:27:20.805Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,8015,1758,79.5,55.7,699,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-11-05T04:30:51.896Z
-socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,false,812,1272,62,49.3,586,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-05T04:28:13.534Z
-socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,true,785,801.5,57.1,40.3,533,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-11-05T04:32:22.884Z
-socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,false,717,712,41.3,39.2,655,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,1,2026-03-17T17:23:29.595Z,2026-11-05T04:33:45.151Z
-socks4,91.92.80.199,4145,socks4://91.92.80.199:4145,elite,true,1708,745,39.3,34.1,229,91.92.80.199,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,14,2025-09-04T23:49:05.509Z,2026-11-05T04:24:10.119Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,1725,955,86.7,71.8,721,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-06T04:23:28.142Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,true,868,914,46.8,44.1,517,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-06T04:31:06.796Z
+socks4,91.92.78.207,4145,socks4://91.92.78.207:4145,elite,false,7852,1716.5,42.7,25.3,522,91.92.78.207,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,13,2025-09-04T23:49:05.473Z,2026-11-06T04:21:14.764Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.125.3.22,8080,http://93.125.3.22:8080,anonymous,true,3983,3541.5,30,21.7,374,93.125.3.22,1,by,Minsk City,Minsk,Europe/Minsk,42772,Unitary enterprise A1,16,2025-09-05T20:06:33.865Z,2026-11-05T04:31:12.011Z

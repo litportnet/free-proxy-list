@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,7361,8439.5,32.8,51.1,806,23.234.85.144,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-11-05T04:27:48.156Z
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,365,1383.5,55.1,48.3,731,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-05T04:25:27.163Z
-socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,268,247.5,41.2,47.9,656,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-11-05T04:29:34.870Z
+socks4,148.113.175.17,1090,socks4://148.113.175.17:1090,elite,true,142,165.5,96.6,92.6,270,148.113.175.17,2,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,13,2026-10-12T19:09:49.877Z,2026-11-06T04:31:25.716Z
+socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,true,3262,2279.5,75.2,73.2,878,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,14,2025-09-04T23:49:01.331Z,2026-11-06T04:28:23.410Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,3443,2378.5,64.9,49.6,770,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-06T04:28:11.300Z
+socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,false,7333,5290.5,29.1,20.1,419,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-11-06T04:21:45.234Z

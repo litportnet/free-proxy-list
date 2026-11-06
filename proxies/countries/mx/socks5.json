@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "201.165.172.3",
+    "port": 1080,
+    "url": "socks5://201.165.172.3:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 555,
+    "latency_median_ms": 650.5,
+    "uptime_24h": 20.4,
+    "uptime_7d": 19.1,
+    "checks_7d": 252,
+    "exit_ip": "201.165.172.2",
+    "exit_shared": 1,
+    "country": "mx",
+    "region": "Chiapas",
+    "city": "Venustiano Carranza",
+    "timezone": "America/Mexico_City",
+    "asn": 13999,
+    "asn_org": "Mega Cable, S.A. de C.V.",
+    "sources_count": 18,
+    "first_seen": "2026-05-06T05:00:53.413Z",
+    "last_checked": "2026-11-06T04:23:08.003Z"
+  }
+]

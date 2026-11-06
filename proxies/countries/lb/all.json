@@ -6,11 +6,11 @@
     "url": "http://185.82.98.18:8080",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 669,
-    "latency_median_ms": 2760,
-    "uptime_24h": 37.8,
-    "uptime_7d": 30.5,
-    "checks_7d": 269,
+    "latency_ms": 653,
+    "latency_median_ms": 4577,
+    "uptime_24h": 36.5,
+    "uptime_7d": 31.7,
+    "checks_7d": 331,
     "exit_ip": "185.82.99.62",
     "exit_shared": 1,
     "country": "lb",
@@ -21,6 +21,6 @@
     "asn_org": "NET 360 S.A.R.L",
     "sources_count": 17,
     "first_seen": "2026-10-28T01:22:42.686Z",
-    "last_checked": "2026-11-05T04:25:33.171Z"
+    "last_checked": "2026-11-06T04:29:27.174Z"
   }
 ]

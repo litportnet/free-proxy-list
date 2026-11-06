@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "202.21.101.37",
+    "port": 8088,
+    "url": "http://202.21.101.37:8088",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2552,
+    "latency_median_ms": 4497.5,
+    "uptime_24h": 48,
+    "uptime_7d": 35.6,
+    "checks_7d": 578,
+    "exit_ip": "202.21.101.37",
+    "exit_shared": 1,
+    "country": "mn",
+    "region": "Ulaanbaatar",
+    "city": "Ulan Bator",
+    "timezone": "Asia/Ulaanbaatar",
+    "asn": 9484,
+    "asn_org": "Mobinet LLC. AS Mobinet Internet Service Provider",
+    "sources_count": 20,
+    "first_seen": "2026-10-02T16:02:05.410Z",
+    "last_checked": "2026-11-06T04:28:10.760Z"
+  }
+]

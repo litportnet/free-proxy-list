@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,false,832,930.5,87.8,64.3,182,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-07T11:02:35.488Z,2026-11-05T04:23:39.857Z
-socks4,195.13.182.211,8080,socks4://195.13.182.211:8080,elite,false,663,690,60.4,52.3,151,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,10,2026-10-07T10:02:02.238Z,2026-11-05T04:30:02.196Z
-socks4,195.13.182.212,8080,socks4://195.13.182.212:8080,elite,false,2702,2672,53.9,49.3,138,195.13.182.212,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T10:02:02.238Z,2026-11-05T04:28:43.032Z
-socks4,31.170.18.129,4153,socks4://31.170.18.129:4153,elite,false,1677,1680.5,28.8,20,350,31.170.19.149,1,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,20,2026-09-03T16:38:11.538Z,2026-11-05T04:29:06.809Z
+http,188.112.131.195,80,http://188.112.131.195:80,elite,false,602,583.5,95,93.4,122,188.112.131.195,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",4,2026-04-13T22:19:02.708Z,2026-11-06T04:30:22.519Z
+http,87.226.22.225,80,http://87.226.22.225:80,elite,false,596,585.5,94.5,87.3,79,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-06T04:22:39.039Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,false,877,1200,85.6,76.5,285,195.13.182.211,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-07T11:02:35.488Z,2026-11-06T04:28:49.931Z

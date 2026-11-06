@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "91.73.223.206",
+    "port": 1080,
+    "url": "socks4://91.73.223.206:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 5494,
+    "latency_median_ms": 7115,
+    "uptime_24h": 37.9,
+    "uptime_7d": 19.6,
+    "checks_7d": 112,
+    "exit_ip": "91.73.223.206",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Dubai",
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "asn": 15802,
+    "asn_org": "Emirates Integrated Telecommunications Company PJSC",
+    "sources_count": 15,
+    "first_seen": "2026-09-11T20:05:20.917Z",
+    "last_checked": "2026-11-06T04:29:51.400Z"
+  }
+]

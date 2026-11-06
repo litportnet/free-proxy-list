@@ -6,13 +6,13 @@
     "url": "socks5://195.13.182.211:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 832,
-    "latency_median_ms": 930.5,
-    "uptime_24h": 87.8,
-    "uptime_7d": 64.3,
-    "checks_7d": 182,
+    "latency_ms": 877,
+    "latency_median_ms": 1200,
+    "uptime_24h": 85.6,
+    "uptime_7d": 76.5,
+    "checks_7d": 285,
     "exit_ip": "195.13.182.211",
-    "exit_shared": 2,
+    "exit_shared": 1,
     "country": "lv",
     "region": "Riga",
     "city": "Riga",
@@ -21,6 +21,6 @@
     "asn_org": "SIA Tet",
     "sources_count": 16,
     "first_seen": "2026-10-07T11:02:35.488Z",
-    "last_checked": "2026-11-05T04:23:39.857Z"
+    "last_checked": "2026-11-06T04:28:49.931Z"
   }
 ]

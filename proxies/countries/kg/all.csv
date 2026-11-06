@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.72.180.122,1080,socks5://80.72.180.122:1080,elite,true,3571,2338.5,43.8,39.8,754,80.72.180.122,1,kg,Chuy Region,Kant,Asia/Bishkek,12997,OJSC Kyrgyztelecom,20,2026-04-16T06:47:08.732Z,2026-11-05T04:27:51.283Z
-http,31.192.248.55,8080,http://31.192.248.55:8080,elite,true,1961,1956,43.2,31.7,624,31.192.248.55,1,kg,Chuy Region,Kant,Asia/Bishkek,8449,ElCat Ltd.,17,2026-06-07T07:49:32.622Z,2026-11-05T04:25:30.963Z
-http,178.217.168.164,55443,http://178.217.168.164:55443,elite,true,2849,3826,27.1,26.6,482,178.217.168.164,1,kg,Bishkek,Bishkek,Asia/Bishkek,197119,KRENA - Kyrgyz research and education network association,26,2025-12-24T20:54:24.318Z,2026-11-05T04:32:28.196Z
+http,31.192.248.55,8080,http://31.192.248.55:8080,elite,true,968,4032.5,40.9,33.2,602,31.192.248.55,1,kg,Chuy Region,Kant,Asia/Bishkek,8449,ElCat Ltd.,17,2026-06-07T07:49:32.622Z,2026-11-06T04:28:09.063Z

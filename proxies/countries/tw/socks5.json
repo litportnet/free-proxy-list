@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "210.61.97.16",
+    "port": 7071,
+    "url": "socks5://210.61.97.16:7071",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 904,
+    "latency_median_ms": 1002,
+    "uptime_24h": 50.6,
+    "uptime_7d": 40.5,
+    "checks_7d": 593,
+    "exit_ip": "210.61.97.17",
+    "exit_shared": 1,
+    "country": "tw",
+    "region": "Taiwan",
+    "city": "Taoyuan",
+    "timezone": "Asia/Taipei",
+    "asn": 3462,
+    "asn_org": "Data Communication Business Group",
+    "sources_count": 13,
+    "first_seen": "2026-10-31T05:02:26.990Z",
+    "last_checked": "2026-11-06T04:21:33.836Z"
+  }
+]

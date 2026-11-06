@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks5://109.95.175.64:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3804,
-    "latency_median_ms": 1799,
-    "uptime_24h": 43,
-    "uptime_7d": 38,
-    "checks_7d": 721,
+    "https": true,
+    "latency_ms": 8095,
+    "latency_median_ms": 923,
+    "uptime_24h": 55.8,
+    "uptime_7d": 40.4,
+    "checks_7d": 691,
     "exit_ip": "109.95.175.64",
     "exit_shared": 1,
     "country": "pl",
@@ -21,6 +21,6 @@
     "asn_org": "Eltronik Sp. z o.o.",
     "sources_count": 15,
     "first_seen": "2026-10-05T12:38:11.693Z",
-    "last_checked": "2026-11-05T04:32:20.209Z"
+    "last_checked": "2026-11-06T04:25:16.019Z"
   }
 ]

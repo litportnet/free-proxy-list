@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.255.40.228,8998,http://84.255.40.228:8998,anonymous,false,1353,3766.5,41.3,36.1,418,84.255.40.228,1,mt,Saint Paul’s Bay,San Pawl il-Baħar,Europe/Malta,12709,Melita Limited,18,2025-09-05T00:24:10.314Z,2026-11-05T04:32:40.914Z
+http,84.255.40.228,8998,http://84.255.40.228:8998,anonymous,true,694,4470,44,38.1,480,84.255.40.228,1,mt,Saint Paul’s Bay,San Pawl il-Baħar,Europe/Malta,12709,Melita Limited,18,2025-09-05T00:24:10.314Z,2026-11-06T04:28:07.487Z

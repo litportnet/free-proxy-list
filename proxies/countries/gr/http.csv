@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,149.210.4.185,18080,http://149.210.4.185:18080,anonymous,true,5122,3525.5,52.3,50,272,149.210.4.185,1,gr,Attica,Peristéri,Europe/Athens,29247,Ote SA (Hellenic Telecommunications Organisation),16,2026-11-02T15:33:19.934Z,2026-11-05T04:29:48.002Z
-http,79.130.240.61,18080,http://79.130.240.61:18080,anonymous,false,7899,2608.5,54.4,35.9,665,79.130.240.61,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),20,2026-09-25T00:32:07.277Z,2026-11-05T04:27:45.017Z
-http,188.164.201.197,666,http://188.164.201.197:666,elite,false,4992,4663,45.6,34.3,667,188.164.201.197,1,gr,Central Macedonia,Thérmi,Europe/Athens,50919,INTERWORKS Single Member S.A.,25,2026-09-04T02:42:25.516Z,2026-11-05T04:32:58.966Z
-http,77.49.58.241,8080,http://77.49.58.241:8080,anonymous,true,1977,3894.5,83.3,,12,77.49.58.241,1,gr,Attica,Peristéri,Europe/Athens,1241,Forthnet,12,2026-11-05T02:04:14.587Z,2026-11-05T04:31:05.642Z

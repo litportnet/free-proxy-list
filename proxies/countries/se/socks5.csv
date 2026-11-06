@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2149,1513,93,93.5,966,171.25.158.95,2,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-05T04:31:22.561Z
-socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,6429,4941.5,75.2,60.4,858,185.213.154.239,2,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,14,2026-07-13T09:34:11.062Z,2026-11-05T04:24:14.969Z
-socks5,79.76.52.220,1080,socks5://79.76.52.220:1080,elite,false,4752,2807.5,54.6,33,567,79.76.52.220,1,se,Stockholm,Stockholm,Europe/Stockholm,31898,Oracle Corporation,17,2026-07-12T14:21:31.857Z,2026-11-05T04:30:09.081Z

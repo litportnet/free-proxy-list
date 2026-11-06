@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10814,
+    "url": "socks5://49.13.22.249:10814",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 995,
+    "latency_median_ms": 1772,
+    "uptime_24h": 52.8,
+    "uptime_7d": 43.9,
+    "checks_7d": 535,
+    "exit_ip": "149.22.86.20",
+    "exit_shared": 1,
+    "country": "pt",
+    "region": "Lisbon",
+    "city": "Lisbon",
+    "timezone": "Europe/Lisbon",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 20,
+    "first_seen": "2026-09-16T03:18:05.440Z",
+    "last_checked": "2026-11-06T04:27:14.595Z"
+  }
+]

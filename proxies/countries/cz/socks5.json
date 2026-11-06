@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "176.62.229.17",
+    "port": 1080,
+    "url": "socks5://176.62.229.17:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1802,
+    "latency_median_ms": 1152.5,
+    "uptime_24h": 48.7,
+    "uptime_7d": 43.5,
+    "checks_7d": 580,
+    "exit_ip": "176.62.229.17",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "Hradec Králové Region",
+    "city": "Trutnov",
+    "timezone": "Europe/Prague",
+    "asn": 49985,
+    "asn_org": "IP4ISP z.s.p.o",
+    "sources_count": 13,
+    "first_seen": "2026-10-31T14:07:16.201Z",
+    "last_checked": "2026-11-06T04:21:40.881Z"
+  }
+]

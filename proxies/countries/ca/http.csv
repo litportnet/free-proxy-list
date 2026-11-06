@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,168,120,97.8,92.4,869,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-05T04:33:25.591Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,2014,242.5,85.3,85.3,102,148.113.202.99,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-05T04:33:10.099Z
-http,173.181.142.228,80,http://173.181.142.228:80,elite,false,8797,5157.5,66,47.2,744,173.181.142.228,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-11-05T04:26:25.577Z
-http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,5672,4130.5,43.8,35.8,698,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-05T04:30:04.297Z
-http,15.195.51.161,80,http://15.195.51.161:80,elite,true,6007,979,50,,14,15.195.51.161,1,ca,Ontario,Windsor,America/Toronto,7057,Managed Network Systems Inc.,9,2026-11-05T00:03:09.622Z,2026-11-05T04:24:40.899Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,116,115.5,96.4,93.1,863,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-06T04:29:24.000Z
+http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,5062,5031,75.2,80.1,206,148.113.202.99,1,ca,Quebec,Montréal,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-06T04:26:05.590Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,1261,3686.5,69.8,62.5,842,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-06T04:22:46.741Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,771,747.5,37.3,36.6,629,23.234.85.185,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",23,2026-09-12T17:16:29.342Z,2026-11-06T04:31:08.353Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,314,303,100,,49,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-06T04:23:55.789Z

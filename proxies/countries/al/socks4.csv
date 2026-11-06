@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,37.26.86.206,4145,socks4://37.26.86.206:4145,elite,true,1733,731,68.3,52.5,731,37.26.86.206,1,al,Elbasan County,Elbasan,Europe/Tirane,198279,Albanian Telecommunications Union SH. P.K.,13,2025-09-04T23:02:23.648Z,2026-11-05T04:31:00.881Z
+socks4,80.78.74.8,65530,socks4://80.78.74.8:65530,elite,false,7821,1727.5,48.1,40.6,648,80.78.74.8,1,al,Durrës County,Nikël,Europe/Tirane,21183,Vodafone Albania Sh.A.,21,2025-09-05T20:06:23.438Z,2026-11-06T04:29:05.582Z
