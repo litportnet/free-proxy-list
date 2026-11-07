@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,189.203.181.34,1080,socks4://189.203.181.34:1080,elite,false,235,249.5,80.4,72.9,875,189.203.181.34,1,mx,Mexico City,Mexico City,America/Mexico_City,22884,"TOTAL PLAY TELECOMUNICACIONES, S.A.P.I. DE C.V.",14,2025-09-04T23:49:14.152Z,2026-11-06T04:28:10.719Z
+socks4,189.202.204.53,1080,socks4://189.202.204.53:1080,elite,false,1239,2270.5,51.1,68.3,580,189.202.204.53,1,mx,Nuevo León,Monterrey,America/Monterrey,18734,"Operbes, S.A. de C.V.",20,2026-03-10T17:54:30.145Z,2026-11-07T04:31:48.282Z
+socks4,187.157.30.202,4153,socks4://187.157.30.202:4153,elite,true,412,3446.5,42.9,41,669,187.157.30.202,1,mx,Oaxaca,Brisas de Zicatela,America/Mexico_City,8151,Uninet S.A. de C.V.,14,2025-09-04T23:49:02.825Z,2026-11-07T04:28:39.254Z

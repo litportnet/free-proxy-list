@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.66.19.69,18080,http://85.66.19.69:18080,anonymous,true,3904,3571.5,46.2,33.8,530,85.66.19.69,1,hu,Budapest,Budapest,Europe/Budapest,20845,DIGI Tavkozlesi es Szolgaltato Kft.,15,2026-07-03T14:23:14.611Z,2026-11-06T04:30:17.786Z
-http,92.249.168.82,8080,http://92.249.168.82:8080,anonymous,false,3632,2853,86.4,,22,92.249.168.82,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,13,2026-11-06T00:15:54.141Z,2026-11-06T04:20:37.288Z
+http,145.236.157.134,8080,http://145.236.157.134:8080,anonymous,false,8595,3345.5,61.2,61.2,67,145.236.157.134,1,hu,Hajdú-Bihar,Biharkeresztes,Europe/Budapest,5483,Magyar Telekom Plc.,14,2026-11-06T13:22:43.895Z,2026-11-07T04:27:37.942Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,46.166.167.60,8080,http://46.166.167.60:8080,anonymous,false,5704,4330,46.8,35.9,582,46.166.167.60,1,lt,Siauliai,Šiauliai,Europe/Vilnius,16125,"UAB ""Cherry Servers""",18,2026-10-28T08:26:23.349Z,2026-11-06T04:29:46.692Z
-http,88.119.139.237,53281,http://88.119.139.237:53281,anonymous,false,3643,3750,24.4,13,247,88.119.139.237,1,lt,Klaipėda County,Klaipėda,Europe/Vilnius,8764,"Telia Lietuva, AB",26,2025-09-10T20:03:31.003Z,2026-11-06T04:25:11.145Z
+socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,831,1400,30.5,30.3,584,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",21,2025-09-04T23:50:04.655Z,2026-11-07T04:25:30.074Z

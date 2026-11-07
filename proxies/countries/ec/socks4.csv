@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,false,1589,602,70.7,56.5,811,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-11-06T04:28:45.094Z
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,false,2989,5665.5,59.1,55.3,779,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-11-07T04:28:51.082Z

@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,true,784,2590,87.5,86.6,927,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-06T04:29:28.728Z
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,756,746.5,87.5,82.4,102,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-06T04:24:26.165Z
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,699,685,88.2,81.1,74,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-06T04:22:24.439Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,747,791.5,83.6,78.3,904,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-06T04:29:40.380Z
-http,27.147.28.73,8080,http://27.147.28.73:8080,anonymous,false,4684,7650,31.3,20.5,331,27.147.28.73,1,tw,Taipei,Banqiao,Asia/Taipei,18429,"Extra-Lan Technologies Co., LTD",24,2025-09-10T21:05:09.828Z,2026-11-06T04:28:00.239Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,668,674,95.7,91,211,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-07T04:27:29.821Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,761,754.5,93.4,89,236,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-07T04:23:56.058Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,773,2457.5,78.6,77.6,875,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-07T04:33:25.354Z
+http,27.147.28.73,8080,http://27.147.28.73:8080,anonymous,false,7420,4182.5,26.2,20.3,311,27.147.28.73,1,tw,Taipei,Banqiao,Asia/Taipei,18429,"Extra-Lan Technologies Co., LTD",24,2025-09-10T21:05:09.828Z,2026-11-07T04:25:44.224Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,148.113.175.17,1090,socks5://148.113.175.17:1090,elite,true,203,249,96.6,84.7,314,148.113.175.17,2,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-10-12T18:09:21.955Z,2026-11-06T04:25:05.184Z
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,4040,5247,50,51,761,23.234.85.144,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-11-06T04:22:33.138Z

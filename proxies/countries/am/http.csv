@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.133.107.234,81,http://45.133.107.234:81,anonymous,false,5091,3579.5,18.4,12.6,222,45.133.107.234,1,am,Yerevan,Yerevan,Asia/Yerevan,216086,ART-NET LLC,17,2025-09-08T14:19:32.433Z,2026-11-07T04:28:46.226Z

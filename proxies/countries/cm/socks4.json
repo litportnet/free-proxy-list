@@ -6,11 +6,11 @@
     "url": "socks4://41.216.232.213:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1148,
-    "latency_median_ms": 1174.5,
-    "uptime_24h": 57.5,
-    "uptime_7d": 51.3,
-    "checks_7d": 756,
+    "latency_ms": 1154,
+    "latency_median_ms": 2114.5,
+    "uptime_24h": 54.5,
+    "uptime_7d": 52.5,
+    "checks_7d": 736,
     "exit_ip": "217.14.84.154",
     "exit_shared": 1,
     "country": "cm",
@@ -21,6 +21,6 @@
     "asn_org": "INQ DIGITAL CAMEROON SA",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:59.324Z",
-    "last_checked": "2026-11-06T04:28:56.235Z"
+    "last_checked": "2026-11-07T04:27:06.156Z"
   }
 ]

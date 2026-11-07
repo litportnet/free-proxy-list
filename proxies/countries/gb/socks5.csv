@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.46,12043,socks5://45.74.31.46:12043,elite,false,2357,3345,20,23.2,82,91.204.209.37,1,gb,England,Portsmouth,Europe/London,52148,Enix Ltd,9,2026-11-02T04:27:25.080Z,2026-11-06T04:24:21.306Z
-socks5,45.67.84.116,9080,socks5://45.67.84.116:9080,elite,true,1805,1682.5,100,,8,45.67.84.116,1,gb,England,London,Europe/London,152586,Kuroit,10,2026-11-06T03:17:27.227Z,2026-11-06T04:27:24.515Z
+socks5,65.21.252.66,10806,socks5://65.21.252.66:10806,elite,true,3006,2794,37.2,37.6,498,187.13.129.198,1,gb,England,London,Europe/London,212238,Datacamp Limited,17,2026-09-18T22:34:19.200Z,2026-11-07T04:28:57.042Z

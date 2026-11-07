@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,4057,1829.5,44.4,36.4,643,45.179.145.12,1,br,Goiás,Luziânia,America/Sao_Paulo,269089,Hilan Telecom Ltda,13,2026-07-29T05:52:08.923Z,2026-11-06T04:30:13.602Z
+socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,9852,1828,40.2,37.8,612,45.179.145.12,1,br,Goiás,Luziânia,America/Sao_Paulo,269089,Hilan Telecom Ltda,13,2026-07-29T05:52:08.923Z,2026-11-07T04:30:42.233Z
+socks5,200.4.107.137,1080,socks5://200.4.107.137:1080,elite,false,2807,4069,31.8,27.7,368,45.167.55.114,1,br,Bahia,Feira de Santana,America/Bahia,267991,TURBO NETWORK SERV DE COMUN E MULTIMIDIA,13,2026-10-27T23:21:36.044Z,2026-11-07T04:31:00.757Z

@@ -1,17 +1,17 @@
 [
   {
     "protocol": "http",
-    "ip": "202.21.101.37",
-    "port": 8088,
-    "url": "http://202.21.101.37:8088",
-    "anonymity": "elite",
+    "ip": "202.21.124.132",
+    "port": 1011,
+    "url": "http://202.21.124.132:1011",
+    "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 2552,
-    "latency_median_ms": 4497.5,
-    "uptime_24h": 48,
-    "uptime_7d": 35.6,
-    "checks_7d": 578,
-    "exit_ip": "202.21.101.37",
+    "latency_ms": 1884,
+    "latency_median_ms": 1887,
+    "uptime_24h": 28.6,
+    "uptime_7d": 33.9,
+    "checks_7d": 369,
+    "exit_ip": "202.21.124.129",
     "exit_shared": 1,
     "country": "mn",
     "region": "Ulaanbaatar",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Ulaanbaatar",
     "asn": 9484,
     "asn_org": "Mobinet LLC. AS Mobinet Internet Service Provider",
-    "sources_count": 20,
-    "first_seen": "2026-10-02T16:02:05.410Z",
-    "last_checked": "2026-11-06T04:28:10.760Z"
+    "sources_count": 23,
+    "first_seen": "2026-09-19T02:37:14.782Z",
+    "last_checked": "2026-11-07T04:23:08.504Z"
   }
 ]

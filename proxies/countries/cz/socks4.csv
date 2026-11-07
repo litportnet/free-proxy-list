@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.69.211.18,1080,socks4://109.69.211.18:1080,elite,true,1714,1110.5,59,68.8,834,109.69.211.18,1,cz,Olomouc Region,Přerov,Europe/Prague,196815,LAN servis s.r.o.,19,2026-07-05T16:50:36.728Z,2026-11-07T04:30:19.678Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,659,639,29.4,44,648,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-07T04:32:57.378Z
+socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,1783,1712.5,33.9,31,461,90.178.216.215,1,cz,Plzeň Region,Pilsen,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-11-07T04:31:37.715Z

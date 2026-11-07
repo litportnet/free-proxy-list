@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.73.223.206,1080,socks4://91.73.223.206:1080,elite,true,5494,7115,37.9,19.6,112,91.73.223.206,1,ae,Dubai,Dubai,Asia/Dubai,15802,Emirates Integrated Telecommunications Company PJSC,15,2026-09-11T20:05:20.917Z,2026-11-06T04:29:51.400Z

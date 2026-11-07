@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,92.86.92.126,42740,socks4://92.86.92.126:42740,elite,true,1765,1759,53.1,48,535,92.86.92.126,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,9050,Orange Romania S.A.,13,2025-09-04T23:49:05.773Z,2026-11-06T04:21:45.236Z
-socks4,194.50.50.100,1080,socks4://194.50.50.100:1080,elite,true,1699,1693.5,43.6,37.5,624,194.50.50.100,1,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,14,2026-10-30T09:52:45.759Z,2026-11-06T04:23:55.253Z

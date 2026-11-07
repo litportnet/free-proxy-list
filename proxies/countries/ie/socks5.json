@@ -6,11 +6,11 @@
     "url": "socks5://45.74.31.42:6675",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3330,
-    "latency_median_ms": 3609,
-    "uptime_24h": 54.8,
-    "uptime_7d": 50,
-    "checks_7d": 112,
+    "latency_ms": 1463,
+    "latency_median_ms": 2989,
+    "uptime_24h": 36.7,
+    "uptime_7d": 44.5,
+    "checks_7d": 191,
     "exit_ip": "135.236.141.99",
     "exit_shared": 2,
     "country": "ie",
@@ -21,7 +21,7 @@
     "asn_org": "Microsoft Corporation",
     "sources_count": 11,
     "first_seen": "2026-11-03T17:47:04.686Z",
-    "last_checked": "2026-11-06T04:24:57.084Z"
+    "last_checked": "2026-11-07T04:28:03.908Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://45.74.31.46:5280",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1563,
-    "latency_median_ms": 3906.5,
-    "uptime_24h": 47.4,
-    "uptime_7d": 26.8,
-    "checks_7d": 302,
+    "latency_ms": 3624,
+    "latency_median_ms": 4013,
+    "uptime_24h": 39.3,
+    "uptime_7d": 30.9,
+    "checks_7d": 375,
     "exit_ip": "135.236.141.99",
     "exit_shared": 2,
     "country": "ie",
@@ -45,6 +45,6 @@
     "asn_org": "Microsoft Corporation",
     "sources_count": 13,
     "first_seen": "2026-10-04T04:21:10.887Z",
-    "last_checked": "2026-11-06T04:29:03.886Z"
+    "last_checked": "2026-11-07T04:30:23.850Z"
   }
 ]

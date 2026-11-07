@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.75.118.84,1080,socks4://103.75.118.84:1080,elite,true,954,948,96.3,96.4,334,103.75.118.84,2,jp,Tokyo,Tokyo,Asia/Tokyo,136258,"BrainStorm Network, Inc",9,2026-02-28T21:48:48.843Z,2026-11-06T04:23:21.077Z
-socks4,103.201.131.120,1080,socks4://103.201.131.120:1080,elite,true,7775,4239,100,,2,103.201.131.120,2,jp,Tokyo,Tokyo,Asia/Tokyo,3258,xTom Japan Corporation,6,2026-11-06T04:17:54.177Z,2026-11-06T04:27:27.805Z
+socks4,43.153.143.77,1080,socks4://43.153.143.77:1080,elite,true,1185,781,73.6,73.6,53,43.153.143.77,2,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",9,2026-08-17T18:59:05.964Z,2026-11-07T04:28:53.196Z

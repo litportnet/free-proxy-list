@@ -6,12 +6,12 @@
     "url": "http://141.101.90.109:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 567,
-    "latency_median_ms": 547.5,
+    "latency_ms": 523,
+    "latency_median_ms": 549.5,
     "uptime_24h": 100,
-    "uptime_7d": 95,
-    "checks_7d": 121,
-    "exit_ip": "172.68.50.23",
+    "uptime_7d": 98.1,
+    "checks_7d": 263,
+    "exit_ip": "172.68.50.22",
     "exit_shared": 1,
     "country": "at",
     "region": "Vienna",
@@ -21,6 +21,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 6,
     "first_seen": "2025-09-27T16:47:38.828Z",
-    "last_checked": "2026-11-06T04:24:16.429Z"
+    "last_checked": "2026-11-07T04:22:56.087Z"
   }
 ]

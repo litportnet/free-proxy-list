@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10809,socks5://5.75.133.113:10809,elite,true,6082,3876,24.2,28.6,455,192.159.101.227,1,ee,Harjumaa,Tallinn,Europe/Tallinn,206804,EstNOC OU,19,2026-08-25T08:54:37.541Z,2026-11-06T04:28:49.314Z

@@ -1,9 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,765,579,100,99.8,1007,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-06T04:29:39.298Z
-socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,1129,3689,83.6,92.7,958,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-11-06T04:26:26.857Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,551,555,83.6,78.3,920,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-06T04:22:28.806Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,493,515,77.6,75.9,883,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-06T04:29:30.271Z
-http,45.142.134.5,8080,http://45.142.134.5:8080,anonymous,true,938,4310,40.5,35.8,598,91.204.250.40,1,it,Abruzzo,Trasacco,Europe/Rome,203540,Witel Srl,17,2026-10-21T18:02:59.697Z,2026-11-06T04:22:53.269Z
-http,185.191.106.0,8081,http://185.191.106.0:8081,anonymous,true,3587,4017,34.7,28.1,353,185.191.106.0,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2026-04-11T23:47:05.291Z,2026-11-06T04:26:11.708Z
-http,84.8.248.36,3128,http://84.8.248.36:3128,elite,false,4278,4211.5,37,27.9,408,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,24,2026-08-12T10:52:28.127Z,2026-11-06T04:24:25.637Z
-http,149.86.203.217,8080,http://149.86.203.217:8080,anonymous,false,613,3481,26.3,18.5,395,149.86.206.27,1,it,Tuscany,Quarrata,Europe/Rome,60501,Sirius Technology SRL,24,2025-09-04T23:49:18.050Z,2026-11-06T04:28:05.735Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,590,667.5,100,99.8,1005,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-07T04:33:26.408Z
+socks5,212.77.75.25,1088,socks5://212.77.75.25:1088,elite,true,758,791,94.2,93.2,953,212.77.75.20,1,it,Tuscany,Empoli,Europe/Rome,15691,UAN COMPANY S.R.L.,16,2026-06-29T15:31:05.719Z,2026-11-07T04:30:18.658Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,591,582,83.6,79.7,896,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-07T04:25:30.054Z
+http,5.88.145.106,8080,http://5.88.145.106:8080,anonymous,true,2477,3447,42.9,42.9,56,2.32.175.26,1,it,Lombardy,San Giuliano Milanese,Europe/Rome,30722,Fastweb SpA,14,2026-11-06T13:22:49.124Z,2026-11-07T04:30:08.077Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,193.218.118.128,1080,socks5://193.218.118.128:1080,elite,true,2594,1301.5,97.1,96.9,980,78.105.209.95,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,11,2026-10-22T04:08:14.303Z,2026-11-06T04:28:33.773Z
-socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,false,1984,1799,47.3,44.1,565,45.248.78.179,1,au,Western Australia,Perth,Australia/Perth,136557,Host Universal Pty Ltd,18,2026-09-16T03:18:14.821Z,2026-11-06T04:27:39.304Z

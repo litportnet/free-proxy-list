@@ -6,11 +6,11 @@
     "url": "http://27.109.158.122:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 927,
-    "latency_median_ms": 901,
-    "uptime_24h": 100,
-    "uptime_7d": 95,
-    "checks_7d": 120,
+    "latency_ms": 971,
+    "latency_median_ms": 862,
+    "uptime_24h": 94.2,
+    "uptime_7d": 94.9,
+    "checks_7d": 256,
     "exit_ip": "27.109.158.122",
     "exit_shared": 1,
     "country": "mo",
@@ -21,6 +21,6 @@
     "asn_org": "Companhia de Telecomunicacoes de Macau SARL",
     "sources_count": 3,
     "first_seen": "2026-04-14T08:16:21.091Z",
-    "last_checked": "2026-11-06T04:22:33.125Z"
+    "last_checked": "2026-11-07T04:23:36.093Z"
   }
 ]

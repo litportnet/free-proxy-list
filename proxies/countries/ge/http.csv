@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.134.100.66,80,http://178.134.100.66:80,anonymous,false,2013,2923.5,48.8,47.9,353,178.134.100.66,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,35805,"JSC ""Silknet""",18,2026-11-02T14:32:47.923Z,2026-11-06T04:22:42.378Z
-http,85.117.56.41,8080,http://85.117.56.41:8080,anonymous,false,8763,4217,19.6,22.7,468,85.117.56.41,2,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,13,2025-09-05T00:23:14.888Z,2026-11-06T04:25:58.002Z
-http,85.117.56.42,8080,http://85.117.56.42:8080,anonymous,true,4220,3844.5,25.5,21.8,385,85.117.56.41,2,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,19,2026-10-16T12:57:21.656Z,2026-11-06T04:26:02.328Z
-http,45.143.108.114,8080,http://45.143.108.114:8080,anonymous,true,802,4028,16.7,12.1,140,45.143.108.114,1,ge,Imereti,Zestaponi,Asia/Tbilisi,208320,AIRMAX LLC,22,2025-09-06T05:35:04.634Z,2026-11-06T04:28:11.296Z
+http,85.117.61.108,8080,http://85.117.61.108:8080,anonymous,false,3511,2650,14.6,13.5,192,85.117.61.108,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,25,2026-05-09T16:45:46.716Z,2026-11-07T04:30:47.560Z

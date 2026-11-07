@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,true,966,1045,98.6,96.8,979,80.67.167.81,2,fr,Île-de-France,Paris,Europe/Paris,2027,MilkyWan Association,13,2026-07-02T02:04:25.728Z,2026-11-06T04:25:36.612Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,1578,1570.5,50.7,43.4,445,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-06T04:28:33.734Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,580,1158.5,45.3,44.6,446,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-07T04:24:02.045Z

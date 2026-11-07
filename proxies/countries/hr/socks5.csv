@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,1537,1172.5,97.8,96.2,977,45.95.169.21,1,hr,Sisak-Moslavina,Sisak,Europe/Zagreb,211619,MAXKO d.o.o.,21,2026-07-02T02:04:25.816Z,2026-11-06T04:30:42.668Z

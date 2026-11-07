@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.100.44.35,1085,socks4://46.100.44.35:1085,elite,true,981,956,90.7,61.6,596,46.100.44.35,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,16,2026-10-13T23:24:50.796Z,2026-11-06T04:29:35.022Z
-socks4,151.232.18.66,5678,socks4://151.232.18.66:5678,elite,false,982,2212,74,41.5,632,151.232.18.69,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,8,2025-09-04T23:49:03.157Z,2026-11-06T04:23:02.000Z
+socks4,81.91.157.133,5678,socks4://81.91.157.133:5678,elite,true,1131,1032,57.1,43.3,582,81.91.157.133,1,ir,Tehran,Tehran,Asia/Tehran,206065,Tose'h Fanavari Ertebabat Pasargad Arian Co. PJS,12,2026-08-15T07:27:55.360Z,2026-11-07T04:33:25.887Z

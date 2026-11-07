@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,1460,4470.5,37.3,39.6,546,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-06T04:29:22.947Z
-socks4,164.152.122.199,19100,socks4://164.152.122.199:19100,elite,true,691,2865,32.8,23.3,120,171.25.193.80,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,11,2026-08-07T15:51:19.984Z,2026-11-06T04:25:57.445Z

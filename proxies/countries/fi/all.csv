@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,887,774.5,98.6,97.1,986,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-06T04:23:24.845Z
-socks5,192.124.181.25,1080,socks5://192.124.181.25:1080,elite,true,2566,4131.5,66.7,,6,192.124.181.25,1,fi,Uusimaa,Helsinki,Europe/Helsinki,209378,Inios Oy,3,2026-11-06T03:17:30.399Z,2026-11-06T04:26:06.684Z
+socks5,95.214.9.21,1080,socks5://95.214.9.21:1080,elite,true,773,747,75.6,75.6,78,95.214.9.21,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,12,2026-10-11T16:56:06.397Z,2026-11-07T04:23:29.046Z
+http,78.17.144.48,8443,http://78.17.144.48:8443,elite,true,598,598,81.8,70,90,78.17.144.48,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,4,2026-08-29T20:52:18.360Z,2026-11-07T04:24:48.508Z
+socks5,31.76.102.22,1080,socks5://31.76.102.22:1080,elite,true,2250,2136.5,57.4,57.4,61,31.76.102.22,1,fi,Uusimaa,Helsinki,Europe/Helsinki,201988,VPSPay ASN,11,2026-11-06T08:20:04.257Z,2026-11-07T04:26:30.715Z
+http,185.203.6.219,3128,http://185.203.6.219:3128,transparent,false,4317,3827.5,54.4,54.4,68,185.203.6.219,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,13,2026-11-06T12:22:14.211Z,2026-11-07T04:33:07.403Z

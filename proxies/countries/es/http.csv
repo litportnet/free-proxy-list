@@ -1,2 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,578,477.5,99.3,97.9,999,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-06T04:30:14.658Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,491,477.5,100,98.4,997,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-07T04:24:46.888Z
+http,2.139.174.29,8080,http://2.139.174.29:8080,anonymous,true,2358,1953,67.5,67.5,83,2.139.174.29,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,15,2026-11-06T10:21:08.130Z,2026-11-07T04:26:19.915Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,anonymous,false,1628,1576,53.7,50,736,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-11-07T04:23:17.220Z
+http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,7822,2712,36.8,34.2,550,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-07T04:30:15.561Z
+http,45.13.185.217,3128,http://45.13.185.217:3128,anonymous,false,9498,8052,35.8,34.2,386,45.13.185.217,1,es,Madrid,Madrid,Europe/Madrid,201446,Soluciones web on line s.l.,13,2026-04-12T14:54:58.724Z,2026-11-07T04:29:57.843Z
+http,83.45.174.187,8080,http://83.45.174.187:8080,anonymous,true,1718,1677.5,56,,25,83.45.174.187,1,es,Catalonia,Alella,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,14,2026-11-06T22:27:32.991Z,2026-11-07T04:32:14.200Z

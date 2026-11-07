@@ -1,4 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,1725,955,86.7,71.8,721,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-06T04:23:28.142Z
-socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,true,868,914,46.8,44.1,517,79.110.118.15,1,bg,Shumen,Varbitsa,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-06T04:31:06.796Z
-socks4,91.92.78.207,4145,socks4://91.92.78.207:4145,elite,false,7852,1716.5,42.7,25.3,522,91.92.78.207,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,13,2025-09-04T23:49:05.473Z,2026-11-06T04:21:14.764Z
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,1731,1738.5,71.9,70.4,608,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-07T04:25:32.257Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,729,1255,48,60.1,531,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-11-07T04:31:16.046Z
+socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,true,1855,821.5,36.8,53.3,484,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-07T04:32:54.191Z
+socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,true,678,685,32.4,47.8,705,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-11-07T04:28:33.782Z
+socks4,88.213.214.254,4145,socks4://88.213.214.254:4145,elite,true,758,747.5,41.8,44.3,499,88.213.215.28,1,bg,Shumen,Venets,Europe/Sofia,61071,NETBOX LTD,13,2025-09-04T23:49:06.901Z,2026-11-07T04:31:56.738Z
+socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,true,3752,2745,39,37.5,451,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,14,2025-09-04T23:49:06.550Z,2026-11-07T04:30:16.081Z
+socks4,91.92.78.207,4145,socks4://91.92.78.207:4145,elite,true,739,1220.5,38,27.2,486,91.92.78.207,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,13,2025-09-04T23:49:05.473Z,2026-11-07T04:29:22.990Z

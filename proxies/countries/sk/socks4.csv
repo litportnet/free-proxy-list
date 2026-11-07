@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,217.145.199.45,56746,socks4://217.145.199.45:56746,elite,true,4861,696.5,55,50.8,518,217.145.199.45,1,sk,Nitra Region,Kolárovo,Europe/Bratislava,12426,Slovanet a.s.,8,2026-10-22T15:14:09.218Z,2026-11-07T04:28:49.450Z
