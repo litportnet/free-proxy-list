@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,134.249.128.111,1080,socks4://134.249.128.111:1080,elite,false,1782,858.5,40.6,41.4,425,134.249.128.111,1,ua,Dnipropetrovsk,Kryvyy Rih,Europe/Kyiv,15895,"""Kyivstar"" PJSC",12,2025-09-05T20:06:34.603Z,2026-11-07T16:55:09.734Z

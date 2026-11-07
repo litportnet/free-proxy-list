@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "31.192.248.55",
+    "port": 8080,
+    "url": "http://31.192.248.55:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1981,
+    "latency_median_ms": 1971.5,
+    "uptime_24h": 30.7,
+    "uptime_7d": 32.4,
+    "checks_7d": 552,
+    "exit_ip": "31.192.248.55",
+    "exit_shared": 1,
+    "country": "kg",
+    "region": "Chuy Region",
+    "city": "Kant",
+    "timezone": "Asia/Bishkek",
+    "asn": 8449,
+    "asn_org": "ElCat Ltd.",
+    "sources_count": 17,
+    "first_seen": "2026-06-07T07:49:32.622Z",
+    "last_checked": "2026-11-07T16:52:02.393Z"
+  }
+]

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,310,281.5,100,98.1,266,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-07T16:53:33.340Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,122,120.5,94.2,92.7,857,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-07T16:59:29.479Z
+http,149.248.18.106,8118,http://149.248.18.106:8118,elite,false,719,758.5,32.5,36.1,595,23.234.85.185,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",23,2026-09-12T17:16:29.342Z,2026-11-07T16:53:26.889Z
+http,79.127.223.58,39679,http://79.127.223.58:39679,elite,true,463,463,100,,3,99.235.248.45,1,ca,Ontario,Hamilton,America/Toronto,812,Rogers Communications Canada Inc.,1,2026-11-07T16:37:06.648Z,2026-11-07T16:56:05.925Z
+http,79.127.223.58,37074,http://79.127.223.58:37074,elite,true,3957,3049,66.7,,18,142.67.221.34,1,ca,Nova Scotia,Halifax,America/Halifax,11260,EastLink,8,2026-11-07T13:35:30.235Z,2026-11-07T16:53:53.948Z

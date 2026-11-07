@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "183.106.215.208",
+    "port": 1080,
+    "url": "socks5://183.106.215.208:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1188,
+    "latency_median_ms": 1146.5,
+    "uptime_24h": 91.6,
+    "uptime_7d": 90.5,
+    "checks_7d": 943,
+    "exit_ip": "59.24.42.101",
+    "exit_shared": 2,
+    "country": "kr",
+    "region": "Gyeongsangbuk-do",
+    "city": "Gyeongju",
+    "timezone": "Asia/Seoul",
+    "asn": 4766,
+    "asn_org": "Korea Telecom",
+    "sources_count": 15,
+    "first_seen": "2026-10-05T02:32:54.806Z",
+    "last_checked": "2026-11-07T16:54:45.044Z"
+  }
+]

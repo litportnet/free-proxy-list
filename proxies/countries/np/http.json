@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "103.167.229.147",
+    "port": 8080,
+    "url": "http://103.167.229.147:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 2062,
+    "latency_median_ms": 3822.5,
+    "uptime_24h": 36.2,
+    "uptime_7d": 23.5,
+    "checks_7d": 387,
+    "exit_ip": "103.167.229.147",
+    "exit_shared": 1,
+    "country": "np",
+    "region": "Sudurpashchim Pradesh",
+    "city": "Ṭikāpur",
+    "timezone": "Asia/Kathmandu",
+    "asn": 140072,
+    "asn_org": "Fiberworld Communication Pvt.ltd",
+    "sources_count": 14,
+    "first_seen": "2025-09-05T20:06:35.157Z",
+    "last_checked": "2026-11-07T16:52:39.160Z"
+  }
+]

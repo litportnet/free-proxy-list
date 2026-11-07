@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10807,
+    "url": "socks5://49.13.22.249:10807",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4768,
+    "latency_median_ms": 2581.5,
+    "uptime_24h": 61.7,
+    "uptime_7d": 51.3,
+    "checks_7d": 633,
+    "exit_ip": "147.90.236.184",
+    "exit_shared": 1,
+    "country": "ch",
+    "region": "Zurich",
+    "city": "Zürich",
+    "timezone": "Europe/Zurich",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 17,
+    "first_seen": "2026-09-22T16:21:33.920Z",
+    "last_checked": "2026-11-07T16:52:35.902Z"
+  }
+]

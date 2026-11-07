@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,770,799.5,91.8,89.5,304,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-07T16:58:45.490Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,2108,2257.5,79.7,78.2,865,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-07T16:50:18.533Z
+http,220.128.223.136,8082,http://220.128.223.136:8082,anonymous,false,9515,891.5,45.3,25.5,220,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,12,2025-09-21T03:42:48.190Z,2026-11-07T16:56:52.022Z
+http,210.201.86.72,8080,http://210.201.86.72:8080,anonymous,false,2176,3730.5,28.6,19.7,183,210.201.86.72,1,tw,Taiwan,Taichung,Asia/Taipei,7482,Asia Pacific On-line Service Inc.,23,2025-09-04T23:49:55.088Z,2026-11-07T16:53:03.030Z
+http,220.128.223.136,8083,http://220.128.223.136:8083,anonymous,false,5036,1056,36.4,17,135,220.128.223.136,2,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,17,2026-02-10T15:56:05.263Z,2026-11-07T16:51:40.644Z
+http,220.134.5.4,8080,http://220.134.5.4:8080,anonymous,false,3825,3882,14.3,3,67,220.134.5.4,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,25,2025-09-13T17:39:50.227Z,2026-11-07T16:58:23.453Z

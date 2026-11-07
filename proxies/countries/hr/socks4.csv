@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,true,857,607,12.5,49,149,217.9.244.86,2,hr,Zagreb,Zagreb,Europe/Zagreb,209854,Cyberzone S.A.,10,2026-06-25T08:39:56.195Z,2026-11-07T16:54:18.929Z

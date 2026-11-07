@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "95.3.92.2",
+    "port": 1080,
+    "url": "socks5://95.3.92.2:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2206,
+    "latency_median_ms": 2095.5,
+    "uptime_24h": 47.3,
+    "uptime_7d": 46.1,
+    "checks_7d": 690,
+    "exit_ip": "95.3.92.2",
+    "exit_shared": 1,
+    "country": "tr",
+    "region": "Istanbul",
+    "city": "Istanbul",
+    "timezone": "Europe/Istanbul",
+    "asn": 9121,
+    "asn_org": "Turk Telekomunikasyon Anonim Sirketi",
+    "sources_count": 15,
+    "first_seen": "2026-09-29T01:23:09.783Z",
+    "last_checked": "2026-11-07T16:59:50.319Z"
+  }
+]

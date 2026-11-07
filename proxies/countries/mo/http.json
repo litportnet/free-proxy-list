@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "27.109.158.122",
+    "port": 80,
+    "url": "http://27.109.158.122:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 834,
+    "latency_median_ms": 973.5,
+    "uptime_24h": 89.2,
+    "uptime_7d": 93.5,
+    "checks_7d": 321,
+    "exit_ip": "27.109.158.122",
+    "exit_shared": 1,
+    "country": "mo",
+    "region": "Macao",
+    "city": "Macau",
+    "timezone": "Asia/Macau",
+    "asn": 4609,
+    "asn_org": "Companhia de Telecomunicacoes de Macau SARL",
+    "sources_count": 3,
+    "first_seen": "2026-04-14T08:16:21.091Z",
+    "last_checked": "2026-11-07T16:49:49.031Z"
+  }
+]

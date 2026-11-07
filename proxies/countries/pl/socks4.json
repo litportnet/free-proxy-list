@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "91.198.166.70",
+    "port": 1080,
+    "url": "socks4://91.198.166.70:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 626,
+    "latency_median_ms": 626,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 3,
+    "exit_ip": "91.198.166.70",
+    "exit_shared": 2,
+    "country": "pl",
+    "region": "Greater Poland",
+    "city": "Poznań",
+    "timezone": "Europe/Warsaw",
+    "asn": 210895,
+    "asn_org": "Podaon SIA",
+    "sources_count": 2,
+    "first_seen": "2026-10-31T12:06:14.549Z",
+    "last_checked": "2026-11-07T16:58:17.324Z"
+  }
+]

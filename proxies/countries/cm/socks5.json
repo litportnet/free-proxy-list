@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "143.105.153.7",
+    "port": 1080,
+    "url": "socks5://143.105.153.7:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3891,
+    "latency_median_ms": 3035,
+    "uptime_24h": 25,
+    "uptime_7d": 32.8,
+    "checks_7d": 497,
+    "exit_ip": "143.105.153.7",
+    "exit_shared": 1,
+    "country": "cm",
+    "region": "Centre",
+    "city": "Yaoundé",
+    "timezone": "Africa/Douala",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 14,
+    "first_seen": "2026-09-18T23:35:10.820Z",
+    "last_checked": "2026-11-07T16:59:05.624Z"
+  }
+]

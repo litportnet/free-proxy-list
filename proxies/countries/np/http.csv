@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.167.229.147,8080,http://103.167.229.147:8080,anonymous,false,2062,3822.5,36.2,23.5,387,103.167.229.147,1,np,Sudurpashchim Pradesh,Ṭikāpur,Asia/Kathmandu,140072,Fiberworld Communication Pvt.ltd,14,2025-09-05T20:06:35.157Z,2026-11-07T16:52:39.160Z

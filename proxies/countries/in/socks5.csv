@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,140.238.243.61,1080,socks5://140.238.243.61:1080,elite,true,1637,1926,100,99.4,1000,140.238.243.61,2,in,Maharashtra,Mumbai,Asia/Kolkata,31898,Oracle Corporation,12,2026-10-28T07:25:46.984Z,2026-11-07T16:50:42.867Z
+socks5,82.180.146.251,10800,socks5://82.180.146.251:10800,elite,true,1475,1717.5,85.6,94.7,956,82.180.146.251,1,in,Maharashtra,Mumbai,Asia/Kolkata,141995,Contabo Asia Private Limited,14,2026-10-26T19:06:43.996Z,2026-11-07T16:57:49.130Z
+socks5,45.74.31.40,5306,socks5://45.74.31.40:5306,elite,true,3079,3537.5,39.8,33.2,449,103.255.134.61,3,in,Assam,Guwahati,Asia/Kolkata,134291,TECHNO FAQ DIGITAL MEDIA,14,2026-09-30T06:38:31.142Z,2026-11-07T16:53:25.771Z
+socks5,45.74.31.47,17099,socks5://45.74.31.47:17099,elite,false,8099,5005.5,28.6,33.1,160,103.255.134.61,3,in,Assam,Guwahati,Asia/Kolkata,134291,TECHNO FAQ DIGITAL MEDIA,10,2026-11-02T13:32:12.226Z,2026-11-07T16:50:38.504Z
+socks5,103.163.244.106,1080,socks5://103.163.244.106:1080,elite,false,4792,3744.5,38.3,26.9,464,103.163.244.106,1,in,Delhi,Delhi,Asia/Kolkata,132746,Infolink System,19,2025-09-05T20:05:58.566Z,2026-11-07T16:50:41.728Z
+socks5,45.74.31.42,17214,socks5://45.74.31.42:17214,elite,false,3430,2655,11.1,12.1,58,103.255.134.61,3,in,Assam,Guwahati,Asia/Kolkata,134291,TECHNO FAQ DIGITAL MEDIA,9,2026-11-03T07:41:45.996Z,2026-11-07T16:54:56.020Z
+socks5,45.74.31.40,8200,socks5://45.74.31.40:8200,elite,true,4516,2071,100,,3,103.171.88.220,1,in,Delhi,Dwarka,Asia/Kolkata,142478,REDGRAPE TECHNOLOGIES PRIVATE LIMITED,6,2026-10-21T13:00:15.195Z,2026-11-07T16:59:19.687Z

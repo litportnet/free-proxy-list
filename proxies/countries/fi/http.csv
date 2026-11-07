@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,525,4716,83.9,95.7,968,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-07T16:57:11.543Z
+http,185.203.6.219,3128,http://185.203.6.219:3128,transparent,true,3040,4879.5,42.7,46,111,185.203.6.219,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,15,2026-11-06T12:22:14.211Z,2026-11-07T16:56:48.742Z
+http,195.66.87.105,3128,http://195.66.87.105:3128,transparent,false,7461,7461,12.5,1.6,62,195.66.87.105,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,12,2026-10-28T19:32:18.381Z,2026-11-07T16:52:36.446Z

@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,false,4774,4641,79.8,77.4,880,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-07T16:58:34.589Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,true,1367,413.5,69.6,65.6,780,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-07T16:50:48.287Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,1568,408,72.4,61.6,743,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-07T16:56:55.249Z
+socks5,2.102.71.177,1080,socks5://2.102.71.177:1080,elite,false,4696,3741.5,41.6,37.8,193,2.102.71.177,1,gb,England,Brighouse,Europe/London,13285,TalkTalk Communications Limited,14,2026-11-01T07:16:15.214Z,2026-11-07T16:52:54.381Z
+socks5,149.248.213.249,9000,socks5://149.248.213.249:9000,elite,false,2873,1272,21.7,23.7,397,79.127.165.77,2,gb,England,London,Europe/London,60068,Datacamp Limited,17,2026-10-15T01:38:33.420Z,2026-11-07T16:49:54.895Z
+http,137.66.23.154,8888,http://137.66.23.154:8888,elite,true,2254,1237,50,,29,79.127.165.77,2,gb,England,London,Europe/London,60068,Datacamp Limited,15,2026-10-10T01:35:23.324Z,2026-11-07T16:55:10.290Z

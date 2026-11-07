@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,93.118.135.176,1080,socks4://93.118.135.176:1080,elite,true,3951,1945.5,57.3,42.4,465,93.118.135.176,1,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,13,2025-11-07T14:11:06.011Z,2026-11-07T16:53:29.563Z

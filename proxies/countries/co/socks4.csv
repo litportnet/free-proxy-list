@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,201.184.239.75,5678,socks4://201.184.239.75:5678,elite,true,429,1495,68.9,66.6,614,201.184.239.75,1,co,Antioquia,Medellín,America/Bogota,13489,UNE EPM TELECOMUNICACIONES S.A.,14,2025-09-04T23:49:03.706Z,2026-11-07T16:51:37.930Z
+socks4,181.204.39.202,53740,socks4://181.204.39.202:53740,elite,false,3546,1518,60.4,63.7,773,181.204.39.202,1,co,Santander Department,Bucaramanga,America/Bogota,13489,UNE EPM TELECOMUNICACIONES S.A.,21,2025-10-15T10:35:41.640Z,2026-11-07T16:56:40.007Z
+socks4,177.253.136.162,5678,socks4://177.253.136.162:5678,elite,true,485,494.5,57.7,45.3,506,177.253.136.162,1,co,Antioquia,Medellín,America/Bogota,13489,UNE EPM TELECOMUNICACIONES S.A.,22,2026-07-04T18:38:40.783Z,2026-11-07T16:54:08.525Z

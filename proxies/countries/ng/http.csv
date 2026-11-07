@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.90.0.149,8080,http://102.90.0.149:8080,anonymous,false,3461,4012,41,35.1,573,102.90.0.149,1,ng,Akwa Ibom State,Eket,Africa/Lagos,29465,MTN NIGERIA Communication limited,15,2026-09-03T05:48:46.627Z,2026-11-07T16:54:33.083Z

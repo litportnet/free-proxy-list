@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,91.198.166.70,1080,socks5://91.198.166.70:1080,elite,true,716,772,100,,3,91.198.166.70,2,pl,Greater Poland,Poznań,Europe/Warsaw,210895,Podaon SIA,1,2026-10-31T12:06:13.850Z,2026-11-07T16:59:21.862Z

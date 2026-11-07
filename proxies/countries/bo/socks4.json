@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "190.104.26.227",
+    "port": 33638,
+    "url": "socks4://190.104.26.227:33638",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1686,
+    "latency_median_ms": 1708.5,
+    "uptime_24h": 55.5,
+    "uptime_7d": 53,
+    "checks_7d": 675,
+    "exit_ip": "190.104.26.227",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "La Paz Department",
+    "city": "La Paz",
+    "timezone": "America/La_Paz",
+    "asn": 27882,
+    "asn_org": "Telefónica Celular de Bolivia S.A.",
+    "sources_count": 22,
+    "first_seen": "2025-09-04T23:49:14.390Z",
+    "last_checked": "2026-11-07T16:51:19.076Z"
+  }
+]

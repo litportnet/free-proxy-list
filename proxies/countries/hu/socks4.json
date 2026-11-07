@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "91.147.235.162",
+    "port": 4153,
+    "url": "socks4://91.147.235.162:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1958,
+    "latency_median_ms": 1862,
+    "uptime_24h": 48.8,
+    "uptime_7d": 45.5,
+    "checks_7d": 543,
+    "exit_ip": "91.147.235.162",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Hajdú-Bihar",
+    "city": "Debrecen",
+    "timezone": "Europe/Budapest",
+    "asn": 5483,
+    "asn_org": "Magyar Telekom Plc.",
+    "sources_count": 14,
+    "first_seen": "2025-10-26T21:46:56.038Z",
+    "last_checked": "2026-11-07T16:50:22.874Z"
+  }
+]

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,58.247.113.130,5678,socks4://58.247.113.130:5678,elite,true,1218,1980.5,70.2,72.4,765,58.247.113.130,1,cn,Shanghai,Shanghai,Asia/Shanghai,17621,China Unicom Shanghai network,12,2025-09-05T20:06:35.264Z,2026-11-07T16:59:21.324Z
+socks4,183.6.57.161,5678,socks4://183.6.57.161:5678,elite,true,6177,2142,73,71.7,830,183.6.57.161,1,cn,Guangdong,Guangzhou,Asia/Shanghai,4134,CHINANET BACKBONE,12,2025-09-04T23:49:05.298Z,2026-11-07T16:59:00.194Z
+socks4,58.18.39.58,10800,socks4://58.18.39.58:10800,elite,true,2973,3688,35.4,52.8,724,58.18.39.58,1,cn,Inner Mongolia,Hohhot,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,21,2025-09-04T23:48:58.967Z,2026-11-07T16:49:08.675Z
+socks4,218.91.230.253,1080,socks4://218.91.230.253:1080,elite,true,8366,2780,56.9,47.1,681,218.91.230.253,1,cn,Shanghai,Shanghai,Asia/Shanghai,131325,CHINATELECOM JIANGSU province NANTONG MAN network,12,2025-09-05T20:06:36.132Z,2026-11-07T16:54:19.474Z

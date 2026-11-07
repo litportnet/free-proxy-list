@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,124.105.55.176,30906,socks4://124.105.55.176:30906,elite,true,4197,4160,59.1,58.6,768,124.105.55.176,1,ph,National Capital Region,Pasay,Asia/Manila,9299,Philippine Long Distance Telephone Company,14,2025-09-04T23:49:04.227Z,2026-11-07T16:54:16.678Z
+socks4,180.191.22.50,4153,socks4://180.191.22.50:4153,elite,true,8245,3996,59.6,50.2,669,180.191.22.50,1,ph,Central Luzon,San Jose del Monte,Asia/Manila,132199,Globe Telecom Inc.,14,2025-09-04T23:48:58.112Z,2026-11-07T16:56:51.474Z

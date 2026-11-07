@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "134.249.128.111",
+    "port": 1080,
+    "url": "socks4://134.249.128.111:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1782,
+    "latency_median_ms": 858.5,
+    "uptime_24h": 40.6,
+    "uptime_7d": 41.4,
+    "checks_7d": 425,
+    "exit_ip": "134.249.128.111",
+    "exit_shared": 1,
+    "country": "ua",
+    "region": "Dnipropetrovsk",
+    "city": "Kryvyy Rih",
+    "timezone": "Europe/Kyiv",
+    "asn": 15895,
+    "asn_org": "\"Kyivstar\" PJSC",
+    "sources_count": 12,
+    "first_seen": "2025-09-05T20:06:34.603Z",
+    "last_checked": "2026-11-07T16:55:09.734Z"
+  }
+]

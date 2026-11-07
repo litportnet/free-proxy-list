@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,true,1755,1245,76.9,73.4,657,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-07T16:57:41.419Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,4133,714.5,72.2,61.2,739,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-11-07T16:51:08.233Z
+socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,false,741,711.5,55.5,40.3,499,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,14,2025-09-04T23:49:06.550Z,2026-11-07T16:58:21.182Z
+socks5,31.211.142.115,8192,socks5://31.211.142.115:8192,elite,false,863,1884,37.5,37.4,589,31.211.142.115,1,bg,Pleven,Pleven,Europe/Sofia,197897,5KOM OOD,22,2025-09-04T23:48:55.053Z,2026-11-07T16:58:19.528Z
+http,213.169.33.8,8001,http://213.169.33.8:8001,anonymous,false,3638,5212.5,37.7,32,557,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:34.421Z,2026-11-07T16:54:04.782Z

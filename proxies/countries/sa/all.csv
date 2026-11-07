@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,130.110.103.245,3128,http://130.110.103.245:3128,anonymous,true,747,773,99.3,99.4,998,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,22,2026-08-06T11:36:30.247Z,2026-11-07T16:50:34.682Z
+http,172.65.90.47,80,http://172.65.90.47:80,transparent,false,747,745,100,98.8,337,172.69.103.148,1,sa,Mecca Region,Jeddah,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-14T23:38:12.602Z,2026-11-07T16:58:05.535Z
+http,172.65.90.46,80,http://172.65.90.46:80,transparent,false,845,756,100,98.8,335,172.68.97.148,1,sa,Riyadh Region,Riyadh,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-15T04:33:23.028Z,2026-11-07T16:58:10.646Z
+http,149.104.94.47,8080,http://149.104.94.47:8080,elite,true,699,852.5,77.1,78.9,128,149.104.94.47,1,sa,Mecca Region,Jeddah,Asia/Riyadh,154177,LIGHT NODE LIMITED,15,2026-11-06T15:23:47.444Z,2026-11-07T16:55:31.047Z

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,6776,5741,68.3,72.6,814,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-07T16:54:47.211Z
+socks5,176.62.237.51,1080,socks5://176.62.237.51:1080,elite,true,4103,2444,57.3,59.2,152,176.62.237.51,1,cz,South Bohemian Region,Vlachovo Březí,Europe/Prague,49985,IP4ISP z.s.p.o,14,2026-11-06T06:18:58.776Z,2026-11-07T16:51:33.667Z
+socks5,188.120.203.191,1080,socks5://188.120.203.191:1080,elite,false,891,3193,41.7,41.7,60,188.120.203.191,1,cz,Central Bohemia,Benešov,Europe/Prague,49985,IP4ISP z.s.p.o,13,2026-11-06T22:27:35.385Z,2026-11-07T16:56:31.934Z
+http,217.16.183.148,8080,http://217.16.183.148:8080,elite,false,1257,1655.5,100,,4,217.16.183.148,1,cz,Prague,Prague,Europe/Prague,43541,VSHosting s.r.o.,3,2026-11-06T15:23:47.444Z,2026-11-07T16:53:51.257Z

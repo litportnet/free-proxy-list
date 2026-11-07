@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "84.255.40.228",
+    "port": 8998,
+    "url": "http://84.255.40.228:8998",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 5129,
+    "latency_median_ms": 2476.5,
+    "uptime_24h": 21.7,
+    "uptime_7d": 37.5,
+    "checks_7d": 533,
+    "exit_ip": "84.255.40.228",
+    "exit_shared": 1,
+    "country": "mt",
+    "region": "Saint Paul’s Bay",
+    "city": "San Pawl il-Baħar",
+    "timezone": "Europe/Malta",
+    "asn": 12709,
+    "asn_org": "Melita Limited",
+    "sources_count": 18,
+    "first_seen": "2025-09-05T00:24:10.314Z",
+    "last_checked": "2026-11-07T16:59:44.779Z"
+  }
+]

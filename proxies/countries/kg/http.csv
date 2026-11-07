@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,31.192.248.55,8080,http://31.192.248.55:8080,elite,false,1981,1971.5,30.7,32.4,552,31.192.248.55,1,kg,Chuy Region,Kant,Asia/Bishkek,8449,ElCat Ltd.,17,2026-06-07T07:49:32.622Z,2026-11-07T16:52:02.393Z

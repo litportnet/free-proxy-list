@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,93.184.7.26,1080,socks4://93.184.7.26:1080,elite,false,3831,3789,35.8,26.4,375,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,15,2025-09-04T23:48:57.645Z,2026-11-07T16:51:36.858Z

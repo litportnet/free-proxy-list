@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.4.95.90,1080,socks5://103.4.95.90:1080,elite,true,4547,2667.5,37.5,45.1,665,103.4.95.90,1,pk,Punjab,Lahore,Asia/Karachi,45773,"PERN AS Content Servie Provider, Islamabad, Pakistan",15,2026-10-19T06:31:42.799Z,2026-11-07T16:54:09.614Z
+socks5,202.142.153.220,1080,socks5://202.142.153.220:1080,elite,false,2063,2338,28.4,34.7,565,202.142.153.220,1,pk,Punjab,Lahore,Asia/Karachi,23750,GERRYS INFORMATION TECHNOLOGY PVT LTD.,15,2026-10-03T21:17:43.854Z,2026-11-07T16:52:38.619Z
+socks5,182.184.30.96,1080,socks5://182.184.30.96:1080,elite,false,3129,2897.5,34.2,31.6,585,182.184.30.96,1,pk,Punjab,Lahore,Asia/Karachi,17557,Pakistan Telecommunication Company Limited,15,2026-09-27T16:05:38.324Z,2026-11-07T16:55:13.035Z

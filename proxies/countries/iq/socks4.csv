@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,62.201.212.198,4673,socks4://62.201.212.198:4673,elite,false,869,1142.5,55.5,53.7,697,62.201.212.198,1,iq,Sulaymaniyah,Sulaymaniyah,Asia/Baghdad,44217,IQ Networks for Data and Internet Services Ltd,14,2025-09-04T23:49:07.825Z,2026-11-07T16:53:18.187Z
+socks4,109.224.12.170,52015,socks4://109.224.12.170:52015,elite,false,4042,1973.5,49.5,47.8,622,109.224.12.170,1,iq,Baghdad,Baghdad,Asia/Baghdad,203214,Hulum Almustakbal Company for Communication Engineering and Services Ltd,23,2025-09-04T23:48:53.449Z,2026-11-07T16:53:40.369Z

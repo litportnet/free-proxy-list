@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,195.13.182.211,8080,socks4://195.13.182.211:8080,elite,false,2632,2007,49.5,52.9,386,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,10,2026-10-07T10:02:02.238Z,2026-11-07T16:54:26.557Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,143.198.239.45,10015,socks5://143.198.239.45:10015,elite,true,1625,4581,81.2,81.2,154,185.225.69.222,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,1,2026-10-23T09:24:03.550Z,2026-11-07T16:58:46.592Z
+socks4,91.147.235.162,4153,socks4://91.147.235.162:4153,elite,true,1958,1862,48.8,45.5,543,91.147.235.162,1,hu,Hajdú-Bihar,Debrecen,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-10-26T21:46:56.038Z,2026-11-07T16:50:22.874Z

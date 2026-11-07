@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,122.102.52.24,1083,socks5://122.102.52.24:1083,elite,true,1756,1670,94.1,95.8,240,122.102.52.24,6,id,Jakarta,Jakarta,Asia/Jakarta,38274,PT. Megaxus Infotech,14,2026-11-05T23:15:21.696Z,2026-11-07T16:50:55.868Z
+socks5,122.102.52.24,1080,socks5://122.102.52.24:1080,elite,true,1522,1562,94.1,86.8,379,122.102.52.24,6,id,Jakarta,Jakarta,Asia/Jakarta,38274,PT. Megaxus Infotech,14,2026-11-03T05:40:48.680Z,2026-11-07T16:54:06.924Z
+socks5,122.102.52.24,1081,socks5://122.102.52.24:1081,elite,true,1543,1567,87.5,64.5,141,122.102.52.24,6,id,Jakarta,Jakarta,Asia/Jakarta,38274,PT. Megaxus Infotech,13,2026-11-02T16:33:51.137Z,2026-11-07T16:58:22.299Z
+socks5,103.52.114.199,1080,socks5://103.52.114.199:1080,elite,false,9116,3277.5,51,49.7,169,103.52.114.199,1,id,Jakarta,Jakarta,Asia/Jakarta,136052,PT Cloud Hosting Indonesia,13,2026-11-05T23:15:14.785Z,2026-11-07T16:53:21.924Z
+socks5,103.174.122.197,8199,socks5://103.174.122.197:8199,elite,false,2724,2627.5,29.3,37.5,608,103.174.122.206,1,id,West Java,Sumedang,Asia/Jakarta,147096,PT Jaya Sejahtra Nugraha,1,2026-03-17T17:23:28.313Z,2026-11-07T16:55:03.700Z
+socks5,202.43.165.140,10802,socks5://202.43.165.140:10802,elite,true,4631,3046.5,38.9,25.4,469,202.43.165.140,1,id,Jakarta,Jakarta,Asia/Jakarta,18059,DTPNET NAP,18,2026-05-13T23:34:54.945Z,2026-11-07T16:53:19.217Z
+socks5,103.112.139.110,1080,socks5://103.112.139.110:1080,elite,false,1908,4188,34.3,,35,103.112.139.110,1,id,Jakarta,Jakarta,Asia/Jakarta,151581,PT Power Networking Indonesia,5,2026-11-07T07:32:20.950Z,2026-11-07T16:53:25.784Z
+socks5,45.74.31.40,9456,socks5://45.74.31.40:9456,elite,true,8096,3680,100,,10,103.190.47.9,1,id,Bali,Denpasar,Asia/Makassar,9341,PT INDONESIA COMNETS PLUS,15,2026-09-16T13:23:31.256Z,2026-11-07T16:51:06.575Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10805,
+    "url": "socks5://65.21.252.66:10805",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1118,
+    "latency_median_ms": 1216.5,
+    "uptime_24h": 81.7,
+    "uptime_7d": 73.6,
+    "checks_7d": 724,
+    "exit_ip": "31.169.53.13",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Oslo",
+    "city": "Oslo",
+    "timezone": "Europe/Oslo",
+    "asn": 50304,
+    "asn_org": "Blix Solutions AS",
+    "sources_count": 17,
+    "first_seen": "2026-09-21T21:11:29.587Z",
+    "last_checked": "2026-11-07T16:53:05.717Z"
+  }
+]

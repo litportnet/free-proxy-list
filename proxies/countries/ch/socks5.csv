@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,4768,2581.5,61.7,51.3,633,147.90.236.184,1,ch,Zurich,Zürich,Europe/Zurich,212238,Datacamp Limited,17,2026-09-22T16:21:33.920Z,2026-11-07T16:52:35.902Z

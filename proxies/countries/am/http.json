@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "45.133.107.192",
+    "port": 81,
+    "url": "http://45.133.107.192:81",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 1377,
+    "latency_median_ms": 4079.5,
+    "uptime_24h": 13,
+    "uptime_7d": 15.7,
+    "checks_7d": 235,
+    "exit_ip": "45.133.107.234",
+    "exit_shared": 1,
+    "country": "am",
+    "region": "Yerevan",
+    "city": "Yerevan",
+    "timezone": "Asia/Yerevan",
+    "asn": 216086,
+    "asn_org": "ART-NET LLC",
+    "sources_count": 15,
+    "first_seen": "2025-09-15T03:25:47.260Z",
+    "last_checked": "2026-11-07T16:57:04.480Z"
+  }
+]

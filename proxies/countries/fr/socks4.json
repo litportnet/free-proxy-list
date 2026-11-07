@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "37.18.73.60",
+    "port": 5566,
+    "url": "socks4://37.18.73.60:5566",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1146,
+    "latency_median_ms": 1314,
+    "uptime_24h": 94.9,
+    "uptime_7d": 94,
+    "checks_7d": 961,
+    "exit_ip": "203.55.81.2",
+    "exit_shared": 1,
+    "country": "fr",
+    "region": "Île-de-France",
+    "city": "Nanterre",
+    "timezone": "Europe/Paris",
+    "asn": 213873,
+    "asn_org": "OUIDO Hosting",
+    "sources_count": 12,
+    "first_seen": "2025-09-10T19:33:55.836Z",
+    "last_checked": "2026-11-07T16:53:20.301Z"
+  }
+]

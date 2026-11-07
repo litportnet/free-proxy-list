@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,562,550.5,87.4,90.1,365,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-07T16:55:26.674Z
+http,212.127.95.235,8081,http://212.127.95.235:8081,elite,false,552,551,87.4,89.7,367,212.127.95.235,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,9,2025-09-10T19:34:32.015Z,2026-11-07T16:55:41.402Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,564,527.5,87,89.7,369,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-07T16:56:46.007Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,573,543.5,87.4,88.6,297,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-07T16:50:38.496Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,517,559,86.9,88.1,268,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-07T16:50:01.885Z
+http,78.9.234.55,8080,http://78.9.234.55:8080,anonymous,false,7122,4486.5,15.9,14.8,311,78.9.234.55,1,pl,West Pomerania,Świnoujście,Europe/Warsaw,12741,Netia SA,25,2025-09-05T20:06:36.697Z,2026-11-07T16:51:49.435Z
+socks4,91.198.166.70,1080,socks4://91.198.166.70:1080,elite,true,626,626,100,,3,91.198.166.70,2,pl,Greater Poland,Poznań,Europe/Warsaw,210895,Podaon SIA,2,2026-10-31T12:06:14.549Z,2026-11-07T16:58:17.324Z
+socks5,91.198.166.70,1080,socks5://91.198.166.70:1080,elite,true,716,772,100,,3,91.198.166.70,2,pl,Greater Poland,Poznań,Europe/Warsaw,210895,Podaon SIA,1,2026-10-31T12:06:13.850Z,2026-11-07T16:59:21.862Z

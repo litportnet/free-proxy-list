@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "102.64.116.97",
+    "port": 4145,
+    "url": "socks4://102.64.116.97:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2132,
+    "latency_median_ms": 2097,
+    "uptime_24h": 26.4,
+    "uptime_7d": 14.7,
+    "checks_7d": 190,
+    "exit_ip": "102.129.89.170",
+    "exit_shared": 1,
+    "country": "cg",
+    "region": "Brazzaville",
+    "city": "Brazzaville",
+    "timezone": "Africa/Brazzaville",
+    "asn": 37451,
+    "asn_org": "CONGO TELECOM",
+    "sources_count": 12,
+    "first_seen": "2025-09-04T23:49:01.199Z",
+    "last_checked": "2026-11-07T16:58:14.018Z"
+  }
+]

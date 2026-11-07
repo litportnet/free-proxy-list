@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,165.225.66.38,11588,http://165.225.66.38:11588,elite,false,1361,997,100,100,110,165.225.67.37,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,2,2026-10-28T04:24:17.864Z,2026-11-07T16:56:17.860Z
+http,16.63.207.85,80,http://16.63.207.85:80,elite,false,503,504.5,100,99,409,162.158.217.40,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",3,2025-12-30T01:00:13.793Z,2026-11-07T16:59:18.061Z
+http,165.225.66.42,11589,http://165.225.66.42:11589,elite,false,1172,1138.5,100,98.5,971,165.225.67.23,2,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,18,2026-09-26T21:55:51.962Z,2026-11-07T16:58:14.003Z
+http,165.225.66.42,11588,http://165.225.66.42:11588,elite,false,701,1162.5,99.3,98.3,969,165.225.67.23,2,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,18,2026-09-28T05:12:18.632Z,2026-11-07T16:58:25.641Z
+http,217.162.8.134,80,http://217.162.8.134:80,elite,false,4553,2591.5,66,75.8,809,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-11-07T16:55:41.410Z
+http,165.225.66.43,11588,http://165.225.66.43:11588,elite,false,889,878,100,74.4,172,165.225.67.31,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,15,2026-10-28T06:25:20.587Z,2026-11-07T16:59:18.596Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,1825,3762,73.5,69.8,819,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-11-07T16:59:15.356Z
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,4768,2581.5,61.7,51.3,633,147.90.236.184,1,ch,Zurich,Zürich,Europe/Zurich,212238,Datacamp Limited,17,2026-09-22T16:21:33.920Z,2026-11-07T16:52:35.902Z
+socks4,195.225.116.14,4145,socks4://195.225.116.14:4145,elite,false,1577,1085,32.1,29.4,504,195.225.116.14,1,ch,Zurich,Wädenswil,Europe/Zurich,48971,DATAWIRE AG,22,2026-07-04T21:40:46.867Z,2026-11-07T16:52:53.314Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,1004,1468,89.2,90.1,930,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,18,2026-03-22T05:21:02.311Z,2026-11-07T16:55:55.047Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,1669,2527,57.8,52.4,626,104.234.140.34,1,jp,Tokyo,Tokyo,Asia/Tokyo,396356,Latitude.sh,18,2026-09-16T03:18:05.440Z,2026-11-07T16:58:48.260Z
+socks5,152.69.202.88,1080,socks5://152.69.202.88:1080,elite,false,5034,5588.5,19.6,16.4,347,152.69.202.88,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,14,2026-10-20T01:41:50.415Z,2026-11-07T16:59:11.572Z
+socks5,138.3.218.141,54261,socks5://138.3.218.141:54261,elite,false,1325,4783.5,28.6,10.3,126,138.3.218.141,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,18,2025-09-07T15:55:43.129Z,2026-11-07T16:51:03.915Z
+socks5,103.86.44.77,30002,socks5://103.86.44.77:30002,elite,false,8712,4455,35,,42,49.96.72.165,1,jp,Tokyo,Tokyo,Asia/Tokyo,9605,"NTT DOCOMO, INC.",12,2026-11-03T20:48:45.337Z,2026-11-07T16:55:35.978Z

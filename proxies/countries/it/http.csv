@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,573,581,100,99.8,1005,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-07T16:52:39.144Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,1908,1992,84,75.4,829,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-07T16:54:39.097Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,3101,4606,46.8,39.1,619,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-07T16:51:27.149Z
+http,85.208.200.185,8081,http://85.208.200.185:8081,anonymous,false,490,2345.5,29.6,20.8,403,195.36.26.60,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2025-09-05T00:23:14.484Z,2026-11-07T16:56:28.146Z
+http,78.134.20.48,8080,http://78.134.20.48:8080,anonymous,false,1691,3918.5,24.1,16.5,279,78.134.20.48,1,it,Tuscany,Pitigliano,Europe/Rome,35612,EOLO S.p.A.,24,2025-09-11T19:14:01.392Z,2026-11-07T16:57:10.437Z
