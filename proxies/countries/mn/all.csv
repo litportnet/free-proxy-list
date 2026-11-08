@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,1055,1110.5,38.4,42.9,352,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-11-07T04:31:11.880Z
-http,202.21.124.132,1011,http://202.21.124.132:1011,anonymous,true,1884,1887,28.6,33.9,369,202.21.124.129,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9484,Mobinet LLC. AS Mobinet Internet Service Provider,23,2026-09-19T02:37:14.782Z,2026-11-07T04:23:08.504Z
-socks4,203.174.26.141,4153,socks4://203.174.26.141:4153,elite,false,4115,3111,31.5,25.6,453,180.149.95.214,2,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,13,2026-02-18T16:38:33.200Z,2026-11-07T04:27:37.376Z
-socks4,203.174.26.137,4153,socks4://203.174.26.137:4153,elite,false,8133,4091,30.6,23.6,504,180.149.95.214,2,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,14,2025-09-04T23:49:08.113Z,2026-11-07T04:23:46.883Z

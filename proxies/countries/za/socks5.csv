@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,3107,2566,34.7,29.2,277,129.232.176.170,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37153,Xneelo (Pty) Ltd,18,2026-09-18T12:48:20.513Z,2026-11-07T04:24:28.535Z
+socks5,102.36.127.249,1080,socks5://102.36.127.249:1080,elite,false,1468,3041,22.7,25,404,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,19,2026-08-19T21:44:21.763Z,2026-11-08T04:21:16.585Z

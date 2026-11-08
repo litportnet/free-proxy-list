@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,92.86.207.198,8080,http://92.86.207.198:8080,anonymous,false,4454,3973,27,29.4,588,92.86.207.198,1,ro,Dâmbovița County,Târgovişte,Europe/Bucharest,9050,Orange Romania S.A.,25,2025-09-05T20:06:33.735Z,2026-11-07T04:24:23.160Z
+http,92.86.207.198,8080,http://92.86.207.198:8080,anonymous,false,1734,2720,32.3,30,596,92.86.207.198,1,ro,Dâmbovița County,Târgovişte,Europe/Bucharest,9050,Orange Romania S.A.,25,2025-09-05T20:06:33.735Z,2026-11-08T04:22:48.625Z

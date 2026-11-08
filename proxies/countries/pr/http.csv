@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,7179,3962.5,50,40.4,664,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-07T04:27:32.537Z
-http,192.203.0.166,999,http://192.203.0.166:999,anonymous,false,5319,4067.5,27.8,28,432,192.203.0.166,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,22,2025-09-05T23:19:59.349Z,2026-11-07T04:31:32.944Z
-http,192.203.0.250,999,http://192.203.0.250:999,anonymous,false,293,1961.5,31.2,27.3,516,192.203.0.250,1,pr,Luquillo,Luquillo,America/Puerto_Rico,63393,BOOM NET,23,2025-09-05T20:06:32.624Z,2026-11-07T04:29:57.828Z
+http,192.92.193.18,999,http://192.92.193.18:999,anonymous,false,3980,2532.5,40.4,46.4,687,192.92.193.18,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,17,2026-08-27T12:22:09.816Z,2026-11-08T04:20:20.841Z
+http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,545,1500,40.4,41.5,663,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-08T04:22:43.795Z
+http,192.203.0.70,999,http://192.203.0.70:999,anonymous,false,5304,4002.5,23.1,24.3,478,192.203.0.70,1,pr,Yabucoa,Yabucoa,America/Puerto_Rico,63393,BOOM NET,13,2025-09-05T20:06:33.026Z,2026-11-08T04:28:12.849Z

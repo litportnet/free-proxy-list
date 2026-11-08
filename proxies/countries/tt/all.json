@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "79.127.223.58",
+    "port": 21713,
+    "url": "http://79.127.223.58:21713",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3656,
+    "latency_median_ms": 6311.5,
+    "uptime_24h": 30.4,
+    "uptime_7d": 30.4,
+    "checks_7d": 56,
+    "exit_ip": "161.0.156.178",
+    "exit_shared": 1,
+    "country": "tt",
+    "region": "San Juan/Laventille",
+    "city": "Laventille",
+    "timezone": "America/Port_of_Spain",
+    "asn": 27800,
+    "asn_org": "Digicel Trinidad and Tobago Ltd.",
+    "sources_count": 11,
+    "first_seen": "2026-11-07T17:37:36.921Z",
+    "last_checked": "2026-11-08T04:20:05.726Z"
+  }
+]

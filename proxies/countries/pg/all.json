@@ -6,11 +6,11 @@
     "url": "http://103.99.175.54:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2163,
-    "latency_median_ms": 1159,
-    "uptime_24h": 98.6,
-    "uptime_7d": 97.6,
-    "checks_7d": 332,
+    "latency_ms": 1109,
+    "latency_median_ms": 1158,
+    "uptime_24h": 97.9,
+    "uptime_7d": 97.9,
+    "checks_7d": 471,
     "exit_ip": "202.165.193.140",
     "exit_shared": 1,
     "country": "pg",
@@ -21,6 +21,6 @@
     "asn_org": "PNG DATACO LTD",
     "sources_count": 3,
     "first_seen": "2026-09-09T21:22:41.910Z",
-    "last_checked": "2026-11-07T04:33:22.215Z"
+    "last_checked": "2026-11-08T04:26:14.856Z"
   }
 ]

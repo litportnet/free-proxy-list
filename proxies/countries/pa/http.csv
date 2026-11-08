@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.73.227.202,999,http://186.73.227.202:999,anonymous,true,452,1728,37,29.1,457,201.224.117.14,1,pa,Panamá,San Miguelito,America/Panama,11556,Cable & Wireless Panama,26,2026-07-25T04:59:53.045Z,2026-11-07T04:24:39.881Z

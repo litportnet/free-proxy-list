@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,95.214.9.21,1080,socks5://95.214.9.21:1080,elite,true,773,747,75.6,75.6,78,95.214.9.21,1,fi,Uusimaa,Helsinki,Europe/Helsinki,204339,FIRST SERVER LIMITED,12,2026-10-11T16:56:06.397Z,2026-11-07T04:23:29.046Z
-socks5,31.76.102.22,1080,socks5://31.76.102.22:1080,elite,true,2250,2136.5,57.4,57.4,61,31.76.102.22,1,fi,Uusimaa,Helsinki,Europe/Helsinki,201988,VPSPay ASN,11,2026-11-06T08:20:04.257Z,2026-11-07T04:26:30.715Z
+socks5,82.40.57.49,1081,socks5://82.40.57.49:1081,elite,false,2482,4713,32.6,34.7,127,82.40.57.49,1,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,15,2026-11-06T16:24:20.541Z,2026-11-08T04:23:12.310Z

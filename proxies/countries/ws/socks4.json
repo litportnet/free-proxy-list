@@ -5,12 +5,12 @@
     "port": 57833,
     "url": "socks4://202.87.210.20:57833",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1160,
-    "latency_median_ms": 2181.5,
-    "uptime_24h": 47.9,
-    "uptime_7d": 42.7,
-    "checks_7d": 698,
+    "https": true,
+    "latency_ms": 4195,
+    "latency_median_ms": 3193,
+    "uptime_24h": 43.1,
+    "uptime_7d": 43.8,
+    "checks_7d": 696,
     "exit_ip": "202.87.210.20",
     "exit_shared": 1,
     "country": "ws",
@@ -21,6 +21,6 @@
     "asn_org": "Digicel Samoa Ltd",
     "sources_count": 13,
     "first_seen": "2026-02-23T07:37:28.712Z",
-    "last_checked": "2026-11-07T04:26:27.471Z"
+    "last_checked": "2026-11-08T04:20:00.865Z"
   }
 ]

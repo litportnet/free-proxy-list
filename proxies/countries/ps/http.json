@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "213.6.249.37",
+    "port": 19000,
+    "url": "http://213.6.249.37:19000",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 2971,
+    "latency_median_ms": 3438,
+    "uptime_24h": 31.5,
+    "uptime_7d": 35.2,
+    "checks_7d": 583,
+    "exit_ip": "188.161.40.207",
+    "exit_shared": 1,
+    "country": "ps",
+    "region": "West Bank",
+    "city": "Nablus",
+    "timezone": "Asia/Hebron",
+    "asn": 12975,
+    "asn_org": "PALTEL Autonomous System",
+    "sources_count": 14,
+    "first_seen": "2026-05-27T03:23:13.655Z",
+    "last_checked": "2026-11-08T04:23:18.155Z"
+  }
+]

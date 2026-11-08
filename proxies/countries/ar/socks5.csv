@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,3260,1780.5,66.7,69.7,661,149.22.83.53,1,ar,Buenos Aires F.D.,Buenos Aires,America/Argentina/Buenos_Aires,212238,Datacamp Limited,19,2026-09-20T17:57:13.183Z,2026-11-07T04:23:36.076Z
+socks5,45.169.106.140,1086,socks5://45.169.106.140:1086,elite,false,2456,4511.5,35.8,35.3,309,45.169.106.140,1,ar,Cordoba,Córdoba,America/Argentina/Cordoba,267764,VOS SRL,9,2026-11-04T04:52:59.989Z,2026-11-08T04:29:55.882Z

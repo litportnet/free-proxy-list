@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "129.222.108.201",
+    "port": 1080,
+    "url": "socks5://129.222.108.201:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1866,
+    "latency_median_ms": 2921,
+    "uptime_24h": 34.9,
+    "uptime_7d": 26.6,
+    "checks_7d": 398,
+    "exit_ip": "129.222.108.201",
+    "exit_shared": 1,
+    "country": "mg",
+    "region": "Analamanga",
+    "city": "Antananarivo",
+    "timezone": "Indian/Antananarivo",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 14,
+    "first_seen": "2026-10-30T21:58:43.027Z",
+    "last_checked": "2026-11-08T04:24:13.461Z"
+  }
+]

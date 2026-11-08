@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.153.143.77,1080,socks4://43.153.143.77:1080,elite,true,1185,781,73.6,73.6,53,43.153.143.77,2,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",9,2026-08-17T18:59:05.964Z,2026-11-07T04:28:53.196Z
+socks4,132.226.7.23,30277,socks4://132.226.7.23:30277,elite,false,8873,6570,15.4,6.5,62,132.226.7.23,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,9,2025-09-10T21:05:13.307Z,2026-11-08T04:25:57.647Z

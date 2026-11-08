@@ -6,11 +6,11 @@
     "url": "http://194.150.110.134:80",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 498,
-    "latency_median_ms": 3452,
-    "uptime_24h": 84,
-    "uptime_7d": 79.9,
-    "checks_7d": 882,
+    "latency_ms": 467,
+    "latency_median_ms": 480,
+    "uptime_24h": 86.1,
+    "uptime_7d": 81,
+    "checks_7d": 875,
     "exit_ip": "194.150.110.70",
     "exit_shared": 1,
     "country": "dk",
@@ -21,6 +21,6 @@
     "asn_org": "Rackhosting.com ApS",
     "sources_count": 17,
     "first_seen": "2025-09-06T05:36:00.329Z",
-    "last_checked": "2026-11-07T04:32:53.668Z"
+    "last_checked": "2026-11-08T04:29:13.776Z"
   }
 ]

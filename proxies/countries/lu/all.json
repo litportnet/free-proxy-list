@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "185.171.202.170",
+    "port": 9150,
+    "url": "socks4://185.171.202.170:9150",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1656,
+    "latency_median_ms": 1561,
+    "uptime_24h": 25,
+    "uptime_7d": 3,
+    "checks_7d": 66,
+    "exit_ip": "104.244.72.132",
+    "exit_shared": 1,
+    "country": "lu",
+    "region": "Mersch",
+    "city": "Bissen",
+    "timezone": "Europe/Luxembourg",
+    "asn": 53667,
+    "asn_org": "FranTech Solutions",
+    "sources_count": 12,
+    "first_seen": "2026-07-20T21:07:44.578Z",
+    "last_checked": "2026-11-08T04:19:28.555Z"
+  }
+]

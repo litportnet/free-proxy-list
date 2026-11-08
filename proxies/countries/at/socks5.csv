@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,158.101.8.92,1080,socks5://158.101.8.92:1080,elite,true,2085,1609,41.8,38.3,671,109.70.100.7,1,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,16,2026-03-29T05:50:34.027Z,2026-11-07T04:23:41.950Z

@@ -6,11 +6,11 @@
     "url": "http://196.1.97.198:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 724,
-    "latency_median_ms": 946,
-    "uptime_24h": 93.3,
-    "uptime_7d": 87.5,
-    "checks_7d": 941,
+    "latency_ms": 745,
+    "latency_median_ms": 724,
+    "uptime_24h": 94.9,
+    "uptime_7d": 88.9,
+    "checks_7d": 940,
     "exit_ip": "196.1.97.198",
     "exit_shared": 1,
     "country": "sn",
@@ -21,7 +21,7 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 19,
     "first_seen": "2025-12-06T18:03:11.613Z",
-    "last_checked": "2026-11-07T04:33:13.742Z"
+    "last_checked": "2026-11-08T04:19:46.295Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://154.65.39.8:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 670,
-    "latency_median_ms": 1059.5,
-    "uptime_24h": 86.9,
-    "uptime_7d": 85.3,
-    "checks_7d": 922,
+    "latency_ms": 1616,
+    "latency_median_ms": 794,
+    "uptime_24h": 78.1,
+    "uptime_7d": 84.7,
+    "checks_7d": 908,
     "exit_ip": "154.65.39.8",
     "exit_shared": 1,
     "country": "sn",
@@ -45,7 +45,7 @@
     "asn_org": "SAGA AFRICA HOLDINGS LIMITED",
     "sources_count": 20,
     "first_seen": "2025-09-10T19:34:33.119Z",
-    "last_checked": "2026-11-07T04:30:08.078Z"
+    "last_checked": "2026-11-08T04:22:01.944Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://196.1.93.10:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1757,
-    "latency_median_ms": 2123.5,
-    "uptime_24h": 78.2,
+    "latency_ms": 797,
+    "latency_median_ms": 799,
+    "uptime_24h": 85.8,
     "uptime_7d": 83.5,
-    "checks_7d": 899,
+    "checks_7d": 896,
     "exit_ip": "196.1.93.10",
     "exit_shared": 1,
     "country": "sn",
@@ -69,7 +69,7 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 11,
     "first_seen": "2025-09-04T23:49:29.089Z",
-    "last_checked": "2026-11-07T04:29:57.744Z"
+    "last_checked": "2026-11-08T04:23:53.570Z"
   },
   {
     "protocol": "http",
@@ -78,11 +78,11 @@
     "url": "http://196.1.93.16:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 809,
-    "latency_median_ms": 2768,
-    "uptime_24h": 80.3,
-    "uptime_7d": 73.5,
-    "checks_7d": 852,
+    "latency_ms": 728,
+    "latency_median_ms": 733,
+    "uptime_24h": 80.9,
+    "uptime_7d": 75.3,
+    "checks_7d": 854,
     "exit_ip": "196.1.93.16",
     "exit_shared": 1,
     "country": "sn",
@@ -93,6 +93,6 @@
     "asn_org": "Universite Cheikh Anta DIOP de DAKAR",
     "sources_count": 12,
     "first_seen": "2025-09-10T21:05:10.863Z",
-    "last_checked": "2026-11-07T04:24:37.723Z"
+    "last_checked": "2026-11-08T04:25:08.801Z"
   }
 ]

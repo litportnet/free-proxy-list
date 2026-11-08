@@ -1,11 +1,11 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.213.151.128,3128,http://8.213.151.128:3128,elite,false,4379,4258.5,98.6,97.1,989,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-11-07T04:33:08.444Z
-http,221.153.92.39,80,http://221.153.92.39:80,elite,false,738,735,94.2,94.4,234,221.153.92.39,1,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,4,2025-09-10T21:05:12.372Z,2026-11-07T04:27:37.912Z
-http,175.210.254.155,80,http://175.210.254.155:80,elite,false,746,740.5,92.7,88.8,277,175.210.254.155,1,kr,Gyeonggi-do,Bucheon-si,Asia/Seoul,4766,Korea Telecom,7,2026-07-11T02:58:01.319Z,2026-11-07T04:33:15.874Z
-http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,1761,1742,82.3,82.8,901,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-11-07T04:24:51.236Z
-http,119.194.72.67,80,http://119.194.72.67:80,elite,false,727,738.5,83.2,82.4,187,119.194.72.67,1,kr,Gyeonggi-do,Pyeongtaek,Asia/Seoul,4766,Korea Telecom,7,2025-12-07T02:42:24.845Z,2026-11-07T04:32:01.021Z
-http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,738,1768,67.6,80.3,890,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-11-07T04:31:12.393Z
-http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,7868,1764,68.2,80,889,183.110.216.129,3,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-11-07T04:28:28.935Z
-http,112.184.234.229,80,http://112.184.234.229:80,elite,false,779,5851.5,61.7,67.1,228,112.184.234.229,1,kr,Gangwon-do,Kosong,Asia/Seoul,4766,Korea Telecom,1,2025-12-07T12:47:40.543Z,2026-11-07T04:25:14.932Z
-http,220.116.142.217,80,http://220.116.142.217:80,elite,false,742,748,57.1,63.6,239,220.116.142.217,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,8,2025-09-10T21:05:11.622Z,2026-11-07T04:29:00.280Z
-http,222.111.130.73,8080,http://222.111.130.73:8080,elite,true,1687,2490.5,61.5,62.2,606,222.111.130.73,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2026-10-27T05:11:54.731Z,2026-11-07T04:25:25.171Z
+http,8.213.151.128,3128,http://8.213.151.128:3128,elite,false,1721,1512.5,100,97.9,989,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-11-08T04:28:26.854Z
+http,221.153.92.39,80,http://221.153.92.39:80,elite,false,738,732,92.8,93.8,372,221.153.92.39,1,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,4,2025-09-10T21:05:12.372Z,2026-11-08T04:21:33.954Z
+http,175.210.254.155,80,http://175.210.254.155:80,elite,false,756,740,93.3,90.5,410,175.210.254.155,1,kr,Gyeonggi-do,Bucheon-si,Asia/Seoul,4766,Korea Telecom,7,2026-07-11T02:58:01.319Z,2026-11-08T04:23:12.308Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,1720,762,80.3,81.8,884,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.489Z,2026-11-08T04:29:47.812Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,766,757.5,71.5,80.8,883,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-11-08T04:26:07.901Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,3794,1756.5,78,80.5,886,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-11-08T04:28:47.399Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,1770,1751,73.2,80.3,888,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-11-08T04:21:42.546Z
+http,119.194.72.67,80,http://119.194.72.67:80,elite,false,760,754.5,71.1,78.3,299,119.194.72.67,1,kr,Gyeonggi-do,Pyeongtaek,Asia/Seoul,4766,Korea Telecom,7,2025-12-07T02:42:24.845Z,2026-11-08T04:23:30.456Z
+http,220.116.142.217,80,http://220.116.142.217:80,elite,false,7907,4326,55.1,60.9,355,220.116.142.217,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,8,2025-09-10T21:05:11.622Z,2026-11-08T04:23:29.909Z
+http,220.81.123.23,48678,http://220.81.123.23:48678,anonymous,false,8667,3861,41.8,36.6,566,220.81.123.23,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,24,2025-09-05T23:20:17.028Z,2026-11-08T04:27:41.064Z

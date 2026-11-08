@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.44.255.112,8090,socks5://194.44.255.112:8090,elite,true,2736,2302.5,55.6,43.1,701,194.44.255.112,1,ua,Lviv,Lviv,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-10-04T13:25:59.371Z,2026-11-07T04:22:36.739Z
-socks5,5.53.119.134,1080,socks5://5.53.119.134:1080,elite,false,1826,1864,21.1,8.9,123,5.53.119.134,1,ua,Vinnytsia,Lypovets,Europe/Kyiv,35297,Dataline LLC,17,2026-06-12T15:57:06.355Z,2026-11-07T04:31:41.946Z
+socks5,185.151.86.86,3699,socks5://185.151.86.86:3699,elite,false,7988,2194.5,16.7,17.1,181,31.128.249.254,1,ua,Cherkasy,Myrne,Europe/Kyiv,208139,FOP Avator Myhaylo Mykolayovych,20,2025-09-05T00:24:32.171Z,2026-11-08T04:27:06.554Z

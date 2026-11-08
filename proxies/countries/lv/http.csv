@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.112.131.195,80,http://188.112.131.195:80,elite,false,614,583.5,87.5,90.7,248,188.112.131.195,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",4,2026-04-13T22:19:02.708Z,2026-11-07T04:26:11.845Z
-http,87.226.22.225,80,http://87.226.22.225:80,elite,false,603,575.5,91,90.1,211,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-07T04:27:44.391Z
+http,77.38.244.214,80,http://77.38.244.214:80,elite,false,557,562.5,98.1,92.9,56,77.38.244.214,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2025-12-09T07:10:03.154Z,2026-11-08T04:21:10.728Z
+http,87.226.22.225,80,http://87.226.22.225:80,elite,false,567,574.5,92.7,91.3,346,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-08T04:22:22.954Z
+http,213.208.173.118,8080,http://213.208.173.118:8080,anonymous,true,2785,3443.5,31.3,44.2,294,159.148.94.35,1,lv,Riga,Riga,Europe/Riga,2588,"SIA ""BITE Latvija""",19,2026-11-04T12:57:14.379Z,2026-11-08T04:29:14.305Z

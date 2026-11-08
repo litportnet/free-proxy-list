@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "41.70.106.1",
+    "port": 5678,
+    "url": "socks4://41.70.106.1:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1701,
+    "latency_median_ms": 2728,
+    "uptime_24h": 53.9,
+    "uptime_7d": 37.6,
+    "checks_7d": 513,
+    "exit_ip": "41.70.9.10",
+    "exit_shared": 1,
+    "country": "mw",
+    "region": "Southern Region",
+    "city": "Zomba",
+    "timezone": "Africa/Blantyre",
+    "asn": 37215,
+    "asn_org": "Malawi Research and Education Network - MAREN",
+    "sources_count": 20,
+    "first_seen": "2025-09-04T23:49:00.291Z",
+    "last_checked": "2026-11-08T04:25:22.688Z"
+  }
+]
