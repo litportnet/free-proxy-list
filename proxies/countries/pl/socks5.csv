@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,37.221.102.172,1080,socks5://37.221.102.172:1080,elite,false,4204,4728,32.9,37.4,198,37.221.102.172,1,pl,Lower Silesia,Obora,Europe/Warsaw,198537,Kamil Turon trading as KAMNET,14,2026-11-05T19:13:14.206Z,2026-11-08T04:25:20.004Z

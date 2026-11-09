@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,false,791,812,56.6,48.1,651,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-11-08T04:26:03.506Z
-http,213.6.249.37,19000,http://213.6.249.37:19000,anonymous,false,2971,3438,31.5,35.2,583,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,14,2026-05-27T03:23:13.655Z,2026-11-08T04:23:18.155Z

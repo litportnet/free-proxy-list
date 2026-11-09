@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,false,1388,1182.5,42.3,46.5,624,91.192.25.37,1,it,Tuscany,Sesto Fiorentino,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-11-08T04:26:25.674Z
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,3839,2686,12.5,40.6,480,5.95.121.180,1,it,Campania,Sorrento,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-11-08T04:28:51.684Z
-socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1757,1759,26,28.1,438,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-11-08T04:20:53.069Z
-socks4,84.247.236.86,48293,socks4://84.247.236.86:48293,elite,false,627,2648.5,31.3,22.5,467,84.247.236.86,1,it,Trentino-Alto Adige,Moena,Europe/Rome,31263,MYNET S.R.L.,13,2025-09-06T05:36:00.631Z,2026-11-08T04:19:20.022Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,true,1331,2193.5,37.5,41.1,649,91.192.25.158,1,it,Tuscany,Sesto Fiorentino,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-11-09T04:24:51.982Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,1848,1190,19.6,34.4,401,5.95.121.180,1,it,Campania,Sorrento,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-11-09T04:26:13.563Z
+socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,717,726,20.3,27.7,495,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-11-09T04:30:07.401Z

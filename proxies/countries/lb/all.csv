@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.82.98.18,8080,http://185.82.98.18:8080,anonymous,false,4171,3161.5,34.3,32.8,512,185.82.99.62,1,lb,North Lebanon,Tripoli,Asia/Beirut,42183,NET 360 S.A.R.L,18,2026-10-28T01:22:42.686Z,2026-11-08T04:23:41.270Z
-http,185.82.98.195,8080,http://185.82.98.195:8080,anonymous,false,4860,3323,23.1,24.7,73,85.112.80.43,1,lb,North Lebanon,Tripoli,Asia/Beirut,39010,TerraNet sal,15,2026-11-07T02:29:53.312Z,2026-11-08T04:27:20.437Z
-http,185.82.99.190,8724,http://185.82.99.190:8724,anonymous,true,2003,4584,24.7,22.2,388,185.82.96.190,1,lb,North Lebanon,Tripoli,Asia/Beirut,42183,NET 360 S.A.R.L,22,2025-10-23T06:22:59.270Z,2026-11-08T04:20:23.533Z
+http,185.82.98.18,8080,http://185.82.98.18:8080,anonymous,false,2631,4065.5,35.1,33.3,598,185.82.99.62,1,lb,North Lebanon,Tripoli,Asia/Beirut,42183,NET 360 S.A.R.L,18,2026-10-28T01:22:42.686Z,2026-11-09T04:26:38.593Z

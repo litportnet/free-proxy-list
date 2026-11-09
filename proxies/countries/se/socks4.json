@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "81.228.44.187",
+    "port": 65530,
+    "url": "socks4://81.228.44.187:65530",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 16929,
+    "latency_median_ms": 2892,
+    "uptime_24h": 39.8,
+    "uptime_7d": 39.5,
+    "checks_7d": 509,
+    "exit_ip": "81.228.44.187",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Skåne",
+    "city": "Malmö",
+    "timezone": "Europe/Stockholm",
+    "asn": 3301,
+    "asn_org": "Telia Company AB",
+    "sources_count": 10,
+    "first_seen": "2025-09-04T23:49:15.216Z",
+    "last_checked": "2026-11-09T04:27:35.233Z"
+  }
+]

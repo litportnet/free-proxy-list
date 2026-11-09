@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.41,9827,socks5://45.74.31.41:9827,elite,true,3105,5272.5,29,39.2,367,102.134.101.35,3,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,11,2026-10-10T04:36:57.105Z,2026-11-08T04:30:05.584Z
-socks5,45.74.31.41,12414,socks5://45.74.31.41:12414,elite,false,6113,7163,18.3,27.1,188,102.134.101.35,3,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,12,2026-10-15T13:44:50.534Z,2026-11-08T04:27:51.279Z
-socks5,45.74.31.40,19085,socks5://45.74.31.40:19085,elite,true,4698,5395,11.1,23.3,206,102.134.101.35,3,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,9,2026-11-01T08:16:51.068Z,2026-11-08T04:30:05.591Z
+socks5,45.74.31.47,4157,socks5://45.74.31.47:4157,elite,false,6036,4538.5,24,9,78,102.134.101.35,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,10,2026-10-12T23:11:57.789Z,2026-11-09T04:31:31.198Z

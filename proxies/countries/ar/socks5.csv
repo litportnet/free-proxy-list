@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.169.106.140,1086,socks5://45.169.106.140:1086,elite,false,2456,4511.5,35.8,35.3,309,45.169.106.140,1,ar,Cordoba,Córdoba,America/Argentina/Cordoba,267764,VOS SRL,9,2026-11-04T04:52:59.989Z,2026-11-08T04:29:55.882Z

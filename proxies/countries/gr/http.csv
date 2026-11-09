@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,150.140.148.235,80,http://150.140.148.235:80,elite,false,3526,792,72.8,79.2,873,150.140.148.235,1,gr,West Greece,Pátra,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-11-08T04:24:36.541Z
-http,77.49.141.192,8080,http://77.49.141.192:8080,anonymous,true,4000,3909.5,38.8,42.5,120,77.49.141.192,1,gr,Attica,Galátsi,Europe/Athens,1241,Forthnet,17,2026-11-07T00:28:37.353Z,2026-11-08T04:26:27.798Z
-http,188.164.201.197,666,http://188.164.201.197:666,elite,true,2246,3859,46.4,41.8,627,188.164.201.197,1,gr,Central Macedonia,Thérmi,Europe/Athens,50919,INTERWORKS Single Member S.A.,25,2026-09-04T02:42:25.516Z,2026-11-08T04:23:03.163Z
-http,79.130.240.61,18080,http://79.130.240.61:18080,anonymous,false,9077,2617,39,39.9,652,79.130.240.61,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),20,2026-09-25T00:32:07.277Z,2026-11-08T04:20:42.310Z
+http,94.70.148.177,8080,http://94.70.148.177:8080,elite,true,2410,2733,28.8,27.2,503,62.103.138.76,1,gr,Attica,Athens,Europe/Athens,6799,Ote SA (Hellenic Telecommunications Organisation),18,2026-05-20T21:13:09.344Z,2026-11-09T04:30:34.049Z

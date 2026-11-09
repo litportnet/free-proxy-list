@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks5://95.3.92.2:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 2563,
-    "latency_median_ms": 2067,
-    "uptime_24h": 53.9,
-    "uptime_7d": 47.7,
-    "checks_7d": 707,
+    "https": false,
+    "latency_ms": 8248,
+    "latency_median_ms": 2078,
+    "uptime_24h": 45.8,
+    "uptime_7d": 48.7,
+    "checks_7d": 703,
     "exit_ip": "95.3.92.2",
     "exit_shared": 1,
     "country": "tr",
@@ -21,7 +21,7 @@
     "asn_org": "Turk Telekomunikasyon Anonim Sirketi",
     "sources_count": 15,
     "first_seen": "2026-09-29T01:23:09.783Z",
-    "last_checked": "2026-11-08T04:20:41.240Z"
+    "last_checked": "2026-11-09T04:32:07.044Z"
   },
   {
     "protocol": "socks5",
@@ -29,12 +29,12 @@
     "port": 1080,
     "url": "socks5://78.187.157.235:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1307,
-    "latency_median_ms": 1319,
-    "uptime_24h": 35.8,
-    "uptime_7d": 41.6,
-    "checks_7d": 568,
+    "https": false,
+    "latency_ms": 1199,
+    "latency_median_ms": 1808,
+    "uptime_24h": 50,
+    "uptime_7d": 44.3,
+    "checks_7d": 648,
     "exit_ip": "78.187.157.235",
     "exit_shared": 1,
     "country": "tr",
@@ -45,6 +45,6 @@
     "asn_org": "Turk Telekomunikasyon Anonim Sirketi",
     "sources_count": 14,
     "first_seen": "2026-10-24T22:43:21.952Z",
-    "last_checked": "2026-11-08T04:23:29.912Z"
+    "last_checked": "2026-11-09T04:27:32.025Z"
   }
 ]

@@ -1,6 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,1111,594,100,99.8,1005,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-08T04:23:54.092Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,497,498,83.8,75.5,830,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-08T04:24:27.977Z
-http,79.52.108.2,8081,http://79.52.108.2:8081,anonymous,false,2715,3212.5,32.5,49.4,338,79.52.108.2,1,it,Sicily,Catania,Europe/Rome,3269,Telecom Italia S.p.A.,18,2026-11-04T06:54:05.936Z,2026-11-08T04:27:24.801Z
-http,185.8.148.81,8085,http://185.8.148.81:8085,anonymous,true,4183,2208,45.5,42.4,681,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,19,2026-10-12T20:10:22.760Z,2026-11-08T04:28:25.790Z
-http,149.86.206.27,8080,http://149.86.206.27:8080,anonymous,false,4332,2970,16.1,16.2,346,149.86.206.27,1,it,Tuscany,Quarrata,Europe/Rome,60501,Sirius Technology SRL,22,2025-09-06T05:35:59.394Z,2026-11-08T04:21:08.578Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,568,564,99.3,99.7,1006,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-09T04:28:21.063Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,991,561,62.7,76,828,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-09T04:24:30.050Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,495,501.5,72.5,75.4,829,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-09T04:26:27.158Z
+http,185.211.82.120,8080,http://185.211.82.120:8080,anonymous,false,2379,3265,48.3,48.3,58,185.211.82.120,1,it,Sicily,Ragusa,Europe/Rome,198380,BLUNOVA S.R.L.,15,2026-11-08T15:49:18.307Z,2026-11-09T04:31:38.767Z
+http,79.52.108.2,8081,http://79.52.108.2:8081,anonymous,false,6306,4109.5,41.4,47.4,441,79.52.108.2,1,it,Sicily,Catania,Europe/Rome,3269,Telecom Italia S.p.A.,18,2026-11-04T06:54:05.936Z,2026-11-09T04:26:56.581Z
+http,89.40.143.28,7788,http://89.40.143.28:7788,anonymous,true,6128,6230,42.9,25.6,328,89.40.143.28,1,it,Lombardy,Milan,Europe/Rome,64445,NetJoin srl,12,2025-09-29T03:34:49.103Z,2026-11-09T04:32:22.759Z
+http,2.32.175.26,8080,http://2.32.175.26:8080,anonymous,true,2232,4528.5,36.8,,41,2.32.175.26,1,it,Lombardy,San Giuliano Milanese,Europe/Rome,30722,Fastweb SpA,16,2026-11-06T14:23:17.436Z,2026-11-09T04:31:51.347Z

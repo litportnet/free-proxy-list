@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "46.32.164.142",
+    "port": 1080,
+    "url": "socks5://46.32.164.142:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1304,
+    "latency_median_ms": 2133,
+    "uptime_24h": 25,
+    "uptime_7d": 11.9,
+    "checks_7d": 143,
+    "exit_ip": "46.32.164.142",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 203622,
+    "asn_org": "GSP LLC",
+    "sources_count": 19,
+    "first_seen": "2026-08-03T21:03:09.292Z",
+    "last_checked": "2026-11-09T04:30:40.532Z"
+  }
+]

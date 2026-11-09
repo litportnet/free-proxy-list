@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.127.223.28,8177,http://79.127.223.28:8177,elite,false,4533,5391,38.9,,18,89.114.20.189,1,pt,Porto,Vila Nova de Gaia,Europe/Lisbon,12353,Vodafone Portugal,7,2026-11-08T22:52:53.517Z,2026-11-09T04:25:35.352Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.90.224.50,8080,http://116.90.224.50:8080,anonymous,false,3134,3572.5,29.2,24.3,452,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,16,2025-11-22T22:41:34.602Z,2026-11-08T04:24:11.848Z
+http,202.166.220.40,8080,http://202.166.220.40:8080,anonymous,true,1650,4156,48.7,37.6,644,202.166.220.40,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,17,2026-07-05T19:51:49.712Z,2026-11-09T04:26:47.262Z
+http,110.44.115.83,8080,http://110.44.115.83:8080,elite,true,4058,4108,31.6,27.7,300,110.44.115.83,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,45650,VIA NET COMMUNICATION LTD.,27,2025-09-10T21:03:19.441Z,2026-11-09T04:24:21.398Z
+http,43.245.93.193,53805,http://43.245.93.193:53805,anonymous,false,3013,4893.5,16.3,13.5,259,43.245.95.178,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,55427,Broadlink Nepal,22,2025-09-05T20:06:38.060Z,2026-11-09T04:29:50.660Z

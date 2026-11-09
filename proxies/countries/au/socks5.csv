@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,159.196.163.64,80,socks5://159.196.163.64:80,elite,false,1717,1570,23.2,30.8,266,220.158.199.149,1,au,New South Wales,Sydney,Australia/Sydney,137409,GSL Networks Pty LTD,9,2026-10-05T08:36:04.345Z,2026-11-08T04:26:57.443Z

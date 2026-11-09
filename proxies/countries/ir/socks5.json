@@ -6,11 +6,11 @@
     "url": "socks5://94.183.150.152:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2301,
-    "latency_median_ms": 1665.5,
-    "uptime_24h": 45.1,
-    "uptime_7d": 60.2,
-    "checks_7d": 492,
+    "latency_ms": 1214,
+    "latency_median_ms": 1468,
+    "uptime_24h": 76.9,
+    "uptime_7d": 63.7,
+    "checks_7d": 626,
     "exit_ip": "94.183.150.152",
     "exit_shared": 1,
     "country": "ir",
@@ -21,6 +21,6 @@
     "asn_org": "Nahor Hadish Design and Architecture Co., Ltd",
     "sources_count": 11,
     "first_seen": "2026-11-03T10:43:25.250Z",
-    "last_checked": "2026-11-08T04:21:52.793Z"
+    "last_checked": "2026-11-09T04:31:48.556Z"
   }
 ]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,16929,2892,39.8,39.5,509,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-09T04:27:35.233Z

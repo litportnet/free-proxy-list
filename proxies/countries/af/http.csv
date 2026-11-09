@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,180.94.65.234,8080,http://180.94.65.234:8080,anonymous,false,3293,3488,39,,41,111.125.158.134,1,af,Faryab,Maymana,Asia/Kabul,45178,ROSHAN,12,2026-11-08T18:50:53.344Z,2026-11-09T04:27:28.233Z

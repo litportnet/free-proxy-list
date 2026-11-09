@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,1006,1011.5,54.2,75.5,804,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-11-08T04:25:08.798Z
-socks4,41.217.205.6,4153,socks4://41.217.205.6:4153,elite,true,2028,3044,37.8,37.9,617,41.217.205.6,1,ng,Lagos,Lagos,Africa/Lagos,37125,Layer3 Limited,17,2026-10-16T06:53:56.621Z,2026-11-08T04:26:59.563Z
-socks4,105.235.201.234,32639,socks4://105.235.201.234:32639,elite,false,1114,1133.5,39.2,35.8,450,105.235.201.234,1,ng,Lagos,Lagos,Africa/Lagos,37269,Information Connectivity Solutions Limited,13,2025-09-05T00:23:07.143Z,2026-11-08T04:27:55.605Z
-socks4,154.113.167.70,5678,socks4://154.113.167.70:5678,elite,false,935,1926.5,80,11.9,143,154.113.167.70,1,ng,Lagos,Lagos,Africa/Lagos,37282,Main one Cable Company Nigeria Limited,15,2026-04-14T23:24:22.594Z,2026-11-08T04:26:39.189Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,1052,806.5,92.1,78.7,812,41.184.92.218,1,ng,Lagos,Lagos,Africa/Lagos,29091,ipNX Nigeria Limited,18,2026-08-28T02:30:34.573Z,2026-11-09T04:31:05.613Z
+socks4,102.36.231.77,1080,socks4://102.36.231.77:1080,elite,false,909,3939,61.9,62.5,712,102.36.231.77,1,ng,Lagos,Lagos,Africa/Lagos,328555,Timeless Network Services Ltd,13,2026-07-08T00:20:44.106Z,2026-11-09T04:27:27.648Z
+socks5,102.69.146.59,7080,socks5://102.69.146.59:7080,elite,false,1507,4852.5,36.1,29.9,431,102.69.146.59,1,ng,Lagos,Ikeja,Africa/Lagos,328451,IP Express Ltd,21,2026-03-05T04:43:40.305Z,2026-11-09T04:25:50.924Z
+http,41.203.83.242,8080,http://41.203.83.242:8080,anonymous,true,4380,4101,32.9,23.8,379,41.203.83.242,1,ng,Lagos,Lagos,Africa/Lagos,37148,Globacom Limited,22,2025-09-04T23:49:48.657Z,2026-11-09T04:22:39.813Z

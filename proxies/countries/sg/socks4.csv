@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,8008,6826,36.7,50.9,564,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-11-08T04:22:32.018Z
+socks4,43.134.34.219,10808,socks4://43.134.34.219:10808,elite,true,3182,5344.5,52.9,52.9,51,43.134.34.219,3,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",14,2026-10-13T07:16:21.585Z,2026-11-09T04:21:14.629Z
+socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,3827,3728.5,42.7,52.3,541,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-11-09T04:32:08.140Z
+socks4,222.71.205.37,1083,socks4://222.71.205.37:1083,elite,false,6390,1982,19.5,17.3,278,18.139.98.180,1,sg,Singapore,Singapore,Asia/Singapore,16509,"Amazon.com, Inc.",17,2026-10-15T14:45:35.023Z,2026-11-09T04:25:41.206Z

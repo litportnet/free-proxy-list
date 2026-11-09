@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,1734,8139,54.8,69.5,837,104.193.135.197,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-12T09:12:25.731Z,2026-11-08T04:23:11.244Z
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,334,846,48.2,51.3,745,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-08T04:26:57.971Z
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,3364,6181.5,38.6,66.6,812,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-12T09:12:25.731Z,2026-11-09T04:24:02.578Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,9333,8921.5,46,44.4,681,23.234.85.144,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",19,2026-09-12T00:07:29.017Z,2026-11-09T04:21:26.393Z

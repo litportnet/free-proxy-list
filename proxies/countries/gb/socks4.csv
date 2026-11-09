@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,167.99.3.26,9000,socks4://167.99.3.26:9000,elite,true,777,1587.5,9.1,5.2,115,109.121.43.195,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,12,2026-10-14T08:29:35.356Z,2026-11-09T04:26:17.393Z

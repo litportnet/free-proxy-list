@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,129.222.108.201,1080,socks5://129.222.108.201:1080,elite,true,1866,2921,34.9,26.6,398,129.222.108.201,1,mg,Analamanga,Antananarivo,Indian/Antananarivo,14593,Space Exploration Technologies Corporation,14,2026-10-30T21:58:43.027Z,2026-11-08T04:24:13.461Z
+socks5,45.74.31.41,10102,socks5://45.74.31.41:10102,elite,true,2058,3293.5,36.4,28.4,95,154.120.133.86,4,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,13,2026-10-16T17:59:41.861Z,2026-11-09T04:23:33.658Z
+socks5,45.74.31.46,8493,socks5://45.74.31.46:8493,elite,true,2114,4474,17.7,24.1,166,154.120.133.86,4,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,11,2026-10-18T02:16:43.045Z,2026-11-09T04:22:29.656Z
+socks5,45.74.31.47,9454,socks5://45.74.31.47:9454,elite,true,1516,7622,12.5,19.5,118,154.120.133.86,4,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,9,2026-10-10T15:42:46.849Z,2026-11-09T04:22:47.870Z
+socks5,45.74.31.41,10107,socks5://45.74.31.41:10107,elite,false,1646,6110.5,13.6,14.9,74,154.120.133.86,4,mg,Analamanga,Antananarivo,Indian/Antananarivo,37037,Orange Madagascar,13,2026-10-18T13:22:33.811Z,2026-11-09T04:25:02.745Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,185.43.189.253,3629,socks4://185.43.189.253:3629,elite,false,3933,1932.5,23.1,32.2,379,185.43.189.253,1,az,Gǝncǝ,Ganja,Asia/Baku,201167,Caspian Telecom LLC,22,2026-04-17T19:00:26.783Z,2026-11-09T04:30:06.289Z
+socks5,46.32.164.142,1080,socks5://46.32.164.142:1080,elite,false,1304,2133,25,11.9,143,46.32.164.142,1,az,Baki,Baku,Asia/Baku,203622,GSP LLC,19,2026-08-03T21:03:09.292Z,2026-11-09T04:30:40.532Z

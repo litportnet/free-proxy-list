@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,4065,3360.5,66.7,88.5,924,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-08T04:29:03.063Z
-socks5,143.198.239.45,10015,socks5://143.198.239.45:10015,elite,true,2833,2630,70.3,76.5,213,158.174.210.97,1,se,Stockholm,Stockholm,Europe/Stockholm,8473,Bahnhof AB,1,2026-10-23T09:24:03.550Z,2026-11-08T04:27:51.269Z
-socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,7129,5147,49.5,65.7,805,185.213.154.239,1,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,15,2026-07-13T09:34:11.062Z,2026-11-08T04:20:35.308Z
-socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,1704,4254,37.5,30.3,267,91.226.58.5,1,se,Stockholm,Stockholm,Europe/Stockholm,9009,M247 Europe SRL,18,2026-09-18T12:48:20.513Z,2026-11-08T04:22:14.352Z
+socks5,46.246.12.13,1080,socks5://46.246.12.13:1080,elite,true,3392,2931.5,99.2,99.2,124,46.246.12.13,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,11,2026-11-08T07:44:59.205Z,2026-11-09T04:30:58.010Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,3021,3027.5,79.1,87,915,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-09T04:27:33.093Z
+socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,1952,2133.5,82,74,738,170.62.100.148,1,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-11-09T04:28:42.305Z

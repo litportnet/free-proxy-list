@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "79.127.223.28",
+    "port": 8177,
+    "url": "http://79.127.223.28:8177",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4533,
+    "latency_median_ms": 5391,
+    "uptime_24h": 38.9,
+    "uptime_7d": null,
+    "checks_7d": 18,
+    "exit_ip": "89.114.20.189",
+    "exit_shared": 1,
+    "country": "pt",
+    "region": "Porto",
+    "city": "Vila Nova de Gaia",
+    "timezone": "Europe/Lisbon",
+    "asn": 12353,
+    "asn_org": "Vodafone Portugal",
+    "sources_count": 7,
+    "first_seen": "2026-11-08T22:52:53.517Z",
+    "last_checked": "2026-11-09T04:25:35.352Z"
+  }
+]

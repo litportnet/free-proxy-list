@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,196.29.231.1,4145,socks4://196.29.231.1:4145,elite,true,4051,2006.5,62.1,59.2,696,196.29.231.1,1,gh,Greater Accra,Accra,Africa/Accra,33786,K-Net,14,2025-09-04T23:49:04.507Z,2026-11-08T04:29:53.676Z

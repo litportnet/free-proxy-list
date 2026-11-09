@@ -6,11 +6,11 @@
     "url": "socks4://102.132.17.30:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1095,
-    "latency_median_ms": 2096,
-    "uptime_24h": 64.8,
-    "uptime_7d": 63.2,
-    "checks_7d": 772,
+    "latency_ms": 2949,
+    "latency_median_ms": 1538,
+    "uptime_24h": 87.4,
+    "uptime_7d": 67.8,
+    "checks_7d": 780,
     "exit_ip": "102.132.17.30",
     "exit_shared": 1,
     "country": "cm",
@@ -21,6 +21,6 @@
     "asn_org": "SWECOM PLC",
     "sources_count": 14,
     "first_seen": "2026-07-04T16:35:29.162Z",
-    "last_checked": "2026-11-08T04:30:12.683Z"
+    "last_checked": "2026-11-09T04:29:20.317Z"
   }
 ]

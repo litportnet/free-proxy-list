@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,181.115.75.102,5678,socks4://181.115.75.102:5678,elite,false,1462,1447.5,52.8,56.1,633,181.115.75.102,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,14754,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",23,2025-09-04T23:01:57.983Z,2026-11-09T04:26:13.561Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.210.160.159,8080,http://38.210.160.159:8080,anonymous,false,3340,2761,38,44.3,697,38.210.160.159,1,cr,San José,San José,America/Costa_Rica,266853,"Comunicaciones Metropolitanas METROCOM, S.A.",19,2026-10-16T22:01:50.670Z,2026-11-08T04:23:07.957Z
+http,38.210.160.159,8080,http://38.210.160.159:8080,anonymous,false,2730,2268.5,57.5,47.3,733,38.210.160.159,1,cr,San José,San José,America/Costa_Rica,266853,"Comunicaciones Metropolitanas METROCOM, S.A.",19,2026-10-16T22:01:50.670Z,2026-11-09T04:25:04.912Z
