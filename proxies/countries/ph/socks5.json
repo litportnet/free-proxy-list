@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "43.106.60.21",
+    "port": 1080,
+    "url": "socks5://43.106.60.21:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2208,
+    "latency_median_ms": 2201.5,
+    "uptime_24h": 32.1,
+    "uptime_7d": 30.7,
+    "checks_7d": 424,
+    "exit_ip": "156.254.117.187",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "National Capital Region",
+    "city": "Quezon City",
+    "timezone": "Asia/Manila",
+    "asn": 401783,
+    "asn_org": "TOKALA COMMUNICATIONS INC.",
+    "sources_count": 19,
+    "first_seen": "2026-05-13T04:35:06.541Z",
+    "last_checked": "2026-11-10T04:33:24.952Z"
+  }
+]

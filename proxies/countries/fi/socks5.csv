@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,62.60.230.196,1080,socks5://62.60.230.196:1080,elite,false,3059,3445.5,23.9,19.2,318,62.60.230.196,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,19,2026-04-21T14:57:22.219Z,2026-11-09T04:31:08.915Z

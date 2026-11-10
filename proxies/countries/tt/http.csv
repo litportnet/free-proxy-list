@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.127.223.57,45553,http://79.127.223.57:45553,elite,false,9916,4000.5,40.7,,27,181.118.39.38,1,tt,San Juan/Laventille,Laventille,America/Port_of_Spain,27800,Digicel Trinidad and Tobago Ltd.,11,2026-11-08T20:51:59.469Z,2026-11-09T04:27:42.910Z

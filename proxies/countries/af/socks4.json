@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://111.125.154.22:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 2073,
-    "latency_median_ms": 4052,
-    "uptime_24h": 60.2,
-    "uptime_7d": 47.5,
-    "checks_7d": 670,
+    "https": false,
+    "latency_ms": 1027,
+    "latency_median_ms": 2034,
+    "uptime_24h": 41.4,
+    "uptime_7d": 49,
+    "checks_7d": 684,
     "exit_ip": "111.125.154.22",
     "exit_shared": 1,
     "country": "af",
@@ -21,6 +21,6 @@
     "asn_org": "ROSHAN",
     "sources_count": 16,
     "first_seen": "2026-10-01T22:53:09.008Z",
-    "last_checked": "2026-11-09T04:23:54.568Z"
+    "last_checked": "2026-11-10T04:33:21.141Z"
   }
 ]

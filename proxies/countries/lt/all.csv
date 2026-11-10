@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,1716,1685,86.7,67.8,804,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-09T04:29:12.746Z

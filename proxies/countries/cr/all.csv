@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.210.160.159,8080,http://38.210.160.159:8080,anonymous,false,2730,2268.5,57.5,47.3,733,38.210.160.159,1,cr,San José,San José,America/Costa_Rica,266853,"Comunicaciones Metropolitanas METROCOM, S.A.",19,2026-10-16T22:01:50.670Z,2026-11-09T04:25:04.912Z
+socks4,200.192.236.242,1080,socks4://200.192.236.242:1080,elite,false,7727,2680,58.1,49.7,584,200.192.236.242,1,cr,San José,San José,America/Costa_Rica,263248,GCI SERVICE PROVIDER S.A.,14,2025-09-17T00:22:38.251Z,2026-11-10T04:26:43.352Z

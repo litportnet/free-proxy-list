@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.82.98.18,8080,http://185.82.98.18:8080,anonymous,false,2631,4065.5,35.1,33.3,598,185.82.99.62,1,lb,North Lebanon,Tripoli,Asia/Beirut,42183,NET 360 S.A.R.L,18,2026-10-28T01:22:42.686Z,2026-11-09T04:26:38.593Z

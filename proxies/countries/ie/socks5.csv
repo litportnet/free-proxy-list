@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.46,5280,socks5://45.74.31.46:5280,elite,false,7887,4946.5,25.3,32.8,488,135.236.141.99,3,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,13,2026-10-04T04:21:10.887Z,2026-11-10T04:24:48.327Z
+socks5,45.74.31.42,4064,socks5://45.74.31.42:4064,elite,false,2052,3801,19.6,23.9,234,135.236.141.99,3,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,13,2026-09-08T12:38:51.936Z,2026-11-10T04:30:18.811Z
+socks5,45.74.31.41,7022,socks5://45.74.31.41:7022,elite,false,3506,4606,8.3,22.8,215,135.236.141.99,3,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,14,2026-10-10T04:36:57.105Z,2026-11-10T04:26:09.477Z

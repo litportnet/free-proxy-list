@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,843,828.5,100,99.5,549,172.68.210.146,1,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-09T04:31:09.454Z
-http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,889,857,100,99.5,551,162.158.2.122,2,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-09T04:29:37.123Z
-http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,890,832.5,100,99.5,550,162.158.2.122,2,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-09T04:27:02.006Z
-http,61.29.96.146,8000,http://61.29.96.146:8000,anonymous,false,6117,3857.5,25,26.5,355,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-10T23:06:35.873Z,2026-11-09T04:28:58.164Z
+http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,621,812,100,99.7,692,104.22.127.45,1,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-10T04:23:18.907Z
+http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,845,826.5,100,99.7,694,162.158.168.144,1,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-10T04:25:52.339Z
+http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,877,860,100,99.7,694,162.158.2.122,1,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-10T04:31:44.270Z
+socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,false,2233,3102.5,26,30.5,560,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,19,2026-05-09T06:34:30.972Z,2026-11-10T04:24:30.176Z
+http,61.29.96.146,80,http://61.29.96.146:80,anonymous,false,6390,5125.5,20,17.2,267,61.29.96.146,1,au,New South Wales,Hornsby,Australia/Sydney,2764,AAPT Limited,23,2025-09-08T23:11:07.370Z,2026-11-10T04:33:12.469Z

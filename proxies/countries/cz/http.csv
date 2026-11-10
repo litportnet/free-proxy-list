@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,6388,7629.5,61.5,71,809,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-09T04:32:01.055Z
-http,85.207.11.133,3128,http://85.207.11.133:3128,elite,false,4755,3569,40.9,29.1,399,85.207.11.134,1,cz,Moravian-Silesian Region,Opava,Europe/Prague,25248,RADIOKOMUNIKACE a.s.,24,2026-08-26T20:13:39.037Z,2026-11-09T04:28:36.875Z
-http,188.119.98.126,9999,http://188.119.98.126:9999,anonymous,false,2699,3736.5,30.5,26.5,495,188.119.98.126,1,cz,Prague,Prague,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,24,2025-09-04T23:49:51.865Z,2026-11-09T04:24:08.544Z

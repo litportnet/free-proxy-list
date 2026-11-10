@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.78.67.171,80,http://94.78.67.171:80,elite,false,335,322.5,100,99.1,1003,94.78.67.171,1,cy,Keryneia,Kyrenia,Asia/Famagusta,44558,Netonline Bilisim Sirketi LTD,17,2026-07-26T20:20:40.472Z,2026-11-09T04:26:31.987Z
+socks4,87.228.228.101,4145,socks4://87.228.228.101:4145,elite,true,3782,1802.5,44,47.3,618,87.228.228.101,1,cy,Pafos,Paphos,Asia/Nicosia,6866,Cyprus Telecommunications Authority,21,2026-07-06T01:00:13.598Z,2026-11-10T04:28:12.157Z
+socks4,213.7.196.26,4153,socks4://213.7.196.26:4153,elite,false,1763,1776.5,36.1,41.7,659,213.7.196.26,1,cy,Limassol,Limassol,Asia/Nicosia,6866,Cyprus Telecommunications Authority,14,2025-09-04T23:49:03.510Z,2026-11-10T04:26:34.196Z
+socks4,212.31.100.138,4153,socks4://212.31.100.138:4153,elite,true,782,768.5,36.8,35.8,363,212.31.100.138,1,cy,Ammochostos,Ayia Napa,Asia/Famagusta,6866,Cyprus Telecommunications Authority,13,2025-09-04T23:48:59.836Z,2026-11-10T04:33:39.588Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,143.105.74.75,1080,socks4://143.105.74.75:1080,elite,false,2169,2159.5,45.2,52.7,338,143.105.74.75,1,ne,Niamey,Niamey,Africa/Niamey,14593,Space Exploration Technologies Corporation,15,2026-11-06T15:23:49.039Z,2026-11-10T04:26:01.482Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,1021,3028.5,38,38.6,585,45.179.145.12,1,br,Goiás,Luziânia,America/Sao_Paulo,269089,Hilan Telecom Ltda,13,2026-07-29T05:52:08.923Z,2026-11-09T04:28:52.699Z
-socks5,45.74.31.40,7156,socks5://45.74.31.40:7156,elite,false,7421,6183,27.3,13.2,167,201.76.149.85,1,br,Paraíba,João Pessoa,America/Fortaleza,27656,DCN Soluções em Tecnologia Ltda - EPP,15,2026-10-04T15:26:59.563Z,2026-11-09T04:23:15.336Z
+socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,4500,3661.5,27.5,36.6,574,45.179.145.12,1,br,Goiás,Luziânia,America/Sao_Paulo,269089,Hilan Telecom Ltda,13,2026-07-29T05:52:08.923Z,2026-11-10T04:24:07.632Z

@@ -6,11 +6,11 @@
     "url": "socks4://185.43.189.253:3629",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3933,
-    "latency_median_ms": 1932.5,
-    "uptime_24h": 23.1,
-    "uptime_7d": 32.2,
-    "checks_7d": 379,
+    "latency_ms": 3958,
+    "latency_median_ms": 2915,
+    "uptime_24h": 29.9,
+    "uptime_7d": 32.7,
+    "checks_7d": 416,
     "exit_ip": "185.43.189.253",
     "exit_shared": 1,
     "country": "az",
@@ -21,6 +21,6 @@
     "asn_org": "Caspian Telecom LLC",
     "sources_count": 22,
     "first_seen": "2026-04-17T19:00:26.783Z",
-    "last_checked": "2026-11-09T04:30:06.289Z"
+    "last_checked": "2026-11-10T04:29:26.319Z"
   }
 ]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,64.188.78.63,10808,socks5://64.188.78.63:10808,elite,false,2599,3603,23.2,27.6,127,64.188.78.63,2,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,11,2026-11-07T10:34:04.222Z,2026-11-09T04:23:22.871Z
-socks4,64.188.78.63,10808,socks4://64.188.78.63:10808,elite,false,3286,4478.5,22.2,21.7,83,64.188.78.63,2,ee,Harjumaa,Tallinn,Europe/Tallinn,209693,OC NETWORKS LIMITED,10,2026-11-07T10:33:55.111Z,2026-11-09T04:25:40.123Z
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,664,716.5,66.7,70.2,699,185.157.111.3,1,ee,Võrumaa,Vana-Antsla,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-11-10T04:30:42.569Z

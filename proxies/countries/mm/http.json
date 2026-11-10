@@ -1,40 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "103.25.79.178",
-    "port": 4700,
-    "url": "http://103.25.79.178:4700",
-    "anonymity": "anonymous",
-    "https": true,
-    "latency_ms": 1353,
-    "latency_median_ms": 2049.5,
-    "uptime_24h": 62.5,
-    "uptime_7d": 38.8,
-    "checks_7d": 219,
-    "exit_ip": "103.25.79.178",
-    "exit_shared": 1,
-    "country": "mm",
-    "region": "Mandalay Region",
-    "city": "Mandalay",
-    "timezone": "Asia/Yangon",
-    "asn": 133524,
-    "asn_org": "Global Technology Co., Ltd.",
-    "sources_count": 12,
-    "first_seen": "2026-06-10T20:31:21.574Z",
-    "last_checked": "2026-11-09T04:22:55.488Z"
-  },
-  {
-    "protocol": "http",
     "ip": "103.153.202.201",
     "port": 8181,
     "url": "http://103.153.202.201:8181",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 5748,
-    "latency_median_ms": 4411,
-    "uptime_24h": 36.7,
-    "uptime_7d": 30.9,
-    "checks_7d": 450,
+    "latency_ms": 3619,
+    "latency_median_ms": 4840,
+    "uptime_24h": 22.1,
+    "uptime_7d": 30.8,
+    "checks_7d": 484,
     "exit_ip": "103.148.104.10",
     "exit_shared": 1,
     "country": "mm",
@@ -45,6 +21,6 @@
     "asn_org": "SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED",
     "sources_count": 17,
     "first_seen": "2026-09-24T19:29:33.678Z",
-    "last_checked": "2026-11-09T04:25:02.743Z"
+    "last_checked": "2026-11-10T04:23:19.454Z"
   }
 ]

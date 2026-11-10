@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,1126,3055,64.6,67.3,670,178.249.211.72,1,it,Lombardy,Milan,Europe/Rome,212238,Datacamp Limited,19,2026-09-20T17:57:13.183Z,2026-11-09T04:30:34.592Z
-socks5,109.73.177.227,7080,socks5://109.73.177.227:7080,elite,false,1321,1752.5,39.8,30.6,301,109.73.177.227,1,it,Apulia,Serracapriola,Europe/Rome,49924,NETFREE S.R.L.S.,15,2026-10-27T13:16:17.724Z,2026-11-09T04:25:00.023Z

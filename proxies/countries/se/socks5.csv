@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.246.12.13,1080,socks5://46.246.12.13:1080,elite,true,3392,2931.5,99.2,99.2,124,46.246.12.13,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,11,2026-11-08T07:44:59.205Z,2026-11-09T04:30:58.010Z
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,3021,3027.5,79.1,87,915,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-09T04:27:33.093Z
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,1952,2133.5,82,74,738,170.62.100.148,1,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,17,2026-09-21T21:11:29.587Z,2026-11-09T04:28:42.305Z
+socks5,46.246.12.13,1080,socks5://46.246.12.13:1080,elite,true,4556,3107,98.6,98.9,265,46.246.12.13,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,13,2026-11-08T07:44:59.205Z,2026-11-10T04:28:00.295Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,3934,2479.5,83.8,86,912,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-10T04:30:01.986Z
+socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,8821,4769.5,53.7,64.1,786,185.213.154.239,2,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,15,2026-07-13T09:34:11.062Z,2026-11-10T04:31:22.061Z
+socks5,143.198.239.45,10032,socks5://143.198.239.45:10032,elite,true,4558,2572.5,46.9,58.5,426,193.189.100.206,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,1,2026-11-06T12:22:40.584Z,2026-11-10T04:25:12.511Z

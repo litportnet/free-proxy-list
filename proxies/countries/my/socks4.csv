@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,175.139.201.193,4153,socks4://175.139.201.193:4153,elite,true,1099,1679.5,29.4,37.1,558,175.139.200.17,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:05.970Z,2026-11-09T04:25:01.669Z
-socks4,60.54.19.44,1080,socks4://60.54.19.44:1080,elite,false,1215,1216,23.1,16.6,241,60.54.19.45,1,my,Selangor,Petaling Jaya,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,13,2026-04-08T07:59:22.432Z,2026-11-09T04:23:12.103Z
+socks4,175.139.201.193,4153,socks4://175.139.201.193:4153,elite,true,8235,2114,38.4,37,546,175.139.200.17,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:05.970Z,2026-11-10T04:26:03.045Z
+socks4,175.144.198.226,31694,socks4://175.144.198.226:31694,elite,false,8306,4138,10,12.6,199,175.144.198.13,1,my,Perak,Ipoh,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,10,2025-09-04T23:49:03.216Z,2026-11-10T04:25:29.181Z

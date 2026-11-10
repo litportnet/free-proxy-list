@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,172.99.187.33,4145,socks4://172.99.187.33:4145,elite,false,1404,2299.5,35.9,38.5,580,172.99.184.65,1,pr,San Juan,San Juan,America/Puerto_Rico,396899,Natural G.C. Inc.,14,2025-09-04T23:49:03.873Z,2026-11-09T04:31:13.839Z
-http,67.206.213.202,3120,http://67.206.213.202:3120,anonymous,false,2349,2167.5,35,24.9,417,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-11-09T04:26:28.256Z
-http,192.203.0.78,999,http://192.203.0.78:999,anonymous,false,2461,2960.5,26.9,23.2,393,192.203.0.78,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,25,2025-09-07T09:18:16.956Z,2026-11-09T04:30:27.992Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,1479,1454,54,55.8,720,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-11-10T04:29:03.558Z
+http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,323,2321.5,41.5,47.8,712,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-10T04:32:54.608Z
+http,192.203.0.142,999,http://192.203.0.142:999,anonymous,true,326,3586,25.6,35,548,192.203.0.142,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2026-05-04T08:39:48.827Z,2026-11-10T04:27:49.525Z

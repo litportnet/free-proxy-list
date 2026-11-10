@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.25.79.178,4700,http://103.25.79.178:4700,anonymous,true,1353,2049.5,62.5,38.8,219,103.25.79.178,1,mm,Mandalay Region,Mandalay,Asia/Yangon,133524,"Global Technology Co., Ltd.",12,2026-06-10T20:31:21.574Z,2026-11-09T04:22:55.488Z
-http,103.153.202.201,8181,http://103.153.202.201:8181,anonymous,false,5748,4411,36.7,30.9,450,103.148.104.10,1,mm,Shan State,Tachilek,Asia/Yangon,140091,SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED,17,2026-09-24T19:29:33.678Z,2026-11-09T04:25:02.743Z
+http,103.153.202.201,8181,http://103.153.202.201:8181,anonymous,false,3619,4840,22.1,30.8,484,103.148.104.10,1,mm,Shan State,Tachilek,Asia/Yangon,140091,SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED,17,2026-09-24T19:29:33.678Z,2026-11-10T04:23:19.454Z

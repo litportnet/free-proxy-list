@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.159.154.43,3128,http://41.159.154.43:3128,anonymous,false,2276,3724,21.8,19.2,261,41.159.154.43,1,ga,Haut-Ogooué,Moanda,Africa/Libreville,16058,Gabon Telecom / Office of Posts and Telecommunications of Gabon,13,2025-09-06T19:41:35.878Z,2026-11-09T04:26:28.238Z
+http,41.159.154.43,3128,http://41.159.154.43:3128,anonymous,true,9482,4186.5,21.7,21.3,291,41.159.154.43,1,ga,Haut-Ogooué,Moanda,Africa/Libreville,16058,Gabon Telecom / Office of Posts and Telecommunications of Gabon,13,2025-09-06T19:41:35.878Z,2026-11-10T04:26:06.797Z

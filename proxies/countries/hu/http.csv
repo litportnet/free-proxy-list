@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,92.249.168.82,8080,http://92.249.168.82:8080,anonymous,true,3833,4737,46,49.5,329,92.249.168.82,1,hu,Pest County,Érd,Europe/Budapest,20845,2Connect Telecommunications Infrastructure & Network Services Ltd.,19,2026-11-06T00:15:54.141Z,2026-11-09T04:31:13.304Z
+http,89.135.59.71,8090,http://89.135.59.71:8090,anonymous,false,3030,3845.5,14.9,14.5,262,89.135.59.71,1,hu,Budapest,Budapest,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,16,2025-09-06T12:38:44.678Z,2026-11-10T04:26:43.875Z

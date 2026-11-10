@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.18.90.43,4153,socks4://81.18.90.43:4153,elite,false,1701,2724,62.6,48.3,714,81.18.90.43,1,ro,Mureș County,Târgu Mureş,Europe/Bucharest,8708,DIGI ROMANIA S.A.,20,2025-09-05T00:23:08.743Z,2026-11-09T04:26:50.503Z
-socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,false,725,721,48.7,45.3,652,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,13,2025-09-04T23:48:59.822Z,2026-11-09T04:27:57.057Z
+socks4,81.12.157.98,5678,socks4://81.12.157.98:5678,elite,true,3761,1976,52.2,63.8,718,81.12.157.98,1,ro,Brașov County,Braşov,Europe/Bucharest,12302,Vodafone Romania S.A.,22,2025-09-04T23:49:01.868Z,2026-11-10T04:32:29.262Z
+socks4,81.18.90.43,4153,socks4://81.18.90.43:4153,elite,false,3730,3227,59.7,50.3,716,81.18.90.43,1,ro,Mureș County,Târgu Mureş,Europe/Bucharest,8708,DIGI ROMANIA S.A.,20,2025-09-05T00:23:08.743Z,2026-11-10T04:31:00.411Z
+socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,false,725,722.5,47.5,45.2,644,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,13,2025-09-04T23:48:59.822Z,2026-11-10T04:29:46.251Z

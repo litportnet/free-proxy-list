@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,2.102.71.177,1080,socks5://2.102.71.177:1080,elite,true,653,877.5,46.6,41.4,365,2.102.71.177,1,gb,England,Brighouse,Europe/London,13285,TalkTalk Communications Limited,14,2026-11-01T07:16:15.214Z,2026-11-09T04:28:14.025Z

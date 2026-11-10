@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,180.222.187.50,10800,socks4://180.222.187.50:10800,elite,true,1088,764.5,79.7,85.3,671,180.222.187.50,2,jp,Tokyo,Tokyo,Asia/Tokyo,131921,GMO GlobalSign Holdings K.K.,14,2026-11-02T10:30:39.326Z,2026-11-09T04:28:09.078Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.171.94.166,1081,socks5://217.171.94.166:1081,elite,false,2668,4315.5,41.8,38.3,462,217.171.94.166,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,43256,Global Broadband Solution Inc,16,2026-10-02T18:03:11.507Z,2026-11-09T04:25:33.750Z
-http,41.79.233.182,8080,http://41.79.233.182:8080,anonymous,true,2011,4382.5,32.6,24.2,451,41.79.233.182,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37677,Societe Congolaise des Postes et Telecommunications (SCPT),14,2026-05-21T19:28:42.984Z,2026-11-09T04:26:51.630Z
+http,102.222.231.1,2333,http://102.222.231.1:2333,anonymous,false,5991,4581.5,16.2,33.3,582,102.222.229.17,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,37638,Orioncom SPRL,15,2025-09-05T20:06:35.483Z,2026-11-10T04:27:41.408Z

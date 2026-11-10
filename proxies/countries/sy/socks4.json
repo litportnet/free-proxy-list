@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://193.43.159.161:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 8084,
-    "latency_median_ms": 1394,
-    "uptime_24h": 38.2,
-    "uptime_7d": 38.6,
-    "checks_7d": 620,
+    "https": true,
+    "latency_ms": 3840,
+    "latency_median_ms": 1838,
+    "uptime_24h": 45.5,
+    "uptime_7d": 39,
+    "checks_7d": 616,
     "exit_ip": "193.43.159.161",
     "exit_shared": 1,
     "country": "sy",
@@ -21,6 +21,6 @@
     "asn_org": "STE PDN Internal AS",
     "sources_count": 11,
     "first_seen": "2026-05-31T07:16:37.570Z",
-    "last_checked": "2026-11-09T04:25:03.273Z"
+    "last_checked": "2026-11-10T04:25:07.658Z"
   }
 ]

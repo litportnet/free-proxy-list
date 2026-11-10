@@ -1,8 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,6228,3516,75.2,78.4,887,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-09T04:22:24.800Z
-http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,403,406.5,72.2,69.8,797,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-09T04:32:29.324Z
-http,104.194.146.9,80,http://104.194.146.9:80,elite,true,423,410.5,56.1,60.2,751,81.19.210.10,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-09T04:25:58.468Z
-http,193.33.157.195,8080,http://193.33.157.195:8080,anonymous,true,4585,3999,35.3,44.1,651,195.5.168.131,1,gb,England,Manchester,Europe/London,,,24,2026-09-07T06:23:42.638Z,2026-11-09T04:27:43.453Z
-socks5,2.102.71.177,1080,socks5://2.102.71.177:1080,elite,true,653,877.5,46.6,41.4,365,2.102.71.177,1,gb,England,Brighouse,Europe/London,13285,TalkTalk Communications Limited,14,2026-11-01T07:16:15.214Z,2026-11-09T04:28:14.025Z
-http,57.128.171.43,80,http://57.128.171.43:80,elite,false,3586,2565.5,10.8,6.7,150,57.128.171.43,1,gb,England,Woolwich,Europe/London,16276,OVH SAS,8,2025-12-22T18:28:35.239Z,2026-11-09T04:28:17.219Z
-socks4,167.99.3.26,9000,socks4://167.99.3.26:9000,elite,true,777,1587.5,9.1,5.2,115,109.121.43.195,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,12,2026-10-14T08:29:35.356Z,2026-11-09T04:26:17.393Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4044,3545.5,56,77.1,868,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-10T04:27:41.960Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,546,414,55.6,68.3,788,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-10T04:26:33.128Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,true,559,406.5,68.7,65.4,788,81.19.210.10,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-10T04:23:28.550Z
+socks4,89.238.128.230,1080,socks4://89.238.128.230:1080,elite,false,1517,1523,27.7,23.7,448,84.39.116.22,1,gb,England,Ringway,Europe/London,9009,M247 Europe SRL,14,2026-10-22T02:07:16.416Z,2026-11-10T04:27:35.552Z
+http,167.99.3.26,9054,http://167.99.3.26:9054,elite,false,492,1838,9.5,8,150,109.121.43.187,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,9,2026-10-29T06:38:05.690Z,2026-11-10T04:25:00.176Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "37.221.215.135",
+    "port": 1080,
+    "url": "socks5://37.221.215.135:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6502,
+    "latency_median_ms": 6597,
+    "uptime_24h": 28.3,
+    "uptime_7d": 25.5,
+    "checks_7d": 51,
+    "exit_ip": "37.221.215.135",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Budapest",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "asn": 41075,
+    "asn_org": "ATW Internet Kft.",
+    "sources_count": 11,
+    "first_seen": "2026-11-05T18:12:36.364Z",
+    "last_checked": "2026-11-10T04:29:06.291Z"
+  }
+]
