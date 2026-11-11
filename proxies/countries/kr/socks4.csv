@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,939,1645.5,86.4,84.6,924,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-10T04:25:45.326Z
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,1938,1987.5,71.2,61.8,678,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-10T04:25:09.281Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,925,931,95.8,85.6,932,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-11T04:30:02.238Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,3934,974.5,62.8,61.5,685,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-11T04:29:18.414Z
+socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,false,3909,931,35.3,39.2,612,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-11-11T04:27:03.950Z
+socks4,43.155.215.149,20000,socks4://43.155.215.149:20000,elite,true,999,989.5,31.8,33.9,168,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-07-17T05:21:19.618Z,2026-11-11T04:29:49.973Z

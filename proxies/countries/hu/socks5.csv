@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,37.221.215.135,1080,socks5://37.221.215.135:1080,elite,false,6502,6597,28.3,25.5,51,37.221.215.135,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,11,2026-11-05T18:12:36.364Z,2026-11-10T04:29:06.291Z
+socks5,5.75.133.113,10808,socks5://5.75.133.113:10808,elite,true,2633,2463,46.6,48.9,569,185.104.187.66,1,hu,Budapest,Budapest,Europe/Budapest,9009,M247 Europe SRL,19,2026-08-23T21:34:26.552Z,2026-11-11T04:27:02.867Z

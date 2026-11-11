@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,9274,4570.5,51.7,62.8,800,185.213.154.239,2,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,6,2026-07-13T12:28:32.242Z,2026-11-10T04:29:33.369Z
-socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,false,4041,3190,44.4,37.8,513,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-10T04:27:34.494Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,false,6105,5466.5,52.6,60.8,804,141.98.255.214,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,6,2026-07-13T12:28:32.242Z,2026-11-11T04:27:54.125Z
+socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,false,7247,4161,44.9,40,600,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-11T04:26:12.119Z
+socks4,13.60.212.72,1080,socks4://13.60.212.72:1080,elite,false,2471,1769,90,,20,13.60.212.72,2,se,Stockholm,Stockholm,Europe/Stockholm,16509,"Amazon.com, Inc.",6,2026-11-11T01:19:30.644Z,2026-11-11T04:30:32.095Z

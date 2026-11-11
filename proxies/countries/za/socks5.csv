@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,102.211.132.81,1080,socks5://102.211.132.81:1080,elite,false,2541,2531.5,58.6,,29,102.211.132.81,1,za,Gauteng,Pretoria,Africa/Johannesburg,329303,Splizr Networks (Pty) Ltd,9,2026-11-09T23:05:46.505Z,2026-11-10T04:23:48.312Z
+socks5,102.36.127.249,1080,socks5://102.36.127.249:1080,elite,false,4516,2511,17.1,25.3,467,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,19,2026-08-19T21:44:21.763Z,2026-11-11T04:28:05.902Z

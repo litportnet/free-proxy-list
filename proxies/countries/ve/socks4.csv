@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,170.254.173.6,1080,socks4://170.254.173.6:1080,elite,true,572,2563.5,62.8,52.8,669,170.254.173.6,1,ve,Monagas,Maturín,America/Caracas,265641,TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),20,2026-07-05T16:48:25.056Z,2026-11-10T04:24:55.852Z

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1044,1198,77.8,84,924,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-11-10T04:28:28.922Z
-socks5,193.122.105.251,65535,socks5://193.122.105.251:65535,elite,true,1036,1607.5,15.8,15.3,177,193.122.105.251,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,18,2025-09-06T10:18:48.631Z,2026-11-10T04:23:34.433Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1886,1125,95.1,84.7,929,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:54.806Z,2026-11-11T04:28:43.732Z

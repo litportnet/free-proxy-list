@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.114.7.6,1080,socks5://195.114.7.6:1080,elite,false,1096,1688.5,25,22.4,322,195.114.7.6,1,ua,Crimea,Simferopol,Europe/Simferopol,41161,Artem Zubkov,20,2026-04-07T02:43:59.656Z,2026-11-11T04:21:41.924Z
+socks5,195.26.94.9,1080,socks5://195.26.94.9:1080,elite,false,852,1500,80.6,,36,195.26.94.9,1,ua,Kyiv City,Kyiv,Europe/Kyiv,41320,"""Schid-Service"" Ltd",9,2026-11-10T22:17:59.152Z,2026-11-11T04:25:58.233Z

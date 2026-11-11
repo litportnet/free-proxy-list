@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.108.50.254,4145,socks4://200.108.50.254:4145,elite,false,1848,2116.5,51.3,55,758,200.108.50.254,1,pa,Panamá,Panama City,America/Panama,18809,Cable Onda,14,2025-09-04T23:49:13.837Z,2026-11-10T04:30:41.452Z
+socks4,200.108.50.254,4145,socks4://200.108.50.254:4145,elite,true,4291,2896,44.2,53.7,762,200.108.50.254,1,pa,Panamá,Panama City,America/Panama,18809,Cable Onda,14,2025-09-04T23:49:13.837Z,2026-11-11T04:24:50.968Z

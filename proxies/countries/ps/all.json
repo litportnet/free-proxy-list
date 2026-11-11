@@ -1,17 +1,17 @@
 [
   {
-    "protocol": "http",
-    "ip": "82.213.29.53",
-    "port": 19000,
-    "url": "http://82.213.29.53:19000",
-    "anonymity": "anonymous",
-    "https": false,
-    "latency_ms": 2938,
-    "latency_median_ms": 3172,
-    "uptime_24h": 33.9,
-    "uptime_7d": 49.1,
-    "checks_7d": 725,
-    "exit_ip": "213.6.68.29",
+    "protocol": "socks4",
+    "ip": "213.6.68.210",
+    "port": 4145,
+    "url": "socks4://213.6.68.210:4145",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3819,
+    "latency_median_ms": 1142,
+    "uptime_24h": 51.1,
+    "uptime_7d": 50.8,
+    "checks_7d": 624,
+    "exit_ip": "213.6.68.210",
     "exit_shared": 1,
     "country": "ps",
     "region": "West Bank",
@@ -19,8 +19,8 @@
     "timezone": "Asia/Hebron",
     "asn": 12975,
     "asn_org": "PALTEL Autonomous System",
-    "sources_count": 14,
-    "first_seen": "2026-09-08T19:42:55.825Z",
-    "last_checked": "2026-11-10T04:32:43.858Z"
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:05.420Z",
+    "last_checked": "2026-11-11T04:20:48.452Z"
   }
 ]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "85.132.108.42",
+    "port": 3128,
+    "url": "http://85.132.108.42:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 863,
+    "latency_median_ms": 891,
+    "uptime_24h": 96,
+    "uptime_7d": 96,
+    "checks_7d": 50,
+    "exit_ip": "85.132.108.42",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 200446,
+    "asn_org": "SELNET LLC",
+    "sources_count": 14,
+    "first_seen": "2026-11-10T20:16:55.512Z",
+    "last_checked": "2026-11-11T04:28:10.670Z"
+  }
+]

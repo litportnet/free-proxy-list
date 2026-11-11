@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.41",
+    "port": 6505,
+    "url": "socks5://45.74.31.41:6505",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2603,
+    "latency_median_ms": 6245,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 1,
+    "exit_ip": "102.134.101.35",
+    "exit_shared": 1,
+    "country": "bi",
+    "region": "Bujumbura Mairie",
+    "city": "Bujumbura",
+    "timezone": "Africa/Bujumbura",
+    "asn": 37545,
+    "asn_org": "Burundi Backbone System SM",
+    "sources_count": 12,
+    "first_seen": "2026-10-14T02:26:17.042Z",
+    "last_checked": "2026-11-11T04:21:51.056Z"
+  }
+]

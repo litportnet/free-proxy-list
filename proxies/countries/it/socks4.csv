@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,635,613,37.9,38.9,535,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-11-10T04:30:04.164Z
-socks4,212.43.119.1,1080,socks4://212.43.119.1:1080,elite,false,1748,1743.5,32.4,27.6,507,212.43.119.1,1,it,Abruzzo,Pescara,Europe/Rome,21034,Micso Information Technology Srl,20,2026-07-05T18:51:25.380Z,2026-11-10T04:28:22.406Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,true,651,2624.5,47.7,42.9,508,5.95.121.180,1,it,Campania,Sorrento,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-11-11T04:24:55.256Z

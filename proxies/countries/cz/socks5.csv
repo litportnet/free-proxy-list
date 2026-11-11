@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2844,3062,40.2,45.7,564,45.84.122.154,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-11-10T04:30:54.474Z
-socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,false,1855,1831,42,39.5,646,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,14,2026-10-31T14:07:16.201Z,2026-11-10T04:30:42.010Z
-socks5,78.80.157.35,1080,socks5://78.80.157.35:1080,elite,false,7842,1781.5,67.7,,31,78.80.157.35,1,cz,Prague,Prague,Europe/Prague,13036,T-Mobile Czech Republic a.s.,7,2026-11-09T23:05:40.992Z,2026-11-10T04:25:46.407Z

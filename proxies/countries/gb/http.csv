@@ -1,5 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4044,3545.5,56,77.1,868,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-10T04:27:41.960Z
-http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,546,414,55.6,68.3,788,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-10T04:26:33.128Z
-http,81.19.210.10,80,http://81.19.210.10:80,elite,true,559,406.5,68.7,65.4,788,81.19.210.10,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-10T04:23:28.550Z
-http,167.99.3.26,9054,http://167.99.3.26:9054,elite,false,492,1838,9.5,8,150,109.121.43.187,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,9,2026-10-29T06:38:05.690Z,2026-11-10T04:25:00.176Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2658,2386,48.5,71.6,862,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-11T04:25:35.183Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,false,7758,777,68.4,68.2,832,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-11T04:25:17.616Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,421,404,56,66.3,787,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-11T04:21:25.604Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,424,417.5,64.3,64.7,810,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-11T04:24:53.101Z
+http,172.236.2.41,3128,http://172.236.2.41:3128,elite,true,392,1675,31.4,48.6,72,172.236.2.41,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,4,2026-11-10T01:06:49.294Z,2026-11-11T04:26:26.018Z
+http,167.99.3.26,6061,http://167.99.3.26:6061,elite,false,601,564,28.6,9.2,87,139.190.230.54,1,gb,England,London,Europe/London,5089,Virgin Media Limited,12,2026-10-31T02:00:56.572Z,2026-11-11T04:25:15.498Z

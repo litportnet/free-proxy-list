@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,13.140.215.192,1080,socks4://13.140.215.192:1080,elite,true,2658,1337.5,100,100,51,13.140.215.192,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,8,2026-11-09T20:04:09.643Z,2026-11-10T04:29:14.979Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,3557,1553,52.3,47.6,492,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-10T04:24:44.564Z

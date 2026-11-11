@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,true,1196,2201,51.6,73,733,195.13.182.211,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-07T11:02:35.488Z,2026-11-10T04:24:02.770Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,true,2101,1780.5,59.9,70.6,860,195.13.182.211,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,16,2026-10-07T11:02:35.488Z,2026-11-11T04:27:18.884Z

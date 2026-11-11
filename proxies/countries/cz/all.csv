@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2844,3062,40.2,45.7,564,45.84.122.154,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,18,2026-09-16T15:24:29.706Z,2026-11-10T04:30:54.474Z
-socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,false,1855,1831,42,39.5,646,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,14,2026-10-31T14:07:16.201Z,2026-11-10T04:30:42.010Z
-socks5,78.80.157.35,1080,socks5://78.80.157.35:1080,elite,false,7842,1781.5,67.7,,31,78.80.157.35,1,cz,Prague,Prague,Europe/Prague,13036,T-Mobile Czech Republic a.s.,7,2026-11-09T23:05:40.992Z,2026-11-10T04:25:46.407Z
+socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,false,1804,1272.5,50.4,38,505,90.178.216.215,1,cz,Plzeň Region,Pilsen,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-11-11T04:21:11.240Z
+http,46.23.61.97,8080,http://46.23.61.97:8080,anonymous,false,4668,3720.5,23.8,35.6,385,46.23.61.97,1,cz,Central Bohemia,Lužná,Europe/Prague,197296,United Networks SE,15,2026-11-07T08:32:50.739Z,2026-11-11T04:22:29.611Z
+http,77.240.102.149,800,http://77.240.102.149:800,anonymous,true,4456,3425,21.7,28.4,522,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-11T04:26:11.065Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,false,7528,7236,55.6,62.9,811,104.193.135.197,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-11T22:06:41.545Z,2026-11-10T04:23:38.147Z
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,8640,7339,44.2,45.5,679,23.234.85.144,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-11-10T04:26:36.359Z
+socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,5739,5433.5,51.6,60.1,806,104.193.135.197,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-11T22:06:41.545Z,2026-11-11T04:25:33.035Z
+socks5,109.105.218.62,1080,socks5://109.105.218.62:1080,elite,true,167,181.5,73.2,53,574,185.156.47.134,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,15,2026-11-05T02:04:06.068Z,2026-11-11T04:20:29.962Z
+socks5,216.144.231.101,1080,socks5://216.144.231.101:1080,elite,true,5207,4531.5,25.6,20.8,293,216.144.231.99,1,ca,Ontario,Toronto,America/Toronto,36352,HostPapa,13,2026-11-06T01:16:18.522Z,2026-11-11T04:27:07.664Z

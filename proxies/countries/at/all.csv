@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,524,553,100,99.7,689,141.101.105.187,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-10T04:29:32.306Z
-socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,true,2442,1097,82.9,76.2,844,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,14,2026-07-05T02:40:57.084Z,2026-11-10T04:24:52.597Z
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,648,2228.5,68.9,64,711,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-11-10T04:28:08.902Z
+http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,574,564,100,99.9,832,172.68.50.22,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-11T04:26:30.247Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,796,2747.5,71.7,63.3,697,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-11-11T04:30:11.917Z
+socks4,185.196.178.238,60606,socks4://185.196.178.238:60606,elite,true,7680,3625,68.4,56.5,637,185.196.178.238,1,at,Tyrol,Längenfeld,Europe/Vienna,206091,Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG,21,2025-09-05T20:06:33.498Z,2026-11-11T04:30:11.926Z

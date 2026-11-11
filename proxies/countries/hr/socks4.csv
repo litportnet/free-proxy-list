@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,true,693,682.5,48.3,48.4,668,82.132.19.108,1,hr,Krapina-Zagorje,Oroslavje,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-11-10T04:25:08.745Z
+socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,false,1680,690.5,56.3,51.3,696,82.132.19.108,1,hr,Krapina-Zagorje,Oroslavje,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-11-11T04:29:02.433Z

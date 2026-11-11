@@ -1,8 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.106,80,http://141.101.90.106:80,transparent,false,550,551.5,100,99.7,695,162.158.102.127,1,pl,Mazovia,Warsaw,Europe/Warsaw,13335,"Cloudflare, Inc.",6,2025-09-27T18:23:26.219Z,2026-11-10T04:26:04.125Z
-http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,567,564,100,95,718,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-10T04:29:11.117Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,569,554.5,100,94.6,719,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-10T04:23:11.921Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,558,557,98.6,94.2,622,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-10T04:31:37.824Z
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,582,548,98.6,94,652,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-10T04:33:29.332Z
-http,188.128.254.4,3128,http://188.128.254.4:3128,anonymous,true,543,563.5,83.3,87,200,188.128.254.4,1,pl,Mazovia,Warsaw,Europe/Warsaw,12824,home.pl sp. z o.o.,12,2025-09-22T23:38:22.302Z,2026-11-10T04:32:09.794Z
-http,185.32.4.210,8090,http://185.32.4.210:8090,anonymous,false,6054,5249,12.5,6.4,110,212.127.88.213,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,21,2026-09-08T04:35:34.853Z,2026-11-10T04:27:25.324Z
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,521,537.5,100,95.9,861,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-11T04:30:31.041Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,520,532.5,100,95.6,862,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-11T04:24:40.787Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,549,545.5,100,95.4,765,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-11T04:27:38.065Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,588,533.5,100,95.2,794,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-11T04:26:52.710Z
+http,78.17.98.71,10808,http://78.17.98.71:10808,elite,true,1028,3071.5,24.3,28.5,330,217.60.33.27,1,pl,Mazovia,Warsaw,Europe/Warsaw,197574,ExpressHost Ltd,15,2026-11-06T23:28:04.700Z,2026-11-11T04:26:24.444Z

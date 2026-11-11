@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.11.193.67,8080,http://103.11.193.67:8080,anonymous,false,5573,2987,58.7,58.7,109,103.11.193.67,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,7,2026-03-31T19:24:11.217Z,2026-11-10T04:32:23.839Z
-http,43.242.241.47,8080,http://43.242.241.47:8080,anonymous,false,6039,3636.5,18,29.9,475,43.242.241.47,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,17882,Univision LLC,23,2025-09-19T06:17:10.425Z,2026-11-10T04:28:27.261Z
+http,202.21.101.37,8088,http://202.21.101.37:8088,elite,false,4332,4609.5,27,34.9,571,202.21.101.37,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9484,Mobinet LLC. AS Mobinet Internet Service Provider,20,2026-10-02T16:02:05.410Z,2026-11-11T04:26:31.333Z

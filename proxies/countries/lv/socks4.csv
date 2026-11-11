@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,94.242.50.113,2080,socks4://94.242.50.113:2080,elite,false,6489,6422,25,29.8,191,5.34.213.202,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,6,2026-06-14T15:22:05.791Z,2026-11-10T04:23:12.459Z
+socks4,159.148.146.65,5678,socks4://159.148.146.65:5678,elite,true,735,1727.5,56.4,45.4,670,159.148.146.65,1,lv,Riga,Riga,Europe/Riga,2588,SIA BITE Latvija,22,2025-09-04T23:49:06.204Z,2026-11-11T04:21:50.516Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.128.240.2",
+    "port": 3128,
+    "url": "http://185.128.240.2:3128",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 872,
+    "latency_median_ms": 2821,
+    "uptime_24h": 26.8,
+    "uptime_7d": 27.4,
+    "checks_7d": 518,
+    "exit_ip": "185.128.240.2",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Mehedinți County",
+    "city": "Drobeta-Turnu Severin",
+    "timezone": "Europe/Bucharest",
+    "asn": 49052,
+    "asn_org": "DATA ZYX SRL",
+    "sources_count": 17,
+    "first_seen": "2025-09-11T19:14:42.877Z",
+    "last_checked": "2026-11-11T04:20:42.636Z"
+  }
+]

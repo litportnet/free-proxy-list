@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,42.177.189.210,1080,socks5://42.177.189.210:1080,elite,false,1739,3566,42.1,,38,211.75.210.76,2,tw,Taiwan,Taichung,Asia/Taipei,3462,Data Communication Business Group,6,2026-11-09T21:04:40.669Z,2026-11-10T04:23:43.506Z

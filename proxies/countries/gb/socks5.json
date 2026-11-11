@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10814,
+    "url": "socks5://65.21.252.66:10814",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1401,
+    "latency_median_ms": 3726.5,
+    "uptime_24h": 12.5,
+    "uptime_7d": 25.9,
+    "checks_7d": 378,
+    "exit_ip": "37.221.113.173",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "London",
+    "timezone": "Europe/London",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 19,
+    "first_seen": "2026-09-17T02:30:16.285Z",
+    "last_checked": "2026-11-11T04:26:07.911Z"
+  }
+]

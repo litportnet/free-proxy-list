@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10802,socks5://5.75.133.113:10802,elite,false,7457,2175.5,54.5,50,588,85.203.47.77,1,dk,Capital Region,Copenhagen,Europe/Copenhagen,42708,Glesys Sweden AB,17,2026-09-17T17:38:15.449Z,2026-11-11T04:29:29.077Z

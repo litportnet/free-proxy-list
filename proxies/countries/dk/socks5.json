@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10802,
+    "url": "socks5://5.75.133.113:10802",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7457,
+    "latency_median_ms": 2175.5,
+    "uptime_24h": 54.5,
+    "uptime_7d": 50,
+    "checks_7d": 588,
+    "exit_ip": "85.203.47.77",
+    "exit_shared": 1,
+    "country": "dk",
+    "region": "Capital Region",
+    "city": "Copenhagen",
+    "timezone": "Europe/Copenhagen",
+    "asn": 42708,
+    "asn_org": "Glesys Sweden AB",
+    "sources_count": 17,
+    "first_seen": "2026-09-17T17:38:15.449Z",
+    "last_checked": "2026-11-11T04:29:29.077Z"
+  }
+]

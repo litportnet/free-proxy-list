@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.153.202.201,8181,http://103.153.202.201:8181,anonymous,false,3619,4840,22.1,30.8,484,103.148.104.10,1,mm,Shan State,Tachilek,Asia/Yangon,140091,SHWE MAHAR MAE KHONG INDUSTRIAL COMPANY LIMITED,17,2026-09-24T19:29:33.678Z,2026-11-10T04:23:19.454Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,anonymous,true,1966,3556,35.8,52.2,721,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-11-11T04:27:52.543Z

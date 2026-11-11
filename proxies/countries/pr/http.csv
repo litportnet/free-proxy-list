@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,323,2321.5,41.5,47.8,712,192.203.0.198,1,pr,Canóvanas,Canovanas,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-10T04:32:54.608Z
-http,192.203.0.142,999,http://192.203.0.142:999,anonymous,true,326,3586,25.6,35,548,192.203.0.142,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2026-05-04T08:39:48.827Z,2026-11-10T04:27:49.525Z
+http,23.138.88.96,999,http://23.138.88.96:999,anonymous,false,2720,3564.5,21.5,27.6,493,23.138.88.97,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,21,2025-09-05T20:06:26.778Z,2026-11-11T04:26:06.272Z
+http,192.203.0.70,999,http://192.203.0.70:999,anonymous,false,5169,3309.5,29.8,27.3,510,192.203.0.70,1,pr,Yabucoa,Yabucoa,America/Puerto_Rico,63393,BOOM NET,13,2025-09-05T20:06:33.026Z,2026-11-11T04:26:01.981Z
