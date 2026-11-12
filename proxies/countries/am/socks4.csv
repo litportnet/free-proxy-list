@@ -1,9 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,3886,3880.5,75.5,69.1,692,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-11-11T04:26:51.626Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,835,1885,57.1,56.9,627,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-11T04:25:48.670Z
-socks4,212.34.230.102,4153,socks4://212.34.230.102:4153,elite,false,2099,3378,34.5,36.1,460,212.34.230.101,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,21,2026-07-06T02:53:45.276Z,2026-11-11T04:25:20.251Z
-socks4,185.215.53.217,3629,socks4://185.215.53.217:3629,elite,false,8017,1847.5,34.6,26.9,219,185.215.53.146,5,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,11,2025-09-04T23:49:02.803Z,2026-11-11T04:22:39.704Z
-socks4,185.215.53.205,3629,socks4://185.215.53.205:3629,elite,false,795,1851,34.9,25.6,446,185.215.53.146,5,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,12,2025-09-04T23:02:33.013Z,2026-11-11T04:20:50.037Z
-socks4,185.215.53.129,3629,socks4://185.215.53.129:3629,elite,false,3849,1841,28.6,23,309,185.215.53.146,5,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,12,2025-09-04T23:48:54.331Z,2026-11-11T04:25:40.516Z
-socks4,185.215.54.66,3629,socks4://185.215.54.66:3629,elite,false,1842,1334.5,27.3,21.6,343,185.215.53.146,5,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,12,2025-09-04T23:49:07.365Z,2026-11-11T04:24:28.565Z
-socks4,185.215.53.193,3629,socks4://185.215.53.193:3629,elite,false,3843,1854,28.8,21.6,416,185.215.53.146,5,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,20,2025-09-05T00:21:43.925Z,2026-11-11T04:26:51.642Z
+socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,3864,1850,57.8,54.6,658,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-12T04:27:40.858Z
+socks4,185.215.53.217,3629,socks4://185.215.53.217:3629,elite,false,841,1845.5,32.8,28.1,327,185.215.53.146,1,am,Yerevan,Yerevan,Asia/Yerevan,205368,Fnet LLC,11,2025-09-04T23:49:02.803Z,2026-11-12T04:29:26.697Z

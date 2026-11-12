@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,102.36.127.249,1080,socks5://102.36.127.249:1080,elite,false,4516,2511,17.1,25.3,467,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,19,2026-08-19T21:44:21.763Z,2026-11-11T04:28:05.902Z
+socks5,102.36.127.231,1080,socks5://102.36.127.231:1080,elite,true,1844,2926.5,20,22.6,296,102.36.127.7,1,za,Mpumalanga,Mbombela,Africa/Johannesburg,327794,Clear Access (Pty) Ltd,18,2025-09-05T20:06:32.510Z,2026-11-12T04:28:40.588Z

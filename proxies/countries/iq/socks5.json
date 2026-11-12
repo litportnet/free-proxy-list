@@ -5,12 +5,12 @@
     "port": 6969,
     "url": "socks5://212.237.125.216:6969",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1164,
-    "latency_median_ms": 3478,
-    "uptime_24h": 29.5,
+    "https": false,
+    "latency_ms": 8850,
+    "latency_median_ms": 8535,
+    "uptime_24h": 36.9,
     "uptime_7d": 34.6,
-    "checks_7d": 627,
+    "checks_7d": 674,
     "exit_ip": "212.237.125.216",
     "exit_shared": 1,
     "country": "iq",
@@ -21,6 +21,6 @@
     "asn_org": "Kurdistan Net Company for Computer and Internet Ltd.",
     "sources_count": 21,
     "first_seen": "2025-09-05T20:06:16.156Z",
-    "last_checked": "2026-11-11T04:26:54.871Z"
+    "last_checked": "2026-11-12T04:30:06.246Z"
   }
 ]

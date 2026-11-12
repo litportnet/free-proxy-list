@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,521,537.5,100,95.9,861,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-11T04:30:31.041Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,520,532.5,100,95.6,862,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-11T04:24:40.787Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,549,545.5,100,95.4,765,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-11T04:27:38.065Z
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,588,533.5,100,95.2,794,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-11T04:26:52.710Z
-http,78.17.98.71,10808,http://78.17.98.71:10808,elite,true,1028,3071.5,24.3,28.5,330,217.60.33.27,1,pl,Mazovia,Warsaw,Europe/Warsaw,197574,ExpressHost Ltd,15,2026-11-06T23:28:04.700Z,2026-11-11T04:26:24.444Z
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,519,541,100,96.6,975,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-12T04:22:46.272Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,533,551.5,100,96.3,965,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-12T04:24:08.979Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,539,541,99.3,96.2,908,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-12T04:23:35.086Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,556,547,100,96.1,938,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-12T04:28:59.595Z

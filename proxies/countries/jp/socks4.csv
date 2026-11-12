@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,180.222.187.50,10800,socks4://180.222.187.50:10800,elite,true,783,998.5,88.6,83.9,694,180.222.187.50,2,jp,Tokyo,Tokyo,Asia/Tokyo,131921,GMO GlobalSign Holdings K.K.,14,2026-11-02T10:30:39.326Z,2026-11-11T04:24:14.764Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,754,777,65.4,64.2,472,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-11-11T04:28:58.194Z
-socks4,113.138.145.199,1081,socks4://113.138.145.199:1081,elite,true,3186,3293,100,,7,50.7.158.234,2,jp,Tokyo,Tokyo,Asia/Tokyo,30058,FDCservers.net,6,2026-11-11T03:20:38.147Z,2026-11-11T04:20:31.003Z
-socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,7216,764.5,100,,20,103.13.19.219,1,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,9,2026-11-11T01:19:30.644Z,2026-11-11T04:28:30.385Z
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,1624,768.5,94.4,95,161,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-12T04:25:57.667Z
+socks4,180.222.187.50,10800,socks4://180.222.187.50:10800,elite,true,2067,924.5,92.7,83.6,699,180.222.187.50,2,jp,Tokyo,Tokyo,Asia/Tokyo,131921,GMO GlobalSign Holdings K.K.,14,2026-11-02T10:30:39.326Z,2026-11-12T04:32:29.030Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,759,1786,70.4,64.1,509,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-11-12T04:26:02.964Z

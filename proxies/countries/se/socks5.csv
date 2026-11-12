@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.246.12.13,1080,socks5://46.246.12.13:1080,elite,true,3292,3650,100,99.3,405,46.246.12.13,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,13,2026-11-08T07:44:59.205Z,2026-11-11T04:22:53.581Z
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2061,2536.5,91.5,85.3,913,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-11T04:29:57.465Z
-socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,6323,4743,48.8,61.1,781,141.98.255.214,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,15,2026-07-13T09:34:11.062Z,2026-11-11T04:26:28.673Z
-socks5,143.198.239.45,10006,socks5://143.198.239.45:10006,elite,false,944,2377.5,40.8,45.6,513,193.189.100.196,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,2,2026-10-12T21:10:57.916Z,2026-11-11T04:26:40.398Z
-socks5,13.60.212.72,1080,socks5://13.60.212.72:1080,elite,false,2954,2604.5,92,,25,13.60.212.72,2,se,Stockholm,Stockholm,Europe/Stockholm,16509,"Amazon.com, Inc.",9,2026-11-11T00:19:04.569Z,2026-11-11T04:27:18.350Z
+socks5,46.246.12.13,1080,socks5://46.246.12.13:1080,elite,true,2176,2782.5,98.6,99.1,546,46.246.12.13,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys AB,13,2026-11-08T07:44:59.205Z,2026-11-12T04:31:38.135Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,8048,4782.5,87.9,84.7,925,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-12T04:22:39.365Z
+socks5,143.198.239.45,10019,socks5://143.198.239.45:10019,elite,true,7299,3405.5,52.1,63.2,690,45.84.107.100,1,se,Stockholm,Stockholm,Europe/Stockholm,214503,QuxLabs AB,1,2026-10-23T15:27:45.887Z,2026-11-12T04:25:04.653Z

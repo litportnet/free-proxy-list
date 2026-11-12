@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.61.129.165,9050,socks5://45.61.129.165:9050,elite,true,1169,1789.5,97.2,94.4,958,185.243.218.232,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,21,2026-07-02T02:04:25.816Z,2026-11-11T04:24:16.330Z
-socks5,65.21.252.66,10803,socks5://65.21.252.66:10803,elite,true,2081,2574,25.3,29,310,91.219.215.34,1,no,Oslo,Oslo,Europe/Oslo,9009,M247 Europe SRL,18,2026-09-18T12:48:20.513Z,2026-11-11T04:29:22.649Z

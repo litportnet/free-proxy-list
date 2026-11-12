@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,62.210.189.192,12323,http://62.210.189.192:12323,elite,false,9256,8774,30,,16,176.64.67.77,1,kz,North Kazakhstan,Petropavl,Asia/Almaty,48503,Tele2 Kazakhstan,3,2026-10-24T13:38:36.154Z,2026-11-12T04:30:45.837Z

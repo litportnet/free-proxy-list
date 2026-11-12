@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "62.210.189.192",
+    "port": 12323,
+    "url": "http://62.210.189.192:12323",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9256,
+    "latency_median_ms": 8774,
+    "uptime_24h": 30,
+    "uptime_7d": null,
+    "checks_7d": 16,
+    "exit_ip": "176.64.67.77",
+    "exit_shared": 1,
+    "country": "kz",
+    "region": "North Kazakhstan",
+    "city": "Petropavl",
+    "timezone": "Asia/Almaty",
+    "asn": 48503,
+    "asn_org": "Tele2 Kazakhstan",
+    "sources_count": 3,
+    "first_seen": "2026-10-24T13:38:36.154Z",
+    "last_checked": "2026-11-12T04:30:45.837Z"
+  }
+]

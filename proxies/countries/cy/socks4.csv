@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,87.228.228.101,4145,socks4://87.228.228.101:4145,elite,false,771,2794.5,57.3,47.4,625,87.228.228.101,1,cy,Pafos,Paphos,Asia/Nicosia,6866,Cyprus Telecommunications Authority,21,2026-07-06T01:00:13.598Z,2026-11-11T04:24:03.031Z
-socks4,212.31.100.138,4153,socks4://212.31.100.138:4153,elite,true,763,777.5,42.2,38.7,401,212.31.100.138,1,cy,Ammochostos,Ayia Napa,Asia/Famagusta,6866,Cyprus Telecommunications Authority,13,2025-09-04T23:48:59.836Z,2026-11-11T04:20:07.309Z
+socks4,87.228.228.101,4145,socks4://87.228.228.101:4145,elite,false,768,1791.5,50.4,46.9,674,87.228.228.101,1,cy,Pafos,Paphos,Asia/Nicosia,6866,Cyprus Telecommunications Authority,21,2026-07-06T01:00:13.598Z,2026-11-12T04:23:30.841Z

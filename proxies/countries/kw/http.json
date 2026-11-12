@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "62.210.189.192",
+    "port": 12649,
+    "url": "http://62.210.189.192:12649",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8641,
+    "latency_median_ms": 8074.5,
+    "uptime_24h": 11.8,
+    "uptime_7d": 3.4,
+    "checks_7d": 59,
+    "exit_ip": "37.39.228.73",
+    "exit_shared": 1,
+    "country": "kw",
+    "region": "Al Farwaniyah",
+    "city": "Al Farwānīyah",
+    "timezone": "Asia/Kuwait",
+    "asn": 42961,
+    "asn_org": "Mobile Telecommunications Company K.S.C.P.",
+    "sources_count": 3,
+    "first_seen": "2026-10-23T19:29:03.320Z",
+    "last_checked": "2026-11-12T04:31:29.638Z"
+  }
+]

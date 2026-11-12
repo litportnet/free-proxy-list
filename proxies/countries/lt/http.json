@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "84.55.46.85",
+    "port": 8080,
+    "url": "http://84.55.46.85:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 562,
+    "latency_median_ms": 567,
+    "uptime_24h": 74.2,
+    "uptime_7d": null,
+    "checks_7d": 31,
+    "exit_ip": "84.55.46.85",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Kaunas",
+    "city": "Kaunas",
+    "timezone": "Europe/Vilnius",
+    "asn": 24877,
+    "asn_org": "UAB INIT",
+    "sources_count": 3,
+    "first_seen": "2025-09-07T11:16:53.444Z",
+    "last_checked": "2026-11-12T04:30:52.188Z"
+  }
+]

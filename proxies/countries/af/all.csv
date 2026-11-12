@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,false,2062,2060.5,41.4,47.9,703,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,16,2026-10-01T22:53:09.008Z,2026-11-11T04:27:00.715Z
-http,203.171.115.116,8080,http://203.171.115.116:8080,anonymous,false,2644,3309,37.5,33.2,570,203.171.115.116,1,af,Sar-e Pol Province,Tukzār,Asia/Kabul,131284,Etisalat Afghan,16,2026-05-21T20:15:23.503Z,2026-11-11T04:26:02.512Z
-socks5,103.96.233.10,1080,socks5://103.96.233.10:1080,elite,false,3730,2688.5,28,27.2,485,103.96.233.10,1,af,Nangarhar,Jalālābād,Asia/Kabul,133894,Easy Connect- ISP,18,2026-06-12T04:50:44.329Z,2026-11-11T04:29:14.169Z
+socks4,111.125.154.22,1080,socks4://111.125.154.22:1080,elite,false,2063,4069.5,45.4,48.2,758,111.125.154.22,1,af,Takhar,Darqad,Asia/Kabul,45178,ROSHAN,16,2026-10-01T22:53:09.008Z,2026-11-12T04:28:34.773Z

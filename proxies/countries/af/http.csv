@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,203.171.115.116,8080,http://203.171.115.116:8080,anonymous,false,2644,3309,37.5,33.2,570,203.171.115.116,1,af,Sar-e Pol Province,Tukzār,Asia/Kabul,131284,Etisalat Afghan,16,2026-05-21T20:15:23.503Z,2026-11-11T04:26:02.512Z

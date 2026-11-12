@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,16.63.207.85,80,http://16.63.207.85:80,elite,false,492,506.5,100,100,906,172.71.141.178,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",3,2025-12-30T01:00:13.793Z,2026-11-11T04:27:12.510Z
-http,165.225.66.38,11588,http://165.225.66.38:11588,elite,false,3002,1740.5,93.3,98.5,595,165.225.67.37,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,3,2026-10-28T04:24:17.864Z,2026-11-11T04:20:36.294Z
-http,185.191.239.248,3128,http://185.191.239.248:3128,anonymous,true,507,533,89.4,88.6,884,185.191.239.248,1,ch,Ticino,Lugano,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-11-11T04:25:47.068Z
-http,217.162.8.134,80,http://217.162.8.134:80,elite,false,4241,2743.5,67.6,72,783,217.162.8.134,1,ch,Solothurn,Egerkingen,Europe/Zurich,6730,Sunrise GmbH,11,2025-12-07T12:46:43.973Z,2026-11-11T04:28:03.773Z
+http,16.63.207.85,80,http://16.63.207.85:80,elite,false,495,493.5,100,100,1007,172.71.141.178,1,ch,Zurich,Zürich,Europe/Zurich,13335,"Cloudflare, Inc.",3,2025-12-30T01:00:13.793Z,2026-11-12T04:25:00.924Z
+http,165.225.66.40,11588,http://165.225.66.40:11588,elite,false,2606,1783,98.7,91.8,85,165.225.67.26,1,ch,Zurich,Zürich,Europe/Zurich,62044,Zscaler Switzerland GmbH,15,2026-10-28T05:24:48.424Z,2026-11-12T04:28:43.242Z
+http,185.191.239.248,3128,http://185.191.239.248:3128,anonymous,false,1321,557,94.4,87.9,884,185.191.239.248,1,ch,Ticino,Lugano,Europe/Zurich,264617,GRUPO PANAGLOBAL 15 S.A,17,2026-05-21T20:26:35.754Z,2026-11-12T04:25:25.918Z
+http,185.85.111.18,80,http://185.85.111.18:80,elite,false,457,464,49.2,66.4,843,185.85.111.18,1,ch,Zurich,Dürnten,Europe/Zurich,51395,Datasource AG,19,2025-12-06T18:03:11.604Z,2026-11-12T04:31:02.816Z
+http,104.244.78.150,5555,http://104.244.78.150:5555,elite,true,9463,551.5,22.9,15.9,220,104.244.78.150,1,ch,Zurich,Zürich,Europe/Zurich,53667,FranTech Solutions,16,2025-09-06T18:18:16.954Z,2026-11-12T04:22:54.787Z

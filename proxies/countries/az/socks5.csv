@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.191.253.56,1080,socks5://5.191.253.56:1080,elite,false,4438,2128.5,32.4,40.8,633,5.191.253.56,1,az,Baki,Baku,Asia/Baku,200729,AzInTelecom LLC,10,2026-10-23T23:31:11.531Z,2026-11-11T04:21:43.532Z
+socks5,5.191.253.56,1080,socks5://5.191.253.56:1080,elite,false,2353,3270,29.3,38.9,666,5.191.253.56,1,az,Baki,Baku,Asia/Baku,200729,AzInTelecom LLC,10,2026-10-23T23:31:11.531Z,2026-11-12T04:22:41.485Z

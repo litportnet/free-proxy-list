@@ -1,4 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,453,454,99.3,98.6,1001,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-11T04:26:41.471Z
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,693,1747.5,70.3,64.4,761,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-11-11T04:27:06.076Z
-http,213.165.69.219,3128,http://213.165.69.219:3128,elite,true,619,588,73.7,,19,213.165.69.219,1,es,La Rioja,Logroño,Europe/Madrid,8560,IONOS SE,6,2026-11-11T01:19:36.451Z,2026-11-11T04:21:52.638Z
+http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,506,507,98.8,98.8,80,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,9,2026-07-22T23:32:12.809Z,2026-11-12T04:28:08.299Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,450,451,99.3,98.5,999,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-12T04:25:47.606Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,3768,1689.5,70.9,65.7,732,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-11-12T04:31:23.182Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,anonymous,false,2301,2880.5,41.5,49.2,762,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-11-12T04:27:55.110Z
+http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,3984,4046,41.7,40.8,703,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-12T04:25:08.382Z
+http,2.139.41.14,3128,http://2.139.41.14:3128,anonymous,false,2993,2442,26.1,33.3,552,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-11-12T04:23:40.336Z
+socks4,185.130.219.10,4153,socks4://185.130.219.10:4153,elite,false,622,627,31,30.1,501,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,13,2025-09-04T23:49:12.078Z,2026-11-12T04:23:49.335Z
+http,193.38.224.169,8081,http://193.38.224.169:8081,anonymous,false,6835,2627,25.7,24.7,494,193.38.224.169,1,es,Cantabria,Santander,Europe/Madrid,206276,Citelia s.a.,22,2025-09-05T20:06:20.927Z,2026-11-12T04:31:41.378Z

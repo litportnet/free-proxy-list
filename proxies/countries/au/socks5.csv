@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,159.196.163.64,80,socks5://159.196.163.64:80,elite,false,1515,1569.5,29.4,30.2,295,220.158.199.206,1,au,New South Wales,Sydney,Australia/Sydney,137409,GSL Networks Pty LTD,13,2026-10-05T08:36:04.345Z,2026-11-11T04:30:40.137Z
-socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,true,8376,2712.5,30.8,30.2,577,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,19,2026-05-09T06:34:30.972Z,2026-11-11T04:24:47.774Z
-socks5,168.138.9.147,1080,socks5://168.138.9.147:1080,elite,false,2358,5319.5,13.6,14.2,212,168.138.9.147,1,au,Victoria,Melbourne,Australia/Melbourne,31898,Oracle Corporation,19,2026-03-24T16:52:32.307Z,2026-11-11T04:25:55.019Z

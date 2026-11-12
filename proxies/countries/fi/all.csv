@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.203.6.219,3128,http://185.203.6.219:3128,transparent,false,7242,4028,26.7,37.8,487,185.203.6.219,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,17,2026-11-06T12:22:14.211Z,2026-11-11T04:28:23.970Z
-http,45.130.127.14,3128,http://45.130.127.14:3128,transparent,false,6052,4410.5,32.8,34.5,420,45.130.127.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,18,2026-10-12T16:08:15.580Z,2026-11-11T04:25:00.545Z
+http,109.120.156.237,3128,http://109.120.156.237:3128,elite,false,8852,7740,70.7,70.7,92,109.120.156.237,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,14,2026-11-11T12:25:25.592Z,2026-11-12T04:27:21.795Z
+socks5,194.113.38.227,1080,socks5://194.113.38.227:1080,elite,false,2306,3208.5,53,55.4,204,31.77.202.253,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:46.785Z,2026-11-12T04:27:06.870Z
+socks5,65.109.196.122,2080,socks5://65.109.196.122:2080,elite,false,855,822,46.2,41.3,467,104.28.222.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",14,2026-08-16T18:46:19.356Z,2026-11-12T04:28:33.718Z
+http,185.203.6.219,3128,http://185.203.6.219:3128,transparent,false,6385,5526.5,34.6,37.1,593,185.203.6.219,1,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,17,2026-11-06T12:22:14.211Z,2026-11-12T04:24:03.081Z

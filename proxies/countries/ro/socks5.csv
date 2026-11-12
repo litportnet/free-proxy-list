@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,true,1293,3653.5,57.1,57.6,538,89.40.181.202,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,19,2026-08-24T12:42:33.832Z,2026-11-11T04:28:03.769Z
-socks5,93.100.74.173,8088,socks5://93.100.74.173:8088,elite,false,1024,1164,35.4,35.8,639,217.156.108.82,1,ro,Tulcea County,Tulcea,Europe/Bucharest,61002,Smart Solutions & Soft SRL,17,2026-09-30T00:35:17.073Z,2026-11-11T04:23:54.041Z
+socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,1011,1036.5,46.3,48.6,677,45.128.116.2,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,51177,TIPZOR MEDIA SRL,19,2026-07-31T19:22:14.557Z,2026-11-12T04:26:22.021Z

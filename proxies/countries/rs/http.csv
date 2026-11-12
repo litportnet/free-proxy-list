@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,212.200.223.89,8080,http://212.200.223.89:8080,anonymous,false,1472,3543,37.2,48.1,719,212.200.223.89,1,rs,Central Serbia,Šabac,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,24,2026-08-05T23:29:41.654Z,2026-11-11T04:30:00.138Z
+http,212.200.223.89,8080,http://212.200.223.89:8080,anonymous,false,2679,2257,40,46,750,212.200.223.89,1,rs,Central Serbia,Šabac,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,24,2026-08-05T23:29:41.654Z,2026-11-12T04:28:28.437Z
