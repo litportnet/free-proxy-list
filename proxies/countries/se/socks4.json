@@ -6,11 +6,11 @@
     "url": "socks4://188.150.229.60:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4072,
-    "latency_median_ms": 1710,
-    "uptime_24h": 80,
-    "uptime_7d": 80,
-    "checks_7d": 95,
+    "latency_ms": 3625,
+    "latency_median_ms": 1117,
+    "uptime_24h": 75,
+    "uptime_7d": 76.9,
+    "checks_7d": 234,
     "exit_ip": "188.150.229.60",
     "exit_shared": 1,
     "country": "se",
@@ -19,9 +19,9 @@
     "timezone": "Europe/Stockholm",
     "asn": 1257,
     "asn_org": "Tele2 Sverige AB",
-    "sources_count": 8,
+    "sources_count": 9,
     "first_seen": "2026-03-19T00:40:14.786Z",
-    "last_checked": "2026-11-12T04:32:08.628Z"
+    "last_checked": "2026-11-13T04:24:50.068Z"
   },
   {
     "protocol": "socks4",
@@ -29,14 +29,14 @@
     "port": 1080,
     "url": "socks4://37.27.245.106:1080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 7537,
-    "latency_median_ms": 7354,
-    "uptime_24h": 55.6,
-    "uptime_7d": 58.5,
-    "checks_7d": 832,
+    "https": true,
+    "latency_ms": 4571,
+    "latency_median_ms": 4828,
+    "uptime_24h": 54.6,
+    "uptime_7d": 55.5,
+    "checks_7d": 856,
     "exit_ip": "141.98.255.214",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "se",
     "region": "Skåne",
     "city": "Malmö",
@@ -45,6 +45,6 @@
     "asn_org": "31173 Services AB",
     "sources_count": 6,
     "first_seen": "2026-07-13T12:28:32.242Z",
-    "last_checked": "2026-11-12T04:24:58.275Z"
+    "last_checked": "2026-11-13T04:19:54.189Z"
   }
 ]

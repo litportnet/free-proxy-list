@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "158.101.8.92",
+    "port": 1080,
+    "url": "socks5://158.101.8.92:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3880,
+    "latency_median_ms": 2327.5,
+    "uptime_24h": 48.1,
+    "uptime_7d": 37.6,
+    "checks_7d": 704,
+    "exit_ip": "185.243.218.233",
+    "exit_shared": 1,
+    "country": "no",
+    "region": "Vestfold",
+    "city": "Sandefjord",
+    "timezone": "Europe/Oslo",
+    "asn": 56655,
+    "asn_org": "Gigahost AS",
+    "sources_count": 16,
+    "first_seen": "2026-03-29T05:50:34.027Z",
+    "last_checked": "2026-11-13T04:20:40.390Z"
+  }
+]

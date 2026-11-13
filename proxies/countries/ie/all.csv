@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,40.115.112.75,3128,http://40.115.112.75:3128,anonymous,true,1010,470.5,100,,18,40.115.112.75,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,4,2026-02-20T05:59:01.688Z,2026-11-12T04:26:26.752Z
+http,40.115.112.75,3128,http://40.115.112.75:3128,anonymous,true,467,1069.5,87.9,89.3,159,40.115.112.75,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,9,2026-02-20T05:59:01.688Z,2026-11-13T04:26:28.395Z
+socks5,45.74.31.42,6606,socks5://45.74.31.42:6606,elite,false,3882,3098,37.8,31.7,158,135.236.141.99,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,13,2026-09-29T16:31:04.431Z,2026-11-13T04:23:24.141Z
+http,185.138.114.111,8080,http://185.138.114.111:8080,anonymous,false,2202,3373,22.1,27.3,638,185.138.114.111,1,ie,Munster,Newcastle West,Europe/Dublin,207044,Enet Telecommunications Networks Limited,16,2026-06-09T18:20:18.103Z,2026-11-13T04:25:03.234Z

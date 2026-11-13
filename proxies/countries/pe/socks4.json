@@ -5,12 +5,12 @@
     "port": 37209,
     "url": "socks4://190.12.95.170:37209",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3895,
-    "latency_median_ms": 3318.5,
-    "uptime_24h": 63.8,
-    "uptime_7d": 59.5,
-    "checks_7d": 805,
+    "https": true,
+    "latency_ms": 1643,
+    "latency_median_ms": 1633,
+    "uptime_24h": 57.1,
+    "uptime_7d": 58.4,
+    "checks_7d": 815,
     "exit_ip": "190.12.95.170",
     "exit_shared": 1,
     "country": "pe",
@@ -21,6 +21,6 @@
     "asn_org": "ON EMPRESAS S.A.C.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:14.401Z",
-    "last_checked": "2026-11-12T04:29:45.398Z"
+    "last_checked": "2026-11-13T04:20:55.603Z"
   }
 ]

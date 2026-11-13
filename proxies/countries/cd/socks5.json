@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "217.171.85.178",
+    "port": 1080,
+    "url": "socks5://217.171.85.178:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5791,
+    "latency_median_ms": 7980,
+    "uptime_24h": 16,
+    "uptime_7d": 18.2,
+    "checks_7d": 165,
+    "exit_ip": "217.171.85.178",
+    "exit_shared": 1,
+    "country": "cd",
+    "region": "Haut-Katanga",
+    "city": "Lubumbashi",
+    "timezone": "Africa/Lubumbashi",
+    "asn": 43076,
+    "asn_org": "Global Broadband Solution Inc",
+    "sources_count": 16,
+    "first_seen": "2026-06-16T18:50:14.092Z",
+    "last_checked": "2026-11-13T04:21:48.699Z"
+  }
+]

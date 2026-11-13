@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,41.75.123.101,1080,socks5://41.75.123.101:1080,elite,false,1850,3931,35.5,,33,41.75.123.101,1,mw,Southern Region,Zomba,Africa/Blantyre,37187,Inq. Digital Limited,9,2026-11-10T22:18:13.146Z,2026-11-12T04:29:40.064Z

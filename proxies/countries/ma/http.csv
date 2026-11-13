@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,160.179.210.73,5002,http://160.179.210.73:5002,elite,false,1394,834.5,43.2,43.2,81,160.179.199.156,1,ma,Casablanca-Settat,Berrechid,Africa/Casablanca,36903,Office National des Postes et Telecommunications ONPT (Maroc Telecom) / IAM,13,2026-11-12T13:38:43.524Z,2026-11-13T04:26:09.831Z

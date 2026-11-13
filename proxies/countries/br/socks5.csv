@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,177.69.198.219,1080,socks5://177.69.198.219:1080,elite,false,8299,3252.5,42.5,44,134,177.69.198.219,1,br,Minas Gerais,Uberlândia,America/Sao_Paulo,16735,ALGAR TELECOM S/A,10,2026-11-11T03:20:39.939Z,2026-11-12T04:26:02.959Z
-socks5,45.6.13.4,1080,socks5://45.6.13.4:1080,elite,false,1190,2240.5,36.4,30.8,574,45.6.13.4,1,br,Pernambuco,Recife,America/Recife,266117,G-LINK FIBRA,14,2026-11-01T10:17:50.527Z,2026-11-12T04:28:16.311Z
-socks5,187.32.78.133,1080,socks5://187.32.78.133:1080,elite,false,2089,1520,27,,37,187.32.78.133,1,br,São Paulo,São José dos Campos,America/Sao_Paulo,16735,ALGAR TELECOM S/A,7,2026-11-11T20:29:39.672Z,2026-11-12T04:28:02.013Z
+socks5,186.26.95.249,61445,socks5://186.26.95.249:61445,elite,false,3833,1983.5,36.4,38,758,186.26.95.249,1,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,274386,NOSSO WI-FI LTDA,19,2025-09-05T20:05:53.644Z,2026-11-13T04:28:13.897Z

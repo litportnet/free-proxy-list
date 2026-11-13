@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,4184,4198,49.1,45.4,680,45.139.252.5,1,is,Capital Region,Reykjavík,Atlantic/Reykjavik,209854,Cyberzone S.A.,20,2026-08-24T21:47:23.618Z,2026-11-12T04:24:08.982Z

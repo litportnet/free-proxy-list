@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,663,668,57.3,45,558,5.95.121.180,1,it,Campania,Sorrento,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-11-12T04:27:31.841Z
-socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,620,603,38.7,41.6,604,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-11-12T04:27:27.583Z
+socks4,91.192.25.37,80,socks4://91.192.25.37:80,elite,false,1880,3378.5,40,46.9,768,91.192.25.37,1,it,Tuscany,Sesto Fiorentino,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,14,2026-08-28T21:39:30.441Z,2026-11-13T04:23:29.942Z
+socks4,46.21.186.252,1080,socks4://46.21.186.252:1080,elite,true,625,601.5,36,38.9,614,46.21.186.252,1,it,Lombardy,Milan,Europe/Rome,47217,Planetel SPA,13,2025-09-05T20:06:32.117Z,2026-11-13T04:28:33.437Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,872,4907,35.3,38.6,695,91.192.25.158,1,it,Tuscany,Sesto Fiorentino,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-11-13T04:23:05.657Z

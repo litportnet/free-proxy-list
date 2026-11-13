@@ -6,13 +6,13 @@
     "url": "socks5://194.113.38.227:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2306,
-    "latency_median_ms": 3208.5,
-    "uptime_24h": 53,
-    "uptime_7d": 55.4,
-    "checks_7d": 204,
+    "latency_ms": 4349,
+    "latency_median_ms": 3780,
+    "uptime_24h": 52.2,
+    "uptime_7d": 54.1,
+    "checks_7d": 342,
     "exit_ip": "31.77.202.253",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "fi",
     "region": "Uusimaa",
     "city": "Helsinki",
@@ -21,7 +21,7 @@
     "asn_org": "DpkgSoft International Limited",
     "sources_count": 14,
     "first_seen": "2026-11-10T16:14:46.785Z",
-    "last_checked": "2026-11-12T04:27:06.870Z"
+    "last_checked": "2026-11-13T04:28:34.016Z"
   },
   {
     "protocol": "socks5",
@@ -30,12 +30,12 @@
     "url": "socks5://65.109.196.122:2080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 855,
-    "latency_median_ms": 822,
-    "uptime_24h": 46.2,
-    "uptime_7d": 41.3,
-    "checks_7d": 467,
-    "exit_ip": "104.28.222.16",
+    "latency_ms": 839,
+    "latency_median_ms": 823,
+    "uptime_24h": 47.8,
+    "uptime_7d": 42.7,
+    "checks_7d": 602,
+    "exit_ip": "104.28.254.16",
     "exit_shared": 1,
     "country": "fi",
     "region": "Uusimaa",
@@ -45,6 +45,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 14,
     "first_seen": "2026-08-16T18:46:19.356Z",
-    "last_checked": "2026-11-12T04:28:33.718Z"
+    "last_checked": "2026-11-13T04:26:16.189Z"
   }
 ]

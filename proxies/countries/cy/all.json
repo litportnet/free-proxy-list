@@ -6,11 +6,11 @@
     "url": "socks4://87.228.228.101:4145",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 768,
-    "latency_median_ms": 1791.5,
-    "uptime_24h": 50.4,
-    "uptime_7d": 46.9,
-    "checks_7d": 674,
+    "latency_ms": 786,
+    "latency_median_ms": 778,
+    "uptime_24h": 46,
+    "uptime_7d": 46.6,
+    "checks_7d": 719,
     "exit_ip": "87.228.228.101",
     "exit_shared": 1,
     "country": "cy",
@@ -21,6 +21,6 @@
     "asn_org": "Cyprus Telecommunications Authority",
     "sources_count": 21,
     "first_seen": "2026-07-06T01:00:13.598Z",
-    "last_checked": "2026-11-12T04:23:30.841Z"
+    "last_checked": "2026-11-13T04:25:18.512Z"
   }
 ]

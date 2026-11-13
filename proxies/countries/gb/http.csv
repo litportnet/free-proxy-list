@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,81.19.210.10,80,http://81.19.210.10:80,elite,true,412,394.5,76.6,71.3,884,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-12T04:30:01.975Z
-http,104.194.146.9,80,http://104.194.146.9:80,elite,true,414,396.5,75,68.4,884,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-12T04:22:51.034Z
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2163,2806.5,58.8,67.6,858,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-12T04:27:29.170Z
-http,172.236.2.41,3128,http://172.236.2.41:3128,elite,true,6707,4828,30,38.3,162,172.236.2.41,1,gb,England,London,Europe/London,63949,Akamai Connected Cloud,6,2026-11-10T01:06:49.294Z,2026-11-12T04:31:03.369Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,4941,1286,24.4,36.8,585,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-12T04:29:29.891Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,true,389,402.5,56.2,67.9,903,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-13T04:22:03.422Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,370,392,55.2,65.2,911,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-13T04:27:44.413Z
+http,193.33.157.195,8080,http://193.33.157.195:8080,anonymous,false,2409,3340,33.3,35.5,347,195.5.168.131,1,gb,England,Manchester,Europe/London,,,24,2026-09-07T06:23:42.638Z,2026-11-13T04:24:18.516Z

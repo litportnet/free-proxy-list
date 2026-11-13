@@ -1,7 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,1922,1913.5,91.6,84.5,933,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-12T04:25:25.915Z
-socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,false,1920,1922,64.2,63.4,823,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,21,2025-09-04T23:48:54.923Z,2026-11-12T04:32:44.012Z
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,904,960,67.4,61.7,723,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-12T04:30:23.871Z
-socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,false,2041,2571,39.1,42.1,689,104.28.243.32,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-11-12T04:29:59.838Z
-socks4,43.155.215.149,20000,socks4://43.155.215.149:20000,elite,true,926,971.5,41.5,37,297,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-07-17T05:21:19.618Z,2026-11-12T04:28:38.481Z
-socks4,167.99.3.26,7569,socks4://167.99.3.26:7569,elite,false,1243,2290,8.3,7.9,114,218.156.241.152,1,kr,Jeollanam-do,Gwangyang,Asia/Seoul,4766,Korea Telecom,7,2026-11-05T03:04:43.813Z,2026-11-12T04:26:34.637Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,4035,1833.5,65.6,81.4,944,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-13T04:26:28.387Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,1982,1919.5,47.9,59.5,753,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-13T04:24:55.858Z

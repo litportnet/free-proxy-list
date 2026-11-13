@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "194.113.38.227",
+    "port": 1080,
+    "url": "socks4://194.113.38.227:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4910,
+    "latency_median_ms": 4847.5,
+    "uptime_24h": 50.7,
+    "uptime_7d": 52.4,
+    "checks_7d": 336,
+    "exit_ip": "31.77.202.253",
+    "exit_shared": 2,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 215590,
+    "asn_org": "DpkgSoft International Limited",
+    "sources_count": 14,
+    "first_seen": "2026-11-10T16:14:53.047Z",
+    "last_checked": "2026-11-13T04:19:15.222Z"
+  }
+]

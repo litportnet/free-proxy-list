@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,62.210.189.192,12649,http://62.210.189.192:12649,elite,false,8641,8074.5,11.8,3.4,59,37.39.228.73,1,kw,Al Farwaniyah,Al Farwānīyah,Asia/Kuwait,42961,Mobile Telecommunications Company K.S.C.P.,3,2026-10-23T19:29:03.320Z,2026-11-12T04:31:29.638Z

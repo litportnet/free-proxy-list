@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,91.187.113.68,8080,http://91.187.113.68:8080,anonymous,false,3960,4029.5,21.8,30.8,594,91.187.113.68,1,xk,Pristina,Pristina,Europe/Belgrade,21246,IPKO Telecommunications LLC,25,2025-09-05T20:06:33.854Z,2026-11-12T04:23:33.501Z

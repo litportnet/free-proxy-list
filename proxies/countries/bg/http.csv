@@ -1,6 +1,9 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.23,80,http://93.123.16.23:80,elite,false,255,264.5,100,93.1,72,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-12T04:29:35.264Z
-http,93.123.16.38,80,http://93.123.16.38:80,elite,false,256,268,94.7,55,129,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-12T04:24:52.959Z
-http,82.137.90.192,80,http://82.137.90.192:80,elite,false,4610,4697,29.5,30.7,512,82.137.90.192,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,6,2025-09-09T02:11:19.746Z,2026-11-12T04:32:30.646Z
-http,82.137.90.253,80,http://82.137.90.253:80,elite,false,3902,3864,14,22.3,359,82.137.90.253,1,bg,Plovdiv,Karlovo,Europe/Sofia,8866,Vivacom Bulgaria EAD,10,2025-09-08T11:37:06.818Z,2026-11-12T04:32:32.260Z
-http,93.123.16.14,80,http://93.123.16.14:80,elite,false,269,278.5,91.7,,41,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-12T04:24:39.185Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,255,260.5,98.6,99.1,210,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-13T04:26:42.696Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,265,265,92.4,92.2,179,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-13T04:23:02.495Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,266,261.5,98.6,79.5,268,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-13T04:25:48.119Z
+http,85.187.224.21,8080,http://85.187.224.21:8080,anonymous,true,3676,3467,32,28.2,581,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,23,2025-09-05T20:05:36.749Z,2026-11-13T04:29:03.094Z
+http,82.137.90.192,80,http://82.137.90.192:80,elite,false,782,3181,30.9,28,525,82.137.90.192,1,bg,Pleven,Cherven Bryag,Europe/Sofia,8866,Vivacom Bulgaria EAD,6,2025-09-09T02:11:19.746Z,2026-11-13T04:23:18.339Z
+http,213.169.33.12,8001,http://213.169.33.12:8001,anonymous,false,9345,4836,17.8,23.9,535,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-05T20:06:27.889Z,2026-11-13T04:25:22.243Z
+http,46.10.209.230,8080,http://46.10.209.230:8080,elite,false,8339,4785,21.5,17,288,46.10.209.230,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,25,2025-09-10T19:34:16.104Z,2026-11-13T04:26:18.323Z
+http,77.238.79.111,8080,http://77.238.79.111:8080,elite,false,4508,4444.5,19.4,16.5,333,77.238.79.111,2,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,17,2025-09-10T19:34:57.305Z,2026-11-13T04:23:45.838Z

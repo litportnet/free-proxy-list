@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.41,12117,socks5://45.74.31.41:12117,elite,true,1027,1814,20.6,8.5,106,93.115.14.8,1,kz,Almaty,Almaty,Asia/Almaty,202958,Hoster.KZ - Almaty,13,2026-09-15T03:47:12.852Z,2026-11-13T04:24:23.800Z

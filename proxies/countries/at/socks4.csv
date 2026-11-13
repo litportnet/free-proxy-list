@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.173.75.222,5678,socks4://213.173.75.222:5678,elite,false,890,1973.5,79.3,78.3,877,213.173.75.222,1,at,Styria,Kindberg,Europe/Vienna,13292,Willibald Hambammer trading as BK-DAT Electronics e.U.,14,2026-07-05T02:40:57.084Z,2026-11-12T04:29:11.875Z
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,3959,2233.5,74.3,66.5,759,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-11-12T04:26:55.716Z
-socks4,185.196.178.238,60606,socks4://185.196.178.238:60606,elite,true,7789,3633.5,61.6,55.7,675,185.196.178.238,1,at,Tyrol,Längenfeld,Europe/Vienna,206091,Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG,21,2025-09-05T20:06:33.498Z,2026-11-12T04:27:44.588Z
-socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,664,1676.5,57.3,52.8,627,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,14,2026-07-06T13:59:25.623Z,2026-11-12T04:32:01.186Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,2529,3334.5,71,67.4,812,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-11-13T04:21:54.467Z

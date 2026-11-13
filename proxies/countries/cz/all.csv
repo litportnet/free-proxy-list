@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,7675,5071,58.7,61.3,812,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-12T04:24:34.440Z
-http,77.240.102.149,800,http://77.240.102.149:800,anonymous,false,4549,4572.5,26.8,23.6,517,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-12T04:23:37.193Z
+http,95.129.101.73,80,http://95.129.101.73:80,elite,false,4889,6175.5,47.9,57.8,775,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-13T04:21:27.561Z
+socks5,176.62.237.51,1080,socks5://176.62.237.51:1080,elite,false,8308,1929.5,39.5,42.2,745,176.62.237.51,1,cz,South Bohemian Region,Vlachovo Březí,Europe/Prague,49985,IP4ISP z.s.p.o,14,2026-11-06T06:18:58.776Z,2026-11-13T04:29:21.142Z
+socks4,188.120.198.182,1080,socks4://188.120.198.182:1080,elite,false,3671,1268,23.2,23.2,108,188.120.198.182,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,49985,IP4ISP z.s.p.o,6,2026-11-06T22:27:34.981Z,2026-11-13T04:29:12.646Z
+socks4,194.1.188.8,60606,socks4://194.1.188.8:60606,elite,true,3660,3662.5,20,17.3,300,194.1.188.8,1,cz,South Bohemian Region,Vimperk,Europe/Prague,3161,IT PROFI s.r.o.,13,2025-09-05T20:06:35.063Z,2026-11-13T04:20:01.019Z

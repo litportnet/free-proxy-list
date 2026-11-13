@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.134.34.219,10808,socks4://43.134.34.219:10808,elite,false,4269,2237,46.7,50.7,426,43.134.34.219,2,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-10-13T07:16:21.585Z,2026-11-12T04:25:04.133Z
+socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,6512,2695,47.4,50.6,765,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-11-13T04:24:52.171Z
+socks4,104.248.151.220,57554,socks4://104.248.151.220:57554,elite,true,2959,3992.5,36.6,21.8,326,104.248.151.220,2,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",12,2025-09-10T20:15:45.187Z,2026-11-13T04:25:16.420Z
+socks4,209.182.234.151,40000,socks4://209.182.234.151:40000,elite,true,3818,6758.5,18,13.8,174,104.28.254.47,1,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",8,2026-06-03T10:04:10.963Z,2026-11-13T04:27:04.892Z

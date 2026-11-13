@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,102.0.14.42,1080,socks5://102.0.14.42:1080,elite,false,4750,4764,29.3,23.4,385,102.0.14.42,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,18,2026-02-12T05:15:55.266Z,2026-11-13T04:25:20.113Z

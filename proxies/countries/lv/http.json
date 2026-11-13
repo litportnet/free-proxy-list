@@ -6,11 +6,11 @@
     "url": "http://77.38.244.214:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 567,
+    "latency_ms": 582,
     "latency_median_ms": 556,
-    "uptime_24h": 90.2,
-    "uptime_7d": 87.2,
-    "checks_7d": 601,
+    "uptime_24h": 93,
+    "uptime_7d": 88.3,
+    "checks_7d": 744,
     "exit_ip": "77.38.244.214",
     "exit_shared": 1,
     "country": "lv",
@@ -21,7 +21,7 @@
     "asn_org": "SIA \"BITE Latvija\"",
     "sources_count": 3,
     "first_seen": "2025-12-09T07:10:03.154Z",
-    "last_checked": "2026-11-12T04:28:00.435Z"
+    "last_checked": "2026-11-13T04:29:00.963Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://87.226.22.225:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 594,
-    "latency_median_ms": 572.5,
-    "uptime_24h": 90.1,
-    "uptime_7d": 86.8,
-    "checks_7d": 870,
+    "latency_ms": 571,
+    "latency_median_ms": 568.5,
+    "uptime_24h": 93.1,
+    "uptime_7d": 87.1,
+    "checks_7d": 941,
     "exit_ip": "87.226.22.225",
     "exit_shared": 1,
     "country": "lv",
@@ -45,6 +45,6 @@
     "asn_org": "SIA \"BITE Latvija\"",
     "sources_count": 3,
     "first_seen": "2026-04-14T06:15:14.643Z",
-    "last_checked": "2026-11-12T04:29:57.673Z"
+    "last_checked": "2026-11-13T04:28:28.095Z"
   }
 ]

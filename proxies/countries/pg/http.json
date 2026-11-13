@@ -6,8 +6,8 @@
     "url": "http://103.99.175.54:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1914,
-    "latency_median_ms": 1163.5,
+    "latency_ms": 1162,
+    "latency_median_ms": 1144,
     "uptime_24h": 100,
     "uptime_7d": 98.9,
     "checks_7d": 999,
@@ -21,6 +21,30 @@
     "asn_org": "PNG DATACO LTD",
     "sources_count": 3,
     "first_seen": "2026-09-09T21:22:41.910Z",
-    "last_checked": "2026-11-12T04:28:24.207Z"
+    "last_checked": "2026-11-13T04:29:41.916Z"
+  },
+  {
+    "protocol": "http",
+    "ip": "103.110.31.155",
+    "port": 8080,
+    "url": "http://103.110.31.155:8080",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 3321,
+    "latency_median_ms": 4165,
+    "uptime_24h": 45.2,
+    "uptime_7d": 40.5,
+    "checks_7d": 588,
+    "exit_ip": "103.110.31.155",
+    "exit_shared": 1,
+    "country": "pg",
+    "region": "National Capital",
+    "city": "Port Moresby",
+    "timezone": "Pacific/Port_Moresby",
+    "asn": 136239,
+    "asn_org": "CLICK PACIFIC LTD",
+    "sources_count": 15,
+    "first_seen": "2026-08-09T12:14:16.453Z",
+    "last_checked": "2026-11-13T04:27:47.011Z"
   }
 ]

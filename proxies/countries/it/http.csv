@@ -1,7 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,552,578,66.7,93.4,994,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-12T04:31:14.062Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,492,488,67.7,75.7,856,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-12T04:23:00.601Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,520,556,63.3,63.8,812,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-12T04:23:14.357Z
-http,79.52.108.2,8081,http://79.52.108.2:8081,anonymous,false,4100,3295,30.8,34.2,632,79.52.108.2,1,it,Sicily,Catania,Europe/Rome,3269,Telecom Italia S.p.A.,18,2026-11-04T06:54:05.936Z,2026-11-12T04:32:32.772Z
-http,2.32.175.26,8080,http://2.32.175.26:8080,anonymous,false,1692,3274.5,24.6,26.5,268,2.32.175.26,1,it,Lombardy,San Giuliano Milanese,Europe/Rome,30722,Fastweb SpA,18,2026-11-06T14:23:17.436Z,2026-11-12T04:22:55.311Z
-http,80.225.88.28,8082,http://80.225.88.28:8082,elite,false,1800,750,28.2,12.5,120,80.225.88.28,1,it,Lombardy,Siziano,Europe/Rome,31898,Oracle Corporation,18,2026-10-02T04:56:16.867Z,2026-11-12T04:25:51.841Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,543,2941,77,75.7,888,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-13T04:28:20.217Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,507,546.5,80.4,63.9,839,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-13T04:27:46.490Z
+http,83.136.106.30,3129,http://83.136.106.30:3129,elite,true,9142,6895,46.5,46.5,127,104.28.226.226,1,it,Tuscany,Florence,Europe/Rome,13335,"Cloudflare, Inc.",8,2026-11-12T04:33:57.357Z,2026-11-13T04:26:17.797Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,3246,3466.5,25.5,38.1,745,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-13T04:23:34.195Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,anonymous,false,5628,4336.5,25.3,28.1,470,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-11-13T04:24:16.403Z

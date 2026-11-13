@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,2544,2566,72.9,65,691,141.98.252.240,1,gb,England,London,Europe/London,39351,31173 Services AB,19,2026-09-20T17:57:13.183Z,2026-11-13T04:27:35.933Z
+socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,false,2919,3646.5,55.4,55.4,121,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,13,2026-11-12T07:35:32.757Z,2026-11-13T04:24:48.481Z
+socks5,2.102.71.177,1080,socks5://2.102.71.177:1080,elite,false,610,783.5,31.3,36.6,759,2.102.71.177,1,gb,England,Brighouse,Europe/London,13285,TalkTalk Communications Limited,14,2026-11-01T07:16:15.214Z,2026-11-13T04:21:21.834Z
