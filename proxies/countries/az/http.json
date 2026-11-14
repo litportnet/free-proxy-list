@@ -6,11 +6,11 @@
     "url": "http://85.132.108.42:3128",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 871,
-    "latency_median_ms": 1429.5,
-    "uptime_24h": 93.7,
-    "uptime_7d": 94.3,
-    "checks_7d": 333,
+    "latency_ms": 2408,
+    "latency_median_ms": 2162,
+    "uptime_24h": 79.4,
+    "uptime_7d": 89.9,
+    "checks_7d": 473,
     "exit_ip": "85.132.108.42",
     "exit_shared": 1,
     "country": "az",
@@ -21,6 +21,6 @@
     "asn_org": "SELNET LLC",
     "sources_count": 18,
     "first_seen": "2026-11-10T20:16:55.512Z",
-    "last_checked": "2026-11-13T04:24:43.234Z"
+    "last_checked": "2026-11-14T04:24:19.112Z"
   }
 ]

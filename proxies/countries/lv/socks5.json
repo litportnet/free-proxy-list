@@ -6,11 +6,11 @@
     "url": "socks5://195.13.182.211:8080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1592,
-    "latency_median_ms": 1534,
-    "uptime_24h": 64.1,
-    "uptime_7d": 62.2,
-    "checks_7d": 885,
+    "latency_ms": 3744,
+    "latency_median_ms": 3129.5,
+    "uptime_24h": 52.6,
+    "uptime_7d": 58.7,
+    "checks_7d": 904,
     "exit_ip": "195.13.182.211",
     "exit_shared": 1,
     "country": "lv",
@@ -21,7 +21,7 @@
     "asn_org": "SIA Tet",
     "sources_count": 16,
     "first_seen": "2026-10-07T11:02:35.488Z",
-    "last_checked": "2026-11-13T04:28:52.530Z"
+    "last_checked": "2026-11-14T04:23:29.795Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://195.135.255.98:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 8875,
-    "latency_median_ms": 993.5,
-    "uptime_24h": 53.2,
-    "uptime_7d": 47,
-    "checks_7d": 730,
+    "latency_ms": 818,
+    "latency_median_ms": 824.5,
+    "uptime_24h": 53.9,
+    "uptime_7d": 46.4,
+    "checks_7d": 768,
     "exit_ip": "195.135.255.98",
     "exit_shared": 1,
     "country": "lv",
@@ -45,6 +45,6 @@
     "asn_org": "SIA VEESP",
     "sources_count": 19,
     "first_seen": "2026-07-06T17:06:50.617Z",
-    "last_checked": "2026-11-13T04:28:28.619Z"
+    "last_checked": "2026-11-14T04:32:03.305Z"
   }
 ]

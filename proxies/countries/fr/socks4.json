@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "57.128.249.250",
+    "port": 9052,
+    "url": "socks4://57.128.249.250:9052",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 800,
+    "latency_median_ms": 1544,
+    "uptime_24h": 48,
+    "uptime_7d": 39.7,
+    "checks_7d": 798,
+    "exit_ip": "51.254.44.49",
+    "exit_shared": 2,
+    "country": "fr",
+    "region": "Hauts-de-France",
+    "city": "Lille",
+    "timezone": "Europe/Paris",
+    "asn": 16276,
+    "asn_org": "OVH SAS",
+    "sources_count": 21,
+    "first_seen": "2026-07-31T20:24:15.555Z",
+    "last_checked": "2026-11-14T04:30:50.869Z"
+  }
+]

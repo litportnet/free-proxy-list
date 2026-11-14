@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,186.26.95.249,61445,socks5://186.26.95.249:61445,elite,false,3833,1983.5,36.4,38,758,186.26.95.249,1,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,274386,NOSSO WI-FI LTDA,19,2025-09-05T20:05:53.644Z,2026-11-13T04:28:13.897Z

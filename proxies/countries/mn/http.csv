@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,202.21.115.178,8080,http://202.21.115.178:8080,anonymous,false,1007,1561.5,12.2,11.8,110,202.21.115.178,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9484,Mobinet LLC. AS Mobinet Internet Service Provider,16,2025-09-10T21:05:11.822Z,2026-11-13T04:26:41.128Z

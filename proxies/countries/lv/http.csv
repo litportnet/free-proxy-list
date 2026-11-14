@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.38.244.214,80,http://77.38.244.214:80,elite,false,582,556,93,88.3,744,77.38.244.214,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2025-12-09T07:10:03.154Z,2026-11-13T04:29:00.963Z
-http,87.226.22.225,80,http://87.226.22.225:80,elite,false,571,568.5,93.1,87.1,941,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-13T04:28:28.095Z
+http,77.38.244.214,80,http://77.38.244.214:80,elite,false,601,574.5,81.2,87.2,877,77.38.244.214,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2025-12-09T07:10:03.154Z,2026-11-14T04:30:05.092Z
+http,195.13.182.210,20612,http://195.13.182.210:20612,elite,true,3918,4701.5,14.9,12,200,195.13.182.210,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-12T12:06:08.078Z,2026-11-14T04:28:40.317Z
+http,217.60.2.147,3128,http://217.60.2.147:3128,elite,true,4481,3324,95.2,,21,217.60.2.147,1,lv,Riga,Riga,Europe/Riga,56971,AS56971 Cloud,11,2026-11-14T00:57:18.632Z,2026-11-14T04:25:09.405Z

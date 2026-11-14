@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "202.166.220.40",
+    "port": 8080,
+    "url": "http://202.166.220.40:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 2140,
+    "latency_median_ms": 3885.5,
+    "uptime_24h": 11.9,
+    "uptime_7d": 32.7,
+    "checks_7d": 664,
+    "exit_ip": "202.166.220.40",
+    "exit_shared": 1,
+    "country": "np",
+    "region": "Bagmati Province",
+    "city": "Kathmandu",
+    "timezone": "Asia/Kathmandu",
+    "asn": 17501,
+    "asn_org": "WorldLink Communications Pvt Ltd",
+    "sources_count": 17,
+    "first_seen": "2026-07-05T19:51:49.712Z",
+    "last_checked": "2026-11-14T04:23:27.190Z"
+  }
+]

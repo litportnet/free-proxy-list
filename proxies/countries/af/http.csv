@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,149.54.16.170,8080,http://149.54.16.170:8080,anonymous,true,8187,6220,24.7,15.5,349,149.54.16.170,1,af,Takhar,Taloqan,Asia/Kabul,55330,AFGHANTELECOM GOVERNMENT COMMUNICATION NETWORK,23,2026-07-17T12:23:02.109Z,2026-11-13T04:20:41.972Z

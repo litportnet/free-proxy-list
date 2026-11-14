@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "217.145.199.45",
-    "port": 56746,
-    "url": "socks4://217.145.199.45:56746",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3755,
-    "latency_median_ms": 867,
-    "uptime_24h": 44.9,
-    "uptime_7d": 47.2,
-    "checks_7d": 631,
-    "exit_ip": "217.145.199.45",
-    "exit_shared": 1,
-    "country": "sk",
-    "region": "Nitra Region",
-    "city": "Kolárovo",
-    "timezone": "Europe/Bratislava",
-    "asn": 12426,
-    "asn_org": "Slovanet a.s.",
-    "sources_count": 9,
-    "first_seen": "2026-10-22T15:14:09.218Z",
-    "last_checked": "2026-11-13T04:29:06.280Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "185.98.208.98",
     "port": 28000,
     "url": "socks4://185.98.208.98:28000",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 674,
-    "latency_median_ms": 699.5,
-    "uptime_24h": 40.9,
-    "uptime_7d": 45.9,
-    "checks_7d": 652,
+    "latency_ms": 656,
+    "latency_median_ms": 660,
+    "uptime_24h": 35.4,
+    "uptime_7d": 44.2,
+    "checks_7d": 695,
     "exit_ip": "185.98.208.98",
     "exit_shared": 1,
     "country": "sk",
@@ -45,6 +21,6 @@
     "asn_org": "GOLEM TECH s.r.o.",
     "sources_count": 13,
     "first_seen": "2026-02-25T19:09:07.562Z",
-    "last_checked": "2026-11-13T04:24:23.787Z"
+    "last_checked": "2026-11-14T04:31:07.188Z"
   }
 ]

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,502,518.5,100,99.6,223,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,10,2026-07-22T23:32:12.809Z,2026-11-13T04:26:29.448Z
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,448,453.5,96.5,98.2,1001,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-13T04:26:29.452Z
-http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,4957,3419.5,37.5,40,737,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-13T04:21:07.131Z
-http,45.13.185.217,3128,http://45.13.185.217:3128,anonymous,true,5190,5232.5,25.6,33.1,504,45.13.185.217,1,es,Madrid,Madrid,Europe/Madrid,201446,Soluciones web on line s.l.,13,2026-04-12T14:54:58.724Z,2026-11-13T04:25:42.324Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,457,449.5,99.3,97.7,999,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-14T04:28:04.794Z
+http,185.174.80.7,3128,http://185.174.80.7:3128,anonymous,false,2282,1714.5,47.8,47.2,850,185.174.80.7,1,es,Andalusia,Tarifa,Europe/Madrid,206853,NOLU NETWORK S.L.,18,2026-08-20T00:46:23.768Z,2026-11-14T04:26:02.503Z
+http,45.13.185.217,3128,http://45.13.185.217:3128,anonymous,false,5645,7047.5,21.3,31.6,471,45.13.185.217,1,es,Madrid,Madrid,Europe/Madrid,201446,Soluciones web on line s.l.,13,2026-04-12T14:54:58.724Z,2026-11-14T04:28:25.468Z
+http,165.225.92.14,8800,http://165.225.92.14:8800,elite,true,493,646,50,,4,147.161.190.245,1,es,Madrid,Madrid,Europe/Madrid,62044,Zscaler Switzerland GmbH,1,2026-11-14T03:58:54.200Z,2026-11-14T04:30:17.219Z

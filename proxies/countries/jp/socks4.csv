@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,4198,1018,95.7,95.4,302,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-13T04:27:36.454Z
-socks4,180.222.187.50,10800,socks4://180.222.187.50:10800,elite,false,770,761,82.2,82.4,704,180.222.187.50,2,jp,Tokyo,Tokyo,Asia/Tokyo,131921,GMO GlobalSign Holdings K.K.,14,2026-11-02T10:30:39.326Z,2026-11-13T04:30:05.457Z
-socks4,38.174.216.200,5555,socks4://38.174.216.200:5555,elite,false,3489,3331,65,,40,38.174.216.200,1,jp,Tokyo,Tokyo,Asia/Tokyo,398993,PEG TECH INC,8,2026-11-12T21:43:01.857Z,2026-11-13T04:27:41.225Z
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,1162,737,95.1,95.3,444,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-14T04:28:56.609Z

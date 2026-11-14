@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,184.107.141.142,1080,socks4://184.107.141.142:1080,elite,true,1607,5955,61.2,75.9,352,184.107.141.142,2,ca,Quebec,Montréal,America/Toronto,32613,Leaseweb Canada Inc.,14,2026-11-10T15:14:15.765Z,2026-11-13T04:25:37.603Z
-socks4,192.158.15.201,50877,socks4://192.158.15.201:50877,elite,false,151,661,80.9,69.3,854,192.158.15.201,1,ca,Ontario,Toronto,America/Toronto,40028,1651884 Ontario Inc.,14,2025-09-04T23:49:01.331Z,2026-11-13T04:26:43.743Z
-socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,true,1401,232,31.5,50.3,788,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-11-13T04:20:25.240Z
+socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,5014,7075,38.9,44.9,811,178.249.214.16,2,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,19,2026-09-12T00:07:29.017Z,2026-11-14T04:26:58.544Z

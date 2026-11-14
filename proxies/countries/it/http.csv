@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,543,2941,77,75.7,888,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-13T04:28:20.217Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,507,546.5,80.4,63.9,839,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-13T04:27:46.490Z
-http,83.136.106.30,3129,http://83.136.106.30:3129,elite,true,9142,6895,46.5,46.5,127,104.28.226.226,1,it,Tuscany,Florence,Europe/Rome,13335,"Cloudflare, Inc.",8,2026-11-12T04:33:57.357Z,2026-11-13T04:26:17.797Z
-http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,3246,3466.5,25.5,38.1,745,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-13T04:23:34.195Z
-http,93.187.26.134,58080,http://93.187.26.134:58080,anonymous,false,5628,4336.5,25.3,28.1,470,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-11-13T04:24:16.403Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,536,1427,88.8,77.2,914,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-14T04:27:07.533Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,929,540,53,59.5,857,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-14T04:24:12.824Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,anonymous,false,9866,4359,26.1,28.1,548,93.187.26.134,1,it,Tuscany,Colle di Val d'Elsa,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-11-14T04:23:01.992Z
+http,85.208.200.185,8081,http://85.208.200.185:8081,anonymous,false,2464,3681.5,10,21.4,304,195.36.26.60,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2025-09-05T00:23:14.484Z,2026-11-14T04:26:59.059Z

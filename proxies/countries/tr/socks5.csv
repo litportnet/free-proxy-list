@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,38.10.71.91,1080,socks5://38.10.71.91:1080,elite,true,2318,2948,43.2,43.2,88,38.10.71.91,2,tr,Konya,Selçuklu,Europe/Istanbul,208972,GIBIRNET ILETISIM HIZMETLERI SANAYI VE TICARET LIMITED SIRKETI,5,2026-11-12T11:37:35.988Z,2026-11-13T04:29:55.284Z
-socks5,163.5.53.209,1080,socks5://163.5.53.209:1080,elite,false,923,919.5,35.4,37.8,709,104.28.244.150,1,tr,Istanbul,Istanbul,Europe/Istanbul,13335,"Cloudflare, Inc.",15,2026-10-26T20:07:14.592Z,2026-11-13T04:28:39.277Z
+socks5,163.5.53.209,1080,socks5://163.5.53.209:1080,elite,false,921,926.5,27.8,37.3,741,104.28.244.150,1,tr,Istanbul,Istanbul,Europe/Istanbul,13335,"Cloudflare, Inc.",15,2026-10-26T20:07:14.592Z,2026-11-14T04:27:47.937Z

@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,543,687,86.1,86.1,72,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,1,2025-09-09T16:24:27.179Z,2026-11-13T04:21:55.537Z
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,1686,1693.5,71.3,76.2,916,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-13T04:22:49.804Z
-http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,2420,6210,64.5,66,153,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-13T04:21:33.918Z
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,589,610.5,80.8,82.8,198,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,1,2025-09-09T16:24:27.179Z,2026-11-14T04:32:26.679Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,1722,2130,66.7,77.1,951,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-14T04:26:45.006Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,3558,3997,69.4,67.5,277,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-14T04:23:50.699Z
+socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,false,639,645.5,53.1,51.6,859,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-14T04:31:04.578Z
+http,88.222.65.45,3128,http://88.222.65.45:3128,anonymous,true,6570,6296,38.5,41.7,187,88.222.65.45,1,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,14,2026-10-30T22:59:24.996Z,2026-11-14T04:23:00.945Z
+socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,790,2815.5,25.5,30.9,577,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",21,2025-09-04T23:50:04.655Z,2026-11-14T04:27:50.040Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,190.181.26.194,80,http://190.181.26.194:80,elite,false,2267,839.5,77.6,70.5,488,190.181.26.194,1,bo,La Paz Department,La Paz,America/La_Paz,26210,AXS Bolivia S. A.,2,2025-10-19T18:06:21.322Z,2026-11-13T04:26:31.571Z
-http,49.0.190.114,3128,http://49.0.190.114:3128,anonymous,false,1618,2990.5,38.3,46.6,768,190.129.100.226,1,bo,Cochabamba,Cochabamba,America/La_Paz,6568,EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA,18,2026-11-01T11:18:27.181Z,2026-11-13T04:26:47.448Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.171.85.178,1080,socks5://217.171.85.178:1080,elite,false,5791,7980,16,18.2,165,217.171.85.178,1,cd,Haut-Katanga,Lubumbashi,Africa/Lubumbashi,43076,Global Broadband Solution Inc,16,2026-06-16T18:50:14.092Z,2026-11-13T04:21:48.699Z
+socks5,217.171.94.166,1081,socks5://217.171.94.166:1081,elite,false,2797,3979.5,45.5,36,567,217.171.94.166,1,cd,Kinshasa,Kinshasa,Africa/Kinshasa,43256,Global Broadband Solution Inc,16,2026-10-02T18:03:11.507Z,2026-11-14T04:29:55.057Z

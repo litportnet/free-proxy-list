@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "92.86.207.198",
+    "port": 8080,
+    "url": "http://92.86.207.198:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 1419,
+    "latency_median_ms": 4077,
+    "uptime_24h": 23.9,
+    "uptime_7d": 26.9,
+    "checks_7d": 655,
+    "exit_ip": "92.86.207.198",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Dâmbovița County",
+    "city": "Târgovişte",
+    "timezone": "Europe/Bucharest",
+    "asn": 9050,
+    "asn_org": "Orange Romania S.A.",
+    "sources_count": 25,
+    "first_seen": "2025-09-05T20:06:33.735Z",
+    "last_checked": "2026-11-14T04:23:10.389Z"
+  }
+]

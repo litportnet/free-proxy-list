@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,194.113.38.227,1080,socks4://194.113.38.227:1080,elite,false,4910,4847.5,50.7,52.4,336,31.77.202.253,2,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:53.047Z,2026-11-13T04:19:15.222Z

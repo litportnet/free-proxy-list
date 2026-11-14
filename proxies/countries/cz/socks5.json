@@ -6,11 +6,11 @@
     "url": "socks5://176.62.237.51:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 8308,
-    "latency_median_ms": 1929.5,
-    "uptime_24h": 39.5,
-    "uptime_7d": 42.2,
-    "checks_7d": 745,
+    "latency_ms": 5414,
+    "latency_median_ms": 3916.5,
+    "uptime_24h": 42.3,
+    "uptime_7d": 39.4,
+    "checks_7d": 775,
     "exit_ip": "176.62.237.51",
     "exit_shared": 1,
     "country": "cz",
@@ -21,6 +21,6 @@
     "asn_org": "IP4ISP z.s.p.o",
     "sources_count": 14,
     "first_seen": "2026-11-06T06:18:58.776Z",
-    "last_checked": "2026-11-13T04:29:21.142Z"
+    "last_checked": "2026-11-14T04:23:52.805Z"
   }
 ]

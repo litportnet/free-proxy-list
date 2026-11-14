@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.113.38.227,1080,socks5://194.113.38.227:1080,elite,false,4349,3780,52.2,54.1,342,31.77.202.253,2,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:46.785Z,2026-11-13T04:28:34.016Z
-socks5,65.109.196.122,2080,socks5://65.109.196.122:2080,elite,false,839,823,47.8,42.7,602,104.28.254.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",14,2026-08-16T18:46:19.356Z,2026-11-13T04:26:16.189Z
+socks5,194.113.38.227,1080,socks5://194.113.38.227:1080,elite,true,3078,4553.5,50.7,53.1,480,31.77.202.253,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:46.785Z,2026-11-14T04:28:29.196Z

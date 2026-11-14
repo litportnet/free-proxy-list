@@ -6,8 +6,8 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 527,
-    "latency_median_ms": 532.5,
+    "latency_ms": 506,
+    "latency_median_ms": 532,
     "uptime_24h": 100,
     "uptime_7d": 99.9,
     "checks_7d": 1009,
@@ -21,6 +21,30 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-13T04:27:20.141Z"
+    "last_checked": "2026-11-14T04:31:16.131Z"
+  },
+  {
+    "protocol": "http",
+    "ip": "185.145.4.8",
+    "port": 8080,
+    "url": "http://185.145.4.8:8080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2311,
+    "latency_median_ms": 2359,
+    "uptime_24h": 57.4,
+    "uptime_7d": 59.9,
+    "checks_7d": 404,
+    "exit_ip": "185.145.4.8",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Tartu",
+    "city": "Tartu",
+    "timezone": "Europe/Tallinn",
+    "asn": 203081,
+    "asn_org": "Geenet OY",
+    "sources_count": 18,
+    "first_seen": "2026-11-11T05:21:43.739Z",
+    "last_checked": "2026-11-14T04:28:42.935Z"
   }
 ]

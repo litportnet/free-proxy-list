@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,16.174.124.173,8888,http://16.174.124.173:8888,elite,false,779,1089,79,77.8,221,37.221.208.71,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,7,2026-10-08T01:10:02.464Z,2026-11-13T04:24:22.199Z
-socks4,109.61.117.11,1080,socks4://109.61.117.11:1080,elite,true,653,656,65.4,69.2,779,109.61.64.9,1,hu,Baranya,Pécs,Europe/Budapest,197248,Dravanet Co Ltd.,16,2026-10-04T17:28:05.859Z,2026-11-13T04:22:10.281Z
-socks4,46.107.230.122,1080,socks4://46.107.230.122:1080,elite,true,679,680,38.6,47.8,634,46.107.230.122,1,hu,Bács-Kiskun,Lajosmizse,Europe/Budapest,58098,Szatmarnet Bt.,12,2025-09-04T23:49:05.711Z,2026-11-13T04:19:41.007Z
-socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,true,744,745,41,46.3,663,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-09-04T23:48:59.215Z,2026-11-13T04:21:19.203Z
+socks4,109.61.117.11,1080,socks4://109.61.117.11:1080,elite,false,1637,1645.5,70.4,70.8,818,109.61.64.9,1,hu,Baranya,Pécs,Europe/Budapest,197248,Dravanet Co Ltd.,16,2026-10-04T17:28:05.859Z,2026-11-14T04:23:58.056Z

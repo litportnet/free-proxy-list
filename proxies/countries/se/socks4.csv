@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,3625,1117,75,76.9,234,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,9,2026-03-19T00:40:14.786Z,2026-11-13T04:24:50.068Z
-socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,4571,4828,54.6,55.5,856,141.98.255.214,2,se,Skåne,Malmö,Europe/Stockholm,39351,31173 Services AB,6,2026-07-13T12:28:32.242Z,2026-11-13T04:19:54.189Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,607,1288.5,72.7,75.3,377,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,9,2026-03-19T00:40:14.786Z,2026-11-14T04:27:51.095Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,4780,6014.5,52.9,54.4,886,170.62.100.17,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,6,2026-07-13T12:28:32.242Z,2026-11-14T04:29:15.657Z
+socks4,46.224.14.155,9050,socks4://46.224.14.155:9050,elite,false,9413,6660.5,29.2,9.6,136,171.25.193.77,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,19,2026-09-05T23:07:27.202Z,2026-11-14T04:23:48.590Z

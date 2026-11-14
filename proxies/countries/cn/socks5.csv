@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,false,1505,1532.5,98.6,97.4,987,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,20,2026-08-26T20:12:07.501Z,2026-11-13T04:28:32.910Z
-socks5,134.175.238.113,1080,socks5://134.175.238.113:1080,elite,false,2496,2646,59.7,55.7,880,134.175.238.113,1,cn,Guangdong,Guangzhou,Asia/Shanghai,45090,Shenzhen Tencent Computer Systems Company Limited,18,2026-03-10T08:49:41.787Z,2026-11-13T04:28:11.814Z
-socks5,47.238.246.116,1111,socks5://47.238.246.116:1111,elite,false,2803,4052,37.5,,16,111.27.70.59,1,cn,Jilin,Changchun,Asia/Shanghai,134810,China Mobile Group JiLin communications corporation,1,2026-05-05T16:55:23.156Z,2026-11-13T04:22:14.495Z
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1508,1610,99.3,97.5,989,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,20,2026-08-26T20:12:07.501Z,2026-11-14T04:28:57.138Z

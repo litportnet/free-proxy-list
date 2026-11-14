@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,203.206.235.153,50042,socks4://203.206.235.153:50042,elite,false,2045,2054,11.8,13.1,175,203.206.235.153,1,au,New South Wales,Sydney,Australia/Sydney,4739,Internode Pty Ltd,12,2025-09-06T10:18:51.139Z,2026-11-13T04:25:54.562Z

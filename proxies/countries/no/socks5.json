@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks5",
-    "ip": "158.101.8.92",
-    "port": 1080,
-    "url": "socks5://158.101.8.92:1080",
+    "ip": "143.198.239.45",
+    "port": 10034,
+    "url": "socks5://143.198.239.45:10034",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 3880,
-    "latency_median_ms": 2327.5,
-    "uptime_24h": 48.1,
-    "uptime_7d": 37.6,
-    "checks_7d": 704,
-    "exit_ip": "185.243.218.233",
+    "https": false,
+    "latency_ms": 6887,
+    "latency_median_ms": 4175,
+    "uptime_24h": 33.6,
+    "uptime_7d": 34.4,
+    "checks_7d": 754,
+    "exit_ip": "185.181.61.203",
     "exit_shared": 1,
     "country": "no",
     "region": "Vestfold",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Oslo",
     "asn": 56655,
     "asn_org": "Gigahost AS",
-    "sources_count": 16,
-    "first_seen": "2026-03-29T05:50:34.027Z",
-    "last_checked": "2026-11-13T04:20:40.390Z"
+    "sources_count": 7,
+    "first_seen": "2026-10-08T11:15:16.965Z",
+    "last_checked": "2026-11-14T04:22:32.088Z"
   }
 ]

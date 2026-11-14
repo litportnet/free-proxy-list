@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,800,1544,48,39.7,798,51.254.44.49,2,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,21,2026-07-31T20:24:15.555Z,2026-11-14T04:30:50.869Z

@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.8.235.10,4145,socks4://200.8.235.10:4145,elite,true,394,392.5,32.5,43,665,200.8.235.10,1,ve,Aragua,Maracay,America/Caracas,21826,Corporación Telemic C.A.,20,2026-07-08T04:22:20.090Z,2026-11-13T04:27:48.071Z
-socks4,190.103.29.241,4145,socks4://190.103.29.241:4145,elite,false,1610,1465,14.3,12.3,212,190.120.248.32,1,ve,Distrito Federal,Caracas,America/Caracas,264628,"CORPORACION FIBEX TELECOM, C.A.",9,2025-09-06T15:40:27.821Z,2026-11-13T04:21:40.779Z
+socks4,170.254.173.6,1080,socks4://170.254.173.6:1080,elite,true,542,544.5,52.1,50.3,757,170.254.173.6,1,ve,Monagas,Maturín,America/Caracas,265641,TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),20,2026-07-05T16:48:25.056Z,2026-11-14T04:25:16.237Z
+socks4,200.8.235.10,4145,socks4://200.8.235.10:4145,elite,true,390,384,42.6,42.3,691,200.8.235.10,1,ve,Aragua,Maracay,America/Caracas,21826,Corporación Telemic C.A.,20,2026-07-08T04:22:20.090Z,2026-11-14T04:29:56.108Z

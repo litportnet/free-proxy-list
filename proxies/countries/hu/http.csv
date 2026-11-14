@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,16.174.124.173,8888,http://16.174.124.173:8888,elite,false,779,1089,79,77.8,221,37.221.208.71,1,hu,Budapest,Budapest,Europe/Budapest,41075,ATW Internet Kft.,7,2026-10-08T01:10:02.464Z,2026-11-13T04:24:22.199Z

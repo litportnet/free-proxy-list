@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,80.72.176.101,8080,http://80.72.176.101:8080,elite,false,3946,3956,11.9,20.8,500,80.72.176.101,1,kg,Bishkek,Bishkek,Asia/Bishkek,12997,OJSC Kyrgyztelecom,26,2026-09-05T05:58:47.585Z,2026-11-14T04:32:36.307Z

@@ -6,11 +6,11 @@
     "url": "http://45.133.107.128:81",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 2088,
-    "latency_median_ms": 3672.5,
-    "uptime_24h": 18.8,
-    "uptime_7d": 8,
-    "checks_7d": 188,
+    "latency_ms": 7030,
+    "latency_median_ms": 4498,
+    "uptime_24h": 15.4,
+    "uptime_7d": 10.7,
+    "checks_7d": 234,
     "exit_ip": "45.133.107.238",
     "exit_shared": 1,
     "country": "am",
@@ -21,6 +21,6 @@
     "asn_org": "ART-NET LLC",
     "sources_count": 21,
     "first_seen": "2026-09-16T17:25:31.374Z",
-    "last_checked": "2026-11-13T04:27:35.409Z"
+    "last_checked": "2026-11-14T04:29:11.988Z"
   }
 ]

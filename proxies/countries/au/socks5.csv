@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,false,1413,1841.5,22.2,28.4,648,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,19,2026-05-09T06:34:30.972Z,2026-11-14T04:29:11.974Z

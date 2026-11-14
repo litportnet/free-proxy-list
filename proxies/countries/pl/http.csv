@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,524,552,98.6,97,981,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-13T04:28:00.211Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,546,542.5,98.6,97,977,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-13T04:28:45.627Z
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,522,524,99.3,96.8,977,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-13T04:27:49.667Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,538,541.5,100,96.8,978,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-13T04:29:01.499Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,519,537,100,98.6,989,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-14T04:28:20.645Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,562,534,100,98.5,992,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-14T04:22:32.073Z
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,528,541.5,97.9,98.4,994,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-14T04:28:35.010Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,562,551,100,98.4,991,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-14T04:25:34.110Z

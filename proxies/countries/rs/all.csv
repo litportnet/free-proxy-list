@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,1498,769.5,48.3,49.9,732,109.245.110.145,1,rs,Central Serbia,Svilajnac,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-11-13T04:21:09.771Z
-socks4,95.140.118.34,1080,socks4://95.140.118.34:1080,elite,true,806,702,44,48.8,814,95.140.118.34,1,rs,Central Serbia,Zemun,Europe/Belgrade,9125,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,20,2026-07-11T02:57:55.862Z,2026-11-13T04:27:45.958Z
-socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,false,7937,711,35,39.1,708,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,21,2026-07-04T18:38:42.525Z,2026-11-13T04:25:37.068Z
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,1717,713.5,50.8,48.8,758,109.245.110.145,1,rs,Central Serbia,Svilajnac,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-11-14T04:26:11.509Z
+http,212.200.223.89,8080,http://212.200.223.89:8080,anonymous,true,8732,4582.5,38.7,41.8,804,212.200.223.89,1,rs,Central Serbia,Šabac,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,24,2026-08-05T23:29:41.654Z,2026-11-14T04:29:26.213Z

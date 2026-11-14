@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,213.6.249.37,19000,http://213.6.249.37:19000,anonymous,false,2247,4128,12.5,26.8,519,188.161.40.207,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,14,2026-05-27T03:23:13.655Z,2026-11-14T04:32:01.152Z

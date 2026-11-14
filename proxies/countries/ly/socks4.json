@@ -6,11 +6,11 @@
     "url": "socks4://165.16.99.209:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 686,
-    "latency_median_ms": 1727.5,
-    "uptime_24h": 33.6,
-    "uptime_7d": 43.1,
-    "checks_7d": 795,
+    "latency_ms": 717,
+    "latency_median_ms": 1748.5,
+    "uptime_24h": 41.5,
+    "uptime_7d": 43.8,
+    "checks_7d": 840,
     "exit_ip": "165.16.99.209",
     "exit_shared": 1,
     "country": "ly",
@@ -21,6 +21,6 @@
     "asn_org": "Aljeel Aljadeed For Technology",
     "sources_count": 16,
     "first_seen": "2026-10-04T08:23:20.934Z",
-    "last_checked": "2026-11-13T04:23:54.818Z"
+    "last_checked": "2026-11-14T04:29:59.887Z"
   }
 ]

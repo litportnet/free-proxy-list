@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.117.60.118,1080,socks4://85.117.60.118:1080,elite,false,1835,817.5,37,37,92,85.117.60.118,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,11,2026-11-12T09:36:36.051Z,2026-11-13T04:26:39.007Z
+socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,true,1801,1804.5,49.3,47.2,784,85.117.32.166,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-11-14T04:22:32.606Z

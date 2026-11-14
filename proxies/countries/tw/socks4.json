@@ -5,12 +5,12 @@
     "port": 1088,
     "url": "socks4://220.132.41.160:1088",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 993,
-    "latency_median_ms": 1987,
-    "uptime_24h": 61.5,
-    "uptime_7d": 57.1,
-    "checks_7d": 731,
+    "https": false,
+    "latency_ms": 4027,
+    "latency_median_ms": 2025,
+    "uptime_24h": 62.6,
+    "uptime_7d": 59.9,
+    "checks_7d": 791,
     "exit_ip": "220.132.41.160",
     "exit_shared": 1,
     "country": "tw",
@@ -21,6 +21,6 @@
     "asn_org": "Data Communication Business Group",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:14.627Z",
-    "last_checked": "2026-11-13T04:23:45.828Z"
+    "last_checked": "2026-11-14T04:30:34.065Z"
   }
 ]
