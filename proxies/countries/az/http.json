@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "85.132.108.42",
+    "port": 3128,
+    "url": "http://85.132.108.42:3128",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3524,
+    "latency_median_ms": 3849.5,
+    "uptime_24h": 74.5,
+    "uptime_7d": 86.9,
+    "checks_7d": 519,
+    "exit_ip": "185.222.94.247",
+    "exit_shared": 1,
+    "country": "az",
+    "region": "Baki",
+    "city": "Baku",
+    "timezone": "Asia/Baku",
+    "asn": 203971,
+    "asn_org": "AzFiberNet LLC",
+    "sources_count": 18,
+    "first_seen": "2026-11-10T20:16:55.512Z",
+    "last_checked": "2026-11-14T12:19:16.327Z"
+  }
+]

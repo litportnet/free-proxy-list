@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,503,523.5,77.5,83.4,475,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-14T12:18:04.538Z
+socks5,95.143.111.49,8888,socks5://95.143.111.49:8888,elite,true,737,741,40,13.8,87,95.143.111.49,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213459,Snowd Security OU,14,2026-08-19T14:43:15.786Z,2026-11-14T12:18:59.873Z

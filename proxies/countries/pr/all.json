@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "23.138.88.96",
+    "port": 999,
+    "url": "http://23.138.88.96:999",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3670,
+    "latency_median_ms": 2850,
+    "uptime_24h": 20,
+    "uptime_7d": 22.9,
+    "checks_7d": 555,
+    "exit_ip": "23.138.88.97",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "Adjuntas",
+    "city": "Adjuntas",
+    "timezone": "America/Puerto_Rico",
+    "asn": 400354,
+    "asn_org": "ALPHANET CORP",
+    "sources_count": 21,
+    "first_seen": "2025-09-05T20:06:26.778Z",
+    "last_checked": "2026-11-14T12:17:17.201Z"
+  }
+]

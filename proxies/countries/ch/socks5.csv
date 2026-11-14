@@ -1,0 +1,13 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.47,4468,socks5://45.74.31.47:4468,elite,true,3535,2216,57.6,28.4,321,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,10,2026-10-04T10:24:20.540Z,2026-11-14T12:24:39.916Z
+socks5,45.74.31.40,7363,socks5://45.74.31.40:7363,elite,true,1673,4717,22.4,25.7,70,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-10-10T22:46:34.535Z,2026-11-14T12:17:06.619Z
+socks5,45.74.31.47,4179,socks5://45.74.31.47:4179,elite,true,2119,1964,40,25,80,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,12,2026-09-28T14:17:11.738Z,2026-11-14T12:17:21.997Z
+socks5,45.74.31.47,6820,socks5://45.74.31.47:6820,elite,true,802,1929,31.2,24.1,116,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-10-12T19:09:50.190Z,2026-11-14T12:17:06.639Z
+socks5,45.74.31.42,13820,socks5://45.74.31.42:13820,elite,true,4741,2708,33.3,23.9,92,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-09-12T13:14:21.602Z,2026-11-14T12:18:40.782Z
+socks5,45.74.31.41,5100,socks5://45.74.31.41:5100,elite,false,2789,3201.5,39.7,23,270,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,14,2026-09-27T18:06:42.703Z,2026-11-14T12:18:28.032Z
+socks5,45.74.31.47,5922,socks5://45.74.31.47:5922,elite,true,4331,3063.5,23,21.2,99,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,12,2026-09-30T00:35:21.369Z,2026-11-14T12:19:06.249Z
+socks5,45.74.31.41,4102,socks5://45.74.31.41:4102,elite,false,7321,3398.5,31.9,21.1,251,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,14,2026-09-29T01:23:13.786Z,2026-11-14T12:15:58.774Z
+socks5,45.74.31.41,6282,socks5://45.74.31.41:6282,elite,false,4488,5981,11.4,19,174,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-10-04T04:21:10.887Z,2026-11-14T12:24:52.467Z
+socks5,45.74.31.47,5891,socks5://45.74.31.47:5891,elite,true,2960,2775.5,31.2,18.1,155,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,15,2026-09-28T05:12:30.822Z,2026-11-14T12:23:42.944Z
+socks5,45.74.31.41,5582,socks5://45.74.31.41:5582,elite,true,1564,2034,33.3,17.9,196,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,13,2026-10-04T04:21:10.887Z,2026-11-14T12:23:27.348Z
+socks5,45.74.31.41,6069,socks5://45.74.31.41:6069,elite,true,6760,2917,31.4,17.7,102,83.228.218.146,12,ch,Geneva,Geneva,Europe/Zurich,29222,Infomaniak,14,2026-10-04T04:21:10.887Z,2026-11-14T12:18:04.556Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "38.199.88.1",
+    "port": 999,
+    "url": "http://38.199.88.1:999",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 3221,
+    "latency_median_ms": 2407,
+    "uptime_24h": 56.4,
+    "uptime_7d": 58.7,
+    "checks_7d": 933,
+    "exit_ip": "38.199.88.5",
+    "exit_shared": 1,
+    "country": "gt",
+    "region": "Guatemala",
+    "city": "Guatemala City",
+    "timezone": "America/Guatemala",
+    "asn": 274038,
+    "asn_org": "INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",
+    "sources_count": 14,
+    "first_seen": "2026-05-05T23:00:53.229Z",
+    "last_checked": "2026-11-14T12:14:49.937Z"
+  }
+]

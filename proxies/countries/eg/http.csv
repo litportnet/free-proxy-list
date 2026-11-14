@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,41.196.16.228,1981,http://41.196.16.228:1981,anonymous,false,706,670,94.3,96.8,280,41.196.16.228,2,eg,Giza,Giza,Africa/Cairo,24863,Link Egypt (Link.NET),12,2026-01-06T00:03:38.649Z,2026-11-14T12:15:40.730Z
+http,41.196.16.228,1976,http://41.196.16.228:1976,anonymous,false,748,1670,82.4,90.8,282,41.196.16.228,2,eg,Giza,Giza,Africa/Cairo,24863,Link Egypt (Link.NET),14,2025-12-29T06:25:06.538Z,2026-11-14T12:20:42.025Z
+http,213.131.85.28,1976,http://213.131.85.28:1976,anonymous,false,1257,698,93,86.1,215,213.131.85.28,2,eg,Beheira,An Nūbārīyah,Africa/Cairo,24863,Link Egypt (Link.NET),15,2025-09-04T23:49:25.247Z,2026-11-14T12:20:06.682Z
+http,217.52.247.84,1981,http://217.52.247.84:1981,anonymous,false,4353,1553.5,79.3,84.7,522,217.52.247.84,1,eg,Giza,Giza,Africa/Cairo,36992,ETISALAT MISR,9,2025-12-12T15:53:14.751Z,2026-11-14T12:24:35.183Z
+http,213.131.85.28,1981,http://213.131.85.28:1981,anonymous,false,1682,1675,81,76.6,209,213.131.85.28,2,eg,Beheira,An Nūbārīyah,Africa/Cairo,24863,Link Egypt (Link.NET),13,2025-09-05T20:06:34.611Z,2026-11-14T12:21:46.608Z
+http,41.128.90.53,1981,http://41.128.90.53:1981,anonymous,false,4006,1835,74,67.9,274,41.128.90.53,1,eg,North Sinai,Ash Shaykh Zuwayd,Africa/Cairo,24863,Link Egypt (Link.NET),16,2026-06-07T09:49:54.133Z,2026-11-14T12:19:08.371Z
+http,41.33.60.42,8081,http://41.33.60.42:8081,anonymous,false,7141,2561,53.3,65.6,934,41.33.60.42,1,eg,Beni Suweif,Banī Suwayf,Africa/Cairo,8452,TE-AS,22,2026-07-10T04:49:24.702Z,2026-11-14T12:22:38.306Z
+http,197.164.101.13,1981,http://197.164.101.13:1981,anonymous,false,5475,4080,58.7,64.9,764,197.164.101.13,1,eg,Gharbia,Al Maḩallah al Kubrá,Africa/Cairo,24863,Link Egypt (Link.NET),18,2025-09-08T00:59:20.602Z,2026-11-14T12:20:50.608Z
+http,45.240.232.61,8080,http://45.240.232.61:8080,anonymous,false,4987,3648,47.2,56.4,885,45.240.232.61,1,eg,Sharqia,Hihyā,Africa/Cairo,24863,Link Egypt (Link.NET),22,2026-05-24T00:52:42.010Z,2026-11-14T12:17:07.161Z

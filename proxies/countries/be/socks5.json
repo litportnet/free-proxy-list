@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "143.198.239.45",
+    "port": 10035,
+    "url": "socks5://143.198.239.45:10035",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 6522,
+    "latency_median_ms": 3952,
+    "uptime_24h": 66.7,
+    "uptime_7d": 54.1,
+    "checks_7d": 884,
+    "exit_ip": "45.128.133.242",
+    "exit_shared": 1,
+    "country": "be",
+    "region": "Brussels Capital",
+    "city": "Brussels",
+    "timezone": "Europe/Brussels",
+    "asn": 206804,
+    "asn_org": "EstNOC GLOBAL",
+    "sources_count": 1,
+    "first_seen": "2026-11-06T21:27:25.129Z",
+    "last_checked": "2026-11-14T12:16:59.667Z"
+  }
+]

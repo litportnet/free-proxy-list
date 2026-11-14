@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,299,268,99.3,99.3,401,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-14T12:24:11.682Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,272,261,98.6,90.7,443,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-14T12:21:04.282Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,1305,1277,83.9,90,369,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-14T12:24:15.339Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,23.138.88.96,999,http://23.138.88.96:999,anonymous,false,3670,2850,20,22.9,555,23.138.88.97,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,21,2025-09-05T20:06:26.778Z,2026-11-14T12:17:17.201Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,695,680.5,85.2,84.4,244,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,1,2025-09-09T16:24:27.179Z,2026-11-14T12:16:41.003Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,3980,3293,83,70.1,324,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-14T12:22:32.110Z
+socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,true,628,634.5,51.5,51.4,871,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-14T12:18:13.106Z
+http,116.203.139.209,3128,http://116.203.139.209:3128,unknown,false,853,1016,41.4,42.8,173,141.98.11.62,2,lt,Vilnius,Vilnius,Europe/Vilnius,209605,UAB Host Baltic,7,2025-09-05T20:06:14.439Z,2026-11-14T12:12:16.140Z
+http,116.203.139.209,5678,http://116.203.139.209:5678,unknown,false,926,992,41.4,39.6,177,141.98.11.62,2,lt,Vilnius,Vilnius,Europe/Vilnius,209605,UAB Host Baltic,11,2025-09-10T19:34:18.975Z,2026-11-14T12:12:00.560Z

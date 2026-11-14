@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,false,9136,2885.5,58.7,52.6,831,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-11-14T12:20:55.257Z

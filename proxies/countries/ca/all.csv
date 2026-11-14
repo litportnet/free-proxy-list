@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,172.64.78.198,80,http://172.64.78.198:80,transparent,false,206,156.5,100,100,1008,172.71.120.130,1,ca,Ontario,Toronto,America/Toronto,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:29.948Z,2026-11-14T12:21:28.054Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,328,281.5,100,100,1006,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-14T12:22:58.070Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,2992,3688.5,54.7,55.7,912,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-14T12:23:30.454Z
+socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,true,211,1233,13.6,14.3,351,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-11-14T12:24:51.935Z

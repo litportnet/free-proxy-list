@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,175.107.30.110,1080,socks5://175.107.30.110:1080,elite,true,5252,3635,36.1,43.6,750,175.107.30.110,1,pk,Punjab,Lahore,Asia/Karachi,23888,"National Telecommunication Corporation HQ,",15,2026-10-04T20:29:42.395Z,2026-11-14T12:21:49.276Z
+socks5,72.255.38.180,1080,socks5://72.255.38.180:1080,elite,true,2744,3809,9.1,35,615,72.255.38.180,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,19,2026-08-02T04:41:37.409Z,2026-11-14T12:22:29.483Z
+socks5,58.27.213.133,1080,socks5://58.27.213.133:1080,elite,false,3975,3920,20.4,30.8,574,58.27.213.133,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,15,2026-10-07T05:59:55.579Z,2026-11-14T12:16:45.798Z
+socks5,203.99.54.238,1080,socks5://203.99.54.238:1080,elite,false,3985,3038.5,16.4,28.1,527,203.99.54.238,1,pk,Islamabad,Islamabad,Asia/Karachi,23674,Nayatel (Pvt) Ltd,15,2026-09-27T13:04:02.524Z,2026-11-14T12:22:20.506Z
+socks5,101.53.238.37,1080,socks5://101.53.238.37:1080,elite,false,1506,2637.5,16.3,26.7,494,101.53.238.37,1,pk,Punjab,Lahore,Asia/Karachi,9541,Cyber Internet Services (Pvt) Ltd.,15,2026-10-17T21:14:07.633Z,2026-11-14T12:17:58.156Z

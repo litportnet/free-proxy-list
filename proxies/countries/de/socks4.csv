@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,202.61.239.148,8383,socks4://202.61.239.148:8383,elite,true,630,634,99.3,99.6,250,202.61.239.148,2,de,Bavaria,Nuremberg,Europe/Berlin,197540,netcup GmbH,16,2026-11-12T18:41:23.099Z,2026-11-14T12:16:23.254Z
+socks4,84.200.33.119,8080,socks4://84.200.33.119:8080,unknown,false,462,403,61.3,59.8,487,84.200.33.119,2,de,Hesse,Frankfurt am Main,Europe/Berlin,44066,firstcolo GmbH,2,2026-11-09T17:02:29.543Z,2026-11-14T12:19:45.012Z
+socks4,80.64.27.175,1080,socks4://80.64.27.175:1080,elite,true,2346,2897.5,50,55.9,170,80.64.27.175,2,de,Hesse,Frankfurt am Main,Europe/Berlin,48207,GLB Bulut Teknolojisi Limited Sirketi,13,2026-11-13T05:47:13.373Z,2026-11-14T12:15:45.022Z
+socks4,84.200.33.119,80,socks4://84.200.33.119:80,unknown,false,3528,1229,57.9,53.5,447,84.200.33.119,2,de,Hesse,Frankfurt am Main,Europe/Berlin,44066,firstcolo GmbH,2,2026-11-09T17:02:33.979Z,2026-11-14T12:23:13.262Z
+socks4,46.232.249.209,40001,socks4://46.232.249.209:40001,elite,true,977,992.5,43,46.4,768,104.28.225.122,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-20T00:41:14.743Z,2026-11-14T12:17:47.462Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,623,1142,41.2,44.3,709,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-14T12:21:13.210Z
+socks4,37.32.26.209,10808,socks4://37.32.26.209:10808,elite,false,6293,959,31.4,31.4,70,148.251.42.80,1,de,Saxony,Falkenstein,Europe/Berlin,24940,Hetzner Online GmbH,12,2026-11-13T22:56:10.268Z,2026-11-14T12:20:12.554Z

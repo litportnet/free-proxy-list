@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,178.253.55.228,80,http://178.253.55.228:80,elite,false,996,1058,95.1,97.1,998,162.158.216.38,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-15T22:15:47.054Z,2026-11-14T12:25:23.266Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,false,9241,4353,60.7,62.8,908,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-14T12:23:14.315Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,401,434,54.4,60.1,919,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-14T12:18:37.603Z
+socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,true,4293,2160,47.8,51.2,301,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,14,2026-11-12T07:35:32.757Z,2026-11-14T12:21:28.051Z

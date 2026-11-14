@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,143.198.239.45,10029,socks5://143.198.239.45:10029,elite,true,4526,3447,35.7,38.2,851,64.190.76.4,1,it,Piedmont,Turin,Europe/Rome,214094,OSSERVATORIO NESSUNO,2,2026-10-09T23:34:21.714Z,2026-11-14T12:20:34.384Z

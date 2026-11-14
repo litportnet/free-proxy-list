@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,true,211,1233,13.6,14.3,351,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-11-14T12:24:51.935Z

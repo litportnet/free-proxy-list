@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,196.223.129.21,80,http://196.223.129.21:80,elite,false,8470,4250,85.9,72.4,935,196.223.129.21,1,za,Western Cape,Cape Town,Africa/Johannesburg,328471,HERO TELECOMS (PTY) LTD,18,2025-09-10T19:34:27.161Z,2026-11-14T12:20:14.163Z
+http,20.33.10.132,443,http://20.33.10.132:443,elite,false,2056,6798.5,56.8,67.7,944,20.33.10.79,2,za,Gauteng,Johannesburg,Africa/Johannesburg,8069,Microsoft Corporation,20,2026-10-16T19:00:14.740Z,2026-11-14T12:16:02.529Z
+http,20.33.10.132,80,http://20.33.10.132:80,elite,false,6987,3868.5,60.3,65.7,933,20.33.10.79,2,za,Gauteng,Johannesburg,Africa/Johannesburg,8069,Microsoft Corporation,14,2026-06-06T09:36:48.987Z,2026-11-14T12:16:03.045Z

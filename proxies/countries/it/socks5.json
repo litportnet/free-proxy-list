@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "143.198.239.45",
+    "port": 10029,
+    "url": "socks5://143.198.239.45:10029",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4526,
+    "latency_median_ms": 3447,
+    "uptime_24h": 35.7,
+    "uptime_7d": 38.2,
+    "checks_7d": 851,
+    "exit_ip": "64.190.76.4",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Piedmont",
+    "city": "Turin",
+    "timezone": "Europe/Rome",
+    "asn": 214094,
+    "asn_org": "OSSERVATORIO NESSUNO",
+    "sources_count": 2,
+    "first_seen": "2026-10-09T23:34:21.714Z",
+    "last_checked": "2026-11-14T12:20:34.384Z"
+  }
+]

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.118.44.143,8080,http://103.118.44.143:8080,elite,false,969,962.5,100,100,280,103.118.44.143,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",3,2026-11-12T13:38:43.890Z,2026-11-14T12:19:51.855Z
+http,203.95.196.129,8080,http://203.95.196.129:8080,elite,false,962,971,100,99.7,1003,203.95.196.129,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",1,2026-02-22T20:31:43.292Z,2026-11-14T12:25:13.860Z
+http,203.95.199.159,8080,http://203.95.199.159:8080,elite,false,985,992,96.5,97.2,995,203.95.199.159,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",5,2025-09-10T19:35:15.308Z,2026-11-14T12:16:52.724Z
+http,103.216.51.2,8080,http://103.216.51.2:8080,elite,false,980,971.5,97.2,92.8,885,103.216.51.2,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",3,2025-09-16T01:44:41.695Z,2026-11-14T12:21:03.217Z
+http,103.216.50.11,8080,http://103.216.50.11:8080,elite,false,954,969,74.8,89.1,953,103.216.50.11,1,kh,Phnom Penh,Phnom Penh,Asia/Phnom_Penh,135375,"Today Communication Co.,Ltd",6,2025-09-10T23:05:33.108Z,2026-11-14T12:19:14.192Z

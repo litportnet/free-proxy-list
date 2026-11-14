@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,true,570,1548.5,51.9,55,782,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-11-14T12:24:58.215Z
+socks4,160.20.165.242,8080,socks4://160.20.165.242:8080,elite,false,525,526,44.2,46.9,720,160.20.165.242,1,ec,Guayas,Guayaquil,America/Guayaquil,52468,UFINET PANAMA S.A.,21,2025-09-05T20:06:13.403Z,2026-11-14T12:20:45.334Z
+socks4,45.163.207.18,1080,socks4://45.163.207.18:1080,elite,false,7864,2568.5,38.2,35.4,757,45.163.207.18,1,ec,Los Ríos,Ventanas,America/Guayaquil,267684,VISIONMAGICA SOCIEDAD ANONIMA,14,2026-07-13T05:24:59.944Z,2026-11-14T12:18:39.728Z

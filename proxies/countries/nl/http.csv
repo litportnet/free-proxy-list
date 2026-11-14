@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,72.56.73.23,80,http://72.56.73.23:80,elite,false,503,497,100,100,1006,72.56.73.23,1,nl,North Holland,Amsterdam,Europe/Amsterdam,210976,"Timeweb, LLP",10,2026-08-27T12:22:51.054Z,2026-11-14T12:16:21.117Z
+http,5.253.191.114,80,http://5.253.191.114:80,elite,false,559,470,99.3,99.9,1006,141.101.76.108,1,nl,North Holland,Amsterdam,Europe/Amsterdam,13335,"Cloudflare, Inc.",2,2026-10-06T17:53:44.269Z,2026-11-14T12:22:48.685Z
+http,144.31.54.101,80,http://144.31.54.101:80,elite,false,457,458.5,99.3,99.1,842,144.31.54.101,1,nl,Limburg,Kerkrade,Europe/Amsterdam,215439,PLAY2GO INTERNATIONAL LIMITED,1,2026-11-08T15:49:33.601Z,2026-11-14T12:17:16.664Z
+http,195.26.224.135,80,http://195.26.224.135:80,elite,false,430,441,95.8,87.8,958,195.26.224.135,1,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,1,2026-03-17T17:23:33.821Z,2026-11-14T12:23:00.725Z
+http,16.51.53.116,555,http://16.51.53.116:555,elite,false,3652,2358.5,71.1,73.8,187,45.66.35.22,1,nl,North Holland,Amsterdam,Europe/Amsterdam,61125,SABOTAGE LLC,6,2026-09-23T00:07:16.069Z,2026-11-14T12:22:48.163Z
+http,62.84.245.79,80,http://62.84.245.79:80,elite,false,4349,4548,72.3,70.1,880,62.84.245.79,1,nl,North Holland,Amsterdam,Europe/Amsterdam,48635,Your Hosting B.V.,9,2025-09-10T19:34:57.308Z,2026-11-14T12:19:46.073Z
+http,146.103.123.157,80,http://146.103.123.157:80,elite,false,445,471,53.9,51.3,673,146.103.123.157,1,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,13,2026-11-04T10:56:28.271Z,2026-11-14T12:18:34.402Z
+http,94.183.206.215,8080,http://94.183.206.215:8080,elite,true,4491,6253,39.7,42.7,443,172.235.175.204,1,nl,North Holland,Amsterdam,Europe/Amsterdam,63949,Akamai Connected Cloud,19,2026-10-29T14:42:20.450Z,2026-11-14T12:20:10.954Z

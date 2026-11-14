@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "2.50.191.129",
+    "port": 10800,
+    "url": "socks5://2.50.191.129:10800",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1518,
+    "latency_median_ms": 1652,
+    "uptime_24h": 21.5,
+    "uptime_7d": 25.1,
+    "checks_7d": 475,
+    "exit_ip": "2.50.191.129",
+    "exit_shared": 1,
+    "country": "ae",
+    "region": "Dubai",
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "asn": 5384,
+    "asn_org": "Emirates Internet",
+    "sources_count": 14,
+    "first_seen": "2026-10-20T17:50:15.957Z",
+    "last_checked": "2026-11-14T12:23:57.566Z"
+  }
+]

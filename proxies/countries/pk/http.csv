@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,103.225.221.190,3128,http://103.225.221.190:3128,anonymous,false,9881,6895.5,25.6,39.4,767,117.20.18.35,1,pk,Punjab,Lahore,Asia/Karachi,38193,Transworld Associates (Pvt.) Ltd.,14,2026-11-02T17:34:53.744Z,2026-11-14T12:17:46.927Z

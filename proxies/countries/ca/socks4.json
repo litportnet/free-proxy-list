@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "69.70.74.118",
+    "port": 1337,
+    "url": "socks4://69.70.74.118:1337",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 211,
+    "latency_median_ms": 1233,
+    "uptime_24h": 13.6,
+    "uptime_7d": 14.3,
+    "checks_7d": 351,
+    "exit_ip": "69.70.74.118",
+    "exit_shared": 1,
+    "country": "ca",
+    "region": "Quebec",
+    "city": "Montréal",
+    "timezone": "America/Toronto",
+    "asn": 5769,
+    "asn_org": "Videotron Ltee",
+    "sources_count": 12,
+    "first_seen": "2025-09-05T20:06:35.027Z",
+    "last_checked": "2026-11-14T12:24:51.935Z"
+  }
+]

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,85.132.108.42,3128,http://85.132.108.42:3128,elite,true,3524,3849.5,74.5,86.9,519,185.222.94.247,1,az,Baki,Baku,Asia/Baku,203971,AzFiberNet LLC,18,2026-11-10T20:16:55.512Z,2026-11-14T12:19:16.327Z
+socks5,5.191.253.56,1080,socks5://5.191.253.56:1080,elite,false,4260,3973.5,31.9,38.4,726,5.191.253.56,1,az,Baki,Baku,Asia/Baku,200729,AzInTelecom LLC,10,2026-10-23T23:31:11.531Z,2026-11-14T12:20:58.485Z

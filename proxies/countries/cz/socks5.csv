@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,78.80.157.35,1080,socks5://78.80.157.35:1080,elite,false,1804,1803.5,30.8,42,553,78.80.157.35,1,cz,Prague,Prague,Europe/Prague,13036,T-Mobile Czech Republic a.s.,14,2026-11-09T23:05:40.992Z,2026-11-14T12:18:39.735Z
+socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,true,3988,3922.5,39.2,40.4,837,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,14,2026-10-31T14:07:16.201Z,2026-11-14T12:21:20.711Z
+socks5,176.62.237.51,1080,socks5://176.62.237.51:1080,elite,true,2807,3044.5,39.5,38.8,782,176.62.237.51,1,cz,South Bohemian Region,Vlachovo Březí,Europe/Prague,49985,IP4ISP z.s.p.o,14,2026-11-06T06:18:58.776Z,2026-11-14T12:25:07.545Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "116.101.73.52",
+    "port": 2095,
+    "url": "http://116.101.73.52:2095",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3184,
+    "latency_median_ms": 3216.5,
+    "uptime_24h": 72.5,
+    "uptime_7d": 72.5,
+    "checks_7d": 80,
+    "exit_ip": "171.234.162.57",
+    "exit_shared": 1,
+    "country": "vn",
+    "region": "Thanh Hóa Province",
+    "city": "Thanh Hóa",
+    "timezone": "Asia/Bangkok",
+    "asn": 7552,
+    "asn_org": "Viettel Group",
+    "sources_count": 9,
+    "first_seen": "2026-11-13T21:55:43.404Z",
+    "last_checked": "2026-11-14T12:21:10.059Z"
+  }
+]

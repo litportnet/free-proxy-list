@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,38.199.88.1,999,http://38.199.88.1:999,anonymous,true,3221,2407,56.4,58.7,933,38.199.88.5,1,gt,Guatemala,Guatemala City,America/Guatemala,274038,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",14,2026-05-05T23:00:53.229Z,2026-11-14T12:14:49.937Z

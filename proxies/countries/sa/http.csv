@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,172.65.90.46,80,http://172.65.90.46:80,transparent,false,719,755,100,100,1005,172.69.103.148,2,sa,Mecca Region,Jeddah,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-15T04:33:23.028Z,2026-11-14T12:19:46.058Z
+http,172.65.90.47,80,http://172.65.90.47:80,transparent,false,729,732,99.3,99.9,1005,172.69.103.148,2,sa,Mecca Region,Jeddah,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-14T23:38:12.602Z,2026-11-14T12:23:05.432Z
+http,130.110.103.245,3128,http://130.110.103.245:3128,anonymous,true,1270,1530.5,96.5,98.6,999,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,22,2026-08-06T11:36:30.247Z,2026-11-14T12:22:32.104Z

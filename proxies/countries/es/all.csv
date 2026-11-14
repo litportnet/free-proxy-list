@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,440,449,99.3,98.3,1003,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-14T12:24:55.591Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,741,1745,62.9,66.4,888,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-11-14T12:24:05.432Z
+socks4,185.130.219.12,4153,socks4://185.130.219.12:4153,elite,true,3669,1708,29.9,30.4,523,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,13,2025-09-06T19:42:47.705Z,2026-11-14T12:21:09.023Z
+http,91.126.244.112,8080,http://91.126.244.112:8080,anonymous,false,9634,4769.5,19.5,22.3,403,91.126.244.112,1,es,Cantabria,Arredondo,Europe/Madrid,35699,Adamo Telecom Iberia S.A.,26,2026-07-06T09:10:10.551Z,2026-11-14T12:19:48.204Z

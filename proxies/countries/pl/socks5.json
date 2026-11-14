@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "143.198.239.45",
+    "port": 10027,
+    "url": "socks5://143.198.239.45:10027",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1687,
+    "latency_median_ms": 2854,
+    "uptime_24h": 38.5,
+    "uptime_7d": 34.7,
+    "checks_7d": 441,
+    "exit_ip": "31.133.0.122",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Greater Poland",
+    "city": "Poznań",
+    "timezone": "Europe/Warsaw",
+    "asn": 51290,
+    "asn_org": "BARTOSZ WASZAK trading as HOSTEAM S.C. TOMASZ GROSZEWSKI BARTOSZ WASZAK LUKASZ GROSZEWSKI",
+    "sources_count": 2,
+    "first_seen": "2026-10-10T10:40:11.831Z",
+    "last_checked": "2026-11-14T12:18:58.828Z"
+  }
+]

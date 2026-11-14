@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "81.7.112.174",
+    "port": 4145,
+    "url": "socks4://81.7.112.174:4145",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 628,
+    "latency_median_ms": 634.5,
+    "uptime_24h": 51.5,
+    "uptime_7d": 51.4,
+    "checks_7d": 871,
+    "exit_ip": "81.7.112.174",
+    "exit_shared": 1,
+    "country": "lt",
+    "region": "Vilnius",
+    "city": "Elektrėnai",
+    "timezone": "Europe/Vilnius",
+    "asn": 49602,
+    "asn_org": "Private Limited Liability Company \"KRENA\"",
+    "sources_count": 16,
+    "first_seen": "2026-10-19T14:35:57.010Z",
+    "last_checked": "2026-11-14T12:18:13.106Z"
+  }
+]

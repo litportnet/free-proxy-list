@@ -1,0 +1,13 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,202.133.88.173,80,http://202.133.88.173:80,elite,false,2368,1316.5,97.2,95.3,981,202.133.88.173,1,fr,Île-de-France,Paris,Europe/Paris,212552,BitCommand LLC,19,2025-12-07T12:12:09.766Z,2026-11-14T12:23:01.765Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,552,555.5,94.4,93.7,991,37.187.74.125,1,fr,Hauts-de-France,Gravelines,Europe/Paris,16276,OVH SAS,11,2025-09-05T00:24:28.901Z,2026-11-14T12:24:22.614Z
+http,35.241.172.224,80,http://35.241.172.224:80,elite,false,670,501,93.7,93.2,991,172.71.130.226,1,fr,Île-de-France,Paris,Europe/Paris,13335,"Cloudflare, Inc.",4,2025-09-04T23:49:55.187Z,2026-11-14T12:15:10.583Z
+http,51.75.206.209,80,http://51.75.206.209:80,elite,false,1611,1486.5,95.1,91.7,981,51.75.206.209,1,fr,Hauts-de-France,Gravelines,Europe/Paris,16276,OVH SAS,19,2025-09-10T19:35:12.669Z,2026-11-14T12:16:36.218Z
+http,163.172.53.142,80,http://163.172.53.142:80,elite,false,4708,4639.5,85.2,88,973,163.172.53.142,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,18,2025-09-06T06:34:26.456Z,2026-11-14T12:18:16.320Z
+http,16.174.124.173,8888,http://16.174.124.173:8888,elite,false,5175,2116,78.2,77.6,410,80.67.167.81,3,fr,Île-de-France,Paris,Europe/Paris,2027,MilkyWan Association,7,2026-10-08T01:10:02.464Z,2026-11-14T12:22:25.229Z
+http,51.159.28.39,80,http://51.159.28.39:80,elite,false,3845,3331,85.6,74,893,51.159.28.39,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,11,2025-09-10T19:34:30.596Z,2026-11-14T12:21:21.244Z
+http,18.188.168.99,8082,http://18.188.168.99:8082,elite,false,3343,3559.5,70.4,72.8,963,203.55.81.2,1,fr,Île-de-France,Nanterre,Europe/Paris,213873,OUIDO Hosting,4,2026-09-21T21:11:30.084Z,2026-11-14T12:20:31.748Z
+http,163.172.167.48,80,http://163.172.167.48:80,elite,false,3931,3133,72.7,72.6,908,163.172.167.48,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,19,2025-09-05T23:19:59.164Z,2026-11-14T12:17:36.294Z
+http,188.165.199.207,80,http://188.165.199.207:80,elite,false,1858,3035.5,71.7,72,910,188.165.199.207,1,fr,Hauts-de-France,Roubaix,Europe/Paris,16276,OVH SAS,1,2026-03-17T17:23:32.315Z,2026-11-14T12:20:03.006Z
+http,176.191.124.3,80,http://176.191.124.3:80,anonymous,false,6425,5146.5,73.9,69.9,941,176.191.124.3,1,fr,Auvergne-Rhône-Alpes,Grenoble,Europe/Paris,5410,Bouygues Telecom SA,11,2025-12-06T17:01:43.838Z,2026-11-14T12:16:32.469Z
+http,207.180.254.198,8080,http://207.180.254.198:8080,elite,false,7965,5139,78.9,68.5,890,207.180.254.198,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-11-06T15:39:17.050Z,2026-11-14T12:19:13.655Z

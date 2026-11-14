@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "77.221.142.205",
+    "port": 80,
+    "url": "http://77.221.142.205:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 536,
+    "latency_median_ms": 544.5,
+    "uptime_24h": 100,
+    "uptime_7d": 99.9,
+    "checks_7d": 1009,
+    "exit_ip": "172.69.136.136",
+    "exit_shared": 1,
+    "country": "ee",
+    "region": "Harjumaa",
+    "city": "Tallinn",
+    "timezone": "Europe/Tallinn",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 3,
+    "first_seen": "2026-09-18T15:36:04.858Z",
+    "last_checked": "2026-11-14T12:21:07.456Z"
+  }
+]

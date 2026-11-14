@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,203.150.113.243,8080,http://203.150.113.243:8080,anonymous,false,3986,4174,27.7,27.7,83,203.150.113.243,1,th,Bangkok,Bangkok,Asia/Bangkok,4618,Internet Thailand Company Limited,15,2026-11-13T17:53:28.246Z,2026-11-14T12:22:32.626Z
+http,203.172.225.227,8080,http://203.172.225.227:8080,anonymous,false,1457,4109,19.1,24.7,530,203.172.225.227,1,th,Songkhla,Na Mom,Asia/Bangkok,23974,Ministry of education,26,2025-09-10T21:05:11.450Z,2026-11-14T12:23:51.827Z
+http,1.0.171.213,8080,http://1.0.171.213:8080,anonymous,false,3840,4329.5,23.5,20.9,464,1.0.171.213,1,th,Suphan Buri,Suphan Buri,Asia/Bangkok,23969,TOT Public Company Limited,24,2025-09-05T20:06:36.328Z,2026-11-14T12:24:45.635Z
+http,182.52.136.68,8080,http://182.52.136.68:8080,anonymous,false,2235,4061,22.2,16,206,182.52.136.68,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-10-16T21:01:34.822Z,2026-11-14T12:23:58.100Z
+http,182.52.136.70,8080,http://182.52.136.70:8080,anonymous,false,8312,6497.5,13.8,14.5,263,182.52.136.70,1,th,Bangkok,Bangkok,Asia/Bangkok,23969,TOT Public Company Limited,20,2026-10-17T09:07:41.308Z,2026-11-14T12:25:00.338Z
+http,203.150.128.222,8080,http://203.150.128.222:8080,anonymous,true,6233,2927,100,,3,203.150.128.222,1,th,Bangkok,Bangkok,Asia/Bangkok,4618,Internet Thailand Company Limited,13,2025-09-09T21:29:12.464Z,2026-11-14T12:24:42.515Z

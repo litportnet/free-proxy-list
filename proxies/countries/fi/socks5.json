@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "95.143.111.49",
+    "port": 8888,
+    "url": "socks5://95.143.111.49:8888",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 737,
+    "latency_median_ms": 741,
+    "uptime_24h": 40,
+    "uptime_7d": 13.8,
+    "checks_7d": 87,
+    "exit_ip": "95.143.111.49",
+    "exit_shared": 1,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 213459,
+    "asn_org": "Snowd Security OU",
+    "sources_count": 14,
+    "first_seen": "2026-08-19T14:43:15.786Z",
+    "last_checked": "2026-11-14T12:18:59.873Z"
+  }
+]

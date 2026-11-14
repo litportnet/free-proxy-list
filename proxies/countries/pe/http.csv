@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,38.210.106.24,999,http://38.210.106.24:999,anonymous,false,6962,3388.5,29.2,33.2,684,177.53.155.122,1,pe,Lima region,Villa Poeta José Gálvez Barrenechea,America/Lima,270007,MORENO YANOC NEMIAS BERNARDO,18,2026-10-03T09:11:10.974Z,2026-11-14T12:19:29.627Z
+http,190.119.185.157,999,http://190.119.185.157:999,anonymous,false,4085,3390.5,12.8,19.3,450,190.119.185.154,1,pe,Cajamarca Department,Chota,America/Lima,12252,America Movil Peru S.A.C.,20,2026-10-07T08:01:14.762Z,2026-11-14T12:14:58.977Z
+http,209.14.109.128,999,http://209.14.109.128:999,anonymous,false,4887,4819.5,33.3,3.7,81,209.14.109.130,1,pe,Lima Province,Lima,America/Lima,272106,CORPORACION TARAZONA CATV S.A.C.,15,2026-06-18T15:13:38.212Z,2026-11-14T12:24:54.035Z

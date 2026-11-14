@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,1198,1706.5,97.9,95.7,491,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-14T12:22:05.181Z
+socks4,180.222.187.50,10800,socks4://180.222.187.50:10800,elite,true,895,940.5,67.1,82.9,789,180.222.187.50,2,jp,Tokyo,Tokyo,Asia/Tokyo,131921,GMO GlobalSign Holdings K.K.,14,2026-11-02T10:30:39.326Z,2026-11-14T12:21:47.154Z

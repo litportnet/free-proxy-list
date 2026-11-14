@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "45.76.161.19",
+    "port": 1080,
+    "url": "socks4://45.76.161.19:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1314,
+    "latency_median_ms": 1307,
+    "uptime_24h": 85.2,
+    "uptime_7d": null,
+    "checks_7d": 27,
+    "exit_ip": "45.76.161.19",
+    "exit_shared": 1,
+    "country": "sg",
+    "region": "Singapore",
+    "city": "Singapore",
+    "timezone": "Asia/Singapore",
+    "asn": 20473,
+    "asn_org": "The Constant Company, LLC",
+    "sources_count": 1,
+    "first_seen": "2026-08-04T12:10:58.044Z",
+    "last_checked": "2026-11-14T12:23:24.726Z"
+  }
+]

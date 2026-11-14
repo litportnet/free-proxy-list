@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.26.94.9,1080,socks5://195.26.94.9:1080,elite,false,1931,1877,47.7,47.8,448,195.26.94.9,1,ua,Kyiv City,Kyiv,Europe/Kyiv,41320,"""Schid-Service"" Ltd",13,2026-11-10T22:17:59.152Z,2026-11-14T12:14:13.971Z
+socks5,116.202.32.250,1082,socks5://116.202.32.250:1082,elite,true,1532,1532,50,,2,95.128.195.82,1,ua,Kyiv City,Kyiv,Europe/Kyiv,212238,Datacamp Limited,1,2026-11-14T12:03:08.161Z,2026-11-14T12:14:19.832Z

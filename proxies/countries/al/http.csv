@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.242.21.165,8080,http://77.242.21.165:8080,anonymous,false,3145,5047,12.5,1.6,64,77.242.21.165,1,al,Durrës County,Durrës,Europe/Tirane,35047,Abissnet sh.a.,18,2026-09-13T05:22:51.670Z,2026-11-14T12:17:20.948Z

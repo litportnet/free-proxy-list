@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.88.177.40",
+    "port": 80,
+    "url": "http://185.88.177.40:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 830,
+    "latency_median_ms": 829.5,
+    "uptime_24h": 78.1,
+    "uptime_7d": 87.2,
+    "checks_7d": 773,
+    "exit_ip": "185.88.177.40",
+    "exit_shared": 1,
+    "country": "ir",
+    "region": "Tehran",
+    "city": "Tehran",
+    "timezone": "Asia/Tehran",
+    "asn": 201691,
+    "asn_org": "Fannavari Etelaate Samane Kavoshgar Ide Ltd.",
+    "sources_count": 18,
+    "first_seen": "2025-12-07T12:12:43.760Z",
+    "last_checked": "2026-11-14T12:23:18.486Z"
+  }
+]

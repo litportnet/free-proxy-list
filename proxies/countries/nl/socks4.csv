@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,45.61.129.165,9050,socks4://45.61.129.165:9050,elite,false,1642,2562,90.9,95.2,990,192.42.116.144,1,nl,North Holland,Aalsmeer,Europe/Amsterdam,215125,Church of Cyberology,13,2026-07-02T02:04:25.728Z,2026-11-14T12:16:01.993Z
+socks4,188.226.27.24,1080,socks4://188.226.27.24:1080,elite,false,5441,3047.5,75.6,76,947,88.210.12.209,2,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,14,2026-11-01T14:20:07.967Z,2026-11-14T12:16:25.955Z
+socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,true,506,2593.5,56.8,51.4,860,128.199.37.92,2,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",20,2025-09-10T19:34:11.853Z,2026-11-14T12:19:09.953Z
+socks4,144.31.13.185,3128,socks4://144.31.13.185:3128,elite,false,1556,3677.5,39.7,45,678,144.31.13.185,1,nl,Limburg,Eygelshoven,Europe/Amsterdam,207513,"LLC ""HOSTOFF CSL""",15,2026-10-31T05:02:26.599Z,2026-11-14T12:19:33.856Z

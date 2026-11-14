@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "195.13.182.211",
+    "port": 8080,
+    "url": "socks5://195.13.182.211:8080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8035,
+    "latency_median_ms": 3077,
+    "uptime_24h": 51.4,
+    "uptime_7d": 57.5,
+    "checks_7d": 912,
+    "exit_ip": "195.13.182.211",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 12578,
+    "asn_org": "SIA Tet",
+    "sources_count": 16,
+    "first_seen": "2026-10-07T11:02:35.488Z",
+    "last_checked": "2026-11-14T12:25:09.137Z"
+  }
+]
