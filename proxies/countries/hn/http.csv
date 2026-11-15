@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,181.78.44.63,999,http://181.78.44.63:999,anonymous,false,1189,2502.5,54.7,57.4,891,181.78.44.63,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,25,2025-09-17T04:51:36.435Z,2026-11-14T04:22:57.205Z
-http,45.190.184.105,8080,http://45.190.184.105:8080,anonymous,false,2044,6197.5,20.3,32.8,658,45.190.184.105,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,19,2026-10-14T05:27:53.295Z,2026-11-14T04:26:38.192Z
+http,181.78.44.63,999,http://181.78.44.63:999,anonymous,true,2529,2150,35.7,54.7,883,181.78.44.63,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,52468,UFINET PANAMA S.A.,25,2025-09-17T04:51:36.435Z,2026-11-15T04:26:25.385Z
+http,138.0.228.122,8080,http://138.0.228.122:8080,anonymous,false,2964,4054.5,23.8,26.3,579,138.0.228.185,1,hn,Cortés Department,San Pedro Sula,America/Tegucigalpa,263725,MULTICABLE DE HONDURAS,14,2025-09-05T20:06:32.775Z,2026-11-15T04:22:15.816Z

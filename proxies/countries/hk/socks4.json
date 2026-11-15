@@ -6,11 +6,11 @@
     "url": "socks4://121.46.226.221:10808",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1169,
-    "latency_median_ms": 4886,
-    "uptime_24h": 88.7,
-    "uptime_7d": 95,
-    "checks_7d": 994,
+    "latency_ms": 1093,
+    "latency_median_ms": 2512,
+    "uptime_24h": 91.6,
+    "uptime_7d": 93.9,
+    "checks_7d": 992,
     "exit_ip": "156.59.17.27",
     "exit_shared": 3,
     "country": "hk",
@@ -21,7 +21,7 @@
     "asn_org": "Zenlayer Inc",
     "sources_count": 15,
     "first_seen": "2026-10-10T03:36:28.858Z",
-    "last_checked": "2026-11-14T04:22:59.339Z"
+    "last_checked": "2026-11-15T04:27:32.316Z"
   },
   {
     "protocol": "socks4",
@@ -29,14 +29,14 @@
     "port": 7890,
     "url": "socks4://156.225.31.18:7890",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1994,
-    "latency_median_ms": 4499.5,
-    "uptime_24h": 74.3,
-    "uptime_7d": 75,
-    "checks_7d": 784,
+    "https": false,
+    "latency_ms": 4568,
+    "latency_median_ms": 5557,
+    "uptime_24h": 83.6,
+    "uptime_7d": 76.1,
+    "checks_7d": 795,
     "exit_ip": "156.225.31.18",
-    "exit_shared": 3,
+    "exit_shared": 2,
     "country": "hk",
     "region": "Hong Kong",
     "city": "Hong Kong",
@@ -45,6 +45,6 @@
     "asn_org": "cognetcloud INC",
     "sources_count": 17,
     "first_seen": "2026-09-25T23:44:28.082Z",
-    "last_checked": "2026-11-14T04:29:59.356Z"
+    "last_checked": "2026-11-15T04:19:47.962Z"
   }
 ]

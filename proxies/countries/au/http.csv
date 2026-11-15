@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,598,807,100,100,1005,104.22.127.45,1,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-14T04:22:57.730Z
-http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,864,842,100,100,1006,172.69.186.182,1,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-14T04:32:19.187Z
-http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,869,855.5,100,100,1006,162.158.2.122,1,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-14T04:27:24.841Z
-http,180.181.215.232,3128,http://180.181.215.232:3128,anonymous,false,8106,3634,28.3,23.8,529,180.181.215.232,1,au,Queensland,Brisbane,Australia/Brisbane,4764,Aussie Fibre Pty Ltd,22,2026-05-20T21:13:51.425Z,2026-11-14T04:28:33.969Z
+http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,813,850,100,100,1005,108.162.249.88,2,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-15T04:21:37.476Z
+http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,840,820.5,100,100,1004,108.162.249.88,2,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-15T04:26:15.248Z
+http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,843,838,100,100,1005,162.158.168.144,1,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-15T04:21:12.857Z

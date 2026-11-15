@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks5://194.113.38.227:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 3078,
-    "latency_median_ms": 4553.5,
-    "uptime_24h": 50.7,
-    "uptime_7d": 53.1,
-    "checks_7d": 480,
+    "https": false,
+    "latency_ms": 3599,
+    "latency_median_ms": 5290,
+    "uptime_24h": 48.1,
+    "uptime_7d": 52,
+    "checks_7d": 610,
     "exit_ip": "31.77.202.253",
     "exit_shared": 1,
     "country": "fi",
@@ -21,6 +21,6 @@
     "asn_org": "DpkgSoft International Limited",
     "sources_count": 14,
     "first_seen": "2026-11-10T16:14:46.785Z",
-    "last_checked": "2026-11-14T04:28:29.196Z"
+    "last_checked": "2026-11-15T04:27:10.285Z"
   }
 ]

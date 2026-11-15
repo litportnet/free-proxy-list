@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "150.228.188.60",
+    "port": 1080,
+    "url": "socks5://150.228.188.60:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2685,
+    "latency_median_ms": 4511,
+    "uptime_24h": 29.2,
+    "uptime_7d": 33.2,
+    "checks_7d": 310,
+    "exit_ip": "150.228.188.60",
+    "exit_shared": 1,
+    "country": "ph",
+    "region": "National Capital Region",
+    "city": "Manila",
+    "timezone": "Asia/Manila",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 13,
+    "first_seen": "2026-11-12T07:35:32.757Z",
+    "last_checked": "2026-11-15T04:27:44.127Z"
+  }
+]

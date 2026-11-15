@@ -6,11 +6,11 @@
     "url": "http://45.130.127.10:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 523,
-    "latency_median_ms": 519,
-    "uptime_24h": 73.4,
-    "uptime_7d": 81.4,
-    "checks_7d": 467,
+    "latency_ms": 495,
+    "latency_median_ms": 525.5,
+    "uptime_24h": 90.9,
+    "uptime_7d": 81.3,
+    "checks_7d": 477,
     "exit_ip": "45.130.127.10",
     "exit_shared": 1,
     "country": "fi",
@@ -21,7 +21,7 @@
     "asn_org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
     "sources_count": 7,
     "first_seen": "2026-10-13T20:23:27.401Z",
-    "last_checked": "2026-11-14T04:27:04.350Z"
+    "last_checked": "2026-11-15T04:20:09.846Z"
   },
   {
     "protocol": "socks5",
@@ -29,12 +29,12 @@
     "port": 1080,
     "url": "socks5://194.113.38.227:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 3078,
-    "latency_median_ms": 4553.5,
-    "uptime_24h": 50.7,
-    "uptime_7d": 53.1,
-    "checks_7d": 480,
+    "https": false,
+    "latency_ms": 3599,
+    "latency_median_ms": 5290,
+    "uptime_24h": 48.1,
+    "uptime_7d": 52,
+    "checks_7d": 610,
     "exit_ip": "31.77.202.253",
     "exit_shared": 1,
     "country": "fi",
@@ -45,6 +45,6 @@
     "asn_org": "DpkgSoft International Limited",
     "sources_count": 14,
     "first_seen": "2026-11-10T16:14:46.785Z",
-    "last_checked": "2026-11-14T04:28:29.196Z"
+    "last_checked": "2026-11-15T04:27:10.285Z"
   }
 ]

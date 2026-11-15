@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,1771,3164.5,84.4,82.6,950,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-14T04:25:34.645Z
-socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,7587,7711.5,57.9,53.9,867,170.62.100.17,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,15,2026-07-13T09:34:11.062Z,2026-11-14T04:26:13.629Z
-socks5,143.198.239.45,10024,socks5://143.198.239.45:10024,elite,true,1526,4769,53.5,51.7,704,171.25.193.37,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,3,2026-10-24T07:35:44.652Z,2026-11-14T04:24:22.234Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2961,2303,85.2,85,969,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-15T04:19:53.165Z
+socks5,143.198.239.45,10011,socks5://143.198.239.45:10011,elite,false,4865,2545,32.2,33.9,333,193.189.100.205,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,2,2026-10-18T13:22:37.872Z,2026-11-15T04:20:48.831Z

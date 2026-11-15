@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.206.229.161,1080,socks5://195.206.229.161:1080,elite,true,899,987.5,100,,38,195.206.229.161,1,si,Ljubljana,Ljubljana,Europe/Ljubljana,48894,Optimus IT d.o.o.,9,2026-09-12T12:13:57.336Z,2026-11-15T04:22:49.987Z

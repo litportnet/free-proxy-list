@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,49.0.190.114,3128,http://49.0.190.114:3128,anonymous,false,6910,3874,30,40.5,755,190.129.100.89,1,bo,Cochabamba,Cochabamba,America/La_Paz,6568,EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA,18,2026-11-01T11:18:27.181Z,2026-11-15T04:27:06.543Z
+http,158.172.153.36,999,http://158.172.153.36:999,anonymous,false,7085,5415,27.2,26.4,576,158.172.153.36,1,bo,Santa Cruz Department,Santa Cruz de la Sierra,America/La_Paz,27882,Telefónica Celular de Bolivia S.A.,24,2025-12-29T19:57:24.905Z,2026-11-15T04:24:16.822Z

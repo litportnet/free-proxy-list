@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4965,4794,58.6,63.5,895,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-14T04:26:10.980Z
-socks4,5.78.181.0,9052,socks4://5.78.181.0:9052,elite,true,799,915.5,47.8,50.9,383,81.168.83.136,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,12,2026-11-11T06:22:09.599Z,2026-11-14T04:23:39.146Z
-socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,659,724.5,56.5,47.8,713,81.168.83.155,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-08-01T19:38:38.199Z,2026-11-14T04:32:38.906Z
-socks4,81.168.119.85,443,socks4://81.168.119.85:443,elite,true,2940,4482.5,16.7,7.1,126,81.168.119.85,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,8,2026-05-21T11:17:56.933Z,2026-11-14T04:29:20.404Z
+http,79.137.192.114,80,http://79.137.192.114:80,elite,false,1385,1006.5,99.3,98.3,998,172.69.195.203,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-21T12:07:00.964Z,2026-11-15T04:22:05.277Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,409,395,41.9,57.5,912,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-15T04:28:24.669Z
+socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,true,609,2655.5,46.4,49.6,393,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,14,2026-11-12T07:35:32.757Z,2026-11-15T04:21:31.238Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1834,1798,40,41.6,799,81.168.83.155,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-11-15T04:27:38.801Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,872,1365,19.4,27.8,500,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-15T04:23:35.632Z

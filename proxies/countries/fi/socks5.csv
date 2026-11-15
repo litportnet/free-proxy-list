@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,194.113.38.227,1080,socks5://194.113.38.227:1080,elite,true,3078,4553.5,50.7,53.1,480,31.77.202.253,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:46.785Z,2026-11-14T04:28:29.196Z
+socks5,194.113.38.227,1080,socks5://194.113.38.227:1080,elite,false,3599,5290,48.1,52,610,31.77.202.253,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215590,DpkgSoft International Limited,14,2026-11-10T16:14:46.785Z,2026-11-15T04:27:10.285Z

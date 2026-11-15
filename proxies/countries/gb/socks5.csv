@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,true,609,2655.5,46.4,49.6,393,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,14,2026-11-12T07:35:32.757Z,2026-11-15T04:21:31.238Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1834,1798,40,41.6,799,81.168.83.155,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-11-15T04:27:38.801Z

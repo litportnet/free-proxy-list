@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,200.4.107.137,1080,socks5://200.4.107.137:1080,elite,true,1040,2009,29.8,28.7,662,45.167.55.114,1,br,Bahia,Feira de Santana,America/Bahia,267991,TURBO NETWORK SERV DE COMUN E MULTIMIDIA,14,2026-10-27T23:21:36.044Z,2026-11-15T04:29:23.212Z

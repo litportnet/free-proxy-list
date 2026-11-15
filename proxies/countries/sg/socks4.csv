@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,43.134.34.219,10808,socks4://43.134.34.219:10808,elite,true,2001,1722.5,58.6,50.3,686,43.134.34.219,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",15,2026-10-13T07:16:21.585Z,2026-11-14T04:23:44.910Z
-socks4,43.160.245.155,8080,socks4://43.160.245.155:8080,elite,true,2035,4166,33.9,47.6,826,43.160.245.155,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",21,2026-08-12T12:53:42.463Z,2026-11-14T04:30:05.122Z

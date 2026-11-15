@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4965,4794,58.6,63.5,895,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-14T04:26:10.980Z
+http,79.137.192.114,80,http://79.137.192.114:80,elite,false,1385,1006.5,99.3,98.3,998,172.69.195.203,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-21T12:07:00.964Z,2026-11-15T04:22:05.277Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,409,395,41.9,57.5,912,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-15T04:28:24.669Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,872,1365,19.4,27.8,500,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-15T04:23:35.632Z

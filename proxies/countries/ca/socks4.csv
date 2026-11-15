@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.248.18.106,1080,socks4://149.248.18.106:1080,elite,false,5014,7075,38.9,44.9,811,178.249.214.16,2,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,19,2026-09-12T00:07:29.017Z,2026-11-14T04:26:58.544Z
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,6071,5983.5,55.6,50.5,875,104.193.135.197,1,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-12T09:12:25.731Z,2026-11-15T04:21:08.688Z

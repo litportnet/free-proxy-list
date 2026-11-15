@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,true,4115,7117.5,41.1,49.7,859,147.161.190.119,1,es,Madrid,Madrid,Europe/Madrid,62044,Zscaler Switzerland GmbH,16,2026-10-10T06:38:00.990Z,2026-11-14T04:28:09.542Z
-socks5,45.74.31.46,8461,socks5://45.74.31.46:8461,elite,false,6648,5979.5,18.4,23,174,167.17.71.189,1,es,Madrid,Madrid,Europe/Madrid,63023,GTHost,10,2026-11-10T05:08:52.764Z,2026-11-14T04:23:47.548Z

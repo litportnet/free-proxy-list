@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,689,775.5,100,99.2,1005,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-14T04:30:59.320Z
-http,57.182.226.41,3128,http://57.182.226.41:3128,anonymous,true,4190,2380,91.5,94,199,57.182.226.41,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",15,2026-11-12T18:41:23.099Z,2026-11-14T04:23:28.751Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,616,693.5,72.2,75.8,903,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-14T04:23:55.962Z
-http,155.133.7.49,3128,http://155.133.7.49:3128,anonymous,true,2425,6639.5,29.7,18.4,305,155.133.7.49,1,jp,Tokyo,Tokyo,Asia/Tokyo,141995,Contabo Asia Private Limited,12,2025-11-28T09:50:22.687Z,2026-11-14T04:27:57.945Z
-http,85.131.243.125,3128,http://85.131.243.125:3128,anonymous,false,8087,8464.5,10,18,211,85.131.243.125,1,jp,Osaka,Osaka,Asia/Tokyo,131965,XServer Cloud Inc.,11,2025-09-10T21:05:10.436Z,2026-11-14T04:25:09.418Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,640,634,100,99.1,1006,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-11-15T04:28:22.548Z
+http,57.182.226.41,3128,http://57.182.226.41:3128,anonymous,true,766,1090,95.8,94.7,342,57.182.226.41,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",15,2026-11-12T18:41:23.099Z,2026-11-15T04:27:24.248Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,679,2239.5,55.3,74.1,932,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-15T04:22:44.603Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,false,3015,4467.5,51.2,70.8,951,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-15T04:21:17.037Z

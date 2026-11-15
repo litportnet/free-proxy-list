@@ -6,11 +6,11 @@
     "url": "socks5://113.249.111.67:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1508,
-    "latency_median_ms": 1610,
+    "latency_ms": 1520,
+    "latency_median_ms": 1481,
     "uptime_24h": 99.3,
-    "uptime_7d": 97.5,
-    "checks_7d": 989,
+    "uptime_7d": 98.2,
+    "checks_7d": 993,
     "exit_ip": "113.249.111.67",
     "exit_shared": 1,
     "country": "cn",
@@ -21,6 +21,6 @@
     "asn_org": "Chongqing Telecom",
     "sources_count": 20,
     "first_seen": "2026-08-26T20:12:07.501Z",
-    "last_checked": "2026-11-14T04:28:57.138Z"
+    "last_checked": "2026-11-15T04:26:36.081Z"
   }
 ]

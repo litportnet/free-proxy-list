@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "200.192.236.242",
+    "port": 1080,
+    "url": "socks4://200.192.236.242:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1472,
+    "latency_median_ms": 1465.5,
+    "uptime_24h": 43.7,
+    "uptime_7d": 48.5,
+    "checks_7d": 842,
+    "exit_ip": "200.192.236.242",
+    "exit_shared": 1,
+    "country": "cr",
+    "region": "San José",
+    "city": "San José",
+    "timezone": "America/Costa_Rica",
+    "asn": 263248,
+    "asn_org": "GCI SERVICE PROVIDER S.A.",
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:29.573Z",
+    "last_checked": "2026-11-15T04:22:10.008Z"
+  }
+]

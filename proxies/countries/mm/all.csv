@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,2239,2234.5,75,64.3,843,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,10,2025-11-01T10:33:30.995Z,2026-11-14T04:24:16.489Z
-http,37.111.51.146,8080,http://37.111.51.146:8080,anonymous,false,6071,5603.5,40.8,44.9,768,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-11-14T04:28:23.318Z
+socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,2286,1269,57.9,64.6,868,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,10,2025-11-01T10:33:30.995Z,2026-11-15T04:22:32.869Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,anonymous,true,4383,3146,41.6,44.1,809,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-11-15T04:24:13.101Z
+http,202.165.94.170,8082,http://202.165.94.170:8082,anonymous,true,2283,4817,25.6,42.8,725,202.165.94.170,1,mm,Yangon,Yangon,Asia/Yangon,136255,"Telecom International Myanmar Co., Ltd",7,2026-06-08T15:05:14.221Z,2026-11-15T04:21:50.042Z
+http,185.133.213.86,8074,http://185.133.213.86:8074,anonymous,true,3097,1146.5,55.3,35.8,522,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-11-15T04:27:22.652Z

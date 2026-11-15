@@ -1,11 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,1789,1765.5,79,77.8,571,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.811Z,2026-11-14T04:26:09.940Z
-socks4,212.5.132.74,5678,socks4://212.5.132.74:5678,elite,true,738,1226.5,75.8,75.8,124,212.5.132.74,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,14,2025-09-04T23:48:55.238Z,2026-11-14T04:31:58.926Z
-socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,true,3778,1744.5,71.8,74.6,898,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-14T04:27:59.520Z
-socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,3744,1745.5,77.1,70.4,886,77.238.79.111,2,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-14T04:26:56.967Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,3759,723.5,68.8,68.7,893,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-11-14T04:28:28.653Z
-socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,true,813,825.5,44.7,49.5,756,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-14T04:28:57.134Z
-socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,false,690,698.5,52.5,49.1,766,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-04T23:48:54.819Z,2026-11-14T04:31:54.712Z
-socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,true,8071,1919,66.9,45.8,177,79.110.118.15,1,bg,Shumen,Veliki Preslav,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-14T04:25:59.868Z
-socks4,94.72.158.129,4153,socks4://94.72.158.129:4153,elite,true,673,677,42.5,45.5,662,94.72.158.1,1,bg,Sofia-Capital,Sofia,Europe/Sofia,57344,Telehouse EAD,14,2025-09-04T23:49:06.669Z,2026-11-14T04:31:40.952Z
-socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,true,690,820,38.7,44.7,794,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,1,2026-03-17T17:23:29.950Z,2026-11-14T04:30:42.450Z
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,724,1222.5,78,76.9,922,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-15T04:23:48.852Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,729,1727,61.6,66.8,904,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-11-15T04:26:09.908Z

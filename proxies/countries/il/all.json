@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "2.54.100.184",
+    "port": 8080,
+    "url": "http://2.54.100.184:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 8548,
+    "latency_median_ms": 4343.5,
+    "uptime_24h": 20.8,
+    "uptime_7d": 19.3,
+    "checks_7d": 135,
+    "exit_ip": "2.54.100.184",
+    "exit_shared": 1,
+    "country": "il",
+    "region": "Central District",
+    "city": "Modi‘in Makkabbim Re‘ut",
+    "timezone": "Asia/Jerusalem",
+    "asn": 12400,
+    "asn_org": "Partner Communications Ltd.",
+    "sources_count": 13,
+    "first_seen": "2026-04-18T15:29:32.046Z",
+    "last_checked": "2026-11-15T04:29:09.823Z"
+  }
+]

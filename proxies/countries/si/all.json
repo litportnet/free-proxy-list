@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "195.206.229.161",
+    "port": 1080,
+    "url": "socks5://195.206.229.161:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 899,
+    "latency_median_ms": 987.5,
+    "uptime_24h": 100,
+    "uptime_7d": null,
+    "checks_7d": 38,
+    "exit_ip": "195.206.229.161",
+    "exit_shared": 1,
+    "country": "si",
+    "region": "Ljubljana",
+    "city": "Ljubljana",
+    "timezone": "Europe/Ljubljana",
+    "asn": 48894,
+    "asn_org": "Optimus IT d.o.o.",
+    "sources_count": 9,
+    "first_seen": "2026-09-12T12:13:57.336Z",
+    "last_checked": "2026-11-15T04:22:49.987Z"
+  }
+]

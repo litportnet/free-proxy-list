@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,91.144.9.134,1080,socks5://91.144.9.134:1080,elite,false,4425,4193,38.1,38.1,63,91.144.9.130,1,sy,Damascus Governorate,Damascus,Asia/Damascus,29256,STE PDN Internal AS,8,2026-11-14T17:05:47.333Z,2026-11-15T04:24:35.861Z
