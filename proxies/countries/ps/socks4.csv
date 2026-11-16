@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,84.242.51.241,4145,socks4://84.242.51.241:4145,elite,false,775,875,14.3,23.8,518,84.242.51.241,1,ps,West Bank,Al Judayyidah,Asia/Hebron,51407,Mada Al-Arab General Services Company,12,2026-07-05T11:45:38.859Z,2026-11-15T04:26:23.735Z
+socks4,93.184.7.217,1080,socks4://93.184.7.217:1080,elite,false,1802,3773.5,35.2,23.8,501,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,20,2026-04-14T22:23:51.684Z,2026-11-16T04:27:57.067Z

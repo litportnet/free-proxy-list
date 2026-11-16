@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "200.90.136.165",
+    "port": 8080,
+    "url": "http://200.90.136.165:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3999,
+    "latency_median_ms": 3618.5,
+    "uptime_24h": 52.6,
+    "uptime_7d": null,
+    "checks_7d": 19,
+    "exit_ip": "200.90.136.165",
+    "exit_shared": 1,
+    "country": "pa",
+    "region": "Panamá",
+    "city": "Panama City",
+    "timezone": "America/Panama",
+    "asn": 18809,
+    "asn_org": "Cable Onda",
+    "sources_count": 6,
+    "first_seen": "2026-11-16T01:22:41.797Z",
+    "last_checked": "2026-11-16T04:30:10.442Z"
+  }
+]

@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,40.177.65.8,80,http://40.177.65.8:80,elite,false,298,307.5,100,100,1004,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-15T04:25:48.629Z
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,133,130,83.8,90.2,878,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-15T04:26:32.886Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,2559,4279.5,51.2,67.1,929,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-15T04:25:32.631Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3114,1721.5,63.7,56.7,917,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-15T04:25:41.669Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,338,319,100,100,1003,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-16T04:26:25.470Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,109,185,89.7,90.1,884,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-16T04:25:11.598Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3363,3304.5,57.7,55.9,931,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-16T04:28:21.341Z

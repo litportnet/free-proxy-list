@@ -1,3 +1,11 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,724,1222.5,78,76.9,922,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-15T04:23:48.852Z
-socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,false,729,1727,61.6,66.8,904,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,1,2026-03-17T17:23:30.892Z,2026-11-15T04:26:09.908Z
+socks4,213.149.154.213,5678,socks4://213.149.154.213:5678,elite,false,1755,1753.5,80.9,80.2,980,213.149.154.213,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.147Z,2026-11-16T04:24:53.638Z
+socks4,212.5.132.74,5678,socks4://212.5.132.74:5678,elite,true,3750,1740,78,76.1,405,212.5.132.74,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,14,2025-09-04T23:48:55.238Z,2026-11-16T04:26:33.351Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,8317,2004,62.2,74.7,811,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.811Z,2026-11-16T04:26:49.577Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,false,707,1706,80.7,74.6,956,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-16T04:29:56.181Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,7990,2720.5,54.9,68.8,926,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-11-16T04:29:21.802Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,1867,1874.5,57.6,50.9,440,79.110.118.15,1,bg,Shumen,Veliki Preslav,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-16T04:28:12.400Z
+socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,false,3812,1823.5,56.4,49.5,782,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-16T04:29:34.967Z
+socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,true,701,701,28.9,46.5,753,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,1,2026-03-17T17:23:29.595Z,2026-11-16T04:30:13.121Z
+socks4,46.10.198.10,4153,socks4://46.10.198.10:4153,elite,false,3744,1204.5,41.9,45,846,46.10.198.10,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,21,2026-07-04T21:40:44.439Z,2026-11-16T04:29:36.011Z
+socks4,91.92.80.199,4145,socks4://91.92.80.199:4145,elite,true,1132,1009,33.6,35.6,630,91.92.80.199,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,14,2025-09-04T23:49:05.509Z,2026-11-16T04:25:59.987Z

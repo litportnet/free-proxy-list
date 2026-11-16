@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,572,593.5,76.4,75.6,516,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-15T04:24:14.169Z
-socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,6443,6851.5,58.9,54.5,911,170.62.100.17,1,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,6,2026-07-13T12:28:32.242Z,2026-11-15T04:19:00.009Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1629,1091,81.4,76.8,656,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-16T04:26:06.768Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,true,4459,6806,55.7,54.4,932,170.62.100.17,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,6,2026-07-13T12:28:32.242Z,2026-11-16T04:24:13.745Z
+socks4,43.153.84.220,9050,socks4://43.153.84.220:9050,elite,true,996,5028.5,15.7,13.7,270,193.189.100.206,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,21,2026-05-01T10:58:46.598Z,2026-11-16T04:25:49.514Z

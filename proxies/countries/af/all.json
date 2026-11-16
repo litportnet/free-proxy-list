@@ -5,12 +5,12 @@
     "port": 8080,
     "url": "http://111.125.154.86:8080",
     "anonymity": "anonymous",
-    "https": false,
-    "latency_ms": 9049,
-    "latency_median_ms": 4484.5,
-    "uptime_24h": 22.2,
-    "uptime_7d": 33.2,
-    "checks_7d": 746,
+    "https": true,
+    "latency_ms": 5797,
+    "latency_median_ms": 5632.5,
+    "uptime_24h": 23,
+    "uptime_7d": 29.9,
+    "checks_7d": 727,
     "exit_ip": "111.125.154.86",
     "exit_shared": 1,
     "country": "af",
@@ -21,6 +21,6 @@
     "asn_org": "ROSHAN",
     "sources_count": 17,
     "first_seen": "2026-10-30T19:57:46.265Z",
-    "last_checked": "2026-11-15T04:29:01.257Z"
+    "last_checked": "2026-11-16T04:28:21.850Z"
   }
 ]

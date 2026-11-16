@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.40.77.249",
+    "port": 8787,
+    "url": "http://89.40.77.249:8787",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 5274,
+    "latency_median_ms": 4791,
+    "uptime_24h": 17,
+    "uptime_7d": 11.9,
+    "checks_7d": 134,
+    "exit_ip": "109.99.150.102",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Timiș County",
+    "city": "Timişoara",
+    "timezone": "Europe/Bucharest",
+    "asn": 9050,
+    "asn_org": "Orange Romania S.A.",
+    "sources_count": 19,
+    "first_seen": "2026-10-10T12:41:26.447Z",
+    "last_checked": "2026-11-16T04:30:39.019Z"
+  }
+]

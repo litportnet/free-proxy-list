@@ -6,11 +6,11 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 504,
-    "latency_median_ms": 524,
+    "latency_ms": 562,
+    "latency_median_ms": 527.5,
     "uptime_24h": 100,
     "uptime_7d": 99.9,
-    "checks_7d": 1008,
+    "checks_7d": 1007,
     "exit_ip": "172.69.136.136",
     "exit_shared": 1,
     "country": "ee",
@@ -21,7 +21,7 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-15T04:21:50.564Z"
+    "last_checked": "2026-11-16T04:31:07.179Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://185.145.4.8:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2355,
-    "latency_median_ms": 4351.5,
-    "uptime_24h": 41.5,
-    "uptime_7d": 55.7,
-    "checks_7d": 521,
+    "latency_ms": 1927,
+    "latency_median_ms": 3085,
+    "uptime_24h": 33.9,
+    "uptime_7d": 51.6,
+    "checks_7d": 638,
     "exit_ip": "185.145.4.8",
     "exit_shared": 1,
     "country": "ee",
@@ -43,8 +43,8 @@
     "timezone": "Europe/Tallinn",
     "asn": 203081,
     "asn_org": "Geenet OY",
-    "sources_count": 18,
+    "sources_count": 19,
     "first_seen": "2026-11-11T05:21:43.739Z",
-    "last_checked": "2026-11-15T04:25:59.815Z"
+    "last_checked": "2026-11-16T04:21:48.804Z"
   }
 ]

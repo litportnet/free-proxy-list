@@ -6,11 +6,11 @@
     "url": "socks4://95.178.108.189:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3584,
-    "latency_median_ms": 571.5,
-    "uptime_24h": 33.6,
-    "uptime_7d": 44,
-    "checks_7d": 737,
+    "latency_ms": 557,
+    "latency_median_ms": 1144,
+    "uptime_24h": 32,
+    "uptime_7d": 41.9,
+    "checks_7d": 757,
     "exit_ip": "95.178.108.189",
     "exit_shared": 1,
     "country": "fr",
@@ -21,6 +21,6 @@
     "asn_org": "Eurofiber France SAS",
     "sources_count": 23,
     "first_seen": "2025-09-04T23:02:38.074Z",
-    "last_checked": "2026-11-15T04:27:04.943Z"
+    "last_checked": "2026-11-16T04:29:40.784Z"
   }
 ]

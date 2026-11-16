@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,544,6183,74.3,79.3,333,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-15T04:23:55.204Z
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,3701,2698,67.2,76.2,962,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-15T04:20:13.496Z
-http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,584,921,73.3,69.4,412,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-15T04:28:04.942Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,645,1693.5,68.1,73.6,968,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-16T04:22:59.163Z
+socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,true,640,1152,47.6,49.5,887,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-16T04:28:23.950Z

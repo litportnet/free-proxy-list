@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.104.143.94,4153,socks4://190.104.143.94:4153,elite,false,1042,2145.5,20.2,32,532,190.104.143.94,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2025-09-04T23:49:02.139Z,2026-11-15T04:27:22.664Z
+socks4,190.104.143.94,4153,socks4://190.104.143.94:4153,elite,false,996,1584,34.4,32.7,648,190.104.143.94,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2025-09-04T23:49:02.139Z,2026-11-16T04:22:25.727Z

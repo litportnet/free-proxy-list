@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,2961,2303,85.2,85,969,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,19,2026-05-02T10:06:59.800Z,2026-11-15T04:19:53.165Z
-socks5,143.198.239.45,10011,socks5://143.198.239.45:10011,elite,false,4865,2545,32.2,33.9,333,193.189.100.205,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,2,2026-10-18T13:22:37.872Z,2026-11-15T04:20:48.831Z
+socks5,37.27.245.106,1080,socks5://37.27.245.106:1080,elite,true,8526,6815.5,44.9,51.3,910,170.62.100.17,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,15,2026-07-13T09:34:11.062Z,2026-11-16T04:28:14.498Z
+socks5,199.247.18.115,9050,socks5://199.247.18.115:9050,elite,false,3600,6000,19.2,6.2,81,82.39.155.146,1,se,Stockholm,Stockholm,Europe/Stockholm,207295,Akhtar Technologies Limited,19,2026-06-10T12:29:35.086Z,2026-11-16T04:22:31.004Z

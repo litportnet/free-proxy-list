@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://200.125.40.38:5678",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 934,
-    "latency_median_ms": 926,
-    "uptime_24h": 67.1,
-    "uptime_7d": 69.6,
-    "checks_7d": 957,
+    "https": true,
+    "latency_ms": 1945,
+    "latency_median_ms": 1949,
+    "uptime_24h": 71.6,
+    "uptime_7d": 68.9,
+    "checks_7d": 970,
     "exit_ip": "200.125.40.38",
     "exit_shared": 1,
     "country": "uy",
@@ -21,6 +21,6 @@
     "asn_org": "Administracion Nacional de Telecomunicaciones",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:00.001Z",
-    "last_checked": "2026-11-15T04:21:32.298Z"
+    "last_checked": "2026-11-16T04:25:40.052Z"
   }
 ]

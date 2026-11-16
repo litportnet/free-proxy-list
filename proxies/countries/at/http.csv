@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,531,533,99.3,99.9,1007,104.23.162.148,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-15T04:27:59.651Z
-http,116.203.139.209,8080,http://116.203.139.209:8080,unknown,false,1102,953,50,45,180,109.70.100.1,2,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,6,2025-09-06T05:33:19.680Z,2026-11-15T04:24:52.225Z
-http,116.203.139.209,5153,http://116.203.139.209:5153,unknown,false,1392,1079.5,42.3,43.4,173,109.70.100.1,2,at,Vienna,Vienna,Europe/Vienna,208323,Foundation for Applied Privacy,9,2025-09-06T07:34:37.095Z,2026-11-15T04:23:53.608Z
+http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,546,528,100,99.9,1009,141.101.105.187,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-16T04:26:56.933Z

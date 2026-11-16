@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,169.255.48.50,1080,socks4://169.255.48.50:1080,elite,true,4502,3483.5,43.9,41.8,788,169.255.48.30,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,327792,Computer Sales & Services,16,2026-10-04T01:19:38.223Z,2026-11-15T04:24:44.821Z
+socks4,169.255.48.50,1080,socks4://169.255.48.50:1080,elite,true,1462,2108.5,56.4,46.1,866,169.255.48.30,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,327792,Computer Sales & Services,16,2026-10-04T01:19:38.223Z,2026-11-16T04:30:12.048Z

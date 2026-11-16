@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,160.226.220.30,1080,socks4://160.226.220.30:1080,elite,false,8377,1746,60.9,54.9,818,160.226.220.30,1,za,Free State,Bloemfontein,Africa/Johannesburg,37542,Iclix (PTY) Ltd,12,2026-07-04T15:36:58.878Z,2026-11-16T04:29:58.832Z
+socks4,160.226.138.129,5678,socks4://160.226.138.129:5678,elite,false,4216,2199.5,33.6,36.4,704,160.226.142.254,1,za,Western Cape,Worcester,Africa/Johannesburg,328178,The Computer Hut cc,11,2025-09-04T23:48:58.447Z,2026-11-16T04:23:20.464Z
+socks4,196.250.225.146,60606,socks4://196.250.225.146:60606,elite,false,2301,2301,20.9,16.3,252,196.250.225.33,1,za,Gauteng,Johannesburg,Africa/Johannesburg,328125,Forbtech,11,2025-09-06T12:39:09.197Z,2026-11-16T04:30:34.750Z

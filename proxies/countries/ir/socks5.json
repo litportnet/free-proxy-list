@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "2.179.71.54",
+    "port": 1080,
+    "url": "socks5://2.179.71.54:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1373,
+    "latency_median_ms": 1429.5,
+    "uptime_24h": 55.1,
+    "uptime_7d": 52.8,
+    "checks_7d": 394,
+    "exit_ip": "2.179.71.54",
+    "exit_shared": 1,
+    "country": "ir",
+    "region": "Markazi",
+    "city": "Arāk",
+    "timezone": "Asia/Tehran",
+    "asn": 58224,
+    "asn_org": "Iran Telecommunication Company PJS",
+    "sources_count": 6,
+    "first_seen": "2026-10-24T23:44:14.041Z",
+    "last_checked": "2026-11-16T04:29:38.651Z"
+  }
+]

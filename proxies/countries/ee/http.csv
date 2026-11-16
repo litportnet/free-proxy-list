@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.221.142.205,80,http://77.221.142.205:80,elite,false,504,524,100,99.9,1008,172.69.136.136,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-15T04:21:50.564Z
-http,185.145.4.8,8080,http://185.145.4.8:8080,elite,false,2355,4351.5,41.5,55.7,521,185.145.4.8,1,ee,Tartu,Tartu,Europe/Tallinn,203081,Geenet OY,18,2026-11-11T05:21:43.739Z,2026-11-15T04:25:59.815Z
+http,77.221.142.205,80,http://77.221.142.205:80,elite,false,562,527.5,100,99.9,1007,172.69.136.136,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-16T04:31:07.179Z
+http,185.145.4.8,8080,http://185.145.4.8:8080,elite,false,1927,3085,33.9,51.6,638,185.145.4.8,1,ee,Tartu,Tartu,Europe/Tallinn,203081,Geenet OY,19,2026-11-11T05:21:43.739Z,2026-11-16T04:21:48.804Z

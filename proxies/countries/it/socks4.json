@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks4",
-    "ip": "91.192.25.158",
-    "port": 4145,
-    "url": "socks4://91.192.25.158:4145",
+    "ip": "91.192.25.37",
+    "port": 80,
+    "url": "socks4://91.192.25.37:80",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3951,
-    "latency_median_ms": 3975,
-    "uptime_24h": 41.2,
-    "uptime_7d": 36.7,
-    "checks_7d": 716,
-    "exit_ip": "91.192.25.158",
+    "https": true,
+    "latency_ms": 750,
+    "latency_median_ms": 935.5,
+    "uptime_24h": 44.6,
+    "uptime_7d": 43,
+    "checks_7d": 789,
+    "exit_ip": "91.192.25.37",
     "exit_shared": 1,
     "country": "it",
     "region": "Tuscany",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Rome",
     "asn": 200100,
     "asn_org": "T&T Tecnologie e Telecomunicazioni Srl",
-    "sources_count": 13,
-    "first_seen": "2025-09-04T23:02:48.083Z",
-    "last_checked": "2026-11-15T04:24:28.970Z"
+    "sources_count": 14,
+    "first_seen": "2026-08-28T21:39:30.441Z",
+    "last_checked": "2026-11-16T04:28:46.053Z"
   }
 ]

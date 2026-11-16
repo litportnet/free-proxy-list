@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.88.177.40,80,http://185.88.177.40:80,elite,false,812,814,93.9,87.3,774,185.88.177.40,1,ir,Tehran,Tehran,Asia/Tehran,201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.,18,2025-12-07T12:12:43.760Z,2026-11-15T04:24:49.571Z
-http,46.209.30.11,8080,http://46.209.30.11:8080,anonymous,false,2329,3048.5,59.6,57.1,909,46.209.30.11,1,ir,Tehran,Tehran,Asia/Tehran,42337,Respina Networks & Beyond PJSC,16,2026-01-31T12:49:06.278Z,2026-11-15T04:21:19.144Z
-http,194.150.68.101,6010,http://194.150.68.101:6010,anonymous,false,3862,5958,22.8,23.8,564,194.150.68.101,1,ir,Isfahan,Isfahan,Asia/Tehran,206495,Gostaresh Ertebat Azin Kia Company PJSC,19,2026-10-10T22:46:27.972Z,2026-11-15T04:19:42.728Z
+http,185.88.177.40,80,http://185.88.177.40:80,elite,false,794,815,85.6,86.9,757,185.88.177.40,1,ir,Tehran,Tehran,Asia/Tehran,201691,Fannavari Etelaate Samane Kavoshgar Ide Ltd.,18,2025-12-07T12:12:43.760Z,2026-11-16T04:21:36.196Z

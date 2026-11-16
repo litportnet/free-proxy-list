@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,913,864.5,100,99.8,1003,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-11-15T04:24:18.913Z
+http,47.91.104.88,3128,http://47.91.104.88:3128,elite,false,5971,861,100,99.9,1002,47.91.104.88,1,ae,Dubai,Dubai,Asia/Dubai,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:31.958Z,2026-11-16T04:28:13.975Z

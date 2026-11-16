@@ -6,11 +6,11 @@
     "url": "socks4://190.104.143.94:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1042,
-    "latency_median_ms": 2145.5,
-    "uptime_24h": 20.2,
-    "uptime_7d": 32,
-    "checks_7d": 532,
+    "latency_ms": 996,
+    "latency_median_ms": 1584,
+    "uptime_24h": 34.4,
+    "uptime_7d": 32.7,
+    "checks_7d": 648,
     "exit_ip": "190.104.143.94",
     "exit_shared": 1,
     "country": "py",
@@ -21,6 +21,6 @@
     "asn_org": "Núcleo S.A.",
     "sources_count": 21,
     "first_seen": "2025-09-04T23:49:02.139Z",
-    "last_checked": "2026-11-15T04:27:22.664Z"
+    "last_checked": "2026-11-16T04:22:25.727Z"
   }
 ]
