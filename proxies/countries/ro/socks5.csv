@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,2765,1069,51.9,50.4,801,45.128.116.2,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,51177,TIPZOR MEDIA SRL,19,2026-07-31T19:22:14.557Z,2026-11-17T04:28:45.590Z
+socks5,116.202.32.250,1080,socks5://116.202.32.250:1080,elite,false,1154,1143,35.9,37.1,278,185.62.9.130,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,11,2026-11-13T01:45:06.792Z,2026-11-17T04:32:19.139Z
+socks5,116.202.32.250,1089,socks5://116.202.32.250:1089,elite,false,1119,1148,48.6,36.9,206,45.91.4.99,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,14,2026-11-13T20:55:12.231Z,2026-11-17T04:33:17.555Z
+socks5,93.100.74.173,8088,socks5://93.100.74.173:8088,elite,true,1031,1031.5,34.2,35.5,690,217.156.108.82,1,ro,Tulcea County,Tulcea,Europe/Bucharest,61002,Smart Solutions & Soft SRL,17,2026-09-30T00:35:17.073Z,2026-11-17T04:32:09.041Z

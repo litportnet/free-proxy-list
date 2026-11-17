@@ -1,6 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.23,80,http://93.123.16.23:80,elite,false,1276,276,89.6,97.2,641,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-16T04:29:23.895Z
-http,93.123.16.38,80,http://93.123.16.38:80,elite,false,248,262,95.8,94.6,672,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-16T04:26:05.730Z
-http,93.123.16.14,80,http://93.123.16.14:80,elite,false,1267,260.5,74.8,87.6,596,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-16T04:27:12.640Z
-http,213.169.33.3,8001,http://213.169.33.3:8001,anonymous,false,5701,4906,18.2,23.1,490,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,20,2025-09-05T20:06:37.898Z,2026-11-16T04:21:15.326Z
-http,151.237.84.9,8080,http://151.237.84.9:8080,anonymous,false,3678,4023.5,16.7,15.3,301,151.237.84.9,1,bg,Kardzhali,Kardzhali,Europe/Sofia,48233,Netroniks EOOD,26,2026-04-18T12:25:36.946Z,2026-11-16T04:31:01.397Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,264,268.5,99.3,97.3,801,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-17T04:29:47.035Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,1270,1271.5,85.3,95,783,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-17T04:26:53.724Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,1287,1266,83.9,86.9,733,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-17T04:29:52.396Z
+http,85.187.224.21,8080,http://85.187.224.21:8080,anonymous,false,2925,4355,23.2,24.7,485,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,23,2025-09-05T20:05:36.749Z,2026-11-17T04:31:31.411Z
+http,213.169.52.101,8185,http://213.169.52.101:8185,anonymous,false,3291,3186,31.6,24.2,554,213.169.52.101,1,bg,Shumen,Veliki Preslav,Europe/Sofia,42086,RO&NI EOOD,15,2026-06-05T02:25:33.384Z,2026-11-17T04:29:13.678Z
+http,77.238.79.111,8080,http://77.238.79.111:8080,elite,false,3566,3809,22.7,17.5,383,77.238.79.111,2,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,17,2025-09-10T19:34:57.305Z,2026-11-17T04:25:08.440Z

@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,false,8105,2344,74.5,65.4,893,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-11-16T04:25:53.682Z
-http,88.218.92.64,3128,http://88.218.92.64:3128,anonymous,false,1692,2807.5,59.3,58,200,88.218.92.64,1,am,Yerevan,Yerevan,Asia/Yerevan,196709,GNC-Alfa CJSC,18,2026-09-29T13:29:17.383Z,2026-11-16T04:27:59.201Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,1863,2872.5,50.8,52.9,796,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-16T04:25:10.530Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.221.142.205,80,http://77.221.142.205:80,elite,false,562,527.5,100,99.9,1007,172.69.136.136,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-16T04:31:07.179Z
-http,185.145.4.8,8080,http://185.145.4.8:8080,elite,false,1927,3085,33.9,51.6,638,185.145.4.8,1,ee,Tartu,Tartu,Europe/Tallinn,203081,Geenet OY,19,2026-11-11T05:21:43.739Z,2026-11-16T04:21:48.804Z
+http,77.221.142.205,80,http://77.221.142.205:80,elite,false,838,523,100,99.9,1007,172.69.136.180,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-17T04:24:29.505Z
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,3699,1276.5,72.7,74.4,975,185.157.111.3,1,ee,Võrumaa,Vana-Antsla,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-11-17T04:33:14.834Z
+http,185.145.4.8,8080,http://185.145.4.8:8080,elite,false,3923,3527.5,48.9,51.1,773,185.145.4.8,1,ee,Tartu,Tartu,Europe/Tallinn,203081,Geenet OY,19,2026-11-11T05:21:43.739Z,2026-11-17T04:31:49.417Z

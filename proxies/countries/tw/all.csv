@@ -1,7 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,784,754,93.1,92,970,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-16T04:22:46.628Z
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,671,670.5,95.1,90.1,961,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-16T04:26:52.220Z
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2763,8112.5,50.4,65.5,960,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-16T04:23:35.076Z
-socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,false,5638,1534,59.1,60.9,949,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-11-16T04:21:39.867Z
-http,106.104.177.158,60808,http://106.104.177.158:60808,elite,false,4563,3625.5,8.7,5.6,108,106.104.177.158,1,tw,Taiwan,Taichung,Asia/Taipei,4780,Digital United Inc.,21,2025-09-20T23:14:38.631Z,2026-11-16T04:23:42.402Z
-http,43.212.227.20,3128,http://43.212.227.20:3128,anonymous,true,776,784.5,92.3,,47,43.212.227.20,1,tw,Taiwan,Taipei,Asia/Taipei,16509,"Amazon.com, Inc.",8,2026-11-12T17:40:50.917Z,2026-11-16T04:22:20.617Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,656,656,91.6,93.6,995,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-17T04:30:47.985Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,792,798,84.6,92.8,1001,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-17T04:26:56.367Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,774,867.5,83.5,76.5,944,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-17T04:32:02.688Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,8067,5670,57.4,64.2,962,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-17T04:28:18.074Z

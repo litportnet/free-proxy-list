@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,46.174.121.3,8090,socks5://46.174.121.3:8090,elite,false,794,1338,27.7,36.6,538,46.174.121.3,1,pl,Lublin,Lubartów,Europe/Warsaw,3255,UARNet-Eksintech,15,2026-11-12T08:36:04.264Z,2026-11-17T04:27:35.033Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,110.34.8.110,8080,http://110.34.8.110:8080,anonymous,false,4086,4193.5,21.4,16.5,261,110.34.13.4,1,np,Koshi,Dharān,Asia/Kathmandu,4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",20,2025-09-05T20:06:38.031Z,2026-11-16T04:23:13.708Z
+http,103.124.97.12,8080,http://103.124.97.12:8080,anonymous,false,5279,4376,21.6,22.1,466,103.124.97.12,1,np,Gandaki Pradesh,Pokhara,Asia/Kathmandu,138388,Pokhara Internet Pvt. Ltd.,15,2025-09-06T05:35:00.724Z,2026-11-17T04:32:30.297Z
+http,110.44.115.83,8080,http://110.44.115.83:8080,elite,true,1594,3775.5,21.5,17.3,324,110.44.115.83,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,45650,VIA NET COMMUNICATION LTD.,27,2025-09-10T21:03:19.441Z,2026-11-17T04:32:12.760Z
+http,103.232.228.138,8080,http://103.232.228.138:8080,anonymous,true,5499,4563.5,10.7,7.3,150,103.232.228.138,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,55427,Broadlink Nepal,13,2025-09-08T18:26:33.162Z,2026-11-17T04:25:48.727Z

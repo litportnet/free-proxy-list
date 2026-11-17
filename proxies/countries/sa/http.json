@@ -6,12 +6,12 @@
     "url": "http://172.65.90.46:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 740,
-    "latency_median_ms": 741,
+    "latency_ms": 795,
+    "latency_median_ms": 783,
     "uptime_24h": 100,
     "uptime_7d": 100,
-    "checks_7d": 1003,
-    "exit_ip": "172.68.97.148",
+    "checks_7d": 1001,
+    "exit_ip": "172.70.156.158",
     "exit_shared": 1,
     "country": "sa",
     "region": "Riyadh Region",
@@ -21,7 +21,7 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 6,
     "first_seen": "2025-10-15T04:33:23.028Z",
-    "last_checked": "2026-11-16T04:29:02.324Z"
+    "last_checked": "2026-11-17T04:33:13.783Z"
   },
   {
     "protocol": "http",
@@ -30,22 +30,22 @@
     "url": "http://172.65.90.47:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 769,
-    "latency_median_ms": 719.5,
+    "latency_ms": 818,
+    "latency_median_ms": 791,
     "uptime_24h": 100,
     "uptime_7d": 99.9,
     "checks_7d": 1007,
-    "exit_ip": "172.69.124.171",
+    "exit_ip": "172.70.156.159",
     "exit_shared": 1,
     "country": "sa",
     "region": "Riyadh Region",
     "city": "Riyadh",
     "timezone": "Asia/Riyadh",
-    "asn": 14789,
+    "asn": 13335,
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 6,
     "first_seen": "2025-10-14T23:38:12.602Z",
-    "last_checked": "2026-11-16T04:26:37.009Z"
+    "last_checked": "2026-11-17T04:27:18.080Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://130.110.103.245:3128",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 951,
-    "latency_median_ms": 788,
-    "uptime_24h": 93.7,
-    "uptime_7d": 97.7,
-    "checks_7d": 999,
+    "latency_ms": 760,
+    "latency_median_ms": 814.5,
+    "uptime_24h": 95.8,
+    "uptime_7d": 97.4,
+    "checks_7d": 1000,
     "exit_ip": "130.110.103.245",
     "exit_shared": 1,
     "country": "sa",
@@ -69,6 +69,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 22,
     "first_seen": "2026-08-06T11:36:30.247Z",
-    "last_checked": "2026-11-16T04:28:52.386Z"
+    "last_checked": "2026-11-17T04:33:05.811Z"
   }
 ]

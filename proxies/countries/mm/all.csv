@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,2314,3400,58.5,64.2,893,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,10,2025-11-01T10:33:30.995Z,2026-11-16T04:30:42.703Z
-http,185.133.213.86,8074,http://185.133.213.86:8074,anonymous,false,4001,3750.5,42.1,37.2,642,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-11-16T04:22:49.788Z
-http,103.27.118.138,8080,http://103.27.118.138:8080,anonymous,false,4436,4341.5,76.9,33.8,210,103.27.118.138,1,mm,Yangon,Yangon,Asia/Yangon,58952,Frontiir Co. Ltd,17,2025-09-08T05:28:14.758Z,2026-11-16T04:25:21.122Z
+socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,1179,3239,74.5,67.1,938,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,10,2025-11-01T10:33:30.995Z,2026-11-17T04:31:58.459Z

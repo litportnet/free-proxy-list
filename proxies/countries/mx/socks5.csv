@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,38.60.224.63,1080,socks5://38.60.224.63:1080,elite,true,603,603,100,,1,38.60.224.63,1,mx,Mexico City,Mexico City,America/Mexico_City,154177,LIGHT NODE LIMITED,2,2026-11-16T04:24:22.533Z,2026-11-16T04:24:22.792Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,true,1479,2524.5,35.2,28.7,659,168.253.92.93,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,19,2025-11-06T12:07:21.653Z,2026-11-16T04:28:11.883Z
-socks5,45.74.31.40,4299,socks5://45.74.31.40:4299,elite,false,8696,7801,23.1,15.2,132,102.130.121.150,1,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,14,2026-10-03T19:16:24.234Z,2026-11-16T04:25:49.507Z
+socks5,88.198.69.51,1090,socks5://88.198.69.51:1090,elite,false,3315,3249,50.6,50.6,79,154.70.153.242,1,za,Gauteng,Johannesburg,Africa/Johannesburg,212238,Datacamp Limited,12,2026-11-16T13:29:09.727Z,2026-11-17T04:23:12.554Z
+socks5,168.253.92.93,10808,socks5://168.253.92.93:10808,elite,false,4812,2999,31.9,29.7,677,168.253.92.93,1,za,Gauteng,Johannesburg,Africa/Johannesburg,37650,CM Value Added Services (Pty) Ltd,20,2025-11-06T12:07:21.653Z,2026-11-17T04:30:50.098Z
+socks5,45.74.31.41,4016,socks5://45.74.31.41:4016,elite,false,7487,5418,13.3,19.7,208,102.130.121.150,1,za,Gauteng,Johannesburg,Africa/Johannesburg,328364,Host Africa (Pty) Ltd,15,2026-09-28T05:12:30.822Z,2026-11-17T04:28:27.082Z

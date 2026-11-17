@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,37.32.26.209,10808,socks4://37.32.26.209:10808,elite,false,906,903.5,53.2,48,300,148.251.42.80,1,de,Saxony,Falkenstein,Europe/Berlin,24940,Hetzner Online GmbH,15,2026-11-13T22:56:10.268Z,2026-11-16T04:28:02.399Z
-socks4,80.64.27.175,1080,socks4://80.64.27.175:1080,elite,true,5182,6176,40,46.2,381,80.64.27.175,1,de,Hesse,Frankfurt am Main,Europe/Berlin,48207,GLB Bulut Teknolojisi Limited Sirketi,13,2026-11-13T05:47:13.373Z,2026-11-16T04:28:39.745Z
-socks4,193.158.12.140,4153,socks4://193.158.12.140:4153,elite,true,570,584.5,36.5,44.9,839,193.158.12.140,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2025-09-05T20:06:32.865Z,2026-11-16T04:23:42.392Z
-socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,567,584.5,32.1,41,683,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-16T04:21:46.701Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,717,589.5,41.4,42,736,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-17T04:28:40.828Z

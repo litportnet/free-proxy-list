@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.106,80,http://141.101.90.106:80,transparent,false,553,480.5,100,100,1007,162.158.103.96,1,pl,Mazovia,Warsaw,Europe/Warsaw,13335,"Cloudflare, Inc.",6,2025-09-27T18:23:26.219Z,2026-11-16T04:30:02.481Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,545,547.5,98.6,99.5,1007,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-16T04:22:54.459Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,531,540.5,96.5,99.3,1003,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-16T04:27:10.571Z
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,546,546,96.5,99.2,1005,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-16T04:28:21.322Z
-http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,504,585,95.1,98.7,1004,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-16T04:22:16.481Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,551,547,100,99.7,1007,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-17T04:33:18.078Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,538,546,100,99.4,1005,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-17T04:29:16.894Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,550,546,100,99.3,1004,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-17T04:27:15.430Z
+http,79.110.200.27,8000,http://79.110.200.27:8000,elite,false,538,540,100,98.7,1002,79.110.200.27,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T20:39:06.842Z,2026-11-17T04:32:08.522Z

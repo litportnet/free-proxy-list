@@ -6,8 +6,8 @@
     "url": "http://38.180.18.103:3128",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 468,
-    "latency_median_ms": 440.5,
+    "latency_ms": 451,
+    "latency_median_ms": 449,
     "uptime_24h": 100,
     "uptime_7d": 100,
     "checks_7d": 1008,
@@ -21,30 +21,6 @@
     "asn_org": "M247 Europe SRL",
     "sources_count": 9,
     "first_seen": "2025-09-14T05:46:30.834Z",
-    "last_checked": "2026-11-16T04:30:44.841Z"
-  },
-  {
-    "protocol": "socks5",
-    "ip": "88.198.69.51",
-    "port": 1086,
-    "url": "socks5://88.198.69.51:1086",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 831,
-    "latency_median_ms": 831,
-    "uptime_24h": 54.6,
-    "uptime_7d": 54.6,
-    "checks_7d": 55,
-    "exit_ip": "31.99.203.49",
-    "exit_shared": 1,
-    "country": "be",
-    "region": "Brussels Capital",
-    "city": "Brussels",
-    "timezone": "Europe/Brussels",
-    "asn": 9009,
-    "asn_org": "M247 Europe SRL",
-    "sources_count": 11,
-    "first_seen": "2026-11-15T19:19:36.653Z",
-    "last_checked": "2026-11-16T04:23:38.230Z"
+    "last_checked": "2026-11-17T04:31:38.302Z"
   }
 ]

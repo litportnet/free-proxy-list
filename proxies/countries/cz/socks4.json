@@ -5,12 +5,12 @@
     "port": 4145,
     "url": "socks4://90.182.147.170:4145",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1659,
-    "latency_median_ms": 1657,
-    "uptime_24h": 43,
-    "uptime_7d": 45.6,
-    "checks_7d": 847,
+    "https": true,
+    "latency_ms": 695,
+    "latency_median_ms": 2754,
+    "uptime_24h": 60.6,
+    "uptime_7d": 47.7,
+    "checks_7d": 870,
     "exit_ip": "90.182.147.170",
     "exit_shared": 1,
     "country": "cz",
@@ -21,6 +21,6 @@
     "asn_org": "O2 Czech Republic, a.s.",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:48:54.515Z",
-    "last_checked": "2026-11-16T04:28:10.299Z"
+    "last_checked": "2026-11-17T04:29:30.644Z"
   }
 ]

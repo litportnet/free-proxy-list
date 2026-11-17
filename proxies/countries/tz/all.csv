@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,169.255.48.50,1080,socks4://169.255.48.50:1080,elite,true,1462,2108.5,56.4,46.1,866,169.255.48.30,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,327792,Computer Sales & Services,16,2026-10-04T01:19:38.223Z,2026-11-16T04:30:12.048Z
-http,154.0.157.196,8080,http://154.0.157.196:8080,anonymous,false,6022,3842,29.3,34.3,370,154.0.157.196,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,16,2026-06-30T11:42:55.370Z,2026-11-16T04:28:29.186Z
+http,41.78.170.178,8040,http://41.78.170.178:8040,anonymous,false,4032,4055.5,28.6,29.7,478,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-11-17T04:26:07.252Z

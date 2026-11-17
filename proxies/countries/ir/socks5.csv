@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,2.179.71.54,1080,socks5://2.179.71.54:1080,elite,true,1373,1429.5,55.1,52.8,394,2.179.71.54,1,ir,Markazi,Arāk,Asia/Tehran,58224,Iran Telecommunication Company PJS,6,2026-10-24T23:44:14.041Z,2026-11-16T04:29:38.651Z
+socks5,94.183.150.152,1080,socks5://94.183.150.152:1080,elite,true,2514,2306.5,49.6,42,677,94.183.150.152,1,ir,Tehran,Tehran,Asia/Tehran,214957,"Nahor Hadish Design and Architecture Co., Ltd",11,2026-11-03T10:43:25.250Z,2026-11-17T04:30:52.724Z

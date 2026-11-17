@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.228.160.145,1080,socks4://185.228.160.145:1080,elite,false,602,1121.5,20,18.1,343,185.228.160.145,1,pt,Lisbon,Lisbon,Europe/Lisbon,50666,LigaT Telecom Sociedade Unipessoal LDA,18,2026-06-12T09:53:07.654Z,2026-11-16T04:29:23.376Z
-socks5,88.198.69.51,1087,socks5://88.198.69.51:1087,elite,true,1231,1246.5,85.7,,7,151.241.39.198,1,pt,Lisbon,Lisbon,Europe/Lisbon,212238,Datacamp Limited,5,2026-11-16T03:23:46.732Z,2026-11-16T04:25:15.356Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,false,3676,3396.5,46,39.1,458,185.90.57.146,1,pt,Lisbon,Lisbon,Europe/Lisbon,59787,WEBSP LDA,19,2026-09-16T15:24:29.706Z,2026-11-17T04:27:05.335Z

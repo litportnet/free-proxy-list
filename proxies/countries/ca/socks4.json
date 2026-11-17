@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "24.37.245.42",
-    "port": 51056,
-    "url": "socks4://24.37.245.42:51056",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 258,
-    "latency_median_ms": 755,
-    "uptime_24h": 58.2,
-    "uptime_7d": 44.7,
-    "checks_7d": 759,
-    "exit_ip": "24.37.245.42",
-    "exit_shared": 1,
-    "country": "ca",
-    "region": "Quebec",
-    "city": "Montréal",
-    "timezone": "America/Toronto",
-    "asn": 5769,
-    "asn_org": "Videotron Ltee",
-    "sources_count": 21,
-    "first_seen": "2025-09-04T23:49:11.832Z",
-    "last_checked": "2026-11-16T04:23:31.941Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "50.67.100.178",
     "port": 8080,
     "url": "socks4://50.67.100.178:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3366,
-    "latency_median_ms": 2356,
-    "uptime_24h": 53.8,
-    "uptime_7d": 43.2,
-    "checks_7d": 775,
+    "latency_ms": 335,
+    "latency_median_ms": 390,
+    "uptime_24h": 53.7,
+    "uptime_7d": 45.5,
+    "checks_7d": 841,
     "exit_ip": "50.67.100.178",
     "exit_shared": 1,
     "country": "ca",
@@ -45,6 +21,6 @@
     "asn_org": "Shaw Communications",
     "sources_count": 12,
     "first_seen": "2025-09-04T23:49:13.556Z",
-    "last_checked": "2026-11-16T04:27:30.347Z"
+    "last_checked": "2026-11-17T04:22:58.353Z"
   }
 ]

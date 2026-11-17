@@ -6,11 +6,11 @@
     "url": "socks5://46.37.59.97:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 7864,
-    "latency_median_ms": 1763,
-    "uptime_24h": 37.5,
-    "uptime_7d": 46.9,
-    "checks_7d": 505,
+    "latency_ms": 620,
+    "latency_median_ms": 3652,
+    "uptime_24h": 33.9,
+    "uptime_7d": 44.5,
+    "checks_7d": 613,
     "exit_ip": "46.37.59.97",
     "exit_shared": 1,
     "country": "gb",
@@ -19,8 +19,8 @@
     "timezone": "Europe/London",
     "asn": 51918,
     "asn_org": "Cerberus Networks Ltd",
-    "sources_count": 14,
+    "sources_count": 15,
     "first_seen": "2026-11-12T07:35:32.757Z",
-    "last_checked": "2026-11-16T04:29:10.839Z"
+    "last_checked": "2026-11-17T04:24:36.359Z"
   }
 ]

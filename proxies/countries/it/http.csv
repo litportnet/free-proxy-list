@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,3449,4027.5,43.5,34.3,685,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-16T04:27:44.997Z
-http,93.187.26.134,58080,http://93.187.26.134:58080,anonymous,true,1858,3812.5,29.2,27.1,564,93.187.26.134,1,it,Tuscany,Radicondoli,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-11-16T04:22:25.739Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,2426,3147,54.9,73.4,950,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-17T04:29:12.056Z

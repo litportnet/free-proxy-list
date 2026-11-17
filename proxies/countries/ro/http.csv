@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.40.77.249,8787,http://89.40.77.249:8787,elite,false,5274,4791,17,11.9,134,109.99.150.102,1,ro,Timiș County,Timişoara,Europe/Bucharest,9050,Orange Romania S.A.,19,2026-10-10T12:41:26.447Z,2026-11-16T04:30:39.019Z
+http,45.61.133.104,7777,http://45.61.133.104:7777,elite,false,1088,1405,30.3,24.6,548,193.176.84.17,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,26,2026-08-07T02:43:03.267Z,2026-11-17T04:31:18.703Z

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,94.43.164.242,8080,http://94.43.164.242:8080,anonymous,false,5468,3456,16.4,22.1,584,94.43.164.242,1,ge,Adjara,Batumi,Asia/Tbilisi,35805,JSC Silknet,25,2025-09-10T22:03:43.249Z,2026-11-16T04:26:32.323Z
-http,85.117.63.207,8080,http://85.117.63.207:8080,anonymous,false,4603,4490.5,17.8,19.2,406,85.117.63.207,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,24,2025-09-06T05:36:01.084Z,2026-11-16T04:31:16.737Z
-http,85.117.56.41,8080,http://85.117.56.41:8080,anonymous,false,3247,4338.5,100,10.8,194,85.117.56.42,1,ge,Tbilisi,Tbilisi,Asia/Tbilisi,20771,Caucasus Online Ltd.,13,2025-09-05T00:23:14.888Z,2026-11-16T04:24:21.233Z
+http,178.134.242.26,8080,http://178.134.242.26:8080,anonymous,false,9365,3938.5,36.5,32.7,741,178.134.242.26,1,ge,Adjara,Batumi,Asia/Tbilisi,35805,"JSC ""Silknet""",19,2026-11-09T13:00:28.334Z,2026-11-17T04:31:49.960Z

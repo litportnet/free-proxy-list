@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "192.203.0.70",
+    "port": 999,
+    "url": "http://192.203.0.70:999",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 5283,
+    "latency_median_ms": 4257,
+    "uptime_24h": 24.6,
+    "uptime_7d": 24.3,
+    "checks_7d": 334,
+    "exit_ip": "192.203.0.70",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "Yabucoa",
+    "city": "Yabucoa",
+    "timezone": "America/Puerto_Rico",
+    "asn": 63393,
+    "asn_org": "BOOM NET",
+    "sources_count": 13,
+    "first_seen": "2025-09-05T20:06:33.026Z",
+    "last_checked": "2026-11-17T04:27:46.172Z"
+  }
+]
