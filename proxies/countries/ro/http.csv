@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.61.133.104,7777,http://45.61.133.104:7777,elite,false,1088,1405,30.3,24.6,548,193.176.84.17,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,26,2026-08-07T02:43:03.267Z,2026-11-17T04:31:18.703Z

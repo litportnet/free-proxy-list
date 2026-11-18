@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,95.216.8.124,1081,socks5://95.216.8.124:1081,elite,true,1579,1528,27.3,29.7,424,93.152.225.133,1,bg,Sofia-Capital,Sofia,Europe/Sofia,9009,M247 Europe SRL,15,2026-11-11T06:22:22.971Z,2026-11-18T04:24:55.772Z

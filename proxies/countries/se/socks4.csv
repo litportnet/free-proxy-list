@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1604,1642.5,85.3,78.4,799,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-17T04:29:52.391Z
-socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,6013,3933.5,40.7,40.3,794,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-17T04:31:17.106Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,false,3644,1629.5,85.2,79.4,940,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-18T04:21:50.158Z
+socks4,37.27.245.106,1080,socks4://37.27.245.106:1080,elite,false,9501,8021,55.3,54.2,940,170.62.100.17,2,se,Stockholm,Stockholm,Europe/Stockholm,212238,Datacamp Limited,6,2026-07-13T12:28:32.242Z,2026-11-18T04:23:20.799Z
+socks4,158.101.8.92,1080,socks4://158.101.8.92:1080,elite,true,3544,3765,47.4,40.9,851,193.189.100.203,1,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,12,2026-03-20T06:56:22.155Z,2026-11-18T04:26:43.099Z

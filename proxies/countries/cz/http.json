@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "188.119.98.126",
+    "port": 9999,
+    "url": "http://188.119.98.126:9999",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 2301,
+    "latency_median_ms": 3677,
+    "uptime_24h": 37.4,
+    "uptime_7d": 21,
+    "checks_7d": 462,
+    "exit_ip": "188.119.98.126",
+    "exit_shared": 1,
+    "country": "cz",
+    "region": "Prague",
+    "city": "Prague",
+    "timezone": "Europe/Prague",
+    "asn": 42908,
+    "asn_org": "ORIGINAL AS CZ-NORDICTELECOMREGIONAL",
+    "sources_count": 25,
+    "first_seen": "2025-09-04T23:49:51.865Z",
+    "last_checked": "2026-11-18T04:24:23.771Z"
+  }
+]

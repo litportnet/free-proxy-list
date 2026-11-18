@@ -5,12 +5,12 @@
     "port": 8090,
     "url": "socks5://46.174.121.3:8090",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 794,
-    "latency_median_ms": 1338,
-    "uptime_24h": 27.7,
-    "uptime_7d": 36.6,
-    "checks_7d": 538,
+    "https": true,
+    "latency_ms": 2042,
+    "latency_median_ms": 2931,
+    "uptime_24h": 33.3,
+    "uptime_7d": 36,
+    "checks_7d": 642,
     "exit_ip": "46.174.121.3",
     "exit_shared": 1,
     "country": "pl",
@@ -21,6 +21,6 @@
     "asn_org": "UARNet-Eksintech",
     "sources_count": 15,
     "first_seen": "2026-11-12T08:36:04.264Z",
-    "last_checked": "2026-11-17T04:27:35.033Z"
+    "last_checked": "2026-11-18T04:21:43.861Z"
   }
 ]

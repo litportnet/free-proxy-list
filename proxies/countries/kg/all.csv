@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.72.180.122,1080,socks5://80.72.180.122:1080,elite,false,2356,3583.5,37.9,38.9,826,80.72.180.122,1,kg,Chuy Region,Kant,Asia/Bishkek,12997,OJSC Kyrgyztelecom,21,2026-04-16T06:47:08.732Z,2026-11-17T04:25:18.558Z
+http,178.217.168.164,55443,http://178.217.168.164:55443,elite,true,1931,3285,24.2,20.8,452,178.217.168.164,1,kg,Bishkek,Bishkek,Asia/Bishkek,197119,KRENA - Kyrgyz research and education network association,26,2025-12-24T20:54:24.318Z,2026-11-18T04:20:28.315Z

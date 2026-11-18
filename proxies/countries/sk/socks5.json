@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10809,
+    "url": "socks5://49.13.22.249:10809",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1313,
+    "latency_median_ms": 1387,
+    "uptime_24h": 37.3,
+    "uptime_7d": 32.8,
+    "checks_7d": 482,
+    "exit_ip": "196.245.151.216",
+    "exit_shared": 1,
+    "country": "sk",
+    "region": "Bratislava Region",
+    "city": "Bratislava",
+    "timezone": "Europe/Bratislava",
+    "asn": 41564,
+    "asn_org": "Orion Network Limited",
+    "sources_count": 20,
+    "first_seen": "2026-08-25T02:51:25.845Z",
+    "last_checked": "2026-11-18T04:28:34.929Z"
+  }
+]

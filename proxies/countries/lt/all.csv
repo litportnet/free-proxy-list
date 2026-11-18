@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,false,692,877,74.1,72.8,973,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-17T04:33:21.777Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,3718,1396.5,74.5,71.9,974,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-18T04:24:09.540Z
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,560,552,56.2,70.7,564,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-18T04:29:56.653Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,1326,700,62,66.5,648,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-18T04:29:35.417Z
+http,88.222.65.45,3128,http://88.222.65.45:3128,anonymous,false,8576,8399.5,19.2,32.8,268,88.222.65.45,1,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,14,2026-10-30T22:59:24.996Z,2026-11-18T04:21:40.193Z

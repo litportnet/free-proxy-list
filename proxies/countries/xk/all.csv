@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.174.208.195,8080,http://185.174.208.195:8080,anonymous,false,4482,2846,33.6,28.4,683,185.174.208.195,1,xk,Pristina,Podujeva,Europe/Belgrade,206262,TelKos L.L.C,25,2026-07-19T13:45:53.281Z,2026-11-18T04:29:01.442Z

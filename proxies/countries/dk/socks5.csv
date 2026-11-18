@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,143.198.239.45,10035,socks5://143.198.239.45:10035,elite,true,3325,3184.5,44.2,49.9,896,185.129.61.10,1,dk,Capital Region,Frederiksværk,Europe/Copenhagen,210731,Forening for DotSrc,1,2026-11-06T21:27:25.129Z,2026-11-17T04:32:20.726Z

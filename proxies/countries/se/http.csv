@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,761,828,87.8,97.7,996,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-17T04:32:40.341Z
-http,194.14.207.87,80,http://194.14.207.87:80,elite,false,5468,6350.5,48,42.8,718,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-06-08T13:04:45.237Z,2026-11-17T04:25:07.396Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,536,531,99.3,97.7,997,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-18T04:28:49.249Z
+http,46.39.105.157,8080,http://46.39.105.157:8080,elite,true,483,508.5,34,17.7,96,46.39.105.157,1,se,Stockholm,Solna,Europe/Stockholm,50821,Bredband2 Stockholms Stadsnaet AB,12,2025-09-10T19:34:39.508Z,2026-11-18T04:22:53.563Z
+http,193.181.35.205,8118,http://193.181.35.205:8118,elite,false,1955,1994,36.7,,49,193.181.35.205,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,10,2026-05-31T06:23:18.418Z,2026-11-18T04:25:39.460Z

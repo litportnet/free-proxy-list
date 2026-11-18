@@ -6,12 +6,12 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 838,
-    "latency_median_ms": 523,
-    "uptime_24h": 100,
-    "uptime_7d": 99.9,
-    "checks_7d": 1007,
-    "exit_ip": "172.69.136.180",
+    "latency_ms": 556,
+    "latency_median_ms": 533.5,
+    "uptime_24h": 99.3,
+    "uptime_7d": 99.8,
+    "checks_7d": 1008,
+    "exit_ip": "172.69.136.136",
     "exit_shared": 1,
     "country": "ee",
     "region": "Harjumaa",
@@ -21,7 +21,7 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-17T04:24:29.505Z"
+    "last_checked": "2026-11-18T04:24:42.116Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://185.157.111.3:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3699,
-    "latency_median_ms": 1276.5,
-    "uptime_24h": 72.7,
-    "uptime_7d": 74.4,
-    "checks_7d": 975,
+    "latency_ms": 3714,
+    "latency_median_ms": 1392.5,
+    "uptime_24h": 75.9,
+    "uptime_7d": 73.5,
+    "checks_7d": 976,
     "exit_ip": "185.157.111.3",
     "exit_shared": 1,
     "country": "ee",
@@ -45,7 +45,7 @@
     "asn_org": "Elevi AS",
     "sources_count": 22,
     "first_seen": "2026-07-04T17:38:40.433Z",
-    "last_checked": "2026-11-17T04:33:14.834Z"
+    "last_checked": "2026-11-18T04:23:09.259Z"
   },
   {
     "protocol": "http",
@@ -54,11 +54,11 @@
     "url": "http://185.145.4.8:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3923,
-    "latency_median_ms": 3527.5,
-    "uptime_24h": 48.9,
-    "uptime_7d": 51.1,
-    "checks_7d": 773,
+    "latency_ms": 8599,
+    "latency_median_ms": 3077,
+    "uptime_24h": 47.7,
+    "uptime_7d": 50.6,
+    "checks_7d": 904,
     "exit_ip": "185.145.4.8",
     "exit_shared": 1,
     "country": "ee",
@@ -69,6 +69,6 @@
     "asn_org": "Geenet OY",
     "sources_count": 19,
     "first_seen": "2026-11-11T05:21:43.739Z",
-    "last_checked": "2026-11-17T04:31:49.417Z"
+    "last_checked": "2026-11-18T04:27:07.322Z"
   }
 ]

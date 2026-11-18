@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.21.19.137,10811,socks5://65.21.19.137:10811,elite,false,2134,1838,47.3,47.3,55,181.20.116.43,1,ar,Buenos Aires,San Miguel,America/Argentina/Buenos_Aires,22927,Telefonica de Argentina,6,2026-11-17T17:44:11.523Z,2026-11-18T04:24:46.846Z
+socks5,65.21.19.137,10807,socks5://65.21.19.137:10807,elite,true,1620,1632,68.8,,16,186.22.253.180,1,ar,Buenos Aires,Burzaco,America/Argentina/Buenos_Aires,27747,Telecentro S.A.,8,2026-11-18T01:48:18.228Z,2026-11-18T04:22:14.323Z
+socks5,65.21.19.137,10819,socks5://65.21.19.137:10819,elite,true,2070,1805,15.4,,26,132.255.115.46,1,ar,Mendoza,San Rafael,America/Argentina/Mendoza,52436,Cable Televisora Color,3,2026-11-17T18:44:40.840Z,2026-11-18T04:21:33.263Z

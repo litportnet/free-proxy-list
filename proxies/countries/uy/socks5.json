@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.19.137",
+    "port": 10815,
+    "url": "socks5://65.21.19.137:10815",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 2803,
+    "latency_median_ms": 1807,
+    "uptime_24h": 56.3,
+    "uptime_7d": null,
+    "checks_7d": 16,
+    "exit_ip": "167.62.238.82",
+    "exit_shared": 1,
+    "country": "uy",
+    "region": "Montevideo Department",
+    "city": "Montevideo",
+    "timezone": "America/Montevideo",
+    "asn": 6057,
+    "asn_org": "Administracion Nacional de Telecomunicaciones",
+    "sources_count": 6,
+    "first_seen": "2026-11-18T01:48:20.535Z",
+    "last_checked": "2026-11-18T04:21:31.682Z"
+  }
+]

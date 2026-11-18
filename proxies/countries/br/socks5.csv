@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,995,2882.5,40.8,38.2,862,45.179.145.12,1,br,Goiás,Luziânia,America/Sao_Paulo,269089,Hilan Telecom Ltda,14,2026-07-29T05:52:08.923Z,2026-11-17T04:29:47.587Z
-socks5,200.4.107.137,1080,socks5://200.4.107.137:1080,elite,true,3928,3974,31.9,30.2,748,45.167.55.114,1,br,Bahia,Feira de Santana,America/Bahia,267991,TURBO NETWORK SERV DE COMUN E MULTIMIDIA,14,2026-10-27T23:21:36.044Z,2026-11-17T04:28:53.047Z
-socks5,45.6.13.4,1080,socks5://45.6.13.4:1080,elite,false,4161,1568.5,20.3,27.6,627,45.6.13.4,1,br,Pernambuco,Recife,America/Recife,266117,G-LINK FIBRA,15,2026-11-01T10:17:50.527Z,2026-11-17T04:24:16.307Z
+socks5,177.69.198.219,1080,socks5://177.69.198.219:1080,elite,false,8310,3314,31.4,37.6,808,177.69.198.219,1,br,Minas Gerais,Uberlândia,America/Sao_Paulo,16735,ALGAR TELECOM S/A,15,2026-11-11T03:20:39.939Z,2026-11-18T04:20:53.669Z
+socks5,186.26.95.249,61445,socks5://186.26.95.249:61445,elite,true,2027,3250.5,35,33.5,672,186.26.95.249,1,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,274386,NOSSO WI-FI LTDA,20,2025-09-05T20:05:53.644Z,2026-11-18T04:22:47.779Z
+socks5,65.21.19.137,10000,socks5://65.21.19.137:10000,elite,false,1942,1788,97.1,,35,189.37.66.131,1,br,Minas Gerais,Uberlândia,America/Sao_Paulo,16735,ALGAR TELECOM S/A,11,2026-11-17T22:46:43.307Z,2026-11-18T04:30:04.015Z

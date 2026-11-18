@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.38.244.214,80,http://77.38.244.214:80,elite,false,576,564.5,85.9,84.8,974,77.38.244.214,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",6,2025-12-09T07:10:03.154Z,2026-11-17T04:29:57.694Z
+http,87.226.22.225,80,http://87.226.22.225:80,elite,false,957,576.5,80.2,85.2,945,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-18T04:20:42.092Z
+http,77.38.244.214,80,http://77.38.244.214:80,elite,false,564,561.5,84.6,84.5,975,77.38.244.214,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",6,2025-12-09T07:10:03.154Z,2026-11-18T04:26:40.452Z
+http,91.208.42.2,10809,http://91.208.42.2:10809,elite,true,1714,4120,64.5,56.5,246,185.145.245.179,2,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,16,2026-11-16T09:27:02.481Z,2026-11-18T04:27:58.319Z
+http,91.208.42.2,10808,http://91.208.42.2:10808,elite,true,1754,1885,53.3,38.2,270,185.145.245.111,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,15,2026-11-15T03:11:06.184Z,2026-11-18T04:28:19.465Z

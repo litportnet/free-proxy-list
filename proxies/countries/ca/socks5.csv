@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,109.105.218.62,1080,socks5://109.105.218.62:1080,elite,true,217,262,47.8,53.9,650,185.156.47.134,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,15,2026-11-05T02:04:06.068Z,2026-11-17T04:29:01.482Z
-socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,false,6027,4765,42.2,40.4,860,184.75.221.82,2,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,16,2026-10-10T06:38:00.990Z,2026-11-17T04:25:02.172Z
-socks5,162.254.178.133,1080,socks5://162.254.178.133:1080,elite,false,3406,3330.5,26.9,28.8,458,162.254.178.133,1,ca,Ontario,Ignace,America/Winnipeg,397128,Celerity Telecom,15,2026-10-27T10:14:41.865Z,2026-11-17T04:28:50.929Z
+socks5,109.105.218.62,1080,socks5://109.105.218.62:1080,elite,true,195,201.5,82.5,56.4,669,185.156.47.134,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,15,2026-11-05T02:04:06.068Z,2026-11-18T04:21:49.116Z

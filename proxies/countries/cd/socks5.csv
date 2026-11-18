@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,217.171.85.178,1080,socks5://217.171.85.178:1080,elite,false,5316,3789,30.2,18,255,217.171.85.178,1,cd,Haut-Katanga,Lubumbashi,Africa/Lubumbashi,43076,Global Broadband Solution Inc,16,2026-06-16T18:50:14.092Z,2026-11-17T04:29:33.303Z

@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,636,620.5,100,99.7,1006,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-17T04:29:32.240Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,742,717,64.9,69.3,901,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-17T04:33:31.326Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,4724,4087.5,50.7,63.5,960,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-17T04:25:18.030Z
-http,160.248.7.177,80,http://160.248.7.177:80,elite,false,1599,1612.5,45,53.9,936,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-11-17T04:32:50.981Z
-http,160.251.172.183,3128,http://160.251.172.183:3128,elite,false,9795,8217,22.2,25.4,169,160.251.172.183,1,jp,Tokyo,Tokyo,Asia/Tokyo,58791,"GMO Internet, Inc.",14,2026-11-14T12:03:07.072Z,2026-11-17T04:29:03.622Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,452,621.5,100,100,1006,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-18T04:23:42.815Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,1275,2367,62.3,62.6,961,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-18T04:29:43.385Z
+http,151.243.153.157,8118,http://151.243.153.157:8118,elite,false,525,720,47.6,44.1,601,151.243.153.157,1,jp,Tokyo,Tokyo,Asia/Tokyo,400506,Black Apple,25,2026-06-06T22:41:19.122Z,2026-11-18T04:29:15.820Z
+http,140.227.61.201,3128,http://140.227.61.201:3128,anonymous,false,7726,3605,19.2,24.6,554,140.227.61.201,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-11-18T04:27:28.530Z

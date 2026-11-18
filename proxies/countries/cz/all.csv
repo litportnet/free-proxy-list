@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,695,2754,60.6,47.7,870,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-17T04:29:30.644Z
-socks5,78.80.157.35,1080,socks5://78.80.157.35:1080,elite,false,1832,3746,25.6,39.9,835,78.80.157.35,1,cz,Prague,Prague,Europe/Prague,13036,T-Mobile Czech Republic a.s.,15,2026-11-09T23:05:40.992Z,2026-11-17T04:24:18.975Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,677,694.5,50,46.7,854,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-18T04:20:54.708Z
+socks5,95.216.8.124,1080,socks5://95.216.8.124:1080,elite,false,1349,1306.5,42,30.5,429,46.203.158.115,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,13,2026-11-11T05:21:43.610Z,2026-11-18T04:28:04.632Z
+socks4,194.1.188.8,60606,socks4://194.1.188.8:60606,elite,true,1657,1657.5,25.5,21.8,376,194.1.188.8,1,cz,South Bohemian Region,Vimperk,Europe/Prague,3161,IT PROFI s.r.o.,13,2025-09-05T20:06:35.063Z,2026-11-18T04:26:43.630Z
+http,188.119.98.126,9999,http://188.119.98.126:9999,anonymous,true,2301,3677,37.4,21,462,188.119.98.126,1,cz,Prague,Prague,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,25,2025-09-04T23:49:51.865Z,2026-11-18T04:24:23.771Z

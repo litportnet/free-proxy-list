@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,true,3669,1668.5,66.9,65.8,935,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-17T04:32:03.765Z
-socks4,209.45.18.8,1080,socks4://209.45.18.8:1080,elite,false,7709,3705.5,19.4,21.7,480,209.45.18.8,1,pe,Lima Province,Lima,America/Lima,269938,ADN TELECOM S.A.C.,15,2026-07-08T15:26:14.306Z,2026-11-17T04:29:54.526Z
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,false,3649,1821.5,66.9,66.7,940,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-18T04:27:41.851Z

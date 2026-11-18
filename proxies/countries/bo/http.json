@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "49.0.190.114",
+    "port": 3128,
+    "url": "http://49.0.190.114:3128",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 5299,
+    "latency_median_ms": 4725,
+    "uptime_24h": 21.6,
+    "uptime_7d": 32.1,
+    "checks_7d": 627,
+    "exit_ip": "190.129.100.48",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "Cochabamba",
+    "city": "Cochabamba",
+    "timezone": "America/La_Paz",
+    "asn": 6568,
+    "asn_org": "EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA",
+    "sources_count": 18,
+    "first_seen": "2026-11-01T11:18:27.181Z",
+    "last_checked": "2026-11-18T04:24:39.458Z"
+  }
+]

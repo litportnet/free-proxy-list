@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,449,450.5,94.4,97.3,1003,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-17T04:30:46.905Z
-http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,2335,2510,80.3,88.6,782,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,11,2026-07-22T23:32:12.809Z,2026-11-17T04:28:03.144Z
-http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,9825,3650,33.9,30.8,652,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-17T04:29:23.275Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,450,450.5,97.9,97.2,1001,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,20,2025-09-10T19:34:46.844Z,2026-11-18T04:30:18.352Z
+http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,499,518,95.9,89.7,926,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,11,2026-07-22T23:32:12.809Z,2026-11-18T04:27:01.022Z
+http,193.38.224.169,8081,http://193.38.224.169:8081,anonymous,false,3458,3423,39.3,25.3,384,193.38.224.169,1,es,Cantabria,Santander,Europe/Madrid,206276,Citelia s.a.,22,2025-09-05T20:06:20.927Z,2026-11-18T04:26:49.468Z

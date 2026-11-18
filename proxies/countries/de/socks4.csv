@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,717,589.5,41.4,42,736,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-17T04:28:40.828Z
+socks4,92.5.68.29,1080,socks4://92.5.68.29:1080,elite,true,571,559.5,98,98,102,92.5.68.29,2,de,Hesse,Frankfurt am Main,Europe/Berlin,31898,Oracle Corporation,12,2026-11-17T11:40:57.206Z,2026-11-18T04:29:13.178Z
+socks4,46.232.249.209,40001,socks4://46.232.249.209:40001,elite,true,606,617.5,33,45.8,834,104.28.225.121,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-20T00:41:14.743Z,2026-11-18T04:27:21.069Z
+socks4,193.158.12.140,4153,socks4://193.158.12.140:4153,elite,true,605,589,42.4,45.3,858,193.158.12.140,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2025-09-05T20:06:32.865Z,2026-11-18T04:27:53.541Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,592,582,58.7,43.9,749,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-18T04:23:31.265Z
+socks4,46.226.167.214,1080,socks4://46.226.167.214:1080,elite,false,879,4860,50,,10,150.241.115.223,1,de,Hesse,Frankfurt am Main,Europe/Berlin,215590,DpkgSoft International Limited,3,2026-11-18T02:48:49.703Z,2026-11-18T04:26:17.787Z

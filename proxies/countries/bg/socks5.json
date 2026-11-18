@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "95.216.8.124",
+    "port": 1081,
+    "url": "socks5://95.216.8.124:1081",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1579,
+    "latency_median_ms": 1528,
+    "uptime_24h": 27.3,
+    "uptime_7d": 29.7,
+    "checks_7d": 424,
+    "exit_ip": "93.152.225.133",
+    "exit_shared": 1,
+    "country": "bg",
+    "region": "Sofia-Capital",
+    "city": "Sofia",
+    "timezone": "Europe/Sofia",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 15,
+    "first_seen": "2026-11-11T06:22:22.971Z",
+    "last_checked": "2026-11-18T04:24:55.772Z"
+  }
+]
