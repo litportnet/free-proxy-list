@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.42,30278,socks5://45.74.31.42:30278,elite,false,4765,4617.5,15.6,19.8,344,102.134.101.35,2,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,13,2026-10-21T10:59:12.109Z,2026-11-19T04:30:40.603Z
+socks5,45.74.31.41,19656,socks5://45.74.31.41:19656,elite,true,5984,5253,31.4,,35,102.134.101.35,2,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,8,2026-11-18T21:59:00.349Z,2026-11-19T04:22:30.732Z

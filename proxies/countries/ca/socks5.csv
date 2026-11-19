@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,109.105.218.62,1080,socks5://109.105.218.62:1080,elite,true,195,201.5,82.5,56.4,669,185.156.47.134,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,15,2026-11-05T02:04:06.068Z,2026-11-18T04:21:49.116Z

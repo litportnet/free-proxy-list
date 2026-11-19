@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2633,3047,67.6,61.5,898,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-18T04:21:40.187Z
-http,31.148.99.133,4000,http://31.148.99.133:4000,transparent,true,3831,4566,22.2,22.5,151,31.148.99.133,1,gb,England,London,Europe/London,212913,TIME-HOST LTD,19,2026-09-24T12:25:44.818Z,2026-11-18T04:23:48.053Z
-http,37.32.26.209,10809,http://37.32.26.209:10809,elite,true,755,756.5,97.8,,46,51.75.162.124,1,gb,England,Woolwich,Europe/London,16276,OVH SAS,14,2026-11-17T20:45:38.562Z,2026-11-18T04:21:02.052Z
+http,31.148.99.133,4000,http://31.148.99.133:4000,transparent,true,5241,4443.5,57.1,39.8,264,31.148.99.133,1,gb,England,London,Europe/London,212913,TIME-HOST LTD,19,2026-09-24T12:25:44.818Z,2026-11-19T04:23:08.587Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,1107,1441.5,56.9,33.2,611,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-19T04:25:37.427Z

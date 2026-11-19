@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "91.199.137.149",
+    "port": 2010,
+    "url": "socks5://91.199.137.149:2010",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2131,
+    "latency_median_ms": 2268,
+    "uptime_24h": 49.5,
+    "uptime_7d": 46.2,
+    "checks_7d": 119,
+    "exit_ip": "158.173.77.139",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Lombardy",
+    "city": "Milan",
+    "timezone": "Europe/Rome",
+    "asn": 206092,
+    "asn_org": "F.N.S. HOLDINGS LIMITED",
+    "sources_count": 15,
+    "first_seen": "2026-11-17T21:46:09.466Z",
+    "last_checked": "2026-11-19T04:24:44.491Z"
+  }
+]

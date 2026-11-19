@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,89.135.59.65,8090,http://89.135.59.65:8090,anonymous,false,3191,3008.5,20.8,12.4,177,89.135.59.71,1,hu,Budapest,Budapest,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,16,2025-09-05T00:23:15.763Z,2026-11-18T04:24:46.332Z
+http,95.214.123.54,8080,http://95.214.123.54:8080,anonymous,false,7070,6505,27.7,27.7,101,95.214.123.54,1,hu,Bács-Kiskun,Kecskemét,Europe/Budapest,209001,DELTAKON KFT.,14,2026-04-15T17:38:26.888Z,2026-11-19T04:31:28.625Z

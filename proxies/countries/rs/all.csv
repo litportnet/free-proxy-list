@@ -1,4 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,true,7762,795.5,44.3,40.6,863,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,21,2026-07-04T18:38:42.525Z,2026-11-18T04:22:46.731Z
-http,212.200.223.89,8080,http://212.200.223.89:8080,anonymous,false,1901,3409,34.8,36,815,212.200.223.89,1,rs,Central Serbia,Šabac,Europe/Belgrade,8400,TELEKOM SRBIJA a.d.,24,2026-08-05T23:29:41.654Z,2026-11-18T04:28:26.377Z
-http,82.117.211.42,8085,http://82.117.211.42:8085,anonymous,false,5244,4696,7.7,21.9,415,82.117.211.42,1,rs,Vojvodina,Vršac,Europe/Belgrade,31042,Yettel d.o.o.,25,2026-07-05T20:52:31.195Z,2026-11-18T04:21:56.540Z

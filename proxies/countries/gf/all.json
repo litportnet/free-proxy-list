@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "170.233.72.43",
+    "port": 1080,
+    "url": "socks5://170.233.72.43:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 658,
+    "latency_median_ms": 2807,
+    "uptime_24h": 35.4,
+    "uptime_7d": 30.1,
+    "checks_7d": 629,
+    "exit_ip": "170.233.72.43",
+    "exit_shared": 1,
+    "country": "gf",
+    "region": "Guyane",
+    "city": "Cayenne",
+    "timezone": "America/Cayenne",
+    "asn": 33392,
+    "asn_org": "Dauphin Telecom",
+    "sources_count": 16,
+    "first_seen": "2026-10-14T06:28:29.252Z",
+    "last_checked": "2026-11-19T04:28:40.408Z"
+  }
+]

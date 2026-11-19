@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "80.96.232.14",
+    "port": 8085,
+    "url": "http://80.96.232.14:8085",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 609,
+    "latency_median_ms": 614.5,
+    "uptime_24h": 66.7,
+    "uptime_7d": null,
+    "checks_7d": 3,
+    "exit_ip": "80.96.232.14",
+    "exit_shared": 1,
+    "country": "ro",
+    "region": "Brăila County",
+    "city": "Brăila",
+    "timezone": "Europe/Bucharest",
+    "asn": 12302,
+    "asn_org": "Vodafone Romania S.A.",
+    "sources_count": 3,
+    "first_seen": "2026-02-26T04:14:57.090Z",
+    "last_checked": "2026-11-19T04:22:40.702Z"
+  }
+]

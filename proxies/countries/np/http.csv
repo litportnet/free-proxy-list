@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.90.224.50,8080,http://116.90.224.50:8080,anonymous,true,3588,2953,30,25,632,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,16,2025-11-22T22:41:34.602Z,2026-11-18T04:29:06.255Z
-http,103.124.97.12,8080,http://103.124.97.12:8080,anonymous,true,1366,4137.5,27.4,22.4,428,103.124.97.12,1,np,Gandaki Pradesh,Pokhara,Asia/Kathmandu,138388,Pokhara Internet Pvt. Ltd.,15,2025-09-06T05:35:00.724Z,2026-11-18T04:26:42.069Z

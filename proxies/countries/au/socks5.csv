@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,false,3408,3746.5,48.3,46.5,719,46.102.153.134,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,20,2026-09-16T03:18:05.440Z,2026-11-18T04:22:21.617Z
-socks5,103.248.47.230,1080,socks5://103.248.47.230:1080,elite,false,8420,2281.5,27.1,26.1,552,103.248.47.230,1,au,New South Wales,Sydney,Australia/Sydney,133417,Dicker Data Ltd,20,2026-05-09T06:34:30.972Z,2026-11-18T04:23:49.603Z

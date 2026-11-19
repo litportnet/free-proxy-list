@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,true,1840,1302.5,52.2,55.3,754,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-11-18T04:25:04.732Z
-socks4,84.242.51.241,4145,socks4://84.242.51.241:4145,elite,false,1998,2891.5,26.3,23.7,524,84.242.51.241,1,ps,West Bank,Al Judayyidah,Asia/Hebron,51407,Mada Al-Arab General Services Company,12,2026-07-05T11:45:38.859Z,2026-11-18T04:28:03.043Z

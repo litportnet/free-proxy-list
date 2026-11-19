@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.42",
+    "port": 4126,
+    "url": "socks5://45.74.31.42:4126",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4764,
+    "latency_median_ms": 3190,
+    "uptime_24h": 31.4,
+    "uptime_7d": 23,
+    "checks_7d": 309,
+    "exit_ip": "167.17.71.189",
+    "exit_shared": 1,
+    "country": "es",
+    "region": "Madrid",
+    "city": "Madrid",
+    "timezone": "Europe/Madrid",
+    "asn": 63023,
+    "asn_org": "GTHost",
+    "sources_count": 15,
+    "first_seen": "2026-09-25T02:33:16.139Z",
+    "last_checked": "2026-11-19T04:26:13.882Z"
+  }
+]

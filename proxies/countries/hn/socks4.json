@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "45.190.13.12",
-    "port": 1080,
-    "url": "socks4://45.190.13.12:1080",
-    "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1456,
-    "latency_median_ms": 1456.5,
-    "uptime_24h": 70.7,
-    "uptime_7d": 70.7,
-    "checks_7d": 75,
-    "exit_ip": "45.190.13.194",
-    "exit_shared": 1,
-    "country": "hn",
-    "region": "Cortés Department",
-    "city": "Puerto Cortez",
-    "timezone": "America/Tegucigalpa",
-    "asn": 269934,
-    "asn_org": "AIR NETWORK S. DE R. L. DE C.V.",
-    "sources_count": 9,
-    "first_seen": "2026-11-17T15:42:58.923Z",
-    "last_checked": "2026-11-18T04:24:24.810Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "181.115.75.102",
     "port": 5678,
     "url": "socks4://181.115.75.102:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 434,
-    "latency_median_ms": 3473.5,
+    "https": false,
+    "latency_ms": 1456,
+    "latency_median_ms": 945,
     "uptime_24h": 45.9,
-    "uptime_7d": 47.9,
-    "checks_7d": 904,
+    "uptime_7d": 48,
+    "checks_7d": 911,
     "exit_ip": "181.115.75.102",
     "exit_shared": 1,
     "country": "hn",
@@ -45,6 +21,6 @@
     "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
     "sources_count": 23,
     "first_seen": "2025-09-04T23:01:57.983Z",
-    "last_checked": "2026-11-18T04:27:34.380Z"
+    "last_checked": "2026-11-19T04:28:47.326Z"
   }
 ]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,143.198.239.45,10027,socks5://143.198.239.45:10027,elite,true,1575,1703,27.4,34,817,93.95.231.14,1,is,Capital Region,Reykjavík,Atlantic/Reykjavik,44925,1984 ehf,2,2026-10-10T10:40:11.831Z,2026-11-19T04:23:38.569Z

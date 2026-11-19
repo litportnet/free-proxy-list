@@ -1,5 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.92.193.18,999,http://192.92.193.18:999,anonymous,false,1078,2527,32.1,31.4,688,192.92.193.18,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,17,2026-08-27T12:22:09.816Z,2026-11-18T04:23:07.681Z
-http,192.203.0.142,999,http://192.203.0.142:999,anonymous,true,8055,3729.5,29.8,30.2,430,192.203.0.142,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2026-05-04T08:39:48.827Z,2026-11-18T04:24:30.514Z
-http,154.64.211.145,999,http://154.64.211.145:999,anonymous,false,3468,3442,30.6,29.6,598,198.52.241.102,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,15,2025-09-05T20:06:35.987Z,2026-11-18T04:22:41.993Z
-http,192.203.0.166,999,http://192.203.0.166:999,anonymous,false,4221,3850.5,24.3,18.2,308,192.203.0.166,1,pr,Caguas,Caguas,America/Puerto_Rico,63393,BOOM NET,22,2025-09-05T23:19:59.349Z,2026-11-18T04:26:11.476Z
+http,192.203.0.142,999,http://192.203.0.142:999,anonymous,false,2659,4380.5,35.2,31.6,456,192.203.0.142,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2026-05-04T08:39:48.827Z,2026-11-19T04:23:39.119Z

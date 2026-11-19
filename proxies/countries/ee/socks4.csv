@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,3714,1392.5,75.9,73.5,976,185.157.111.3,1,ee,Võrumaa,Vana-Antsla,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-11-18T04:23:09.259Z
+socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,1737,1178.5,74.3,72.7,975,185.157.111.3,1,ee,Võrumaa,Vana-Antsla,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-11-19T04:27:22.556Z

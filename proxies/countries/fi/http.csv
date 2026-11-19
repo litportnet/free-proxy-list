@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,62.238.25.109,3128,http://62.238.25.109:3128,anonymous,true,566,531.5,95.8,95.8,71,62.238.25.109,1,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,13,2026-11-17T16:43:30.111Z,2026-11-18T04:28:21.046Z
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,480,499.5,100,92.8,704,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-18T04:21:47.027Z
-http,45.130.127.14,3128,http://45.130.127.14:3128,transparent,false,6964,5224.5,23,23.3,503,45.130.127.14,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,18,2026-10-12T16:08:15.580Z,2026-11-18T04:21:39.090Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,530,519,100,94.2,845,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-19T04:31:24.395Z
+http,103.71.22.8,3128,http://103.71.22.8:3128,anonymous,true,495,2754.5,16.7,12.8,242,103.71.22.8,1,fi,Uusimaa,Helsinki,Europe/Helsinki,207569,IHOR HOSTING LTD,12,2026-04-21T13:48:46.908Z,2026-11-19T04:31:05.371Z
+http,77.105.146.44,10808,http://77.105.146.44:10808,elite,false,951,929,100,,3,78.17.110.172,1,fi,Uusimaa,Helsinki,Europe/Helsinki,213459,Snowd Security OU,1,2026-11-19T04:01:59.702Z,2026-11-19T04:22:40.173Z

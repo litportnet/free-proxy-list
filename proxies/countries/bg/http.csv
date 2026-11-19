@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,93.123.16.38,80,http://93.123.16.38:80,elite,false,256,265,100,98.4,938,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-18T04:29:37.002Z
-http,93.123.16.23,80,http://93.123.16.23:80,elite,false,258,270,87.3,93.8,924,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-18T04:21:54.399Z
-http,93.123.16.14,80,http://93.123.16.14:80,elite,false,263,775.5,74.8,85,867,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-18T04:25:36.246Z
-http,82.137.90.220,80,http://82.137.90.220:80,elite,false,749,886,42.1,48.4,153,82.137.90.220,1,bg,Plovdiv,Karlovo,Europe/Sofia,8866,Vivacom Bulgaria EAD,7,2025-09-05T20:06:37.783Z,2026-11-18T04:28:43.947Z
-http,213.169.33.3,8001,http://213.169.33.3:8001,anonymous,false,5551,3843,13.8,18.6,399,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,20,2025-09-05T20:06:37.898Z,2026-11-18T04:24:25.348Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,259,257.5,100,98.9,1007,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-19T04:26:17.040Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,255,262.5,99.3,94.2,1001,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-19T04:30:29.032Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,246,262,90.2,85.5,974,93.123.16.14,3,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-19T04:23:17.555Z

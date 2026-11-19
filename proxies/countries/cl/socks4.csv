@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,900,3956.5,54.4,56,959,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,22,2025-09-05T20:06:27.862Z,2026-11-18T04:21:07.341Z
-socks4,152.231.81.18,1080,socks4://152.231.81.18:1080,elite,true,830,1878.5,48.2,55.7,957,152.231.81.18,1,cl,Valparaiso,Viña del Mar,America/Santiago,27651,ENTEL CHILE S.A.,15,2026-10-30T02:48:42.459Z,2026-11-18T04:21:36.999Z
+socks4,190.13.147.241,5678,socks4://190.13.147.241:5678,elite,false,1943,1966.5,57.3,55.7,959,190.13.147.241,1,cl,Los Lagos Region,Osorno,America/Santiago,14117,Telefonica del Sur S.A.,22,2025-09-05T20:06:27.862Z,2026-11-19T04:23:25.931Z
+socks4,152.231.81.19,1080,socks4://152.231.81.19:1080,elite,false,7996,3888,48.1,50.6,923,152.231.81.18,1,cl,Valparaiso,Viña del Mar,America/Santiago,27651,ENTEL CHILE S.A.,16,2026-10-05T23:44:01.078Z,2026-11-19T04:31:47.582Z

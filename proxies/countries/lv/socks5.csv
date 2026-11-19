@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,864,850.5,47.6,47.6,755,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,20,2026-07-06T17:06:50.617Z,2026-11-18T04:30:11.446Z
-socks5,91.208.42.2,10808,socks5://91.208.42.2:10808,elite,true,2016,2162,55.1,40.1,252,185.145.245.179,2,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,14,2026-11-15T03:11:06.184Z,2026-11-18T04:27:41.332Z
-socks5,31.58.46.112,1080,socks5://31.58.46.112:1080,elite,false,884,1810,29.6,21.9,96,31.58.46.112,1,lv,Riga,Riga,Europe/Riga,202051,NETGRID HOST LTD,13,2026-11-13T01:45:24.273Z,2026-11-18T04:25:08.387Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,true,1560,1853.5,63.8,54.2,927,195.13.182.211,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T11:02:35.488Z,2026-11-19T04:22:14.912Z

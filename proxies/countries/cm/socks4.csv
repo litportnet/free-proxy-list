@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.132.17.30,1080,socks4://102.132.17.30:1080,elite,true,1030,1829.5,77.3,74.3,980,102.132.17.30,1,cm,Littoral,Douala,Africa/Douala,327820,SWECOM PLC,14,2026-07-04T16:35:29.162Z,2026-11-18T04:21:26.928Z
-socks4,41.216.232.213,4153,socks4://41.216.232.213:4153,elite,false,8240,1669.5,54.7,53,915,217.14.84.154,1,cm,Littoral,Douala,Africa/Douala,37672,INQ DIGITAL CAMEROON SA,14,2025-09-04T23:48:59.324Z,2026-11-18T04:29:16.362Z
+socks4,102.132.17.30,1080,socks4://102.132.17.30:1080,elite,true,1009,1022.5,72.3,74,982,102.132.17.30,1,cm,Littoral,Douala,Africa/Douala,327820,SWECOM PLC,14,2026-07-04T16:35:29.162Z,2026-11-19T04:23:41.218Z
+socks4,41.216.232.213,4153,socks4://41.216.232.213:4153,elite,false,1336,2165,54.7,53,910,217.14.84.154,1,cm,Littoral,Douala,Africa/Douala,37672,INQ DIGITAL CAMEROON SA,14,2025-09-04T23:48:59.324Z,2026-11-19T04:27:42.158Z

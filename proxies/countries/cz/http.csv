@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,188.119.98.126,9999,http://188.119.98.126:9999,anonymous,true,2301,3677,37.4,21,462,188.119.98.126,1,cz,Prague,Prague,Europe/Prague,42908,ORIGINAL AS CZ-NORDICTELECOMREGIONAL,25,2025-09-04T23:49:51.865Z,2026-11-18T04:24:23.771Z
+http,77.240.102.149,800,http://77.240.102.149:800,anonymous,false,1995,6351.5,25.6,18.6,404,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-19T04:29:33.704Z

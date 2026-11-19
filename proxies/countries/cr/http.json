@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "186.15.187.158",
+    "port": 999,
+    "url": "http://186.15.187.158:999",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3503,
+    "latency_median_ms": 3889,
+    "uptime_24h": 23.3,
+    "uptime_7d": 25.4,
+    "checks_7d": 492,
+    "exit_ip": "186.15.187.158",
+    "exit_shared": 1,
+    "country": "cr",
+    "region": "Puntarenas Province",
+    "city": "San Juan Grande",
+    "timezone": "America/Costa_Rica",
+    "asn": 262202,
+    "asn_org": "Telefonica de Costa Rica TC, SA",
+    "sources_count": 19,
+    "first_seen": "2026-09-29T10:28:00.376Z",
+    "last_checked": "2026-11-19T04:27:01.868Z"
+  }
+]

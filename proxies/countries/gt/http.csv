@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.199.88.1,999,http://38.199.88.1:999,anonymous,false,1430,1766.5,65.5,61.1,970,38.199.88.5,1,gt,Guatemala,Guatemala City,America/Guatemala,274038,"INVERSIONES Y NEGOCIOS IOT DE GUATEMALA, SOCIEDAD ANÓNIMA",14,2026-05-05T23:00:53.229Z,2026-11-18T04:22:48.317Z
-http,181.174.115.9,1994,http://181.174.115.9:1994,anonymous,false,4335,3783,12.5,17.3,323,181.174.115.9,1,gt,Quiché,San Andrés Sajcabajá,America/Guatemala,23243,COMCEL GUATEMALA S.A.,23,2025-09-05T20:06:36.550Z,2026-11-18T04:23:03.014Z
+http,181.119.111.239,999,http://181.119.111.239:999,anonymous,false,4944,2793,15.2,14.4,319,181.119.111.53,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,23,2025-09-05T20:06:28.346Z,2026-11-19T04:25:45.317Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,142.112.52.229,8443,socks4://142.112.52.229:8443,elite,true,7258,293,28.2,25.3,609,142.112.52.229,1,ca,Quebec,Montréal,America/Toronto,577,Bell Canada,12,2026-07-04T16:37:32.455Z,2026-11-18T04:27:42.397Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,false,7554,3383,59,46.2,862,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-19T04:31:44.966Z

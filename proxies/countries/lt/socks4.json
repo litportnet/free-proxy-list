@@ -6,11 +6,11 @@
     "url": "socks4://93.93.61.153:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 3718,
-    "latency_median_ms": 1396.5,
-    "uptime_24h": 74.5,
-    "uptime_7d": 71.9,
-    "checks_7d": 974,
+    "latency_ms": 7826,
+    "latency_median_ms": 1700,
+    "uptime_24h": 73.1,
+    "uptime_7d": 70.6,
+    "checks_7d": 975,
     "exit_ip": "93.93.61.153",
     "exit_shared": 1,
     "country": "lt",
@@ -21,6 +21,6 @@
     "asn_org": "Ogmios centras AS number",
     "sources_count": 21,
     "first_seen": "2026-07-05T07:46:21.191Z",
-    "last_checked": "2026-11-18T04:24:09.540Z"
+    "last_checked": "2026-11-19T04:26:28.123Z"
   }
 ]

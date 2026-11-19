@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,185.98.208.98,28000,socks4://185.98.208.98:28000,elite,false,675,1308,46.8,46.1,864,185.98.208.98,1,sk,Trnava Region,Cífer,Europe/Bratislava,30929,GOLEM TECH s.r.o.,13,2026-02-25T19:09:07.562Z,2026-11-18T04:23:34.930Z
-socks5,49.13.22.249,10809,socks5://49.13.22.249:10809,elite,true,1313,1387,37.3,32.8,482,196.245.151.216,1,sk,Bratislava Region,Bratislava,Europe/Bratislava,41564,Orion Network Limited,20,2026-08-25T02:51:25.845Z,2026-11-18T04:28:34.929Z

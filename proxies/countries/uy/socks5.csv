@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.19.137,10815,socks5://65.21.19.137:10815,elite,false,2803,1807,56.3,,16,167.62.238.82,1,uy,Montevideo Department,Montevideo,America/Montevideo,6057,Administracion Nacional de Telecomunicaciones,6,2026-11-18T01:48:20.535Z,2026-11-18T04:21:31.682Z

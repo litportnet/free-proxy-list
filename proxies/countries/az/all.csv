@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,85.132.108.42,3128,http://85.132.108.42:3128,elite,true,2954,1373.5,85.2,81.6,979,85.132.108.42,1,az,Baki,Baku,Asia/Baku,200446,SELNET LLC,18,2026-11-10T20:16:55.512Z,2026-11-18T04:24:43.167Z
+http,85.132.108.42,3128,http://85.132.108.42:3128,elite,false,8498,2252,90.9,81.1,979,185.222.94.247,1,az,Baki,Baku,Asia/Baku,203971,AzFiberNet LLC,18,2026-11-10T20:16:55.512Z,2026-11-19T04:22:02.773Z
