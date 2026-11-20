@@ -1,7 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,617,804.5,100,100,1005,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-19T04:30:32.691Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,6808,2254,82.7,66.6,855,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-19T04:26:28.641Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,false,1613,2534.5,73.6,61.5,960,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-19T04:24:58.792Z
-http,153.127.195.58,4444,http://153.127.195.58:4444,elite,false,771,758,43.8,27.4,186,153.127.195.58,1,jp,Tokyo,Tokyo,Asia/Tokyo,7684,SAKURA Internet Inc.,11,2025-09-10T21:05:09.694Z,2026-11-19T04:31:41.257Z
-http,140.227.61.201,3128,http://140.227.61.201:3128,anonymous,false,3618,3608.5,31.3,25.5,592,140.227.61.201,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-11-19T04:29:25.236Z
-http,133.232.89.179,80,http://133.232.89.179:80,elite,false,4039,4843,33.3,3.1,65,133.232.89.179,1,jp,Tokyo,Tokyo,Asia/Tokyo,2514,"NTT PC Communications, Inc.",9,2025-09-08T18:26:29.202Z,2026-11-19T04:25:20.500Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,1132,632,100,99.9,1007,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-11-20T04:32:55.493Z
+http,13.231.154.29,80,http://13.231.154.29:80,elite,false,621,673,76.6,76.6,141,13.231.154.29,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",10,2026-11-19T05:02:31.553Z,2026-11-20T04:33:39.762Z

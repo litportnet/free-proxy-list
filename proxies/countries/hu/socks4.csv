@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.61.117.11,1080,socks4://109.61.117.11:1080,elite,true,1638,1675,70.9,75,983,109.61.64.9,1,hu,Baranya,Pécs,Europe/Budapest,197248,Dravanet Co Ltd.,16,2026-10-04T17:28:05.859Z,2026-11-20T04:33:00.264Z
+socks4,91.147.235.162,4153,socks4://91.147.235.162:4153,elite,true,4432,1820,41.2,45.9,879,91.147.235.162,1,hu,Hajdú-Bihar,Debrecen,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-10-26T21:46:56.038Z,2026-11-20T04:28:06.335Z
+socks4,84.2.239.42,4153,socks4://84.2.239.42:4153,elite,true,746,736.5,34.9,39.1,695,84.2.239.42,1,hu,Hajdú-Bihar,Hajdúnánás,Europe/Budapest,5483,Magyar Telekom Plc.,14,2025-09-04T23:48:59.215Z,2026-11-20T04:28:25.948Z
+socks4,178.48.13.177,80,socks4://178.48.13.177:80,elite,true,726,729.5,43.3,39,665,178.48.13.177,1,hu,Veszprém,Herend,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,13,2026-07-05T01:42:54.951Z,2026-11-20T04:27:09.786Z

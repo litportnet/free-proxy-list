@@ -6,11 +6,11 @@
     "url": "socks5://31.211.142.115:8192",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1860,
-    "latency_median_ms": 1853,
-    "uptime_24h": 51.9,
-    "uptime_7d": 37.1,
-    "checks_7d": 618,
+    "latency_ms": 1822,
+    "latency_median_ms": 1831,
+    "uptime_24h": 43.6,
+    "uptime_7d": 35.7,
+    "checks_7d": 624,
     "exit_ip": "31.211.142.115",
     "exit_shared": 1,
     "country": "bg",
@@ -21,6 +21,6 @@
     "asn_org": "5KOM OOD",
     "sources_count": 23,
     "first_seen": "2025-09-04T23:48:55.053Z",
-    "last_checked": "2026-11-19T04:28:38.319Z"
+    "last_checked": "2026-11-20T04:29:09.943Z"
   }
 ]

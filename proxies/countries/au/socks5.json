@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "103.248.47.230",
+    "port": 1080,
+    "url": "socks5://103.248.47.230:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4288,
+    "latency_median_ms": 2362,
+    "uptime_24h": 19.8,
+    "uptime_7d": 24.1,
+    "checks_7d": 514,
+    "exit_ip": "103.248.47.230",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "New South Wales",
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "asn": 133417,
+    "asn_org": "Dicker Data Ltd",
+    "sources_count": 20,
+    "first_seen": "2026-05-09T06:34:30.972Z",
+    "last_checked": "2026-11-20T04:28:23.819Z"
+  }
+]

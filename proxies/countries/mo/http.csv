@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,27.109.158.122,80,http://27.109.158.122:80,elite,false,936,838,95.8,95.3,1003,27.109.158.122,1,mo,Macao,Macau,Asia/Macau,4609,Companhia de Telecomunicacoes de Macau SARL,3,2026-04-14T08:16:21.091Z,2026-11-19T04:27:12.032Z
-http,27.109.207.84,80,http://27.109.207.84:80,elite,false,930,836,47.8,42,783,27.109.207.84,1,mo,Macao,Macau,Asia/Macau,4609,Companhia de Telecomunicacoes de Macau SARL,6,2026-07-19T02:40:11.103Z,2026-11-19T04:28:36.731Z
+http,27.109.158.122,80,http://27.109.158.122:80,elite,false,821,813,92.4,94.8,1002,27.109.158.122,1,mo,Macao,Macau,Asia/Macau,4609,Companhia de Telecomunicacoes de Macau SARL,3,2026-04-14T08:16:21.091Z,2026-11-20T04:24:58.805Z

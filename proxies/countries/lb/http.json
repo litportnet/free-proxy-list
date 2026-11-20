@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.82.99.204",
+    "port": 92,
+    "url": "http://185.82.99.204:92",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3070,
+    "latency_median_ms": 3492,
+    "uptime_24h": 18.8,
+    "uptime_7d": 13.9,
+    "checks_7d": 237,
+    "exit_ip": "185.82.99.101",
+    "exit_shared": 1,
+    "country": "lb",
+    "region": "North Lebanon",
+    "city": "Tripoli",
+    "timezone": "Asia/Beirut",
+    "asn": 42183,
+    "asn_org": "NET 360 S.A.R.L",
+    "sources_count": 23,
+    "first_seen": "2025-09-05T20:06:32.421Z",
+    "last_checked": "2026-11-20T04:25:39.348Z"
+  }
+]

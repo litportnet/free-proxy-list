@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,40.177.65.8,80,http://40.177.65.8:80,elite,false,282,296,100,100,1003,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-19T04:23:47.048Z
-http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,7581,176.5,96.5,91.2,883,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-19T04:30:00.971Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,6339,5759.5,42.4,47.5,826,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-19T04:25:03.527Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,277,300.5,100,100,1005,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-20T04:27:43.549Z
+http,184.75.221.82,3118,http://184.75.221.82:3118,anonymous,true,242,773,91.6,90.8,881,184.75.221.82,1,ca,Ontario,Toronto,America/Toronto,32489,Amanah Tech Inc.,24,2026-08-28T17:37:16.156Z,2026-11-20T04:26:56.468Z
+http,173.181.143.245,80,http://173.181.143.245:80,elite,false,2562,2590.5,39.3,35.9,756,173.181.143.245,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,15,2025-09-09T19:49:52.324Z,2026-11-20T04:32:26.660Z

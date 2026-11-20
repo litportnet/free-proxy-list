@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,5569,6415.5,74.5,67.6,754,84.55.46.85,1,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-19T04:25:42.707Z
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,4193,5596,79.4,73.8,760,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-20T04:24:51.518Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,5015,4738,74.1,69.3,761,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,5,2025-09-07T11:16:53.444Z,2026-11-20T04:33:20.561Z

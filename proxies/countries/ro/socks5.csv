@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,143.198.239.45,10025,socks5://143.198.239.45:10025,elite,true,1690,3700.5,35.5,30.1,804,143.20.185.77,1,ro,Bucharest,Bucharest,Europe/Bucharest,214209,Internet Magnate (Pty) Ltd,2,2026-10-10T09:39:40.310Z,2026-11-19T04:25:19.956Z
+socks5,88.198.69.51,1088,socks5://88.198.69.51:1088,elite,false,1445,1124,42.7,39.4,353,185.62.9.22,1,ro,Bucharest,Bucharest,Europe/Bucharest,9009,M247 Europe SRL,14,2026-11-15T23:21:44.138Z,2026-11-20T04:33:04.559Z

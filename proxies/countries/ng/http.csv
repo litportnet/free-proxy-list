@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,154.113.18.189,8090,http://154.113.18.189:8090,elite,false,5197,2940.5,29.1,14.6,110,154.113.18.189,1,ng,Lagos,Lagos,Africa/Lagos,37282,Main one Cable Company Nigeria Limited,2,2025-09-28T00:52:26.326Z,2026-11-19T04:23:35.932Z

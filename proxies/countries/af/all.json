@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "111.125.154.86",
+    "port": 8080,
+    "url": "http://111.125.154.86:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 4588,
+    "latency_median_ms": 3914.5,
+    "uptime_24h": 31.3,
+    "uptime_7d": 22.8,
+    "checks_7d": 510,
+    "exit_ip": "111.125.154.86",
+    "exit_shared": 1,
+    "country": "af",
+    "region": "Badakhshan",
+    "city": "Fayzabad",
+    "timezone": "Asia/Kabul",
+    "asn": 45178,
+    "asn_org": "ROSHAN",
+    "sources_count": 17,
+    "first_seen": "2026-10-30T19:57:46.265Z",
+    "last_checked": "2026-11-20T04:29:09.953Z"
+  }
+]

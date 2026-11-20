@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,170.233.72.43,1080,socks5://170.233.72.43:1080,elite,false,658,2807,35.4,30.1,629,170.233.72.43,1,gf,Guyane,Cayenne,America/Cayenne,33392,Dauphin Telecom,16,2026-10-14T06:28:29.252Z,2026-11-19T04:28:40.408Z
+socks5,170.233.72.43,1080,socks5://170.233.72.43:1080,elite,false,1630,1640,33.9,29.3,652,170.233.72.43,1,gf,Guyane,Cayenne,America/Cayenne,33392,Dauphin Telecom,16,2026-10-14T06:28:29.252Z,2026-11-20T04:28:30.151Z

@@ -1,16 +1,16 @@
 [
   {
     "protocol": "socks5",
-    "ip": "45.74.31.42",
-    "port": 4126,
-    "url": "socks5://45.74.31.42:4126",
+    "ip": "45.74.31.40",
+    "port": 4011,
+    "url": "socks5://45.74.31.40:4011",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4764,
-    "latency_median_ms": 3190,
-    "uptime_24h": 31.4,
-    "uptime_7d": 23,
-    "checks_7d": 309,
+    "latency_ms": 6054,
+    "latency_median_ms": 5433.5,
+    "uptime_24h": 16.2,
+    "uptime_7d": 15.9,
+    "checks_7d": 138,
     "exit_ip": "167.17.71.189",
     "exit_shared": 1,
     "country": "es",
@@ -19,8 +19,8 @@
     "timezone": "Europe/Madrid",
     "asn": 63023,
     "asn_org": "GTHost",
-    "sources_count": 15,
-    "first_seen": "2026-09-25T02:33:16.139Z",
-    "last_checked": "2026-11-19T04:26:13.882Z"
+    "sources_count": 14,
+    "first_seen": "2026-09-27T04:59:52.205Z",
+    "last_checked": "2026-11-20T04:32:41.612Z"
   }
 ]

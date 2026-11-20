@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,49.0.190.114,3128,http://49.0.190.114:3128,anonymous,true,3402,3263.5,44.4,33.6,664,190.129.100.87,1,bo,Cochabamba,Cochabamba,America/La_Paz,6568,EMPRESA NACIONAL DE TELECOMUNICACIONES SOCIEDAD ANONIMA,18,2026-11-01T11:18:27.181Z,2026-11-19T04:23:41.750Z

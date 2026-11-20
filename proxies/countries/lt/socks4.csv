@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,7826,1700,73.1,70.6,975,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-19T04:26:28.123Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,2990,1584.5,73.6,70.9,979,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-20T04:29:04.662Z

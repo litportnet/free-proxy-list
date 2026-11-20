@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "41.75.123.101",
+    "port": 1080,
+    "url": "socks5://41.75.123.101:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9043,
+    "latency_median_ms": 2614,
+    "uptime_24h": 34,
+    "uptime_7d": 32,
+    "checks_7d": 613,
+    "exit_ip": "41.75.123.101",
+    "exit_shared": 1,
+    "country": "mw",
+    "region": "Southern Region",
+    "city": "Zomba",
+    "timezone": "Africa/Blantyre",
+    "asn": 37187,
+    "asn_org": "Inq. Digital Limited",
+    "sources_count": 12,
+    "first_seen": "2026-11-10T22:18:13.146Z",
+    "last_checked": "2026-11-20T04:26:14.489Z"
+  }
+]

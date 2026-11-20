@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.120.198.182,1080,socks4://188.120.198.182:1080,elite,true,1677,1848,17.2,18.1,386,188.120.198.182,1,cz,South Bohemian Region,České Budějovice,Europe/Prague,49985,IP4ISP z.s.p.o,11,2026-11-06T22:27:34.981Z,2026-11-19T04:29:13.636Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,1649,905.5,30.8,44.9,839,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-20T04:28:19.031Z
+socks4,90.178.216.215,4153,socks4://90.178.216.215:4153,elite,true,2739,2251,38.9,40.7,754,90.178.216.215,1,cz,Plzeň Region,Pilsen,Europe/Prague,5610,"O2 Czech Republic, a.s.",21,2026-07-05T05:45:17.885Z,2026-11-20T04:24:00.352Z

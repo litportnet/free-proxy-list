@@ -1,17 +1,17 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "200.108.50.254",
-    "port": 4145,
-    "url": "socks4://200.108.50.254:4145",
-    "anonymity": "elite",
+    "protocol": "http",
+    "ip": "200.90.136.165",
+    "port": 8080,
+    "url": "http://200.90.136.165:8080",
+    "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 3773,
-    "latency_median_ms": 3829,
-    "uptime_24h": 54.4,
-    "uptime_7d": 52.1,
-    "checks_7d": 925,
-    "exit_ip": "200.108.50.254",
+    "latency_ms": 3780,
+    "latency_median_ms": 4066.5,
+    "uptime_24h": 40,
+    "uptime_7d": 31.5,
+    "checks_7d": 238,
+    "exit_ip": "200.90.136.165",
     "exit_shared": 1,
     "country": "pa",
     "region": "Panamá",
@@ -19,8 +19,8 @@
     "timezone": "America/Panama",
     "asn": 18809,
     "asn_org": "Cable Onda",
-    "sources_count": 14,
-    "first_seen": "2025-09-04T23:49:13.837Z",
-    "last_checked": "2026-11-19T04:30:11.050Z"
+    "sources_count": 18,
+    "first_seen": "2026-11-16T01:22:41.797Z",
+    "last_checked": "2026-11-20T04:24:08.696Z"
   }
 ]

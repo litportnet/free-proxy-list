@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,1316,553,94.4,97,997,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-19T04:27:05.011Z
-http,116.203.139.209,1080,http://116.203.139.209:1080,unknown,false,704,1015,63.3,57,200,193.189.100.203,2,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,11,2025-09-05T20:05:53.687Z,2026-11-19T04:06:21.781Z
-http,116.203.139.209,5678,http://116.203.139.209:5678,unknown,false,646,774,51.9,45.6,191,193.189.100.203,2,se,Stockholm,Stockholm,Europe/Stockholm,41281,KeFF Networks Ltd,11,2025-09-10T19:34:18.975Z,2026-11-19T04:06:06.872Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,654,762,96.5,96.7,998,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-20T04:27:17.688Z
+http,193.181.35.112,8118,http://193.181.35.112:8118,elite,false,8675,1364.5,30.4,32.2,121,193.181.35.112,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,6,2026-11-19T03:01:47.565Z,2026-11-20T04:31:08.080Z

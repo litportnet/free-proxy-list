@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.240.102.149,800,http://77.240.102.149:800,anonymous,false,1995,6351.5,25.6,18.6,404,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-19T04:29:33.704Z
+http,46.23.61.97,8080,http://46.23.61.97:8080,anonymous,false,3532,4178,27.9,26.9,514,46.23.61.97,1,cz,Central Bohemia,Lužná,Europe/Prague,197296,United Networks SE,18,2026-11-07T08:32:50.739Z,2026-11-20T04:29:31.044Z

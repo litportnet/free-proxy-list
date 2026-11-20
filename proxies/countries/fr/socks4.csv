@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,539,586,57.6,40.8,858,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-19T04:27:18.347Z
-socks4,92.205.186.129,1080,socks4://92.205.186.129:1080,elite,false,8461,9674.5,15.1,20.3,359,92.205.186.129,1,fr,Grand Est,Strasbourg,Europe/Paris,21499,Host Europe GmbH,11,2026-06-13T08:09:02.541Z,2026-11-19T04:25:40.072Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,true,563,566,44.6,41.7,868,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-20T04:25:26.616Z
+socks4,57.128.249.250,9052,socks4://57.128.249.250:9052,elite,true,1824,1291.5,22,38.9,791,51.254.44.49,1,fr,Hauts-de-France,Lille,Europe/Paris,16276,OVH SAS,21,2026-07-31T20:24:15.555Z,2026-11-20T04:26:55.426Z

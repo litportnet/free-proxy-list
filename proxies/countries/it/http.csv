@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,561,566.5,92.4,76.4,356,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-19T04:22:32.287Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,483,558,83.3,75.1,956,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-19T04:26:51.298Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,599,596,79.7,63.8,954,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-19T04:25:44.786Z
-http,2.32.175.26,8080,http://2.32.175.26:8080,anonymous,false,7932,3038.5,19.8,16.7,329,2.32.175.26,1,it,Lombardy,San Giuliano Milanese,Europe/Rome,30722,Fastweb SpA,18,2026-11-06T14:23:17.436Z,2026-11-19T04:27:59.651Z
-http,85.208.200.185,8081,http://85.208.200.185:8081,anonymous,false,2986,3433.5,23.4,16,301,195.36.26.60,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2025-09-05T00:23:14.484Z,2026-11-19T04:23:58.600Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,554,561.5,93.8,86.3,424,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-20T04:25:16.115Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,476,502.5,74.8,74.8,952,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-20T04:32:02.205Z
+http,84.8.248.36,3128,http://84.8.248.36:3128,elite,false,4386,4674,19.4,15.7,337,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,24,2026-08-12T10:52:28.127Z,2026-11-20T04:30:19.258Z
+http,149.86.203.217,8080,http://149.86.203.217:8080,anonymous,false,4350,4513.5,14.9,10.8,139,149.86.206.27,1,it,Tuscany,Quarrata,Europe/Rome,60501,Sirius Technology SRL,24,2025-09-04T23:49:18.050Z,2026-11-20T04:30:15.032Z

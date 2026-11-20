@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,false,4375,4880.5,55.6,45.8,600,185.104.186.210,1,be,Flanders,Zaventem,Europe/Brussels,9009,M247 Europe SRL,20,2026-08-24T12:42:33.832Z,2026-11-19T04:21:38.678Z

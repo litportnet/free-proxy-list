@@ -6,11 +6,11 @@
     "url": "http://41.79.233.182:8080",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 4491,
-    "latency_median_ms": 3820,
-    "uptime_24h": 29,
-    "uptime_7d": 20.5,
-    "checks_7d": 541,
+    "latency_ms": 3362,
+    "latency_median_ms": 4743,
+    "uptime_24h": 21.6,
+    "uptime_7d": 19.3,
+    "checks_7d": 478,
     "exit_ip": "41.79.233.182",
     "exit_shared": 1,
     "country": "cd",
@@ -21,6 +21,6 @@
     "asn_org": "Societe Congolaise des Postes et Telecommunications (SCPT)",
     "sources_count": 14,
     "first_seen": "2026-05-21T19:28:42.984Z",
-    "last_checked": "2026-11-19T04:24:52.970Z"
+    "last_checked": "2026-11-20T04:30:37.819Z"
   }
 ]

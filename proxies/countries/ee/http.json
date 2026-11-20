@@ -6,12 +6,12 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 557,
-    "latency_median_ms": 548,
+    "latency_ms": 645,
+    "latency_median_ms": 576,
     "uptime_24h": 98.6,
-    "uptime_7d": 99.7,
-    "checks_7d": 1006,
-    "exit_ip": "172.69.136.172",
+    "uptime_7d": 99.5,
+    "checks_7d": 1005,
+    "exit_ip": "172.69.136.138",
     "exit_shared": 1,
     "country": "ee",
     "region": "Harjumaa",
@@ -21,6 +21,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-19T04:25:51.107Z"
+    "last_checked": "2026-11-20T04:32:00.098Z"
   }
 ]

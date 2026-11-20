@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,38.180.18.103,3128,http://38.180.18.103:3128,anonymous,true,442,445.5,100,100,1007,38.180.18.103,1,be,Brussels Capital,Brussels,Europe/Brussels,9009,M247 Europe SRL,9,2025-09-14T05:46:30.834Z,2026-11-19T04:24:55.639Z
-http,34.140.137.151,80,http://34.140.137.151:80,elite,false,440,450.5,80.9,67.5,915,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,19,2025-10-14T21:28:47.989Z,2026-11-19T04:27:36.860Z
-socks5,49.13.22.249,10808,socks5://49.13.22.249:10808,elite,false,4375,4880.5,55.6,45.8,600,185.104.186.210,1,be,Flanders,Zaventem,Europe/Brussels,9009,M247 Europe SRL,20,2026-08-24T12:42:33.832Z,2026-11-19T04:21:38.678Z
+http,34.140.137.151,80,http://34.140.137.151:80,elite,false,445,449,77.5,68.3,918,34.140.137.151,1,be,Brussels Capital,Brussels,Europe/Brussels,396982,Google LLC,19,2025-10-14T21:28:47.989Z,2026-11-20T04:32:04.847Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,80.96.232.14,8085,http://80.96.232.14:8085,anonymous,false,609,614.5,66.7,,3,80.96.232.14,1,ro,Brăila County,Brăila,Europe/Bucharest,12302,Vodafone Romania S.A.,3,2026-02-26T04:14:57.090Z,2026-11-19T04:22:40.702Z
+http,92.86.207.198,8080,http://92.86.207.198:8080,anonymous,false,2078,3330.5,31,24.7,514,92.86.207.198,1,ro,Dâmbovița County,Târgovişte,Europe/Bucharest,9050,Orange Romania S.A.,25,2025-09-05T20:06:33.735Z,2026-11-20T04:30:15.035Z

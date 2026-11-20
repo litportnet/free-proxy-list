@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.148.99.133,4000,http://31.148.99.133:4000,transparent,true,5241,4443.5,57.1,39.8,264,31.148.99.133,1,gb,England,London,Europe/London,212913,TIME-HOST LTD,19,2026-09-24T12:25:44.818Z,2026-11-19T04:23:08.587Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,1107,1441.5,56.9,33.2,611,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-19T04:25:37.427Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,411,403.5,53.8,48.9,871,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-20T04:27:03.427Z

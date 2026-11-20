@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,4322,1934,65.2,60.2,899,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-11-19T04:27:22.559Z
-socks4,130.193.123.34,5678,socks4://130.193.123.34:5678,elite,true,7934,3875,65.5,56.8,946,130.193.123.34,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,22,2025-09-04T23:02:26.237Z,2026-11-19T04:24:02.261Z
-socks4,212.34.230.102,4153,socks4://212.34.230.102:4153,elite,true,3882,1913,38.1,35.2,724,212.34.230.101,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,21,2026-07-06T02:53:45.276Z,2026-11-19T04:28:57.299Z
+socks4,81.16.9.222,3629,socks4://81.16.9.222:3629,elite,true,1369,2031.5,69.5,61.7,951,81.16.9.222,1,am,Yerevan,Yerevan,Asia/Yerevan,44395,Ucom CJSC,14,2025-09-04T23:49:05.823Z,2026-11-20T04:26:37.903Z

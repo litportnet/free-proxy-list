@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.72.109.214,48293,socks4://109.72.109.214:48293,elite,false,3831,1495,55.6,52,940,109.72.109.214,1,me,Budva,Budva,Europe/Podgorica,43940,"Drustvo za telekomunikacije ""MTEL"" DOO",13,2025-09-05T20:06:36.813Z,2026-11-19T04:29:04.122Z
+socks4,109.72.109.214,48293,socks4://109.72.109.214:48293,elite,true,3758,3746.5,61.2,51.5,941,109.72.109.214,1,me,Budva,Budva,Europe/Podgorica,43940,"Drustvo za telekomunikacije ""MTEL"" DOO",13,2025-09-05T20:06:36.813Z,2026-11-20T04:27:48.817Z

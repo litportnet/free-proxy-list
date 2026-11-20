@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "46.174.121.3",
+    "port": 8090,
+    "url": "socks5://46.174.121.3:8090",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 776,
+    "latency_median_ms": 1295,
+    "uptime_24h": 40.4,
+    "uptime_7d": 35.8,
+    "checks_7d": 799,
+    "exit_ip": "46.174.121.3",
+    "exit_shared": 1,
+    "country": "pl",
+    "region": "Lublin",
+    "city": "Lubartów",
+    "timezone": "Europe/Warsaw",
+    "asn": 3255,
+    "asn_org": "UARNet-Eksintech",
+    "sources_count": 15,
+    "first_seen": "2026-11-12T08:36:04.264Z",
+    "last_checked": "2026-11-20T04:30:13.455Z"
+  }
+]

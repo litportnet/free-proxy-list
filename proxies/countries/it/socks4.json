@@ -6,11 +6,11 @@
     "url": "socks4://91.192.25.37:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 3968,
-    "latency_median_ms": 2137.5,
-    "uptime_24h": 50.4,
-    "uptime_7d": 40.8,
-    "checks_7d": 748,
+    "latency_ms": 9007,
+    "latency_median_ms": 3462.5,
+    "uptime_24h": 52.4,
+    "uptime_7d": 42.8,
+    "checks_7d": 753,
     "exit_ip": "91.192.25.37",
     "exit_shared": 1,
     "country": "it",
@@ -21,6 +21,6 @@
     "asn_org": "T&T Tecnologie e Telecomunicazioni Srl",
     "sources_count": 14,
     "first_seen": "2026-08-28T21:39:30.441Z",
-    "last_checked": "2026-11-19T04:29:49.396Z"
+    "last_checked": "2026-11-20T04:24:01.397Z"
   }
 ]
