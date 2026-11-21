@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "91.144.9.134",
+    "port": 1080,
+    "url": "socks5://91.144.9.134:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 4119,
+    "latency_median_ms": 2888,
+    "uptime_24h": 21.7,
+    "uptime_7d": 24.5,
+    "checks_7d": 489,
+    "exit_ip": "91.144.9.130",
+    "exit_shared": 1,
+    "country": "sy",
+    "region": "Damascus Governorate",
+    "city": "Damascus",
+    "timezone": "Asia/Damascus",
+    "asn": 29256,
+    "asn_org": "STE PDN Internal AS",
+    "sources_count": 14,
+    "first_seen": "2026-11-14T17:05:47.333Z",
+    "last_checked": "2026-11-21T04:30:12.208Z"
+  }
+]

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,116.90.224.50,8080,http://116.90.224.50:8080,anonymous,false,1840,3467,35.5,26.9,625,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,16,2025-11-22T22:41:34.602Z,2026-11-20T04:25:14.569Z
+http,110.34.1.178,7777,http://110.34.1.178:7777,anonymous,false,4656,4882,19.7,27.8,564,110.34.1.178,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",26,2025-09-05T20:06:31.271Z,2026-11-21T04:27:33.248Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "38.210.160.159",
+    "port": 8080,
+    "url": "http://38.210.160.159:8080",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 2621,
+    "latency_median_ms": 2577,
+    "uptime_24h": 23.8,
+    "uptime_7d": 25.7,
+    "checks_7d": 521,
+    "exit_ip": "38.210.160.159",
+    "exit_shared": 1,
+    "country": "cr",
+    "region": "San José",
+    "city": "San José",
+    "timezone": "America/Costa_Rica",
+    "asn": 266853,
+    "asn_org": "Comunicaciones Metropolitanas METROCOM, S.A.",
+    "sources_count": 19,
+    "first_seen": "2026-10-16T22:01:50.670Z",
+    "last_checked": "2026-11-21T04:22:54.221Z"
+  }
+]

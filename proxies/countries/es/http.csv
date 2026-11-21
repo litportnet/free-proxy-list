@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,195.114.209.50,80,http://195.114.209.50:80,elite,false,447,449,94.5,96.7,1005,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-20T04:29:01.466Z
-http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,869,2381.5,84.9,87.1,984,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,12,2026-07-22T23:32:12.809Z,2026-11-20T04:32:38.400Z
-http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,3376,4278,35.7,29.2,681,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-20T04:32:26.129Z
+http,195.114.209.50,80,http://195.114.209.50:80,elite,false,449,450.5,100,96.8,1005,195.114.209.50,1,es,Madrid,Madrid,Europe/Madrid,57286,GIGAS HOSTING S.A.,1,2026-03-17T17:23:33.237Z,2026-11-21T04:28:31.353Z
+http,45.155.226.177,3128,http://45.155.226.177:3128,anonymous,true,961,833,98.6,89.9,985,45.155.226.177,1,es,Madrid,Madrid,Europe/Madrid,141718,haoxiangyun,12,2026-07-22T23:32:12.809Z,2026-11-21T04:25:45.906Z
+http,37.152.91.187,8080,http://37.152.91.187:8080,anonymous,false,3414,3984.5,37.7,32,721,37.152.91.187,1,es,Balearic Islands,Cala Millor,Europe/Madrid,57910,"Soluciones Corporativas IP, SL",14,2026-06-04T12:15:03.830Z,2026-11-21T04:28:32.412Z
+http,2.139.41.14,3128,http://2.139.41.14:3128,anonymous,true,2027,2951,8.6,23,514,2.139.41.14,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,24,2026-09-19T02:36:24.799Z,2026-11-21T04:29:55.824Z

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,860,808.5,95.1,93.2,1002,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-20T04:31:48.411Z
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,1172,669.5,96.6,93.1,964,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-20T04:29:30.514Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,750,1466.5,81.5,81,959,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-20T04:31:52.658Z
-http,61.216.156.222,60808,http://61.216.156.222:60808,elite,false,3185,3202,48.4,17.3,110,61.216.156.222,1,tw,Taipei,Banqiao,Asia/Taipei,3462,Data Communication Business Group,25,2025-09-10T19:34:26.853Z,2026-11-20T04:28:50.918Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,657,665,99.3,94.9,968,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-21T04:21:39.009Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,752,777.5,97.2,94.2,1003,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-21T04:27:18.946Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,827,822.5,90.2,82.1,967,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-21T04:26:07.825Z
+http,103.136.250.154,8080,http://103.136.250.154:8080,elite,false,4859,3720.5,32,24.8,460,103.136.250.154,1,tw,Taiwan,Taipei,Asia/Taipei,138915,Kaopu Cloud HK Limited,17,2026-11-12T04:33:49.704Z,2026-11-21T04:29:48.904Z

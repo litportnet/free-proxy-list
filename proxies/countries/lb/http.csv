@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.82.99.204,92,http://185.82.99.204:92,anonymous,false,3070,3492,18.8,13.9,237,185.82.99.101,1,lb,North Lebanon,Tripoli,Asia/Beirut,42183,NET 360 S.A.R.L,23,2025-09-05T20:06:32.421Z,2026-11-20T04:25:39.348Z

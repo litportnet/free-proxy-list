@@ -6,11 +6,11 @@
     "url": "http://84.55.46.85:8000",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4193,
-    "latency_median_ms": 5596,
-    "uptime_24h": 79.4,
-    "uptime_7d": 73.8,
-    "checks_7d": 760,
+    "latency_ms": 1863,
+    "latency_median_ms": 936,
+    "uptime_24h": 90.1,
+    "uptime_7d": 75.7,
+    "checks_7d": 777,
     "exit_ip": "84.55.46.85",
     "exit_shared": 2,
     "country": "lt",
@@ -21,7 +21,7 @@
     "asn_org": "UAB INIT",
     "sources_count": 2,
     "first_seen": "2025-09-09T16:24:27.179Z",
-    "last_checked": "2026-11-20T04:24:51.518Z"
+    "last_checked": "2026-11-21T04:28:03.411Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://84.55.46.85:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 5015,
-    "latency_median_ms": 4738,
-    "uptime_24h": 74.1,
-    "uptime_7d": 69.3,
-    "checks_7d": 761,
+    "latency_ms": 614,
+    "latency_median_ms": 3697.5,
+    "uptime_24h": 78,
+    "uptime_7d": 70.8,
+    "checks_7d": 778,
     "exit_ip": "84.55.46.85",
     "exit_shared": 2,
     "country": "lt",
@@ -43,8 +43,8 @@
     "timezone": "Europe/Vilnius",
     "asn": 24877,
     "asn_org": "UAB INIT",
-    "sources_count": 5,
+    "sources_count": 6,
     "first_seen": "2025-09-07T11:16:53.444Z",
-    "last_checked": "2026-11-20T04:33:20.561Z"
+    "last_checked": "2026-11-21T04:26:47.536Z"
   }
 ]

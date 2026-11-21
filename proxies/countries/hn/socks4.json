@@ -6,13 +6,13 @@
     "url": "socks4://45.190.13.12:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1446,
-    "latency_median_ms": 960.5,
-    "uptime_24h": 46.1,
-    "uptime_7d": 55.9,
-    "checks_7d": 265,
+    "latency_ms": 1441,
+    "latency_median_ms": 2457,
+    "uptime_24h": 51.1,
+    "uptime_7d": 54.2,
+    "checks_7d": 397,
     "exit_ip": "45.190.13.194",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "hn",
     "region": "Cortés Department",
     "city": "Puerto Cortez",
@@ -21,7 +21,7 @@
     "asn_org": "AIR NETWORK S. DE R. L. DE C.V.",
     "sources_count": 14,
     "first_seen": "2026-11-17T15:42:58.923Z",
-    "last_checked": "2026-11-20T04:26:38.960Z"
+    "last_checked": "2026-11-21T04:21:33.826Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 5678,
     "url": "socks4://181.115.75.102:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 424,
-    "latency_median_ms": 436.5,
-    "uptime_24h": 45,
-    "uptime_7d": 46.2,
-    "checks_7d": 907,
+    "https": false,
+    "latency_ms": 1477,
+    "latency_median_ms": 3470.5,
+    "uptime_24h": 46.6,
+    "uptime_7d": 46.5,
+    "checks_7d": 911,
     "exit_ip": "181.115.75.102",
     "exit_shared": 1,
     "country": "hn",
@@ -45,6 +45,6 @@
     "asn_org": "TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",
     "sources_count": 23,
     "first_seen": "2025-09-04T23:01:57.983Z",
-    "last_checked": "2026-11-20T04:22:51.255Z"
+    "last_checked": "2026-11-21T04:26:14.125Z"
   }
 ]

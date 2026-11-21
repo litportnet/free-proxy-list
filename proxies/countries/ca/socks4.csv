@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,3392,2363.5,47.3,47.4,914,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-20T04:29:38.481Z
+socks4,172.86.84.97,1085,socks4://172.86.84.97:1085,elite,true,1517,2753,22.2,13.3,150,135.19.17.247,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,15,2026-10-13T21:23:42.649Z,2026-11-21T04:26:14.120Z

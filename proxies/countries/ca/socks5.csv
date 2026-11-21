@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,109.105.218.62,1080,socks5://109.105.218.62:1080,elite,true,472,486,55.2,63.9,848,185.156.47.134,1,ca,Ontario,Toronto,America/Toronto,60068,Datacamp Limited,15,2026-11-05T02:04:06.068Z,2026-11-20T04:32:39.982Z
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,201,252,46.2,34.2,697,104.28.214.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-20T04:25:56.878Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,205,275,45.9,36.7,738,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-21T04:25:14.232Z

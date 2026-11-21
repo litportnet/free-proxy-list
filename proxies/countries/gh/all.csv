@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,196.29.231.1,4145,socks4://196.29.231.1:4145,elite,true,1003,1978,41.3,55.9,945,196.29.231.1,1,gh,Greater Accra,Accra,Africa/Accra,33786,K-Net,14,2025-09-04T23:49:04.507Z,2026-11-20T04:26:01.674Z
-http,197.255.125.12,80,http://197.255.125.12:80,elite,false,4304,1445,47,44.9,385,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-11-20T04:25:04.556Z
+http,197.255.125.12,80,http://197.255.125.12:80,elite,false,1346,1634,56.2,46.9,399,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-11-21T04:25:22.428Z

@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,92.86.207.198,8080,http://92.86.207.198:8080,anonymous,false,2078,3330.5,31,24.7,514,92.86.207.198,1,ro,Dâmbovița County,Târgovişte,Europe/Bucharest,9050,Orange Romania S.A.,25,2025-09-05T20:06:33.735Z,2026-11-20T04:30:15.035Z
+http,185.128.240.2,3128,http://185.128.240.2:3128,anonymous,false,3886,4720,28.6,30.3,598,185.128.240.2,1,ro,Mehedinți County,Drobeta-Turnu Severin,Europe/Bucharest,49052,DATA ZYX SRL,17,2025-09-11T19:14:42.877Z,2026-11-21T04:26:18.288Z
+http,89.40.77.249,8787,http://89.40.77.249:8787,elite,false,1202,3594.5,25,15.9,258,109.99.150.102,1,ro,Timiș County,Timişoara,Europe/Bucharest,9050,Orange Romania S.A.,19,2026-10-10T12:41:26.447Z,2026-11-21T04:29:40.148Z

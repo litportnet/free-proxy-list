@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,200.90.136.165,8080,http://200.90.136.165:8080,anonymous,false,3780,4066.5,40,31.5,238,200.90.136.165,1,pa,Panamá,Panama City,America/Panama,18809,Cable Onda,18,2026-11-16T01:22:41.797Z,2026-11-20T04:24:08.696Z
+http,45.229.58.33,999,http://45.229.58.33:999,anonymous,true,9382,2619.5,18,11.6,277,186.72.64.114,1,pa,Panamá,Panama City,America/Panama,11556,Cable & Wireless Panama,22,2025-09-05T20:06:34.963Z,2026-11-21T04:26:13.609Z

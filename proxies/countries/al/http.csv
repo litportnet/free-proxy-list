@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.106.229.208,8989,http://79.106.229.208:8989,anonymous,false,5759,3342.5,8.7,24.4,451,79.106.229.208,1,al,Berat County,Berat,Europe/Tirane,42313,ONE ALBANIA SH.A.,19,2026-10-14T19:35:19.748Z,2026-11-21T04:30:05.356Z
+http,185.89.156.2,44224,http://185.89.156.2:44224,elite,false,7993,3372,25.8,18.4,364,185.89.156.2,1,al,Elbasan County,Cërrik,Europe/Tirane,198279,Albanian Telecommunications Union SH. P.K.,22,2025-09-05T20:06:33.506Z,2026-11-21T04:23:43.019Z
+http,217.24.245.58,8079,http://217.24.245.58:8079,anonymous,false,2565,4421,17.4,17.6,495,217.24.245.58,1,al,Gjirokastër County,Krahës,Europe/Tirane,42313,ONE ALBANIA SH.A.,24,2025-09-11T01:36:36.072Z,2026-11-21T04:26:43.338Z
+http,37.26.86.206,47464,http://37.26.86.206:47464,elite,false,2665,4201,20.9,13.7,307,37.26.86.206,1,al,Tirana,Tirana,Europe/Tirane,198279,Albanian Telecommunications Union SH. P.K.,23,2025-09-08T10:30:16.529Z,2026-11-21T04:25:39.136Z

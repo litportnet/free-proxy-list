@@ -1,40 +1,16 @@
 [
   {
-    "protocol": "socks4",
-    "ip": "196.29.231.1",
-    "port": 4145,
-    "url": "socks4://196.29.231.1:4145",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1003,
-    "latency_median_ms": 1978,
-    "uptime_24h": 41.3,
-    "uptime_7d": 55.9,
-    "checks_7d": 945,
-    "exit_ip": "196.29.231.1",
-    "exit_shared": 1,
-    "country": "gh",
-    "region": "Greater Accra",
-    "city": "Accra",
-    "timezone": "Africa/Accra",
-    "asn": 33786,
-    "asn_org": "K-Net",
-    "sources_count": 14,
-    "first_seen": "2025-09-04T23:49:04.507Z",
-    "last_checked": "2026-11-20T04:26:01.674Z"
-  },
-  {
     "protocol": "http",
     "ip": "197.255.125.12",
     "port": 80,
     "url": "http://197.255.125.12:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 4304,
-    "latency_median_ms": 1445,
-    "uptime_24h": 47,
-    "uptime_7d": 44.9,
-    "checks_7d": 385,
+    "latency_ms": 1346,
+    "latency_median_ms": 1634,
+    "uptime_24h": 56.2,
+    "uptime_7d": 46.9,
+    "checks_7d": 399,
     "exit_ip": "197.255.125.12",
     "exit_shared": 1,
     "country": "gh",
@@ -45,6 +21,6 @@
     "asn_org": "University of Ghana",
     "sources_count": 11,
     "first_seen": "2025-09-10T21:05:11.415Z",
-    "last_checked": "2026-11-20T04:25:04.556Z"
+    "last_checked": "2026-11-21T04:25:22.428Z"
   }
 ]

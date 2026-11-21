@@ -5,11 +5,11 @@
     "port": 46048,
     "url": "socks4://196.0.111.186:46048",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 4353,
-    "latency_median_ms": 2417.5,
-    "uptime_24h": 65.7,
-    "uptime_7d": 66.7,
+    "https": false,
+    "latency_ms": 5325,
+    "latency_median_ms": 2891.5,
+    "uptime_24h": 61.7,
+    "uptime_7d": 65.1,
     "checks_7d": 971,
     "exit_ip": "196.0.111.186",
     "exit_shared": 1,
@@ -21,7 +21,7 @@
     "asn_org": "Uganda Telecom",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:04.470Z",
-    "last_checked": "2026-11-20T04:24:27.420Z"
+    "last_checked": "2026-11-21T04:21:20.786Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 31651,
     "url": "socks4://196.0.113.10:31651",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 6893,
-    "latency_median_ms": 5163.5,
-    "uptime_24h": 57.1,
-    "uptime_7d": 60.2,
-    "checks_7d": 928,
+    "https": true,
+    "latency_ms": 2406,
+    "latency_median_ms": 2390.5,
+    "uptime_24h": 63.8,
+    "uptime_7d": 60.3,
+    "checks_7d": 927,
     "exit_ip": "196.0.113.10",
     "exit_shared": 1,
     "country": "ug",
@@ -45,6 +45,6 @@
     "asn_org": "Uganda Telecom",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:58.150Z",
-    "last_checked": "2026-11-20T04:31:48.944Z"
+    "last_checked": "2026-11-21T04:22:24.719Z"
   }
 ]

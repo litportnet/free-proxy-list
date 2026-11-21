@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,false,721,1173,95.1,90.6,992,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-20T04:30:18.709Z
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,1409,1478.5,95.8,90.7,992,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-21T04:30:17.972Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,756,817.5,58.7,57.3,840,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-11-21T04:29:15.247Z
+socks4,45.32.26.167,30000,socks4://45.32.26.167:30000,elite,false,1049,1049,100,,1,45.32.26.167,1,jp,Tokyo,Ebara,Asia/Tokyo,20473,"The Constant Company, LLC",1,2026-07-20T05:58:29.352Z,2026-11-21T04:28:07.169Z

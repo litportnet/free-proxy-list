@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,525,548,93.6,98.4,1002,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-20T04:27:56.243Z
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,556,550.5,95,98.2,1001,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-20T04:28:45.619Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,559,547.5,91.4,97.8,1002,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-20T04:28:17.955Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,573,562,100,98.4,1001,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-21T04:27:48.609Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,570,571,100,98.2,1003,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-21T04:26:04.164Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,635,571.5,99.3,97.7,1002,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-21T04:25:03.307Z
+http,146.59.14.197,8118,http://146.59.14.197:8118,elite,false,1732,1165.5,21.1,18.1,315,146.59.14.197,1,pl,Mazovia,Warsaw,Europe/Warsaw,16276,OVH SAS,19,2026-10-02T06:57:20.633Z,2026-11-21T04:25:30.820Z
+http,195.205.134.1,8080,http://195.205.134.1:8080,anonymous,false,9754,4095.5,15,14.7,347,195.117.211.22,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,22,2026-06-02T21:54:40.979Z,2026-11-21T04:26:10.462Z
+http,91.203.221.5,8080,http://91.203.221.5:8080,anonymous,true,667,2743,37.1,,35,91.203.221.5,1,pl,Świętokrzyskie,Sędziszów,Europe/Warsaw,202994,Air NET Marcin Gola,18,2026-11-06T13:23:26.971Z,2026-11-21T04:26:43.344Z

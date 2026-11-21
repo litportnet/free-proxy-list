@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.99.175.54,8080,http://103.99.175.54:8080,elite,false,1139,1169.5,98.6,92.6,1003,202.165.193.140,1,pg,Eastern Highlands Province,Goroka,Pacific/Port_Moresby,17828,PNG DATACO LTD,4,2026-09-09T21:22:41.910Z,2026-11-20T04:29:22.036Z
-http,202.165.201.74,3128,http://202.165.201.74:3128,anonymous,true,1503,3936.5,19.2,17.6,193,202.165.201.74,1,pg,National Capital,Port Moresby,Pacific/Port_Moresby,17828,PNG DATACO LTD,19,2026-09-17T05:31:55.422Z,2026-11-20T04:25:57.409Z
+http,103.99.175.54,8080,http://103.99.175.54:8080,elite,false,1151,1168.5,100,93.5,1002,202.165.193.140,1,pg,Eastern Highlands Province,Goroka,Pacific/Port_Moresby,17828,PNG DATACO LTD,4,2026-09-09T21:22:41.910Z,2026-11-21T04:30:34.341Z

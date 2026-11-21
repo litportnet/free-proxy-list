@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,102.0.35.254,1080,socks4://102.0.35.254:1080,elite,true,1610,2389.5,54.4,55,938,102.0.35.254,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,19,2026-09-21T10:05:34.916Z,2026-11-20T04:31:21.834Z
-socks4,102.222.145.8,1080,socks4://102.222.145.8:1080,elite,true,1104,1091.5,32.2,35.9,791,102.222.145.8,1,ke,Mombasa County,Mombasa,Africa/Nairobi,328734,Blue Streak Horizons Net Limited,19,2026-08-11T14:41:12.217Z,2026-11-20T04:24:55.682Z
+socks4,41.139.147.86,5678,socks4://41.139.147.86:5678,elite,false,1316,1353,62.6,62.6,91,41.139.147.86,1,ke,Nairobi County,Nairobi,Africa/Nairobi,37061,Safaricom Limited,10,2025-09-04T23:49:01.367Z,2026-11-21T04:31:08.779Z
+socks4,102.0.35.254,1080,socks4://102.0.35.254:1080,elite,false,1268,2604.5,56.1,55.4,946,102.0.35.254,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,19,2026-09-21T10:05:34.916Z,2026-11-21T04:27:33.759Z
+socks4,102.222.145.8,1080,socks4://102.222.145.8:1080,elite,true,1144,1136,33,35.3,771,102.222.145.8,1,ke,Mombasa County,Mombasa,Africa/Nairobi,328734,Blue Streak Horizons Net Limited,19,2026-08-11T14:41:12.217Z,2026-11-21T04:30:35.426Z

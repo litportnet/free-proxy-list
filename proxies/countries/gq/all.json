@@ -6,11 +6,11 @@
     "url": "socks4://102.164.251.242:4153",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 2093,
-    "latency_median_ms": 2920.5,
-    "uptime_24h": 32.1,
-    "uptime_7d": 37.6,
-    "checks_7d": 724,
+    "latency_ms": 8429,
+    "latency_median_ms": 6302.5,
+    "uptime_24h": 46.9,
+    "uptime_7d": 38.1,
+    "checks_7d": 774,
     "exit_ip": "102.164.251.242",
     "exit_shared": 1,
     "country": "gq",
@@ -21,6 +21,6 @@
     "asn_org": "Gestora de Infraestructuras de Telecomunicaciones de Guinea Ecuatorial",
     "sources_count": 13,
     "first_seen": "2026-08-08T19:05:16.404Z",
-    "last_checked": "2026-11-20T04:26:00.073Z"
+    "last_checked": "2026-11-21T04:30:38.608Z"
   }
 ]

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,411,403.5,53.8,48.9,871,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-20T04:27:03.427Z
+http,31.148.99.133,4000,http://31.148.99.133:4000,transparent,true,4104,4726.5,58.1,50.1,399,31.148.99.133,1,gb,England,London,Europe/London,212913,TIME-HOST LTD,19,2026-09-24T12:25:44.818Z,2026-11-21T04:26:54.313Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,441,428.5,62.1,49.9,871,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-21T04:27:29.991Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,4708,688.5,57.7,28,107,81.19.210.10,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-21T04:25:49.029Z

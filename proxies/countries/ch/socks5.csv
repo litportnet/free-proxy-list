@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,37.18.73.60,5566,socks5://37.18.73.60:5566,elite,false,1254,1152,88,85.7,987,104.244.72.115,1,ch,Bern,Bern,Europe/Zurich,53667,FranTech Solutions,17,2025-09-05T23:19:50.210Z,2026-11-20T04:26:27.740Z

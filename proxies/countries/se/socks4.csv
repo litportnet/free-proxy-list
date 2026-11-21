@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1633,1360.5,72.9,78.3,982,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-20T04:28:08.972Z
-socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,6767,5390.5,46.3,39.5,754,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-20T04:31:27.694Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1098,710,73.5,78.5,975,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-21T04:24:18.285Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,88.198.69.51,1080,socks5://88.198.69.51:1080,elite,false,3241,3248,69.4,35.8,330,154.70.153.57,1,za,Gauteng,Johannesburg,Africa/Johannesburg,212238,Datacamp Limited,13,2026-11-15T00:09:27.498Z,2026-11-20T04:30:07.606Z

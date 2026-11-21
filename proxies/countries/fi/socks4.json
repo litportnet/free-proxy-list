@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "2.56.177.213",
+    "port": 1080,
+    "url": "socks4://2.56.177.213:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4488,
+    "latency_median_ms": 3492,
+    "uptime_24h": 71.4,
+    "uptime_7d": null,
+    "checks_7d": 7,
+    "exit_ip": "2.56.177.213",
+    "exit_shared": 2,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 203273,
+    "asn_org": "NetCrafters OU",
+    "sources_count": 5,
+    "first_seen": "2026-11-21T03:27:04.595Z",
+    "last_checked": "2026-11-21T04:28:18.854Z"
+  }
+]
