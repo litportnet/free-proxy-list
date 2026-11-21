@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,46.246.12.31,1080,socks5://46.246.12.31:1080,elite,true,3323,2735.5,98.6,97,769,46.246.12.31,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys Sweden AB,14,2026-11-16T07:25:59.339Z,2026-11-21T17:32:23.801Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,1207,1228,100,96.7,997,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-21T17:26:18.865Z
+http,79.137.192.114,80,http://79.137.192.114:80,elite,false,993,1033.5,97.2,96.6,1003,104.22.219.92,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",2,2026-09-21T12:07:00.964Z,2026-11-21T17:25:48.108Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1896,3568.5,90.9,88.1,990,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-21T17:28:54.806Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,false,686,2195,73,77.9,975,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-21T17:24:11.672Z
+http,84.22.132.84,2080,http://84.22.132.84:2080,elite,false,1733,1792,62.9,64.9,188,84.32.154.52,1,se,Stockholm,Stockholm,Europe/Stockholm,214159,"UAB ""Cherry Servers""",9,2026-07-14T06:43:05.761Z,2026-11-21T17:27:47.681Z
+http,194.14.207.87,8001,http://194.14.207.87:8001,elite,false,4888,5916.5,50.4,43,880,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-07-08T17:29:52.111Z,2026-11-21T17:32:37.377Z
+socks4,81.228.44.187,65530,socks4://81.228.44.187:65530,elite,true,1423,3751,46.3,40.3,750,81.228.44.187,1,se,Skåne,Malmö,Europe/Stockholm,3301,Telia Company AB,10,2025-09-04T23:49:15.216Z,2026-11-21T17:28:40.046Z
+http,193.181.35.83,8118,http://193.181.35.83:8118,elite,true,529,568.5,38.9,,18,193.181.35.83,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,4,2025-11-18T05:36:57.766Z,2026-11-21T17:27:40.808Z

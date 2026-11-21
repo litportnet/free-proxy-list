@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,true,3828,3268,37.8,33.9,844,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-10-31T14:07:16.201Z,2026-11-21T17:24:20.011Z
+socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,false,3889,3884,31,26.3,688,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,15,2026-10-31T14:07:16.201Z,2026-11-21T17:29:10.643Z
+socks4,194.1.188.8,60606,socks4://194.1.188.8:60606,elite,false,7761,1812.5,29.6,24.3,481,194.1.188.8,1,cz,South Bohemian Region,Vimperk,Europe/Prague,3161,IT PROFI s.r.o.,13,2025-09-05T20:06:35.063Z,2026-11-21T17:25:37.125Z
+http,185.73.103.23,3128,http://185.73.103.23:3128,anonymous,false,3142,4437,25.8,19.6,409,185.73.103.23,1,cz,Carlsbad Region,Karlovy Vary,Europe/Prague,201476,ISP Alliance a.s.,17,2025-09-05T20:06:29.948Z,2026-11-21T17:32:15.962Z
+socks4,185.40.80.143,4153,socks4://185.40.80.143:4153,elite,false,1689,1662,10.5,3.4,88,185.40.80.143,1,cz,Plzeň Region,Klatovy,Europe/Prague,210712,ISP Alliance a.s.,22,2025-09-04T23:49:06.084Z,2026-11-21T17:27:48.733Z

@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,7718,563,100,98.4,1000,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-21T17:26:27.198Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,572,567.5,100,98.2,1003,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-21T17:25:15.243Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,577,571.5,100,97.7,1002,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-21T17:24:44.972Z
+http,91.203.221.5,8080,http://91.203.221.5:8080,anonymous,true,1563,4370,38.1,38.1,105,91.203.221.5,1,pl,Świętokrzyskie,Sędziszów,Europe/Warsaw,202994,Air NET Marcin Gola,18,2026-11-06T13:23:26.971Z,2026-11-21T17:27:18.328Z
+http,146.59.14.197,8118,http://146.59.14.197:8118,elite,false,2256,2263,25.7,19.7,335,146.59.14.197,1,pl,Mazovia,Warsaw,Europe/Warsaw,16276,OVH SAS,19,2026-10-02T06:57:20.633Z,2026-11-21T17:30:09.397Z
+http,148.253.212.68,8080,http://148.253.212.68:8080,elite,true,3483,3964.5,17.8,16.4,263,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,18,2026-10-28T20:32:45.482Z,2026-11-21T17:30:59.643Z

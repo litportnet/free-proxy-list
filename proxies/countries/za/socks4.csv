@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,105.27.180.194,1080,socks4://105.27.180.194:1080,elite,true,4281,2327,71.6,68.4,974,105.27.180.194,1,za,Western Cape,Cape Town,Africa/Johannesburg,37100,SEACOM Limited,13,2026-02-08T01:22:48.172Z,2026-11-21T17:30:14.620Z
+socks4,102.215.245.6,4153,socks4://102.215.245.6:4153,elite,true,1208,2247,48,51.6,904,102.215.245.6,1,za,Gauteng,Benoni,Africa/Johannesburg,329058,INFINITY CONNECT (PTY) LTD,13,2026-07-04T23:41:39.889Z,2026-11-21T17:28:12.775Z
+socks4,160.226.138.129,5678,socks4://160.226.138.129:5678,elite,false,2210,3228.5,37.6,38.5,858,160.226.142.254,1,za,Western Cape,Worcester,Africa/Johannesburg,328178,The Computer Hut cc,11,2025-09-04T23:48:58.447Z,2026-11-21T17:32:07.048Z

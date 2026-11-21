@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,549,558.5,98.6,92.4,635,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-21T17:25:21.492Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,597,568.5,72.7,64.8,932,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-21T17:32:53.134Z
+socks4,5.95.121.180,4153,socks4://5.95.121.180:4153,elite,false,1708,3699.5,52.3,49.3,914,5.95.121.180,1,it,Campania,Sorrento,Europe/Rome,30722,Fastweb SpA,13,2025-09-05T20:05:42.438Z,2026-11-21T17:25:47.589Z
+socks4,91.192.25.158,4145,socks4://91.192.25.158:4145,elite,false,3994,3658,50,42.8,786,91.192.25.158,1,it,Tuscany,Sesto Fiorentino,Europe/Rome,200100,T&T Tecnologie e Telecomunicazioni Srl,13,2025-09-04T23:02:48.083Z,2026-11-21T17:24:32.472Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,2199,3493,32.4,31.8,591,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-21T17:29:31.691Z
+http,2.32.175.26,8080,http://2.32.175.26:8080,anonymous,false,8706,4361,22.4,18.7,327,2.32.175.26,1,it,Lombardy,San Giuliano Milanese,Europe/Rome,30722,Fastweb SpA,18,2026-11-06T14:23:17.436Z,2026-11-21T17:23:42.393Z
+http,185.8.148.81,8085,http://185.8.148.81:8085,anonymous,false,734,5634.5,17.5,15.7,287,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,19,2026-10-12T20:10:22.760Z,2026-11-21T17:31:47.083Z

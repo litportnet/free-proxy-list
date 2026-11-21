@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,150.228.196.238,1080,socks4://150.228.196.238:1080,elite,false,8324,3188.5,48.5,41.4,693,150.228.196.238,1,sb,Honiara,Honiara,Pacific/Guadalcanal,14593,Space Exploration Technologies Corporation,15,2026-11-16T06:25:27.525Z,2026-11-21T17:25:45.466Z

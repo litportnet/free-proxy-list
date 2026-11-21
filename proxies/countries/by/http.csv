@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,91.149.142.139,8080,http://91.149.142.139:8080,anonymous,false,7250,3091,27,23.9,423,91.149.142.139,1,by,Minsk City,Minsk,Europe/Minsk,31143,COSMOS TV JLLC,16,2026-07-04T10:34:06.325Z,2026-11-21T17:25:32.438Z

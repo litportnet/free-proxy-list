@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,167.99.3.26,8000,socks4://167.99.3.26:8000,elite,false,628,503,12.5,7.8,102,168.91.96.10,1,gb,England,Coventry,Europe/London,199741,TransitX BYOIP,7,2026-10-23T21:30:10.145Z,2026-11-21T17:31:51.845Z

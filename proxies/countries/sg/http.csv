@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,157.245.63.249,80,http://157.245.63.249:80,elite,false,877,892.5,100,99.9,1006,104.22.222.20,1,sg,Singapore,Singapore,Asia/Singapore,13335,"Cloudflare, Inc.",3,2026-10-07T19:07:00.858Z,2026-11-21T17:28:12.255Z
+http,97.74.87.226,80,http://97.74.87.226:80,elite,false,868,869.5,97.2,96.7,1004,97.74.87.226,1,sg,Singapore,Singapore,Asia/Singapore,26496,"GoDaddy.com, LLC",13,2025-09-10T19:34:34.181Z,2026-11-21T17:27:12.579Z
+http,165.225.113.220,11589,http://165.225.113.220:11589,elite,false,937,1411,100,96.4,449,165.225.113.216,1,sg,Singapore,Singapore,Asia/Singapore,53813,"ZSCALER, INC.",10,2025-09-13T18:47:41.545Z,2026-11-21T17:28:16.451Z
+http,129.226.93.232,80,http://129.226.93.232:80,elite,false,1062,1023.5,100,96.3,999,43.156.46.175,1,sg,Singapore,Singapore,Asia/Singapore,132203,"Tencent Building, Kejizhongyi Avenue",11,2026-04-12T10:52:48.416Z,2026-11-21T17:30:06.254Z
+http,4.144.146.21,80,http://4.144.146.21:80,anonymous,true,869,876,100,93.6,1000,20.44.210.140,1,sg,Singapore,Singapore,Asia/Singapore,8075,Microsoft Corporation,19,2026-10-03T20:16:56.994Z,2026-11-21T17:26:42.806Z
+http,143.42.66.91,80,http://143.42.66.91:80,elite,false,1674,1605.5,90.7,90.3,990,202.55.67.194,1,sg,Singapore,Singapore,Asia/Singapore,18106,Viewqwest Pte Ltd,1,2026-03-17T17:23:31.721Z,2026-11-21T17:27:26.123Z
+http,8.219.97.248,80,http://8.219.97.248:80,elite,false,3228,3025,72.3,70.6,988,8.219.64.236,1,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",26,2025-09-05T23:20:58.677Z,2026-11-21T17:31:41.806Z
+http,139.162.46.62,3128,http://139.162.46.62:3128,anonymous,true,1279,1282,35.6,37,303,139.162.46.62,1,sg,Singapore,Singapore,Asia/Singapore,63949,Akamai Connected Cloud,11,2025-12-07T00:06:52.837Z,2026-11-21T17:29:46.350Z
+http,201.79.106.25,3128,http://201.79.106.25:3128,elite,true,9210,5999,66.7,,18,201.79.106.25,1,sg,Singapore,Singapore,Asia/Singapore,14061,"DigitalOcean, LLC",4,2026-11-21T14:32:54.806Z,2026-11-21T17:29:19.071Z

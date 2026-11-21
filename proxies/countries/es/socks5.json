@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "49.13.22.249",
+    "port": 10805,
+    "url": "socks5://49.13.22.249:10805",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 7412,
+    "latency_median_ms": 2284,
+    "uptime_24h": 56.9,
+    "uptime_7d": 64.5,
+    "checks_7d": 796,
+    "exit_ip": "135.136.16.192",
+    "exit_shared": 1,
+    "country": "es",
+    "region": "Madrid",
+    "city": "Madrid",
+    "timezone": "Europe/Madrid",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 19,
+    "first_seen": "2026-09-20T18:57:39.355Z",
+    "last_checked": "2026-11-21T17:29:47.936Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "150.228.196.238",
+    "port": 1080,
+    "url": "socks4://150.228.196.238:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8324,
+    "latency_median_ms": 3188.5,
+    "uptime_24h": 48.5,
+    "uptime_7d": 41.4,
+    "checks_7d": 693,
+    "exit_ip": "150.228.196.238",
+    "exit_shared": 1,
+    "country": "sb",
+    "region": "Honiara",
+    "city": "Honiara",
+    "timezone": "Pacific/Guadalcanal",
+    "asn": 14593,
+    "asn_org": "Space Exploration Technologies Corporation",
+    "sources_count": 15,
+    "first_seen": "2026-11-16T06:25:27.525Z",
+    "last_checked": "2026-11-21T17:25:45.466Z"
+  }
+]

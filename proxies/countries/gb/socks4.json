@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "167.99.3.26",
+    "port": 8000,
+    "url": "socks4://167.99.3.26:8000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 628,
+    "latency_median_ms": 503,
+    "uptime_24h": 12.5,
+    "uptime_7d": 7.8,
+    "checks_7d": 102,
+    "exit_ip": "168.91.96.10",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "Coventry",
+    "timezone": "Europe/London",
+    "asn": 199741,
+    "asn_org": "TransitX BYOIP",
+    "sources_count": 7,
+    "first_seen": "2026-10-23T21:30:10.145Z",
+    "last_checked": "2026-11-21T17:31:51.845Z"
+  }
+]

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,193.233.138.240,1080,socks4://193.233.138.240:1080,elite,true,4959,4747,37,42.9,168,77.221.152.59,1,fr,Île-de-France,Paris,Europe/Paris,210644,AEZA GROUP LLC,12,2026-11-20T07:16:22.088Z,2026-11-21T17:32:31.625Z

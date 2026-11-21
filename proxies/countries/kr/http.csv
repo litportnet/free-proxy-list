@@ -1,0 +1,14 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,8.213.151.128,3128,http://8.213.151.128:3128,elite,false,767,772,99.3,99.6,1003,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:32.087Z,2026-11-21T17:27:37.639Z
+http,175.210.254.155,80,http://175.210.254.155:80,elite,false,727,723.5,90.9,91.4,1005,175.210.254.155,1,kr,Gyeonggi-do,Bucheon-si,Asia/Seoul,4766,Korea Telecom,7,2026-07-11T02:58:01.319Z,2026-11-21T17:25:20.974Z
+http,221.153.92.39,80,http://221.153.92.39:80,elite,false,730,729.5,87.6,87.8,997,221.153.92.39,1,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,6,2025-09-10T21:05:12.372Z,2026-11-21T17:26:04.250Z
+http,119.194.72.67,80,http://119.194.72.67:80,elite,false,736,737,87.4,87.8,992,119.194.72.67,1,kr,Gyeonggi-do,Pyeongtaek,Asia/Seoul,4766,Korea Telecom,7,2025-12-07T02:42:24.845Z,2026-11-21T17:31:14.186Z
+http,183.110.216.128,8090,http://183.110.216.128:8090,anonymous,false,748,745.5,85.8,78,967,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,1,2026-03-17T17:23:33.154Z,2026-11-21T17:31:39.721Z
+http,183.110.216.128,8091,http://183.110.216.128:8091,anonymous,false,708,729.5,85.2,77.7,968,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,16,2025-11-26T06:00:22.182Z,2026-11-21T17:28:24.312Z
+http,183.110.216.159,8091,http://183.110.216.159:8091,anonymous,false,741,734,81.7,76.9,980,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-24T23:07:07.917Z,2026-11-21T17:26:36.562Z
+http,183.110.216.159,8090,http://183.110.216.159:8090,anonymous,false,707,740.5,88.7,76.6,971,183.110.216.129,4,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2025-11-22T16:02:13.057Z,2026-11-21T17:24:36.105Z
+http,132.226.175.103,1080,http://132.226.175.103:1080,elite,true,918,826,59.3,66.7,126,132.226.175.103,2,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,14,2026-11-19T04:01:59.702Z,2026-11-21T17:30:18.298Z
+http,222.111.130.73,8080,http://222.111.130.73:8080,elite,true,4691,2189,78.6,63.7,416,222.111.130.73,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2026-10-27T05:11:54.731Z,2026-11-21T17:31:50.795Z
+http,220.116.142.217,80,http://220.116.142.217:80,elite,false,733,1760,70.7,59.9,921,220.116.142.217,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,8,2025-09-10T21:05:11.622Z,2026-11-21T17:30:48.676Z
+http,112.184.234.229,80,http://112.184.234.229:80,elite,false,737,738,62.6,58.9,962,112.184.234.229,1,kr,Gangwon-do,Kosong,Asia/Seoul,4766,Korea Telecom,1,2025-12-07T12:47:40.543Z,2026-11-21T17:31:47.081Z
+http,217.142.139.207,8085,http://217.142.139.207:8085,elite,true,1817,4417.5,52.6,55.5,555,217.142.139.207,1,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,21,2026-09-02T04:34:23.285Z,2026-11-21T17:33:37.871Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,false,1638,1631.5,74.3,70.2,974,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-21T17:24:22.619Z
+socks4,190.119.41.162,1080,socks4://190.119.41.162:1080,elite,false,1651,1678.5,67.3,67.3,113,190.43.17.93,2,pe,Cajamarca Department,Cajamarca,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,13,2026-11-20T21:23:49.639Z,2026-11-21T17:28:14.345Z

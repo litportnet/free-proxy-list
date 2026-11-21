@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,6714,4568.5,72.9,67.3,912,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-21T17:33:02.973Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,true,839,1403,51.9,37.6,194,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-21T17:32:30.569Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,1471,1183.5,53.7,36.9,176,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-21T17:27:20.401Z

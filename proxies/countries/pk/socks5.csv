@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,110.93.218.62,1080,socks5://110.93.218.62:1080,elite,false,9634,4897.5,43.7,37.2,830,110.93.218.62,1,pk,Sindh,Karachi,Asia/Karachi,38193,Transworld Associates (Pvt.) Ltd.,16,2026-10-10T02:35:57.144Z,2026-11-21T17:25:53.818Z
+socks5,103.4.95.90,1080,socks5://103.4.95.90:1080,elite,false,5787,4342.5,29.3,30.7,576,103.4.95.90,1,pk,Punjab,Lahore,Asia/Karachi,45773,"PERN AS Content Servie Provider, Islamabad, Pakistan",16,2026-10-19T06:31:42.799Z,2026-11-21T17:25:44.413Z
+socks5,58.27.213.133,1080,socks5://58.27.213.133:1080,elite,false,4812,4133.5,29.9,30.6,553,58.27.213.133,1,pk,Punjab,Lahore,Asia/Karachi,38264,National WiMAX/IMS environment,16,2026-10-07T05:59:55.579Z,2026-11-21T17:31:02.771Z
+socks5,58.84.31.66,1080,socks5://58.84.31.66:1080,elite,false,9165,3575,21.8,19.9,292,58.84.31.66,1,pk,Punjab,Lahore,Asia/Karachi,17539,NetSol Connect,16,2026-10-13T23:24:45.621Z,2026-11-21T17:27:27.176Z

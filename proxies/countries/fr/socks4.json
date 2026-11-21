@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "193.233.138.240",
+    "port": 1080,
+    "url": "socks4://193.233.138.240:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 4959,
+    "latency_median_ms": 4747,
+    "uptime_24h": 37,
+    "uptime_7d": 42.9,
+    "checks_7d": 168,
+    "exit_ip": "77.221.152.59",
+    "exit_shared": 1,
+    "country": "fr",
+    "region": "Île-de-France",
+    "city": "Paris",
+    "timezone": "Europe/Paris",
+    "asn": 210644,
+    "asn_org": "AEZA GROUP LLC",
+    "sources_count": 12,
+    "first_seen": "2026-11-20T07:16:22.088Z",
+    "last_checked": "2026-11-21T17:32:31.625Z"
+  }
+]

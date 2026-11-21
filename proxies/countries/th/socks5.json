@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "65.21.252.66",
+    "port": 10814,
+    "url": "socks5://65.21.252.66:10814",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 3102,
+    "latency_median_ms": 3327.5,
+    "uptime_24h": 28.1,
+    "uptime_7d": 28.3,
+    "checks_7d": 485,
+    "exit_ip": "103.22.182.249",
+    "exit_shared": 1,
+    "country": "th",
+    "region": "Bangkok",
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "asn": 56309,
+    "asn_org": "Siamdata Communication Co.,Ltd.",
+    "sources_count": 20,
+    "first_seen": "2026-09-17T02:30:16.285Z",
+    "last_checked": "2026-11-21T17:25:44.408Z"
+  }
+]

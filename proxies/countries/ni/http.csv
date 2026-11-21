@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,143.202.254.50,999,http://143.202.254.50:999,anonymous,false,4483,2674.5,41.5,35.9,181,143.202.254.50,1,ni,Managua Department,Managua,America/Managua,264609,TECOMUNICA NICARAGUA,17,2026-11-19T10:05:17.539Z,2026-11-21T17:25:23.039Z

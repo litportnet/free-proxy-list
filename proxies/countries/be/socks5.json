@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "88.198.69.51",
+    "port": 1101,
+    "url": "socks5://88.198.69.51:1101",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1131,
+    "latency_median_ms": 1079,
+    "uptime_24h": 27.5,
+    "uptime_7d": 29.4,
+    "checks_7d": 218,
+    "exit_ip": "31.99.203.152",
+    "exit_shared": 1,
+    "country": "be",
+    "region": "Brussels Capital",
+    "city": "Brussels",
+    "timezone": "Europe/Brussels",
+    "asn": 9009,
+    "asn_org": "M247 Europe SRL",
+    "sources_count": 13,
+    "first_seen": "2026-11-17T17:44:03.066Z",
+    "last_checked": "2026-11-21T17:31:07.395Z"
+  }
+]

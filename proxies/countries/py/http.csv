@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,45.177.16.130,999,http://45.177.16.130:999,anonymous,true,1902,4306,39.8,33.5,771,45.177.16.254,3,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,267885,MSW S.A.,16,2026-07-02T12:07:46.643Z,2026-11-21T17:32:16.997Z
+http,45.177.16.136,999,http://45.177.16.136:999,anonymous,false,2272,3356.5,22.8,29.5,708,45.177.16.254,3,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,267885,MSW S.A.,18,2026-06-18T03:07:20.372Z,2026-11-21T17:31:47.085Z
+http,45.177.16.132,999,http://45.177.16.132:999,anonymous,true,1748,3875,24.3,29.2,645,45.177.16.254,3,py,Alto Paraná Department,Ciudad del Este,America/Asuncion,267885,MSW S.A.,18,2025-09-06T05:36:01.050Z,2026-11-21T17:24:48.152Z
+http,181.121.65.62,999,http://181.121.65.62:999,anonymous,false,4627,4027.5,29.6,26.1,571,181.121.65.62,1,py,Itapúa,Encarnación,America/Asuncion,23201,Telecel S.A.,19,2026-11-07T18:38:01.779Z,2026-11-21T17:31:46.523Z
+http,181.78.94.157,999,http://181.78.94.157:999,anonymous,false,5096,4108.5,25.4,18.4,327,45.150.85.255,1,py,San Pedro Department,Lima,America/Asuncion,52468,UFINET PANAMA S.A.,19,2026-10-14T16:33:42.796Z,2026-11-21T17:29:51.065Z
+http,181.78.27.39,999,http://181.78.27.39:999,anonymous,false,3966,3252.5,10,11.1,126,181.78.27.38,1,py,Asuncion,Asunción,America/Asuncion,52468,UFINET PANAMA S.A.,19,2025-09-08T09:30:54.952Z,2026-11-21T17:27:49.253Z

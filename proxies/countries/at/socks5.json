@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "132.243.168.30",
+    "port": 9150,
+    "url": "socks5://132.243.168.30:9150",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1928,
+    "latency_median_ms": 1595,
+    "uptime_24h": 46.2,
+    "uptime_7d": 46.2,
+    "checks_7d": 580,
+    "exit_ip": "109.70.100.6",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Vienna",
+    "city": "Vienna",
+    "timezone": "Europe/Vienna",
+    "asn": 208323,
+    "asn_org": "Foundation for Applied Privacy",
+    "sources_count": 21,
+    "first_seen": "2026-08-31T03:06:52.990Z",
+    "last_checked": "2026-11-21T17:26:35.507Z"
+  }
+]

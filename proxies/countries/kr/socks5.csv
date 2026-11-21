@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1088,1087,91,92.7,1002,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-21T17:25:49.144Z
+socks5,132.226.175.103,1080,socks5://132.226.175.103:1080,elite,true,1225,1211.5,55.6,64,125,132.226.175.103,2,kr,Seoul,Seoul,Asia/Seoul,31898,Oracle Corporation,12,2026-11-19T04:02:03.058Z,2026-11-21T17:31:14.703Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1081,1079.5,47.8,58.1,962,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-21T17:26:07.361Z
+socks5,61.111.252.148,5555,socks5://61.111.252.148:5555,elite,true,2428,997,58.3,,12,61.111.252.148,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,8,2026-11-21T15:33:26.505Z,2026-11-21T17:26:32.903Z

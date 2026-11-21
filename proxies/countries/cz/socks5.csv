@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,true,3828,3268,37.8,33.9,844,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-10-31T14:07:16.201Z,2026-11-21T17:24:20.011Z
+socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,false,3889,3884,31,26.3,688,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,15,2026-10-31T14:07:16.201Z,2026-11-21T17:29:10.643Z

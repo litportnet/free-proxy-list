@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "149.210.4.75",
+    "port": 18080,
+    "url": "http://149.210.4.75:18080",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 8485,
+    "latency_median_ms": 3895.5,
+    "uptime_24h": 43.1,
+    "uptime_7d": 46.3,
+    "checks_7d": 337,
+    "exit_ip": "149.210.4.75",
+    "exit_shared": 1,
+    "country": "gr",
+    "region": "Attica",
+    "city": "Athens",
+    "timezone": "Europe/Athens",
+    "asn": 29247,
+    "asn_org": "Ote SA (Hellenic Telecommunications Organisation)",
+    "sources_count": 18,
+    "first_seen": "2026-11-19T04:01:59.702Z",
+    "last_checked": "2026-11-21T17:30:24.568Z"
+  }
+]

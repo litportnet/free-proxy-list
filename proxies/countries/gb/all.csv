@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,6714,4568.5,72.9,67.3,912,198.244.254.77,1,gb,England,Bexley,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-21T17:33:02.973Z
+http,81.19.210.10,80,http://81.19.210.10:80,elite,true,839,1403,51.9,37.6,194,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-21T17:32:30.569Z
+http,104.194.146.9,80,http://104.194.146.9:80,elite,true,1471,1183.5,53.7,36.9,176,81.19.210.10,2,gb,England,London,Europe/London,25369,Hydra Communications Ltd,18,2026-06-21T05:46:31.165Z,2026-11-21T17:27:20.401Z
+socks5,65.21.252.66,10808,socks5://65.21.252.66:10808,elite,true,8643,2752.5,40.2,28.2,372,185.206.227.180,1,gb,England,Manchester,Europe/London,9009,M247 Europe SRL,19,2026-08-17T06:52:34.557Z,2026-11-21T17:28:10.682Z
+socks4,167.99.3.26,8000,socks4://167.99.3.26:8000,elite,false,628,503,12.5,7.8,102,168.91.96.10,1,gb,England,Coventry,Europe/London,199741,TransitX BYOIP,7,2026-10-23T21:30:10.145Z,2026-11-21T17:31:51.845Z

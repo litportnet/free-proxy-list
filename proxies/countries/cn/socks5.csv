@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1456,2454,93.7,96.4,1001,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,21,2026-08-26T20:12:07.501Z,2026-11-21T17:26:14.122Z
+socks5,222.211.216.201,7890,socks5://222.211.216.201:7890,elite,false,1979,3515.5,72.3,64.2,357,222.211.216.201,3,cn,Sichuan,Chengdu,Asia/Shanghai,38283,CHINANET SiChuan Telecom Internet Data Center,16,2026-10-27T21:20:33.344Z,2026-11-21T17:32:39.468Z
+socks5,58.19.233.33,1080,socks5://58.19.233.33:1080,elite,false,1399,4839,51.9,50.7,416,58.19.233.33,1,cn,Hubei,Wuhan,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,15,2026-11-18T15:56:01.626Z,2026-11-21T17:32:45.191Z

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "38.49.210.79",
+    "port": 40000,
+    "url": "socks5://38.49.210.79:40000",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1797,
+    "latency_median_ms": 4204,
+    "uptime_24h": 52.2,
+    "uptime_7d": 39.2,
+    "checks_7d": 783,
+    "exit_ip": "104.28.246.50",
+    "exit_shared": 2,
+    "country": "ca",
+    "region": "Quebec",
+    "city": "Montréal",
+    "timezone": "America/Toronto",
+    "asn": 13335,
+    "asn_org": "Cloudflare, Inc.",
+    "sources_count": 22,
+    "first_seen": "2026-06-17T18:01:47.043Z",
+    "last_checked": "2026-11-21T17:27:46.621Z"
+  }
+]

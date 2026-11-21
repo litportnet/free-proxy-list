@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,255,258,97.9,98.7,1008,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-21T17:26:38.135Z
+http,93.123.16.102,80,http://93.123.16.102:80,elite,false,246,255,96.6,96.6,116,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T22:19:33.119Z,2026-11-21T17:32:32.681Z
+http,93.123.16.101,80,http://93.123.16.101:80,elite,false,248,257.5,96.5,96.5,115,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:33.113Z,2026-11-21T17:30:43.853Z
+http,93.123.16.69,80,http://93.123.16.69:80,elite,false,251,257.5,96.5,96.5,114,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:31.145Z,2026-11-21T17:27:41.328Z
+http,93.123.16.66,80,http://93.123.16.66:80,elite,false,253,253.5,96.5,96.5,115,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T21:18:52.286Z,2026-11-21T17:29:53.154Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,264,264,99.3,94,1002,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-21T17:28:37.414Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,262,259,93.8,85.1,971,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-21T17:24:11.666Z
+http,5.104.174.199,23500,http://5.104.174.199:23500,elite,false,9542,3668,25.2,19.6,357,5.104.174.199,1,bg,Dobrich,Dobrich,Europe/Sofia,57344,Telehouse EAD,22,2025-09-05T00:24:27.786Z,2026-11-21T17:29:16.440Z
+http,151.237.84.9,8080,http://151.237.84.9:8080,anonymous,false,9578,3618.5,21.6,17.6,279,151.237.84.9,1,bg,Kardzhali,Kardzhali,Europe/Sofia,48233,Netroniks EOOD,26,2026-04-18T12:25:36.946Z,2026-11-21T17:27:39.231Z

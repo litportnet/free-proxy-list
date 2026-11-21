@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,619,646.5,100,100,1002,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2025-09-06T12:38:44.906Z,2026-11-21T17:28:51.644Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,719,713.5,81.6,68.3,873,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-21T17:27:20.399Z
+http,45.43.60.220,8080,http://45.43.60.220:8080,elite,true,1279,1590.5,67.9,60.6,962,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-21T17:33:20.729Z
+http,13.231.154.29,80,http://13.231.154.29:80,elite,false,635,625,42.9,57.4,338,13.231.154.29,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",15,2026-11-19T05:02:31.553Z,2026-11-21T17:27:47.158Z
+http,160.248.7.177,80,http://160.248.7.177:80,elite,false,1588,3643.5,63.6,54.3,908,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-11-21T17:29:21.752Z
+http,140.227.61.201,3128,http://140.227.61.201:3128,anonymous,false,3619,3625.5,29.9,25.6,586,140.227.61.201,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",22,2025-09-04T23:49:55.722Z,2026-11-21T17:30:57.547Z
+http,160.251.172.183,3128,http://160.251.172.183:3128,elite,true,3669,8151.5,19,25.4,536,160.251.172.183,1,jp,Tokyo,Tokyo,Asia/Tokyo,58791,"GMO Internet, Inc.",15,2026-11-14T12:03:07.072Z,2026-11-21T17:28:04.414Z

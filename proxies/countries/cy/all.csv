@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,212.31.100.138,4153,socks4://212.31.100.138:4153,elite,true,840,883,45.1,40.9,607,212.31.100.138,1,cy,Ammochostos,Ayia Napa,Asia/Famagusta,6866,Cyprus Telecommunications Authority,1,2026-03-17T17:23:30.574Z,2026-11-21T17:25:02.731Z

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,1748,1053,57.8,50.8,720,102.206.49.22,1,de,Rheinland-Pfalz,Mainz,Europe/Berlin,211619,MAXKO d.o.o.,19,2026-08-01T19:38:38.199Z,2026-11-21T17:31:32.514Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,false,653,650.5,52,43.6,789,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-21T17:27:48.204Z
+socks4,5.78.181.0,9052,socks4://5.78.181.0:9052,elite,true,5080,1511,38.7,42.8,839,102.206.50.52,1,de,Hesse,Frankfurt am Main,Europe/Berlin,211619,MAXKO d.o.o.,13,2026-11-11T06:22:09.599Z,2026-11-21T17:33:04.578Z
+socks4,183.90.187.248,9050,socks4://183.90.187.248:9050,elite,false,3554,4104.5,12.5,7.2,111,185.220.101.110,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,20,2026-07-02T02:04:27.471Z,2026-11-21T17:28:33.246Z

@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.74.31.47,20347,socks5://45.74.31.47:20347,elite,false,4865,3564.5,16.7,22.9,393,164.68.100.166,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,12,2026-11-09T19:03:37.840Z,2026-11-21T17:29:47.943Z
+socks5,45.74.31.40,4090,socks5://45.74.31.40:4090,elite,false,1694,1865,32.6,21.8,312,62.210.185.4,5,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,14,2026-10-01T04:50:03.791Z,2026-11-21T17:30:47.638Z
+socks5,45.74.31.47,20346,socks5://45.74.31.47:20346,elite,false,1616,4412.5,20.5,20.5,83,164.68.100.166,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,11,2026-11-20T18:22:18.078Z,2026-11-21T17:25:31.390Z
+socks5,45.74.31.41,4423,socks5://45.74.31.41:4423,elite,false,8651,3780,12.5,17,135,62.210.185.4,5,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,17,2026-09-20T11:53:56.165Z,2026-11-21T17:26:54.853Z
+socks5,45.74.31.47,4113,socks5://45.74.31.47:4113,elite,false,2811,3022.5,25.5,16.7,276,62.210.185.4,5,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,14,2026-09-16T03:18:05.440Z,2026-11-21T17:29:25.414Z
+socks5,45.74.31.40,9830,socks5://45.74.31.40:9830,elite,false,1990,3712,29.1,15.7,191,164.68.100.166,3,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,18,2026-09-15T03:47:12.852Z,2026-11-21T17:29:18.556Z
+socks5,45.74.31.47,4229,socks5://45.74.31.47:4229,elite,true,3346,2971,50,14.1,78,62.210.185.4,5,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,13,2026-09-27T04:59:52.205Z,2026-11-21T17:31:00.692Z
+socks5,45.74.31.42,4151,socks5://45.74.31.42:4151,elite,false,8793,5438,16.7,13.7,161,62.210.185.4,5,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,17,2026-09-09T01:46:24.992Z,2026-11-21T17:28:19.079Z

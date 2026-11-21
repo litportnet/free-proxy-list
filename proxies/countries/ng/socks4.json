@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "41.75.84.86",
+    "port": 4153,
+    "url": "socks4://41.75.84.86:4153",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 924,
+    "latency_median_ms": 1958,
+    "uptime_24h": 53.3,
+    "uptime_7d": 46.8,
+    "checks_7d": 895,
+    "exit_ip": "41.75.84.86",
+    "exit_shared": 1,
+    "country": "ng",
+    "region": "Lagos",
+    "city": "Lagos",
+    "timezone": "Africa/Lagos",
+    "asn": 37282,
+    "asn_org": "Main one Cable Company Nigeria Limited",
+    "sources_count": 21,
+    "first_seen": "2026-07-05T00:42:24.200Z",
+    "last_checked": "2026-11-21T17:29:42.156Z"
+  }
+]

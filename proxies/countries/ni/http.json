@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "143.202.254.50",
+    "port": 999,
+    "url": "http://143.202.254.50:999",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 4483,
+    "latency_median_ms": 2674.5,
+    "uptime_24h": 41.5,
+    "uptime_7d": 35.9,
+    "checks_7d": 181,
+    "exit_ip": "143.202.254.50",
+    "exit_shared": 1,
+    "country": "ni",
+    "region": "Managua Department",
+    "city": "Managua",
+    "timezone": "America/Managua",
+    "asn": 264609,
+    "asn_org": "TECOMUNICA NICARAGUA",
+    "sources_count": 17,
+    "first_seen": "2026-11-19T10:05:17.539Z",
+    "last_checked": "2026-11-21T17:25:23.039Z"
+  }
+]

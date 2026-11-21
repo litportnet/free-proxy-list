@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "213.6.68.210",
+    "port": 4145,
+    "url": "socks4://213.6.68.210:4145",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 794,
+    "latency_median_ms": 828.5,
+    "uptime_24h": 47.4,
+    "uptime_7d": 46.2,
+    "checks_7d": 647,
+    "exit_ip": "213.6.68.210",
+    "exit_shared": 1,
+    "country": "ps",
+    "region": "West Bank",
+    "city": "Nablus",
+    "timezone": "Asia/Hebron",
+    "asn": 12975,
+    "asn_org": "PALTEL Autonomous System",
+    "sources_count": 13,
+    "first_seen": "2025-09-04T23:49:05.420Z",
+    "last_checked": "2026-11-21T17:31:53.410Z"
+  }
+]

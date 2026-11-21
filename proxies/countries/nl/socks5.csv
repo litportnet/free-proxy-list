@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,37.18.73.60,5566,socks5://37.18.73.60:5566,elite,true,1278,1784.5,94.4,88.2,990,192.42.116.61,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,17,2025-09-05T23:19:50.210Z,2026-11-21T17:26:25.111Z
+socks5,188.226.27.24,1080,socks5://188.226.27.24:1080,elite,true,3408,4055.5,85.8,74.9,977,88.210.12.209,2,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,15,2026-11-01T14:20:01.927Z,2026-11-21T17:26:00.078Z
+socks5,89.46.131.79,10000,socks5://89.46.131.79:10000,elite,true,4809,2134,60,62.1,132,45.88.173.244,3,nl,North Holland,Amsterdam,Europe/Amsterdam,216154,CLODO CLOUD SERVICE CO. L.L.C,14,2026-11-20T16:21:13.610Z,2026-11-21T17:25:42.339Z
+socks5,217.12.209.4,1080,socks5://217.12.209.4:1080,elite,false,7949,2248.5,36.9,29.7,740,217.12.209.4,1,nl,North Holland,Amsterdam,Europe/Amsterdam,21100,ROUTE 95 LLC,20,2026-04-19T19:25:59.615Z,2026-11-21T17:31:40.240Z

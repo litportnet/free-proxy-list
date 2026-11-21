@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,88.198.69.51,1081,socks5://88.198.69.51:1081,elite,false,1567,1568.5,36.7,38.8,466,82.47.121.150,1,tr,Istanbul,Istanbul,Europe/Istanbul,212238,Datacamp Limited,13,2026-11-15T01:10:03.200Z,2026-11-21T17:29:03.775Z
+socks5,95.3.92.2,1080,socks5://95.3.92.2:1080,elite,true,1087,2164,41.4,38.3,847,95.3.92.2,1,tr,Istanbul,Istanbul,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,16,2026-09-29T01:23:09.783Z,2026-11-21T17:25:32.964Z
+socks5,87.76.138.46,1080,socks5://87.76.138.46:1080,elite,true,4284,2207,40.4,33.2,720,87.76.138.46,1,tr,Kilis,Kilis,Europe/Istanbul,216472,High Speed For Internet Services L.L.C,15,2026-11-14T14:04:12.181Z,2026-11-21T17:33:11.314Z

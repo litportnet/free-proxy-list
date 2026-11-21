@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,110.34.1.178,7777,http://110.34.1.178:7777,anonymous,true,6898,5843,24,28.5,580,110.34.1.178,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,4007,"Subisu Cablenet (Pvt) Ltd, Baluwatar, Kathmandu, Nepal",26,2025-09-05T20:06:31.271Z,2026-11-21T17:31:13.670Z
+http,110.44.115.83,8080,http://110.44.115.83:8080,elite,false,5824,4349,25.4,16.7,245,110.44.115.83,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,45650,VIA NET COMMUNICATION LTD.,27,2025-09-10T21:03:19.441Z,2026-11-21T17:28:30.617Z
+http,139.5.75.83,8080,http://139.5.75.83:8080,anonymous,false,8334,3201,40.5,15.9,183,139.5.75.83,1,np,Koshi,Dharān,Asia/Kathmandu,17501,WorldLink Communications Pvt Ltd,26,2026-06-06T12:37:50.090Z,2026-11-21T17:27:24.562Z
+http,36.253.25.10,8181,http://36.253.25.10:8181,anonymous,false,4552,4776.5,19,13.9,267,36.253.25.10,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,38565,Ncell Pvt. Ltd.,26,2026-07-27T07:27:04.687Z,2026-11-21T17:28:30.628Z

@@ -1,0 +1,10 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,212.5.132.74,5678,socks4://212.5.132.74:5678,elite,false,1795,1312.5,68.8,77,977,212.5.132.74,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8866,Vivacom Bulgaria EAD,14,2025-09-04T23:48:55.238Z,2026-11-21T17:32:55.734Z
+socks4,77.238.79.111,5678,socks4://77.238.79.111:5678,elite,true,3909,2677.5,74.1,74.9,975,77.238.79.111,1,bg,Sofia-Capital,Sofia,Europe/Sofia,39135,Fiber 1 Ltd.,13,2025-09-04T23:48:55.201Z,2026-11-21T17:29:54.209Z
+socks4,213.149.156.87,5678,socks4://213.149.156.87:5678,elite,true,3908,3868,80,74,953,213.149.156.87,1,bg,Blagoevgrad,Razlog,Europe/Sofia,199702,VIM TV LTD,14,2025-09-04T23:49:00.811Z,2026-11-21T17:24:26.779Z
+socks4,31.13.239.4,5678,socks4://31.13.239.4:5678,elite,true,3767,1222,73.8,71.6,975,31.13.239.4,1,bg,Sofia-Capital,Sofia,Europe/Sofia,34224,Neterra Ltd.,14,2025-09-04T23:49:13.606Z,2026-11-21T17:33:17.586Z
+socks4,91.92.78.207,4145,socks4://91.92.78.207:4145,elite,false,3799,2795,60.9,53.1,930,91.92.78.207,1,bg,Plovdiv,Plovdiv,Europe/Sofia,39251,NETGUARD LLC,13,2025-09-04T23:49:05.473Z,2026-11-21T17:30:48.158Z
+socks4,79.110.118.15,1080,socks4://79.110.118.15:1080,elite,false,8308,1960,60.4,51.1,930,79.110.118.15,1,bg,Shumen,Veliki Preslav,Europe/Sofia,21249,Rutil Ltd.,13,2025-09-05T20:06:32.134Z,2026-11-21T17:31:14.701Z
+socks4,212.50.19.150,4153,socks4://212.50.19.150:4153,elite,true,789,793.5,58.8,49.3,761,212.50.19.150,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,22,2025-09-04T23:48:54.819Z,2026-11-21T17:31:28.824Z
+socks4,109.160.97.49,4145,socks4://109.160.97.49:4145,elite,false,3894,2131.5,59.5,47.5,758,109.160.97.49,1,bg,Ruse,Ruse,Europe/Sofia,205352,KABELNET LTD,23,2025-09-04T23:01:46.884Z,2026-11-21T17:26:38.656Z
+socks4,78.128.124.108,5678,socks4://78.128.124.108:5678,elite,false,3367,875.5,32.1,38.1,779,78.128.124.108,1,bg,Smolyan,Devin,Europe/Sofia,48584,Sarnica-Net LTD,1,2026-03-17T17:23:29.950Z,2026-11-21T17:23:23.715Z

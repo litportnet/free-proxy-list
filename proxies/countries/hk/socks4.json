@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "172.81.111.156",
+    "port": 10001,
+    "url": "socks4://172.81.111.156:10001",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 831,
+    "latency_median_ms": 988,
+    "uptime_24h": 75.2,
+    "uptime_7d": 75.5,
+    "checks_7d": 840,
+    "exit_ip": "172.81.111.156",
+    "exit_shared": 1,
+    "country": "hk",
+    "region": "Kowloon City",
+    "city": "Mantin Heights",
+    "timezone": "Asia/Hong_Kong",
+    "asn": 400618,
+    "asn_org": "Prime Security Corp.",
+    "sources_count": 9,
+    "first_seen": "2026-03-21T05:08:02.746Z",
+    "last_checked": "2026-11-21T17:31:49.230Z"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "82.213.29.53",
+    "port": 19000,
+    "url": "http://82.213.29.53:19000",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 6540,
+    "latency_median_ms": 6031.5,
+    "uptime_24h": 38.7,
+    "uptime_7d": 36.9,
+    "checks_7d": 407,
+    "exit_ip": "178.214.90.5",
+    "exit_shared": 1,
+    "country": "ps",
+    "region": "West Bank",
+    "city": "Ramallah",
+    "timezone": "Asia/Hebron",
+    "asn": 51336,
+    "asn_org": "Gemzo information technology Private Joint-Stock company",
+    "sources_count": 14,
+    "first_seen": "2026-09-08T19:42:55.825Z",
+    "last_checked": "2026-11-21T17:31:50.279Z"
+  }
+]

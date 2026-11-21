@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,602,641,82.8,75.7,769,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-21T17:28:03.877Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,623,632,75.7,71.2,773,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,6,2025-09-07T11:16:53.444Z,2026-11-21T17:31:47.618Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,1825,1799.5,72.9,70.7,981,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-21T17:33:28.508Z
+socks5,49.13.22.249,10809,socks5://49.13.22.249:10809,elite,true,4317,2950.5,35,33.5,645,45.151.45.29,1,lt,Siauliai,Šiauliai,Europe/Vilnius,61272,UAB Bacloud,20,2026-08-25T02:51:25.845Z,2026-11-21T17:27:30.826Z
