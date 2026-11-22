@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,65.21.252.66,10802,socks5://65.21.252.66:10802,elite,false,3169,3893,23.2,23.6,335,185.192.69.27,1,gb,England,London,Europe/London,62240,Clouvider,18,2026-09-17T05:31:54.290Z,2026-11-21T04:22:23.153Z
+socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,798,834.5,63.8,52.2,695,81.168.83.155,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T19:22:14.557Z,2026-11-22T04:24:42.031Z
+socks5,46.101.21.9,10000,socks5://46.101.21.9:10000,elite,true,466,512,74.3,,35,46.101.21.9,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",10,2026-11-21T22:37:12.257Z,2026-11-22T04:27:21.189Z
+socks5,209.97.190.76,10000,socks5://209.97.190.76:10000,elite,false,5887,856,66.7,,6,209.97.190.76,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",1,2026-11-22T03:39:51.687Z,2026-11-22T04:30:01.065Z

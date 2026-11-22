@@ -1,7 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,1863,936,90.1,75.7,777,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-21T04:28:03.411Z
-socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,741,1269,66.4,70.9,978,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-21T04:25:16.829Z
-http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,614,3697.5,78,70.8,778,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,6,2025-09-07T11:16:53.444Z,2026-11-21T04:26:47.536Z
-socks4,185.122.140.167,1080,socks4://185.122.140.167:1080,elite,true,4124,4585.5,83.1,61.1,131,185.122.140.167,2,lt,Vilnius,Vilnius,Europe/Vilnius,43151,"UAB ""STARNITA""",11,2026-11-17T10:40:19.488Z,2026-11-21T04:27:32.716Z
-socks5,185.122.140.167,1080,socks5://185.122.140.167:1080,elite,true,3225,4329,81.9,60.1,138,185.122.140.167,2,lt,Vilnius,Vilnius,Europe/Vilnius,43151,"UAB ""STARNITA""",13,2026-11-17T09:39:47.287Z,2026-11-21T04:28:18.865Z
-socks5,78.63.115.20,8899,socks5://78.63.115.20:8899,elite,false,844,891,19.7,23.7,541,78.63.115.20,1,lt,Vilnius,Vilnius,Europe/Vilnius,8764,"Telia Lietuva, AB",22,2025-09-04T23:50:04.655Z,2026-11-21T04:26:56.399Z
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,4901,4636.5,85.9,77.7,776,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-22T04:32:16.805Z
+socks4,93.93.61.153,1080,socks4://93.93.61.153:1080,elite,true,1717,1900.5,78.6,72.5,981,93.93.61.153,1,lt,Vilnius,Vilnius,Europe/Vilnius,44613,Ogmios centras AS number,21,2026-07-05T07:46:21.191Z,2026-11-22T04:26:44.130Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,523,2138.5,78.7,71.8,779,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,6,2025-09-07T11:16:53.444Z,2026-11-22T04:23:49.418Z
+socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,false,619,1762.5,53.9,48.4,831,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-22T04:27:06.543Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,157.85.98.41,10802,socks5://157.85.98.41:10802,elite,true,1446,1518.5,97.6,,42,157.85.98.41,2,th,Bangkok,Bangkok,Asia/Bangkok,56309,"Siamdata Communication Co.,Ltd.",10,2026-11-21T21:36:39.227Z,2026-11-22T04:29:41.193Z

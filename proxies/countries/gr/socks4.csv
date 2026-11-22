@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,149.210.75.20,1080,socks4://149.210.75.20:1080,elite,true,912,890.5,85.7,,7,149.210.75.20,1,gr,Central Macedonia,Thessaloníki,Europe/Athens,29247,Ote SA (Hellenic Telecommunications Organisation),7,2026-11-21T03:27:04.595Z,2026-11-21T04:26:10.988Z

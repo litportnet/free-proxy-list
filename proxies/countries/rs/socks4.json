@@ -6,11 +6,11 @@
     "url": "socks4://109.245.110.145:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1938,
-    "latency_median_ms": 2089.5,
-    "uptime_24h": 49.6,
-    "uptime_7d": 49.1,
-    "checks_7d": 842,
+    "latency_ms": 8098,
+    "latency_median_ms": 1697,
+    "uptime_24h": 59.2,
+    "uptime_7d": 51.1,
+    "checks_7d": 854,
     "exit_ip": "109.245.110.145",
     "exit_shared": 1,
     "country": "rs",
@@ -21,7 +21,7 @@
     "asn_org": "CETINdoo-NET",
     "sources_count": 22,
     "first_seen": "2026-07-05T16:48:25.730Z",
-    "last_checked": "2026-11-21T04:30:42.803Z"
+    "last_checked": "2026-11-22T04:26:58.678Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 4145,
     "url": "socks4://185.190.154.121:4145",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 788,
-    "latency_median_ms": 1779.5,
-    "uptime_24h": 43.2,
-    "uptime_7d": 42,
-    "checks_7d": 835,
+    "https": false,
+    "latency_ms": 711,
+    "latency_median_ms": 1712,
+    "uptime_24h": 43.5,
+    "uptime_7d": 43.2,
+    "checks_7d": 852,
     "exit_ip": "217.16.130.83",
     "exit_shared": 2,
     "country": "rs",
@@ -45,7 +45,7 @@
     "asn_org": "Jotel d.o.o.",
     "sources_count": 21,
     "first_seen": "2026-07-04T18:38:42.525Z",
-    "last_checked": "2026-11-21T04:23:17.100Z"
+    "last_checked": "2026-11-22T04:24:45.184Z"
   },
   {
     "protocol": "socks4",
@@ -53,12 +53,12 @@
     "port": 4145,
     "url": "socks4://217.16.130.83:4145",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 7834,
-    "latency_median_ms": 1777.5,
-    "uptime_24h": 45.8,
-    "uptime_7d": 41.4,
-    "checks_7d": 868,
+    "https": false,
+    "latency_ms": 698,
+    "latency_median_ms": 1704,
+    "uptime_24h": 35.5,
+    "uptime_7d": 42.6,
+    "checks_7d": 873,
     "exit_ip": "217.16.130.83",
     "exit_shared": 2,
     "country": "rs",
@@ -69,6 +69,6 @@
     "asn_org": "Jotel d.o.o.",
     "sources_count": 17,
     "first_seen": "2026-10-18T03:17:19.217Z",
-    "last_checked": "2026-11-21T04:30:10.108Z"
+    "last_checked": "2026-11-22T04:26:17.371Z"
   }
 ]

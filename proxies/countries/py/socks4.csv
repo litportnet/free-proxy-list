@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,179.189.219.98,4145,socks4://179.189.219.98:4145,elite,false,8085,777.5,59.1,57.2,694,179.189.219.98,1,py,Asuncion,Asunción,America/Asuncion,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),14,2025-09-04T23:48:58.729Z,2026-11-21T04:29:11.547Z
-socks4,190.104.143.94,4153,socks4://190.104.143.94:4153,elite,true,1000,2039,24.7,30.9,670,190.104.143.94,1,py,Asuncion,Asunción,America/Asuncion,27895,Núcleo S.A.,21,2025-09-04T23:49:02.139Z,2026-11-21T04:21:19.219Z
+socks4,179.189.219.98,4145,socks4://179.189.219.98:4145,elite,false,755,1761.5,67.1,60.1,756,179.189.219.98,1,py,Asuncion,Asunción,America/Asuncion,28103,TECNOLOGIA EN ELECTRONICA E INFORMATICA SOCIEDAD ANONIMA (T.E.I.S.A),14,2025-09-04T23:48:58.729Z,2026-11-22T04:30:04.201Z

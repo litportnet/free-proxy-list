@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,129.205.244.158,1080,socks4://129.205.244.158:1080,elite,false,4425,2371,43.4,50.1,920,129.205.244.158,1,bw,Gaborone,Gaborone,Africa/Gaborone,37678,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,14,2025-09-04T23:02:33.696Z,2026-11-21T04:26:11.505Z
-socks4,83.143.24.29,5678,socks4://83.143.24.29:5678,elite,true,4325,4310,42.3,44.1,898,83.143.24.29,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,14,2025-09-04T23:48:58.196Z,2026-11-21T04:27:45.849Z
+socks4,83.143.24.29,5678,socks4://83.143.24.29:5678,elite,true,8489,1784,60.2,46.6,890,83.143.24.29,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,14,2025-09-04T23:48:58.196Z,2026-11-22T04:28:46.303Z

@@ -1,3 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,1469,1211,99.3,96.6,997,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-21T04:30:14.311Z
-http,194.14.207.87,8001,http://194.14.207.87:8001,elite,false,3313,4487,44.2,43.3,883,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-07-08T17:29:52.111Z,2026-11-21T04:30:07.996Z
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,536,545,100,96.7,996,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-22T04:24:31.623Z
+http,84.22.132.84,2080,http://84.22.132.84:2080,elite,true,8338,3290.5,62.1,63.1,252,84.32.154.52,1,se,Stockholm,Stockholm,Europe/Stockholm,214159,"UAB ""Cherry Servers""",9,2026-07-14T06:43:05.761Z,2026-11-22T04:33:14.844Z
+http,194.14.207.87,8001,http://194.14.207.87:8001,elite,false,2674,3095,50,42.6,878,194.14.207.87,1,se,Stockholm,Stockholm,Europe/Stockholm,206170,Yelles AB,19,2026-07-08T17:29:52.111Z,2026-11-22T04:30:27.825Z
+http,172.232.155.226,8118,http://172.232.155.226:8118,elite,true,605,814.5,34,32.7,104,172.232.155.226,1,se,Stockholm,Stockholm,Europe/Stockholm,63949,Akamai Connected Cloud,14,2026-11-19T04:01:59.702Z,2026-11-22T04:29:43.269Z
+http,193.181.35.217,8118,http://193.181.35.217:8118,elite,true,477,807,50,,6,193.181.35.217,1,se,Stockholm,Stockholm,Europe/Stockholm,42201,PVDataNet AB,3,2026-09-20T19:58:16.172Z,2026-11-22T04:31:20.615Z

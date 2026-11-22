@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,2.179.71.54,1080,socks5://2.179.71.54:1080,elite,false,2500,2828,26.2,38.3,692,2.179.71.54,1,ir,Markazi,Arāk,Asia/Tehran,58224,Iran Telecommunication Company PJS,6,2026-10-24T23:44:14.041Z,2026-11-21T04:26:20.881Z

@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,1023,1811.5,18.3,49,590,41.73.242.219,1,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-11-21T04:22:14.311Z
-http,129.222.204.27,10000,http://129.222.204.27:10000,anonymous,false,1512,4336.5,21.4,19.9,408,129.222.204.27,1,ng,Lagos,Lagos,Africa/Lagos,14593,Space Exploration Technologies Corporation,26,2026-06-05T03:24:43.724Z,2026-11-21T04:25:33.944Z
+http,41.184.92.220,80,http://41.184.92.220:80,anonymous,false,1015,1017,77.4,51.5,584,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,11,2026-04-12T22:59:20.773Z,2026-11-22T04:30:16.800Z
+http,41.184.92.221,80,http://41.184.92.221:80,anonymous,false,880,913,62.9,47.7,575,41.73.242.219,2,ng,Lagos,Lagos,Africa/Lagos,16284,Inq. Digital Nigeria,18,2026-08-28T02:30:34.573Z,2026-11-22T04:24:37.353Z

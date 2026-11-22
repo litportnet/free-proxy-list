@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,192.203.0.142,999,http://192.203.0.142:999,anonymous,true,2093,2898.5,26,28.2,436,192.203.0.142,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,24,2026-05-04T08:39:48.827Z,2026-11-21T04:24:27.472Z
-http,67.206.213.202,3120,http://67.206.213.202:3120,anonymous,false,2013,3700.5,26.2,26.4,557,67.206.213.202,2,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-11-21T04:22:11.709Z
+http,67.206.213.202,3120,http://67.206.213.202:3120,anonymous,false,2106,3437,36.4,28,624,67.206.213.202,2,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-11-22T04:30:00.524Z
+http,192.203.0.210,999,http://192.203.0.210:999,anonymous,false,1958,3502,30.8,20.9,393,192.203.0.210,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,15,2025-09-06T10:21:42.213Z,2026-11-22T04:28:37.876Z
+http,23.138.88.96,999,http://23.138.88.96:999,anonymous,false,2117,3661.5,22.8,19.5,302,23.138.88.97,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,21,2025-09-05T20:06:26.778Z,2026-11-22T04:30:55.032Z

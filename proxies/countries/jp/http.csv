@@ -1,5 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,448,674.5,100,100,1006,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-11-21T04:28:13.571Z
-http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,841,840.5,74.3,65.6,865,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-21T04:23:05.686Z
-http,45.43.60.220,8080,http://45.43.60.220:8080,elite,false,8896,1880,59.6,58.7,954,45.43.60.220,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,24,2026-07-23T07:35:31.628Z,2026-11-21T04:22:21.064Z
-http,172.235.215.227,3128,http://172.235.215.227:3128,anonymous,true,763,890.5,46.7,,32,172.235.215.227,1,jp,Osaka,Osaka,Asia/Tokyo,63949,Akamai Connected Cloud,3,2026-11-19T23:12:04.545Z,2026-11-21T04:28:20.983Z
+http,8.209.255.13,3128,http://8.209.255.13:3128,elite,false,2559,897.5,100,100,1007,8.209.255.13,1,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",1,2026-03-17T17:23:33.386Z,2026-11-22T04:31:59.084Z
+http,140.238.32.108,3128,http://140.238.32.108:3128,elite,true,641,1426.5,81.4,69.6,873,140.238.32.108,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,22,2026-07-05T22:00:26.420Z,2026-11-22T04:27:19.631Z
+http,160.248.7.177,80,http://160.248.7.177:80,elite,false,7848,3610,61.2,54.7,913,160.248.7.177,1,jp,Kanagawa,Yokohama,Asia/Tokyo,2514,"NTT PC Communications, Inc.",19,2025-09-10T22:05:25.259Z,2026-11-22T04:27:45.849Z
+http,13.231.154.29,80,http://13.231.154.29:80,elite,true,662,636,36.6,54.1,401,13.231.154.29,1,jp,Tokyo,Tokyo,Asia/Tokyo,16509,"Amazon.com, Inc.",16,2026-11-19T05:02:31.553Z,2026-11-22T04:30:04.719Z
+http,151.243.153.157,8118,http://151.243.153.157:8118,elite,false,3017,802.5,29.9,36.7,611,151.243.153.157,1,jp,Tokyo,Tokyo,Asia/Tokyo,400506,Black Apple,25,2026-06-06T22:41:19.122Z,2026-11-22T04:32:34.055Z
+http,140.83.58.118,80,http://140.83.58.118:80,elite,false,7996,1817.5,46.7,33.6,286,140.83.58.118,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,4,2026-11-10T00:06:34.381Z,2026-11-22T04:25:50.079Z
+http,168.138.47.101,3128,http://168.138.47.101:3128,anonymous,false,818,2295.5,32.7,27.4,515,168.138.47.101,1,jp,Osaka,Osaka,Asia/Tokyo,31898,Oracle Corporation,17,2026-11-02T13:32:08.613Z,2026-11-22T04:23:40.578Z

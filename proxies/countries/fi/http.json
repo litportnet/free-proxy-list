@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "45.130.127.10",
+    "port": 80,
+    "url": "http://45.130.127.10:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 519,
+    "latency_median_ms": 511.5,
+    "uptime_24h": 87.8,
+    "uptime_7d": 97.6,
+    "checks_7d": 1000,
+    "exit_ip": "45.130.127.10",
+    "exit_shared": 1,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 215540,
+    "asn_org": "GLOBAL CONNECTIVITY SOLUTIONS LLP",
+    "sources_count": 7,
+    "first_seen": "2026-10-13T20:23:27.401Z",
+    "last_checked": "2026-11-22T04:28:13.698Z"
+  }
+]

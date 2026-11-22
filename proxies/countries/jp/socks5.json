@@ -6,11 +6,11 @@
     "url": "socks5://103.13.19.219:10808",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 960,
-    "latency_median_ms": 1497,
+    "latency_ms": 1335,
+    "latency_median_ms": 1153,
     "uptime_24h": 95.8,
-    "uptime_7d": 90.7,
-    "checks_7d": 992,
+    "uptime_7d": 90.9,
+    "checks_7d": 993,
     "exit_ip": "103.13.19.219",
     "exit_shared": 2,
     "country": "jp",
@@ -21,7 +21,7 @@
     "asn_org": "BUNNY TECHNOLOGY LLC",
     "sources_count": 14,
     "first_seen": "2026-11-10T23:18:31.110Z",
-    "last_checked": "2026-11-21T04:28:15.183Z"
+    "last_checked": "2026-11-22T04:29:48.507Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://101.36.104.239:10808",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1002,
-    "latency_median_ms": 1402.5,
-    "uptime_24h": 84.4,
-    "uptime_7d": 86,
-    "checks_7d": 994,
+    "latency_ms": 1953,
+    "latency_median_ms": 967.5,
+    "uptime_24h": 86.8,
+    "uptime_7d": 87,
+    "checks_7d": 995,
     "exit_ip": "101.36.104.239",
     "exit_shared": 1,
     "country": "jp",
@@ -45,7 +45,7 @@
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
     "sources_count": 19,
     "first_seen": "2026-03-21T08:09:48.039Z",
-    "last_checked": "2026-11-21T04:25:17.878Z"
+    "last_checked": "2026-11-22T04:32:07.973Z"
   },
   {
     "protocol": "socks5",
@@ -54,11 +54,11 @@
     "url": "socks5://101.36.104.46:10808",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1365,
-    "latency_median_ms": 1605,
-    "uptime_24h": 74.8,
-    "uptime_7d": 83.2,
-    "checks_7d": 986,
+    "latency_ms": 2341,
+    "latency_median_ms": 1602.5,
+    "uptime_24h": 89.5,
+    "uptime_7d": 84.9,
+    "checks_7d": 994,
     "exit_ip": "101.36.104.46",
     "exit_shared": 1,
     "country": "jp",
@@ -69,6 +69,6 @@
     "asn_org": "UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED",
     "sources_count": 19,
     "first_seen": "2026-03-22T05:21:02.311Z",
-    "last_checked": "2026-11-21T04:22:27.320Z"
+    "last_checked": "2026-11-22T04:27:09.672Z"
   }
 ]

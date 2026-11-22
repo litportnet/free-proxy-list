@@ -1,16 +1,40 @@
 [
   {
     "protocol": "http",
+    "ip": "156.38.112.11",
+    "port": 80,
+    "url": "http://156.38.112.11:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1052,
+    "latency_median_ms": 1425,
+    "uptime_24h": 78.9,
+    "uptime_7d": 73.3,
+    "checks_7d": 791,
+    "exit_ip": "156.38.112.11",
+    "exit_shared": 1,
+    "country": "gh",
+    "region": "Central",
+    "city": "Cape Coast",
+    "timezone": "Africa/Accra",
+    "asn": 328212,
+    "asn_org": "THE UNIVERSITY OF CAPE COAST",
+    "sources_count": 19,
+    "first_seen": "2025-09-10T19:34:54.808Z",
+    "last_checked": "2026-11-22T04:28:43.166Z"
+  },
+  {
+    "protocol": "http",
     "ip": "197.255.125.12",
     "port": 80,
     "url": "http://197.255.125.12:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1346,
-    "latency_median_ms": 1634,
-    "uptime_24h": 56.2,
-    "uptime_7d": 46.9,
-    "checks_7d": 399,
+    "latency_ms": 1339,
+    "latency_median_ms": 1330.5,
+    "uptime_24h": 57.1,
+    "uptime_7d": 50,
+    "checks_7d": 502,
     "exit_ip": "197.255.125.12",
     "exit_shared": 1,
     "country": "gh",
@@ -21,6 +45,6 @@
     "asn_org": "University of Ghana",
     "sources_count": 11,
     "first_seen": "2025-09-10T21:05:11.415Z",
-    "last_checked": "2026-11-21T04:25:22.428Z"
+    "last_checked": "2026-11-22T04:27:41.643Z"
   }
 ]

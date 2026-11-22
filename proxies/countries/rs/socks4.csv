@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,1938,2089.5,49.6,49.1,842,109.245.110.145,1,rs,Central Serbia,Svilajnac,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-11-21T04:30:42.803Z
-socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,true,788,1779.5,43.2,42,835,217.16.130.83,2,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,21,2026-07-04T18:38:42.525Z,2026-11-21T04:23:17.100Z
-socks4,217.16.130.83,4145,socks4://217.16.130.83:4145,elite,true,7834,1777.5,45.8,41.4,868,217.16.130.83,2,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,17,2026-10-18T03:17:19.217Z,2026-11-21T04:30:10.108Z
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,8098,1697,59.2,51.1,854,109.245.110.145,1,rs,Central Serbia,Svilajnac,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-11-22T04:26:58.678Z
+socks4,185.190.154.121,4145,socks4://185.190.154.121:4145,elite,false,711,1712,43.5,43.2,852,217.16.130.83,2,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,21,2026-07-04T18:38:42.525Z,2026-11-22T04:24:45.184Z
+socks4,217.16.130.83,4145,socks4://217.16.130.83:4145,elite,false,698,1704,35.5,42.6,873,217.16.130.83,2,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,17,2026-10-18T03:17:19.217Z,2026-11-22T04:26:17.371Z

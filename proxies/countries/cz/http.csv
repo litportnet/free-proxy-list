@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,95.129.101.73,80,http://95.129.101.73:80,elite,false,5843,6554.5,38.9,42.5,699,95.129.101.73,1,cz,South Moravian,Brno,Europe/Prague,24641,FASTER CZ spol. s r.o.,19,2025-09-08T03:28:25.725Z,2026-11-21T04:21:05.122Z
-http,185.73.103.23,3128,http://185.73.103.23:3128,anonymous,false,4253,4059.5,23.4,18.9,375,185.73.103.23,1,cz,Carlsbad Region,Karlovy Vary,Europe/Prague,201476,ISP Alliance a.s.,17,2025-09-05T20:06:29.948Z,2026-11-21T04:22:45.919Z
-http,78.108.110.171,8080,http://78.108.110.171:8080,elite,true,1326,2687,73.7,,19,78.108.110.171,1,cz,Plzeň Region,Kozolupy,Europe/Prague,8251,"FreeTel, s.r.o.",23,2026-09-19T22:46:55.933Z,2026-11-21T04:28:43.590Z
+http,77.240.102.149,800,http://77.240.102.149:800,anonymous,false,8602,3967.5,16.4,19.8,450,77.240.102.149,1,cz,Prague,Prague,Europe/Prague,42189,Druzstvo EUROSIGNAL,25,2026-08-28T00:29:00.430Z,2026-11-22T04:30:32.557Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,95.216.8.124,1087,socks5://95.216.8.124:1087,elite,false,1341,1379.5,42,33.1,157,216.97.228.178,1,it,Lombardy,Milan,Europe/Rome,212238,Datacamp Limited,14,2026-11-18T06:51:02.107Z,2026-11-21T04:23:50.781Z
+socks5,91.199.137.149,2010,socks5://91.199.137.149:2010,elite,true,1788,1519.5,56.7,38.7,284,158.173.77.8,2,it,Lombardy,Milan,Europe/Rome,206092,F.N.S. HOLDINGS LIMITED,15,2026-11-17T21:46:09.466Z,2026-11-22T04:25:44.839Z

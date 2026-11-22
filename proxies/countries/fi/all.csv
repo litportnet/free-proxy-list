@@ -1,3 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,2.56.177.213,1080,socks4://2.56.177.213:1080,elite,true,4488,3492,71.4,,7,2.56.177.213,2,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,5,2026-11-21T03:27:04.595Z,2026-11-21T04:28:18.854Z
-socks5,2.56.177.213,1080,socks5://2.56.177.213:1080,elite,false,7743,1643.5,84.6,,13,2.56.177.213,2,fi,Uusimaa,Helsinki,Europe/Helsinki,203273,NetCrafters OU,9,2026-11-21T02:26:33.608Z,2026-11-21T04:26:24.539Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,519,511.5,87.8,97.6,1000,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-22T04:28:13.698Z
+socks4,185.230.191.85,1080,socks4://185.230.191.85:1080,elite,true,953,961,91.2,70.3,74,185.230.191.85,2,fi,Uusimaa,Helsinki,Europe/Helsinki,212706,LIVI HOSTING LTD,10,2026-09-25T02:33:13.704Z,2026-11-22T04:30:58.693Z
+socks5,185.230.191.85,1080,socks5://185.230.191.85:1080,elite,true,790,1083,88.1,45.6,114,185.230.191.85,2,fi,Uusimaa,Helsinki,Europe/Helsinki,212706,LIVI HOSTING LTD,14,2026-09-25T00:32:10.465Z,2026-11-22T04:30:01.052Z
+socks5,65.109.196.122,2080,socks5://65.109.196.122:2080,elite,false,756,805.5,31.2,35.1,804,104.28.254.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",15,2026-08-16T18:46:19.356Z,2026-11-22T04:24:22.226Z
+socks5,65.108.151.224,1080,socks5://65.108.151.224:1080,elite,true,767,814.5,100,,42,65.108.151.224,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,11,2026-11-21T21:36:57.318Z,2026-11-22T04:28:32.593Z
+socks4,65.108.151.224,1080,socks4://65.108.151.224:1080,elite,true,7881,636.5,97.2,,36,65.108.151.224,2,fi,Uusimaa,Helsinki,Europe/Helsinki,24940,Hetzner Online GmbH,7,2026-11-21T22:37:11.487Z,2026-11-22T04:24:56.162Z

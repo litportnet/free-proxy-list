@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,4471,1507,95.1,96.9,1001,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,21,2026-08-26T20:12:07.501Z,2026-11-21T04:26:21.396Z
-socks5,111.231.166.199,1080,socks5://111.231.166.199:1080,elite,false,3623,2994,68.8,71.4,416,111.231.166.199,1,cn,Shanghai,Shanghai,Asia/Shanghai,45090,Shenzhen Tencent Computer Systems Company Limited,15,2026-11-18T04:49:50.016Z,2026-11-21T04:26:45.436Z
-socks5,222.184.87.224,8989,socks5://222.184.87.224:8989,elite,true,2694,2694,100,,1,222.184.87.224,1,cn,Jiangsu,Nanjing,Asia/Shanghai,4134,CHINANET BACKBONE,3,2026-08-22T07:14:04.616Z,2026-11-21T04:28:12.501Z
+socks5,113.249.111.67,1080,socks5://113.249.111.67:1080,elite,true,1473,1495,93,96,1001,113.249.111.67,1,cn,Chongqing,Chongqing,Asia/Shanghai,134420,Chongqing Telecom,21,2026-08-26T20:12:07.501Z,2026-11-22T04:28:27.365Z
+socks5,222.211.216.201,7890,socks5://222.211.216.201:7890,elite,true,1503,2966,71.4,66.3,418,222.211.216.201,3,cn,Sichuan,Chengdu,Asia/Shanghai,38283,CHINANET SiChuan Telecom Internet Data Center,16,2026-10-27T21:20:33.344Z,2026-11-22T04:28:35.746Z
+socks5,58.19.233.33,1080,socks5://58.19.233.33:1080,elite,false,8734,2441.5,56.7,52.5,478,58.19.233.33,1,cn,Hubei,Wuhan,Asia/Shanghai,4837,CHINA UNICOM China169 Backbone,15,2026-11-18T15:56:01.626Z,2026-11-22T04:27:00.767Z

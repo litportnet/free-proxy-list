@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,652,656.5,58.8,51.5,716,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-08-01T19:38:38.199Z,2026-11-22T04:28:47.351Z
+socks4,81.168.119.85,443,socks4://81.168.119.85:443,elite,false,3665,1058,23.1,8.6,116,81.168.119.85,2,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,8,2026-05-21T11:17:56.933Z,2026-11-22T04:25:58.996Z
+socks4,72.36.32.222,9050,socks4://72.36.32.222:9050,elite,false,7680,7432,9.1,2.6,77,137.220.120.168,1,gb,England,London,Europe/London,56478,Hyperoptic Ltd,19,2026-05-07T04:12:20.271Z,2026-11-22T04:32:22.548Z
+socks4,46.101.21.9,10000,socks4://46.101.21.9:10000,elite,true,376,397,66.7,,30,46.101.21.9,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",9,2026-11-21T23:37:38.452Z,2026-11-22T04:26:53.988Z
+socks4,159.65.27.1,10000,socks4://159.65.27.1:10000,elite,true,391,414,73.9,,23,159.65.27.1,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",7,2026-11-22T00:38:18.572Z,2026-11-22T04:24:47.800Z

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,109.72.100.113,48293,socks4://109.72.100.113:48293,elite,false,3788,1511.5,56.6,65.8,967,109.72.100.113,1,me,Podgorica,Podgorica,Europe/Podgorica,43940,"Drustvo za telekomunikacije ""MTEL"" DOO",17,2025-12-14T12:16:49.089Z,2026-11-21T04:26:17.239Z
-socks4,109.72.109.214,48293,socks4://109.72.109.214:48293,elite,true,809,1758.5,54.7,51.7,940,109.72.109.214,1,me,Budva,Budva,Europe/Podgorica,43940,"Drustvo za telekomunikacije ""MTEL"" DOO",13,2025-09-05T20:06:36.813Z,2026-11-21T04:24:39.956Z
-socks4,109.72.107.227,48293,socks4://109.72.107.227:48293,elite,false,950,889.5,24.4,21,486,109.72.107.227,1,me,Budva,Budva,Europe/Podgorica,43940,Drustvo za telekomunikacije MTEL DOO,13,2025-09-06T05:35:39.939Z,2026-11-21T04:30:09.052Z
+socks4,109.72.109.214,48293,socks4://109.72.109.214:48293,elite,false,8016,1766,45.3,52.1,935,109.72.109.214,1,me,Budva,Budva,Europe/Podgorica,43940,"Drustvo za telekomunikacije ""MTEL"" DOO",13,2025-09-05T20:06:36.813Z,2026-11-22T04:25:39.056Z

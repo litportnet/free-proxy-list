@@ -1,2 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,40.177.65.8,80,http://40.177.65.8:80,elite,false,234,266.5,100,100,1005,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-21T04:26:29.785Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,324,283,100,100,1006,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-22T04:29:07.224Z
+http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,2868,3300,55.9,46.4,815,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-22T04:30:08.950Z
+http,173.181.143.245,80,http://173.181.143.245:80,elite,false,2091,4305,43.1,37.4,797,173.181.143.245,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,15,2025-09-09T19:49:52.324Z,2026-11-22T04:30:33.092Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,4225,3673,25.6,27,544,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-22T04:27:13.851Z
+http,70.38.101.182,40000,http://70.38.101.182:40000,elite,true,1646,3191,74.3,,37,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",6,2026-11-20T22:24:26.050Z,2026-11-22T04:26:52.441Z

@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.40,20415,socks5://45.74.31.40:20415,elite,false,3834,3834,100,,6,102.134.101.35,1,bi,Bujumbura Mairie,Bujumbura,Africa/Bujumbura,37545,Burundi Backbone System SM,7,2026-11-16T22:33:52.807Z,2026-11-21T04:28:13.058Z

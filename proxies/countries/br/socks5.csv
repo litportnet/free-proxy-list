@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,186.233.119.183,1080,socks5://186.233.119.183:1080,elite,false,6407,3868.5,47.7,49,302,186.233.119.183,1,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,266181,GOLDEN LINK,15,2026-11-19T22:11:41.036Z,2026-11-22T04:28:08.459Z
+socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,false,3993,4003,46.3,42.6,897,45.179.145.12,1,br,Goiás,Valparaíso de Goiás,America/Sao_Paulo,269089,Hilan Telecom Ltda,14,2026-07-29T05:52:08.923Z,2026-11-22T04:22:24.243Z

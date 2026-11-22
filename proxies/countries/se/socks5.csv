@@ -1,5 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.246.12.31,1080,socks5://46.246.12.31:1080,elite,true,2267,2682,97.2,96.8,691,46.246.12.31,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys Sweden AB,14,2026-11-16T07:25:59.339Z,2026-11-21T04:23:12.426Z
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,4910,3781,93.6,87.7,990,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-21T04:23:05.684Z
-socks5,65.21.252.66,10805,socks5://65.21.252.66:10805,elite,true,6067,4219.5,66.9,64,756,185.209.199.74,1,se,Västra Götaland,Gothenburg,Europe/Stockholm,39351,31173 Services AB,18,2026-09-21T21:11:29.587Z,2026-11-21T04:26:00.472Z
-socks5,195.201.246.53,1085,socks5://195.201.246.53:1085,elite,false,1058,1050,39.1,29,304,169.40.130.207,1,se,Stockholm,Stockholm,Europe/Stockholm,9009,M247 Europe SRL,15,2026-10-27T16:18:14.603Z,2026-11-21T04:27:26.329Z
+socks5,46.246.12.31,1080,socks5://46.246.12.31:1080,elite,true,4049,3618,96.5,96.8,833,46.246.12.31,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys Sweden AB,14,2026-11-16T07:25:59.339Z,2026-11-22T04:30:54.513Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,false,5481,4499.5,92.3,88.7,990,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-22T04:32:24.630Z

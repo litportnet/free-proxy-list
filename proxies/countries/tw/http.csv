@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,657,665,99.3,94.9,968,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-21T04:21:39.009Z
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,752,777.5,97.2,94.2,1003,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-21T04:27:18.946Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,827,822.5,90.2,82.1,967,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-21T04:26:07.825Z
-http,103.136.250.154,8080,http://103.136.250.154:8080,elite,false,4859,3720.5,32,24.8,460,103.136.250.154,1,tw,Taiwan,Taipei,Asia/Taipei,138915,Kaopu Cloud HK Limited,17,2026-11-12T04:33:49.704Z,2026-11-21T04:29:48.904Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,657,674,89.5,93.9,968,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-22T04:30:17.338Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,806,772,90.1,93.5,1002,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-22T04:29:12.960Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,8376,7238.5,54.9,76.4,958,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-22T04:25:00.881Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,5027,2865.5,79.9,65.8,959,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-22T04:27:02.858Z
+http,210.201.86.72,8080,http://210.201.86.72:8080,anonymous,false,3720,3924.5,17.7,18.9,366,210.201.86.72,1,tw,Taiwan,Taichung,Asia/Taipei,7482,Asia Pacific On-line Service Inc.,23,2025-09-04T23:49:55.088Z,2026-11-22T04:23:05.237Z

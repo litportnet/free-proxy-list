@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,196.1.97.198,80,http://196.1.97.198:80,elite,false,680,750.5,94.4,88.8,999,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,19,2025-12-06T18:03:11.613Z,2026-11-21T04:28:37.142Z
-http,196.1.93.10,80,http://196.1.93.10:80,elite,false,710,828,88.2,86,991,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-11-21T04:27:50.196Z
-http,154.65.39.8,80,http://154.65.39.8:80,elite,false,749,771.5,84.9,78,960,154.65.39.8,1,sn,Dakar,Dakar,Africa/Dakar,37649,SAGA AFRICA HOLDINGS LIMITED,20,2025-09-10T19:34:33.119Z,2026-11-21T04:27:03.778Z
-http,196.1.93.16,80,http://196.1.93.16:80,elite,false,815,825,80,72.7,961,196.1.93.16,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,12,2025-09-10T21:05:10.863Z,2026-11-21T04:24:15.189Z
-http,196.1.95.124,80,http://196.1.95.124:80,elite,false,694,803,100,49.6,111,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,10,2025-09-04T23:49:35.054Z,2026-11-21T04:26:55.884Z
+http,196.1.97.198,80,http://196.1.97.198:80,elite,false,727,1520.5,92.3,89,998,196.1.97.198,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,19,2025-12-06T18:03:11.613Z,2026-11-22T04:23:55.677Z
+http,196.1.93.10,80,http://196.1.93.10:80,elite,false,6888,4595,57.9,82,990,196.1.93.10,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,11,2025-09-04T23:49:29.089Z,2026-11-22T04:28:31.012Z
+http,196.1.95.124,80,http://196.1.95.124:80,elite,false,651,671,94.4,79.5,239,196.1.95.124,1,sn,Dakar,Dakar,Africa/Dakar,329407,Universite Cheikh Anta DIOP de DAKAR,10,2025-09-04T23:49:35.054Z,2026-11-22T04:24:59.829Z
+http,154.65.39.8,80,http://154.65.39.8:80,elite,false,2042,2751.5,70.9,75.4,951,154.65.39.8,1,sn,Dakar,Dakar,Africa/Dakar,37649,SAGA AFRICA HOLDINGS LIMITED,20,2025-09-10T19:34:33.119Z,2026-11-22T04:26:18.956Z
