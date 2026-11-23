@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.196.182.29,8080,http://185.196.182.29:8080,anonymous,false,1947,2780,37.3,28.4,623,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,20,2026-10-01T11:53:48.940Z,2026-11-22T04:32:52.802Z
+http,185.196.182.29,8080,http://185.196.182.29:8080,anonymous,true,5221,4138.5,25,28.7,621,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,20,2026-10-01T11:53:48.940Z,2026-11-23T04:29:43.858Z
+http,66.186.199.33,8080,http://66.186.199.33:8080,anonymous,false,3610,3915.5,26.6,22.5,525,66.186.199.33,1,al,Vlorë County,Vlorë,Europe/Tirane,21183,Vodafone Albania Sh.A.,26,2026-04-12T11:53:22.452Z,2026-11-23T04:27:38.628Z

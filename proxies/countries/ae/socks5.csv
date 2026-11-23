@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,195.201.246.53,1100,socks5://195.201.246.53:1100,elite,false,2163,2249.5,46.7,41.5,282,151.242.128.81,1,ae,Fujairah,Fujairah,Asia/Dubai,212238,Datacamp Limited,14,2026-11-13T09:49:20.979Z,2026-11-23T04:28:44.974Z

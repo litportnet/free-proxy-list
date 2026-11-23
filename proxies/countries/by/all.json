@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "91.149.142.139",
+    "port": 8080,
+    "url": "http://91.149.142.139:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3008,
+    "latency_median_ms": 3719.5,
+    "uptime_24h": 30.9,
+    "uptime_7d": 25.6,
+    "checks_7d": 535,
+    "exit_ip": "91.149.142.139",
+    "exit_shared": 1,
+    "country": "by",
+    "region": "Minsk City",
+    "city": "Minsk",
+    "timezone": "Europe/Minsk",
+    "asn": 31143,
+    "asn_org": "COSMOS TV JLLC",
+    "sources_count": 17,
+    "first_seen": "2026-07-04T10:34:06.325Z",
+    "last_checked": "2026-11-23T04:21:52.795Z"
+  }
+]

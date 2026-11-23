@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,195.250.92.58,8080,http://195.250.92.58:8080,anonymous,false,7533,3991.5,17,16.3,331,195.250.92.58,1,am,Yerevan,Yerevan,Asia/Yerevan,49800,GNC-Alfa CJSC,18,2026-03-02T02:03:54.686Z,2026-11-23T04:27:55.829Z

@@ -6,11 +6,11 @@
     "url": "socks5://46.246.12.31:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4049,
-    "latency_median_ms": 3618,
-    "uptime_24h": 96.5,
-    "uptime_7d": 96.8,
-    "checks_7d": 833,
+    "latency_ms": 2056,
+    "latency_median_ms": 2107.5,
+    "uptime_24h": 100,
+    "uptime_7d": 97.2,
+    "checks_7d": 973,
     "exit_ip": "46.246.12.31",
     "exit_shared": 1,
     "country": "se",
@@ -21,7 +21,7 @@
     "asn_org": "Glesys Sweden AB",
     "sources_count": 14,
     "first_seen": "2026-11-16T07:25:59.339Z",
-    "last_checked": "2026-11-22T04:30:54.513Z"
+    "last_checked": "2026-11-23T04:25:44.590Z"
   },
   {
     "protocol": "socks5",
@@ -30,11 +30,11 @@
     "url": "socks5://171.25.158.95:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 5481,
-    "latency_median_ms": 4499.5,
-    "uptime_24h": 92.3,
-    "uptime_7d": 88.7,
-    "checks_7d": 990,
+    "latency_ms": 7058,
+    "latency_median_ms": 1149.5,
+    "uptime_24h": 97.9,
+    "uptime_7d": 91.9,
+    "checks_7d": 993,
     "exit_ip": "171.25.158.95",
     "exit_shared": 1,
     "country": "se",
@@ -45,6 +45,6 @@
     "asn_org": "Patrik Lagerman",
     "sources_count": 20,
     "first_seen": "2026-05-02T10:06:59.800Z",
-    "last_checked": "2026-11-22T04:32:24.630Z"
+    "last_checked": "2026-11-23T04:30:17.245Z"
   }
 ]

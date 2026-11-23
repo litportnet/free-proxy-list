@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,37.211.65.11,8080,http://37.211.65.11:8080,anonymous,false,7341,4464,25.6,20.9,398,37.211.65.11,1,qa,Baladiyat ar Rayyan,Ar Rayyān,Asia/Qatar,8781,Ooredoo Q.S.C.,19,2026-10-28T06:25:20.587Z,2026-11-22T04:30:36.234Z

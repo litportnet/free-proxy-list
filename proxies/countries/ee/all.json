@@ -6,8 +6,8 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 515,
-    "latency_median_ms": 523.5,
+    "latency_ms": 691,
+    "latency_median_ms": 518,
     "uptime_24h": 100,
     "uptime_7d": 99.5,
     "checks_7d": 1006,
@@ -21,30 +21,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-22T04:24:12.857Z"
-  },
-  {
-    "protocol": "socks4",
-    "ip": "185.157.111.3",
-    "port": 5678,
-    "url": "socks4://185.157.111.3:5678",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 7841,
-    "latency_median_ms": 3718.5,
-    "uptime_24h": 75.9,
-    "uptime_7d": 76,
-    "checks_7d": 974,
-    "exit_ip": "185.157.111.3",
-    "exit_shared": 1,
-    "country": "ee",
-    "region": "Võrumaa",
-    "city": "Vana-Antsla",
-    "timezone": "Europe/Tallinn",
-    "asn": 202652,
-    "asn_org": "Elevi AS",
-    "sources_count": 22,
-    "first_seen": "2026-07-04T17:38:40.433Z",
-    "last_checked": "2026-11-22T04:32:49.273Z"
+    "last_checked": "2026-11-23T04:22:55.053Z"
   }
 ]

@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,226,267.5,50.4,40.5,801,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-22T04:29:44.837Z
-socks5,162.254.178.133,1080,socks5://162.254.178.133:1080,elite,false,373,2357.5,40.2,35,744,162.254.178.133,1,ca,Ontario,Ignace,America/Winnipeg,397128,Celerity Telecom,15,2026-10-27T10:14:41.865Z,2026-11-22T04:30:09.486Z
-socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,true,3790,3116,53.6,33.9,218,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",13,2026-11-19T19:10:04.602Z,2026-11-22T04:33:28.482Z
+socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,true,224,222.5,65.2,45.9,355,104.28.214.50,2,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",14,2026-11-19T19:10:04.602Z,2026-11-23T04:24:23.970Z

@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,798,834.5,63.8,52.2,695,81.168.83.155,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T19:22:14.557Z,2026-11-22T04:24:42.031Z
-socks5,46.101.21.9,10000,socks5://46.101.21.9:10000,elite,true,466,512,74.3,,35,46.101.21.9,3,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",10,2026-11-21T22:37:12.257Z,2026-11-22T04:27:21.189Z
-socks5,209.97.190.76,10000,socks5://209.97.190.76:10000,elite,false,5887,856,66.7,,6,209.97.190.76,1,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",1,2026-11-22T03:39:51.687Z,2026-11-22T04:30:01.065Z
+socks5,159.65.27.1,10000,socks5://159.65.27.1:10000,elite,true,479,481,58.2,59.4,170,159.65.27.1,2,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",13,2026-11-21T23:37:43.806Z,2026-11-23T04:27:39.151Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1049,1050,48.8,41.3,802,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-07-31T18:22:54.655Z,2026-11-23T04:21:13.175Z
+socks5,78.129.141.197,1080,socks5://78.129.141.197:1080,elite,true,3592,1610,34.8,36.6,533,78.129.141.197,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,14,2026-11-18T04:49:50.016Z,2026-11-23T04:22:51.896Z

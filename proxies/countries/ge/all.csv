@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,1854,1856.5,62.1,50.8,914,85.117.32.166,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-11-22T04:33:22.688Z
-socks4,85.117.60.118,1080,socks4://85.117.60.118:1080,elite,false,1830,1820.5,58,49.9,914,85.117.60.118,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,14,2026-11-12T09:36:36.051Z,2026-11-22T04:28:52.045Z
+socks4,85.117.32.166,4153,socks4://85.117.32.166:4153,elite,false,3835,839.5,65,52,922,85.117.32.166,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,21,2026-07-04T18:38:41.976Z,2026-11-23T04:28:20.337Z
+socks4,85.117.60.118,1080,socks4://85.117.60.118:1080,elite,true,1813,1838,68.6,51.6,916,85.117.60.118,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,14,2026-11-12T09:36:36.051Z,2026-11-23T04:27:02.791Z
+http,85.117.56.117,8080,http://85.117.56.117:8080,anonymous,false,5488,7744,50,11,154,85.117.56.115,1,ge,Kvemo Kartli,Marneuli,Asia/Tbilisi,20771,Caucasus Online Ltd.,15,2025-09-07T14:19:59.156Z,2026-11-23T04:24:09.602Z

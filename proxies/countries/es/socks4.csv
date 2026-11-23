@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,false,695,1212.5,73.1,67.3,944,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,1,2026-03-17T17:23:30.560Z,2026-11-22T04:30:53.992Z
-socks4,84.236.185.247,61710,socks4://84.236.185.247:61710,elite,true,3662,1657,53.9,43.6,528,84.236.185.247,1,es,Madrid,Madrid,Europe/Madrid,29119,AIRE NETWORKS DEL MEDITERRANEO SL UNIPERSONAL,14,2025-09-04T23:02:13.590Z,2026-11-22T04:31:31.583Z
+socks4,83.56.15.57,5678,socks4://83.56.15.57:5678,elite,true,682,1709.5,75.2,68.8,974,83.56.15.57,1,es,Madrid,Madrid,Europe/Madrid,3352,TELEFONICA DE ESPANA S.A.U.,23,2025-09-04T23:48:54.216Z,2026-11-23T04:28:21.914Z
+socks4,185.130.219.10,4153,socks4://185.130.219.10:4153,elite,true,621,624,53.1,40.4,835,185.130.219.10,1,es,Valencia,Javea,Europe/Madrid,56697,SUIS BOGA TELECOM SL,13,2025-09-04T23:49:12.078Z,2026-11-23T04:26:48.659Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.13.38.213,1080,socks5://45.13.38.213:1080,elite,true,899,822.5,96.6,,29,45.13.38.213,1,ro,Timiș County,Timişoara,Europe/Bucharest,47890,UNMANAGED LTD,7,2026-07-03T03:17:38.201Z,2026-11-23T04:28:11.978Z

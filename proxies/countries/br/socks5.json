@@ -6,13 +6,13 @@
     "url": "socks5://186.233.119.183:1080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 6407,
-    "latency_median_ms": 3868.5,
-    "uptime_24h": 47.7,
-    "uptime_7d": 49,
-    "checks_7d": 302,
+    "latency_ms": 3274,
+    "latency_median_ms": 3271.5,
+    "uptime_24h": 50,
+    "uptime_7d": 49.2,
+    "checks_7d": 433,
     "exit_ip": "186.233.119.183",
-    "exit_shared": 1,
+    "exit_shared": 3,
     "country": "br",
     "region": "Rio de Janeiro",
     "city": "Rio de Janeiro",
@@ -21,7 +21,7 @@
     "asn_org": "GOLDEN LINK",
     "sources_count": 15,
     "first_seen": "2026-11-19T22:11:41.036Z",
-    "last_checked": "2026-11-22T04:28:08.459Z"
+    "last_checked": "2026-11-23T04:25:58.675Z"
   },
   {
     "protocol": "socks5",
@@ -29,12 +29,12 @@
     "port": 6080,
     "url": "socks5://45.179.145.12:6080",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 3993,
-    "latency_median_ms": 4003,
-    "uptime_24h": 46.3,
+    "https": true,
+    "latency_ms": 8113,
+    "latency_median_ms": 2122,
+    "uptime_24h": 45.2,
     "uptime_7d": 42.6,
-    "checks_7d": 897,
+    "checks_7d": 890,
     "exit_ip": "45.179.145.12",
     "exit_shared": 1,
     "country": "br",
@@ -45,6 +45,6 @@
     "asn_org": "Hilan Telecom Ltda",
     "sources_count": 14,
     "first_seen": "2026-07-29T05:52:08.923Z",
-    "last_checked": "2026-11-22T04:22:24.243Z"
+    "last_checked": "2026-11-23T04:21:15.823Z"
   }
 ]

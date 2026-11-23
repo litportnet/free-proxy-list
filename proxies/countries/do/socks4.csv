@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,38.51.48.179,5678,socks4://38.51.48.179:5678,elite,true,360,377.5,15.6,23.3,301,38.51.48.178,2,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,272011,TELEMARCH S.R.L,15,2026-11-07T11:34:30.525Z,2026-11-23T04:24:56.785Z
+socks4,190.93.188.196,1080,socks4://190.93.188.196:1080,elite,true,375,337,12.5,15.1,371,190.93.188.194,1,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,269908,JOSE DIGITAL MEDIA DOMINICANA SRL,13,2026-07-24T19:53:06.148Z,2026-11-23T04:25:57.634Z
+socks4,38.51.48.180,5678,socks4://38.51.48.180:5678,elite,false,360,370,10.8,13.2,190,38.51.48.178,2,do,Santiago Province,Santiago de los Caballeros,America/Santo_Domingo,272011,TELEMARCH S.R.L,13,2026-11-16T09:27:03.935Z,2026-11-23T04:25:41.434Z

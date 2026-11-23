@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,159.196.104.26,1080,socks4://159.196.104.26:1080,elite,true,1288,1376.5,100,,4,159.196.104.26,1,au,New South Wales,Sydney,Australia/Sydney,4764,Aussie Fibre Pty Ltd,4,2026-10-28T07:25:46.520Z,2026-11-23T04:21:16.891Z

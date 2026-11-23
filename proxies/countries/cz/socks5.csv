@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,88.198.69.51,1086,socks5://88.198.69.51:1086,elite,true,1016,995.5,60.3,43.4,355,91.124.31.215,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,15,2026-11-15T19:19:36.653Z,2026-11-22T04:26:39.914Z
-socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,true,742,1834,40,35.2,852,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-10-31T14:07:16.201Z,2026-11-22T04:24:53.027Z
-socks5,176.62.237.51,1080,socks5://176.62.237.51:1080,elite,false,3885,3891.5,33.1,30.7,620,176.62.237.51,1,cz,South Bohemian Region,Vlachovo Březí,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-11-06T06:18:58.776Z,2026-11-22T04:31:35.723Z
-socks5,78.80.149.106,1080,socks5://78.80.149.106:1080,elite,false,1760,2804,29.6,30.6,467,78.80.149.106,1,cz,Prague,Prague,Europe/Prague,13036,T-Mobile Czech Republic a.s.,15,2026-11-16T13:29:10.762Z,2026-11-22T04:30:57.663Z
+socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,true,1758,4011,47.8,37.1,860,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-10-31T14:07:16.201Z,2026-11-23T04:28:47.589Z
+socks5,88.198.69.51,1100,socks5://88.198.69.51:1100,elite,true,1032,1034.5,36.5,33.7,335,46.203.158.36,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,15,2026-11-16T05:24:54.682Z,2026-11-23T04:28:50.726Z
+socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,true,803,2839.5,32,27.1,660,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,15,2026-10-31T14:07:16.201Z,2026-11-23T04:28:32.406Z

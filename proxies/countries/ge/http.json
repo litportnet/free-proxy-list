@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "85.117.56.117",
+    "port": 8080,
+    "url": "http://85.117.56.117:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 5488,
+    "latency_median_ms": 7744,
+    "uptime_24h": 50,
+    "uptime_7d": 11,
+    "checks_7d": 154,
+    "exit_ip": "85.117.56.115",
+    "exit_shared": 1,
+    "country": "ge",
+    "region": "Kvemo Kartli",
+    "city": "Marneuli",
+    "timezone": "Asia/Tbilisi",
+    "asn": 20771,
+    "asn_org": "Caucasus Online Ltd.",
+    "sources_count": 15,
+    "first_seen": "2025-09-07T14:19:59.156Z",
+    "last_checked": "2026-11-23T04:24:09.602Z"
+  }
+]

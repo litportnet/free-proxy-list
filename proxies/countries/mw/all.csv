@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,216.234.216.76,1080,socks5://216.234.216.76:1080,elite,false,9859,2530.5,43.4,47.2,125,216.234.216.76,1,mw,Central Region,Lilongwe,Africa/Blantyre,14593,Space Exploration Technologies Corporation,12,2026-11-21T02:26:33.608Z,2026-11-22T04:27:07.071Z
+socks5,216.234.216.76,1080,socks5://216.234.216.76:1080,elite,false,1809,2856.5,44.3,45.6,237,216.234.216.76,1,mw,Central Region,Lilongwe,Africa/Blantyre,14593,Space Exploration Technologies Corporation,14,2026-11-21T02:26:33.608Z,2026-11-23T04:20:05.675Z

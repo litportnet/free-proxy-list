@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,87.226.22.225,80,http://87.226.22.225:80,elite,false,566,568,87.5,76.6,418,87.226.22.225,1,lv,Riga,Riga,Europe/Riga,20910,"SIA ""BITE Latvija""",3,2026-04-14T06:15:14.643Z,2026-11-23T04:27:44.854Z

@@ -6,10 +6,10 @@
     "url": "http://27.109.158.122:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 826,
-    "latency_median_ms": 865.5,
-    "uptime_24h": 90.9,
-    "uptime_7d": 94.6,
+    "latency_ms": 909,
+    "latency_median_ms": 900,
+    "uptime_24h": 90.3,
+    "uptime_7d": 93.8,
     "checks_7d": 1003,
     "exit_ip": "27.109.158.122",
     "exit_shared": 1,
@@ -21,7 +21,7 @@
     "asn_org": "Companhia de Telecomunicacoes de Macau SARL",
     "sources_count": 3,
     "first_seen": "2026-04-14T08:16:21.091Z",
-    "last_checked": "2026-11-22T04:31:19.043Z"
+    "last_checked": "2026-11-23T04:28:50.203Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://27.109.207.84:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 814,
-    "latency_median_ms": 907,
-    "uptime_24h": 65.7,
-    "uptime_7d": 47.8,
-    "checks_7d": 807,
+    "latency_ms": 819,
+    "latency_median_ms": 809.5,
+    "uptime_24h": 74.7,
+    "uptime_7d": 54.3,
+    "checks_7d": 844,
     "exit_ip": "27.109.207.84",
     "exit_shared": 1,
     "country": "mo",
@@ -45,6 +45,6 @@
     "asn_org": "Companhia de Telecomunicacoes de Macau SARL",
     "sources_count": 6,
     "first_seen": "2026-07-19T02:40:11.103Z",
-    "last_checked": "2026-11-22T04:27:24.865Z"
+    "last_checked": "2026-11-23T04:30:04.725Z"
   }
 ]

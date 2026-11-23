@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,91.107.179.68,10809,socks5://91.107.179.68:10809,elite,false,918,973,80.1,74.7,977,104.28.207.218,1,de,Saxony,Leipzig,Europe/Berlin,13335,"Cloudflare, Inc.",20,2026-09-13T03:21:50.152Z,2026-11-22T04:28:20.508Z
-socks5,176.115.192.185,1080,socks5://176.115.192.185:1080,elite,true,1173,1227.5,39.7,41.3,496,31.76.64.124,1,de,Hesse,Frankfurt am Main,Europe/Berlin,207957,SERV.HOST GROUP LTD,14,2026-11-18T04:49:50.016Z,2026-11-22T04:31:25.804Z
-socks5,168.119.187.186,3128,socks5://168.119.187.186:3128,elite,true,716,732,100,,42,168.119.187.186,3,de,Saxony,Falkenstein,Europe/Berlin,24940,Hetzner Online GmbH,8,2026-11-21T21:36:35.205Z,2026-11-22T04:29:14.511Z
+socks5,91.107.179.68,10809,socks5://91.107.179.68:10809,elite,true,739,772,84.6,74.4,977,104.28.207.219,1,de,Saxony,Leipzig,Europe/Berlin,13335,"Cloudflare, Inc.",20,2026-09-13T03:21:50.152Z,2026-11-23T04:27:14.224Z
+socks5,46.232.249.209,40001,socks5://46.232.249.209:40001,elite,false,1799,1121,59.5,44.9,801,104.28.225.120,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-19T22:40:13.134Z,2026-11-23T04:21:22.628Z
+socks5,47.245.165.201,1080,socks5://47.245.165.201:1080,elite,false,6133,2371.5,43.8,11.9,168,47.245.165.201,1,de,Hesse,Frankfurt am Main,Europe/Berlin,45102,"Alibaba (US) Technology Co., Ltd.",20,2026-07-31T10:18:39.621Z,2026-11-23T04:25:53.984Z

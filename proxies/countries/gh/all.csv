@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,156.38.112.11,80,http://156.38.112.11:80,elite,false,1052,1425,78.9,73.3,791,156.38.112.11,1,gh,Central,Cape Coast,Africa/Accra,328212,THE UNIVERSITY OF CAPE COAST,19,2025-09-10T19:34:54.808Z,2026-11-22T04:28:43.166Z
-http,197.255.125.12,80,http://197.255.125.12:80,elite,false,1339,1330.5,57.1,50,502,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-11-22T04:27:41.643Z
+http,156.38.112.11,80,http://156.38.112.11:80,elite,false,1160,1356.5,87.9,75.4,792,156.38.112.11,1,gh,Central,Cape Coast,Africa/Accra,328212,THE UNIVERSITY OF CAPE COAST,19,2025-09-10T19:34:54.808Z,2026-11-23T04:28:53.876Z
+http,197.255.125.12,80,http://197.255.125.12:80,elite,false,1486,1303,86.9,60.6,586,197.255.125.12,1,gh,Greater Accra,Accra,Africa/Accra,37074,University of Ghana,11,2025-09-10T21:05:11.415Z,2026-11-23T04:22:50.202Z
+socks4,196.29.231.1,4145,socks4://196.29.231.1:4145,elite,true,4005,1992.5,66.9,57,930,196.29.231.1,1,gh,Greater Accra,Accra,Africa/Accra,33786,K-Net,14,2025-09-04T23:49:04.507Z,2026-11-23T04:21:08.382Z

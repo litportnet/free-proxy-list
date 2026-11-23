@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,49.13.22.249,10803,socks5://49.13.22.249:10803,elite,true,1536,2600,48.8,47.6,786,146.70.130.218,1,ie,Leinster,Dublin,Europe/Dublin,9009,M247 Europe SRL,20,2026-09-16T03:18:05.440Z,2026-11-23T04:20:35.635Z
+socks5,49.13.22.249,10807,socks5://49.13.22.249:10807,elite,true,6939,4697,45.8,41.5,632,155.2.194.3,1,ie,Leinster,Dublin,Europe/Dublin,212238,Datacamp Limited,18,2026-09-22T16:21:33.920Z,2026-11-23T04:24:41.157Z
+socks5,45.74.31.41,7864,socks5://45.74.31.41:7864,elite,true,3624,4566.5,22.4,25.5,435,135.236.141.99,1,ie,Leinster,Dublin,Europe/Dublin,8075,Microsoft Corporation,15,2026-10-14T05:27:52.270Z,2026-11-23T04:27:00.697Z

@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,154.72.67.190,8080,http://154.72.67.190:8080,anonymous,false,2836,4245,37,38.3,342,154.72.67.190,1,tz,Dar es Salaam Region,Dar es Salaam,Africa/Dar_es_Salaam,30844,Liquid Telecommunications Ltd,23,2025-09-08T03:28:23.119Z,2026-11-23T04:20:09.374Z
+http,41.78.170.178,8040,http://41.78.170.178:8040,anonymous,true,1933,3466.5,33.7,27.1,403,41.78.170.178,1,tz,Kilimanjaro,Moshi,Africa/Dar_es_Salaam,36909,Habari Node Public Limited,21,2026-09-02T14:40:55.994Z,2026-11-23T04:23:49.332Z

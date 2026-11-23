@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1595,769,78.9,78.8,977,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-22T04:24:29.019Z
-socks4,89.110.98.72,9050,socks4://89.110.98.72:9050,elite,true,4526,4170,11.1,1.6,63,171.25.193.40,1,se,Stockholm,Stockholm,Europe/Stockholm,198093,Foreningen for digitala fri- och rattigheter,9,2026-05-07T03:07:13.097Z,2026-11-22T04:32:00.156Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,582,581.5,91.7,80.3,981,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-23T04:23:40.512Z

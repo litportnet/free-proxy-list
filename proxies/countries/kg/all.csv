@@ -1,3 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,178.217.168.164,55443,http://178.217.168.164:55443,elite,true,4441,3998.5,34.9,22.6,541,178.217.168.164,1,kg,Bishkek,Bishkek,Asia/Bishkek,197119,KRENA - Kyrgyz research and education network association,26,2025-12-24T20:54:24.318Z,2026-11-22T04:30:15.225Z
-http,80.72.176.101,8080,http://80.72.176.101:8080,elite,false,7332,6856.5,27.4,20.9,311,80.72.176.101,1,kg,Bishkek,Bishkek,Asia/Bishkek,12997,OJSC Kyrgyztelecom,26,2026-09-05T05:58:47.585Z,2026-11-22T04:24:32.151Z
+socks5,80.72.180.122,1080,socks5://80.72.180.122:1080,elite,false,1349,2130,43.1,37.9,800,80.72.180.122,1,kg,Chuy Region,Kant,Asia/Bishkek,12997,OJSC Kyrgyztelecom,21,2026-04-16T06:47:08.732Z,2026-11-23T04:21:11.021Z
+http,178.217.168.164,55443,http://178.217.168.164:55443,elite,true,3403,3860,34.5,25.6,587,178.217.168.164,1,kg,Bishkek,Bishkek,Asia/Bishkek,197119,KRENA - Kyrgyz research and education network association,26,2025-12-24T20:54:24.318Z,2026-11-23T04:24:41.168Z

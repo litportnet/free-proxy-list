@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,646,717,52.8,49.6,849,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-22T04:26:42.014Z
+socks4,91.199.137.149,2005,socks4://91.199.137.149:2005,elite,true,593,765,81.4,55.1,214,212.102.39.102,1,cz,Prague,Prague,Europe/Prague,212238,Datacamp Limited,13,2026-11-18T15:55:39.256Z,2026-11-23T04:29:16.836Z
+socks4,90.182.147.170,4145,socks4://90.182.147.170:4145,elite,true,636,661,65.7,53,872,90.182.147.170,1,cz,Central Bohemia,Příbram,Europe/Prague,5610,"O2 Czech Republic, a.s.",13,2025-09-04T23:48:54.515Z,2026-11-23T04:29:23.085Z

@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,88.198.69.51,1084,socks5://88.198.69.51:1084,elite,true,870,922.5,41.5,39.8,294,82.206.72.161,1,ch,Aargau,Baden,Europe/Zurich,9009,M247 Europe SRL,15,2026-11-16T04:24:25.279Z,2026-11-22T04:30:33.080Z
+socks5,5.75.133.113,10811,socks5://5.75.133.113:10811,elite,true,1499,2677,51.2,45.5,745,89.37.173.38,1,ch,Zurich,Zürich,Europe/Zurich,25369,Hydra Communications Ltd,21,2026-08-24T21:47:23.618Z,2026-11-23T04:28:31.352Z
+socks5,91.199.137.149,2000,socks5://91.199.137.149:2000,elite,true,1021,1434.5,56.5,39.4,426,195.177.93.16,1,ch,Zurich,Zürich,Europe/Zurich,212238,Datacamp Limited,15,2026-11-14T18:06:19.059Z,2026-11-23T04:23:14.195Z
+socks5,195.201.246.53,1084,socks5://195.201.246.53:1084,elite,false,875,989,41.8,28.9,159,82.206.73.72,1,ch,Aargau,Baden,Europe/Zurich,9009,M247 Europe SRL,15,2026-10-28T03:23:45.457Z,2026-11-23T04:26:14.821Z

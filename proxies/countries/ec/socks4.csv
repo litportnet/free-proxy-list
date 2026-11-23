@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,4043,2049,54.1,57.2,929,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-11-22T04:31:25.811Z
-socks4,45.238.57.129,1080,socks4://45.238.57.129:1080,elite,false,7565,3515.5,29.1,21.2,477,45.238.57.129,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,14,2026-11-12T21:42:59.301Z,2026-11-22T04:23:52.030Z
+socks4,200.105.252.170,5678,socks4://200.105.252.170:5678,elite,true,1008,1010,73.1,60.3,933,200.105.252.170,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,13,2025-09-05T20:06:36.438Z,2026-11-23T04:28:30.323Z
+socks4,190.57.131.158,1080,socks4://190.57.131.158:1080,elite,false,559,1557,64.2,55,927,190.57.131.158,1,ec,Pichincha,Quito,America/Guayaquil,22724,PUNTONET S.A.,14,2025-09-04T23:49:02.892Z,2026-11-23T04:24:32.297Z
+socks4,45.238.57.1,3629,socks4://45.238.57.1:3629,elite,false,499,501,57.9,45.1,851,45.238.57.1,1,ec,Guayas,Guayaquil,America/Guayaquil,266834,INSTALACION DE SISTEMAS EN REDES INSYSRED S.A.,14,2025-09-04T23:49:13.193Z,2026-11-23T04:28:22.955Z

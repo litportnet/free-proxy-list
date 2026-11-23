@@ -5,12 +5,12 @@
     "port": 8080,
     "url": "http://185.174.208.195:8080",
     "anonymity": "anonymous",
-    "https": false,
-    "latency_ms": 4644,
-    "latency_median_ms": 4086,
-    "uptime_24h": 17.4,
-    "uptime_7d": 29.3,
-    "checks_7d": 673,
+    "https": true,
+    "latency_ms": 2008,
+    "latency_median_ms": 2799,
+    "uptime_24h": 35.7,
+    "uptime_7d": 31.5,
+    "checks_7d": 707,
     "exit_ip": "185.174.208.195",
     "exit_shared": 1,
     "country": "xk",
@@ -21,6 +21,6 @@
     "asn_org": "TelKos L.L.C",
     "sources_count": 25,
     "first_seen": "2026-07-19T13:45:53.281Z",
-    "last_checked": "2026-11-22T04:30:43.541Z"
+    "last_checked": "2026-11-23T04:21:08.373Z"
   }
 ]

@@ -1,17 +1,17 @@
 [
   {
     "protocol": "socks5",
-    "ip": "88.198.69.51",
-    "port": 1085,
-    "url": "socks5://88.198.69.51:1085",
+    "ip": "195.201.246.53",
+    "port": 1086,
+    "url": "socks5://195.201.246.53:1086",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 2981,
-    "latency_median_ms": 3042.5,
-    "uptime_24h": 33.3,
-    "uptime_7d": 30.1,
-    "checks_7d": 329,
-    "exit_ip": "136.0.244.20",
+    "https": true,
+    "latency_ms": 2839,
+    "latency_median_ms": 2813.5,
+    "uptime_24h": 41.9,
+    "uptime_7d": 27.6,
+    "checks_7d": 181,
+    "exit_ip": "141.11.141.3",
     "exit_shared": 1,
     "country": "my",
     "region": "Kuala Lumpur",
@@ -20,7 +20,7 @@
     "asn": 212238,
     "asn_org": "Datacamp Limited",
     "sources_count": 15,
-    "first_seen": "2026-11-15T10:14:50.118Z",
-    "last_checked": "2026-11-22T04:26:48.306Z"
+    "first_seen": "2026-11-01T15:20:29.907Z",
+    "last_checked": "2026-11-23T04:27:31.874Z"
   }
 ]
