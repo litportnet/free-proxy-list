@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.133.213.86,8074,http://185.133.213.86:8074,anonymous,false,1401,2945,50,50,911,185.133.213.86,1,mm,Yangon,Yangon,Asia/Yangon,133524,"Global Technology Co., Ltd.",23,2026-01-11T19:16:30.748Z,2026-11-23T04:26:20.565Z
+socks4,154.18.220.190,5678,socks4://154.18.220.190:5678,elite,false,1255,1260.5,75.8,63,933,154.18.220.190,1,mm,Yangon,Yangon,Asia/Yangon,136975,Global Technology,10,2025-11-01T10:33:30.995Z,2026-11-24T04:24:03.701Z
+http,37.111.51.146,8080,http://37.111.51.146:8080,anonymous,false,6362,4269,68.6,47.4,860,37.111.51.146,1,mm,Shan State,Nawnghkio,Asia/Yangon,133385,Atom Myanmar Limited,11,2025-11-23T20:53:12.983Z,2026-11-24T04:25:16.727Z
+http,103.25.79.150,8054,http://103.25.79.150:8054,anonymous,false,3426,4386,55.6,19.7,122,103.25.79.150,1,mm,Mandalay Region,Mandalay,Asia/Yangon,133524,"Global Technology Co., Ltd.",15,2026-06-04T15:11:49.747Z,2026-11-24T04:28:35.822Z

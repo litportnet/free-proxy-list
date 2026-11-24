@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.129.0.78,8080,http://185.129.0.78:8080,anonymous,true,2082,3800,34.8,30.1,627,185.129.0.78,1,az,Baki,Baku,Asia/Baku,203622,GSP LLC,17,2026-11-11T08:23:19.175Z,2026-11-23T04:27:38.622Z
-http,109.127.9.99,8080,http://109.127.9.99:8080,anonymous,false,3879,1869.5,16.7,20.8,499,109.127.9.99,1,az,Sumqayit,Sumgayit,Asia/Baku,50274,Alfanet LLC,12,2026-04-19T10:43:04.670Z,2026-11-23T04:21:00.484Z
+socks4,185.43.189.253,3629,socks4://185.43.189.253:3629,elite,true,7976,1921.5,43.7,40.8,714,185.43.189.253,1,az,Gǝncǝ,Ganja,Asia/Baku,201167,Caspian Telecom LLC,22,2026-04-17T19:00:26.783Z,2026-11-24T04:30:15.783Z
+http,185.129.0.78,8080,http://185.129.0.78:8080,anonymous,true,4921,4150,46.7,34.1,718,185.129.0.78,1,az,Baki,Baku,Asia/Baku,203622,GSP LLC,17,2026-11-11T08:23:19.175Z,2026-11-24T04:28:26.936Z
+http,109.127.9.99,8080,http://109.127.9.99:8080,anonymous,true,1821,893,35,24.4,542,109.127.9.99,1,az,Sumqayit,Sumgayit,Asia/Baku,50274,Alfanet LLC,12,2026-04-19T10:43:04.670Z,2026-11-24T04:27:57.533Z

@@ -6,11 +6,11 @@
     "url": "socks4://160.119.159.98:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1241,
-    "latency_median_ms": 1747,
-    "uptime_24h": 76.1,
-    "uptime_7d": 69.2,
-    "checks_7d": 978,
+    "latency_ms": 4255,
+    "latency_median_ms": 3268,
+    "uptime_24h": 76.8,
+    "uptime_7d": 70.6,
+    "checks_7d": 979,
     "exit_ip": "160.119.159.98",
     "exit_shared": 1,
     "country": "mz",
@@ -21,6 +21,6 @@
     "asn_org": "VOIPTECH LIMITADA",
     "sources_count": 21,
     "first_seen": "2026-09-17T12:35:37.101Z",
-    "last_checked": "2026-11-23T04:21:42.748Z"
+    "last_checked": "2026-11-24T04:30:29.523Z"
   }
 ]

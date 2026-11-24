@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,176.62.229.17,1080,socks5://176.62.229.17:1080,elite,true,1758,4011,47.8,37.1,860,176.62.229.17,1,cz,Hradec Králové Region,Trutnov,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-10-31T14:07:16.201Z,2026-11-23T04:28:47.589Z
-socks5,88.198.69.51,1100,socks5://88.198.69.51:1100,elite,true,1032,1034.5,36.5,33.7,335,46.203.158.36,1,cz,Prague,Prague,Europe/Prague,9009,M247 Europe SRL,15,2026-11-16T05:24:54.682Z,2026-11-23T04:28:50.726Z
-socks5,193.165.115.78,1080,socks5://193.165.115.78:1080,elite,true,803,2839.5,32,27.1,660,193.165.115.78,1,cz,Prague,Prague,Europe/Prague,30764,PODA a.s.,15,2026-10-31T14:07:16.201Z,2026-11-23T04:28:32.406Z
+socks5,176.62.237.51,1080,socks5://176.62.237.51:1080,elite,false,912,1877,40,31.6,627,176.62.237.51,1,cz,South Bohemian Region,Vlachovo Březí,Europe/Prague,49985,IP4ISP z.s.p.o,15,2026-11-06T06:18:58.776Z,2026-11-24T04:32:39.790Z

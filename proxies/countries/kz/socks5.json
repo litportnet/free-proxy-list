@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "80.65.211.149",
+    "port": 8888,
+    "url": "socks5://80.65.211.149:8888",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 5419,
+    "latency_median_ms": 2773,
+    "uptime_24h": 50.7,
+    "uptime_7d": 43.6,
+    "checks_7d": 854,
+    "exit_ip": "213.155.29.25",
+    "exit_shared": 1,
+    "country": "kz",
+    "region": "Almaty",
+    "city": "Almaty",
+    "timezone": "Asia/Almaty",
+    "asn": 49791,
+    "asn_org": "Newserverlife LLC",
+    "sources_count": 16,
+    "first_seen": "2026-10-10T06:38:00.990Z",
+    "last_checked": "2026-11-24T04:28:41.537Z"
+  }
+]

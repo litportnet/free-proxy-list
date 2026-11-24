@@ -6,11 +6,11 @@
     "url": "socks4://154.66.108.52:3629",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1329,
-    "latency_median_ms": 2342.5,
-    "uptime_24h": 68.1,
-    "uptime_7d": 55.1,
-    "checks_7d": 926,
+    "latency_ms": 2308,
+    "latency_median_ms": 1337,
+    "uptime_24h": 65.3,
+    "uptime_7d": 57.3,
+    "checks_7d": 948,
     "exit_ip": "154.66.108.52",
     "exit_shared": 1,
     "country": "ls",
@@ -21,6 +21,6 @@
     "asn_org": "Comnet Pty Ltd",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:05.716Z",
-    "last_checked": "2026-11-23T04:29:19.454Z"
+    "last_checked": "2026-11-24T04:27:34.530Z"
   }
 ]

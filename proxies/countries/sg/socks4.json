@@ -1,40 +1,16 @@
 [
   {
     "protocol": "socks4",
-    "ip": "91.199.137.149",
-    "port": 2015,
-    "url": "socks4://91.199.137.149:2015",
-    "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1161,
-    "latency_median_ms": 1464.5,
-    "uptime_24h": 69.6,
-    "uptime_7d": 53.2,
-    "checks_7d": 205,
-    "exit_ip": "185.150.0.21",
-    "exit_shared": 2,
-    "country": "sg",
-    "region": "Singapore",
-    "city": "Singapore",
-    "timezone": "Asia/Singapore",
-    "asn": 212238,
-    "asn_org": "Datacamp Limited",
-    "sources_count": 12,
-    "first_seen": "2026-11-19T11:05:51.391Z",
-    "last_checked": "2026-11-23T04:27:31.872Z"
-  },
-  {
-    "protocol": "socks4",
     "ip": "43.160.245.155",
     "port": 8080,
     "url": "socks4://43.160.245.155:8080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 2316,
-    "latency_median_ms": 5503.5,
-    "uptime_24h": 53.3,
-    "uptime_7d": 37.1,
-    "checks_7d": 717,
+    "latency_ms": 5766,
+    "latency_median_ms": 2735,
+    "uptime_24h": 53.8,
+    "uptime_7d": 41.3,
+    "checks_7d": 767,
     "exit_ip": "43.160.245.155",
     "exit_shared": 1,
     "country": "sg",
@@ -45,6 +21,6 @@
     "asn_org": "Tencent Building, Kejizhongyi Avenue",
     "sources_count": 21,
     "first_seen": "2026-08-12T12:53:42.463Z",
-    "last_checked": "2026-11-23T04:22:50.175Z"
+    "last_checked": "2026-11-24T04:23:25.704Z"
   }
 ]

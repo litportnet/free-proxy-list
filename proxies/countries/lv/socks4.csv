@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,31.170.18.129,4153,socks4://31.170.18.129:4153,elite,false,656,2706,25.5,21.1,579,31.170.19.149,1,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,21,2026-09-03T16:38:11.538Z,2026-11-23T04:29:16.834Z
+socks4,31.170.17.225,4153,socks4://31.170.17.225:4153,elite,false,3701,1681.5,25,23.1,493,31.170.19.149,2,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,20,2026-08-30T03:56:29.648Z,2026-11-24T04:30:55.829Z
+socks4,31.170.18.129,4153,socks4://31.170.18.129:4153,elite,false,655,1701,28.9,22.4,613,31.170.19.149,2,lv,Riga,Riga,Europe/Riga,43513,Sia Nano IT,21,2026-09-03T16:38:11.538Z,2026-11-24T04:25:07.419Z
+socks4,195.13.182.211,8080,socks4://195.13.182.211:8080,elite,false,754,1455,30.3,22.3,485,195.13.182.211,3,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,10,2026-10-07T10:02:02.238Z,2026-11-24T04:25:24.504Z

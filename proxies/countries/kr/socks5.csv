@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1763,1619.5,97.2,94.3,1000,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-23T04:30:26.556Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1069,6921,55.6,58,965,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-23T04:24:16.765Z
-socks5,61.111.252.12,5555,socks5://61.111.252.12:5555,elite,false,7498,2570,23.9,38.3,162,61.111.252.12,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,15,2026-11-21T15:33:26.505Z,2026-11-23T04:21:21.036Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1067,1124,97.2,95.1,1001,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-24T04:26:02.421Z
+socks5,59.11.209.162,1080,socks5://59.11.209.162:1080,elite,true,1137,1156,99.2,94.6,130,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,11,2026-05-30T23:12:26.616Z,2026-11-24T04:32:16.144Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1972,1757.5,76.8,60.3,969,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-24T04:24:36.331Z

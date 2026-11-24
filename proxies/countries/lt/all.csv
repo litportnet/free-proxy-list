@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,592,572.5,85.1,81.4,870,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-23T04:21:49.594Z
-http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,5694,5732,75.9,74.7,856,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,6,2025-09-07T11:16:53.444Z,2026-11-23T04:20:34.039Z
-socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,true,616,638,67.6,51.7,844,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-23T04:25:25.863Z
+http,84.55.46.85,8000,http://84.55.46.85:8000,elite,false,555,562,84.5,81.8,948,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,2,2025-09-09T16:24:27.179Z,2026-11-24T04:29:50.552Z
+http,84.55.46.85,8080,http://84.55.46.85:8080,elite,false,541,559,69.6,73.5,906,84.55.46.85,2,lt,Kaunas,Kaunas,Europe/Vilnius,24877,UAB INIT,6,2025-09-07T11:16:53.444Z,2026-11-24T04:28:53.469Z
+socks4,81.7.112.174,4145,socks4://81.7.112.174:4145,elite,true,642,638.5,80.4,56.3,870,81.7.112.174,1,lt,Vilnius,Elektrėnai,Europe/Vilnius,49602,"Private Limited Liability Company ""KRENA""",16,2026-10-19T14:35:57.010Z,2026-11-24T04:30:35.318Z

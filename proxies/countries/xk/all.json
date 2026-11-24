@@ -6,11 +6,11 @@
     "url": "http://185.174.208.195:8080",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 2008,
-    "latency_median_ms": 2799,
-    "uptime_24h": 35.7,
-    "uptime_7d": 31.5,
-    "checks_7d": 707,
+    "latency_ms": 4053,
+    "latency_median_ms": 3647,
+    "uptime_24h": 30,
+    "uptime_7d": 30.8,
+    "checks_7d": 715,
     "exit_ip": "185.174.208.195",
     "exit_shared": 1,
     "country": "xk",
@@ -21,6 +21,6 @@
     "asn_org": "TelKos L.L.C",
     "sources_count": 25,
     "first_seen": "2026-07-19T13:45:53.281Z",
-    "last_checked": "2026-11-23T04:21:08.373Z"
+    "last_checked": "2026-11-24T04:28:14.804Z"
   }
 ]

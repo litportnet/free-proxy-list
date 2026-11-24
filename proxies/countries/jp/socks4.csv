@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,1202,983,96.5,91.1,995,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-23T04:20:55.164Z
-socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,false,7853,1758.5,76.8,61.1,947,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-11-23T04:26:48.660Z
-socks4,5.104.82.189,1080,socks4://5.104.82.189:1080,elite,true,1529,1422,100,,4,5.104.82.189,3,jp,Tokyo,Tokyo,Asia/Tokyo,141995,Contabo Asia Private Limited,2,2026-10-19T22:40:31.492Z,2026-11-23T04:24:05.948Z
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,786,751,94.4,93,996,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-24T04:31:12.033Z

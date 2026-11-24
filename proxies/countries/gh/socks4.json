@@ -5,12 +5,12 @@
     "port": 4145,
     "url": "socks4://196.29.231.1:4145",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 4005,
-    "latency_median_ms": 1992.5,
-    "uptime_24h": 66.9,
-    "uptime_7d": 57,
-    "checks_7d": 930,
+    "https": false,
+    "latency_ms": 4043,
+    "latency_median_ms": 2077.5,
+    "uptime_24h": 72.9,
+    "uptime_7d": 58,
+    "checks_7d": 935,
     "exit_ip": "196.29.231.1",
     "exit_shared": 1,
     "country": "gh",
@@ -21,6 +21,6 @@
     "asn_org": "K-Net",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:04.507Z",
-    "last_checked": "2026-11-23T04:21:08.382Z"
+    "last_checked": "2026-11-24T04:23:22.912Z"
   }
 ]

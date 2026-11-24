@@ -6,8 +6,8 @@
     "url": "http://77.221.142.205:80",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 691,
-    "latency_median_ms": 518,
+    "latency_ms": 665,
+    "latency_median_ms": 517,
     "uptime_24h": 100,
     "uptime_7d": 99.5,
     "checks_7d": 1006,
@@ -21,6 +21,6 @@
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 3,
     "first_seen": "2026-09-18T15:36:04.858Z",
-    "last_checked": "2026-11-23T04:22:55.053Z"
+    "last_checked": "2026-11-24T04:28:59.225Z"
   }
 ]

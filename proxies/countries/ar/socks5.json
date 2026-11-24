@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "190.225.152.38",
+    "port": 1080,
+    "url": "socks5://190.225.152.38:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9965,
+    "latency_median_ms": 5328.5,
+    "uptime_24h": 27.3,
+    "uptime_7d": 21.3,
+    "checks_7d": 451,
+    "exit_ip": "190.225.152.38",
+    "exit_shared": 2,
+    "country": "ar",
+    "region": "Buenos Aires F.D.",
+    "city": "Buenos Aires",
+    "timezone": "America/Argentina/Buenos_Aires",
+    "asn": 7303,
+    "asn_org": "Telecom Argentina S.A.",
+    "sources_count": 12,
+    "first_seen": "2026-11-18T04:49:50.016Z",
+    "last_checked": "2026-11-24T04:32:26.207Z"
+  }
+]

@@ -5,12 +5,12 @@
     "port": 8080,
     "url": "http://218.100.23.130:8080",
     "anonymity": "anonymous",
-    "https": false,
-    "latency_ms": 8604,
-    "latency_median_ms": 4285.5,
-    "uptime_24h": 25.6,
-    "uptime_7d": 29.8,
-    "checks_7d": 568,
+    "https": true,
+    "latency_ms": 749,
+    "latency_median_ms": 2286.5,
+    "uptime_24h": 32.7,
+    "uptime_7d": 30.9,
+    "checks_7d": 614,
     "exit_ip": "218.100.23.130",
     "exit_shared": 1,
     "country": "nz",
@@ -21,6 +21,6 @@
     "asn_org": "Vital Data Ltd",
     "sources_count": 20,
     "first_seen": "2026-09-27T06:00:26.030Z",
-    "last_checked": "2026-11-23T04:23:15.756Z"
+    "last_checked": "2026-11-24T04:31:59.480Z"
   }
 ]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.174.121.3,8090,socks5://46.174.121.3:8090,elite,false,7990,1818.5,34.2,36.2,854,46.174.121.3,1,pl,Lublin,Lubartów,Europe/Warsaw,3255,UARNet-Eksintech,15,2026-11-12T08:36:04.264Z,2026-11-23T04:28:47.062Z
-socks5,83.219.248.46,20420,socks5://83.219.248.46:20420,elite,true,851,883,100,,16,83.219.248.46,2,pl,Mazovia,Warsaw,Europe/Warsaw,41745,Ilia Baikov,7,2026-11-23T01:51:31.604Z,2026-11-23T04:24:47.401Z
+socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,true,1751,3791,33.7,26.2,589,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,16,2026-10-05T12:38:11.693Z,2026-11-24T04:30:37.983Z

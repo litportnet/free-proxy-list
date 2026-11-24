@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,65.109.196.122,2080,socks5://65.109.196.122:2080,elite,true,834,818,44.4,36.1,807,104.28.254.16,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",15,2026-08-16T18:46:19.356Z,2026-11-24T04:23:11.264Z
+socks5,185.247.141.86,1080,socks5://185.247.141.86:1080,elite,true,711,762,100,,9,185.247.141.86,2,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,2,2026-11-24T03:04:48.825Z,2026-11-24T04:24:44.197Z
+socks5,45.141.177.0,1080,socks5://45.141.177.0:1080,elite,true,960,1086.5,100,,33,45.141.177.0,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,7,2026-10-16T07:54:24.217Z,2026-11-24T04:29:45.837Z

@@ -1,6 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,2598,3635.5,80.1,70.8,948,198.244.254.77,1,gb,England,London,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-23T04:20:39.308Z
-http,159.65.27.1,10000,http://159.65.27.1:10000,elite,true,404,481.5,57,57,165,159.65.27.1,2,gb,England,London,Europe/London,14061,"DigitalOcean, LLC",15,2026-11-22T00:38:14.615Z,2026-11-23T04:26:03.868Z
-http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,401,394,27.8,50,890,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-23T04:26:03.867Z
-http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,462,610.5,71.1,49.5,865,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-23T04:23:38.963Z
-http,81.19.210.10,80,http://81.19.210.10:80,elite,true,387,389.5,52,46.9,371,81.19.210.10,1,gb,England,London,Europe/London,25369,Hydra Communications Ltd,16,2026-06-09T01:11:00.416Z,2026-11-23T04:30:41.113Z
+http,79.137.192.114,80,http://79.137.192.114:80,elite,false,986,1002,97.2,96.3,1005,172.71.178.61,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-21T12:07:00.964Z,2026-11-24T04:26:57.239Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,1937,1933.5,87,76,965,198.244.254.77,1,gb,England,London,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-24T04:25:35.377Z
+http,82.69.119.68,49200,http://82.69.119.68:49200,elite,false,454,751.5,73.6,56,890,82.69.119.68,1,gb,England,Rochdale,Europe/London,13037,Zen Internet Ltd,16,2025-10-03T21:41:53.577Z,2026-11-24T04:30:29.001Z
