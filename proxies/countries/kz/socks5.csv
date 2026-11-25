@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,80.65.211.149,8888,socks5://80.65.211.149:8888,elite,true,5419,2773,50.7,43.6,854,213.155.29.25,1,kz,Almaty,Almaty,Asia/Almaty,49791,Newserverlife LLC,16,2026-10-10T06:38:00.990Z,2026-11-24T04:28:41.537Z

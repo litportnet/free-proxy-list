@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,67.206.213.202,3120,http://67.206.213.202:3120,anonymous,false,3495,2886.5,35,32.4,737,67.206.213.202,2,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,23,2025-09-05T00:23:48.169Z,2026-11-24T04:32:08.821Z
-http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,1353,2661.5,30,28,607,192.203.0.198,1,pr,Naguabo,Naguabo,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-24T04:32:46.570Z
+http,200.5.26.3,8087,http://200.5.26.3:8087,anonymous,false,1589,2644,19.6,16.5,310,200.5.26.1,1,pr,Yauco,Yauco,America/Puerto_Rico,401436,Dimelo Network,16,2026-07-04T13:34:06.174Z,2026-11-25T04:22:06.554Z

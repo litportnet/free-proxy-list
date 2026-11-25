@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,70.38.101.182,40000,socks4://70.38.101.182:40000,elite,true,3425,208.5,69.7,60.5,415,104.28.246.50,2,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-20T03:14:23.703Z,2026-11-24T04:27:18.243Z
-socks4,24.37.245.42,51056,socks4://24.37.245.42:51056,elite,false,3246,753.5,62.6,48.2,851,24.37.245.42,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,21,2025-09-04T23:49:11.832Z,2026-11-24T04:29:23.322Z
+socks4,70.38.101.182,40000,socks4://70.38.101.182:40000,elite,true,587,575,76.2,64.5,557,104.28.214.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-20T03:14:23.703Z,2026-11-25T04:25:07.521Z

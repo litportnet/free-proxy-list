@@ -6,11 +6,11 @@
     "url": "socks4://102.132.17.30:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4023,
-    "latency_median_ms": 1351,
-    "uptime_24h": 83.7,
-    "uptime_7d": 73.7,
-    "checks_7d": 979,
+    "latency_ms": 1030,
+    "latency_median_ms": 1537,
+    "uptime_24h": 72.1,
+    "uptime_7d": 72.9,
+    "checks_7d": 977,
     "exit_ip": "102.132.17.30",
     "exit_shared": 1,
     "country": "cm",
@@ -21,7 +21,7 @@
     "asn_org": "SWECOM PLC",
     "sources_count": 14,
     "first_seen": "2026-07-04T16:35:29.162Z",
-    "last_checked": "2026-11-24T04:25:16.695Z"
+    "last_checked": "2026-11-25T04:24:06.135Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://41.216.232.213:4153",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 1126,
-    "latency_median_ms": 1202.5,
-    "uptime_24h": 61.4,
-    "uptime_7d": 56.3,
-    "checks_7d": 916,
+    "latency_ms": 2186,
+    "latency_median_ms": 2167,
+    "uptime_24h": 60.9,
+    "uptime_7d": 57.3,
+    "checks_7d": 917,
     "exit_ip": "217.14.84.154",
     "exit_shared": 1,
     "country": "cm",
@@ -45,6 +45,6 @@
     "asn_org": "INQ DIGITAL CAMEROON SA",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:48:59.324Z",
-    "last_checked": "2026-11-24T04:27:36.105Z"
+    "last_checked": "2026-11-25T04:22:58.454Z"
   }
 ]

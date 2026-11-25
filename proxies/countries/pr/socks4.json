@@ -6,13 +6,13 @@
     "url": "socks4://67.206.213.202:55555",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 425,
-    "latency_median_ms": 899,
-    "uptime_24h": 81.1,
-    "uptime_7d": 60.6,
-    "checks_7d": 945,
+    "latency_ms": 403,
+    "latency_median_ms": 1162,
+    "uptime_24h": 70.9,
+    "uptime_7d": 61,
+    "checks_7d": 944,
     "exit_ip": "67.206.213.202",
-    "exit_shared": 2,
+    "exit_shared": 1,
     "country": "pr",
     "region": "Mayagüez",
     "city": "Mayagüez",
@@ -21,6 +21,6 @@
     "asn_org": "Liberty Mobile Puerto Rico Inc.",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:14.427Z",
-    "last_checked": "2026-11-24T04:28:55.037Z"
+    "last_checked": "2026-11-25T04:20:31.299Z"
   }
 ]

@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,526,544.5,98.6,98.5,1005,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-24T04:32:26.197Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,539,538,97.2,98.2,999,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-24T04:32:33.512Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,559,531,99.3,98.1,1005,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-24T04:25:47.765Z
-http,148.253.212.68,8080,http://148.253.212.68:8080,elite,true,2456,3402,37.7,23.6,461,148.253.212.68,1,pl,Mazovia,Warsaw,Europe/Warsaw,216129,SEBEK sp. z o.o,18,2026-10-28T20:32:45.482Z,2026-11-24T04:31:40.793Z
+http,141.101.90.106,80,http://141.101.90.106:80,transparent,false,809,565.5,100,99.8,1004,162.158.102.59,1,pl,Mazovia,Warsaw,Europe/Warsaw,13335,"Cloudflare, Inc.",6,2025-09-27T18:23:26.219Z,2026-11-25T04:28:37.910Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,555,554,100,98.5,1004,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-25T04:27:50.139Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,603,546,100,98.2,1005,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-25T04:25:19.876Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,925,551.5,99.3,98.1,1000,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-25T04:23:07.033Z

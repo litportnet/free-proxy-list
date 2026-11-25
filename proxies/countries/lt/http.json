@@ -6,11 +6,11 @@
     "url": "http://84.55.46.85:8000",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 555,
-    "latency_median_ms": 562,
-    "uptime_24h": 84.5,
-    "uptime_7d": 81.8,
-    "checks_7d": 948,
+    "latency_ms": 564,
+    "latency_median_ms": 564,
+    "uptime_24h": 87,
+    "uptime_7d": 85.7,
+    "checks_7d": 965,
     "exit_ip": "84.55.46.85",
     "exit_shared": 2,
     "country": "lt",
@@ -21,7 +21,7 @@
     "asn_org": "UAB INIT",
     "sources_count": 2,
     "first_seen": "2025-09-09T16:24:27.179Z",
-    "last_checked": "2026-11-24T04:29:50.552Z"
+    "last_checked": "2026-11-25T04:29:28.711Z"
   },
   {
     "protocol": "http",
@@ -30,11 +30,11 @@
     "url": "http://84.55.46.85:8080",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 541,
-    "latency_median_ms": 559,
-    "uptime_24h": 69.6,
-    "uptime_7d": 73.5,
-    "checks_7d": 906,
+    "latency_ms": 636,
+    "latency_median_ms": 602.5,
+    "uptime_24h": 78.8,
+    "uptime_7d": 75.7,
+    "checks_7d": 925,
     "exit_ip": "84.55.46.85",
     "exit_shared": 2,
     "country": "lt",
@@ -45,6 +45,6 @@
     "asn_org": "UAB INIT",
     "sources_count": 6,
     "first_seen": "2025-09-07T11:16:53.444Z",
-    "last_checked": "2026-11-24T04:28:53.469Z"
+    "last_checked": "2026-11-25T04:26:17.220Z"
   }
 ]

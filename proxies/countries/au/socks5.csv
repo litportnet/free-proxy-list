@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,2694,3544.5,49.6,46.2,730,46.102.153.134,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,19,2026-09-16T15:24:29.706Z,2026-11-24T04:27:17.717Z
+socks5,5.75.133.113,10803,socks5://5.75.133.113:10803,elite,true,6460,3889,43,45.6,733,46.102.153.134,1,au,New South Wales,Sydney,Australia/Sydney,9009,M247 Europe SRL,19,2026-09-16T15:24:29.706Z,2026-11-25T04:20:45.177Z

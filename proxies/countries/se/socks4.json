@@ -6,11 +6,11 @@
     "url": "socks4://188.150.229.60:5678",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 588,
-    "latency_median_ms": 603.5,
-    "uptime_24h": 98.6,
-    "uptime_7d": 82.3,
-    "checks_7d": 981,
+    "latency_ms": 609,
+    "latency_median_ms": 609.5,
+    "uptime_24h": 95.1,
+    "uptime_7d": 83.7,
+    "checks_7d": 982,
     "exit_ip": "188.150.229.60",
     "exit_shared": 1,
     "country": "se",
@@ -21,7 +21,7 @@
     "asn_org": "Tele2 Sverige AB",
     "sources_count": 10,
     "first_seen": "2026-03-19T00:40:14.786Z",
-    "last_checked": "2026-11-24T04:32:04.135Z"
+    "last_checked": "2026-11-25T04:21:02.820Z"
   },
   {
     "protocol": "socks4",
@@ -29,12 +29,12 @@
     "port": 65530,
     "url": "socks4://81.228.44.187:65530",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 1683,
-    "latency_median_ms": 1045,
-    "uptime_24h": 49.2,
-    "uptime_7d": 42.5,
-    "checks_7d": 791,
+    "https": true,
+    "latency_ms": 1469,
+    "latency_median_ms": 1631,
+    "uptime_24h": 46,
+    "uptime_7d": 43.6,
+    "checks_7d": 799,
     "exit_ip": "81.228.44.187",
     "exit_shared": 1,
     "country": "se",
@@ -45,6 +45,6 @@
     "asn_org": "Telia Company AB",
     "sources_count": 10,
     "first_seen": "2025-09-04T23:49:15.216Z",
-    "last_checked": "2026-11-24T04:25:07.441Z"
+    "last_checked": "2026-11-25T04:25:10.231Z"
   }
 ]

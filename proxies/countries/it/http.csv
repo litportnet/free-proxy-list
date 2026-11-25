@@ -1,9 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,680,565.5,100,97.5,964,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-24T04:25:23.865Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,482,478,79.9,77.4,874,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-24T04:28:30.581Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,568,565.5,90.9,75.8,957,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-24T04:25:58.780Z
-http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,2651,4523.5,37.1,29,589,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-24T04:23:50.284Z
-http,185.8.148.81,8085,http://185.8.148.81:8085,anonymous,false,2767,3320,29.8,20.4,362,217.112.96.34,1,it,Tuscany,Siena,Europe/Rome,49605,Digital Telecommunication Services S.r.l.,19,2026-10-12T20:10:22.760Z,2026-11-24T04:30:45.883Z
-http,45.142.134.5,8080,http://45.142.134.5:8080,anonymous,false,7778,5382,25.9,19.6,377,91.204.250.40,1,it,Abruzzo,Trasacco,Europe/Rome,203540,Witel Srl,18,2026-10-21T18:02:59.697Z,2026-11-24T04:23:12.862Z
-http,80.225.88.28,8082,http://80.225.88.28:8082,elite,false,4396,3359,41.7,14.3,126,80.225.88.28,1,it,Lombardy,Siziano,Europe/Rome,31898,Oracle Corporation,18,2026-10-02T04:56:16.867Z,2026-11-24T04:22:35.014Z
-http,93.55.126.190,8080,http://93.55.126.190:8080,anonymous,false,3555,3696,12.8,7.4,148,93.55.126.162,1,it,Sicily,Marsala,Europe/Rome,12874,Fastweb SpA,20,2026-10-07T22:08:26.468Z,2026-11-24T04:29:44.271Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,579,566,100,97.8,1007,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",4,2026-09-22T02:17:06.569Z,2026-11-25T04:23:39.198Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,497,499,82.7,79.3,879,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-25T04:29:01.608Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,568,570,75,77.6,966,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-25T04:25:03.204Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,613,3365.5,20,28.9,595,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-25T04:26:59.777Z
+http,85.208.200.185,8081,http://85.208.200.185:8081,anonymous,false,7300,5098.5,12.5,17.2,279,195.36.26.60,1,it,Lombardy,Milan,Europe/Rome,44092,HAL Service SpA,24,2025-09-05T00:23:14.484Z,2026-11-25T04:22:12.984Z
+http,31.27.47.179,8080,http://31.27.47.179:8080,elite,true,8187,5972,100,,30,31.27.47.179,1,it,Lombardy,Milan,Europe/Rome,30722,Fastweb SpA,5,2025-09-21T03:43:07.127Z,2026-11-25T04:27:46.004Z

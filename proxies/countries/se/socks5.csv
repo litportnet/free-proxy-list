@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.246.12.31,1080,socks5://46.246.12.31:1080,elite,true,2233,2231,97.9,97.9,991,46.246.12.31,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys Sweden AB,14,2026-11-16T07:25:59.339Z,2026-11-24T04:25:23.873Z
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1046,1260,97.2,94.8,995,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-24T04:30:08.457Z
-socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,790,1442,64.8,69,822,185.195.233.179,1,se,Stockholm,Stockholm,Europe/Stockholm,39351,31173 Services AB,19,2026-09-20T18:57:39.355Z,2026-11-24T04:27:27.715Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,6676,4196.5,95.8,94.6,994,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-25T04:19:58.746Z

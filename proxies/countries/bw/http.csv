@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,83.143.29.225,80,http://83.143.29.225:80,anonymous,true,4709,4075,32.8,26.3,357,83.143.24.66,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,17,2026-11-19T18:09:32.788Z,2026-11-24T04:23:29.501Z
-http,129.205.198.122,8080,http://129.205.198.122:8080,anonymous,false,2790,3176.5,28.4,21.9,474,129.205.198.122,1,bw,Kweneng,Molepolole,Africa/Gaborone,37678,BOTSWANA FIBRE NETWORKS (Proprietary) Limited,23,2025-09-06T08:35:14.439Z,2026-11-24T04:23:32.149Z

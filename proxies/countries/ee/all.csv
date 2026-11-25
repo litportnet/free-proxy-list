@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,77.221.142.205,80,http://77.221.142.205:80,elite,false,665,517,100,99.5,1006,172.69.136.138,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-24T04:28:59.225Z
-socks4,185.157.111.3,5678,socks4://185.157.111.3:5678,elite,true,678,686,91.6,80.2,978,185.157.111.3,1,ee,Võrumaa,Vana-Antsla,Europe/Tallinn,202652,Elevi AS,22,2026-07-04T17:38:40.433Z,2026-11-24T04:33:03.269Z
+http,77.221.142.205,80,http://77.221.142.205:80,elite,false,684,532.5,100,99.6,1007,172.69.136.138,1,ee,Harjumaa,Tallinn,Europe/Tallinn,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-25T04:29:12.228Z
+socks5,95.216.8.124,1082,socks5://95.216.8.124:1082,elite,false,817,789.5,58.4,41.5,301,5.34.241.61,1,ee,Harjumaa,Tallinn,Europe/Tallinn,58065,Orion Network Limited,14,2026-11-13T08:49:03.433Z,2026-11-25T04:29:22.917Z
+socks5,95.216.8.124,1084,socks5://95.216.8.124:1084,elite,true,806,821,47.3,33.6,253,5.34.241.179,1,ee,Harjumaa,Tallinn,Europe/Tallinn,58065,Orion Network Limited,13,2026-11-12T08:35:59.363Z,2026-11-25T04:22:40.764Z

@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,true,1751,3791,33.7,26.2,589,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,16,2026-10-05T12:38:11.693Z,2026-11-24T04:30:37.983Z
+socks5,185.100.85.64,1080,socks5://185.100.85.64:1080,elite,true,1880,1534,38.8,40.3,548,88.218.50.172,1,pl,Pomerania,Gdańsk,Europe/Warsaw,200088,Artnet Sp. z o.o.,15,2026-11-20T21:23:53.788Z,2026-11-25T04:23:12.973Z
+socks5,46.174.121.3,8090,socks5://46.174.121.3:8090,elite,true,843,1217,31.1,37.1,857,46.174.121.3,1,pl,Lublin,Lubartów,Europe/Warsaw,3255,UARNet-Eksintech,15,2026-11-12T08:36:04.264Z,2026-11-25T04:23:30.641Z
+socks5,85.143.71.171,10808,socks5://85.143.71.171:10808,elite,true,1529,3316,30,31.2,141,2.27.27.233,1,pl,Mazovia,Warsaw,Europe/Warsaw,215730,H2NEXUS CLOUD SERVICES - FZCO,13,2026-10-26T15:04:35.232Z,2026-11-25T04:22:39.695Z
+socks5,109.95.175.64,1080,socks5://109.95.175.64:1080,elite,false,3861,2848,38.4,29.8,647,109.95.175.64,1,pl,Warmia-Masuria,Lubawa,Europe/Warsaw,43420,Eltronik Sp. z o.o.,16,2026-10-05T12:38:11.693Z,2026-11-25T04:24:59.436Z

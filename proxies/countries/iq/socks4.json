@@ -5,12 +5,12 @@
     "port": 48293,
     "url": "socks4://185.95.186.165:48293",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1939,
-    "latency_median_ms": 1910.5,
-    "uptime_24h": 76.8,
-    "uptime_7d": 68.6,
-    "checks_7d": 951,
+    "https": false,
+    "latency_ms": 1954,
+    "latency_median_ms": 1919.5,
+    "uptime_24h": 79.1,
+    "uptime_7d": 67.8,
+    "checks_7d": 958,
     "exit_ip": "185.95.186.165",
     "exit_shared": 1,
     "country": "iq",
@@ -19,9 +19,9 @@
     "timezone": "Asia/Baghdad",
     "asn": 34515,
     "asn_org": "Next Net for Internet and IT Services LTD",
-    "sources_count": 13,
-    "first_seen": "2025-09-06T05:32:28.681Z",
-    "last_checked": "2026-11-24T04:25:58.179Z"
+    "sources_count": 1,
+    "first_seen": "2026-03-17T17:23:31.244Z",
+    "last_checked": "2026-11-25T04:23:35.481Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://62.201.212.198:4673",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 859,
-    "latency_median_ms": 1397,
-    "uptime_24h": 71.2,
-    "uptime_7d": 53.5,
-    "checks_7d": 881,
+    "latency_ms": 927,
+    "latency_median_ms": 888,
+    "uptime_24h": 70.4,
+    "uptime_7d": 57.7,
+    "checks_7d": 894,
     "exit_ip": "62.201.212.198",
     "exit_shared": 1,
     "country": "iq",
@@ -45,7 +45,7 @@
     "asn_org": "IQ Networks for Data and Internet Services Ltd",
     "sources_count": 14,
     "first_seen": "2025-09-04T23:49:07.825Z",
-    "last_checked": "2026-11-24T04:31:24.060Z"
+    "last_checked": "2026-11-25T04:25:23.137Z"
   },
   {
     "protocol": "socks4",
@@ -54,11 +54,11 @@
     "url": "socks4://62.201.233.59:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 919,
-    "latency_median_ms": 1917.5,
-    "uptime_24h": 61.4,
-    "uptime_7d": 52.6,
-    "checks_7d": 941,
+    "latency_ms": 3904,
+    "latency_median_ms": 2906,
+    "uptime_24h": 59.1,
+    "uptime_7d": 54.3,
+    "checks_7d": 947,
     "exit_ip": "62.201.233.59",
     "exit_shared": 1,
     "country": "iq",
@@ -69,6 +69,6 @@
     "asn_org": "IQ Networks for Data and Internet Services Ltd",
     "sources_count": 13,
     "first_seen": "2025-09-04T23:49:03.801Z",
-    "last_checked": "2026-11-24T04:24:04.226Z"
+    "last_checked": "2026-11-25T04:22:25.295Z"
   }
 ]

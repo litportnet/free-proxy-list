@@ -5,12 +5,12 @@
     "port": 5678,
     "url": "socks4://212.39.114.139:5678",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 656,
-    "latency_median_ms": 671.5,
-    "uptime_24h": 71.1,
-    "uptime_7d": 50.7,
-    "checks_7d": 915,
+    "https": false,
+    "latency_ms": 7853,
+    "latency_median_ms": 2722.5,
+    "uptime_24h": 76.4,
+    "uptime_7d": 56.2,
+    "checks_7d": 931,
     "exit_ip": "212.39.114.139",
     "exit_shared": 1,
     "country": "ba",
@@ -21,6 +21,6 @@
     "asn_org": "JP HT d.d. Mostar",
     "sources_count": 22,
     "first_seen": "2025-09-04T23:48:53.450Z",
-    "last_checked": "2026-11-24T04:28:01.196Z"
+    "last_checked": "2026-11-25T04:23:24.262Z"
   }
 ]

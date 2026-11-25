@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,77.221.152.59,1080,socks4://77.221.152.59:1080,elite,true,1497,3653,64.1,64.1,131,77.221.152.59,2,fr,Île-de-France,Paris,Europe/Paris,210644,AEZA GROUP LLC,12,2026-11-23T05:53:37.693Z,2026-11-24T04:30:05.802Z
-socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,534,1047,71.1,52.7,942,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-24T04:28:40.506Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,true,184,234.5,68.6,52.3,495,104.28.246.50,2,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-19T19:10:04.602Z,2026-11-24T04:25:42.941Z
-socks5,172.86.84.97,1085,socks5://172.86.84.97:1085,elite,false,829,1606,100,16.1,137,135.19.17.247,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,17,2026-10-13T19:22:40.469Z,2026-11-24T04:26:07.603Z
+socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,true,312,447.5,70.6,56.4,637,104.28.214.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-19T19:10:04.602Z,2026-11-25T04:23:24.784Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,false,3284,780,63.2,50.9,910,104.28.214.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-25T04:22:27.399Z
+socks5,95.216.8.124,1083,socks5://95.216.8.124:1083,elite,false,2748,2794,45.2,33.3,195,178.93.184.117,1,ca,British Columbia,Vancouver,America/Vancouver,212238,Datacamp Limited,15,2026-11-13T04:46:42.602Z,2026-11-25T04:24:48.570Z
