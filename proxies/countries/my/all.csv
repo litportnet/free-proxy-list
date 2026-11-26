@@ -1,4 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,219.93.101.62,80,http://219.93.101.62:80,anonymous,false,3825,2092.5,97.9,98.1,1001,60.53.111.48,1,my,Labuan,Labuan,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,1,2026-03-17T17:23:34.046Z,2026-11-25T04:25:09.141Z
-socks4,175.139.200.17,4153,socks4://175.139.200.17:4153,elite,true,1596,2836.5,45.4,42.5,875,175.139.201.193,1,my,Perak,Kuala Kangsar,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,14,2025-09-04T23:49:06.505Z,2026-11-25T04:29:21.330Z
-http,113.23.230.90,8080,http://113.23.230.90:8080,anonymous,false,2752,2884.5,15.6,18.2,325,113.23.230.90,1,my,Johor,Johor Bahru,Asia/Kuala_Lumpur,38182,Extreme Broadband - Total Broadband Experience,25,2026-09-01T05:22:14.960Z,2026-11-25T04:24:46.404Z
+http,219.93.101.62,80,http://219.93.101.62:80,anonymous,false,1322,1225,98.6,98.4,1002,60.53.111.48,2,my,Labuan,Labuan,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,17,2025-09-04T23:49:22.285Z,2026-11-26T04:30:12.470Z
+http,219.93.101.60,80,http://219.93.101.60:80,anonymous,false,1319,1367.5,93.7,96.4,1001,60.53.111.48,2,my,Labuan,Labuan,Asia/Kuala_Lumpur,4788,TM TECHNOLOGY SERVICES SDN. BHD.,1,2026-03-17T17:23:33.505Z,2026-11-26T04:24:47.375Z

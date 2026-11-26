@@ -5,12 +5,12 @@
     "port": 3128,
     "url": "http://195.158.8.123:3128",
     "anonymity": "elite",
-    "https": false,
-    "latency_ms": 4664,
-    "latency_median_ms": 4022.5,
-    "uptime_24h": 85.2,
-    "uptime_7d": 80.9,
-    "checks_7d": 851,
+    "https": true,
+    "latency_ms": 3222,
+    "latency_median_ms": 3488,
+    "uptime_24h": 71.4,
+    "uptime_7d": 80.1,
+    "checks_7d": 850,
     "exit_ip": "195.158.8.123",
     "exit_shared": 1,
     "country": "uz",
@@ -21,6 +21,6 @@
     "asn_org": "Uzbektelekom Joint Stock Company",
     "sources_count": 25,
     "first_seen": "2025-09-08T17:35:24.862Z",
-    "last_checked": "2026-11-25T04:23:21.037Z"
+    "last_checked": "2026-11-26T04:29:07.905Z"
   }
 ]

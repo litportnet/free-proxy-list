@@ -1,5 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.74.31.46,17018,socks5://45.74.31.46:17018,elite,false,3577,3565.5,27.8,21.6,245,164.68.100.166,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,12,2026-11-17T13:41:50.581Z,2026-11-25T04:22:57.386Z
-socks5,45.74.31.41,9150,socks5://45.74.31.41:9150,elite,false,1525,3994,22.9,17.7,277,164.68.100.166,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,12,2026-11-03T05:40:42.642Z,2026-11-25T04:22:17.274Z
-socks5,45.74.31.46,5712,socks5://45.74.31.46:5712,elite,false,6389,4549.5,15.7,16.1,267,164.68.100.166,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,15,2026-10-19T03:30:00.384Z,2026-11-25T04:24:54.563Z
-socks5,45.74.31.42,8189,socks5://45.74.31.42:8189,elite,false,2858,3341,31.6,15.3,261,164.68.100.166,4,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,15,2026-10-01T14:55:21.601Z,2026-11-25T04:23:12.438Z
+socks5,45.74.31.47,20296,socks5://45.74.31.47:20296,elite,true,6169,3250.5,13.8,27,304,164.68.100.166,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,11,2026-11-21T04:27:40.066Z,2026-11-26T04:30:01.628Z
+socks5,82.21.200.23,1080,socks5://82.21.200.23:1080,elite,false,3937,5367.5,23.6,22.5,253,82.21.200.7,1,fr,Île-de-France,Vélizy-Villacoublay,Europe/Paris,199415,YORKHOST SAS,13,2026-11-23T13:57:52.373Z,2026-11-26T04:30:09.882Z
+socks5,45.74.31.41,10816,socks5://45.74.31.41:10816,elite,false,2548,4787.5,21.3,18.4,239,164.68.100.166,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,14,2026-09-15T14:53:03.618Z,2026-11-26T04:22:42.764Z

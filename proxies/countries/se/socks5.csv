@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,6676,4196.5,95.8,94.6,994,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-25T04:19:58.746Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1603,3254.5,92.3,94.4,993,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-26T04:30:03.692Z

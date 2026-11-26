@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,186.233.119.183,1080,socks5://186.233.119.183:1080,elite,true,5822,5541,50,49.8,705,186.233.119.183,2,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,266181,GOLDEN LINK,15,2026-11-19T22:11:41.036Z,2026-11-25T04:28:33.242Z
-socks5,186.26.95.249,61445,socks5://186.26.95.249:61445,elite,false,3820,1829.5,35.2,33,816,186.26.95.249,2,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,274386,NOSSO WI-FI LTDA,20,2025-09-05T20:05:53.644Z,2026-11-25T04:21:32.324Z
+socks5,186.233.119.183,1080,socks5://186.233.119.183:1080,elite,true,3841,3143.5,43.4,48.7,833,186.233.119.183,2,br,Rio de Janeiro,Rio de Janeiro,America/Sao_Paulo,266181,GOLDEN LINK,15,2026-11-19T22:11:41.036Z,2026-11-26T04:23:41.311Z
+socks5,163.176.179.226,1080,socks5://163.176.179.226:1080,elite,false,912,4382,38.6,38.3,698,163.176.179.226,2,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,18,2026-09-11T01:56:09.119Z,2026-11-26T04:26:01.799Z
+socks5,186.219.210.133,7080,socks5://186.219.210.133:7080,elite,false,8193,6086,17.2,17,277,186.219.210.133,1,br,Minas Gerais,Piumhi,America/Sao_Paulo,262996,MEGAMINAS TELECOMUNICACOES LTDA,21,2026-08-24T10:41:36.432Z,2026-11-26T04:21:10.069Z

@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,157.90.113.23,9052,socks4://157.90.113.23:9052,elite,true,644,713,68,58.1,742,31.58.214.77,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,19,2026-08-01T19:38:38.199Z,2026-11-25T04:21:17.327Z
-socks4,5.78.181.0,9052,socks4://5.78.181.0:9052,elite,true,861,1094.5,49.2,42.4,851,31.58.214.97,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,13,2026-11-11T06:22:09.599Z,2026-11-25T04:24:14.733Z

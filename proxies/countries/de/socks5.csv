@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.232.249.209,40001,socks5://46.232.249.209:40001,elite,true,796,756,60,53.7,901,104.28.193.120,2,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-19T22:40:13.134Z,2026-11-25T04:23:15.667Z
-socks5,176.115.192.185,1080,socks5://176.115.192.185:1080,elite,false,1326,1276.5,50.7,44.1,910,31.76.64.124,1,de,Hesse,Frankfurt am Main,Europe/Berlin,207957,SERV.HOST GROUP LTD,15,2026-11-18T04:49:50.016Z,2026-11-25T04:22:43.413Z
-socks5,82.19.0.114,9150,socks5://82.19.0.114:9150,elite,true,2468,2529.5,31.8,31.8,107,185.220.101.158,1,de,State of Berlin,Berlin,Europe/Berlin,60729,Stiftung Erneuerbare Freiheit,9,2026-11-24T06:06:23.169Z,2026-11-25T04:23:53.190Z
+socks5,91.107.179.68,10809,socks5://91.107.179.68:10809,elite,true,5168,2051.5,69.8,69,951,104.28.207.219,1,de,Saxony,Leipzig,Europe/Berlin,13335,"Cloudflare, Inc.",20,2026-09-13T03:21:50.152Z,2026-11-26T04:26:27.583Z
+socks5,46.232.249.209,40001,socks5://46.232.249.209:40001,elite,true,749,923.5,50.5,54.5,893,104.28.225.121,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-19T22:40:13.134Z,2026-11-26T04:22:06.124Z
+socks5,57.128.249.250,9052,socks5://57.128.249.250:9052,elite,true,1741,1398.5,55.5,46.7,876,102.206.50.19,1,de,Hesse,Frankfurt am Main,Europe/Berlin,211619,MAXKO d.o.o.,19,2026-07-31T18:22:54.655Z,2026-11-26T04:30:33.102Z
+socks5,176.115.192.185,1080,socks5://176.115.192.185:1080,elite,false,1412,1300,45.7,43.6,907,31.76.64.124,1,de,Hesse,Frankfurt am Main,Europe/Berlin,207957,SERV.HOST GROUP LTD,15,2026-11-18T04:49:50.016Z,2026-11-26T04:25:22.523Z

@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,49.0.156.20,32000,socks4://49.0.156.20:32000,elite,true,9124,3880.5,72.1,68.8,938,49.0.156.20,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,38818,YOKOZUNANET LLC,13,2025-09-05T20:06:27.356Z,2026-11-25T04:24:09.373Z
-socks4,203.174.26.137,4153,socks4://203.174.26.137:4153,elite,false,1075,4079.5,32.5,26.9,648,180.149.95.214,2,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,14,2025-09-04T23:49:08.113Z,2026-11-25T04:22:54.678Z
-socks4,203.174.26.129,4153,socks4://203.174.26.129:4153,elite,false,2114,2064.5,28.2,24.9,502,180.149.95.214,2,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,45204,GEMNET LLC,13,2025-09-04T23:49:01.812Z,2026-11-25T04:25:06.428Z
-http,202.179.2.250,8080,http://202.179.2.250:8080,anonymous,false,5213,3842,17.5,24.9,370,202.179.2.250,1,mn,Ulaanbaatar,Ulan Bator,Asia/Ulaanbaatar,9934,Mongolia Telecom,15,2025-09-05T20:06:32.203Z,2026-11-25T04:22:14.607Z

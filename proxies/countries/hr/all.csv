@@ -1,5 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,176.9.107.170,1081,socks4://176.9.107.170:1081,elite,true,571,569.5,97.2,84.8,382,217.9.244.86,2,hr,Zagreb,Zagreb,Europe/Zagreb,209854,Cyberzone S.A.,10,2026-06-25T08:39:56.195Z,2026-11-25T04:21:06.572Z
-socks5,176.9.107.170,1081,socks5://176.9.107.170:1081,elite,true,682,684.5,95.8,84,381,217.9.244.86,2,hr,Zagreb,Zagreb,Europe/Zagreb,209854,Cyberzone S.A.,22,2026-06-25T09:36:53.359Z,2026-11-25T04:25:25.862Z
-socks4,82.132.19.108,4153,socks4://82.132.19.108:4153,elite,true,1695,1695,59.2,57.7,903,82.132.19.108,1,hr,Krapina-Zagorje,Oroslavje,Europe/Zagreb,2108,Croatian Academic and Research Network,11,2025-09-04T23:01:27.495Z,2026-11-25T04:24:28.751Z
-http,188.129.8.242,81,http://188.129.8.242:81,elite,false,3933,2896.5,33.3,38.8,804,188.129.8.242,1,hr,Zagreb,Zagreb,Europe/Zagreb,29485,A1 Hrvatska d.o.o.,19,2026-06-14T10:16:56.085Z,2026-11-25T04:23:38.128Z

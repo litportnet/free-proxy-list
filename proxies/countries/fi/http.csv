@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,529,521.5,100,95.6,963,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-25T04:19:29.364Z
-http,185.247.141.86,3128,http://185.247.141.86:3128,elite,false,644,663,51.7,51.7,58,185.247.141.86,3,fi,Uusimaa,Helsinki,Europe/Helsinki,51765,Oy Creanova Hosting Solutions Ltd.,14,2026-11-24T17:12:14.089Z,2026-11-25T04:26:29.705Z
-http,91.208.42.2,7890,http://91.208.42.2:7890,elite,false,9010,7262.5,45.3,45.3,75,82.117.84.236,1,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,10,2026-11-24T14:10:42.358Z,2026-11-25T04:22:42.354Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,499,500,100,95.6,964,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-26T04:30:44.680Z

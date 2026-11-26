@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,211.22.151.163,60909,socks4://211.22.151.163:60909,elite,true,941,972,85.5,85.5,55,106.104.177.158,1,tw,Taiwan,Taichung,Asia/Taipei,4780,Digital United Inc.,13,2026-11-24T19:13:17.372Z,2026-11-25T04:26:43.673Z
-socks4,220.132.41.160,1088,socks4://220.132.41.160:1088,elite,false,8115,2002,63.6,60.1,942,220.132.41.160,1,tw,Taiwan,Chiayi City,Asia/Taipei,3462,Data Communication Business Group,13,2025-09-04T23:49:14.627Z,2026-11-25T04:19:49.045Z

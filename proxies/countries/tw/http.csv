@@ -1,5 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,182.233.119.10,8880,http://182.233.119.10:8880,elite,false,785,1295.5,98.6,97.9,188,182.233.119.10,1,tw,Taipei,Banqiao,Asia/Taipei,9416,KBT,3,2026-11-23T21:01:36.318Z,2026-11-25T04:22:52.548Z
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,1854,811,95.1,93.7,999,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-25T04:24:20.624Z
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,676,670.5,89.9,93,974,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-25T04:29:05.319Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,798,1011.5,86,80,975,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-25T04:21:45.692Z
+http,182.233.119.10,8880,http://182.233.119.10:8880,elite,false,1598,900,97.9,97.9,332,182.233.119.10,1,tw,Taipei,Banqiao,Asia/Taipei,9416,KBT,3,2026-11-23T21:01:36.318Z,2026-11-26T04:24:54.179Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,738,747,99.3,94,1000,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-26T04:29:00.118Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,653,652.5,98.6,93.8,998,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-26T04:24:02.825Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,763,781,89.5,80.7,976,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-26T04:21:33.637Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,740,3391.5,78.6,71.6,973,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-26T04:31:16.029Z

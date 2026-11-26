@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,82.137.90.220,80,http://82.137.90.220:80,elite,false,2313,1684,22.2,33.6,685,82.137.90.220,1,bg,Plovdiv,Karlovo,Europe/Sofia,8866,Vivacom Bulgaria EAD,7,2025-09-05T20:06:37.783Z,2026-11-26T04:28:06.184Z
+http,213.169.33.3,8001,http://213.169.33.3:8001,anonymous,false,4749,3706.5,28.6,22.9,559,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,20,2025-09-05T20:06:37.898Z,2026-11-26T04:23:24.530Z
+http,213.169.33.10,8001,http://213.169.33.10:8001,anonymous,false,9028,4075.5,41.2,22.7,330,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:37.091Z,2026-11-26T04:25:00.890Z

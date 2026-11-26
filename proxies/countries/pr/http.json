@@ -1,16 +1,40 @@
 [
   {
     "protocol": "http",
+    "ip": "154.64.211.145",
+    "port": 999,
+    "url": "http://154.64.211.145:999",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 2074,
+    "latency_median_ms": 3751,
+    "uptime_24h": 28.6,
+    "uptime_7d": 29.5,
+    "checks_7d": 652,
+    "exit_ip": "198.52.241.102",
+    "exit_shared": 1,
+    "country": "pr",
+    "region": "Humacao",
+    "city": "Humacao",
+    "timezone": "America/Puerto_Rico",
+    "asn": 21559,
+    "asn_org": "OSNET",
+    "sources_count": 15,
+    "first_seen": "2025-09-05T20:06:35.987Z",
+    "last_checked": "2026-11-26T04:22:01.417Z"
+  },
+  {
+    "protocol": "http",
     "ip": "200.5.26.3",
     "port": 8087,
     "url": "http://200.5.26.3:8087",
     "anonymity": "anonymous",
     "https": false,
-    "latency_ms": 1589,
-    "latency_median_ms": 2644,
-    "uptime_24h": 19.6,
-    "uptime_7d": 16.5,
-    "checks_7d": 310,
+    "latency_ms": 2808,
+    "latency_median_ms": 2958,
+    "uptime_24h": 18,
+    "uptime_7d": 17.2,
+    "checks_7d": 314,
     "exit_ip": "200.5.26.1",
     "exit_shared": 1,
     "country": "pr",
@@ -21,6 +45,6 @@
     "asn_org": "Dimelo Network",
     "sources_count": 16,
     "first_seen": "2026-07-04T13:34:06.174Z",
-    "last_checked": "2026-11-25T04:22:06.554Z"
+    "last_checked": "2026-11-26T04:21:27.897Z"
   }
 ]

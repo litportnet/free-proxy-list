@@ -1,2 +1,3 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,200.5.26.3,8087,http://200.5.26.3:8087,anonymous,false,1589,2644,19.6,16.5,310,200.5.26.1,1,pr,Yauco,Yauco,America/Puerto_Rico,401436,Dimelo Network,16,2026-07-04T13:34:06.174Z,2026-11-25T04:22:06.554Z
+http,154.64.211.145,999,http://154.64.211.145:999,anonymous,false,2074,3751,28.6,29.5,652,198.52.241.102,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,15,2025-09-05T20:06:35.987Z,2026-11-26T04:22:01.417Z
+http,200.5.26.3,8087,http://200.5.26.3:8087,anonymous,false,2808,2958,18,17.2,314,200.5.26.1,1,pr,Yauco,Yauco,America/Puerto_Rico,401436,Dimelo Network,16,2026-07-04T13:34:06.174Z,2026-11-26T04:21:27.897Z

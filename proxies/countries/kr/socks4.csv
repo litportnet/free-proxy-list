@@ -1,7 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,59.11.209.162,1080,socks4://59.11.209.162:1080,elite,true,912,916,98.6,98.9,284,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,6,2026-05-31T01:20:36.341Z,2026-11-25T04:25:12.403Z
-socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,927,1574,100,95.5,1003,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-25T04:25:08.059Z
-socks4,114.108.177.104,60984,socks4://114.108.177.104:60984,elite,true,3984,1940,67.4,67.6,976,114.108.177.104,1,kr,Seoul,Seoul,Asia/Seoul,3786,LG DACOM Corporation,21,2025-09-04T23:48:54.923Z,2026-11-25T04:24:41.059Z
-socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,true,1914,1935.5,62.9,62.5,947,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-25T04:24:17.402Z
-socks4,221.157.45.249,80,socks4://221.157.45.249:80,elite,true,1882,1893.5,40.3,39.6,871,221.157.45.249,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,21,2026-07-04T13:34:01.794Z,2026-11-25T04:22:35.994Z
-socks4,43.155.215.149,20000,socks4://43.155.215.149:20000,elite,false,938,1085.5,24.2,30.9,735,43.155.215.149,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-07-17T05:21:19.618Z,2026-11-25T04:22:55.775Z
+socks4,59.11.209.162,1080,socks4://59.11.209.162:1080,elite,true,892,911,100,99.3,428,59.11.209.162,1,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,6,2026-05-31T01:20:36.341Z,2026-11-26T04:30:54.142Z
+socks4,183.106.215.208,1080,socks4://183.106.215.208:1080,elite,true,883,907.5,98.6,96,1004,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,15,2026-10-05T02:32:52.292Z,2026-11-26T04:23:54.417Z
+socks4,121.139.218.165,43295,socks4://121.139.218.165:43295,elite,false,8034,1918.5,58,62.6,949,121.139.218.165,1,kr,Gyeonggi-do,Ansan-si,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:49:05.991Z,2026-11-26T04:24:36.289Z
+socks4,152.70.237.238,3128,socks4://152.70.237.238:3128,elite,true,3918,2015,44.4,36,834,104.28.211.28,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T10:32:34.347Z,2026-11-26T04:26:46.943Z

@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,103.167.229.147,8080,http://103.167.229.147:8080,anonymous,false,9336,5209,29.2,27.5,637,103.167.229.147,1,np,Sudurpashchim Pradesh,Ṭikāpur,Asia/Kathmandu,140072,Fiberworld Communication Pvt.ltd,15,2025-09-05T20:06:35.157Z,2026-11-25T04:21:31.290Z
+http,43.245.93.193,53805,http://43.245.93.193:53805,anonymous,false,3558,6693,15,11.1,252,43.245.95.178,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,55427,Broadlink Nepal,22,2025-09-05T20:06:38.060Z,2026-11-26T04:28:53.931Z

@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,188.226.27.24,1080,socks4://188.226.27.24:1080,elite,true,1224,2299,61.3,78,945,88.210.12.209,2,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,14,2026-11-01T14:20:07.967Z,2026-11-25T04:27:45.492Z
-socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,true,2604,3374,52.6,56.2,921,128.199.37.92,2,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",20,2025-09-10T19:34:11.853Z,2026-11-25T04:22:13.510Z
+socks4,37.18.73.60,5566,socks4://37.18.73.60:5566,elite,false,1642,1130,57.3,86.5,990,192.42.116.97,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,12,2025-09-10T19:33:55.836Z,2026-11-26T04:28:12.450Z
+socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,false,3558,3585.5,42.8,53.6,941,128.199.37.92,2,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",1,2026-03-17T17:23:30.289Z,2026-11-26T04:27:57.408Z
+socks4,129.101.121.240,8080,socks4://129.101.121.240:8080,elite,true,3619,3070.5,54.2,,24,104.28.251.140,1,nl,North Holland,Amsterdam,Europe/Amsterdam,13335,"Cloudflare, Inc.",3,2026-11-12T17:40:46.922Z,2026-11-26T04:26:56.410Z

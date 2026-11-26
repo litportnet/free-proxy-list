@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,false,2614,2204,63.8,58.4,961,195.13.182.211,1,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T11:02:35.488Z,2026-11-25T04:24:57.817Z
-socks5,195.135.255.98,1080,socks5://195.135.255.98:1080,elite,true,2796,2281,27.3,37.6,679,195.135.255.98,1,lv,Riga,Riga,Europe/Riga,42532,SIA VEESP,20,2026-07-06T17:06:50.617Z,2026-11-25T04:23:04.355Z
+socks5,195.13.182.211,8080,socks5://195.13.182.211:8080,elite,false,8552,2998,56,57.2,946,195.13.182.211,2,lv,Riga,Riga,Europe/Riga,12578,SIA Tet,17,2026-10-07T11:02:35.488Z,2026-11-26T04:26:12.876Z
+socks5,65.21.252.66,10814,socks5://65.21.252.66:10814,elite,false,2708,3606,25.6,31.3,633,109.248.147.70,1,lv,Riga,Riga,Europe/Riga,52048,SIA RixHost,20,2026-09-17T02:30:16.285Z,2026-11-26T04:27:44.476Z
+socks5,116.202.32.250,1083,socks5://116.202.32.250:1083,elite,false,1285,1874.5,38.5,27.8,230,196.240.246.9,1,lv,Riga,Riga,Europe/Riga,41564,Orion Network Limited,15,2026-11-15T02:10:35.435Z,2026-11-26T04:30:46.253Z

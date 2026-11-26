@@ -1,5 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,1787,553.5,100,99.8,1006,108.162.221.69,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-25T04:25:26.401Z
-socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,3914,1373.5,82.9,78.7,981,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-11-25T04:26:26.051Z
-socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,false,3691,3694.5,64.5,58.2,936,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,14,2026-07-06T13:59:25.623Z,2026-11-25T04:23:10.293Z
-http,90.146.196.18,8080,http://90.146.196.18:8080,elite,false,1884,3606.5,18,17.4,483,90.146.196.18,1,at,Upper Austria,Bergern,Europe/Vienna,12605,LIWEST Kabelmedien GmbH,25,2026-08-30T01:54:55.486Z,2026-11-25T04:24:12.065Z
+http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,544,554,100,99.8,1005,104.23.162.148,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-26T04:25:05.096Z
+socks4,176.9.107.170,1083,socks4://176.9.107.170:1083,elite,true,553,810,50,80.8,146,89.187.168.37,2,at,Vienna,Vienna,Europe/Vienna,60068,Datacamp Limited,13,2026-11-24T10:08:30.616Z,2026-11-26T04:26:03.384Z
+socks5,176.9.107.170,1083,socks5://176.9.107.170:1083,elite,true,953,950,50,80.8,151,89.187.168.37,2,at,Vienna,Vienna,Europe/Vienna,60068,Datacamp Limited,13,2026-11-24T09:07:59.441Z,2026-11-26T04:27:18.516Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,false,2768,1606.5,77.3,76.4,984,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,1,2026-03-17T17:23:29.086Z,2026-11-26T04:24:38.396Z

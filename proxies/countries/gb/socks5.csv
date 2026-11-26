@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,false,1606,2652.5,36.5,31.2,762,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,15,2026-11-12T07:35:32.757Z,2026-11-25T04:25:43.786Z
-socks5,141.147.109.224,1080,socks5://141.147.109.224:1080,elite,true,2707,2314,22.8,14.6,137,141.147.109.224,1,gb,England,London,Europe/London,31898,Oracle Corporation,19,2026-06-11T19:45:46.955Z,2026-11-25T04:22:33.306Z
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,false,1235,2130,51.2,48.4,642,187.13.194.18,1,gb,England,Manchester,Europe/London,136787,PacketHub S.A.,19,2026-09-16T03:18:14.821Z,2026-11-26T04:26:23.396Z
+socks5,5.78.181.0,9052,socks5://5.78.181.0:9052,elite,true,1192,1387.5,44.8,43.2,817,31.58.214.171,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,13,2026-11-11T06:22:10.001Z,2026-11-26T04:25:04.575Z
+socks5,46.37.59.97,1080,socks5://46.37.59.97:1080,elite,true,3649,1658,34.5,31.6,779,46.37.59.97,1,gb,England,London,Europe/London,51918,Cerberus Networks Ltd,15,2026-11-12T07:35:32.757Z,2026-11-26T04:25:00.881Z
+socks5,81.168.119.85,443,socks5://81.168.119.85:443,elite,false,9120,1946.5,31.8,13.6,242,81.168.119.85,2,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,16,2026-05-21T12:18:50.172Z,2026-11-26T04:23:48.133Z
