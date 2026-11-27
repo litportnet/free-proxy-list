@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,false,723,742,97.2,95.4,999,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-26T04:24:44.201Z
+socks4,103.13.19.219,10808,socks4://103.13.19.219:10808,elite,true,809,1336.5,97.2,95.7,998,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,13,2026-11-11T01:19:30.644Z,2026-11-27T04:32:55.647Z
+socks4,205.177.85.130,39593,socks4://205.177.85.130:39593,elite,true,3767,1267.5,71.6,67.5,968,205.177.85.130,1,jp,Tokyo,Tokyo,Asia/Tokyo,63199,"CDS Global Cloud Co., Ltd",14,2025-09-04T23:48:53.699Z,2026-11-27T04:28:25.646Z
+socks4,43.163.219.10,20000,socks4://43.163.219.10:20000,elite,true,818,817.5,30,20,455,43.163.219.10,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",13,2026-03-19T19:50:21.621Z,2026-11-27T04:29:29.532Z

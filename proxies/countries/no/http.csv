@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,16.28.29.244,8088,http://16.28.29.244:8088,elite,false,1469,1532.5,66.7,,6,185.181.61.203,1,no,Vestfold,Sandefjord,Europe/Oslo,56655,Gigahost AS,4,2026-08-14T09:18:30.796Z,2026-11-27T04:33:24.406Z

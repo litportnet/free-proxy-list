@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,85.143.71.188,10808,socks5://85.143.71.188:10808,elite,false,9777,6964,49.1,37.1,245,37.151.89.126,4,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,14,2026-11-19T10:05:17.539Z,2026-11-27T04:25:06.251Z

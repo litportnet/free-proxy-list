@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,88.198.69.51,1100,socks5://88.198.69.51:1100,elite,true,960,933.5,69,33.1,275,216.97.228.178,1,it,Lombardy,Milan,Europe/Rome,212238,Datacamp Limited,15,2026-11-16T05:24:54.682Z,2026-11-27T04:28:00.309Z

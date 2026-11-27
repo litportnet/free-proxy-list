@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,182.233.119.10,8880,http://182.233.119.10:8880,elite,false,1598,900,97.9,97.9,332,182.233.119.10,1,tw,Taipei,Banqiao,Asia/Taipei,9416,KBT,3,2026-11-23T21:01:36.318Z,2026-11-26T04:24:54.179Z
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,738,747,99.3,94,1000,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-26T04:29:00.118Z
-http,182.155.254.159,80,http://182.155.254.159:80,elite,false,653,652.5,98.6,93.8,998,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-26T04:24:02.825Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,763,781,89.5,80.7,976,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-26T04:21:33.637Z
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,740,3391.5,78.6,71.6,973,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-26T04:31:16.029Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,780,751,96.5,94.2,1001,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-27T04:30:34.033Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,768,763,85.2,81.3,983,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-27T04:25:18.422Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2533,1821.5,87.2,74.2,974,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-27T04:26:03.031Z
+http,114.34.145.135,8080,http://114.34.145.135:8080,anonymous,false,2804,2927,38.2,27.5,691,114.34.145.135,1,tw,Taiwan,Taoyuan,Asia/Taipei,3462,Data Communication Business Group,19,2026-11-08T22:52:53.517Z,2026-11-27T04:26:27.167Z
+http,103.136.250.154,8080,http://103.136.250.154:8080,elite,false,4148,4238.5,23.5,26.9,514,103.136.250.154,1,tw,Taiwan,Taipei,Asia/Taipei,138915,Kaopu Cloud HK Limited,17,2026-11-12T04:33:49.704Z,2026-11-27T04:23:31.080Z

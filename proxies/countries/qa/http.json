@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "176.202.184.21",
+    "port": 8080,
+    "url": "http://176.202.184.21:8080",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 1337,
+    "latency_median_ms": 4346,
+    "uptime_24h": 22.4,
+    "uptime_7d": 26.6,
+    "checks_7d": 621,
+    "exit_ip": "176.202.184.21",
+    "exit_shared": 1,
+    "country": "qa",
+    "region": "Baladiyat ad Dawhah",
+    "city": "Doha",
+    "timezone": "Asia/Qatar",
+    "asn": 8781,
+    "asn_org": "Ooredoo Q.S.C.",
+    "sources_count": 18,
+    "first_seen": "2026-11-19T04:01:59.702Z",
+    "last_checked": "2026-11-27T04:25:25.249Z"
+  }
+]

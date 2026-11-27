@@ -1,4 +1,8 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,556,560.5,99.3,98.8,1010,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",5,2026-09-22T02:17:06.569Z,2026-11-26T04:21:33.096Z
-http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,1063,783.5,92.3,80.8,883,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-26T04:27:10.191Z
-http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,553,565.5,68.8,76,967,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-26T04:24:22.749Z
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,546,590,88.5,98.3,987,104.28.239.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",14,2026-09-22T02:17:06.569Z,2026-11-27T04:29:54.002Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,1029,854,81.7,81.8,890,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-27T04:32:34.341Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,552,554.5,87.4,77.9,974,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-27T04:30:48.178Z
+http,2.237.63.228,80,http://2.237.63.228:80,elite,false,899,755.5,58.6,58.6,99,2.237.63.228,1,it,Sicily,Palermo,Europe/Rome,12874,Fastweb SpA,6,2026-11-26T10:33:59.571Z,2026-11-27T04:31:12.237Z
+http,93.42.151.100,4443,http://93.42.151.100:4443,anonymous,false,1126,3502.5,43.6,33.2,705,93.42.151.100,1,it,Lazio,Rome,Europe/Rome,12874,Fastweb SpA,10,2026-03-19T05:42:49.593Z,2026-11-27T04:27:09.757Z
+http,93.187.26.134,58080,http://93.187.26.134:58080,anonymous,false,4752,4770.5,29.7,31.3,616,93.187.26.134,1,it,Tuscany,Radicondoli,Europe/Rome,43960,Consorzio Terrecablate,24,2026-06-15T23:43:01.247Z,2026-11-27T04:23:43.300Z
+http,84.8.248.36,3128,http://84.8.248.36:3128,elite,false,9865,5692,33.3,24.8,383,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,24,2026-08-12T10:52:28.127Z,2026-11-27T04:32:51.056Z

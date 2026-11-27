@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,false,3279,3115,77.5,77,966,198.244.254.77,1,gb,England,London,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-26T04:30:54.146Z
-http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,411,395.5,57.8,47,901,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-26T04:24:45.265Z
-http,81.168.119.85,5443,http://81.168.119.85:5443,elite,false,930,3209.5,23.5,19.1,341,81.168.119.85,2,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,21,2026-08-15T13:34:39.246Z,2026-11-26T04:28:18.661Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,4579,2544,82.1,78.5,976,198.244.254.77,1,gb,England,London,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-27T04:31:05.463Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,393,395,58.3,47.7,922,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-27T04:32:09.329Z
+http,31.148.99.133,4000,http://31.148.99.133:4000,transparent,true,2555,4340.5,26.7,34.7,277,31.148.99.133,1,gb,England,London,Europe/London,212913,TIME-HOST LTD,19,2026-09-24T12:25:44.818Z,2026-11-27T04:33:15.592Z
+http,81.168.119.85,443,http://81.168.119.85:443,elite,false,7136,3227.5,30.5,19.6,286,81.168.119.85,1,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,14,2026-05-21T10:22:05.335Z,2026-11-27T04:28:06.148Z

@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,83.143.24.66,80,http://83.143.24.66:80,anonymous,false,2374,3571.5,25,25.2,659,83.143.24.66,1,bw,Gaborone,Gaborone,Africa/Gaborone,328459,VBN Services,18,2025-09-05T20:06:32.587Z,2026-11-27T04:29:55.573Z

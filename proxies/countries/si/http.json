@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "109.127.199.76",
+    "port": 9999,
+    "url": "http://109.127.199.76:9999",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 2225,
+    "latency_median_ms": 1070,
+    "uptime_24h": 38,
+    "uptime_7d": 38,
+    "checks_7d": 50,
+    "exit_ip": "153.5.82.22",
+    "exit_shared": 1,
+    "country": "si",
+    "region": "Ljubljana",
+    "city": "Ljubljana",
+    "timezone": "Europe/Ljubljana",
+    "asn": 2107,
+    "asn_org": "ARNES",
+    "sources_count": 5,
+    "first_seen": "2026-11-12T04:33:57.357Z",
+    "last_checked": "2026-11-27T04:29:36.331Z"
+  }
+]

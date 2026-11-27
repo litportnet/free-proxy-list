@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,43.245.93.193,53805,http://43.245.93.193:53805,anonymous,false,3558,6693,15,11.1,252,43.245.95.178,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,55427,Broadlink Nepal,22,2025-09-05T20:06:38.060Z,2026-11-26T04:28:53.931Z
+http,116.90.224.50,8080,http://116.90.224.50:8080,anonymous,false,2360,3675,40.2,33.1,725,116.90.224.50,1,np,Bagmati Province,Kathmandu,Asia/Kathmandu,24550,Websurfer Nepal Internet Service Provider,16,2025-11-22T22:41:34.602Z,2026-11-27T04:26:19.254Z

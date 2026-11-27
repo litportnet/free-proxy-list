@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,176.9.107.170,1083,socks5://176.9.107.170:1083,elite,true,953,950,50,80.8,151,89.187.168.37,2,at,Vienna,Vienna,Europe/Vienna,60068,Datacamp Limited,13,2026-11-24T09:07:59.441Z,2026-11-26T04:27:18.516Z
+socks5,5.75.133.113,10806,socks5://5.75.133.113:10806,elite,false,4937,1469,42,47,585,187.15.156.79,1,at,Vienna,Vienna,Europe/Vienna,212238,Datacamp Limited,19,2026-09-18T09:46:47.006Z,2026-11-27T04:23:13.534Z

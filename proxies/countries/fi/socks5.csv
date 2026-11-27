@@ -1,2 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.141.177.0,1080,socks5://45.141.177.0:1080,elite,true,898,922.5,93,89.5,315,45.141.177.0,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,7,2026-10-16T07:54:24.217Z,2026-11-26T04:26:50.613Z
+socks5,138.124.118.28,1080,socks5://138.124.118.28:1080,elite,false,717,784.5,23.8,20.3,69,138.124.118.28,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,6,2026-11-24T21:14:27.502Z,2026-11-27T04:28:07.715Z

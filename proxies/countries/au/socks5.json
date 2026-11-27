@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10811,
+    "url": "socks5://5.75.133.113:10811",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 9628,
+    "latency_median_ms": 6404.5,
+    "uptime_24h": 48.1,
+    "uptime_7d": 46.3,
+    "checks_7d": 752,
+    "exit_ip": "86.38.100.19",
+    "exit_shared": 1,
+    "country": "au",
+    "region": "South Australia",
+    "city": "Adelaide",
+    "timezone": "Australia/Adelaide",
+    "asn": 209854,
+    "asn_org": "Cyberzone S.A.",
+    "sources_count": 21,
+    "first_seen": "2026-08-24T21:47:23.618Z",
+    "last_checked": "2026-11-27T04:27:05.531Z"
+  }
+]

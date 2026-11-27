@@ -1,8 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1060,1742.5,97.2,96.1,1000,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-26T04:28:53.410Z
-socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,917,977.5,86.6,78,323,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",16,2026-09-24T19:29:29.857Z,2026-11-26T04:29:29.590Z
-socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,4633,1433.5,62.7,60.6,959,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-26T04:24:11.662Z
-socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,false,1103,1109,29.8,37,839,104.28.211.28,2,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T13:34:09.638Z,2026-11-26T04:22:29.766Z
-socks5,116.38.109.180,1979,socks5://116.38.109.180:1979,elite,true,1243,1318,100,25,76,116.38.109.180,1,kr,Seoul,Seoul,Asia/Seoul,17858,LG POWERCOMM,12,2025-10-01T02:59:15.462Z,2026-11-26T04:31:09.566Z
-socks5,43.108.84.178,1080,socks5://43.108.84.178:1080,elite,true,1190,1179,95.2,,42,43.108.84.178,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",11,2026-11-25T21:27:07.293Z,2026-11-26T04:27:01.699Z
-socks5,43.108.56.59,1080,socks5://43.108.56.59:1080,elite,false,1282,1171.5,78.6,,42,43.108.56.59,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",9,2026-11-25T21:27:07.293Z,2026-11-26T04:26:01.797Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1140,1136,100,97,1000,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-27T04:30:28.284Z
+socks5,59.11.209.162,1080,socks5://59.11.209.162:1080,elite,true,1174,1178.5,95.8,96.6,557,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,14,2026-05-30T23:12:26.616Z,2026-11-27T04:28:30.975Z
+socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,false,5295,3357.5,37.1,36.8,836,104.28.211.31,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T13:34:09.638Z,2026-11-27T04:32:15.573Z

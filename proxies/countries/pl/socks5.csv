@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.144.49.64,5443,socks5://45.144.49.64:5443,elite,true,1606,697.5,44.4,56.3,270,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,14,2026-11-24T05:05:52.540Z,2026-11-26T04:29:08.425Z
-socks5,185.100.85.64,1080,socks5://185.100.85.64:1080,elite,true,2501,1138,47.6,41.7,672,88.218.50.172,1,pl,Pomerania,Gdańsk,Europe/Warsaw,200088,Artnet Sp. z o.o.,15,2026-11-20T21:23:53.788Z,2026-11-26T04:24:13.224Z
-socks5,5.75.133.113,10813,socks5://5.75.133.113:10813,elite,true,3233,3035,39.7,35.4,483,128.90.170.5,1,pl,Mazovia,Warsaw,Europe/Warsaw,22363,"Powerhouse Management, Inc.",21,2026-09-16T14:24:02.370Z,2026-11-26T04:25:44.478Z
+socks5,45.144.49.64,5443,socks5://45.144.49.64:5443,elite,true,747,726,52.7,55,400,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,14,2026-11-24T05:05:52.540Z,2026-11-27T04:25:25.243Z

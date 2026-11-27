@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,45.130.127.10,80,http://45.130.127.10:80,elite,false,499,500,100,95.6,964,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-26T04:30:44.680Z
+http,77.221.142.205,80,http://77.221.142.205:80,elite,false,607,561,100,100,1009,104.22.167.38,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-27T04:25:26.299Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,539,538.5,100,95.6,963,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-27T04:31:07.023Z
+http,138.124.118.28,3128,http://138.124.118.28:3128,elite,false,648,637,20,17.7,119,138.124.118.28,2,fi,Uusimaa,Helsinki,Europe/Helsinki,210644,AEZA GROUP LLC,12,2026-11-23T08:55:13.376Z,2026-11-27T04:27:37.616Z

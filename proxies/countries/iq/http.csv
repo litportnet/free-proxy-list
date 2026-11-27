@@ -1,4 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.135.69.34,80,http://185.135.69.34:80,elite,false,366,362.5,100,96.2,989,185.135.69.34,1,iq,Baghdad,Baghdad,Asia/Baghdad,205889,Giga Nineveh for internet services Ltd,18,2025-12-06T17:01:45.042Z,2026-11-26T04:26:50.082Z
-http,109.224.2.58,8080,http://109.224.2.58:8080,anonymous,false,4834,3965.5,14.1,26.7,685,109.224.2.58,1,iq,Baghdad,Baghdad,Asia/Baghdad,203214,Hulum Almustakbal Company for Communication Engineering and Services Ltd,17,2026-10-28T05:24:48.424Z,2026-11-26T04:31:13.426Z
-http,188.72.43.129,47193,http://188.72.43.129:47193,anonymous,false,4443,3595,20,21.7,443,188.72.42.101,1,iq,Erbil,Pīrmām,Asia/Baghdad,213098,Pirmam For Information Technology Services Ltd,13,2025-11-17T09:30:27.965Z,2026-11-26T04:25:47.104Z
+http,185.135.69.34,80,http://185.135.69.34:80,elite,false,343,353.5,100,96.6,989,185.135.69.34,1,iq,Baghdad,Baghdad,Asia/Baghdad,205889,Giga Nineveh for internet services Ltd,18,2025-12-06T17:01:45.042Z,2026-11-27T04:33:18.184Z

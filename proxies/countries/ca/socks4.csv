@@ -1,2 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,70.38.101.182,40000,socks4://70.38.101.182:40000,elite,true,208,209.5,70,65.6,697,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-20T03:14:23.703Z,2026-11-26T04:27:43.437Z
+socks4,70.38.101.182,40000,socks4://70.38.101.182:40000,elite,true,326,775,63.4,65.5,831,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-20T03:14:23.703Z,2026-11-27T04:24:31.285Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,1366,2501.5,46.3,46.7,900,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-27T04:32:41.622Z
+socks4,149.248.18.106,1081,socks4://149.248.18.106:1081,elite,true,8433,7048.5,62.1,43.1,202,104.193.135.101,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-12T09:12:25.731Z,2026-11-27T04:30:13.221Z
+socks4,69.70.74.118,1337,socks4://69.70.74.118:1337,elite,true,1412,1326.5,13,20.8,461,69.70.74.118,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,12,2025-09-05T20:06:35.027Z,2026-11-27T04:31:50.489Z

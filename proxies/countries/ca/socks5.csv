@@ -1,4 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,false,211,229.5,69.8,58.8,776,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-19T19:10:04.602Z,2026-11-26T04:29:19.830Z
-socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,false,228,251.5,52.5,51,918,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-26T04:30:15.563Z
-socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,true,6753,6144,45.5,16.9,89,23.234.85.19,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-11-26T04:31:23.346Z
+socks5,70.38.101.182,40000,socks5://70.38.101.182:40000,elite,true,229,334,66.2,61.2,887,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",15,2026-11-19T19:10:04.602Z,2026-11-27T04:24:37.118Z
+socks5,38.49.210.79,40000,socks5://38.49.210.79:40000,elite,true,3232,3236,54.8,52.1,936,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",22,2026-06-17T18:01:47.043Z,2026-11-27T04:25:26.838Z
+socks5,149.248.18.106,1081,socks5://149.248.18.106:1081,elite,true,6671,6804.5,62.7,34.2,123,104.193.135.101,2,ca,British Columbia,Vancouver,America/Vancouver,394256,Tech Futures Interactive Inc.,16,2026-09-11T22:06:41.545Z,2026-11-27T04:24:56.193Z
+socks5,149.248.18.106,1080,socks5://149.248.18.106:1080,elite,false,8003,6992.5,39.7,30.6,196,23.234.85.19,1,ca,Ontario,Toronto,America/Toronto,11878,"tzulo, inc.",20,2026-09-11T21:05:56.215Z,2026-11-27T04:28:35.585Z
+socks5,172.86.84.97,1085,socks5://172.86.84.97:1085,elite,true,3702,2820,22.2,15.9,107,135.19.17.247,1,ca,Quebec,Montréal,America/Toronto,5769,Videotron Ltee,17,2026-10-13T19:22:40.469Z,2026-11-27T04:27:09.236Z

@@ -1,16 +1,16 @@
 [
   {
     "protocol": "http",
-    "ip": "172.65.90.46",
+    "ip": "172.65.90.47",
     "port": 80,
-    "url": "http://172.65.90.46:80",
+    "url": "http://172.65.90.47:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 656,
-    "latency_median_ms": 773.5,
+    "latency_ms": 677,
+    "latency_median_ms": 746.5,
     "uptime_24h": 100,
     "uptime_7d": 100,
-    "checks_7d": 1003,
+    "checks_7d": 1006,
     "exit_ip": "172.69.103.148",
     "exit_shared": 1,
     "country": "sa",
@@ -20,21 +20,21 @@
     "asn": 13335,
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 6,
-    "first_seen": "2025-10-15T04:33:23.028Z",
-    "last_checked": "2026-11-26T04:23:44.436Z"
+    "first_seen": "2025-10-14T23:38:12.602Z",
+    "last_checked": "2026-11-27T04:23:39.534Z"
   },
   {
     "protocol": "http",
-    "ip": "172.65.90.47",
+    "ip": "172.65.90.46",
     "port": 80,
-    "url": "http://172.65.90.47:80",
+    "url": "http://172.65.90.46:80",
     "anonymity": "transparent",
     "https": false,
-    "latency_ms": 729,
-    "latency_median_ms": 747.5,
+    "latency_ms": 722,
+    "latency_median_ms": 727,
     "uptime_24h": 100,
     "uptime_7d": 100,
-    "checks_7d": 1005,
+    "checks_7d": 1004,
     "exit_ip": "172.70.203.138",
     "exit_shared": 1,
     "country": "sa",
@@ -44,8 +44,8 @@
     "asn": 13335,
     "asn_org": "Cloudflare, Inc.",
     "sources_count": 6,
-    "first_seen": "2025-10-14T23:38:12.602Z",
-    "last_checked": "2026-11-26T04:24:28.509Z"
+    "first_seen": "2025-10-15T04:33:23.028Z",
+    "last_checked": "2026-11-27T04:27:20.289Z"
   },
   {
     "protocol": "http",
@@ -54,9 +54,9 @@
     "url": "http://130.110.103.245:3128",
     "anonymity": "anonymous",
     "https": true,
-    "latency_ms": 740,
-    "latency_median_ms": 779,
-    "uptime_24h": 100,
+    "latency_ms": 844,
+    "latency_median_ms": 864,
+    "uptime_24h": 95.1,
     "uptime_7d": 98.3,
     "checks_7d": 1001,
     "exit_ip": "130.110.103.245",
@@ -69,6 +69,6 @@
     "asn_org": "Oracle Corporation",
     "sources_count": 22,
     "first_seen": "2026-08-06T11:36:30.247Z",
-    "last_checked": "2026-11-26T04:27:40.835Z"
+    "last_checked": "2026-11-27T04:29:13.971Z"
   }
 ]

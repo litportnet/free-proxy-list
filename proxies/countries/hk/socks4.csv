@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,156.225.31.18,7890,socks4://156.225.31.18:7890,elite,true,3116,4401.5,73.1,74.8,967,156.225.31.18,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,401701,cognetcloud INC,17,2026-09-25T23:44:28.082Z,2026-11-26T04:25:26.103Z
-socks4,101.36.112.205,1081,socks4://101.36.112.205:1081,elite,false,2597,2593,41.6,37,776,101.36.112.205,2,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,21,2026-09-16T00:16:41.363Z,2026-11-26T04:30:22.219Z
+socks4,165.154.20.187,10808,socks4://165.154.20.187:10808,elite,false,2565,5723.5,41.7,52.6,818,165.154.20.187,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-08-10T03:23:28.713Z,2026-11-27T04:31:31.037Z
+socks4,154.219.101.12,1080,socks4://154.219.101.12:1080,elite,false,4884,2967.5,10,11.2,268,154.219.101.12,2,hk,Islands,Tung Chung,Asia/Hong_Kong,401701,cognetcloud INC,14,2026-11-02T16:33:51.137Z,2026-11-27T04:25:35.813Z
+socks4,61.155.3.26,8090,socks4://61.155.3.26:8090,elite,false,4857,3029,18.5,9.4,53,209.33.160.121,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,63150,BAGE CLOUD LLC,6,2026-09-21T04:02:26.853Z,2026-11-27T04:31:35.783Z

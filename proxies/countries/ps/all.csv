@@ -1,3 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,213.6.68.210,4145,socks4://213.6.68.210:4145,elite,false,1803,1853,58.4,60.8,830,213.6.68.210,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,13,2025-09-04T23:49:05.420Z,2026-11-26T04:25:27.207Z
-socks4,103.231.105.158,4145,socks4://103.231.105.158:4145,elite,false,1781,1791.5,41.6,43.2,896,103.231.105.158,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,22,2026-07-06T01:59:45.801Z,2026-11-26T04:21:59.330Z
+socks4,103.231.105.158,4145,socks4://103.231.105.158:4145,elite,false,3798,3803.5,54.5,44.3,899,103.231.105.158,1,ps,West Bank,Nablus,Asia/Hebron,12975,PALTEL Autonomous System,22,2026-07-06T01:59:45.801Z,2026-11-27T04:30:48.701Z
+http,82.213.29.53,19000,http://82.213.29.53:19000,anonymous,true,2091,3447.5,30.5,29.8,640,178.214.90.5,1,ps,West Bank,Ramallah,Asia/Hebron,51336,Gemzo information technology Private Joint-Stock company,14,2026-09-08T19:42:55.825Z,2026-11-27T04:29:49.853Z
+socks4,93.184.9.9,1080,socks4://93.184.9.9:1080,elite,false,3788,1794,22.8,25.1,681,93.184.7.26,1,ps,West Bank,Janīn,Asia/Hebron,47253,BCI Telecommunication & Advanced Technology Company,14,2025-09-04T23:01:30.105Z,2026-11-27T04:32:00.973Z

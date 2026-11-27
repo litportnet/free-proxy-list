@@ -1,6 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,550,544.5,100,99.1,1003,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-26T04:28:36.844Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,547,557.5,100,98.6,1005,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-26T04:21:00.203Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,558,545.5,100,98.6,1001,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-26T04:30:58.332Z
-http,45.144.49.64,5443,http://45.144.49.64:5443,elite,true,4586,1561,43.4,53.6,265,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,13,2026-11-24T06:06:15.644Z,2026-11-26T04:28:17.628Z
-http,195.205.134.1,8080,http://195.205.134.1:8080,anonymous,false,4988,4463.5,21.6,15.2,402,195.117.211.22,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,23,2026-06-02T21:54:40.979Z,2026-11-26T04:25:57.594Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,536,544.5,100,99.8,1008,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-27T04:27:14.524Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,550,543,100,99.8,1009,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-27T04:24:48.273Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,568,550,98.6,99.3,1005,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-27T04:24:34.988Z
+http,45.144.49.64,5443,http://45.144.49.64:5443,elite,true,575,711.5,49.6,52.1,401,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,13,2026-11-24T06:06:15.644Z,2026-11-27T04:26:39.252Z
+http,80.51.61.1,8080,http://80.51.61.1:8080,anonymous,false,3695,3805.5,10.7,17.1,363,195.117.211.22,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,21,2026-06-03T04:56:56.768Z,2026-11-27T04:30:10.619Z

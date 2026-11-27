@@ -1,3 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,false,7836,3711,69.3,73.7,978,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-26T04:28:18.659Z
-socks4,190.119.41.162,1080,socks4://190.119.41.162:1080,elite,false,1634,1602,45.5,53,704,181.67.82.186,1,pe,Cajamarca Department,Cajamarca,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,14,2026-11-20T21:23:49.639Z,2026-11-26T04:24:06.884Z
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,true,947,954,79.4,75,979,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-27T04:28:26.183Z
+socks4,181.176.68.118,5088,socks4://181.176.68.118:5088,elite,true,1694,2785.5,71.3,74.4,652,181.176.68.118,2,pe,Ayacucho,Huahuapuquio,America/Lima,262210,VIETTEL PERÚ S.A.C.,15,2026-11-22T11:44:06.065Z,2026-11-27T04:31:07.547Z
+socks4,200.106.124.169,1080,socks4://200.106.124.169:1080,elite,true,7917,2678.5,47.3,52.9,297,200.106.124.169,1,pe,Tacna,Tacna,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,13,2026-11-24T22:14:52.683Z,2026-11-27T04:23:17.277Z
+socks4,190.119.41.162,1080,socks4://190.119.41.162:1080,elite,true,3616,1616.5,34.4,50.2,829,181.67.82.186,1,pe,Cajamarca Department,Cajamarca,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,14,2026-11-20T21:23:49.639Z,2026-11-27T04:24:29.707Z

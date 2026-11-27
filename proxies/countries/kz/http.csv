@@ -1,2 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,31.130.153.132,3128,http://31.130.153.132:3128,anonymous,true,859,874,97.2,91.9,382,31.130.153.132,1,kz,Almaty,Almaty,Asia/Almaty,9123,"JSC ""TIMEWEB""",14,2026-11-09T05:56:45.427Z,2026-11-26T04:23:12.385Z
+http,31.130.153.132,3128,http://31.130.153.132:3128,anonymous,true,898,942.5,98.6,93.7,526,31.130.153.132,1,kz,Almaty,Almaty,Asia/Almaty,9123,"JSC ""TIMEWEB""",14,2026-11-09T05:56:45.427Z,2026-11-27T04:23:53.392Z
+http,85.143.71.188,10809,http://85.143.71.188:10809,elite,false,1771,5760.5,47.1,37.8,193,37.151.89.126,4,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,13,2026-11-23T04:53:07.225Z,2026-11-27T04:31:09.638Z
+http,85.143.71.188,10808,http://85.143.71.188:10808,elite,false,3270,4066.5,53.3,34.8,290,37.151.89.126,4,kz,Astana,Astana,Asia/Almaty,9198,JSC Kazakhtelecom,14,2026-11-20T07:16:26.371Z,2026-11-27T04:26:27.169Z

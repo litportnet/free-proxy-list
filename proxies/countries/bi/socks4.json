@@ -5,12 +5,12 @@
     "port": 1080,
     "url": "socks4://197.157.195.154:1080",
     "anonymity": "elite",
-    "https": true,
-    "latency_ms": 1677,
-    "latency_median_ms": 1684,
-    "uptime_24h": 80.1,
-    "uptime_7d": 73.9,
-    "checks_7d": 911,
+    "https": false,
+    "latency_ms": 1680,
+    "latency_median_ms": 2161,
+    "uptime_24h": 87.2,
+    "uptime_7d": 76.3,
+    "checks_7d": 929,
     "exit_ip": "197.157.195.154",
     "exit_shared": 1,
     "country": "bi",
@@ -21,7 +21,7 @@
     "asn_org": "SPIDERNET SPRL BURUNDI",
     "sources_count": 14,
     "first_seen": "2026-08-08T13:03:28.732Z",
-    "last_checked": "2026-11-26T04:27:49.118Z"
+    "last_checked": "2026-11-27T04:27:13.980Z"
   },
   {
     "protocol": "socks4",
@@ -30,11 +30,11 @@
     "url": "socks4://197.157.194.10:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 8871,
-    "latency_median_ms": 4711.5,
-    "uptime_24h": 70,
-    "uptime_7d": 71.7,
-    "checks_7d": 962,
+    "latency_ms": 2670,
+    "latency_median_ms": 2714,
+    "uptime_24h": 77.4,
+    "uptime_7d": 73.4,
+    "checks_7d": 957,
     "exit_ip": "197.157.194.10",
     "exit_shared": 1,
     "country": "bi",
@@ -45,6 +45,6 @@
     "asn_org": "SPIDERNET SPRL BURUNDI",
     "sources_count": 20,
     "first_seen": "2026-09-20T02:49:09.966Z",
-    "last_checked": "2026-11-26T04:25:35.045Z"
+    "last_checked": "2026-11-27T04:26:28.220Z"
   }
 ]

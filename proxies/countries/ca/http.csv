@@ -1,7 +1,6 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,172.64.78.198,80,http://172.64.78.198:80,transparent,false,112,153.5,100,100,1008,172.70.80.91,1,ca,Ontario,Toronto,America/Toronto,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:29.948Z,2026-11-26T04:20:52.855Z
-http,172.64.78.50,80,http://172.64.78.50:80,transparent,false,159,148.5,100,100,1004,104.22.237.3,1,ca,Ontario,Toronto,America/Toronto,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:46.847Z,2026-11-26T04:24:53.652Z
-http,40.177.65.8,80,http://40.177.65.8:80,elite,false,284,285,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-26T04:27:44.991Z
-http,70.38.101.182,40000,http://70.38.101.182:40000,elite,false,1192,322,64.5,69.8,590,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",9,2026-11-20T22:24:26.050Z,2026-11-26T04:30:19.615Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,1625,2808,57,64.4,926,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-26T04:24:06.881Z
-http,151.243.236.236,80,http://151.243.236.236:80,elite,false,1367,2336.5,51.1,55,789,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-26T04:22:51.064Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,310,302.5,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-27T04:29:37.371Z
+http,70.38.101.182,40000,http://70.38.101.182:40000,elite,true,304,277,68.1,69.5,727,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",9,2026-11-20T22:24:26.050Z,2026-11-27T04:25:48.941Z
+http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,4821,4964.5,72.1,65.8,926,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-27T04:28:35.377Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,7550,5047,40.5,31.7,710,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-27T04:27:12.384Z
+http,23.132.28.60,3128,http://23.132.28.60:3128,elite,false,3833,1440,23.7,16.4,189,198.96.155.3,1,ca,Ontario,Toronto,America/Toronto,12093,University of Waterloo,13,2026-11-23T00:50:58.378Z,2026-11-27T04:33:32.736Z

@@ -1,4 +1,10 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,82.137.90.220,80,http://82.137.90.220:80,elite,false,2313,1684,22.2,33.6,685,82.137.90.220,1,bg,Plovdiv,Karlovo,Europe/Sofia,8866,Vivacom Bulgaria EAD,7,2025-09-05T20:06:37.783Z,2026-11-26T04:28:06.184Z
-http,213.169.33.3,8001,http://213.169.33.3:8001,anonymous,false,4749,3706.5,28.6,22.9,559,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,20,2025-09-05T20:06:37.898Z,2026-11-26T04:23:24.530Z
-http,213.169.33.10,8001,http://213.169.33.10:8001,anonymous,false,9028,4075.5,41.2,22.7,330,213.169.33.7,2,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,24,2025-09-05T20:06:37.091Z,2026-11-26T04:25:00.890Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,268,260.5,91.7,91.4,548,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-27T04:24:31.291Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,253,259,91.8,90.9,550,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-27T04:29:46.200Z
+http,93.123.16.101,80,http://93.123.16.101:80,elite,false,256,258.5,91.8,88.7,441,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:33.113Z,2026-11-27T04:29:11.388Z
+http,93.123.16.102,80,http://93.123.16.102:80,elite,false,250,260,91.7,88,441,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T22:19:33.119Z,2026-11-27T04:29:16.568Z
+http,93.123.16.69,80,http://93.123.16.69:80,elite,false,251,256,91.8,88,440,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:31.145Z,2026-11-27T04:32:05.666Z
+http,93.123.16.66,80,http://93.123.16.66:80,elite,false,259,259.5,91.6,87.5,440,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T21:18:52.286Z,2026-11-27T04:24:48.279Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,1280,260,91.8,85.1,545,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-27T04:29:29.522Z
+http,85.187.224.21,8080,http://85.187.224.21:8080,anonymous,false,7553,7106.5,25.3,21.9,438,85.187.224.21,1,bg,Kardzhali,Kardzhali,Europe/Sofia,199173,TechnoLux Ltd.,23,2025-09-05T20:05:36.749Z,2026-11-27T04:29:10.871Z
+http,94.156.3.205,8080,http://94.156.3.205:8080,anonymous,true,1545,3969.5,22,14.3,147,94.156.3.205,1,bg,Silistra,Silistra,Europe/Sofia,198228,Silistra Telecom Solutions Ltd.,19,2026-09-24T13:26:16.367Z,2026-11-27T04:29:56.599Z

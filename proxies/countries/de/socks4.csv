@@ -1,4 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,3613,1087.5,61.3,60.7,940,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-26T04:25:50.249Z
-socks4,46.232.249.209,40001,socks4://46.232.249.209:40001,elite,true,600,937.5,54.3,51.8,873,104.28.193.121,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-20T00:41:14.743Z,2026-11-26T04:22:20.323Z
-socks4,92.5.160.32,1080,socks4://92.5.160.32:1080,elite,true,7707,5752.5,25.5,21.7,304,92.5.160.32,1,de,Hesse,Frankfurt am Main,Europe/Berlin,31898,Oracle Corporation,12,2026-11-21T11:31:33.229Z,2026-11-26T04:29:07.364Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,true,3637,608.5,64.3,64.1,961,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-27T04:30:38.237Z
+socks4,46.232.249.209,40001,socks4://46.232.249.209:40001,elite,true,617,637,60.9,55.2,888,104.28.193.122,2,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-20T00:41:14.743Z,2026-11-27T04:31:07.544Z
+socks4,176.115.192.185,1080,socks4://176.115.192.185:1080,elite,false,1014,1032,42,44.7,906,31.76.64.124,1,de,Hesse,Frankfurt am Main,Europe/Berlin,207957,SERV.HOST GROUP LTD,15,2026-11-18T04:49:49.582Z,2026-11-27T04:26:18.692Z
+socks4,18.159.34.202,443,socks4://18.159.34.202:443,elite,true,544,551.5,100,,6,18.159.34.202,2,de,Hesse,Frankfurt am Main,Europe/Berlin,16509,"Amazon.com, Inc.",2,2026-11-27T03:42:57.313Z,2026-11-27T04:32:21.297Z
