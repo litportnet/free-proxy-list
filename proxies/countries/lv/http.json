@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "77.38.244.214",
+    "port": 80,
+    "url": "http://77.38.244.214:80",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 566,
+    "latency_median_ms": 565,
+    "uptime_24h": 62.6,
+    "uptime_7d": 77.4,
+    "checks_7d": 544,
+    "exit_ip": "77.38.244.214",
+    "exit_shared": 1,
+    "country": "lv",
+    "region": "Riga",
+    "city": "Riga",
+    "timezone": "Europe/Riga",
+    "asn": 20910,
+    "asn_org": "SIA \"BITE Latvija\"",
+    "sources_count": 6,
+    "first_seen": "2025-12-09T07:10:03.154Z",
+    "last_checked": "2026-11-28T21:19:48.347Z"
+  }
+]

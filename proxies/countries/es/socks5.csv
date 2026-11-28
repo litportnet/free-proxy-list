@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,85.117.248.36,1080,socks5://85.117.248.36:1080,elite,false,7857,2003.5,32.7,29.2,689,85.117.248.36,1,es,Catalonia,Olot,Europe/Madrid,210086,CONNECTA 1876 SLU,21,2026-04-27T13:05:58.882Z,2026-11-28T21:22:02.551Z

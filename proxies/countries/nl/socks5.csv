@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,188.226.27.24,1080,socks5://188.226.27.24:1080,elite,true,4490,3155.5,83.1,77.9,947,88.210.12.209,2,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,15,2026-11-01T14:20:01.927Z,2026-11-28T21:26:57.195Z
+socks5,5.255.103.55,1080,socks5://5.255.103.55:1080,elite,true,2261,1782,85.3,71.5,994,5.255.103.55,1,nl,Flevoland,Lelystad,Europe/Amsterdam,60404,Liteserver,20,2026-04-07T02:44:01.055Z,2026-11-28T21:19:19.588Z
+socks5,90.188.236.195,1080,socks5://90.188.236.195:1080,elite,false,4902,2443.5,71.1,46.7,276,78.17.117.220,1,nl,North Holland,Amsterdam,Europe/Amsterdam,57043,HOSTKEY B.V.,13,2026-11-21T21:36:39.227Z,2026-11-28T21:24:29.611Z
+socks5,111.119.162.248,10952,socks5://111.119.162.248:10952,elite,false,1238,2359.5,24.4,32.3,127,193.29.139.198,1,nl,North Holland,Amsterdam,Europe/Amsterdam,47172,Greenhost BV,16,2026-09-09T02:45:21.027Z,2026-11-28T21:21:57.121Z
+socks5,34.124.190.108,8080,socks5://34.124.190.108:8080,elite,true,2579,3166,57.1,22,91,192.42.116.62,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,21,2025-09-06T08:35:22.545Z,2026-11-28T21:22:54.779Z

@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,46.209.30.11,8080,http://46.209.30.11:8080,anonymous,true,842,2879.5,63.6,52.4,925,46.209.30.11,1,ir,Razavi Khorasan,Mashhad,Asia/Tehran,42337,Respina Networks & Beyond PJSC,16,2026-01-31T12:49:06.278Z,2026-11-28T21:25:13.439Z
+http,80.191.46.62,1090,http://80.191.46.62:1090,anonymous,false,6058,5941.5,33.1,29.9,673,80.191.46.61,2,ir,Tehran,Tehran,Asia/Tehran,58224,Iran Telecommunication Company PJS,24,2026-06-16T02:42:37.991Z,2026-11-28T21:26:43.819Z
+http,46.209.217.108,8088,http://46.209.217.108:8088,elite,false,1529,4791,18.9,23.2,315,46.209.217.106,1,ir,Tehran,Tehran,Asia/Tehran,42337,Respina Networks & Beyond PJSC,16,2025-09-22T10:59:48.135Z,2026-11-28T21:21:05.582Z
+http,185.226.118.203,3128,http://185.226.118.203:3128,anonymous,true,3871,6602.5,18.5,18.2,286,185.226.118.203,1,ir,Tehran,Tehran,Asia/Tehran,202468,AbrArvan CDN and IaaS,12,2026-11-22T13:45:01.373Z,2026-11-28T21:24:11.966Z

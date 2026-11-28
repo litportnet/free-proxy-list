@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,45.179.145.12,6080,socks5://45.179.145.12:6080,elite,true,4956,4623,43.5,42.8,851,45.179.145.12,1,br,Goiás,Valparaíso de Goiás,America/Sao_Paulo,269089,Hilan Telecom Ltda,14,2026-07-29T05:52:08.923Z,2026-11-28T21:24:45.041Z
+socks5,163.176.179.226,1080,socks5://163.176.179.226:1080,elite,false,6010,3985,26.3,39,824,163.176.179.226,2,br,São Paulo,São Paulo,America/Sao_Paulo,31898,Oracle Corporation,18,2026-09-11T01:56:09.119Z,2026-11-28T21:24:19.515Z
+socks5,186.219.210.133,7080,socks5://186.219.210.133:7080,elite,false,3024,1973,27.4,18.5,309,186.219.210.133,1,br,Minas Gerais,Piumhi,America/Sao_Paulo,262996,MEGAMINAS TELECOMUNICACOES LTDA,21,2026-08-24T10:41:36.432Z,2026-11-28T21:27:37.699Z

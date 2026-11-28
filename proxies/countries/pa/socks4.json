@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "200.108.50.254",
+    "port": 4145,
+    "url": "socks4://200.108.50.254:4145",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1167,
+    "latency_median_ms": 1551.5,
+    "uptime_24h": 56.4,
+    "uptime_7d": 52.2,
+    "checks_7d": 908,
+    "exit_ip": "200.108.50.254",
+    "exit_shared": 1,
+    "country": "pa",
+    "region": "Panamá",
+    "city": "Panama City",
+    "timezone": "America/Panama",
+    "asn": 18809,
+    "asn_org": "Cable Onda",
+    "sources_count": 14,
+    "first_seen": "2025-09-04T23:49:13.837Z",
+    "last_checked": "2026-11-28T21:26:04.772Z"
+  }
+]

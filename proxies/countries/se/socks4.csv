@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1622,588.5,83.9,89.2,994,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-28T21:24:07.150Z

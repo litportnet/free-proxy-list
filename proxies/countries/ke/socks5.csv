@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,102.211.145.179,1080,socks5://102.211.145.179:1080,elite,true,9142,2914,39.5,38.8,183,102.211.145.179,1,ke,Nairobi County,Nairobi,Africa/Nairobi,328490,Unwired Communications Limited,11,2026-11-27T07:45:10.870Z,2026-11-28T21:22:44.651Z

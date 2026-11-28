@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,521,526,100,100,1006,172.68.50.248,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-28T21:22:21.031Z
+socks4,83.218.186.22,5678,socks4://83.218.186.22:5678,elite,true,2404,3789,67.9,77.9,984,83.218.186.22,1,at,Tyrol,Bairbach,Europe/Vienna,31543,myNet GmbH,14,2025-09-04T23:48:59.120Z,2026-11-28T21:27:44.139Z
+socks5,157.90.113.23,9052,socks5://157.90.113.23:9052,elite,true,1084,1038,74.6,64.6,928,152.53.92.15,1,at,Vienna,Vienna,Europe/Vienna,197540,netcup GmbH,19,2026-07-31T19:22:14.557Z,2026-11-28T21:18:40.837Z
+socks4,178.189.56.158,4153,socks4://178.189.56.158:4153,elite,true,660,694.5,66,62.3,978,178.189.56.158,1,at,Styria,Vorstadt,Europe/Vienna,8447,A1 Telekom Austria AG,14,2026-07-06T13:59:25.623Z,2026-11-28T21:23:18.444Z
+socks4,185.196.178.238,60606,socks4://185.196.178.238:60606,elite,false,3762,2645,55.6,61.6,962,185.196.178.238,1,at,Tyrol,Längenfeld,Europe/Vienna,206091,Planet Digital Lichtwellenleiternetz Errichtungs- und Betrieb GmbH & Co KG,21,2025-09-05T20:06:33.498Z,2026-11-28T21:18:18.473Z

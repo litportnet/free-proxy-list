@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,5.253.191.114,80,http://5.253.191.114:80,elite,false,424,450.5,100,100,1005,172.71.98.223,1,nl,North Holland,Amsterdam,Europe/Amsterdam,13335,"Cloudflare, Inc.",3,2026-10-06T17:53:44.269Z,2026-11-28T21:24:12.478Z
+http,72.56.73.23,80,http://72.56.73.23:80,elite,false,421,452,100,98.8,1003,72.56.73.23,1,nl,North Holland,Amsterdam,Europe/Amsterdam,210976,"Timeweb, LLP",10,2026-08-27T12:22:51.054Z,2026-11-28T21:24:29.081Z
+http,18.142.95.213,7777,http://18.142.95.213:7777,elite,false,1448,3612.5,67.4,64.7,156,192.42.116.102,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,5,2026-08-18T08:24:52.203Z,2026-11-28T21:26:59.830Z
+http,111.119.162.248,10960,http://111.119.162.248:10960,elite,true,1314,4144,44.8,36.8,190,193.29.139.184,1,nl,North Holland,Amsterdam,Europe/Amsterdam,47172,Greenhost BV,20,2026-08-15T08:30:13.024Z,2026-11-28T21:22:45.696Z
+http,201.4.65.103,8080,http://201.4.65.103:8080,anonymous,false,8397,6341,32.1,25.5,521,185.77.121.4,1,nl,North Holland,Amsterdam,Europe/Amsterdam,8315,WorldStream B.V.,24,2026-09-20T03:49:33.481Z,2026-11-28T21:27:33.437Z
+http,34.124.190.108,8090,http://34.124.190.108:8090,elite,false,2530,3000.5,50,,18,192.42.116.115,1,nl,North Holland,Amsterdam,Europe/Amsterdam,215125,Church of Cyberology,11,2025-09-10T21:05:09.827Z,2026-11-28T21:22:39.240Z
+http,185.196.41.167,3128,http://185.196.41.167:3128,anonymous,true,4689,5619.5,10,,45,185.196.41.167,1,nl,Limburg,Eygelshoven,Europe/Amsterdam,50053,VDSka hosting,17,2026-10-24T08:35:59.011Z,2026-11-28T21:24:01.780Z

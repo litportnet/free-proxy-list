@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,193.158.12.140,4153,socks4://193.158.12.140:4153,elite,false,585,576.5,73.4,69.2,970,193.158.12.140,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,13,2025-09-05T20:06:32.865Z,2026-11-28T21:24:28.029Z
+socks4,193.158.12.141,4153,socks4://193.158.12.141:4153,elite,false,1638,587.5,65,65.9,980,193.158.12.141,1,de,State of Berlin,Berlin,Europe/Berlin,3320,Deutsche Telekom AG,21,2026-08-09T00:08:37.800Z,2026-11-28T21:25:52.440Z
+socks4,185.110.124.79,1080,socks4://185.110.124.79:1080,elite,false,612,611.5,78.1,59.7,290,185.110.124.79,1,de,Bavaria,Ruhpolding,Europe/Berlin,204218,Friedrich Kecht t/a Friedrich Kecht & Gerhard Guggenbichler Gbr,13,2026-11-16T18:31:50.532Z,2026-11-28T21:21:09.902Z

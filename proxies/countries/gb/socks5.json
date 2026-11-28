@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "166.0.150.13",
+    "port": 1080,
+    "url": "socks5://166.0.150.13:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 602,
+    "latency_median_ms": 608,
+    "uptime_24h": 88.9,
+    "uptime_7d": null,
+    "checks_7d": 9,
+    "exit_ip": "91.218.183.150",
+    "exit_shared": 1,
+    "country": "gb",
+    "region": "England",
+    "city": "London",
+    "timezone": "Europe/London",
+    "asn": 149440,
+    "asn_org": "Evoxt Sdn. Bhd.",
+    "sources_count": 5,
+    "first_seen": "2026-11-28T20:04:17.084Z",
+    "last_checked": "2026-11-28T21:22:49.408Z"
+  }
+]

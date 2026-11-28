@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "5.75.133.113",
+    "port": 10805,
+    "url": "socks5://5.75.133.113:10805",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 8846,
+    "latency_median_ms": 3666,
+    "uptime_24h": 75.6,
+    "uptime_7d": 69.8,
+    "checks_7d": 820,
+    "exit_ip": "103.75.11.59",
+    "exit_shared": 1,
+    "country": "nz",
+    "region": "Auckland",
+    "city": "Auckland",
+    "timezone": "Pacific/Auckland",
+    "asn": 136557,
+    "asn_org": "Host Universal Pty Ltd",
+    "sources_count": 20,
+    "first_seen": "2026-09-20T17:57:13.183Z",
+    "last_checked": "2026-11-28T21:24:54.693Z"
+  }
+]

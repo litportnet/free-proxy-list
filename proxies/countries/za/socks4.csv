@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,105.27.180.194,1080,socks4://105.27.180.194:1080,elite,true,4237,3215.5,73.6,75.2,981,105.27.180.194,1,za,Western Cape,Cape Town,Africa/Johannesburg,37100,SEACOM Limited,13,2026-02-08T01:22:48.172Z,2026-11-28T21:25:35.390Z
+socks4,160.226.220.30,1080,socks4://160.226.220.30:1080,elite,false,4307,1241,65.1,56.2,926,160.226.220.30,1,za,Free State,Bloemfontein,Africa/Johannesburg,37542,Iclix (PTY) Ltd,12,2026-07-04T15:36:58.878Z,2026-11-28T21:17:59.082Z

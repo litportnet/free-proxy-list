@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "151.243.208.159",
+    "port": 1080,
+    "url": "socks4://151.243.208.159:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 713,
+    "latency_median_ms": 1065,
+    "uptime_24h": 80,
+    "uptime_7d": null,
+    "checks_7d": 15,
+    "exit_ip": "151.243.208.159",
+    "exit_shared": 3,
+    "country": "fi",
+    "region": "Uusimaa",
+    "city": "Helsinki",
+    "timezone": "Europe/Helsinki",
+    "asn": 57043,
+    "asn_org": "HOSTKEY B.V.",
+    "sources_count": 5,
+    "first_seen": "2026-11-28T19:03:39.198Z",
+    "last_checked": "2026-11-28T21:22:38.162Z"
+  }
+]

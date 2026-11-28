@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,549,622.5,100,99.9,1000,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-28T21:20:16.760Z
+http,178.253.55.228,80,http://178.253.55.228:80,elite,false,976,1005.5,95.8,93,986,104.22.219.92,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",2,2026-09-15T22:15:47.054Z,2026-11-28T21:21:25.938Z

@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,111.119.162.248,10949,socks4://111.119.162.248:10949,elite,true,2831,2767,49.2,48.1,312,47.243.1.32,4,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,45102,"Alibaba (US) Technology Co., Ltd.",9,2026-08-15T10:30:42.470Z,2026-11-28T21:20:30.665Z
+socks4,111.119.162.248,10931,socks4://111.119.162.248:10931,elite,true,1167,3138,41.4,44.8,299,47.243.1.32,4,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,45102,"Alibaba (US) Technology Co., Ltd.",20,2026-08-15T10:30:42.433Z,2026-11-28T21:22:01.444Z
+socks4,101.36.112.205,1081,socks4://101.36.112.205:1081,elite,true,4041,4006.5,36.2,42.5,805,101.36.112.205,1,hk,Hong Kong,Hong Kong,Asia/Hong_Kong,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,21,2026-09-16T00:16:41.363Z,2026-11-28T21:21:48.474Z

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,84.8.248.36,8686,http://84.8.248.36:8686,elite,false,550,566,97.2,98,986,104.28.207.155,1,it,Piedmont,Turin,Europe/Rome,13335,"Cloudflare, Inc.",14,2026-09-22T02:17:06.569Z,2026-11-28T21:20:08.783Z
+http,77.242.177.57,3128,http://77.242.177.57:3128,anonymous,false,499,1175.5,81.8,82.3,940,77.242.177.57,1,it,Piedmont,Biella,Europe/Rome,42669,CITTA' STUDI S.P.A.,19,2025-09-10T21:05:12.312Z,2026-11-28T21:22:23.176Z
+http,87.121.148.126,49200,http://87.121.148.126:49200,elite,false,700,570,68.4,79.5,996,87.121.148.126,1,it,Lombardy,Milan,Europe/Rome,210218,Open Fiber S.P.A.,10,2025-10-16T01:51:36.355Z,2026-11-28T21:20:29.066Z
+http,84.8.248.36,3128,http://84.8.248.36:3128,elite,false,9251,5714,23.4,24.8,443,84.8.248.36,1,it,Piedmont,Rivoli,Europe/Rome,31898,Oracle Corporation,24,2026-08-12T10:52:28.127Z,2026-11-28T21:20:41.416Z
+socks4,111.119.162.248,10981,socks4://111.119.162.248:10981,elite,false,8832,1770,32.1,,28,185.162.118.8,1,it,Lombardy,Milan,Europe/Rome,212238,Datacamp Limited,3,2026-09-02T23:43:32.414Z,2026-11-28T21:21:55.512Z

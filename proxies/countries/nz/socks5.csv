@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,5.75.133.113,10805,socks5://5.75.133.113:10805,elite,true,8846,3666,75.6,69.8,820,103.75.11.59,1,nz,Auckland,Auckland,Pacific/Auckland,136557,Host Universal Pty Ltd,20,2026-09-20T17:57:13.183Z,2026-11-28T21:24:54.693Z

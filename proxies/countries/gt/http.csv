@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,200.119.141.114,999,http://200.119.141.114:999,anonymous,false,1662,3711,29.9,30.3,681,200.119.141.114,1,gt,Guatemala,Guatemala City,America/Guatemala,13682,"TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA",16,2025-09-05T20:06:36.713Z,2026-11-28T21:23:21.658Z
+http,45.228.233.78,999,http://45.228.233.78:999,anonymous,true,1421,2780,24.7,28.7,610,45.228.233.78,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,16,2025-12-09T22:18:25.098Z,2026-11-28T21:25:31.643Z
+http,181.119.103.237,999,http://181.119.103.237:999,anonymous,false,344,2486,32.8,26.3,665,181.119.103.237,1,gt,Guatemala,Guatemala City,America/Guatemala,52468,UFINET PANAMA S.A.,23,2025-09-05T20:06:32.308Z,2026-11-28T21:27:25.946Z

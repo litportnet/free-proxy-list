@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,188.226.27.24,1080,socks4://188.226.27.24:1080,elite,true,1711,2612,82.4,76.5,948,88.210.12.209,2,nl,North Holland,Amsterdam,Europe/Amsterdam,216071,SERVERS TECH FZCO,14,2026-11-01T14:20:07.967Z,2026-11-28T21:23:13.048Z
+socks4,128.199.37.92,1080,socks4://128.199.37.92:1080,elite,false,3592,3568.5,41.2,49.6,920,128.199.37.92,1,nl,North Holland,Amsterdam,Europe/Amsterdam,14061,"DigitalOcean, LLC",1,2026-03-17T17:23:30.289Z,2026-11-28T21:22:49.402Z
+socks4,111.119.162.248,10951,socks4://111.119.162.248:10951,elite,true,3927,1606,38.4,38.7,238,193.29.139.152,1,nl,North Holland,Amsterdam,Europe/Amsterdam,47172,Greenhost BV,7,2026-08-18T05:03:41.544Z,2026-11-28T21:19:23.811Z
+socks4,111.119.162.248,10963,socks4://111.119.162.248:10963,elite,true,2823,3342.5,33.3,33.1,118,193.29.139.234,1,nl,North Holland,Amsterdam,Europe/Amsterdam,47172,Greenhost BV,7,2026-08-16T21:47:48.715Z,2026-11-28T21:22:41.929Z
+socks4,109.71.240.57,1080,socks4://109.71.240.57:1080,elite,false,1691,3161,26.4,25.2,131,109.71.240.57,1,nl,North Holland,Amsterdam,Europe/Amsterdam,210976,"Timeweb, LLP",9,2026-11-27T16:50:02.609Z,2026-11-28T21:23:03.355Z

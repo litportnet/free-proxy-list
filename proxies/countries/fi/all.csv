@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,77.221.142.205,80,http://77.221.142.205:80,elite,false,650,597,100,100,1008,104.22.167.38,1,fi,Uusimaa,Helsinki,Europe/Helsinki,13335,"Cloudflare, Inc.",3,2026-09-18T15:36:04.858Z,2026-11-28T21:26:32.614Z
+http,45.130.127.10,80,http://45.130.127.10:80,elite,false,531,513,100,97.9,967,45.130.127.10,1,fi,Uusimaa,Helsinki,Europe/Helsinki,215540,GLOBAL CONNECTIVITY SOLUTIONS LLP,7,2026-10-13T20:23:27.401Z,2026-11-28T21:19:02.908Z
+socks5,88.198.69.51,1085,socks5://88.198.69.51:1085,elite,false,1201,1293,44.8,33,479,82.29.95.4,1,fi,Uusimaa,Helsinki,Europe/Helsinki,9009,M247 Europe SRL,15,2026-11-15T10:14:50.118Z,2026-11-28T21:26:17.105Z
+socks4,151.243.208.159,1080,socks4://151.243.208.159:1080,elite,true,713,1065,80,,15,151.243.208.159,3,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,5,2026-11-28T19:03:39.198Z,2026-11-28T21:22:38.162Z
+socks5,151.243.208.159,1080,socks5://151.243.208.159:1080,elite,true,1119,959,90,,20,151.243.208.159,3,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,7,2026-11-28T18:03:13.569Z,2026-11-28T21:21:24.323Z
+http,151.243.208.159,1080,http://151.243.208.159:1080,elite,true,4680,1313.5,90.5,,21,151.243.208.159,3,fi,Uusimaa,Helsinki,Europe/Helsinki,57043,HOSTKEY B.V.,8,2026-11-28T18:03:12.898Z,2026-11-28T21:25:08.108Z

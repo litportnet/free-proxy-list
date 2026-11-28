@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,297,281,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-28T21:20:41.400Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3913,2454.5,43,51.8,834,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-28T21:22:10.213Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,4880,3944.5,30.6,32.4,787,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-28T21:26:10.195Z
+http,34.47.50.163,443,http://34.47.50.163:443,anonymous,true,9309,4886.5,5.6,3.8,79,34.47.50.163,1,ca,Quebec,Montréal,America/Toronto,396982,Google LLC,18,2026-10-03T06:09:35.629Z,2026-11-28T21:25:31.611Z

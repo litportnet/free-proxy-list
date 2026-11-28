@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "45.190.13.12",
+    "port": 1080,
+    "url": "socks4://45.190.13.12:1080",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 444,
+    "latency_median_ms": 956,
+    "uptime_24h": 55.4,
+    "uptime_7d": 56,
+    "checks_7d": 952,
+    "exit_ip": "45.190.13.194",
+    "exit_shared": 1,
+    "country": "hn",
+    "region": "Cortés Department",
+    "city": "Puerto Cortez",
+    "timezone": "America/Tegucigalpa",
+    "asn": 269934,
+    "asn_org": "AIR NETWORK S. DE R. L. DE C.V.",
+    "sources_count": 14,
+    "first_seen": "2026-11-17T15:42:58.923Z",
+    "last_checked": "2026-11-28T21:24:53.660Z"
+  }
+]

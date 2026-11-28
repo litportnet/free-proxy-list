@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,109.245.110.145,4145,socks4://109.245.110.145:4145,elite,true,708,2776.5,69.6,66.4,959,109.245.110.145,1,rs,Central Serbia,Svilajnac,Europe/Belgrade,15958,CETINdoo-NET,22,2026-07-05T16:48:25.730Z,2026-11-28T21:23:51.027Z
+socks4,95.140.118.34,1080,socks4://95.140.118.34:1080,elite,false,3732,704.5,61.7,60,961,95.140.118.34,1,rs,Central Serbia,Zemun,Europe/Belgrade,9125,Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun,20,2026-07-11T02:57:55.862Z,2026-11-28T21:23:18.970Z
+socks4,217.16.130.83,4145,socks4://217.16.130.83:4145,elite,false,3699,3695.5,57,50.9,938,217.16.130.83,1,rs,Central Serbia,Niš,Europe/Belgrade,197423,Jotel d.o.o.,17,2026-10-18T03:17:19.217Z,2026-11-28T21:20:50.980Z

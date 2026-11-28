@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,190.12.95.170,37209,socks4://190.12.95.170:37209,elite,true,7855,3632.5,76.8,75.3,984,190.12.95.170,1,pe,Lima Province,Lima,America/Lima,27843,ON EMPRESAS S.A.C.,21,2025-09-04T23:49:14.401Z,2026-11-28T21:19:05.580Z
+socks4,181.176.68.118,5088,socks4://181.176.68.118:5088,elite,true,843,2757,60.9,70,873,181.176.68.118,1,pe,Ayacucho,Huahuapuquio,America/Lima,262210,VIETTEL PERÚ S.A.C.,15,2026-11-22T11:44:06.065Z,2026-11-28T21:26:44.891Z
+socks4,209.45.18.8,1080,socks4://209.45.18.8:1080,elite,false,3697,1670.5,21.5,19.1,440,209.45.18.8,1,pe,Lima Province,Lima,America/Lima,269938,ADN TELECOM S.A.C.,15,2026-07-08T15:26:14.306Z,2026-11-28T21:25:11.825Z

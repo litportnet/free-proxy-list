@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.169.106.140",
+    "port": 1086,
+    "url": "socks5://45.169.106.140:1086",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1439,
+    "latency_median_ms": 2522,
+    "uptime_24h": 25.3,
+    "uptime_7d": 30.7,
+    "checks_7d": 729,
+    "exit_ip": "45.169.105.21",
+    "exit_shared": 1,
+    "country": "ar",
+    "region": "Cordoba",
+    "city": "Córdoba",
+    "timezone": "America/Argentina/Cordoba",
+    "asn": 267764,
+    "asn_org": "VOS SRL",
+    "sources_count": 10,
+    "first_seen": "2026-11-04T04:52:59.989Z",
+    "last_checked": "2026-11-28T21:27:27.567Z"
+  }
+]

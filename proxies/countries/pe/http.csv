@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,190.108.82.244,999,http://190.108.82.244:999,anonymous,false,6791,3200,34.2,34.5,740,190.108.82.244,1,pe,Lima Province,Lima,America/Lima,18678,INTERNEXA S.A. E.S.P,13,2025-09-05T20:06:37.744Z,2026-11-28T21:23:20.603Z
+http,190.119.41.162,3128,http://190.119.41.162:3128,anonymous,true,2756,3372.5,28.2,31,761,181.67.82.186,1,pe,Cajamarca Department,Cajamarca,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,17,2026-11-19T04:01:59.702Z,2026-11-28T21:17:43.365Z
+http,200.121.48.105,999,http://200.121.48.105:999,anonymous,true,647,5181,25,30.9,739,200.121.48.105,1,pe,Lima Province,Lima,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,18,2026-10-24T09:36:31.193Z,2026-11-28T21:23:37.088Z
+http,200.106.124.169,3128,http://200.106.124.169:3128,anonymous,false,7756,3230,23.5,30.1,336,200.106.124.169,1,pe,Tacna,Tacna,America/Lima,6147,INTEGRATEL PERÚ S.A.A.,15,2026-11-24T08:07:28.817Z,2026-11-28T21:26:57.217Z
+http,38.210.106.24,999,http://38.210.106.24:999,anonymous,true,3492,5823,26.8,24.9,583,177.53.155.120,1,pe,Lima Province,Lima,America/Lima,270007,MORENO YANOC NEMIAS BERNARDO,18,2026-10-03T09:11:10.974Z,2026-11-28T21:24:49.352Z
+http,200.39.152.193,999,http://200.39.152.193:999,anonymous,false,9897,3738,27.8,23.9,511,200.39.152.193,1,pe,Amazonas,Chachapoyas,America/Lima,270010,AIRWIZ PERU E.I.R.L,15,2025-09-07T11:17:04.699Z,2026-11-28T21:24:36.596Z
+http,179.43.96.178,8080,http://179.43.96.178:8080,anonymous,false,6945,3807,9.1,20.9,426,179.43.96.178,1,pe,Arequipa,Arequipa,America/Lima,272894,MISTICOM FIBRA OPTICA S.A.C.,25,2025-09-06T14:20:07.297Z,2026-11-28T21:21:44.709Z

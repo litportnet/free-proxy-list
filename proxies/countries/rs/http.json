@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "79.175.100.126",
+    "port": 6666,
+    "url": "http://79.175.100.126:6666",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 5994,
+    "latency_median_ms": 3716,
+    "uptime_24h": 30.6,
+    "uptime_7d": 25.9,
+    "checks_7d": 514,
+    "exit_ip": "79.175.100.126",
+    "exit_shared": 1,
+    "country": "rs",
+    "region": "Central Serbia",
+    "city": "Smederevo",
+    "timezone": "Europe/Belgrade",
+    "asn": 9125,
+    "asn_org": "Drustvo za telekomunikacije Orion telekom doo Beograd-Zemun",
+    "sources_count": 19,
+    "first_seen": "2026-11-10T10:11:38.214Z",
+    "last_checked": "2026-11-28T21:27:00.382Z"
+  }
+]

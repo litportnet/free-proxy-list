@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "157.90.113.23",
+    "port": 9052,
+    "url": "socks5://157.90.113.23:9052",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1084,
+    "latency_median_ms": 1038,
+    "uptime_24h": 74.6,
+    "uptime_7d": 64.6,
+    "checks_7d": 928,
+    "exit_ip": "152.53.92.15",
+    "exit_shared": 1,
+    "country": "at",
+    "region": "Vienna",
+    "city": "Vienna",
+    "timezone": "Europe/Vienna",
+    "asn": 197540,
+    "asn_org": "netcup GmbH",
+    "sources_count": 19,
+    "first_seen": "2026-07-31T19:22:14.557Z",
+    "last_checked": "2026-11-28T21:18:40.837Z"
+  }
+]

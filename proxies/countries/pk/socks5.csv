@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,175.107.30.110,1080,socks5://175.107.30.110:1080,elite,false,4545,2590,51,46,850,175.107.30.110,1,pk,Punjab,Lahore,Asia/Karachi,23888,"National Telecommunication Corporation HQ,",16,2026-10-04T20:29:42.395Z,2026-11-28T21:24:42.934Z
+socks5,110.38.233.122,1080,socks5://110.38.233.122:1080,elite,false,1804,2581,41.3,41.1,829,110.38.233.122,1,pk,Khyber Pakhtunkhwa,Peshawar,Asia/Karachi,38264,National WiMAX/IMS environment,16,2026-10-07T23:08:55.787Z,2026-11-28T21:17:31.474Z
+socks5,101.53.238.37,1080,socks5://101.53.238.37:1080,elite,false,4465,2806,43.6,39.7,818,149.40.242.118,1,pk,Punjab,Lahore,Asia/Karachi,174,"Cogent Communications, LLC",16,2026-10-17T21:14:07.633Z,2026-11-28T21:23:23.768Z
+socks5,137.59.195.198,1080,socks5://137.59.195.198:1080,elite,false,4830,2906.5,41.2,34.8,667,137.59.195.198,1,pk,Islamabad,Islamabad,Asia/Karachi,55453,SKYTELECOM,16,2026-09-24T05:22:04.695Z,2026-11-28T21:25:48.180Z

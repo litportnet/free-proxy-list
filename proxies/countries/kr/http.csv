@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,8.213.151.128,3128,http://8.213.151.128:3128,elite,false,1845,1288,100,99.8,1006,8.213.151.128,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",21,2025-09-06T14:20:07.319Z,2026-11-28T21:25:46.009Z
+http,61.111.251.68,80,http://61.111.251.68:80,elite,false,765,787,91.6,94,879,61.111.251.68,1,kr,Seoul,Seoul,Asia/Seoul,138195,MOACK.Co.LTD,13,2026-11-22T17:47:26.532Z,2026-11-28T21:18:00.161Z
+http,175.210.254.155,80,http://175.210.254.155:80,elite,false,744,715.5,87.4,91.3,1001,175.210.254.155,1,kr,Gyeonggi-do,Bucheon-si,Asia/Seoul,4766,Korea Telecom,7,2026-07-11T02:58:01.319Z,2026-11-28T21:24:36.067Z
+http,222.111.130.73,8080,http://222.111.130.73:8080,elite,true,4798,4663.5,62.6,70.2,967,222.111.130.73,1,kr,Seoul,Seoul,Asia/Seoul,4766,Korea Telecom,18,2026-10-27T05:11:54.731Z,2026-11-28T21:24:03.921Z
+http,112.184.234.229,80,http://112.184.234.229:80,elite,false,735,1532.5,61,60.4,949,112.184.234.229,1,kr,Gangwon-do,Kosong,Asia/Seoul,4766,Korea Telecom,1,2025-12-07T12:47:40.543Z,2026-11-28T21:19:50.479Z
+http,220.81.123.23,48678,http://220.81.123.23:48678,anonymous,false,5246,4520,19.1,25.4,507,220.81.123.23,1,kr,Daegu,Daegu,Asia/Seoul,4766,Korea Telecom,24,2025-09-05T23:20:17.028Z,2026-11-28T21:22:59.619Z

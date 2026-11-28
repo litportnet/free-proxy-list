@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,102.0.42.136,8080,http://102.0.42.136:8080,anonymous,true,6578,1735.5,29.8,31.3,128,102.0.42.136,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36926,Airtel Networks Kenya Limited,16,2026-11-27T14:48:53.247Z,2026-11-28T21:22:22.622Z
+http,102.210.154.235,8080,http://102.210.154.235:8080,anonymous,true,8390,3829,25.3,23.4,239,102.210.154.235,1,ke,Machakos County,Machakos,Africa/Nairobi,329367,Tawala Networks Limited,15,2026-11-10T21:17:20.003Z,2026-11-28T21:25:03.262Z
+http,197.232.158.189,41890,http://197.232.158.189:41890,anonymous,false,4597,4624.5,11.5,17.1,403,197.232.158.189,1,ke,Nairobi County,Nairobi,Africa/Nairobi,36866,Jamii Telecommunications Limited,23,2025-09-05T20:06:36.243Z,2026-11-28T21:24:17.317Z

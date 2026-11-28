@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,111.119.162.248,10930,socks5://111.119.162.248:10930,elite,true,1351,4047,48.7,44.8,259,47.236.210.224,2,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",18,2026-08-15T21:35:45.509Z,2026-11-28T21:25:41.748Z
+socks5,111.119.162.248,10985,socks5://111.119.162.248:10985,elite,true,1286,4076.5,48.3,,31,47.236.210.226,1,sg,Singapore,Singapore,Asia/Singapore,45102,"Alibaba (US) Technology Co., Ltd.",8,2026-10-09T13:29:00.580Z,2026-11-28T21:24:33.402Z
+socks5,45.74.31.41,6684,socks5://45.74.31.41:6684,elite,true,7934,4512.5,38.9,,49,68.178.165.65,1,sg,Singapore,Singapore,Asia/Singapore,26496,"GoDaddy.com, LLC",12,2026-10-30T05:50:18.356Z,2026-11-28T21:19:12.074Z

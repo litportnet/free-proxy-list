@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,2034,1508,98.6,98.6,998,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-28T21:26:31.569Z
+socks5,59.11.209.162,1080,socks5://59.11.209.162:1080,elite,true,1167,1190.5,96.6,95.6,799,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,14,2026-05-30T23:12:26.616Z,2026-11-28T21:28:06.180Z
+socks5,43.108.84.178,1080,socks5://43.108.84.178:1080,elite,true,1168,1182.5,87.5,86.2,407,43.108.84.178,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",14,2026-11-25T21:27:07.293Z,2026-11-28T21:24:25.888Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,2253,1997.5,68.4,64.7,959,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-28T21:24:48.794Z

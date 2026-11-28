@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,91.107.179.68,10809,socks5://91.107.179.68:10809,elite,true,966,2441.5,83.1,74.8,948,104.28.239.219,1,de,Saxony,Leipzig,Europe/Berlin,13335,"Cloudflare, Inc.",20,2026-09-13T03:21:50.152Z,2026-11-28T21:26:56.130Z
+socks5,46.232.249.209,40001,socks5://46.232.249.209:40001,elite,true,2487,2045.5,55.6,58.7,892,104.28.193.120,1,de,Bavaria,Nuremberg,Europe/Berlin,13335,"Cloudflare, Inc.",16,2026-10-19T22:40:13.134Z,2026-11-28T21:21:05.059Z
+socks5,179.253.66.78,1080,socks5://179.253.66.78:1080,elite,false,3015,3031.5,51.5,55.1,490,179.253.66.78,1,de,Hesse,Frankfurt am Main,Europe/Berlin,210546,CHSL ONE LTD,13,2026-11-25T08:20:10.929Z,2026-11-28T21:23:18.432Z

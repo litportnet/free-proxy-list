@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "111.119.162.248",
+    "port": 10981,
+    "url": "socks4://111.119.162.248:10981",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 8832,
+    "latency_median_ms": 1770,
+    "uptime_24h": 32.1,
+    "uptime_7d": null,
+    "checks_7d": 28,
+    "exit_ip": "185.162.118.8",
+    "exit_shared": 1,
+    "country": "it",
+    "region": "Lombardy",
+    "city": "Milan",
+    "timezone": "Europe/Rome",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 3,
+    "first_seen": "2026-09-02T23:43:32.414Z",
+    "last_checked": "2026-11-28T21:21:55.512Z"
+  }
+]

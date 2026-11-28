@@ -1,0 +1,8 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,297,281,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-28T21:20:41.400Z
+http,151.243.236.236,80,http://151.243.236.236:80,elite,false,3913,2454.5,43,51.8,834,151.243.236.236,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,19,2026-07-10T05:49:58.494Z,2026-11-28T21:22:10.213Z
+socks5,49.13.22.249,10806,socks5://49.13.22.249:10806,elite,false,7009,2627,38.6,50.7,639,187.15.140.76,1,ca,Ontario,Toronto,America/Toronto,212238,Datacamp Limited,19,2026-09-16T03:18:14.821Z,2026-11-28T21:27:09.461Z
+socks4,50.67.100.178,8080,socks4://50.67.100.178:8080,elite,true,1391,1370,54.2,49.7,904,50.67.100.178,1,ca,British Columbia,West Vancouver,America/Vancouver,6327,Shaw Communications,12,2025-09-04T23:49:13.556Z,2026-11-28T21:24:16.219Z
+socks5,162.254.178.133,1080,socks5://162.254.178.133:1080,elite,false,1366,1348,40.8,33.9,685,162.254.178.133,1,ca,Ontario,Ignace,America/Winnipeg,397128,Celerity Telecom,15,2026-10-27T10:14:41.865Z,2026-11-28T21:23:03.349Z
+http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,4880,3944.5,30.6,32.4,787,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-28T21:26:10.195Z
+http,34.47.50.163,443,http://34.47.50.163:443,anonymous,true,9309,4886.5,5.6,3.8,79,34.47.50.163,1,ca,Quebec,Montréal,America/Toronto,396982,Google LLC,18,2026-10-03T06:09:35.629Z,2026-11-28T21:25:31.611Z

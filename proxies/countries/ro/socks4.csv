@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,81.12.169.254,4153,socks4://81.12.169.254:4153,elite,false,720,1731.5,67.5,65.4,935,81.12.169.254,1,ro,Bucharest,Bucharest,Europe/Bucharest,12302,Vodafone Romania S.A.,13,2025-09-04T23:48:59.822Z,2026-11-28T21:22:24.255Z
+socks4,81.18.90.43,4153,socks4://81.18.90.43:4153,elite,false,1761,689,60.5,59.7,948,81.18.90.43,1,ro,Mureș County,Târgu Mureş,Europe/Bucharest,8708,DIGI ROMANIA S.A.,20,2025-09-05T00:23:08.743Z,2026-11-28T21:19:09.387Z
+socks4,92.86.92.126,42740,socks4://92.86.92.126:42740,elite,false,3766,1236,54.7,57.3,962,92.86.92.126,1,ro,Giurgiu County,Giurgiu,Europe/Bucharest,9050,Orange Romania S.A.,13,2025-09-04T23:49:05.773Z,2026-11-28T21:24:07.162Z
+socks4,93.115.174.1,1080,socks4://93.115.174.1:1080,elite,false,1699,1682.5,44.4,45.6,908,194.50.50.100,2,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,16,2026-10-10T03:36:30.009Z,2026-11-28T21:21:41.461Z
+socks4,194.50.50.100,1080,socks4://194.50.50.100:1080,elite,true,1695,1172,42.5,43.9,861,194.50.50.100,2,ro,Covasna County,Sfântu Gheorghe,Europe/Bucharest,39531,Alter-NET SRL,15,2026-10-30T09:52:45.759Z,2026-11-28T21:27:38.244Z

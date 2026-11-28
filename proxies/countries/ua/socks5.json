@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "45.74.31.40",
+    "port": 12129,
+    "url": "socks5://45.74.31.40:12129",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 7442,
+    "latency_median_ms": 4572,
+    "uptime_24h": 12.5,
+    "uptime_7d": 25.9,
+    "checks_7d": 54,
+    "exit_ip": "185.156.42.119",
+    "exit_shared": 1,
+    "country": "ua",
+    "region": "Kyiv City",
+    "city": "Kyiv",
+    "timezone": "Europe/Kyiv",
+    "asn": 196645,
+    "asn_org": "HOSTPRO LAB LLC",
+    "sources_count": 12,
+    "first_seen": "2026-10-18T09:20:26.007Z",
+    "last_checked": "2026-11-28T21:24:48.268Z"
+  }
+]

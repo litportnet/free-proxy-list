@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "102.211.145.179",
+    "port": 1080,
+    "url": "socks5://102.211.145.179:1080",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 9142,
+    "latency_median_ms": 2914,
+    "uptime_24h": 39.5,
+    "uptime_7d": 38.8,
+    "checks_7d": 183,
+    "exit_ip": "102.211.145.179",
+    "exit_shared": 1,
+    "country": "ke",
+    "region": "Nairobi County",
+    "city": "Nairobi",
+    "timezone": "Africa/Nairobi",
+    "asn": 328490,
+    "asn_org": "Unwired Communications Limited",
+    "sources_count": 11,
+    "first_seen": "2026-11-27T07:45:10.870Z",
+    "last_checked": "2026-11-28T21:22:44.651Z"
+  }
+]

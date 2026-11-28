@@ -1,0 +1,9 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,61.247.178.146,1080,socks5://61.247.178.146:1080,elite,true,1544,3158.5,55.7,46.3,849,61.247.178.146,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,38031,OptiMax Communication Ltd.,15,2026-10-26T19:06:49.722Z,2026-11-28T21:21:25.376Z
+socks5,203.76.123.6,1080,socks5://203.76.123.6:1080,elite,false,1631,2631,39.8,41.3,726,203.76.123.6,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23688,Link3 Technologies Ltd.,21,2026-09-05T23:05:35.412Z,2026-11-28T21:20:48.334Z
+socks5,118.179.93.24,9090,socks5://118.179.93.24:9090,elite,false,1885,2825.5,39.2,39.4,846,118.179.93.24,1,bd,Dhaka Division,Savar,Asia/Dhaka,23956,AmberIT Limited,20,2026-09-05T19:03:36.518Z,2026-11-28T21:19:52.084Z
+socks5,202.4.101.249,9090,socks5://202.4.101.249:9090,elite,false,8785,4668.5,40,39.3,838,202.4.101.249,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23956,AmberIT Limited,17,2026-10-12T06:03:03.472Z,2026-11-28T21:22:17.825Z
+socks5,115.127.53.114,1080,socks5://115.127.53.114:1080,elite,true,1696,1774.5,36.8,35.7,726,115.127.53.114,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,24342,BRACNet Limited,20,2026-02-22T13:27:58.042Z,2026-11-28T21:23:08.730Z
+socks5,202.40.190.74,1080,socks5://202.40.190.74:1080,elite,true,4615,2821.5,40.3,35,746,202.40.190.74,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,23991,Ranks ITT Ltd.,20,2026-02-26T03:13:36.374Z,2026-11-28T21:21:01.863Z
+socks5,103.118.85.144,1080,socks5://103.118.85.144:1080,elite,false,2608,4600.5,30.2,22.1,439,103.118.85.147,1,bd,Dhaka Division,Dhaka,Asia/Dhaka,137961,MD. Mokhlesur Rahman,20,2025-11-20T16:12:39.825Z,2026-11-28T21:23:20.588Z
+socks5,103.138.145.150,1999,socks5://103.138.145.150:1999,elite,false,9127,4840.5,25.5,19.7,477,103.138.145.150,1,bd,Dhaka Division,Kishorganj,Asia/Dhaka,139008,NEEF IT LIMITED,20,2026-05-19T07:59:33.501Z,2026-11-28T21:23:45.132Z

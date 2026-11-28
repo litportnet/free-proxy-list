@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,78.187.157.235,1080,socks5://78.187.157.235:1080,elite,false,2072,2130,42.2,45,824,78.187.157.235,1,tr,Adana,Adana,Europe/Istanbul,9121,Turk Telekomunikasyon Anonim Sirketi,15,2026-10-24T22:43:21.952Z,2026-11-28T21:22:33.878Z

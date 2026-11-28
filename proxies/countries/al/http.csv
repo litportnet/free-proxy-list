@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,185.196.182.29,8080,http://185.196.182.29:8080,anonymous,false,1908,2531,26.3,29.5,647,185.196.182.22,1,al,Kukës County,Kukës,Europe/Tirane,206088,shqiponjaisp.al LLC,20,2026-10-01T11:53:48.940Z,2026-11-28T21:24:43.986Z
+http,79.106.231.17,8080,http://79.106.231.17:8080,anonymous,true,8109,6182,14.6,24.9,680,79.106.231.17,1,al,Fier County,Lushnjë,Europe/Tirane,42313,ONE ALBANIA SH.A.,24,2025-09-08T11:37:17.486Z,2026-11-28T21:23:53.682Z
+http,79.106.229.208,8989,http://79.106.229.208:8989,anonymous,false,5399,3795,23.1,24.7,438,79.106.229.208,1,al,Berat County,Berat,Europe/Tirane,42313,ONE ALBANIA SH.A.,19,2026-10-14T19:35:19.748Z,2026-11-28T21:22:56.392Z
+http,66.186.199.33,8080,http://66.186.199.33:8080,anonymous,false,6092,4469.5,20,23.5,493,66.186.199.33,1,al,Vlorë County,Vlorë,Europe/Tirane,21183,Vodafone Albania Sh.A.,26,2026-04-12T11:53:22.452Z,2026-11-28T21:22:49.425Z

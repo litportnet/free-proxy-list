@@ -1,0 +1,11 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,93.123.16.101,80,http://93.123.16.101:80,elite,false,261,257.5,100,91.6,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:33.113Z,2026-11-28T21:20:11.968Z
+http,93.123.16.23,80,http://93.123.16.23:80,elite,false,273,256.5,100,91.6,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T23:19:52.704Z,2026-11-28T21:26:23.566Z
+http,93.123.16.38,80,http://93.123.16.38:80,elite,false,266,254.5,100,91.4,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,9,2026-07-30T12:07:52.703Z,2026-11-28T21:19:47.267Z
+http,93.123.16.69,80,http://93.123.16.69:80,elite,false,271,256,100,91.1,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T20:18:31.145Z,2026-11-28T21:24:49.331Z
+http,93.123.16.102,80,http://93.123.16.102:80,elite,false,255,253.5,100,91,547,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T22:19:33.119Z,2026-11-28T21:23:23.773Z
+http,93.123.16.66,80,http://93.123.16.66:80,elite,false,252,253.5,100,90.7,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,4,2026-09-06T21:18:52.286Z,2026-11-28T21:27:57.021Z
+http,93.123.16.14,80,http://93.123.16.14:80,elite,false,279,259,95.1,88.3,549,93.123.16.14,7,bg,Sofia-Capital,Sofia,Europe/Sofia,9028,OHOST GROUP LLC,6,2026-07-31T01:14:40.188Z,2026-11-28T21:21:52.789Z
+http,82.137.90.192,80,http://82.137.90.192:80,elite,false,8150,4049.5,25.5,25.9,541,82.137.90.192,1,bg,Plovdiv,Karlovo,Europe/Sofia,8866,Vivacom Bulgaria EAD,6,2025-09-09T02:11:19.746Z,2026-11-28T21:25:28.945Z
+http,213.169.33.7,8001,http://213.169.33.7:8001,anonymous,false,4232,3628,26.4,23.9,608,213.169.33.7,1,bg,Sofia-Capital,Sofia,Europe/Sofia,8717,A1 Bulgaria EAD,25,2025-09-05T20:06:28.237Z,2026-11-28T21:24:24.841Z
+http,85.196.179.34,8080,http://85.196.179.34:8080,elite,false,8907,4424.5,21.7,19.6,275,85.196.179.34,1,bg,Sofia-Capital,Sofia,Europe/Sofia,29580,A1 Bulgaria EAD,22,2025-12-07T09:09:59.095Z,2026-11-28T21:26:46.490Z

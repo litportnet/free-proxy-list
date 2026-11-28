@@ -1,0 +1,12 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,109.199.119.160,80,http://109.199.119.160:80,elite,false,278,223,100,99.9,1008,109.199.119.160,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2026-07-29T19:59:31.982Z,2026-11-28T21:28:15.293Z
+http,35.241.172.224,80,http://35.241.172.224:80,elite,false,489,468.5,97.9,93.1,1006,104.23.227.78,1,fr,Île-de-France,Paris,Europe/Paris,13335,"Cloudflare, Inc.",4,2025-09-04T23:49:55.187Z,2026-11-28T21:22:18.337Z
+http,37.187.74.125,80,http://37.187.74.125:80,elite,false,553,3361.5,88.1,92,993,37.187.74.125,1,fr,Hauts-de-France,Gravelines,Europe/Paris,16276,OVH SAS,11,2025-09-05T00:24:28.901Z,2026-11-28T21:22:29.582Z
+http,51.68.102.5,3128,http://51.68.102.5:3128,anonymous,true,552,548.5,93.7,89.6,404,51.255.70.152,1,fr,Hauts-de-France,Roubaix,Europe/Paris,16276,OVH SAS,16,2026-11-12T20:42:26.452Z,2026-11-28T21:19:11.016Z
+http,173.212.207.102,1214,http://173.212.207.102:1214,elite,true,649,641.5,76.1,82.9,630,173.212.207.102,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,15,2026-11-24T08:07:27.226Z,2026-11-28T21:27:19.054Z
+http,51.159.28.39,80,http://51.159.28.39:80,elite,false,6520,3775,85.3,77.8,931,51.159.28.39,1,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,11,2025-09-10T19:34:30.596Z,2026-11-28T21:25:02.164Z
+http,188.165.199.207,80,http://188.165.199.207:80,elite,false,7903,4184.5,84.5,76,948,188.165.199.207,1,fr,Hauts-de-France,Roubaix,Europe/Paris,16276,OVH SAS,1,2026-03-17T17:23:32.315Z,2026-11-28T21:27:32.893Z
+http,31.220.78.244,80,http://31.220.78.244:80,elite,false,8254,4351,67.2,71.1,880,31.220.78.244,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-09-10T21:05:05.683Z,2026-11-28T21:26:19.857Z
+http,207.180.254.198,8080,http://207.180.254.198:8080,elite,false,5248,6181,59.8,70.8,945,207.180.254.198,1,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,19,2025-11-06T15:39:17.050Z,2026-11-28T21:22:06.326Z
+http,16.18.22.211,4000,http://16.18.22.211:4000,elite,false,1325,2800.5,63.8,62.8,969,178.20.55.16,1,fr,Île-de-France,Paris,Europe/Paris,29075,IELO Main Network,3,2026-09-19T00:35:27.866Z,2026-11-28T21:26:49.703Z
+socks4,95.178.108.189,5678,socks4://95.178.108.189:5678,elite,false,580,571.5,64.2,62.1,936,95.178.108.189,1,fr,Auvergne-Rhône-Alpes,Tassin-la-Demi-Lune,Europe/Paris,200780,Eurofiber France SAS,23,2025-09-04T23:02:38.074Z,2026-11-28T21:22:31.180Z

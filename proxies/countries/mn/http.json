@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "119.40.98.29",
+    "port": 20,
+    "url": "http://119.40.98.29:20",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 6277,
+    "latency_median_ms": 3606,
+    "uptime_24h": 41.3,
+    "uptime_7d": 42.9,
+    "checks_7d": 175,
+    "exit_ip": "119.40.98.34",
+    "exit_shared": 1,
+    "country": "mn",
+    "region": "Ulaanbaatar",
+    "city": "Ulan Bator",
+    "timezone": "Asia/Ulaanbaatar",
+    "asn": 10109,
+    "asn_org": "Topica LLC, Internet Service Provider,Ulaanbaatar, Mongolia",
+    "sources_count": 8,
+    "first_seen": "2025-09-08T03:28:23.685Z",
+    "last_checked": "2026-11-28T21:27:13.786Z"
+  }
+]

@@ -1,0 +1,6 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,176.111.37.5,39811,http://176.111.37.5:39811,anonymous,true,549,622.5,100,99.9,1000,176.111.37.5,1,se,Stockholm,Stockholm,Europe/Stockholm,214743,Cogento Backbone Limited,16,2026-05-18T15:42:53.068Z,2026-11-28T21:20:16.760Z
+socks5,171.25.158.95,1080,socks5://171.25.158.95:1080,elite,true,1907,4421.5,90.1,93.9,992,171.25.158.95,1,se,Kronoberg,Växjö,Europe/Stockholm,35100,Patrik Lagerman,20,2026-05-02T10:06:59.800Z,2026-11-28T21:24:25.891Z
+http,178.253.55.228,80,http://178.253.55.228:80,elite,false,976,1005.5,95.8,93,986,104.22.219.92,1,se,Stockholm,Stockholm,Europe/Stockholm,13335,"Cloudflare, Inc.",2,2026-09-15T22:15:47.054Z,2026-11-28T21:21:25.938Z
+socks4,188.150.229.60,5678,socks4://188.150.229.60:5678,elite,true,1622,588.5,83.9,89.2,994,188.150.229.60,1,se,Stockholm,Kista,Europe/Stockholm,1257,Tele2 Sverige AB,10,2026-03-19T00:40:14.786Z,2026-11-28T21:24:07.150Z
+socks5,49.13.22.249,10802,socks5://49.13.22.249:10802,elite,true,3404,2979.5,48.8,52.6,765,85.203.44.29,1,se,Stockholm,Stockholm,Europe/Stockholm,42708,Glesys Sweden AB,19,2026-09-16T03:18:05.440Z,2026-11-28T21:24:34.470Z

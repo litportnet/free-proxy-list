@@ -1,0 +1,4 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,119.93.123.229,4145,socks4://119.93.123.229:4145,elite,false,1190,1705.5,67.4,68.4,977,119.93.123.229,1,ph,Central Luzon,Mabalacat City,Asia/Manila,9299,Philippine Long Distance Telephone Company,13,2025-09-04T23:49:04.477Z,2026-11-28T21:20:27.484Z
+socks4,124.105.55.176,30906,socks4://124.105.55.176:30906,elite,true,1148,1148,64.8,62.2,975,124.105.55.176,1,ph,National Capital Region,Pasay,Asia/Manila,9299,Philippine Long Distance Telephone Company,14,2025-09-04T23:49:04.227Z,2026-11-28T21:22:44.663Z
+socks4,115.147.47.214,1080,socks4://115.147.47.214:1080,elite,true,1150,4141.5,44,52.9,484,115.147.47.214,1,ph,Calabarzon,Antipolo,Asia/Manila,9299,Philippine Long Distance Telephone Company,14,2026-11-25T08:20:11.442Z,2026-11-28T21:18:12.065Z

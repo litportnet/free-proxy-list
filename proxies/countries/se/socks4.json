@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks4",
+    "ip": "188.150.229.60",
+    "port": 5678,
+    "url": "socks4://188.150.229.60:5678",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 1622,
+    "latency_median_ms": 588.5,
+    "uptime_24h": 83.9,
+    "uptime_7d": 89.2,
+    "checks_7d": 994,
+    "exit_ip": "188.150.229.60",
+    "exit_shared": 1,
+    "country": "se",
+    "region": "Stockholm",
+    "city": "Kista",
+    "timezone": "Europe/Stockholm",
+    "asn": 1257,
+    "asn_org": "Tele2 Sverige AB",
+    "sources_count": 10,
+    "first_seen": "2026-03-19T00:40:14.786Z",
+    "last_checked": "2026-11-28T21:24:07.150Z"
+  }
+]

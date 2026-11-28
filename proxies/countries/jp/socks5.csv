@@ -1,0 +1,7 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,103.13.19.219,10808,socks5://103.13.19.219:10808,elite,true,874,912,100,96.6,996,103.13.19.219,2,jp,Tokyo,Tokyo,Asia/Tokyo,39600,BUNNY TECHNOLOGY LLC,14,2026-11-10T23:18:31.110Z,2026-11-28T21:27:10.040Z
+socks5,101.36.104.239,10808,socks5://101.36.104.239:10808,elite,true,894,1956,82.4,89.1,997,101.36.104.239,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-03-21T08:09:48.039Z,2026-11-28T21:22:29.065Z
+socks5,101.36.104.46,10808,socks5://101.36.104.46:10808,elite,true,1096,1425.5,84.5,87.6,994,101.36.104.46,1,jp,Tokyo,Tokyo,Asia/Tokyo,135377,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,19,2026-03-22T05:21:02.311Z,2026-11-28T21:23:49.965Z
+socks5,158.101.152.7,7890,socks5://158.101.152.7:7890,elite,true,1780,1499,83.8,83.8,99,158.101.152.7,1,jp,Tokyo,Tokyo,Asia/Tokyo,31898,Oracle Corporation,14,2026-11-28T04:56:19.785Z,2026-11-28T21:20:14.114Z
+socks5,43.167.209.118,2290,socks5://43.167.209.118:2290,elite,false,897,874.5,79.4,80.7,186,43.167.209.118,1,jp,Tokyo,Tokyo,Asia/Tokyo,132203,"Tencent Building, Kejizhongyi Avenue",14,2026-11-27T13:48:20.198Z,2026-11-28T21:21:24.840Z
+socks5,111.119.162.248,10935,socks5://111.119.162.248:10935,elite,true,1384,2961,35.9,44.5,272,8.216.119.64,3,jp,Tokyo,Tokyo,Asia/Tokyo,45102,"Alibaba (US) Technology Co., Ltd.",20,2026-08-18T11:26:30.626Z,2026-11-28T21:21:40.934Z

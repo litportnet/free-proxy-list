@@ -1,0 +1,3 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks5,82.180.146.251,10800,socks5://82.180.146.251:10800,elite,true,1831,2849.5,92.9,94.6,988,82.180.146.251,1,in,Maharashtra,Mumbai,Asia/Kolkata,141995,Contabo Asia Private Limited,15,2026-10-26T19:06:43.996Z,2026-11-28T21:23:07.093Z
+socks5,163.53.204.178,9813,socks5://163.53.204.178:9813,elite,false,2541,3670,37.7,34.2,769,163.53.204.178,1,in,Tamil Nadu,Krishnagiri,Asia/Kolkata,58898,Rainbow communications India Pvt Ltd,22,2025-09-04T23:48:59.294Z,2026-11-28T21:24:35.525Z

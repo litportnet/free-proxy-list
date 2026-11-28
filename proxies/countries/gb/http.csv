@@ -1,0 +1,5 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,79.137.192.114,80,http://79.137.192.114:80,elite,false,979,948,97.9,97.2,1003,172.64.192.10,1,gb,England,London,Europe/London,13335,"Cloudflare, Inc.",2,2026-09-21T12:07:00.964Z,2026-11-28T21:18:34.483Z
+http,198.244.254.77,3128,http://198.244.254.77:3128,transparent,true,5611,3405,72.3,80.7,968,198.244.254.77,1,gb,England,London,Europe/London,16276,OVH SAS,22,2026-03-12T10:16:41.859Z,2026-11-28T21:21:51.714Z
+http,34.105.252.3,3128,http://34.105.252.3:3128,anonymous,true,430,403,58.4,47.7,916,34.105.164.240,1,gb,England,London,Europe/London,396982,Google LLC,17,2026-10-09T17:31:07.709Z,2026-11-28T21:20:02.825Z
+http,81.168.119.85,443,http://81.168.119.85:443,elite,true,2451,3650.5,26.5,20.6,345,81.168.119.85,2,gb,England,Maidenhead,Europe/London,20860,IOMART CLOUD SERVICES LIMITED,14,2026-05-21T10:22:05.335Z,2026-11-28T21:23:57.960Z

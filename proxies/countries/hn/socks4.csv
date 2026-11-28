@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+socks4,45.190.13.12,1080,socks4://45.190.13.12:1080,elite,false,444,956,55.4,56,952,45.190.13.194,1,hn,Cortés Department,Puerto Cortez,America/Tegucigalpa,269934,AIR NETWORK S. DE R. L. DE C.V.,14,2026-11-17T15:42:58.923Z,2026-11-28T21:24:53.660Z
