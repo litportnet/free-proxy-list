@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,186.73.227.202,999,http://186.73.227.202:999,anonymous,true,905,3505,25.3,24.7,393,201.224.117.14,1,pa,Panamá,Juan Díaz,America/Panama,11556,Cable & Wireless Panama,26,2026-07-25T04:59:53.045Z,2026-11-27T04:30:04.415Z

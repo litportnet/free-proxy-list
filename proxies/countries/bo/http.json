@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "200.58.180.75",
+    "port": 999,
+    "url": "http://200.58.180.75:999",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 4176,
+    "latency_median_ms": 5231.5,
+    "uptime_24h": 18.5,
+    "uptime_7d": 15.1,
+    "checks_7d": 319,
+    "exit_ip": "190.186.81.63",
+    "exit_shared": 1,
+    "country": "bo",
+    "region": "Santa Cruz Department",
+    "city": "Santa Cruz de la Sierra",
+    "timezone": "America/La_Paz",
+    "asn": 25620,
+    "asn_org": "COTAS LTDA.",
+    "sources_count": 18,
+    "first_seen": "2026-10-19T10:33:51.677Z",
+    "last_checked": "2026-11-28T04:26:48.760Z"
+  }
+]

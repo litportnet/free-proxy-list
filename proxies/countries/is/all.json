@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "23.132.28.60",
+    "port": 3128,
+    "url": "http://23.132.28.60:3128",
+    "anonymity": "elite",
+    "https": false,
+    "latency_ms": 1244,
+    "latency_median_ms": 2494,
+    "uptime_24h": 13,
+    "uptime_7d": 15.4,
+    "checks_7d": 234,
+    "exit_ip": "82.221.131.5",
+    "exit_shared": 1,
+    "country": "is",
+    "region": "Capital Region",
+    "city": "Reykjavík",
+    "timezone": "Atlantic/Reykjavik",
+    "asn": 50613,
+    "asn_org": "Advania Island ehf",
+    "sources_count": 13,
+    "first_seen": "2026-11-23T00:50:58.378Z",
+    "last_checked": "2026-11-28T04:30:16.800Z"
+  }
+]

@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,150.140.148.235,80,http://150.140.148.235:80,elite,false,3861,3300.5,69.3,66.5,956,150.140.148.235,1,gr,West Greece,Pátra,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-11-27T04:31:26.351Z
-http,194.177.207.44,3128,http://194.177.207.44:3128,anonymous,true,659,8181.5,16.7,7.8,103,194.177.207.44,1,gr,Central Macedonia,Thessaloníki,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,13,2026-04-12T11:53:18.707Z,2026-11-27T04:31:52.061Z
+http,150.140.148.235,80,http://150.140.148.235:80,elite,false,2491,2210,72.3,66.7,957,150.140.148.235,1,gr,West Greece,Pátra,Europe/Athens,5408,National Infrastructures for Research and Technology S.A.,18,2026-07-09T22:46:02.146Z,2026-11-28T04:29:28.617Z

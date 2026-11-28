@@ -1,0 +1,2 @@
+protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
+http,89.135.59.77,8090,http://89.135.59.77:8090,anonymous,false,3486,4737,7.7,9.6,187,89.135.59.71,1,hu,Budapest,Budapest,Europe/Budapest,21334,2Connect Telecommunications Infrastructure & Network Services Ltd.,24,2026-06-08T23:07:02.051Z,2026-11-28T04:27:56.174Z

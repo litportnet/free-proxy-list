@@ -1,8 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,49.13.22.249,10805,socks5://49.13.22.249:10805,elite,true,1080,1224.5,57.3,66.4,813,185.244.213.97,1,fr,Île-de-France,Saint-Denis,Europe/Paris,9009,M247 Europe SRL,19,2026-09-20T18:57:39.355Z,2026-11-27T04:29:56.600Z
-socks5,88.198.69.51,1080,socks5://88.198.69.51:1080,elite,true,883,855,41.7,29.4,201,178.94.161.58,1,fr,Île-de-France,Paris,Europe/Paris,212238,Datacamp Limited,13,2026-11-15T00:09:27.498Z,2026-11-27T04:28:51.114Z
-socks5,45.74.31.42,4211,socks5://45.74.31.42:4211,elite,false,4303,2547.5,65.2,20.5,122,62.210.185.4,2,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,16,2026-09-11T01:56:09.119Z,2026-11-27T04:32:31.722Z
-socks5,45.74.31.46,5926,socks5://45.74.31.46:5926,elite,false,7071,4478.5,21.4,12.6,143,164.68.100.166,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,12,2026-10-31T05:02:26.990Z,2026-11-27T04:25:32.672Z
-socks5,45.74.31.47,20392,socks5://45.74.31.47:20392,elite,false,1534,3977,36.8,12.5,128,164.68.100.166,2,fr,Grand Est,Lauterbourg,Europe/Paris,51167,Contabo GmbH,11,2026-11-16T20:32:55.521Z,2026-11-27T04:23:17.267Z
-socks5,45.74.31.42,5118,socks5://45.74.31.42:5118,elite,false,1638,2888,31.8,10.6,94,91.134.248.230,1,fr,Hauts-de-France,Gravelines,Europe/Paris,16276,OVH SAS,12,2026-10-09T04:24:14.103Z,2026-11-27T04:23:51.267Z
-socks5,45.74.31.46,4582,socks5://45.74.31.46:4582,elite,false,2273,3365,40,,33,62.210.185.4,2,fr,Île-de-France,Paris,Europe/Paris,12876,Scaleway SAS,14,2026-10-14T07:28:57.155Z,2026-11-27T04:27:34.987Z

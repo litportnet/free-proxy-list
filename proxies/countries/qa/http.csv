@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,176.202.184.21,8080,http://176.202.184.21:8080,anonymous,false,1337,4346,22.4,26.6,621,176.202.184.21,1,qa,Baladiyat ad Dawhah,Doha,Asia/Qatar,8781,Ooredoo Q.S.C.,18,2026-11-19T04:01:59.702Z,2026-11-27T04:25:25.249Z

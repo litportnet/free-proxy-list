@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "socks5",
+    "ip": "88.198.69.51",
+    "port": 1100,
+    "url": "socks5://88.198.69.51:1100",
+    "anonymity": "elite",
+    "https": true,
+    "latency_ms": 3230,
+    "latency_median_ms": 3255,
+    "uptime_24h": 39.1,
+    "uptime_7d": 36.2,
+    "checks_7d": 345,
+    "exit_ip": "154.70.153.196",
+    "exit_shared": 1,
+    "country": "za",
+    "region": "Gauteng",
+    "city": "Johannesburg",
+    "timezone": "Africa/Johannesburg",
+    "asn": 212238,
+    "asn_org": "Datacamp Limited",
+    "sources_count": 15,
+    "first_seen": "2026-11-16T05:24:54.682Z",
+    "last_checked": "2026-11-28T04:20:03.213Z"
+  }
+]

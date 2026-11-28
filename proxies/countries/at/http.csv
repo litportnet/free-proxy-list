@@ -1,3 +1,2 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,527,547.5,100,99.8,1006,141.101.105.187,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-27T04:31:37.885Z
-http,90.146.196.18,8080,http://90.146.196.18:8080,elite,false,4665,4715,24.5,19.7,467,90.146.196.18,1,at,Upper Austria,Bergern,Europe/Vienna,12605,LIWEST Kabelmedien GmbH,25,2026-08-30T01:54:55.486Z,2026-11-27T04:22:43.330Z
+http,141.101.90.109,80,http://141.101.90.109:80,transparent,false,533,543.5,100,100,1007,141.101.105.187,1,at,Vienna,Vienna,Europe/Vienna,13335,"Cloudflare, Inc.",6,2025-09-27T16:47:38.828Z,2026-11-28T04:24:48.513Z

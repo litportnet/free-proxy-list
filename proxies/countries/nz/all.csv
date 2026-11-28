@@ -1,3 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,218.100.23.130,8080,http://218.100.23.130:8080,anonymous,true,1430,2680,38.9,29.3,621,218.100.23.130,1,nz,Wellington Region,Wellington,Pacific/Auckland,132040,Vital Data Ltd,20,2026-09-27T06:00:26.030Z,2026-11-27T04:25:22.606Z
-socks5,202.74.203.17,1080,socks5://202.74.203.17:1080,elite,false,1485,2509,23.2,20.6,407,202.74.203.17,1,nz,Auckland,Auckland,Pacific/Auckland,45177,Devoli,19,2026-06-17T22:04:03.726Z,2026-11-27T04:32:55.695Z

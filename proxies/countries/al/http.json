@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "185.196.182.29",
+    "port": 8080,
+    "url": "http://185.196.182.29:8080",
+    "anonymity": "anonymous",
+    "https": true,
+    "latency_ms": 7947,
+    "latency_median_ms": 1522,
+    "uptime_24h": 27.6,
+    "uptime_7d": 29.9,
+    "checks_7d": 603,
+    "exit_ip": "185.196.182.22",
+    "exit_shared": 1,
+    "country": "al",
+    "region": "Kukës County",
+    "city": "Kukës",
+    "timezone": "Europe/Tirane",
+    "asn": 206088,
+    "asn_org": "shqiponjaisp.al LLC",
+    "sources_count": 20,
+    "first_seen": "2026-10-01T11:53:48.940Z",
+    "last_checked": "2026-11-28T04:24:50.082Z"
+  }
+]

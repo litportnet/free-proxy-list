@@ -6,11 +6,11 @@
     "url": "socks4://154.18.220.190:5678",
     "anonymity": "elite",
     "https": false,
-    "latency_ms": 1258,
-    "latency_median_ms": 1597,
-    "uptime_24h": 69.6,
-    "uptime_7d": 64,
-    "checks_7d": 925,
+    "latency_ms": 1249,
+    "latency_median_ms": 1310,
+    "uptime_24h": 59.1,
+    "uptime_7d": 63.3,
+    "checks_7d": 906,
     "exit_ip": "154.18.220.190",
     "exit_shared": 1,
     "country": "mm",
@@ -21,6 +21,6 @@
     "asn_org": "Global Technology",
     "sources_count": 10,
     "first_seen": "2025-11-01T10:33:30.995Z",
-    "last_checked": "2026-11-27T04:29:38.397Z"
+    "last_checked": "2026-11-28T04:23:01.853Z"
   }
 ]

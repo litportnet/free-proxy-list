@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,40.177.65.8,80,http://40.177.65.8:80,elite,false,310,302.5,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-27T04:29:37.371Z
-http,70.38.101.182,40000,http://70.38.101.182:40000,elite,true,304,277,68.1,69.5,727,104.28.246.50,4,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",9,2026-11-20T22:24:26.050Z,2026-11-27T04:25:48.941Z
-http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,4821,4964.5,72.1,65.8,926,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-27T04:28:35.377Z
-http,184.70.113.34,3128,http://184.70.113.34:3128,anonymous,false,7550,5047,40.5,31.7,710,184.70.113.34,1,ca,Alberta,Okotoks,America/Edmonton,6327,Shaw Communications,23,2026-08-05T05:21:13.994Z,2026-11-27T04:27:12.384Z
-http,23.132.28.60,3128,http://23.132.28.60:3128,elite,false,3833,1440,23.7,16.4,189,198.96.155.3,1,ca,Ontario,Toronto,America/Toronto,12093,University of Waterloo,13,2026-11-23T00:50:58.378Z,2026-11-27T04:33:32.736Z
+http,40.177.65.8,80,http://40.177.65.8:80,elite,false,273,295,100,100,1011,172.69.156.222,1,ca,Alberta,Calgary,America/Edmonton,13335,"Cloudflare, Inc.",6,2025-09-04T23:49:51.204Z,2026-11-28T04:29:31.774Z
+http,70.38.101.182,40000,http://70.38.101.182:40000,elite,false,210,428,58.9,67.9,866,104.28.246.50,1,ca,Quebec,Montréal,America/Toronto,13335,"Cloudflare, Inc.",9,2026-11-20T22:24:26.050Z,2026-11-28T04:29:13.370Z
+http,148.113.202.99,3128,http://148.113.202.99:3128,anonymous,false,1130,1220,65.4,67.9,958,148.113.202.99,1,ca,Quebec,Beauharnois,America/Toronto,16276,OVH SAS,14,2026-07-06T09:10:05.787Z,2026-11-28T04:28:08.811Z
+http,173.181.142.228,80,http://173.181.142.228:80,elite,false,8622,6691,38.8,39,731,173.181.142.228,1,ca,Alberta,Calgary,America/Edmonton,852,TELUS Communications Inc.,3,2025-09-10T20:05:19.119Z,2026-11-28T04:29:10.734Z

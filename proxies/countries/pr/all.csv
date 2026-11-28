@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks4,172.99.187.33,4145,socks4://172.99.187.33:4145,elite,false,1380,1407,36,36.4,830,172.99.184.65,1,pr,San Juan,San Juan,America/Puerto_Rico,396899,Natural G.C. Inc.,14,2025-09-04T23:49:03.873Z,2026-11-27T04:31:03.871Z
-http,192.203.0.198,999,http://192.203.0.198:999,anonymous,true,1728,2879,46.6,32.4,680,192.203.0.198,1,pr,Naguabo,Naguabo,America/Puerto_Rico,63393,BOOM NET,19,2026-09-27T11:03:02.753Z,2026-11-27T04:25:24.704Z
-http,192.203.0.118,999,http://192.203.0.118:999,anonymous,false,2746,3511,31.5,24.4,423,192.203.0.118,1,pr,San Juan,San Juan,America/Puerto_Rico,63393,BOOM NET,26,2025-09-06T13:38:12.247Z,2026-11-27T04:24:53.005Z
+socks4,67.206.213.202,55555,socks4://67.206.213.202:55555,elite,true,410,449.5,59.1,68,968,67.206.213.202,1,pr,Mayagüez,Mayagüez,America/Puerto_Rico,11992,Liberty Mobile Puerto Rico Inc.,13,2025-09-04T23:49:14.427Z,2026-11-28T04:25:03.208Z
+http,154.64.211.145,999,http://154.64.211.145:999,anonymous,false,2708,2859.5,23.8,30.1,614,198.52.241.102,1,pr,Humacao,Humacao,America/Puerto_Rico,21559,OSNET,15,2025-09-05T20:06:35.987Z,2026-11-28T04:20:37.566Z
+http,23.138.88.96,999,http://23.138.88.96:999,anonymous,false,6006,3569.5,21.8,23.7,520,23.138.88.97,1,pr,Adjuntas,Adjuntas,America/Puerto_Rico,400354,ALPHANET CORP,21,2025-09-05T20:06:26.778Z,2026-11-28T04:27:48.875Z

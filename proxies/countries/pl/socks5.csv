@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,45.144.49.64,5443,socks5://45.144.49.64:5443,elite,true,747,726,52.7,55,400,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,14,2026-11-24T05:05:52.540Z,2026-11-27T04:25:25.243Z

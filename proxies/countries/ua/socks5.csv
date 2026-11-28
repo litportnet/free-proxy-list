@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,46.174.120.163,8090,socks5://46.174.120.163:8090,elite,true,776,1290.5,46.6,52.7,941,46.174.120.163,1,ua,Zhytomyr Oblast,Ovruch,Europe/Kyiv,3255,UARNet-Eksintech,15,2026-11-16T15:30:13.921Z,2026-11-27T04:24:20.805Z

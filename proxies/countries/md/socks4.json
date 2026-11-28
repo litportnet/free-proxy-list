@@ -6,10 +6,10 @@
     "url": "socks4://46.55.3.113:4145",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 4824,
-    "latency_median_ms": 2046,
-    "uptime_24h": 73.1,
-    "uptime_7d": 71,
+    "latency_ms": 1794,
+    "latency_median_ms": 784,
+    "uptime_24h": 63.8,
+    "uptime_7d": 71.2,
     "checks_7d": 971,
     "exit_ip": "46.55.3.113",
     "exit_shared": 1,
@@ -21,6 +21,6 @@
     "asn_org": "Moldtelecom SA",
     "sources_count": 19,
     "first_seen": "2026-07-05T09:46:45.288Z",
-    "last_checked": "2026-11-27T04:27:40.760Z"
+    "last_checked": "2026-11-28T04:28:52.201Z"
   }
 ]

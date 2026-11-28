@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,203.150.171.129,1080,socks5://203.150.171.129:1080,elite,true,1673,1567,88.2,,17,203.150.171.129,2,th,Bangkok,Bangkok,Asia/Bangkok,4618,Internet Thailand Company Limited,9,2026-11-27T01:41:57.457Z,2026-11-27T04:24:13.963Z

@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,780,751,96.5,94.2,1001,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-27T04:30:34.033Z
-http,34.81.160.132,80,http://34.81.160.132:80,elite,false,768,763,85.2,81.3,983,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-27T04:25:18.422Z
-http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,2533,1821.5,87.2,74.2,974,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-27T04:26:03.031Z
-http,114.34.145.135,8080,http://114.34.145.135:8080,anonymous,false,2804,2927,38.2,27.5,691,114.34.145.135,1,tw,Taiwan,Taoyuan,Asia/Taipei,3462,Data Communication Business Group,19,2026-11-08T22:52:53.517Z,2026-11-27T04:26:27.167Z
-http,103.136.250.154,8080,http://103.136.250.154:8080,elite,false,4148,4238.5,23.5,26.9,514,103.136.250.154,1,tw,Taiwan,Taipei,Asia/Taipei,138915,Kaopu Cloud HK Limited,17,2026-11-12T04:33:49.704Z,2026-11-27T04:23:31.080Z
+http,122.116.125.115,8888,http://122.116.125.115:8888,elite,false,786,748,91.7,93.4,1000,122.116.125.115,1,tw,Taiwan,Taipei,Asia/Taipei,3462,Data Communication Business Group,8,2025-09-10T21:05:11.487Z,2026-11-28T04:28:11.469Z
+http,182.155.254.159,80,http://182.155.254.159:80,elite,false,669,670,89.9,91.5,962,182.155.254.159,1,tw,Taiwan,Taichung,Asia/Taipei,17809,VEE TIME CORP.,9,2025-09-10T23:05:32.482Z,2026-11-28T04:28:23.017Z
+http,34.81.160.132,80,http://34.81.160.132:80,elite,false,1948,1633,85.5,80.6,978,34.81.160.132,1,tw,Taiwan,Taipei,Asia/Taipei,396982,Google LLC,18,2025-09-10T19:35:10.419Z,2026-11-28T04:24:44.786Z
+http,164.52.11.194,18080,http://164.52.11.194:18080,elite,false,3360,3518,79.3,75.6,977,164.52.11.194,1,tw,Taiwan,Taipei,Asia/Taipei,63199,"CDS Global Cloud Co., Ltd",18,2026-07-08T04:22:19.839Z,2026-11-28T04:29:17.025Z

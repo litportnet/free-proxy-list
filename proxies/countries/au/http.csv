@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,880,874.5,100,100,1007,108.162.249.88,3,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-27T04:24:13.437Z
-http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,906,856,100,100,1005,108.162.249.88,3,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-27T04:29:12.424Z
-http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,905,866,100,99.9,1006,108.162.249.88,3,au,New South Wales,Sydney,Australia/Sydney,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-27T04:31:31.032Z
-http,210.8.69.103,808,http://210.8.69.103:808,elite,true,1367,2074.5,97.7,97.7,130,210.8.69.103,1,au,South Australia,Adelaide,Australia/Adelaide,7600,Escape.net,16,2026-11-26T06:31:53.186Z,2026-11-27T04:25:47.360Z
-http,134.199.160.93,8888,http://134.199.160.93:8888,elite,true,786,801.5,56.4,54.6,935,134.199.160.93,1,au,New South Wales,Sydney,Australia/Sydney,14061,"DigitalOcean, LLC",17,2026-11-19T04:02:01.208Z,2026-11-27T04:32:42.158Z
+http,172.65.90.2,80,http://172.65.90.2:80,transparent,false,874,856.5,100,100,1005,162.158.2.122,3,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:07.571Z,2026-11-28T04:28:35.724Z
+http,172.65.90.3,80,http://172.65.90.3:80,transparent,false,879,870.5,100,100,1007,162.158.2.122,3,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.059Z,2026-11-28T04:20:44.473Z
+http,172.65.90.0,80,http://172.65.90.0:80,transparent,false,846,839,100,99.9,1006,162.158.2.122,3,au,Victoria,Melbourne,Australia/Melbourne,13335,"Cloudflare, Inc.",6,2025-09-04T23:50:05.119Z,2026-11-28T04:22:52.431Z
+http,210.8.69.103,808,http://210.8.69.103:808,elite,true,1663,1738.5,97.2,97.4,271,210.8.69.103,1,au,South Australia,Adelaide,Australia/Adelaide,7600,Escape.net,16,2026-11-26T06:31:53.186Z,2026-11-28T04:23:40.496Z

@@ -1,4 +1,7 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,1140,1136,100,97,1000,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-27T04:30:28.284Z
-socks5,59.11.209.162,1080,socks5://59.11.209.162:1080,elite,true,1174,1178.5,95.8,96.6,557,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,14,2026-05-30T23:12:26.616Z,2026-11-27T04:28:30.975Z
-socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,false,5295,3357.5,37.1,36.8,836,104.28.211.31,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T13:34:09.638Z,2026-11-27T04:32:15.573Z
+socks5,183.106.215.208,1080,socks5://183.106.215.208:1080,elite,true,2076,1162,99.3,97.8,998,59.24.42.101,2,kr,Gyeongsangbuk-do,Gyeongju,Asia/Seoul,4766,Korea Telecom,16,2026-10-05T02:32:54.806Z,2026-11-28T04:22:33.023Z
+socks5,59.11.209.162,1080,socks5://59.11.209.162:1080,elite,true,1302,1176,88.8,95.1,698,59.11.209.162,2,kr,Gyeonggi-do,Suwon,Asia/Seoul,4766,Korea Telecom,14,2026-05-30T23:12:26.616Z,2026-11-28T04:25:47.762Z
+socks5,43.108.84.178,1080,socks5://43.108.84.178:1080,elite,false,1930,1897,78.6,86,308,43.108.84.178,1,kr,Seoul,Seoul,Asia/Seoul,45102,"Alibaba (US) Technology Co., Ltd.",13,2026-11-25T21:27:07.293Z,2026-11-28T04:28:51.157Z
+socks5,43.155.143.227,1080,socks5://43.155.143.227:1080,elite,true,2519,1892.5,76.8,79.5,589,43.155.143.227,1,kr,Seoul,Seoul,Asia/Seoul,132203,"Tencent Building, Kejizhongyi Avenue",16,2026-09-24T19:29:29.857Z,2026-11-28T04:27:05.417Z
+socks5,121.169.46.116,1090,socks5://121.169.46.116:1090,elite,true,1104,1161.5,59.1,61.7,954,121.169.46.116,1,kr,Gyeonggi-do,Haegok,Asia/Seoul,4766,Korea Telecom,23,2025-09-04T23:50:06.749Z,2026-11-28T04:20:22.788Z
+socks5,152.70.237.238,3128,socks5://152.70.237.238:3128,elite,true,1000,2148.5,34.7,36.8,835,104.28.243.32,1,kr,Seoul,Seoul,Asia/Seoul,13335,"Cloudflare, Inc.",20,2026-03-18T13:34:09.638Z,2026-11-28T04:22:07.364Z

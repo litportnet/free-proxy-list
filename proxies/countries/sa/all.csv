@@ -1,4 +1,4 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,172.65.90.47,80,http://172.65.90.47:80,transparent,false,677,746.5,100,100,1006,172.69.103.148,1,sa,Mecca Region,Jeddah,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-14T23:38:12.602Z,2026-11-27T04:23:39.534Z
-http,172.65.90.46,80,http://172.65.90.46:80,transparent,false,722,727,100,100,1004,172.70.203.138,1,sa,Mecca Region,Jeddah,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-15T04:33:23.028Z,2026-11-27T04:27:20.289Z
-http,130.110.103.245,3128,http://130.110.103.245:3128,anonymous,true,844,864,95.1,98.3,1001,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,22,2026-08-06T11:36:30.247Z,2026-11-27T04:29:13.971Z
+http,172.65.90.47,80,http://172.65.90.47:80,transparent,false,767,731,100,100,1006,172.70.156.158,2,sa,Riyadh Region,Riyadh,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-14T23:38:12.602Z,2026-11-28T04:21:33.036Z
+http,172.65.90.46,80,http://172.65.90.46:80,transparent,false,773,742,100,100,1005,172.70.156.158,2,sa,Riyadh Region,Riyadh,Asia/Riyadh,13335,"Cloudflare, Inc.",6,2025-10-15T04:33:23.028Z,2026-11-28T04:22:49.833Z
+http,130.110.103.245,3128,http://130.110.103.245:3128,anonymous,true,800,784,99.3,98.2,1002,130.110.103.245,1,sa,Mecca Region,Jeddah,Asia/Riyadh,31898,Oracle Corporation,22,2026-08-06T11:36:30.247Z,2026-11-28T04:22:10.559Z

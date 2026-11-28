@@ -1,6 +1,5 @@
 protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,536,544.5,100,99.8,1008,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-27T04:27:14.524Z
-http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,550,543,100,99.8,1009,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-27T04:24:48.273Z
-http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,568,550,98.6,99.3,1005,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-27T04:24:34.988Z
-http,45.144.49.64,5443,http://45.144.49.64:5443,elite,true,575,711.5,49.6,52.1,401,45.144.49.64,3,pl,Mazovia,Warsaw,Europe/Warsaw,49791,Newserverlife LLC,13,2026-11-24T06:06:15.644Z,2026-11-27T04:26:39.252Z
-http,80.51.61.1,8080,http://80.51.61.1:8080,anonymous,false,3695,3805.5,10.7,17.1,363,195.117.211.22,1,pl,Mazovia,Warsaw,Europe/Warsaw,5617,Orange Polska Spolka Akcyjna,21,2026-06-03T04:56:56.768Z,2026-11-27T04:30:10.619Z
+http,79.110.192.44,8081,http://79.110.192.44:8081,elite,false,502,533,100,99.9,1008,79.110.192.44,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2026-06-06T07:33:23.738Z,2026-11-28T04:23:22.266Z
+http,141.101.90.106,80,http://141.101.90.106:80,transparent,false,538,539,100,99.9,1006,162.158.102.184,1,pl,Mazovia,Warsaw,Europe/Warsaw,13335,"Cloudflare, Inc.",6,2025-09-27T18:23:26.219Z,2026-11-28T04:26:04.115Z
+http,185.49.31.205,8080,http://185.49.31.205:8080,elite,false,556,533.5,100,99.8,1007,185.49.31.205,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,7,2025-10-28T00:37:31.039Z,2026-11-28T04:21:53.627Z
+http,83.168.74.163,8080,http://83.168.74.163:8080,elite,false,591,552.5,100,99.3,1004,83.168.74.163,1,pl,Lower Silesia,Wrocław,Europe/Warsaw,35179,Korbank S. A.,8,2025-09-10T19:34:21.897Z,2026-11-28T04:22:14.104Z

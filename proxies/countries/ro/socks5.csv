@@ -1,2 +1,0 @@
-protocol,ip,port,url,anonymity,https,latency_ms,latency_median_ms,uptime_24h,uptime_7d,checks_7d,exit_ip,exit_shared,country,region,city,timezone,asn,asn_org,sources_count,first_seen,last_checked
-socks5,93.100.74.173,8088,socks5://93.100.74.173:8088,elite,false,961,981,38.5,35.5,733,217.156.108.82,1,ro,Tulcea County,Tulcea,Europe/Bucharest,61002,Smart Solutions & Soft SRL,17,2026-09-30T00:35:17.073Z,2026-11-27T04:24:29.715Z

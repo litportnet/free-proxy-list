@@ -6,13 +6,13 @@
     "url": "socks4://185.247.141.86:1080",
     "anonymity": "elite",
     "https": true,
-    "latency_ms": 648,
-    "latency_median_ms": 779,
-    "uptime_24h": 50,
-    "uptime_7d": 59,
-    "checks_7d": 402,
+    "latency_ms": 1050,
+    "latency_median_ms": 722.5,
+    "uptime_24h": 47.3,
+    "uptime_7d": 56.3,
+    "checks_7d": 513,
     "exit_ip": "185.247.141.86",
-    "exit_shared": 1,
+    "exit_shared": 2,
     "country": "fi",
     "region": "Uusimaa",
     "city": "Helsinki",
@@ -21,6 +21,6 @@
     "asn_org": "Oy Creanova Hosting Solutions Ltd.",
     "sources_count": 10,
     "first_seen": "2026-11-24T04:05:15.194Z",
-    "last_checked": "2026-11-27T04:27:46.076Z"
+    "last_checked": "2026-11-28T04:26:04.673Z"
   }
 ]

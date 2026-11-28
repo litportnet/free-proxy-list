@@ -1,0 +1,26 @@
+[
+  {
+    "protocol": "http",
+    "ip": "89.135.59.77",
+    "port": 8090,
+    "url": "http://89.135.59.77:8090",
+    "anonymity": "anonymous",
+    "https": false,
+    "latency_ms": 3486,
+    "latency_median_ms": 4737,
+    "uptime_24h": 7.7,
+    "uptime_7d": 9.6,
+    "checks_7d": 187,
+    "exit_ip": "89.135.59.71",
+    "exit_shared": 1,
+    "country": "hu",
+    "region": "Budapest",
+    "city": "Budapest",
+    "timezone": "Europe/Budapest",
+    "asn": 21334,
+    "asn_org": "2Connect Telecommunications Infrastructure & Network Services Ltd.",
+    "sources_count": 24,
+    "first_seen": "2026-06-08T23:07:02.051Z",
+    "last_checked": "2026-11-28T04:27:56.174Z"
+  }
+]
